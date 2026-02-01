@@ -27,10 +27,10 @@ Nasra Mohamed Ahmed, a 23-year-old U.S. citizen born in Hennepin County, was det
 4. X Video (Jan 15, 2026): [Video interview with Nasra Ahmed](https://x.com/FurkanGozukara/status/2013229204947554494)
 5. Twin Cities Pioneer Press (Jan 16, 2026): [Family of U.S. citizen detained by ICE in St. Paul seeks her release](https://www.twincities.com/2026/01/16/family-of-u-s-citizen-detained-by-ice-in-st-paul-seeks-her-release/)
 6. Twin Cities Pioneer Press (Jan 17, 2026): [St. Paul woman, U.S. citizen, released from ICE detention after two days](https://www.twincities.com/2026/01/17/st-paul-woman-u-s-citizen-released-from-ice-detention-after-two-days/)
-7. *Update 1:* Twin Cities Pioneer Press (Jan 18, 2026): [St. Paul woman, a U.S. citizen, recounts her two days in detention](https://www.twincities.com/2026/01/18/st-paul-woman-a-u-s-citizen-recounts-her-two-days-in-detention/)
-8. *Update 1:* The Mirror US (Jan 18, 2026): [US citizen scarred and bruised after she was shoved to the ground and detained by ICE for 2 days](https://www.themirror.com/news/us-news/citizen-scarred-bruised-detained-ice-1626179)
-9. *Update 1:* Complex (Jan 18, 2026): [Woman Injured, Detained, and Released by ICE Despite Being U.S. Citizen](https://www.complex.com/life/a/backwoodsaltar/us-citizen-st-paul-woman-nasra-ahmed-detained-by-ice)
-10. *Update 1:* Inquisitr (Jan 18, 2026): [ICE Agents Pulled 23-Year-Old in a Surprise Raid, Then Left Her Scarred and Bruised](https://www.inquisitr.com/ice-agents-pulled-23-year-old-in-a-surprise-raid-then-left-her-scarred-and-bruised-they-had-a-padlock-on-me)
+7. *Update:* Twin Cities Pioneer Press (Jan 18, 2026): [St. Paul woman, a U.S. citizen, recounts her two days in detention](https://www.twincities.com/2026/01/18/st-paul-woman-a-u-s-citizen-recounts-her-two-days-in-detention/)
+8. *Update:* The Mirror US (Jan 18, 2026): [US citizen scarred and bruised after she was shoved to the ground and detained by ICE for 2 days](https://www.themirror.com/news/us-news/citizen-scarred-bruised-detained-ice-1626179)
+9. *Update:* Complex (Jan 18, 2026): [Woman Injured, Detained, and Released by ICE Despite Being U.S. Citizen](https://www.complex.com/life/a/backwoodsaltar/us-citizen-st-paul-woman-nasra-ahmed-detained-by-ice)
+10. *Update:* Inquisitr (Jan 18, 2026): [ICE Agents Pulled 23-Year-Old in a Surprise Raid, Then Left Her Scarred and Bruised](https://www.inquisitr.com/ice-agents-pulled-23-year-old-in-a-surprise-raid-then-left-her-scarred-and-bruised-they-had-a-padlock-on-me)
 
 ## Affected Individual(s)
 - **Name:** Nasra Mohamed Ahmed.

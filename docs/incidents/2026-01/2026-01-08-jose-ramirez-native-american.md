@@ -33,8 +33,8 @@ Jose Roberto "Beto" Ramirez, 20, U.S. citizen and Red Lake Nation descendant, wa
 9. Facebook Video (Jan 8, 2026): [Aunt's Facebook Live of arrest - original audio](https://www.thedailybeast.com/yet-another-ice-nightmare-unfolds-miles-away-from-renee-nicole-good-shooting-in-minnesota/)
 10. X Video (Jan 8, 2026): [X post with arrest footage](https://x.com/LongTimeHistory/status/2009499306676322337)
 11. Star Tribune (Jan 18, 2026): [Allegations of racial profiling of U.S. citizens on the rise as ICE surge expands in Minnesota](https://www.startribune.com/allegations-of-racial-profiling-of-us-citizens-on-the-rise-as-ice-surge-expands-in-minnesota/601564653)
-12. *Update 1:* KAXE (Jan 28, 2026): [Red Lake Nation descendant charged with assaulting ICE agent during detainment](https://www.kaxe.org/minnesota-news/2026-01-28/red-lake-nation-descendant-charged-with-assaulting-ice-agent-during-detainment)
-13. *Update 2:* MPR News (Jan 27, 2026): [Native American legal rights group says Jose Roberto Ramirez retaliated against by ICE](https://www.mprnews.org/story/2026/01/27/native-american-legal-rights-group-says-jose-roberto-ramirez-retaliated-against-by-ice)
+12. *Update:* KAXE (Jan 28, 2026): [Red Lake Nation descendant charged with assaulting ICE agent during detainment](https://www.kaxe.org/minnesota-news/2026-01-28/red-lake-nation-descendant-charged-with-assaulting-ice-agent-during-detainment)
+13. *Update:* MPR News (Jan 27, 2026): [Native American legal rights group says Jose Roberto Ramirez retaliated against by ICE](https://www.mprnews.org/story/2026/01/27/native-american-legal-rights-group-says-jose-roberto-ramirez-retaliated-against-by-ice)
 
 ## Affected Individual(s)
 - **Name:** Jose Roberto "Beto" Ramirez.

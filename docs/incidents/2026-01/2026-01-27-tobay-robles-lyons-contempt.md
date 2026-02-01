@@ -32,8 +32,8 @@ Federal Judge Patrick Schiltz ordered ICE's acting director Todd Lyons to person
 6. PBS News (Jan 27, 2026): [ICE chief ordered to appear in court to explain why detainees have been denied due process](https://www.pbs.org/newshour/politics/ice-chief-ordered-to-appear-in-court-to-explain-why-detainees-have-been-denied-due-process)
 7. NewsNation (Jan 27, 2026): [Todd Lyons, ICE chief, summoned by Minnesota judge, faces contempt](https://www.newsnationnow.com/us-news/immigration/border-coverage/minnesota-judge-todd-lyons-contempt-hearing/)
 8. Philadelphia Inquirer (Jan 27, 2026): [ICE chief must appear in court to explain why detainees have been denied due process](https://www.inquirer.com/news/nation-world/ice-immigration-enforcement-minnesota-due-process-20260127.html)
-9. *Update 2:* KARE 11 (Jan 28, 2026): [Judge says ICE has violated nearly 100 court orders this month](https://www.kare11.com/article/news/local/ice-in-minnesota/judge-ice-violated-nearly-100-court-orders-this-month/89-3e95803b-952f-4383-b09d-fc289cd9c21b)
-10. *Update 2:* CNBC (Jan 28, 2026): ['ICE is not a law unto itself,' Minnesota judge says](https://www.cnbc.com/2026/01/28/ice-immigrant-minnesota-contempt-released.html)
+9. *Update:* KARE 11 (Jan 28, 2026): [Judge says ICE has violated nearly 100 court orders this month](https://www.kare11.com/article/news/local/ice-in-minnesota/judge-ice-violated-nearly-100-court-orders-this-month/89-3e95803b-952f-4383-b09d-fc289cd9c21b)
+10. *Update:* CNBC (Jan 28, 2026): ['ICE is not a law unto itself,' Minnesota judge says](https://www.cnbc.com/2026/01/28/ice-immigrant-minnesota-contempt-released.html)
 
 ## Affected Individual(s)
 

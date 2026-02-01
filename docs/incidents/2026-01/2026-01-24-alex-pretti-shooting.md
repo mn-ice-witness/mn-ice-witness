@@ -54,13 +54,13 @@ Federal agents fatally shot Alex Jeffrey Pretti, a 37-year-old U.S. citizen, lic
 23. KARE11 (Jan 25, 2026): [Minnesota DOC launches new website to address ongoing misinformation by DHS](https://www.kare11.com/article/news/local/minnesota-doc-launches-new-website-to-address-ongoing-misinformation-dhs/89-147eb970-b18f-4743-a00c-0dd2589e9b2a)
 24. MN DOC (Jan 24, 2026): [Statement on Minneapolis Shooting and Federal Claims](https://mn.gov/doc/about/news/news-releases/?id=1089-720842)
 25. Wikipedia (Jan 26, 2026): [Killing of Alex Pretti](https://en.wikipedia.org/wiki/Killing_of_Alex_Pretti)
-26. *Update 1:* KARE 11 (Jan 26, 2026): [BCA blocked from scene despite warrant](https://www.kare11.com/article/news/local/ice-in-minnesota/bca-blocked-from-scene-where-federal-agents-fatally-shot-man-south-minneapolis/89-2d4bf800-d146-49ee-8eb8-4ff5e09f02c8)
-27. *Update 1:* Fox 9 (Jan 26, 2026): [BCA says DHS blocked them from shooting scene](https://www.fox9.com/news/minneapolis-shooting-minnesota-bca-says-dhs-blocked-shooting-scene)
-28. *Update 2:* KSTP (Jan 27, 2026): [Court filings: Witnesses say they didn't see Pretti with a gun](https://kstp.com/kstp-news/top-news/court-filings-witnesses-say-they-didnt-see-pretti-with-a-gun-give-more-details-of-deadly-ice-shooting/)
-29. *Update 2:* Bring Me The News (Jan 27, 2026): [Lawsuit says federal agents let crime scene collapse](https://bringmethenews.com/minnesota-news/alex-pretti-minnesota-lawsuit-says-fed-agents-let-crime-scene-collapse-in-astonishing-behavior)
-30. *Update 3:* RealClearPolitics (Jan 28, 2026): [Video filmed 11 days before shooting shows Pretti fighting with federal agents](https://www.realclearpolitics.com/video/2026/01/28/video_filmed_11_days_before_shooting_appears_to_show_alex_pretti_fighting_with_federal_agents.html)
-31. *Update 3:* CNN (Jan 27, 2026): [Pretti suffered broken rib in prior confrontation](https://www.cnn.com/2026/01/27/us/alex-pretti-protesters-minneapolis-invs)
-32. *Update 4:* NYT (Jan 28, 2026): [Federal claims about a Border Patrol target's criminal record are disputed](https://www.nytimes.com/live/2026/01/28/us/minneapolis-shooting-ice-minnesota)
+26. *Update:* KARE 11 (Jan 26, 2026): [BCA blocked from scene despite warrant](https://www.kare11.com/article/news/local/ice-in-minnesota/bca-blocked-from-scene-where-federal-agents-fatally-shot-man-south-minneapolis/89-2d4bf800-d146-49ee-8eb8-4ff5e09f02c8)
+27. *Update:* Fox 9 (Jan 26, 2026): [BCA says DHS blocked them from shooting scene](https://www.fox9.com/news/minneapolis-shooting-minnesota-bca-says-dhs-blocked-shooting-scene)
+28. *Update:* KSTP (Jan 27, 2026): [Court filings: Witnesses say they didn't see Pretti with a gun](https://kstp.com/kstp-news/top-news/court-filings-witnesses-say-they-didnt-see-pretti-with-a-gun-give-more-details-of-deadly-ice-shooting/)
+29. *Update:* Bring Me The News (Jan 27, 2026): [Lawsuit says federal agents let crime scene collapse](https://bringmethenews.com/minnesota-news/alex-pretti-minnesota-lawsuit-says-fed-agents-let-crime-scene-collapse-in-astonishing-behavior)
+30. *Update:* RealClearPolitics (Jan 28, 2026): [Video filmed 11 days before shooting shows Pretti fighting with federal agents](https://www.realclearpolitics.com/video/2026/01/28/video_filmed_11_days_before_shooting_appears_to_show_alex_pretti_fighting_with_federal_agents.html)
+31. *Update:* CNN (Jan 27, 2026): [Pretti suffered broken rib in prior confrontation](https://www.cnn.com/2026/01/27/us/alex-pretti-protesters-minneapolis-invs)
+32. *Update:* NYT (Jan 28, 2026): [Federal claims about a Border Patrol target's criminal record are disputed](https://www.nytimes.com/live/2026/01/28/us/minneapolis-shooting-ice-minnesota)
 
 ## Related Incidents
 
