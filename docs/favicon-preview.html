@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Favicon Preview</title>
+    <link rel="icon" type="image/x-icon" href="assets/favicon.ico">
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+            padding: 40px;
+            background: #f5f5f5;
+        }
+        .preview-row {
+            display: flex;
+            gap: 40px;
+            margin-bottom: 30px;
+            align-items: center;
+        }
+        .preview-item {
+            text-align: center;
+        }
+        .preview-item img {
+            display: block;
+            margin: 0 auto 10px;
+            image-rendering: pixelated;
+        }
+        .preview-item span {
+            font-size: 12px;
+            color: #666;
+        }
+        .dark-bg {
+            background: #1a1a1a;
+            padding: 20px;
+            border-radius: 8px;
+        }
+        .dark-bg span {
+            color: #aaa;
+        }
+        h2 {
+            margin-top: 40px;
+            color: #333;
+        }
+        .tab-sim {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background: #dee1e6;
+            padding: 8px 16px;
+            border-radius: 8px 8px 0 0;
+            font-size: 13px;
+        }
+        .tab-sim img {
+            width: 16px;
+            height: 16px;
+        }
+        .tab-sim-dark {
+            background: #3c3c3c;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <h1>Favicon Preview - Star Logo</h1>
+
+    <h2>All Sizes (Light Background)</h2>
+    <div class="preview-row">
+        <div class="preview-item">
+            <img src="assets/favicon-16x16.png" width="16" height="16">
+            <span>16x16</span>
+        </div>
+        <div class="preview-item">
+            <img src="assets/favicon-32x32.png" width="32" height="32">
+            <span>32x32</span>
+        </div>
+        <div class="preview-item">
+            <img src="assets/favicon-48x48.png" width="48" height="48">
+            <span>48x48</span>
+        </div>
+        <div class="preview-item">
+            <img src="assets/apple-touch-icon.png" width="180" height="180">
+            <span>180x180 (Apple)</span>
+        </div>
+        <div class="preview-item">
+            <img src="assets/icon-192.png" width="192" height="192">
+            <span>192x192 (PWA)</span>
+        </div>
+    </div>
+
+    <h2>All Sizes (Dark Background)</h2>
+    <div class="preview-row dark-bg">
+        <div class="preview-item">
+            <img src="assets/favicon-16x16.png" width="16" height="16">
+            <span>16x16</span>
+        </div>
+        <div class="preview-item">
+            <img src="assets/favicon-32x32.png" width="32" height="32">
+            <span>32x32</span>
+        </div>
+        <div class="preview-item">
+            <img src="assets/favicon-48x48.png" width="48" height="48">
+            <span>48x48</span>
+        </div>
+        <div class="preview-item">
+            <img src="assets/apple-touch-icon.png" width="180" height="180">
+            <span>180x180</span>
+        </div>
+        <div class="preview-item">
+            <img src="assets/icon-192.png" width="192" height="192">
+            <span>192x192</span>
+        </div>
+    </div>
+
+    <h2>Browser Tab Simulation</h2>
+    <div style="margin-bottom: 20px;">
+        <div class="tab-sim">
+            <img src="assets/favicon-16x16.png">
+            MN ICE Witness
+        </div>
+        <span style="margin-left: 20px; color: #666;">Light mode tab</span>
+    </div>
+    <div>
+        <div class="tab-sim tab-sim-dark">
+            <img src="assets/favicon-16x16.png">
+            MN ICE Witness
+        </div>
+        <span style="margin-left: 20px; color: #666;">Dark mode tab</span>
+    </div>
+
+    <h2>512x512 (Full Size)</h2>
+    <img src="assets/icon-512.png" width="512" height="512" style="border: 1px solid #ddd;">
+</body>
+</html>

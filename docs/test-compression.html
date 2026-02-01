@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="noindex, nofollow">
+    <title>Compression Test - MN ICE Witness</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
+    <style>
+        body {
+            background: #121212;
+            color: #e0e0e0;
+            font-family: 'Libre Franklin', sans-serif;
+            padding: 20px;
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+        h1 {
+            color: #fff;
+            margin-bottom: 10px;
+        }
+        .test-info {
+            background: #1a1a1a;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 30px;
+            font-size: 14px;
+        }
+        .test-info table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        .test-info th, .test-info td {
+            text-align: left;
+            padding: 8px 12px;
+            border-bottom: 1px solid #333;
+        }
+        .test-info th {
+            color: #aaa;
+            font-weight: 500;
+        }
+        .savings {
+            color: #4caf50;
+        }
+        .test-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+        }
+        .test-card {
+            background: #1a1a1a;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+        .test-card-header {
+            padding: 12px 15px;
+            background: #222;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .test-card-header h3 {
+            margin: 0;
+            font-size: 16px;
+            color: #fff;
+        }
+        .test-card-header .size {
+            color: #888;
+            font-size: 14px;
+        }
+        .test-card-media {
+            position: relative;
+            background: #000;
+        }
+        .test-card-media video {
+            width: 100%;
+            display: block;
+        }
+        .current-label {
+            background: #c62828;
+            color: #fff;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 11px;
+            font-weight: 600;
+            margin-left: 10px;
+        }
+        .back-link {
+            display: inline-block;
+            margin-bottom: 20px;
+            color: #64b5f6;
+            text-decoration: none;
+        }
+        .back-link:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <a href="/" class="back-link">&larr; Back to site</a>
+    <h1>Video Compression Test</h1>
+
+    <div class="test-info">
+        <p><strong>Source:</strong> aliya-rahman-car-window-hospitalized:01.raw.mov (26MB raw)</p>
+        <table>
+            <tr>
+                <th>CRF</th>
+                <th>File Size</th>
+                <th>Savings vs CRF 35</th>
+                <th>Notes</th>
+            </tr>
+            <tr>
+                <td><strong>35</strong></td>
+                <td>3.9 MB</td>
+                <td>-</td>
+                <td>Current setting</td>
+            </tr>
+            <tr>
+                <td><strong>38</strong></td>
+                <td>3.0 MB</td>
+                <td class="savings">-23%</td>
+                <td>Slight quality reduction</td>
+            </tr>
+            <tr>
+                <td><strong>40</strong></td>
+                <td>2.5 MB</td>
+                <td class="savings">-36%</td>
+                <td>Noticeable on close inspection</td>
+            </tr>
+            <tr>
+                <td><strong>42</strong></td>
+                <td>2.2 MB</td>
+                <td class="savings">-44%</td>
+                <td>Visible compression artifacts</td>
+            </tr>
+        </table>
+        <p style="margin-top: 15px; color: #888;">Higher CRF = smaller file but lower quality. CRF 23 is ffmpeg default, 35+ is aggressive.</p>
+    </div>
+
+    <div class="test-grid">
+        <div class="test-card">
+            <div class="test-card-header">
+                <h3>CRF 35 <span class="current-label">CURRENT</span></h3>
+                <span class="size">3.9 MB</span>
+            </div>
+            <div class="test-card-media media-card-media">
+                <video class="media-card-video" src="/media/test/crf35.mp4#t=0.001" muted loop playsinline preload="metadata" disableRemotePlayback></video>
+                <div class="media-controls">
+                    <button class="media-control-btn play-pause-btn" aria-label="Play/Pause">
+                        <svg class="media-icon-pause" viewBox="0 0 24 24" width="24" height="24">
+                            <rect x="6" y="4" width="4" height="16" rx="1" fill="currentColor"/>
+                            <rect x="14" y="4" width="4" height="16" rx="1" fill="currentColor"/>
+                        </svg>
+                        <svg class="media-icon-play" viewBox="0 0 24 24" width="24" height="24" style="display:none">
+                            <polygon points="6,4 20,12 6,20" fill="currentColor"/>
+                        </svg>
+                    </button>
+                    <div class="time-slider-container">
+                        <input type="range" class="time-slider" min="0" max="100" value="0" step="0.1" aria-label="Video progress">
+                    </div>
+                    <button class="media-control-btn restart-btn" aria-label="Restart">
+                        <svg viewBox="0 0 24 24" width="24" height="24">
+                            <path d="M12 5V1L7 6l5 5V7c3.31 0 6 2.69 6 6s-2.69 6-6 6-6-2.69-6-6H4c0 4.42 3.58 8 8 8s8-3.58 8-8-3.58-8-8-8z" fill="currentColor"/>
+                        </svg>
+                    </button>
+                    <button class="media-control-btn fullscreen-btn" aria-label="Fullscreen">
+                        <svg class="fullscreen-enter" viewBox="0 0 24 24" width="24" height="24">
+                            <path d="M7 14H5v5h5v-2H7v-3zm-2-4h2V7h3V5H5v5zm12 7h-3v2h5v-5h-2v3zM14 5v2h3v3h2V5h-5z" fill="currentColor"/>
+                        </svg>
+                        <svg class="fullscreen-exit" viewBox="0 0 24 24" width="24" height="24" style="display:none">
+                            <path d="M5 16h3v3h2v-5H5v2zm3-8H5v2h5V5H8v3zm6 11h2v-3h3v-2h-5v5zm2-11V5h-2v5h5V8h-3z" fill="currentColor"/>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <div class="test-card">
+            <div class="test-card-header">
+                <h3>CRF 38</h3>
+                <span class="size">3.0 MB (-23%)</span>
+            </div>
+            <div class="test-card-media media-card-media">
+                <video class="media-card-video" src="/media/test/crf38.mp4#t=0.001" muted loop playsinline preload="metadata" disableRemotePlayback></video>
+                <div class="media-controls">
+                    <button class="media-control-btn play-pause-btn" aria-label="Play/Pause">
+                        <svg class="media-icon-pause" viewBox="0 0 24 24" width="24" height="24">
+                            <rect x="6" y="4" width="4" height="16" rx="1" fill="currentColor"/>
+                            <rect x="14" y="4" width="4" height="16" rx="1" fill="currentColor"/>
+                        </svg>
+                        <svg class="media-icon-play" viewBox="0 0 24 24" width="24" height="24" style="display:none">
+                            <polygon points="6,4 20,12 6,20" fill="currentColor"/>
+                        </svg>
+                    </button>
+                    <div class="time-slider-container">
+                        <input type="range" class="time-slider" min="0" max="100" value="0" step="0.1" aria-label="Video progress">
+                    </div>
+                    <button class="media-control-btn restart-btn" aria-label="Restart">
+                        <svg viewBox="0 0 24 24" width="24" height="24">
+                            <path d="M12 5V1L7 6l5 5V7c3.31 0 6 2.69 6 6s-2.69 6-6 6-6-2.69-6-6H4c0 4.42 3.58 8 8 8s8-3.58 8-8-3.58-8-8-8z" fill="currentColor"/>
+                        </svg>
+                    </button>
+                    <button class="media-control-btn fullscreen-btn" aria-label="Fullscreen">
+                        <svg class="fullscreen-enter" viewBox="0 0 24 24" width="24" height="24">
+                            <path d="M7 14H5v5h5v-2H7v-3zm-2-4h2V7h3V5H5v5zm12 7h-3v2h5v-5h-2v3zM14 5v2h3v3h2V5h-5z" fill="currentColor"/>
+                        </svg>
+                        <svg class="fullscreen-exit" viewBox="0 0 24 24" width="24" height="24" style="display:none">
+                            <path d="M5 16h3v3h2v-5H5v2zm3-8H5v2h5V5H8v3zm6 11h2v-3h3v-2h-5v5zm2-11V5h-2v5h5V8h-3z" fill="currentColor"/>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <div class="test-card">
+            <div class="test-card-header">
+                <h3>CRF 40</h3>
+                <span class="size">2.5 MB (-36%)</span>
+            </div>
+            <div class="test-card-media media-card-media">
+                <video class="media-card-video" src="/media/test/crf40.mp4#t=0.001" muted loop playsinline preload="metadata" disableRemotePlayback></video>
+                <div class="media-controls">
+                    <button class="media-control-btn play-pause-btn" aria-label="Play/Pause">
+                        <svg class="media-icon-pause" viewBox="0 0 24 24" width="24" height="24">
+                            <rect x="6" y="4" width="4" height="16" rx="1" fill="currentColor"/>
+                            <rect x="14" y="4" width="4" height="16" rx="1" fill="currentColor"/>
+                        </svg>
+                        <svg class="media-icon-play" viewBox="0 0 24 24" width="24" height="24" style="display:none">
+                            <polygon points="6,4 20,12 6,20" fill="currentColor"/>
+                        </svg>
+                    </button>
+                    <div class="time-slider-container">
+                        <input type="range" class="time-slider" min="0" max="100" value="0" step="0.1" aria-label="Video progress">
+                    </div>
+                    <button class="media-control-btn restart-btn" aria-label="Restart">
+                        <svg viewBox="0 0 24 24" width="24" height="24">
+                            <path d="M12 5V1L7 6l5 5V7c3.31 0 6 2.69 6 6s-2.69 6-6 6-6-2.69-6-6H4c0 4.42 3.58 8 8 8s8-3.58 8-8-3.58-8-8-8z" fill="currentColor"/>
+                        </svg>
+                    </button>
+                    <button class="media-control-btn fullscreen-btn" aria-label="Fullscreen">
+                        <svg class="fullscreen-enter" viewBox="0 0 24 24" width="24" height="24">
+                            <path d="M7 14H5v5h5v-2H7v-3zm-2-4h2V7h3V5H5v5zm12 7h-3v2h5v-5h-2v3zM14 5v2h3v3h2V5h-5z" fill="currentColor"/>
+                        </svg>
+                        <svg class="fullscreen-exit" viewBox="0 0 24 24" width="24" height="24" style="display:none">
+                            <path d="M5 16h3v3h2v-5H5v2zm3-8H5v2h5V5H8v3zm6 11h2v-3h3v-2h-5v5zm2-11V5h-2v5h5V8h-3z" fill="currentColor"/>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <div class="test-card">
+            <div class="test-card-header">
+                <h3>CRF 42</h3>
+                <span class="size">2.2 MB (-44%)</span>
+            </div>
+            <div class="test-card-media media-card-media">
+                <video class="media-card-video" src="/media/test/crf42.mp4#t=0.001" muted loop playsinline preload="metadata" disableRemotePlayback></video>
+                <div class="media-controls">
+                    <button class="media-control-btn play-pause-btn" aria-label="Play/Pause">
+                        <svg class="media-icon-pause" viewBox="0 0 24 24" width="24" height="24">
+                            <rect x="6" y="4" width="4" height="16" rx="1" fill="currentColor"/>
+                            <rect x="14" y="4" width="4" height="16" rx="1" fill="currentColor"/>
+                        </svg>
+                        <svg class="media-icon-play" viewBox="0 0 24 24" width="24" height="24" style="display:none">
+                            <polygon points="6,4 20,12 6,20" fill="currentColor"/>
+                        </svg>
+                    </button>
+                    <div class="time-slider-container">
+                        <input type="range" class="time-slider" min="0" max="100" value="0" step="0.1" aria-label="Video progress">
+                    </div>
+                    <button class="media-control-btn restart-btn" aria-label="Restart">
+                        <svg viewBox="0 0 24 24" width="24" height="24">
+                            <path d="M12 5V1L7 6l5 5V7c3.31 0 6 2.69 6 6s-2.69 6-6 6-6-2.69-6-6H4c0 4.42 3.58 8 8 8s8-3.58 8-8-3.58-8-8-8z" fill="currentColor"/>
+                        </svg>
+                    </button>
+                    <button class="media-control-btn fullscreen-btn" aria-label="Fullscreen">
+                        <svg class="fullscreen-enter" viewBox="0 0 24 24" width="24" height="24">
+                            <path d="M7 14H5v5h5v-2H7v-3zm-2-4h2V7h3V5H5v5zm12 7h-3v2h5v-5h-2v3zM14 5v2h3v3h2V5h-5z" fill="currentColor"/>
+                        </svg>
+                        <svg class="fullscreen-exit" viewBox="0 0 24 24" width="24" height="24" style="display:none">
+                            <path d="M5 16h3v3h2v-5H5v2zm3-8H5v2h5V5H8v3zm6 11h2v-3h3v-2h-5v5zm2-11V5h-2v5h5V8h-3z" fill="currentColor"/>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.querySelectorAll('.test-card').forEach(card => {
+            const video = card.querySelector('video');
+            const container = card.querySelector('.media-card-media');
+            const playPauseBtn = card.querySelector('.play-pause-btn');
+            const iconPlay = card.querySelector('.media-icon-play');
+            const iconPause = card.querySelector('.media-icon-pause');
+            const timeSlider = card.querySelector('.time-slider');
+            const restartBtn = card.querySelector('.restart-btn');
+            const fullscreenBtn = card.querySelector('.fullscreen-btn');
+            const enterIcon = fullscreenBtn?.querySelector('.fullscreen-enter');
+            const exitIcon = fullscreenBtn?.querySelector('.fullscreen-exit');
+
+            const showPlayIcon = () => {
+                if (iconPlay) iconPlay.style.display = '';
+                if (iconPause) iconPause.style.display = 'none';
+            };
+            const showPauseIcon = () => {
+                if (iconPlay) iconPlay.style.display = 'none';
+                if (iconPause) iconPause.style.display = '';
+            };
+
+            // Start paused
+            showPlayIcon();
+
+            playPauseBtn?.addEventListener('click', (e) => {
+                e.stopPropagation();
+                if (video.paused) {
+                    video.play();
+                } else {
+                    video.pause();
+                }
+            });
+
+            video.addEventListener('play', showPauseIcon);
+            video.addEventListener('pause', showPlayIcon);
+
+            if (timeSlider) {
+                video.addEventListener('loadedmetadata', () => {
+                    timeSlider.max = video.duration;
+                });
+                video.addEventListener('timeupdate', () => {
+                    if (!timeSlider.dataset.dragging) {
+                        timeSlider.value = video.currentTime;
+                    }
+                });
+                timeSlider.addEventListener('mousedown', (e) => {
+                    e.stopPropagation();
+                    timeSlider.dataset.dragging = 'true';
+                });
+                timeSlider.addEventListener('input', (e) => {
+                    e.stopPropagation();
+                    video.currentTime = parseFloat(timeSlider.value);
+                });
+                timeSlider.addEventListener('mouseup', () => delete timeSlider.dataset.dragging);
+                timeSlider.addEventListener('click', (e) => e.stopPropagation());
+            }
+
+            restartBtn?.addEventListener('click', (e) => {
+                e.stopPropagation();
+                video.currentTime = 0;
+                video.play();
+            });
+
+            if (fullscreenBtn) {
+                const isFullscreen = () => document.fullscreenElement === container || document.webkitFullscreenElement === container;
+                const updateIcons = () => {
+                    const fs = isFullscreen();
+                    if (enterIcon) enterIcon.style.display = fs ? 'none' : '';
+                    if (exitIcon) exitIcon.style.display = fs ? '' : 'none';
+                };
+                fullscreenBtn.addEventListener('click', (e) => {
+                    e.stopPropagation();
+                    if (isFullscreen()) {
+                        (document.exitFullscreen || document.webkitExitFullscreen).call(document);
+                    } else {
+                        (container.requestFullscreen || container.webkitRequestFullscreen).call(container);
+                    }
+                });
+                document.addEventListener('fullscreenchange', updateIcons);
+                document.addEventListener('webkitfullscreenchange', updateIcons);
+            }
+        });
+    </script>
+</body>
+</html>
