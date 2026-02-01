@@ -18,13 +18,18 @@
       "lastUpdated": "2026-02-01T16:41:47",
       "mediaCount": 0,
       "notable": false,
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
-      "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
+      "hasLocalMedia": true,
+      "localMediaType": "video",
+      "localMediaPath": "media/2026-02/01/2026-02-01-powderhorn-rec-center-observer-arrested.mp4",
+      "localMediaOgPath": "media/2026-02/01/2026-02-01-powderhorn-rec-center-observer-arrested-og-2s-1769985961.jpg",
+      "localMediaFiles": [
+        {
+          "type": "video",
+          "path": "media/2026-02/01/2026-02-01-powderhorn-rec-center-observer-arrested.mp4"
+        }
+      ],
+      "aspectRatio": 1.805732484076433,
+      "mediaVersion": 1769985961
     },
     {
       "filePath": "incidents/2026-01/2026-01-30-dhs-response-racial-profiling-false.md",
@@ -167,7 +172,7 @@
         }
       ],
       "aspectRatio": 1.2448132780082988,
-      "mediaVersion": 1769912968
+      "mediaVersion": 1769985955
     },
     {
       "filePath": "incidents/2026-01/2026-01-29-noem-best-information-defense.md",
@@ -224,7 +229,7 @@
         }
       ],
       "aspectRatio": 1.0345528455284554,
-      "mediaVersion": 1769912968
+      "mediaVersion": 1769985955
     },
     {
       "filePath": "incidents/2026-01/2026-01-29-19th-portland-chemical-irritants-observer-arrested.md",
@@ -299,7 +304,7 @@
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/29/2026-01-29-columbia-heights-jessica-father-detained.mp4",
-      "localMediaOgPath": "media/2026-01/29/2026-01-29-columbia-heights-jessica-father-detained-og-2s-1769893006.jpg",
+      "localMediaOgPath": "media/2026-01/29/2026-01-29-columbia-heights-jessica-father-detained-og-2s-1769985958.jpg",
       "localMediaFiles": [
         {
           "type": "video",
@@ -307,7 +312,7 @@
         }
       ],
       "aspectRatio": 0.5472222222222223,
-      "mediaVersion": 1769912968
+      "mediaVersion": 1769985958
     },
     {
       "filePath": "incidents/2026-01/2026-01-28-thao-xiong-hallie-brown-food-shelf.md",
@@ -395,7 +400,7 @@
         }
       ],
       "aspectRatio": 1.430274135876043,
-      "mediaVersion": 1769912968
+      "mediaVersion": 1769985955
     },
     {
       "filePath": "incidents/2026-01/2026-01-27-raise-voice-erase-voice.md",
@@ -751,7 +756,7 @@
         }
       ],
       "aspectRatio": 0.5689424364123159,
-      "mediaVersion": 1769912968
+      "mediaVersion": 1769985955
     },
     {
       "filePath": "incidents/2026-01/2026-01-24-nur-d-rapper-detained.md",
@@ -927,7 +932,7 @@
         }
       ],
       "aspectRatio": 1.8831168831168832,
-      "mediaVersion": 1769912968
+      "mediaVersion": 1769985955
     },
     {
       "filePath": "incidents/2026-01/2026-01-22-amundson-zemien-seizure-first-responders.md",
@@ -1051,7 +1056,7 @@
         }
       ],
       "aspectRatio": 1.566579634464752,
-      "mediaVersion": 1769912968
+      "mediaVersion": 1769985955
     },
     {
       "filePath": "incidents/2026-01/2026-01-22-velasco-family-hopkins.md",
@@ -1082,7 +1087,7 @@
         }
       ],
       "aspectRatio": 1.6574585635359116,
-      "mediaVersion": 1769912968
+      "mediaVersion": 1769985955
     },
     {
       "filePath": "incidents/2026-01/2026-01-21-observer-pinned-pepper-sprayed-face.md",
@@ -1113,7 +1118,7 @@
         }
       ],
       "aspectRatio": 1.4002333722287048,
-      "mediaVersion": 1769912968
+      "mediaVersion": 1769985955
     },
     {
       "filePath": "incidents/2026-01/2026-01-21-dhs-response-5-year-old-bait.md",
@@ -1294,7 +1299,7 @@
         }
       ],
       "aspectRatio": 1.7518248175182483,
-      "mediaVersion": 1769912968
+      "mediaVersion": 1769985955
     },
     {
       "filePath": "incidents/2026-01/2026-01-20-columbia-heights-4-students-detained.md",
@@ -1325,7 +1330,7 @@
         }
       ],
       "aspectRatio": 1.3528748590755355,
-      "mediaVersion": 1769912968
+      "mediaVersion": 1769985954
     },
     {
       "filePath": "incidents/2026-01/2026-01-19-hilton-hotel-worker-arrested-by-guests.md",
@@ -1382,7 +1387,7 @@
         }
       ],
       "aspectRatio": 1.1822660098522169,
-      "mediaVersion": 1769912968
+      "mediaVersion": 1769985954
     },
     {
       "filePath": "incidents/2026-01/2026-01-18-saly-hmong-citizen-shirtless.md",
@@ -1505,7 +1510,7 @@
         }
       ],
       "aspectRatio": 0.5621734587251829,
-      "mediaVersion": 1769912968
+      "mediaVersion": 1769985954
     },
     {
       "filePath": "incidents/2026-01/2026-01-17-st-louis-park-daycare.md",
@@ -1562,7 +1567,7 @@
         }
       ],
       "aspectRatio": 0.8549618320610687,
-      "mediaVersion": 1769912968
+      "mediaVersion": 1769985954
     },
     {
       "filePath": "incidents/2026-01/2026-01-17-mischief-toy-store-ice-inspection.md",
@@ -1793,7 +1798,7 @@
         }
       ],
       "aspectRatio": 0.5351288056206089,
-      "mediaVersion": 1769912968
+      "mediaVersion": 1769985954
     },
     {
       "filePath": "incidents/2026-01/2026-01-15-whipple-lawyers-denied-access.md",
@@ -2013,7 +2018,7 @@
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/14/2026-01-14-st-paul-public-works-snowplow-driver.mp4",
-      "localMediaOgPath": "media/2026-01/14/2026-01-14-st-paul-public-works-snowplow-driver-og-2s-1769378403.jpg",
+      "localMediaOgPath": "media/2026-01/14/2026-01-14-st-paul-public-works-snowplow-driver-og-2s-1769985954.jpg",
       "localMediaFiles": [
         {
           "type": "video",
@@ -2021,7 +2026,7 @@
         }
       ],
       "aspectRatio": 1.8384615384615384,
-      "mediaVersion": 1769912968
+      "mediaVersion": 1769985954
     },
     {
       "filePath": "incidents/2026-01/2026-01-14-nasra-ahmed-st-paul-citizen.md",
@@ -2052,7 +2057,7 @@
         }
       ],
       "aspectRatio": 1.8295964125560538,
-      "mediaVersion": 1769912968
+      "mediaVersion": 1769985950
     },
     {
       "filePath": "incidents/2026-01/2026-01-14-agriculture-press-conference.md",
@@ -2140,7 +2145,7 @@
         }
       ],
       "aspectRatio": 1.3186813186813187,
-      "mediaVersion": 1769912968
+      "mediaVersion": 1769985950
     },
     {
       "filePath": "incidents/2026-01/2026-01-14-transition-plus-school-bus-rubber-bullets.md",
@@ -2485,7 +2490,7 @@
         }
       ],
       "aspectRatio": 0.7590132827324478,
-      "mediaVersion": 1769912968
+      "mediaVersion": 1769985950
     },
     {
       "filePath": "incidents/2026-01/2026-01-13-dhs-response-detainer-demands.md",
@@ -2891,7 +2896,7 @@
         }
       ],
       "aspectRatio": 0.7989347536617842,
-      "mediaVersion": 1769912968
+      "mediaVersion": 1769985950
     },
     {
       "filePath": "incidents/2026-01/2026-01-12-christian-molina-car-rammed.md",
@@ -3160,7 +3165,7 @@
         }
       ],
       "aspectRatio": 0.9417293233082706,
-      "mediaVersion": 1769912968
+      "mediaVersion": 1769985950
     },
     {
       "filePath": "incidents/2026-01/2026-01-11-siguenza-okeefe-detained.md",
@@ -3466,7 +3471,7 @@
         }
       ],
       "aspectRatio": 0.7575360419397117,
-      "mediaVersion": 1769912968
+      "mediaVersion": 1769985950
     },
     {
       "filePath": "incidents/2026-01/2026-01-09-juan-carlos-brutality.md",
