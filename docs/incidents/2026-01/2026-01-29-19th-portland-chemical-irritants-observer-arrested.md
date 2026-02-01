@@ -16,7 +16,7 @@ last_updated: 2026-02-01T15:36:48
 
 ## Summary
 
-On the morning of January 29, 2026, federal agents arrested at least one observer and deployed chemical irritants against neighbors at 19th Avenue East and Portland Avenue South in south Minneapolis. State Rep. Aisha Gomez, whose District 62A includes the area, stated that "neighbors were hit by chemical munitions and one was arrested in my district literally 90 minutes ago."
+On the morning of January 29, 2026, federal agents arrested at least one observer and deployed chemical irritants against neighbors at 19th Avenue East and Portland Avenue South in south Minneapolis. State Rep. Aisha Gomez, whose District 62A includes the area, posted on X: "This is NOT how it's playing out on the ground. Neighbors were hit by chemical munitions and one was arrested in my district literally 90 minutes ago (19th+port). This administration lies constantly. The invasion of Minneapolis, and our courageous resistance, continues."
 
 ## Sources
 
@@ -33,9 +33,9 @@ On the morning of January 29, 2026, federal agents arrested at least one observe
 
 ### State Rep. Aisha Gomez
 
-Responding to media reports claiming federal agents had been ordered not to use chemical munitions on "agitators," Rep. Gomez stated:
+Responding to media reports claiming federal agents had been ordered not to use chemical munitions on "agitators," Rep. Gomez posted on X:
 
-> "Neighbors were hit by chemical munitions and one was arrested in my district literally 90 minutes ago."
+> "This is NOT how it's playing out on the ground. Neighbors were hit by chemical munitions and one was arrested in my district literally 90 minutes ago (19th+port). This administration lies constantly. The invasion of Minneapolis, and our courageous resistance, continues."
 
 ## Context: Federal Injunction
 
