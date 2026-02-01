@@ -16,6 +16,15 @@ Stories are excluded when they don't meet the project's core focus:
 
 ## Excluded Stories
 
+### February 2026
+
+**Powderhorn Park Tear Gas (Feb 1)**
+- Sources: [JP Pritchett Facebook post](https://www.facebook.com/jennifer.pritchett)
+- Date: February 1, 2026 (Sunday morning, before 10am)
+- Details: JP Pritchett reported "some kind of tear gas has been deployed on Powderhorn Park" on Sunday morning. Post mentions ongoing mutual aid efforts and neighborhood resistance.
+- Reason: **Awaiting media coverage** - only source is Facebook post. No mainstream news coverage yet. Revisit when press picks up the story.
+- Date evaluated: 2026-02-01
+
 ### January 2026
 
 **Don Lemon / Georgia Fort Journalist Arrests (Jan 30)**
@@ -136,13 +145,6 @@ Stories are excluded when they don't meet the project's core focus:
 - Date: January 29, 2026
 - Details: "Further reports of arrests" in north Minneapolis, Dayton, and Burnsville on the morning of Jan 29.
 - Reason: **Insufficient details** - brief mention with no specifics, no victim names, no corroborating coverage.
-- Date evaluated: 2026-01-30
-
-**19th Ave East & Portland Avenue South Arrest (Jan 29)**
-- Sources: [Bring Me The News](https://bringmethenews.com/minnesota-news/list-of-ice-raids-major-updates-in-minnesota-on-thursday-jan-29), People Over Papers video
-- Date: January 29, 2026
-- Details: Federal agents arrested a man at 19th Avenue East and Portland Avenue South in Minneapolis (Rep. Aisha Gomez's district). Bystanders who were blowing whistles were reportedly pepper sprayed.
-- Reason: **Insufficient details for arrestee** - no victim name, no status information. May revisit as observers incident if specific affected individuals are identified.
 - Date evaluated: 2026-01-30
 
 **16 Protesters Arrested for "Attacks on Federal Officers" (Jan 28-29)**
