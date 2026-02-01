@@ -12,7 +12,7 @@ created: 2026-02-01T16:41:47
 last_updated: 2026-02-01T16:41:47
 ---
 
-# Observer Beaten, Concussion Grenades Deployed at Powderhorn Rec Center (UNVERIFIED)
+# Observer Arrested, Concussion Grenades Deployed at Powderhorn Rec Center (UNVERIFIED)
 
 ***No mainstream media has reported on this incident. It is based on social media posts only. If you have a media source, please [contact us](mailto:mnicewitness@gmail.com).***
 
