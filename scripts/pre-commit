@@ -1,0 +1,25 @@
+#!/bin/bash
+
+ROOT="$(git rev-parse --show-toplevel)"
+
+echo "Regenerating incidents-summary.json..."
+python3 "$ROOT/scripts/generate_summary.py"
+
+if [ $? -ne 0 ]; then
+    echo "Failed to generate incidents summary"
+    exit 1
+fi
+
+git add "$ROOT/docs/data/incidents-summary.json"
+
+# Cache bust: update ?v= parameters in index.html with current timestamp
+TIMESTAMP=$(date +%s)
+INDEX="$ROOT/docs/index.html"
+
+if [ -f "$INDEX" ]; then
+    echo "Cache busting index.html (v=$TIMESTAMP)..."
+    sed -i '' "s/?v=[0-9]*/?v=$TIMESTAMP/g" "$INDEX"
+    git add "$INDEX"
+fi
+
+exit 0
