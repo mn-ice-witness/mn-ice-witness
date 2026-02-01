@@ -512,18 +512,14 @@ When an incident has multiple videos, order videos by importance:
 1. **Original sources first** - Sources from the initial reporting (when the story broke)
 2. **Update sources last** - Sources that cover developments mentioned in the Updates section
 
-**Label update sources with italic prefix:**
 ```
 1. Sahan Journal (Jan 15, 2026): [Original reporting](URL)
 2. MPR News (Jan 22, 2026): [More original coverage](URL)
-3. *Update:* Yahoo News (Jan 25, 2026): [Judge orders release](URL)
-4. *Update:* AP News (Jan 31, 2026): [New investigation findings](URL)
+3. Yahoo News (Jan 25, 2026): [Judge orders release](URL)
+4. AP News (Jan 31, 2026): [New investigation findings](URL)
 ```
 
-**Why this matters:**
-- Readers scanning sources see the foundational reporting first
-- Update sources are clearly distinguished from original coverage
-- Keeps sources organized chronologically within each group
+No special labels needed - just put update sources at the end of the list.
 
 **How to identify update sources:**
 - Sources dated after the original incident coverage
