@@ -16,15 +16,6 @@ Stories are excluded when they don't meet the project's core focus:
 
 ## Excluded Stories
 
-### February 2026
-
-**Powderhorn Park Tear Gas (Feb 1)**
-- Sources: [JP Pritchett Facebook post](https://www.facebook.com/jennifer.pritchett)
-- Date: February 1, 2026 (Sunday morning, before 10am)
-- Details: JP Pritchett reported "some kind of tear gas has been deployed on Powderhorn Park" on Sunday morning. Post mentions ongoing mutual aid efforts and neighborhood resistance.
-- Reason: **Awaiting media coverage** - only source is Facebook post. No mainstream news coverage yet. Revisit when press picks up the story.
-- Date evaluated: 2026-02-01
-
 ### January 2026
 
 **Don Lemon / Georgia Fort Journalist Arrests (Jan 30)**
