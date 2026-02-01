@@ -506,6 +506,31 @@ When an incident has multiple videos, order videos by importance:
 3. News outlet video coverage
 4. Social media reposts
 
+### Update Sources Come Last
+
+**When an incident has an `## Updates` section, order sources as:**
+1. **Original sources first** - Sources from the initial reporting (when the story broke)
+2. **Update sources last** - Sources that cover developments mentioned in the Updates section
+
+**Label update sources with italic prefix:**
+```
+1. Sahan Journal (Jan 15, 2026): [Original reporting](URL)
+2. MPR News (Jan 22, 2026): [More original coverage](URL)
+3. *Update 1:* Yahoo News (Jan 25, 2026): [Judge orders release](URL)
+4. *Update 2:* AP News (Jan 31, 2026): [New investigation findings](URL)
+```
+
+**Why this matters:**
+- Readers scanning sources see the foundational reporting first
+- Update sources are clearly distinguished from original coverage
+- The numbering shows which update corresponds to which source (Update 1, Update 2, etc.)
+- Keeps sources organized chronologically within each group
+
+**How to identify update sources:**
+- Sources dated after the original incident coverage
+- Sources that cover events mentioned in the `## Updates` section
+- Follow-up articles about court rulings, releases, status changes, etc.
+
 ### Common Outlet Names
 Use consistent outlet names:
 - `FOX 9` (not Fox 9 or Fox9)

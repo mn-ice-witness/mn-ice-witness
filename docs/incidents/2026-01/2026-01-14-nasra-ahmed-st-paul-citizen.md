@@ -21,16 +21,16 @@ last_updated: 2026-01-19T23:30:00
 Nasra Mohamed Ahmed, a 23-year-old U.S. citizen born in Hennepin County, was detained by ICE agents on January 14 in the parking lot of her St. Paul apartment complex while on her way to pick up seizure and anxiety medication. Despite telling agents she was born in Minnesota and has never been to Somalia, she was held at Sherburne County Jail without bail for more than two days before being released to her family on Friday night (January 17) without charges. During detention, she suffered a stress-induced seizure and was taken to the hospital in full restraints. She later described being chained "like Hannibal Lecter" with a padlock. She has no criminal history.
 
 ## Sources
-1. Twin Cities Pioneer Press (Jan 16, 2026): [Family of U.S. citizen detained by ICE in St. Paul seeks her release](https://www.twincities.com/2026/01/16/family-of-u-s-citizen-detained-by-ice-in-st-paul-seeks-her-release/)
-2. Twin Cities Pioneer Press (Jan 17, 2026): [St. Paul woman, U.S. citizen, released from ICE detention after two days](https://www.twincities.com/2026/01/17/st-paul-woman-u-s-citizen-released-from-ice-detention-after-two-days/)
-3. Twin Cities Pioneer Press (Jan 18, 2026): [St. Paul woman, a U.S. citizen, recounts her two days in detention](https://www.twincities.com/2026/01/18/st-paul-woman-a-u-s-citizen-recounts-her-two-days-in-detention/)
-4. The Mirror US (Jan 18, 2026): [US citizen scarred and bruised after she was shoved to the ground and detained by ICE for 2 days](https://www.themirror.com/news/us-news/citizen-scarred-bruised-detained-ice-1626179)
-5. Complex (Jan 18, 2026): [Woman Injured, Detained, and Released by ICE Despite Being U.S. Citizen](https://www.complex.com/life/a/backwoodsaltar/us-citizen-st-paul-woman-nasra-ahmed-detained-by-ice)
-6. Inquisitr (Jan 18, 2026): [ICE Agents Pulled 23-Year-Old in a Surprise Raid, Then Left Her Scarred and Bruised](https://www.inquisitr.com/ice-agents-pulled-23-year-old-in-a-surprise-raid-then-left-her-scarred-and-bruised-they-had-a-padlock-on-me)
-7. Facebook Post (Jan 15, 2026): [Community member account](https://www.facebook.com/story.php?story_fbid=25714350694874522&id=100001788329163)
-8. Facebook Post (Jan 15, 2026): [Personal account](https://www.facebook.com/100078874290085/posts/869036045735531/)
-9. Facebook Post (Jan 15, 2026): [Community member calling for legal action](https://www.facebook.com/story.php?story_fbid=25740710055571919&id=100001788329163)
-10. X Video (Jan 15, 2026): [Video interview with Nasra Ahmed](https://x.com/FurkanGozukara/status/2013229204947554494)
+1. Facebook Post (Jan 15, 2026): [Community member account](https://www.facebook.com/story.php?story_fbid=25714350694874522&id=100001788329163)
+2. Facebook Post (Jan 15, 2026): [Personal account](https://www.facebook.com/100078874290085/posts/869036045735531/)
+3. Facebook Post (Jan 15, 2026): [Community member calling for legal action](https://www.facebook.com/story.php?story_fbid=25740710055571919&id=100001788329163)
+4. X Video (Jan 15, 2026): [Video interview with Nasra Ahmed](https://x.com/FurkanGozukara/status/2013229204947554494)
+5. Twin Cities Pioneer Press (Jan 16, 2026): [Family of U.S. citizen detained by ICE in St. Paul seeks her release](https://www.twincities.com/2026/01/16/family-of-u-s-citizen-detained-by-ice-in-st-paul-seeks-her-release/)
+6. Twin Cities Pioneer Press (Jan 17, 2026): [St. Paul woman, U.S. citizen, released from ICE detention after two days](https://www.twincities.com/2026/01/17/st-paul-woman-u-s-citizen-released-from-ice-detention-after-two-days/)
+7. *Update 1:* Twin Cities Pioneer Press (Jan 18, 2026): [St. Paul woman, a U.S. citizen, recounts her two days in detention](https://www.twincities.com/2026/01/18/st-paul-woman-a-u-s-citizen-recounts-her-two-days-in-detention/)
+8. *Update 1:* The Mirror US (Jan 18, 2026): [US citizen scarred and bruised after she was shoved to the ground and detained by ICE for 2 days](https://www.themirror.com/news/us-news/citizen-scarred-bruised-detained-ice-1626179)
+9. *Update 1:* Complex (Jan 18, 2026): [Woman Injured, Detained, and Released by ICE Despite Being U.S. Citizen](https://www.complex.com/life/a/backwoodsaltar/us-citizen-st-paul-woman-nasra-ahmed-detained-by-ice)
+10. *Update 1:* Inquisitr (Jan 18, 2026): [ICE Agents Pulled 23-Year-Old in a Surprise Raid, Then Left Her Scarred and Bruised](https://www.inquisitr.com/ice-agents-pulled-23-year-old-in-a-surprise-raid-then-left-her-scarred-and-bruised-they-had-a-padlock-on-me)
 
 ## Affected Individual(s)
 - **Name:** Nasra Mohamed Ahmed.

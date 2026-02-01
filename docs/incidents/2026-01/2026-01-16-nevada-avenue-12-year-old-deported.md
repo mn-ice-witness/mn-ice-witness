@@ -23,7 +23,7 @@ Federal agents used a battering ram to enter a home on Nevada Avenue East in St.
 ## Sources
 1. Fox 9 (Jan 17, 2026): [ICE raids St. Paul home without warrant, 12-year-old among 6 detained](https://www.fox9.com/news/federal-agents-raid-st-paul-home-without-warrant-neighbors-say-jan-2026)
 2. Bring Me The News (Jan 17, 2026): [List of ICE raids, protest updates in Minnesota on Saturday, Jan. 17](https://bringmethenews.com/minnesota-news/list-of-ice-raids-protest-updates-in-minnesota-on-saturday-jan-17)
-3. Fox 9 (Jan 20, 2026): [Judge orders DHS, ICE to release detained Venezuelan family after failing to produce warrant](https://www.fox9.com/news/judge-orders-ice-produce-warrant-release-venezuelan-family-detained-st-paul-jan-2026)
+3. *Update 1:* Fox 9 (Jan 20, 2026): [Judge orders DHS, ICE to release detained Venezuelan family after failing to produce warrant](https://www.fox9.com/news/judge-orders-ice-produce-warrant-release-venezuelan-family-detained-st-paul-jan-2026)
 
 ## Affected Individual(s)
 - **Family:** Venezuelan immigrants who arrived in 2023

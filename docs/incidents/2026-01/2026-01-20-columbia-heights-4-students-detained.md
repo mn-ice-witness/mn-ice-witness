@@ -36,7 +36,7 @@ Four students from Columbia Heights Public School District have been detained by
 11. CBS News (Jan 23, 2026): [5-year-old has active immigration case, preventing deportation for now](https://www.cbsnews.com/news/5-year-old-ice-minneapolis-immigration/)
 12. Al Jazeera (Jan 23, 2026): [US officers detain 5-year-old boy as Minnesota immigration raids continue](https://www.aljazeera.com/news/2026/1/23/us-officers-detain-5-year-old-boy-as-minnesota-immigration-raids-continue)
 13. ABC News (Jan 23, 2026): [Top ICE official accuses father of detained 5-year-old of 'abandoning his child'](https://abcnews.go.com/US/top-ice-official-accuses-father-detained-5-year/story?id=129500186)
-14. San Antonio Current (Jan 31, 2026): [Federal judge orders release of 5-year-old Liam Ramos](https://www.sacurrent.com/news/texas-news/federal-judge-orders-release-of-liam-ramos/)
+14. *Update 3:* San Antonio Current (Jan 31, 2026): [Federal judge orders release of 5-year-old Liam Ramos](https://www.sacurrent.com/news/texas-news/federal-judge-orders-release-of-liam-ramos/)
 
 ## Related Incidents
 
