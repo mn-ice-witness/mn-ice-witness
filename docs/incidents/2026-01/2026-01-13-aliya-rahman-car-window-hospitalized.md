@@ -46,7 +46,7 @@ Aliya Rahman, a 43-year-old U.S. citizen and software engineer, was dragged from
 23. Salon (Jan 17, 2026): ["I thought I was going to die": US citizen forced from her car by ICE](https://www.salon.com/2026/01/17/i-thought-i-was-going-to-die-us-citizen-forced-from-her-car-by-ice/)
 24. KSAT San Antonio (Jan 16, 2026): [Federal immigration agents filmed dragging a woman from her car](https://www.ksat.com/news/national/2026/01/16/federal-immigration-agents-filmed-dragging-a-woman-from-her-car-in-minneapolis/)
 25. Facebook Video (Jan 15, 2026): [Video coverage](https://www.facebook.com/reel/1298284502358086/)
-26. *Update 1:* CNN Video (Jan 20, 2026): [Rahman's first on-camera interview after the assault](https://www.cnn.com/2026/01/20/us/video/woman-dragged-from-car-by-ice-ldn-digvid-vrtc)
+26. *Update:* CNN Video (Jan 20, 2026): [Rahman's first on-camera interview after the assault](https://www.cnn.com/2026/01/20/us/video/woman-dragged-from-car-by-ice-ldn-digvid-vrtc)
 
 ## Affected Individual(s)
 - **Name:** Aliya Rahman

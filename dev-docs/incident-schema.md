@@ -516,14 +516,13 @@ When an incident has multiple videos, order videos by importance:
 ```
 1. Sahan Journal (Jan 15, 2026): [Original reporting](URL)
 2. MPR News (Jan 22, 2026): [More original coverage](URL)
-3. *Update 1:* Yahoo News (Jan 25, 2026): [Judge orders release](URL)
-4. *Update 2:* AP News (Jan 31, 2026): [New investigation findings](URL)
+3. *Update:* Yahoo News (Jan 25, 2026): [Judge orders release](URL)
+4. *Update:* AP News (Jan 31, 2026): [New investigation findings](URL)
 ```
 
 **Why this matters:**
 - Readers scanning sources see the foundational reporting first
 - Update sources are clearly distinguished from original coverage
-- The numbering shows which update corresponds to which source (Update 1, Update 2, etc.)
 - Keeps sources organized chronologically within each group
 
 **How to identify update sources:**
