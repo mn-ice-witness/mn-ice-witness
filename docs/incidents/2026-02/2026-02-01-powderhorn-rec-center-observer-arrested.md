@@ -18,7 +18,7 @@ last_updated: 2026-02-01T16:41:47
 
 ## Summary
 
-On Sunday morning, February 1, 2026, federal agents staged at the Powderhorn Park Recreation Center parking lot and began throwing chemical irritants at observers. They arrested one observer. Minneapolis City Council Member Jason Chavez and Minneapolis Park Board Commissioner Carvajal Moran were on site to witness the incident. One observer was found on their knees with a bleeding mouth, asking for medical help. An agent aimed a "less lethal" weapon point-blank at the crowd. After detaining the observer, agents drove off while one casually pepper sprayed neighbors through his passenger window.
+On Sunday morning, February 1, 2026, federal agents staged at the Powderhorn Park Recreation Center parking lot. According to Council Member Jason Chavez, who was on site with Park Board Commissioner Carvajal Moran, agents "began to throw chemical irritants at observers" and detained one observer. An eyewitness who arrived at the scene reported hearing concussion grenades and finding a neighbor "on their knees asking for medical help" with a bleeding mouth.
 
 ## Sources
 
