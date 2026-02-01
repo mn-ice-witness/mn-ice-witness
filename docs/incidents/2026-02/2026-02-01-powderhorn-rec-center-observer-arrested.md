@@ -18,13 +18,15 @@ last_updated: 2026-02-01T16:41:47
 
 ## Summary
 
-On Sunday morning, February 1, 2026, at approximately 8:30 AM, ICE agents in tactical gear were observed stalking the Powderhorn Park Recreation Center. When observers arrived to document the scene, agents deployed concussion grenades. One observer was found on their knees with a bleeding mouth, asking for medical help. An agent aimed a "less lethal" weapon point-blank at the crowd. After detaining one neighbor, agents drove off while one casually pepper sprayed observers through his passenger window.
+On Sunday morning, February 1, 2026, federal agents staged at the Powderhorn Park Recreation Center parking lot and began throwing chemical irritants at observers. They arrested one observer. Minneapolis City Council Member Jason Chavez and Minneapolis Park Board Commissioner Carvajal Moran were on site to witness the incident. One observer was found on their knees with a bleeding mouth, asking for medical help. An agent aimed a "less lethal" weapon point-blank at the crowd. After detaining the observer, agents drove off while one casually pepper sprayed neighbors through his passenger window.
 
 ## Sources
 
-1. Facebook Video (Feb 1, 2026): [Reel showing incident](https://www.facebook.com/reel/823987634035956)
-2. Facebook Post (Feb 1, 2026): [Eyewitness account](https://www.facebook.com/share/p/1Cwhpoddzc/)
-3. Facebook Post (Feb 1, 2026): [Detailed eyewitness account with video](https://www.facebook.com/share/p/1AqQAuAjYf/)
+1. Facebook Post (Feb 1, 2026): [@JasonChavez - Council Member statement](https://www.facebook.com/share/1C9NqQnUZJ/)
+2. Facebook Video (Feb 1, 2026): [Reel showing incident](https://www.facebook.com/reel/823987634035956)
+3. Facebook Post (Feb 1, 2026): [Eyewitness account](https://www.facebook.com/share/p/1Cwhpoddzc/)
+4. Facebook Post (Feb 1, 2026): [Detailed eyewitness account with video](https://www.facebook.com/share/p/1AqQAuAjYf/)
+5. Facebook Post (Feb 1, 2026): [@JP Pritchett - Smitten Kitten](https://www.facebook.com/share/p/1axsBeDkGv/)
 
 ## Affected Individual(s)
 
@@ -32,6 +34,12 @@ On Sunday morning, February 1, 2026, at approximately 8:30 AM, ICE agents in tac
 - **Role:** Observer documenting ICE activity
 - **Injuries:** Bleeding mouth, required medical attention
 - **Status:** Unknown - one person detained
+
+## Official Accounts
+
+### Council Member Jason Chavez
+
+> "This morning, federal agents staged at the Powderhorn Park Recreation Center lot and began to throw chemical irritants at observers. They also kidnapped an observer. Our parks are meant for our children, youth, and neighbors. Our parks should never be militarized zones meant to separate families. I'm glad that Commissioner Carvajal Moran was also on site to witness this egregious behavior so that she can bring this back to the park board."
 
 ## Eyewitness Account
 
