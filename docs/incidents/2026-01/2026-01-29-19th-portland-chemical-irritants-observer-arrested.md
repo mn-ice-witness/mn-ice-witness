@@ -22,6 +22,7 @@ On the morning of January 29, 2026, federal agents arrested at least one observe
 
 1. Bring Me The News (Jan 29, 2026): [List of ICE raids, major updates in Minnesota on Thursday, Jan. 29](https://bringmethenews.com/minnesota-news/list-of-ice-raids-major-updates-in-minnesota-on-thursday-jan-29)
 2. People Over Papers (Jan 29, 2026): [Report #96217](https://iceout.org/en/reportInfo/96217)
+3. X Post (Jan 29, 2026): [@RepAishaGomez](https://x.com/RepAishaGomez/status/2016926604224504188)
 
 ## Affected Individual(s)
 
