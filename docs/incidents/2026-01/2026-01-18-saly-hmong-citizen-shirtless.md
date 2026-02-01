@@ -38,9 +38,9 @@ A Hmong man named Saly, described as a naturalized U.S. citizen with no criminal
 15. MPR News (Jan 20, 2026): [ChongLy "Scott" Thao says ICE removed him from home in his underwear after warrantless search](https://www.mprnews.org/story/2026/01/20/chongly-scott-thao-says-ice-removed-him-from-home-in-his-underwear-after-warrantless-search)
 16. ABC News (Jan 20, 2026): [US citizen says ICE removed him from his Minnesota home in his underwear after warrantless search](https://abcnews.go.com/US/wireStory/us-citizen-ice-removed-minnesota-home-underwear-after-129372047)
 17. PBS News (Jan 20, 2026): [A U.S. citizen says ICE forced open the door to his Minnesota home](https://www.pbs.org/newshour/nation/a-u-s-citizen-says-ice-forced-open-the-door-to-his-minnesota-home-and-removed-him-in-his-underwear-after-a-warrantless-search)
-18. KSTP (Jan 22, 2026): [Man ICE sought in "humiliating" arrest of US citizen has been in prison since 2024](https://kstp.com/kstp-news/top-news/man-ice-sought-in-humiliating-arrest-of-us-citizen-has-been-in-prison-since-2024/)
-19. The Hill (Jan 20, 2026): [WATCH: ICE removes citizen from Minnesota home in his underwear](https://thehill.com/homenews/state-watch/5696306-minnesota-man-detained-ice-agents/)
-20. ABC News Video (Jan 20, 2026): [US citizen says ICE removed him from Minnesota home in underwear](https://abcnews.go.com/US/wireStory/us-citizen-ice-removed-minnesota-home-underwear-after-129372047)
+18. The Hill (Jan 20, 2026): [WATCH: ICE removes citizen from Minnesota home in his underwear](https://thehill.com/homenews/state-watch/5696306-minnesota-man-detained-ice-agents/)
+19. ABC News Video (Jan 20, 2026): [US citizen says ICE removed him from Minnesota home in underwear](https://abcnews.go.com/US/wireStory/us-citizen-ice-removed-minnesota-home-underwear-after-129372047)
+20. *Update 1:* KSTP (Jan 22, 2026): [Man ICE sought in "humiliating" arrest of US citizen has been in prison since 2024](https://kstp.com/kstp-news/top-news/man-ice-sought-in-humiliating-arrest-of-us-citizen-has-been-in-prison-since-2024/)
 
 ## Affected Individual(s)
 - **Name:** ChongLy Scott Thao (also referred to as "Saly" by family).

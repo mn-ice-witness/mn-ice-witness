@@ -22,11 +22,12 @@ last_updated: 2026-01-31T08:11:39
 Alberto Castaneda Mondragon, who entered the U.S. legally on a temporary worker visa in 2022, was detained in St. Paul on January 8, 2026 during Operation Metro Surge. He sustained catastrophic head injuries including skull fractures and brain hemorrhages while in ICE custody. ICE claims he "purposely ran headfirst into a brick wall" while handcuffed. Hospital records show Alberto told staff he was "dragged and mistreated by federal agents." He has been hospitalized at Hennepin County Medical Center for nearly two weeks, is "only minimally responsive," and his condition is declining. Attorneys allege ICE has interfered with his medical care by shackling his legs to the hospital bed despite warnings from medical staff. A federal judge ordered his immediate release on January 24, 2026, noting he "was in the wrong place at the wrong time."
 
 ## Sources
-1. AP News (Jan 31, 2026): [ICE claim that a man shattered his skull running into wall triggers tension at a Minnesota hospital](https://apnews.com/article/immigration-enforcement-minneapolis-hospitals-32cd5ca61d495e155d43b7cfd5e563b9)
+1. Sahan Journal (Jan 15, 2026): [ICE detainee hospitalized with head injury, lawsuit filed](https://sahanjournal.com/health/ice-detainee-hospitalized-head-injury-lawsuit/)
 2. MPR News (Jan 22, 2026): [Man with severe head wounds in ICE custody after being detained in St. Paul](https://www.mprnews.org/story/2026/01/22/man-with-severe-head-wounds-in-ice-custody-after-being-detained-in-st-paul)
 3. MPR News (Jan 22, 2026): [Man injured in ICE custody "purposely ran head first into a brick wall," agents say](https://www.mprnews.org/story/2026/01/22/man-injured-in-ice-custody-purposely-ran-head-first-into-a-brick-wall-agents-say)
-4. Sahan Journal (Jan 15, 2026): [ICE detainee hospitalized with head injury, lawsuit filed](https://sahanjournal.com/health/ice-detainee-hospitalized-head-injury-lawsuit/)
-5. Yahoo News (Jan 25, 2026): [Judge orders immediate release of Minnesota ICE detainee](https://www.yahoo.com/news/articles/judge-orders-immediate-release-minnesota-014048216.html)
+4. *Update 1:* Yahoo News (Jan 25, 2026): [Judge orders immediate release of Minnesota ICE detainee](https://www.yahoo.com/news/articles/judge-orders-immediate-release-minnesota-014048216.html)
+5. *Update 2:* AP News (Jan 31, 2026): [ICE claim that a man shattered his skull running into wall triggers tension at a Minnesota hospital](https://apnews.com/article/immigration-enforcement-minneapolis-hospitals-32cd5ca61d495e155d43b7cfd5e563b9)
+6. *Update 3:* ABC7 Los Angeles (Jan 31, 2026): [ICE claim that a man shattered his skull running into wall triggers tension at a Minnesota hospital](https://abc7.com/post/ice-minneapolis-news-agents-claim-alberto-castaeda-mondragn-hit-wall-shattered-skull-triggers-tension-hospital/18514566/)
 
 ## Affected Individual(s)
 - **Name:** Alberto Castaneda Mondragon (referred to as "Alberto C.M." in court documents).

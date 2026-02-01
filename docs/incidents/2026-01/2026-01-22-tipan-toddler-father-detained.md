@@ -21,12 +21,12 @@ last_updated: 2026-01-23T19:21:21
 ICE agents followed Elvis Joel Tipan Echeverria and his 2-year-old daughter Chloe Renata Tipan Villacis from a grocery store to their home near Chicago Avenue and 35th Street in South Minneapolis, where they detained them. Attorneys for the family say they were asylum-seekers pulled over without a warrant and did not have a final order for removal. A federal judge ordered the toddler released by 9:30 PM, but ICE placed both on a commercial flight to Texas 19 minutes after the order was signed. A government attorney subsequently pledged to return the girl to Minnesota.
 
 ## Sources
-1. Star Tribune (Jan 23, 2026): [Agents detain and send 2-year-old girl and her father to Texas despite court order to release toddler](https://www.startribune.com/agents-detain-and-send-2-year-old-girl-and-her-father-to-texas-despite-court-order-to-release-toddler/601569252)
-2. KSTP (Jan 23, 2026): [ICE flew 2-year-old to Texas despite court order to release her from custody](https://kstp.com/kstp-news/top-news/ice-flew-2-year-old-to-texas-despite-court-order-to-release-her-from-custody/)
-3. NBC News (Jan 23, 2026): [2-year-old girl and father taken by ICE in Minneapolis, local lawmaker says](https://www.nbcnews.com/news/us-news/2-year-old-girl-father-taken-ice-minneapolis-immigration-rcna255603)
-4. KARE 11 (Jan 23, 2026): [ICE detains 2-year-old and father, Minneapolis city council member says](https://www.kare11.com/article/news/local/ice-in-minnesota/ice-detains-2-year-old-and-father-minneapolis-city-council-member-says/89-c1383d48-7d9d-4c39-a2ee-481f358eabec)
-5. GoFundMe (Jan 22, 2026): [Help bring 2-Year-Old Chloe and Her Father Home](https://www.gofundme.com/f/help-bring-2yearold-chloe-and-her-father-home)
-6. Bring Me The News (Jan 23, 2026): [Federal agents detain 2-year-old girl and her father in south Minneapolis](https://bringmethenews.com/minnesota-news/federal-agents-detain-2-year-old-girl-and-her-father-in-south-minneapolis)
+1. GoFundMe (Jan 22, 2026): [Help bring 2-Year-Old Chloe and Her Father Home](https://www.gofundme.com/f/help-bring-2yearold-chloe-and-her-father-home)
+2. NBC News (Jan 23, 2026): [2-year-old girl and father taken by ICE in Minneapolis, local lawmaker says](https://www.nbcnews.com/news/us-news/2-year-old-girl-father-taken-ice-minneapolis-immigration-rcna255603)
+3. KARE 11 (Jan 23, 2026): [ICE detains 2-year-old and father, Minneapolis city council member says](https://www.kare11.com/article/news/local/ice-in-minnesota/ice-detains-2-year-old-and-father-minneapolis-city-council-member-says/89-c1383d48-7d9d-4c39-a2ee-481f358eabec)
+4. Bring Me The News (Jan 23, 2026): [Federal agents detain 2-year-old girl and her father in south Minneapolis](https://bringmethenews.com/minnesota-news/federal-agents-detain-2-year-old-girl-and-her-father-in-south-minneapolis)
+5. *Update 1:* Star Tribune (Jan 23, 2026): [Agents detain and send 2-year-old girl and her father to Texas despite court order to release toddler](https://www.startribune.com/agents-detain-and-send-2-year-old-girl-and-her-father-to-texas-despite-court-order-to-release-toddler/601569252)
+6. *Update 1:* KSTP (Jan 23, 2026): [ICE flew 2-year-old to Texas despite court order to release her from custody](https://kstp.com/kstp-news/top-news/ice-flew-2-year-old-to-texas-despite-court-order-to-release-her-from-custody/)
 
 ## Affected Individual(s)
 - **Name:** Elvis Joel Tipan Echeverria (father)
