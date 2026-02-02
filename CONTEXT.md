@@ -202,9 +202,13 @@ GIT_MN_ICE_FILES/
     ├── js/              # See architecture.md for module details
     ├── functions/       # Cloudflare Functions for path URLs
     ├── incidents/       # ALL incident markdown files
-    │   ├── 2025-12/
+    │   ├── 2025-12/     # Month folders contain day subfolders
+    │   │   ├── 02/      # Day subfolders contain dated incidents
+    │   │   └── ...
     │   └── 2026-01/
-    ├── media/           # Processed video/images
+    │       ├── 07/
+    │       └── ...
+    ├── media/           # Processed video/images (also uses YYYY-MM/DD structure)
     └── data/
         ├── incidents-summary.json  # Auto-generated, don't edit
         ├── media-order.md          # Controls gallery ordering

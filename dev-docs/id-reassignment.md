@@ -45,14 +45,14 @@ Edit `docs/data/redirects.json` and add the mapping:
 Four locations need renaming:
 
 ```bash
-# Incident markdown
-mv docs/incidents/YYYY-MM/OLD-ID.md docs/incidents/YYYY-MM/NEW-ID.md
+# Incident markdown (standard dated file in day subfolder)
+mv docs/incidents/YYYY-MM/DD/OLD-ID.md docs/incidents/YYYY-MM/DD/NEW-ID.md
 
-# Processed video/image
-mv docs/media/OLD-ID.mp4 docs/media/NEW-ID.mp4
+# Processed video/image (in date subfolder)
+mv docs/media/YYYY-MM/DD/OLD-ID.mp4 docs/media/YYYY-MM/DD/NEW-ID.mp4
 
 # OG thumbnail (for videos)
-mv docs/media/OLD-ID-og-*.jpg docs/media/NEW-ID-og-*.jpg
+mv docs/media/YYYY-MM/DD/OLD-ID-og-*.jpg docs/media/YYYY-MM/DD/NEW-ID-og-*.jpg
 
 # Raw media source
 mv raw_media/OLD-ID.raw.mov raw_media/NEW-ID.raw.mov
@@ -101,12 +101,12 @@ Renaming `2026-01-25-dhs-response-bovino-gun-deflection` to `2026-01-25-bovino-p
 
 2. Rename files:
    ```bash
-   mv docs/incidents/2026-01/2026-01-25-dhs-response-bovino-gun-deflection.md \
-      docs/incidents/2026-01/2026-01-25-bovino-pretti-2a-concerns.md
-   mv docs/media/2026-01-25-dhs-response-bovino-gun-deflection.mp4 \
-      docs/media/2026-01-25-bovino-pretti-2a-concerns.mp4
-   mv docs/media/2026-01-25-dhs-response-bovino-gun-deflection-og-2s-*.jpg \
-      docs/media/2026-01-25-bovino-pretti-2a-concerns-og-2s-*.jpg
+   mv docs/incidents/2026-01/25/2026-01-25-dhs-response-bovino-gun-deflection.md \
+      docs/incidents/2026-01/25/2026-01-25-bovino-pretti-2a-concerns.md
+   mv docs/media/2026-01/25/2026-01-25-dhs-response-bovino-gun-deflection.mp4 \
+      docs/media/2026-01/25/2026-01-25-bovino-pretti-2a-concerns.mp4
+   mv docs/media/2026-01/25/2026-01-25-dhs-response-bovino-gun-deflection-og-2s-*.jpg \
+      docs/media/2026-01/25/2026-01-25-bovino-pretti-2a-concerns-og-2s-*.jpg
    mv raw_media/2026-01-25-dhs-response-bovino-gun-deflection.raw.mov \
       raw_media/2026-01-25-bovino-pretti-2a-concerns.raw.mov
    ```

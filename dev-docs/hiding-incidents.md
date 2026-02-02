@@ -7,12 +7,14 @@ How to temporarily hide incidents from the live site without deleting them.
 To hide an incident, prefix its filename with an underscore (`_`):
 
 ```bash
-# Hide an incident
-mv docs/incidents/2026-01/2026-01-24-my-incident.md docs/incidents/2026-01/_2026-01-24-my-incident.md
+# Hide an incident (move from day folder to month folder with underscore prefix)
+mv docs/incidents/2026-01/24/2026-01-24-my-incident.md docs/incidents/2026-01/_2026-01-24-my-incident.md
 
-# Unhide it later
-mv docs/incidents/2026-01/_2026-01-24-my-incident.md docs/incidents/2026-01/2026-01-24-my-incident.md
+# Unhide it later (move back to day folder)
+mv docs/incidents/2026-01/_2026-01-24-my-incident.md docs/incidents/2026-01/24/2026-01-24-my-incident.md
 ```
+
+**Note:** Hidden files are stored at the month level (not in day subfolders) to keep them separate from published content.
 
 Then regenerate the summary:
 
