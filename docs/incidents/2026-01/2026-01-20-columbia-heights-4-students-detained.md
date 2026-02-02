@@ -102,4 +102,4 @@ Columbia Heights Public Schools shifted to a Flex Learning Day "out of an abunda
 This incident is part of "Operation Metro Surge," a surge of federal immigration enforcement in the Twin Cities. Reports indicate ICE has been active in multiple areas including circling school property waiting for families to pick up their children.
 
 ## Editorial Assessment
-**HIGH** - Superintendent press conference reported by multiple mainstream outlets (CBS Minnesota, Sahan Journal). School district provided photo evidence. Named affected individual (Liam Ramos) with specific details about detention circumstances and family's legal status (active asylum case).
+**HIGH** - Superintendent press conference reported by multiple news outlets (CBS Minnesota, Sahan Journal). School district provided photo evidence. Named affected individual (Liam Ramos) with specific details about detention circumstances and family's legal status (active asylum case).

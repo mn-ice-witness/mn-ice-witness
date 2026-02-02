@@ -1,7 +1,7 @@
 /**
- * Cloudflare Pages Function for /unverified
+ * Cloudflare Pages Function for /no-news-media
  *
- * Intercepts the unverified page URL, injects Open Graph meta tags for social media sharing,
+ * Intercepts the no-news-media page URL, injects Open Graph meta tags for social media sharing,
  * and returns the main index.html.
  */
 
@@ -13,8 +13,8 @@ export async function onRequest(context) {
   const indexResponse = await fetch(baseUrl.toString());
   let html = await indexResponse.text();
 
-  // Build OG meta tags for unverified page
-  const ogTags = buildUnverifiedOgTags(baseUrl.origin);
+  // Build OG meta tags for no-news-media page
+  const ogTags = buildNoNewsMediaOgTags(baseUrl.origin);
 
   // Inject OG tags into <head>
   html = injectOgTags(html, ogTags);
@@ -26,10 +26,10 @@ export async function onRequest(context) {
   });
 }
 
-function buildUnverifiedOgTags(origin) {
-  const title = 'Unverified Reports | MN ICE Witness';
-  const description = 'Reports we are seeking to verify. Help us confirm these incidents with news articles, photos, videos, or first-hand accounts.';
-  const url = `${origin}/unverified`;
+function buildNoNewsMediaOgTags(origin) {
+  const title = 'No News Media | MN ICE Witness';
+  const description = 'Incidents documented by social media and eyewitnesses. Help us find press coverage.';
+  const url = `${origin}/no-news-media`;
 
   return {
     'og:title': title,

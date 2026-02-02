@@ -226,7 +226,7 @@ DATETIME_PATTERN = re.compile(r"^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}$")  # YYYY-
 
 VALID_STATUS = {"ongoing", "resolved", "under-investigation"}
 VALID_INJURIES = {"none", "minor", "serious", "fatal"}
-VALID_TRUSTWORTHINESS = {"high", "medium", "low", "unverified", "removed"}
+VALID_TRUSTWORTHINESS = {"high", "medium", "low", "no-news-media", "removed"}
 VALID_TYPES = {"citizens", "observers", "immigrants", "schools-hospitals", "response"}
 VALID_CITIZENSHIP = {
     "us-citizen",
@@ -337,7 +337,7 @@ def process_incident(file_path, docs_dir, media_dir):
             "affected_individual_citizenship", "unknown"
         ),
         "injuries": meta.get("injuries", "unknown"),
-        "trustworthiness": meta.get("trustworthiness", "unverified"),
+        "trustworthiness": meta.get("trustworthiness", "no-news-media"),
         "created": meta["created"],
         "lastUpdated": meta["last_updated"],
         "mediaCount": count_media(content),
@@ -415,9 +415,9 @@ def main():
     incidents_with_media = [i for i in incidents if i["hasLocalMedia"]]
     media_count = len(incidents_with_media)
 
-    # Update media order file with new items (exclude unverified and removed incidents)
+    # Update media order file with new items (exclude no-news-media and removed incidents)
     verified_with_media = [
-        i for i in incidents_with_media if i["trustworthiness"] not in ("unverified", "removed")
+        i for i in incidents_with_media if i["trustworthiness"] not in ("no-news-media", "removed")
     ]
     update_media_order(verified_with_media, docs_dir / "data")
 

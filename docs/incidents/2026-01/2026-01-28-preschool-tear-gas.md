@@ -7,14 +7,14 @@ type: schools-hospitals
 status: ongoing
 affected_individual_citizenship: unknown
 injuries: none
-trustworthiness: unverified
+trustworthiness: no-news-media
 created: 2026-01-28T08:28:50
 last_updated: 2026-01-28T08:28:50
 ---
 
-# ICE Agents Deploy Tear Gas Outside Minneapolis Preschool (UNVERIFIED)
+# ICE Agents Deploy Tear Gas Outside Minneapolis Preschool (NO NEWS MEDIA)
 
-***No mainstream media has reported on this incident. It is based on social media posts only. If you have a media source, please [contact us](mailto:mnicewitness@gmail.com).***
+***Documented by social media posts. If you know of press coverage, please [contact us](mailto:mnicewitness@gmail.com).***
 
 ## Summary
 
@@ -35,8 +35,8 @@ A video circulating on social media shows ICE agents deploying tear gas outside 
 
 According to the Bluesky post, video from the morning of January 28 shows ICE agents deploying tear gas in an area outside a Minneapolis preschool. Parents at the scene can be heard protesting: "This is a preschool! There's kids here!"
 
-The post received significant engagement (7,459 likes, 4,920 shares) but has not been picked up by mainstream news outlets as of the time of documentation.
+The post received significant engagement (7,459 likes, 4,920 shares) but has not been picked up by news outlets as of the time of documentation.
 
 ## Editorial Assessment
 
-**UNVERIFIED** - Single social media source only. No mainstream news coverage found. Location of preschool not identified. Video has not been independently verified. Will upgrade rating if news outlets confirm the incident.
+**NO NEWS MEDIA** - Single social media source only. Awaiting news media coverage. Location of preschool not identified. Video has not been independently verified. Will upgrade rating if news outlets confirm the incident.

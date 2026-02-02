@@ -138,7 +138,7 @@ Most local stations have video on their websites.
 ## Red Flags (Don't Document Without Corroboration)
 
 - Single anonymous social media post
-- Unverified "friend of a friend" claims
+- "Friend of a friend" claims without sources
 - No specific date/location
 - No identifiable affected individual
 - Contradicts known facts

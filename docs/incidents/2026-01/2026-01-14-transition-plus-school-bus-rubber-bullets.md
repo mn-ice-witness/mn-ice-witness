@@ -47,4 +47,4 @@ Students on the bus were already experiencing heightened anxiety due to:
 
 ## Editorial Assessment
 
-**MEDIUM** - Detailed community newspaper account with specific incident description. Single local source (published in two affiliated neighborhood papers). No mainstream media pickup found. No name for the detained individual.
+**MEDIUM** - Detailed community newspaper account with specific incident description. Single local source (published in two affiliated neighborhood papers). No broader news media pickup found. No name for the detained individual.

@@ -30,7 +30,7 @@ When the user says **"do our daily search"** or similar, follow this exact proce
 ### Phase 1: Gather Context (Before Searching)
 1. **Read existing incidents** - Use Explore agent to get current incident count and recent additions
 2. **Read `dev-docs/not_use.md`** - Know what stories have been rejected and why
-3. **Read unverified incidents** - Check `docs/incidents/` for files with `trustworthiness: unverified` to see if news has broken
+3. **Read no-news-media incidents** - Check `docs/incidents/` for files with `trustworthiness: no-news-media` to see if news has broken
 
 ### Phase 2: Launch Parallel Search Agents
 Launch **4-6 agents simultaneously** with different search strategies:
@@ -42,7 +42,7 @@ Launch **4-6 agents simultaneously** with different search strategies:
 | 3 | Sahan Journal + MPR | `site:sahanjournal.com OR site:mprnews.org ICE Minnesota January 2026` |
 | 4 | Social Media | `site:x.com OR site:bsky.app ICE Minneapolis Minnesota [dates]` |
 | 5 | Video Evidence | `ICE Minnesota video footage January 2026` |
-| 6 | Unverified Follow-up | Search for specific unverified incident details (names, locations) |
+| 6 | No-News-Media Follow-up | Search for specific no-news-media incident details (names, locations) |
 
 ### Phase 3: Cross-Reference and Report
 Each agent should:
@@ -53,7 +53,7 @@ Each agent should:
    - **Already documented** (incident matched existing file)
    - **Add to not_use.md** (evaluated and rejected, with reason)
    - **Updates to existing** (new sources, status changes)
-   - **Unverified upgrades** (news found for unverified incidents)
+   - **No-news-media upgrades** (news found for no-news-media incidents)
 
 ### Phase 4: Output
 After agents complete, produce summary table:
@@ -73,7 +73,7 @@ After agents complete, produce summary table:
 | Story | Reason |
 |-------|--------|
 
-### Unverified Status Changes
+### No-News-Media Status Changes
 | Incident | Old Status | New Status | Evidence |
 |----------|------------|------------|----------|
 
@@ -276,7 +276,7 @@ These provide incontrovertible evidence and should be documented with HIGH trust
 - Protest-only coverage without a civil rights incident
 - Criminal investigations (drug trafficking, weapons)
 - Detainees with criminal convictions
-- Single unverified social media posts
+- Single single social media posts without news coverage
 - Rumors without any news pickup
 
 ### Categorizing Incidents: citizens vs immigrants
@@ -331,7 +331,7 @@ List incidents that need additional verification before documenting
 2. **Propose new incident files** - If any qualify, outline what would be documented
 3. **Update not_use.md** - Add any evaluated/rejected stories
 4. **Update existing incidents** - If new information found for existing files
-5. **Add ALL discovered sources** - Even unverified links should be added to incident files
+5. **Add ALL discovered sources** - Even preliminary links should be added to incident files
 
 ### Updating Incident Content When New Information Emerges
 
@@ -364,7 +364,7 @@ Example: If a judge rules an arrest was unconstitutional, update the summary to 
 
 ### Adding Sources to Existing Incidents
 
-**CRITICAL:** When researching, add ALL discovered sources to incident files, even if unverified:
+**CRITICAL:** When researching, add ALL discovered sources to incident files, even without news coverage:
 
 - Add new sources to the END of the Sources section (don't reorder existing sources)
 - Include social media links (X, TikTok, Instagram, Threads, BlueSky, Facebook)

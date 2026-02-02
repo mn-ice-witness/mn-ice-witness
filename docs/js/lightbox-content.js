@@ -19,7 +19,7 @@ const LightboxContent = {
         high: '3+ independent sources with video/photo evidence',
         medium: '2 sources or official statements',
         low: 'Single source or social media only',
-        unverified: 'Reported but not yet confirmed'
+        'no-news-media': 'No news media coverage'
     },
 
     /**

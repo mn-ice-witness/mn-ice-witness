@@ -108,7 +108,7 @@ The issue is when Tier 3 sources are the **only** coverage—meaning no journali
 | Tier 2 only | MEDIUM |
 | Tier 3 with strong video/documentation | MEDIUM |
 | Tier 3 only, no video | LOW |
-| Single unverified social media post | UNVERIFIED |
+| Single social media post (no news coverage) | NO-NEWS-MEDIA |
 
 ## Why This Matters
 

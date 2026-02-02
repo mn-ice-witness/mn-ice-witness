@@ -60,7 +60,7 @@ const IncidentParser = {
             status: meta.status || 'unknown',
             affectedIndividualCitizenship: meta.affected_individual_citizenship || 'unknown',
             injuries: meta.injuries || 'unknown',
-            trustworthiness: meta.trustworthiness || 'unverified',
+            trustworthiness: meta.trustworthiness || 'no-news-media',
             lastUpdated: meta.last_updated || meta.date || 'Unknown'
         };
     },
@@ -92,7 +92,7 @@ const IncidentParser = {
             'high': 'High Trust',
             'medium': 'Medium Trust',
             'low': 'Low Trust',
-            'unverified': 'Unverified'
+            'no-news-media': 'No News Media'
         };
         return labels[trust] || trust;
     },

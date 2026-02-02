@@ -142,7 +142,7 @@ When adding new icons, add them to `docs/index.html` and document here.
 | `.about-note` | about.md | Italic note paragraphs |
 | `.about-external-callout` | about.md | External link callout |
 | `.about-badge` | about.md | Trustworthiness badges base |
-| `.about-badge-high/medium/low/unverified` | about.md | Badge colors |
+| `.about-badge-high/medium/low/no-news-media` | about.md | Badge colors |
 | `.incident-note` | incident files | Styled inline notes |
 | `.media-icon` | various | Camera icon color |
 | `.viewed-icon` | various | Eye icon color |

@@ -7,14 +7,14 @@ type: immigrants
 status: ongoing
 affected_individual_citizenship: legal-resident
 injuries: none
-trustworthiness: unverified
+trustworthiness: no-news-media
 created: 2026-01-19T23:09:36
 last_updated: 2026-01-19T23:09:36
 ---
 
-# Moldovan Refugee Nadya Detained While Driving to Church with Family (UNVERIFIED)
+# Moldovan Refugee Nadya Detained While Driving to Church with Family (NO NEWS MEDIA)
 
-***No mainstream media has reported on this incident. It is based on social media posts only. If you have a media source, please [contact us](mailto:mnicewitness@gmail.com).***
+***Documented by social media posts. If you know of press coverage, please [contact us](mailto:mnicewitness@gmail.com).***
 
 ## Summary
 Nadya, a Moldovan refugee with legal status awaiting her green card, was detained by ICE on January 17, 2026 while driving from her home to church with her husband and three children. Five ICE vehicles stopped the family shortly after they left their house. Despite the family explaining they had refugee status and were in the process of obtaining green cards, ICE detained only Nadya and released her husband and children. She has been held in poor conditions, in handcuffs and sleeping on the floor. <em class="incident-note">**Note: This story seems to follow a pattern of Operation PARRIS (Post-Admission Refugee Reverification and Integrity Strengthening) -- see more details on this below.**</em>
@@ -66,4 +66,4 @@ Nadya's detention fits a documented pattern of ICE targeting refugees with pendi
 On January 29, 2026, [Federal Judge John Tunheim issued a temporary restraining order](https://www.cbsnews.com/minnesota/news/federal-judge-bars-detaining-lawful-refugees-minnesota/) blocking ICE from arresting or detaining lawfully present refugees in Minnesota under Operation PARRIS, and ordered the release of those currently detained.
 
 ## Editorial Assessment
-**UNVERIFIED** - Currently sourced only from GoFundMe campaign and Facebook post. No corroborating news coverage found. Details are consistent with documented Operation PARRIS patterns targeting refugees awaiting green cards. May be upgraded if news coverage emerges. Key missing details: last name, specific city in Minnesota.
+**NO NEWS MEDIA** - Currently sourced only from GoFundMe campaign and Facebook post. No corroborating news coverage found. Details are consistent with documented Operation PARRIS patterns targeting refugees awaiting green cards. May be upgraded if news coverage emerges. Key missing details: last name, specific city in Minnesota.

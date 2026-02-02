@@ -60,7 +60,7 @@ type: enum                    # Required. See types below
 status: enum                  # Required. ongoing | resolved | under-investigation
 affected_individual_citizenship: enum  # Required. See values below
 injuries: enum                # Required. none | minor | serious | fatal
-trustworthiness: enum         # Required. EXACTLY ONE OF: high | medium | low | unverified (no compound values like "medium-high")
+trustworthiness: enum         # Required. EXACTLY ONE OF: high | medium | low | no-news-media (no compound values like "medium-high")
 created: YYYY-MM-DDTHH:MM:SS  # Required. When incident was first added to site
 last_updated: YYYY-MM-DDTHH:MM:SS  # Required. When last MAJOR update occurred (see rules)
 ---
@@ -173,17 +173,17 @@ Both categories may involve U.S. citizens being detained. Choose based on WHY th
 # Incident Title
 ```
 
-### UNVERIFIED Incidents - Special Formatting
+### NO-NEWS-MEDIA Incidents - Special Formatting
 
-For incidents with `trustworthiness: unverified`, add two special elements:
+For incidents with `trustworthiness: no-news-media`, add two special elements:
 
-1. **Title suffix**: Add `(UNVERIFIED)` to the end of the title
+1. **Title suffix**: Add `(NO NEWS MEDIA)` to the end of the title
 2. **Warning message**: Add a bold italic disclaimer between title and Summary
 
 ```markdown
-# Incident Title (UNVERIFIED)
+# Incident Title (NO NEWS MEDIA)
 
-***No mainstream media has reported on this incident. It is based on social media posts only. If you have a media source, please [contact us](mailto:mnicewitness@gmail.com).***
+***Documented by social media posts. If you know of press coverage, please [contact us](mailto:mnicewitness@gmail.com).***
 
 ## Summary
 ```

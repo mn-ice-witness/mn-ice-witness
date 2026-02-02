@@ -183,8 +183,8 @@ const App = {
                 Lightbox.openNewUpdated(route.dateStr);
                 break;
 
-            case 'unverified':
-                Lightbox.openUnverified();
+            case 'no-news-media':
+                Lightbox.openNoNewsMedia();
                 break;
 
             case 'removed':
@@ -275,13 +275,13 @@ const App = {
     },
 
     /**
-     * Get filtered incidents based on search query (excludes unverified)
+     * Get filtered incidents based on search query (excludes no-news-media)
      */
     getFilteredIncidents() {
         const query = (typeof Search !== 'undefined' && Search.query) ? Search.query.toLowerCase().trim() : '';
-        // Filter out unverified and removed incidents from main display
+        // Filter out no-news-media and removed incidents from main display
         const verified = this.incidents.filter(i =>
-            i.trustworthiness !== 'unverified' && i.trustworthiness !== 'removed'
+            i.trustworthiness !== 'no-news-media' && i.trustworthiness !== 'removed'
         );
         if (!query) return verified;
 
@@ -304,11 +304,11 @@ const App = {
     },
 
     /**
-     * Get unverified incidents sorted by update date
+     * Get no-news-media incidents sorted by update date
      */
-    getUnverifiedIncidents() {
+    getNoNewsMediaIncidents() {
         return this.incidents
-            .filter(i => i.trustworthiness === 'unverified')
+            .filter(i => i.trustworthiness === 'no-news-media')
             .sort((a, b) => {
                 const dateA = a.lastUpdated || a.created || a.date;
                 const dateB = b.lastUpdated || b.created || b.date;
@@ -375,9 +375,9 @@ const App = {
                 e.preventDefault();
                 const href = pill.getAttribute('href');
 
-                // Handle unverified link specially
-                if (href === '/unverified') {
-                    Lightbox.openUnverified();
+                // Handle no-news-media link specially
+                if (href === '/no-news-media') {
+                    Lightbox.openNoNewsMedia();
                     return;
                 }
 

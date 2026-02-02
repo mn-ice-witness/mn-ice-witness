@@ -7,14 +7,14 @@ type: observers
 status: ongoing
 affected_individual_citizenship: unknown
 injuries: minor
-trustworthiness: unverified
+trustworthiness: no-news-media
 created: 2026-02-01T16:41:47
 last_updated: 2026-02-01T16:41:47
 ---
 
-# Observer Arrested, Concussion Grenades Deployed at Powderhorn Rec Center (UNVERIFIED)
+# Observer Arrested, Concussion Grenades Deployed at Powderhorn Rec Center (NO NEWS MEDIA)
 
-***No mainstream media has reported on this incident. It is based on social media posts only. If you have a media source, please [contact us](mailto:mnicewitness@gmail.com).***
+***Documented by social media posts. If you know of press coverage, please [contact us](mailto:mnicewitness@gmail.com).***
 
 ## Summary
 
@@ -66,4 +66,4 @@ The Powderhorn Park Recreation Center has been a site of previous ICE staging ac
 
 ## Editorial Assessment
 
-**UNVERIFIED** - Multiple Facebook posts with video from eyewitnesses. No mainstream media coverage yet. Incident occurred this morning (Feb 1, 2026). Will upgrade trustworthiness when press coverage emerges.
+**NO NEWS MEDIA** - Multiple Facebook posts with video from eyewitnesses. Awaiting news media coverage. Incident occurred this morning (Feb 1, 2026). Will upgrade trustworthiness when press coverage emerges.

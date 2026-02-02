@@ -17,7 +17,7 @@ const Router = {
 
     /**
      * Build a clean path-based URL
-     * @param {string} type - 'incident', 'about', 'list', 'media', 'unverified', 'removed', or 'home'
+     * @param {string} type - 'incident', 'about', 'list', 'media', 'no-news-media', 'removed', or 'home'
      * @param {string|null} slug - Optional slug/section/category
      * @returns {string} URL path
      */
@@ -33,8 +33,8 @@ const Router = {
                 return '/media';
             case 'new-updated':
                 return `/new-updated/${slug}`;
-            case 'unverified':
-                return '/unverified';
+            case 'no-news-media':
+                return '/no-news-media';
             case 'removed':
                 return '/removed';
             case 'home':
@@ -81,8 +81,8 @@ const Router = {
                 return { type: 'new-updated', dateStr, filter };
             }
         }
-        if (path === '/unverified') {
-            return { type: 'unverified', filter };
+        if (path === '/no-news-media') {
+            return { type: 'no-news-media', filter };
         }
         if (path === '/removed') {
             return { type: 'removed', filter };

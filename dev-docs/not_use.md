@@ -29,7 +29,7 @@ Stories are excluded when they don't meet the project's core focus:
 - Sources: People Over Papers video via [Bring Me The News](https://bringmethenews.com/minnesota-news/list-of-ice-raids-major-updates-in-minnesota-on-friday-jan-30)
 - Date: January 30, 2026
 - Details: Video shows a driver was "boxed in by several federal vehicles" in Ham Lake early Friday morning.
-- Reason: **Insufficient details** - no affected individual name, no citizenship/status information, no outcome documented. Single social media video with no mainstream news follow-up.
+- Reason: **Insufficient details** - no affected individual name, no citizenship/status information, no outcome documented. Single social media video with no news media follow-up.
 - Date evaluated: 2026-01-30
 
 **Esox House St. Paul Lobby Presence (Jan 30)**
@@ -43,7 +43,7 @@ Stories are excluded when they don't meet the project's core focus:
 - Sources: Facebook photos via [Bring Me The News](https://bringmethenews.com/minnesota-news/list-of-ice-raids-major-updates-in-minnesota-on-friday-jan-30)
 - Date: January 30, 2026 (11:40 a.m.)
 - Details: Pictures shared on Facebook show a federal agent traffic stop and apparent arrests on Old Cedar Avenue in Bloomington.
-- Reason: **Insufficient details** - no affected individual names, no citizenship/status information, Facebook photos only with no mainstream news follow-up.
+- Reason: **Insufficient details** - no affected individual names, no citizenship/status information, Facebook photos only with no news media follow-up.
 - Date evaluated: 2026-01-30
 
 **DOJ Civil Rights Investigation into Alex Pretti (Jan 30)**
@@ -624,7 +624,7 @@ Stories are excluded when they don't meet the project's core focus:
 - Source: [Xidig TV](https://bringmethenews.com/minnesota-news/list-of-major-ice-raids-updates-in-minnesota-on-tuesday-jan-20) via BMTN
 - Date: January 20, 2026
 - Details: Footage from Xidig TV shows ICE agents arrested a man near Washington Memorial Drive and Division Street in St. Cloud.
-- Reason: Insufficient details - single source (Somali media outlet), no affected individual identification, no mainstream news coverage with additional details.
+- Reason: Insufficient details - single source (Somali media outlet), no affected individual identification, no news media coverage with additional details.
 - Date evaluated: 2026-01-21
 
 **MSP Airport Clergy Protest Arrests (Jan 23)**
