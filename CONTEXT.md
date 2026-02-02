@@ -195,12 +195,12 @@ GIT_MN_ICE_FILES/
 │   ├── generate_summary.py   # Creates incidents-summary.json
 │   ├── generate_og_image.py  # Creates og-image.jpg collage
 │   └── process_media.py      # Compresses raw_media → docs/media
+├── functions/           # Cloudflare Functions for path URLs
 ├── raw_media/           # Source video/images (NEVER modified)
 └── docs/                # Website content (deployed to Cloudflare)
     ├── index.html
     ├── css/style.css
     ├── js/              # See architecture.md for module details
-    ├── functions/       # Cloudflare Functions for path URLs
     ├── incidents/       # ALL incident markdown files
     │   ├── 2025-12/     # Month folders contain day subfolders
     │   │   ├── 02/      # Day subfolders contain dated incidents
