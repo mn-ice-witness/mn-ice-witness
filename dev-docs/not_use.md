@@ -25,6 +25,13 @@ Stories are excluded when they don't meet the project's core focus:
 - Reason: **Not an ICE incident.** This is a DOJ/FBI arrest for alleged FACE Act violations (disrupting church services), not an ICE immigration enforcement action. The arrests were made by FBI/HSI, not ICE agents. The underlying incident was a protest at a church where an ICE official was a pastor - but the arrests themselves have nothing to do with immigration enforcement or ICE civil rights violations. This is a political/First Amendment story about DOJ prosecuting protesters and journalists, not documentation of ICE enforcement tactics.
 - Date evaluated: 2026-01-30
 
+**Zumbro Ridge Estates ICE Presence Rochester (Jan 23)**
+- Sources: [KAAL ABC 6 News](https://www.kaaltv.com/news/ice-presence-at-zumbro-ridge-estates-in-rochester-on-friday/)
+- Date: January 23, 2026
+- Details: ICE agents in unmarked silver sedans wearing tactical gear were spotted at Zumbro Ridge Estates mobile home park on Friday morning and afternoon. Neighbors set off car alarms and blew whistles to alert residents. Two community members reported being warned by agents against following vehicles with threats of arrest. No arrests were reported.
+- Reason: **Presence only** - no arrest documented, no affected individual detained. ICE presence at residential area without documented enforcement action.
+- Date evaluated: 2026-02-02
+
 **Ham Lake ICE Activity (Jan 30)**
 - Sources: People Over Papers video via [Bring Me The News](https://bringmethenews.com/minnesota-news/list-of-ice-raids-major-updates-in-minnesota-on-friday-jan-30)
 - Date: January 30, 2026
