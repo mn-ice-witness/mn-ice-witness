@@ -872,15 +872,15 @@
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/23/2026-01-23-bowlocity-us-citizen-detained.mp4",
-      "localMediaOgPath": "media/2026-01/23/2026-01-23-bowlocity-us-citizen-detained-og-2s-1770075076.jpg",
+      "localMediaOgPath": "media/2026-01/23/2026-01-23-bowlocity-us-citizen-detained-og-2s-1770075675.jpg",
       "localMediaFiles": [
         {
           "type": "video",
           "path": "media/2026-01/23/2026-01-23-bowlocity-us-citizen-detained.mp4"
         }
       ],
-      "aspectRatio": 1.5083333333333333,
-      "mediaVersion": 1770075076
+      "aspectRatio": 0.7194444444444444,
+      "mediaVersion": 1770075675
     },
     {
       "filePath": "incidents/2026-01/23/2026-01-23-bovino-experts-dealing-children.md",
