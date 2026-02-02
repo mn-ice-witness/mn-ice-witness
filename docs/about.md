@@ -1,6 +1,6 @@
 # About This Site
 
-<p class="about-intro">A free, fact-based documentation of ICE enforcement and its impact on Minnesota communities, maintained by community volunteers. If you find this site useful, please help share. To report an incident (must be sourced by a reputable media outlet), submit a correction, or share additional media for a listed incident, contact us at <a href="mailto:mnicewitness@gmail.com">mnicewitness@gmail.com</a> — please include compelling social media links as it's often hard to track those down. We are also seeking help verifying <a href="/unverified">unverified reports</a>. View <a href="/removed">removed incidents</a> for entries that were listed but later removed based on new information. <span class="about-last-updated">Last updated: January 31, 2026</span></p>
+<p class="about-intro">A free, fact-based documentation of ICE enforcement and its impact on Minnesota communities, maintained by community volunteers. If you find this site useful, please help share. To report an incident (must be sourced by a reputable media outlet), submit a correction, or share additional media for a listed incident, contact us at <a href="mailto:mnicewitness@gmail.com">mnicewitness@gmail.com</a> — please include compelling social media links as it's often hard to track those down. Help us find news coverage for <a href="/no-news-media">incidents documented only by social media</a>. View <a href="/removed">removed incidents</a> for entries that were listed but later removed based on new information. <span class="about-last-updated">Last updated: January 31, 2026</span></p>
 
 <p class="about-social"><span class="about-follow-label">Follow Us:</span>
 <a href="https://www.facebook.com/profile.php?id=61586835122502" target="_blank" title="Follow on Facebook"><svg width="17" height="17"><use href="#icon-facebook"/></svg></a>
@@ -97,7 +97,7 @@ Each incident is rated for trustworthiness based on source quality and corrobora
 - <span class="about-badge about-badge-high">HIGH</span> — 3+ sources, video/photo evidence, or detailed investigative reporting with named sources
 - <span class="about-badge about-badge-medium">MEDIUM</span> — 2 sources, official statements, or single established source
 - <span class="about-badge about-badge-low">LOW</span> — Single smaller source, needs corroboration
-- <span class="about-badge about-badge-unverified">UNVERIFIED</span> — Reported but not yet confirmed
+- <a href="/no-news-media">No news media coverage</a> — documented by social media only
 - <span class="about-badge about-badge-removed">REMOVED</span> — Previously listed but removed after new information contradicted original reporting
 
 The trustworthiness rating appears at the bottom of each incident page.

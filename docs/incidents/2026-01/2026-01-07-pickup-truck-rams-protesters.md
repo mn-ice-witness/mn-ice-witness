@@ -52,4 +52,4 @@ From their on-scene coverage: "The situation occasionally escalated as federal a
 - [Renee Good shooting](#2026-01-07-renee-good-shooting) - The fatal shooting that preceded this incident
 
 ## Editorial Assessment
-**MEDIUM** - Eyewitness account from credible local journalist with video evidence. Corroborated by Racket's written reporting. However, mainstream news outlets did not separately report on this specific vehicle incident amid the larger coverage of the Renee Good shooting and subsequent protests. The video exists on Bluesky but has not been independently analyzed by major outlets.
+**MEDIUM** - Eyewitness account from credible local journalist with video evidence. Corroborated by Racket's written reporting. However, news outlets did not separately report on this specific vehicle incident amid the larger coverage of the Renee Good shooting and subsequent protests. The video exists on Bluesky but has not been independently analyzed by major outlets.

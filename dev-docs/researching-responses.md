@@ -61,7 +61,7 @@ When a response relates to a documented incident:
 When possible, note:
 - Whether criminal history claims can be independently verified
 - Discrepancies between official claims and other evidence
-- When claims are unverified (not that they're false, just unverified)
+- When claims are without news coverage (not that they're false, just without news coverage)
 
 ## Example Response File
 

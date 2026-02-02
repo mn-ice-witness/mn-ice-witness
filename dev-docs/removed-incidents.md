@@ -10,8 +10,8 @@ Remove an incident when:
 - The affected individual's status/citizenship cannot be verified as originally claimed
 - The incident no longer fits the project's documentation criteria based on new facts
 
-**Key distinction from "unverified":**
-- **Unverified** = We never had enough evidence to confirm the story
+**Key distinction from "no-news-media":**
+- **No-news-media** = We never had news coverage to confirm the story
 - **Removed** = We DID list the story based on initial reporting, but later information invalidated the core claims
 
 ## How to Remove an Incident
@@ -85,7 +85,7 @@ Add an update noting the removal:
 
 ## How the System Works
 
-- Removed incidents are filtered out of the main display (same as unverified)
+- Removed incidents are filtered out of the main display (same as no-news-media)
 - They appear at `/removed` for transparency
 - All original slugs/URLs continue to work
 - Readers can click through to see the full incident with correction notes
@@ -113,6 +113,6 @@ The first removed incidents were two Oglala Sioux detention reports from January
 
 ## Related Documentation
 
-- `unverified-incidents.md` - For incidents that never had enough verification
+- `no-news-media-incidents.md` - For incidents that never had enough verification
 - `adding-incidents.md` - Standard procedure for adding new incidents
 - `source-tiers.md` - Source credibility evaluation

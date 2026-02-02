@@ -66,7 +66,7 @@
     --type-fatal: #cf222e;
     --type-schools: #bc4c00;
     --type-response: #6e7781;
-    --type-unverified: #7d4e57;
+    --type-no-news-media: #7d4e57;
 
     --shadow-sm: 0 1px 2px rgba(0,0,0,0.04);
     --shadow-md: 0 2px 8px rgba(0,0,0,0.08);
@@ -445,7 +445,7 @@ body {
 .nav-fatal { background: #ffebe9; color: var(--type-fatal); border-color: #ff818433; }
 .nav-schools { background: #fff1e5; color: var(--type-schools); border-color: #fb8f4433; }
 .nav-response { background: #f0f0f0; color: var(--type-response); border-color: #8c959f33; }
-.nav-unverified { background: #f5eef0; color: var(--type-unverified); border-color: #7d4e5733; }
+.nav-no-news-media { background: #f5eef0; color: var(--type-no-news-media); border-color: #7d4e5733; }
 
 .nav-pill:hover {
     transform: translateY(-1px);
@@ -1155,7 +1155,7 @@ body {
 .trust-high { background: var(--trust-high); }
 .trust-medium { background: var(--trust-medium); }
 .trust-low { background: var(--trust-low); }
-.trust-unverified { background: #999; }
+.trust-no-news-media { background: #999; }
 
 .trust-badge {
     position: relative;
@@ -2028,19 +2028,19 @@ body {
     padding-bottom: 0;
 }
 
-/* ==================== UNVERIFIED REPORTS PAGE ==================== */
+/* ==================== NO-NEWS-MEDIA PAGE ==================== */
 
-.unverified-content {
+.no-news-media-content {
     padding: 0 0 32px 0;
 }
 
-.unverified-content h1 {
+.no-news-media-content h1 {
     font-family: var(--font-serif);
     font-size: 1.5rem;
     margin-bottom: 12px;
 }
 
-.unverified-plea {
+.no-news-media-plea {
     background: #fff8e6;
     border: 1px solid #f0d68a;
     border-radius: 6px;
@@ -2051,35 +2051,35 @@ body {
     color: #5c4d1a;
 }
 
-.unverified-plea a {
+.no-news-media-plea a {
     color: #7d4e57;
     font-weight: 600;
 }
 
-.unverified-empty {
+.no-news-media-empty {
     color: var(--color-text-secondary);
     font-style: italic;
 }
 
-.unverified-list {
+.no-news-media-list {
     list-style: none;
     padding: 0;
     margin: 0;
 }
 
-.unverified-list li {
+.no-news-media-list li {
     margin-bottom: 16px;
     padding-bottom: 16px;
     border-bottom: 1px solid var(--color-border);
 }
 
-.unverified-list li:last-child {
+.no-news-media-list li:last-child {
     border-bottom: none;
     margin-bottom: 0;
     padding-bottom: 0;
 }
 
-.unverified-link {
+.no-news-media-link {
     font-size: 1rem;
     font-weight: 500;
     color: var(--color-text);
@@ -2087,24 +2087,24 @@ body {
     display: block;
 }
 
-.unverified-link:hover {
-    color: var(--type-unverified);
+.no-news-media-link:hover {
+    color: var(--type-no-news-media);
 }
 
-.unverified-link .category-label {
-    color: var(--type-unverified);
+.no-news-media-link .category-label {
+    color: var(--type-no-news-media);
     font-weight: 600;
     font-size: 0.75rem;
     text-transform: uppercase;
 }
 
-.unverified-meta {
+.no-news-media-meta {
     color: var(--color-text-secondary);
     font-size: 0.8rem;
     margin: 4px 0 0 0;
 }
 
-.unverified-summary {
+.no-news-media-summary {
     color: var(--color-text-secondary);
     font-size: 0.85rem;
     line-height: 1.5;
@@ -2249,7 +2249,7 @@ body {
     background: var(--trust-low);
 }
 
-.about-badge-unverified {
+.about-badge-no-news-media {
     background: #999;
 }
 

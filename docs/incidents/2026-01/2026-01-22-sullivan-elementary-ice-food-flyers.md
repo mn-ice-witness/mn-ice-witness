@@ -7,12 +7,12 @@ type: schools-hospitals
 status: ongoing
 affected_individual_citizenship: unknown
 injuries: none
-trustworthiness: unverified
+trustworthiness: no-news-media
 created: 2026-01-22T13:38:10
 last_updated: 2026-01-23T23:22:42
 ---
 
-# School Warns ICE Distributing Food Support Flyers (UNVERIFIED)
+# School Warns ICE Distributing Food Support Flyers (NO NEWS MEDIA)
 
 ***The school sent this warning, but did ICE actually distribute flyers? No one has produced a flyer or described receiving one. If you have seen these flyers or know how the school learned about them, please [contact us](mailto:mnicewitness@proton.me).***
 
@@ -45,7 +45,7 @@ The message read:
 
 ## Sources
 
-The story has been covered by partisan/advocacy media. Some mainstream outlets mention the school warning in broader ICE/schools coverage, but none have independently investigated whether ICE actually distributed flyers:
+The story has been covered by partisan/advocacy media. Some news outlets mention the school warning in broader ICE/schools coverage, but none have independently investigated whether ICE actually distributed flyers:
 
 1. MeidasTouch News (Jan 22, 2026): [Minnesota Elementary School Sends Urgent Message](https://meidasnews.com/news/minnesota-elementary-school-sends-urgent-message-as-ice-sends-flyers-offering-food-support-to-families)
 2. Raw Story (Jan 23, 2026): [Fury as elementary school warns ICE trying to lure parents](https://www.rawstory.com/ice-minnesota/)
@@ -80,4 +80,4 @@ However, we found no documented cases of ICE specifically using food assistance 
 
 ## Editorial Assessment
 
-**UNVERIFIED** - The school sent this warning, but we have no evidence ICE actually distributed any flyers. No flyer has been produced. No one has described receiving one. No journalist has confirmed the claim.
+**NO NEWS MEDIA** - The school sent this warning, but we have no evidence ICE actually distributed any flyers. No flyer has been produced. No one has described receiving one. No journalist has confirmed the claim.

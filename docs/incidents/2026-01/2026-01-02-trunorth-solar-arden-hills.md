@@ -42,4 +42,4 @@ This factory raid preceded the escalation of enforcement that led to:
 - The state of Minnesota lawsuit against DHS.
 
 ## Editorial Assessment
-**MEDIUM** - Limited sourcing for this specific incident (no mainstream local news coverage found). However, the raid is consistent with documented "Operation Metro Surge" activity. More details may emerge as reporting continues.
+**MEDIUM** - Limited sourcing for this specific incident (no local news coverage found). However, the raid is consistent with documented "Operation Metro Surge" activity. More details may emerge as reporting continues.

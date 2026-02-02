@@ -72,7 +72,7 @@ GIT_MN_ICE_FILES/
 | `high` | 3+ sources, video/photo evidence | Green |
 | `medium` | 2 sources or official statements | Yellow |
 | `low` | Single source or social media only | Red |
-| `unverified` | Reported but not confirmed | Gray |
+| `no-news-media` | Reported but not confirmed | Gray |
 
 ## JavaScript Module Reference
 

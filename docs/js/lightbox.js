@@ -50,8 +50,8 @@ const Lightbox = {
      */
     handlePopState(e) {
         if (e.state && e.state.lightbox) {
-            if (e.state.slug === 'unverified') {
-                this.showUnverified();
+            if (e.state.slug === 'no-news-media') {
+                this.showNoNewsMedia();
             } else if (e.state.slug === 'about' || Router.aboutSections.includes(e.state.slug)) {
                 this.showAbout(e.state.slug === 'about' ? null : e.state.slug);
             } else if (e.state.slug && e.state.slug.startsWith('new-updated-')) {
@@ -70,8 +70,8 @@ const Lightbox = {
             if (route.type === 'about') {
                 return;
             }
-            if (route.type === 'unverified') {
-                this.showUnverified();
+            if (route.type === 'no-news-media') {
+                this.showNoNewsMedia();
                 return;
             }
             this.closeLightbox();
@@ -216,46 +216,46 @@ const Lightbox = {
     },
 
     /**
-     * Open unverified incidents page
+     * Open no-news-media incidents page
      */
-    openUnverified() {
+    openNoNewsMedia() {
         this.element.setAttribute('aria-hidden', 'false');
         document.body.style.overflow = 'hidden';
 
-        this.currentSlug = 'unverified';
-        const targetPath = Router.buildUrl('unverified');
+        this.currentSlug = 'no-news-media';
+        const targetPath = Router.buildUrl('no-news-media');
 
         if (window.location.pathname !== targetPath) {
-            history.pushState({ lightbox: true, slug: 'unverified' }, '', targetPath);
+            history.pushState({ lightbox: true, slug: 'no-news-media' }, '', targetPath);
             this.openedViaPushState = true;
         } else {
-            history.replaceState({ lightbox: true, slug: 'unverified' }, '', targetPath);
+            history.replaceState({ lightbox: true, slug: 'no-news-media' }, '', targetPath);
             this.openedViaPushState = false;
         }
 
-        const unverifiedIncidents = App.getUnverifiedIncidents();
-        this.bodyElement.innerHTML = this.renderUnverifiedContent(unverifiedIncidents);
+        const noNewsMediaIncidents = App.getNoNewsMediaIncidents();
+        this.bodyElement.innerHTML = this.renderNoNewsMediaContent(noNewsMediaIncidents);
         this.bodyElement.querySelector('.share-btn')?.addEventListener('click', () => this.copyShareLink());
-        this.setupUnverifiedLinks();
+        this.setupNoNewsMediaLinks();
     },
 
     /**
-     * Render unverified page content
+     * Render no-news-media page content
      */
-    renderUnverifiedContent(incidents) {
+    renderNoNewsMediaContent(incidents) {
         const shareButton = LightboxContent.renderShareButton();
 
         let html = `
             ${shareButton}
-            <div class="unverified-content">
-                <h1>Unverified Reports</h1>
-                <p class="unverified-plea">We are seeking help verifying these incidents. If you have any information about any of these reports — news articles, photos, videos, or first-hand accounts — please <a href="mailto:mnicewitness@gmail.com">contact us</a>.</p>
+            <div class="no-news-media-content">
+                <h1>No News Media</h1>
+                <p class="no-news-media-plea">These incidents currently have no news coverage (usually just social media posts). If you know of any, please <a href="mailto:mnicewitness@gmail.com">contact us</a>.</p>
         `;
 
         if (incidents.length === 0) {
-            html += '<p class="unverified-empty">No unverified incidents at this time.</p>';
+            html += '<p class="no-news-media-empty">No incidents without news media coverage at this time.</p>';
         } else {
-            html += '<ul class="unverified-list">';
+            html += '<ul class="no-news-media-list">';
             for (const incident of incidents) {
                 const slug = App.getIncidentId(incident);
                 const type = Array.isArray(incident.type) ? incident.type[0] : incident.type;
@@ -263,11 +263,11 @@ const Lightbox = {
                 const date = new Date(incident.date + 'T12:00:00');
                 const dateStr = date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
                 html += `<li>
-                    <a href="#${slug}" class="unverified-link" data-slug="${slug}">
+                    <a href="#${slug}" class="no-news-media-link" data-slug="${slug}">
                         <span class="category-label">${label}:</span> ${incident.title}
                     </a>
-                    <p class="unverified-meta">${incident.location} &middot; ${dateStr}</p>
-                    ${incident.summary ? `<p class="unverified-summary">${incident.summary}</p>` : ''}
+                    <p class="no-news-media-meta">${incident.location} &middot; ${dateStr}</p>
+                    ${incident.summary ? `<p class="no-news-media-summary">${incident.summary}</p>` : ''}
                 </li>`;
             }
             html += '</ul>';
@@ -278,10 +278,10 @@ const Lightbox = {
     },
 
     /**
-     * Setup click handlers for unverified incident links
+     * Setup click handlers for no-news-media incident links
      */
-    setupUnverifiedLinks() {
-        this.bodyElement.querySelectorAll('.unverified-link').forEach(link => {
+    setupNoNewsMediaLinks() {
+        this.bodyElement.querySelectorAll('.no-news-media-link').forEach(link => {
             link.addEventListener('click', (e) => {
                 e.preventDefault();
                 const slug = link.dataset.slug;
@@ -322,15 +322,15 @@ const Lightbox = {
 
         let html = `
             ${shareButton}
-            <div class="unverified-content">
+            <div class="no-news-media-content">
                 <h1>Removed Incidents</h1>
-                <p class="unverified-plea">These incidents were previously listed but have been removed after new information emerged that contradicted the original reporting. We keep them here for transparency. Click any incident to see the full details and correction notes.</p>
+                <p class="no-news-media-plea">These incidents were previously listed but have been removed after new information emerged that contradicted the original reporting. We keep them here for transparency. Click any incident to see the full details and correction notes.</p>
         `;
 
         if (incidents.length === 0) {
-            html += '<p class="unverified-empty">No removed incidents at this time.</p>';
+            html += '<p class="no-news-media-empty">No removed incidents at this time.</p>';
         } else {
-            html += '<ul class="unverified-list">';
+            html += '<ul class="no-news-media-list">';
             for (const incident of incidents) {
                 const slug = App.getIncidentId(incident);
                 const type = Array.isArray(incident.type) ? incident.type[0] : incident.type;
@@ -341,8 +341,8 @@ const Lightbox = {
                     <a href="#${slug}" class="removed-link" data-slug="${slug}">
                         <span class="category-label">${label}:</span> ${incident.title}
                     </a>
-                    <p class="unverified-meta">${incident.location} &middot; ${dateStr}</p>
-                    ${incident.summary ? `<p class="unverified-summary">${incident.summary}</p>` : ''}
+                    <p class="no-news-media-meta">${incident.location} &middot; ${dateStr}</p>
+                    ${incident.summary ? `<p class="no-news-media-summary">${incident.summary}</p>` : ''}
                 </li>`;
             }
             html += '</ul>';
@@ -515,22 +515,22 @@ const Lightbox = {
     },
 
     /**
-     * Show unverified page (for popstate)
+     * Show no-news-media page (for popstate)
      */
-    showUnverified() {
+    showNoNewsMedia() {
         this.element.setAttribute('aria-hidden', 'false');
         document.body.style.overflow = 'hidden';
 
-        this.currentSlug = 'unverified';
+        this.currentSlug = 'no-news-media';
 
-        const unverifiedIncidents = App.getUnverifiedIncidents();
-        this.bodyElement.innerHTML = this.renderUnverifiedContent(unverifiedIncidents);
+        const noNewsMediaIncidents = App.getNoNewsMediaIncidents();
+        this.bodyElement.innerHTML = this.renderNoNewsMediaContent(noNewsMediaIncidents);
         this.bodyElement.querySelector('.share-btn')?.addEventListener('click', () => this.copyShareLink());
-        this.setupUnverifiedLinks();
+        this.setupNoNewsMediaLinks();
 
-        if (this.savedScrollPositions['unverified']) {
-            this.bodyElement.scrollTop = this.savedScrollPositions['unverified'];
-            delete this.savedScrollPositions['unverified'];
+        if (this.savedScrollPositions['no-news-media']) {
+            this.bodyElement.scrollTop = this.savedScrollPositions['no-news-media'];
+            delete this.savedScrollPositions['no-news-media'];
         }
     },
 
@@ -815,8 +815,8 @@ const Lightbox = {
      */
     copyShareLink() {
         let url;
-        if (this.currentSlug === 'unverified') {
-            url = window.location.origin + Router.buildUrl('unverified');
+        if (this.currentSlug === 'no-news-media') {
+            url = window.location.origin + Router.buildUrl('no-news-media');
         } else if (this.currentSlug === 'about' || Router.aboutSections.includes(this.currentSlug)) {
             url = window.location.origin + Router.buildUrl('about', this.currentSlug === 'about' ? null : this.currentSlug);
         } else if (this.currentSlug && this.currentSlug.startsWith('new-updated-')) {

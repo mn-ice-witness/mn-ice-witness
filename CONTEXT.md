@@ -50,7 +50,7 @@ This is not optional. Do not type `2026-01-22T12:00:00` or any other time from m
 - `high`
 - `medium`
 - `low`
-- `unverified`
+- `no-news-media`
 
 **NO compound values** like "medium-high" or "low-medium". Pick one.
 
@@ -72,8 +72,8 @@ Multiple types allowed via comma: `type: citizens, schools-hospitals`
 
 **Note:** `affected_individual_citizenship` (us-citizen, legal-resident, asylum-seeker, undocumented) is metadata, NOT a category.
 
-### Unverified Incidents
-Incidents with `trustworthiness: unverified` are **hidden from the main page** (both media gallery and list view). They appear only at `/unverified`, sorted by update date.
+### No-News-Media Incidents
+Incidents with `trustworthiness: no-news-media` are **hidden from the main page** (both media gallery and list view). They appear only at `/no-news-media`, sorted by update date.
 
 ### SVG Icons
 **NEVER inline SVG paths.** Always use the symbol/use pattern:
@@ -108,10 +108,10 @@ Use documentary tone. Let facts speak for themselves.
 
 ### Daily Search Command
 When user says **"do our daily search"**, follow `dev-docs/daily-search-procedure.md` exactly:
-1. Read existing incidents, `not_use.md`, and unverified incidents first
+1. Read existing incidents, `not_use.md`, and no-news-media incidents first
 2. Launch 4-6 parallel search agents with different strategies
 3. Cross-reference all findings against existing files
-4. Report: new incidents, updates to existing, additions to not_use.md, unverified upgrades
+4. Report: new incidents, updates to existing, additions to not_use.md, no-news-media upgrades
 
 ### When User Provides a Link to Add
 **⚠️ CRITICAL:** Do NOT just use the source the user gave you. **Always search for additional coverage first.**
@@ -155,7 +155,7 @@ Read `adding-incidents.md` first. Check `not_use.md` for rejected stories.
 | **Hiding/drafting an incident** | `hiding-incidents.md` |
 | **Searching for new incidents** | `daily-search-procedure.md`, `research-sources.md`, `not_use.md` |
 | **Assessing source credibility** | `source-tiers.md`, `adding-incidents.md` |
-| **Handling unverified incidents** | `unverified-incidents.md` |
+| **Handling no-news-media incidents** | `no-news-media-incidents.md` |
 | **Removing incidents (corrections)** | `removed-incidents.md` |
 | **Status/citizenship values** | `status-categories.md` |
 | **Modifying JavaScript** | `architecture.md` (JS module reference) |
@@ -256,7 +256,7 @@ GIT_MN_ICE_FILES/
 | `researching-responses.md` | Finding DHS/ICE responses |
 | `daily-search-procedure.md` | Daily search workflow |
 | `not_use.md` | Rejected stories |
-| `unverified-incidents.md` | Procedure for handling unverified incidents |
+| `no-news-media-incidents.md` | Procedure for handling no-news-media incidents |
 | `removed-incidents.md` | Procedure for removing incidents after contradicting information emerges |
 | `status-categories.md` | Citizenship status values and location formatting |
 | `operation-parris.md` | Refugee detention context |

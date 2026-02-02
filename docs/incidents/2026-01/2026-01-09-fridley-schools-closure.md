@@ -78,4 +78,4 @@ The closures came after:
 3. A surge of more than 2,000 federal agents deployed to the Twin Cities area.
 
 ## Editorial Assessment
-**HIGH** - Multiple mainstream media sources (FOX 9, KARE 11, Bring Me The News, Hometown Source) reported on this incident. Direct correspondence from the school district provides primary source documentation of the closures and the superintendent's statements explaining the decisions.
+**HIGH** - Multiple news media sources (FOX 9, KARE 11, Bring Me The News, Hometown Source) reported on this incident. Direct correspondence from the school district provides primary source documentation of the closures and the superintendent's statements explaining the decisions.

@@ -82,4 +82,4 @@ These incidents already have compelling video/photo evidence documented:
 2. **HIGH:** Mankato women (find the "video posted online")
 3. **MEDIUM:** Rochester hammer (unique visual, try COPAL contacts)
 4. **LOW:** Elderly couple (lawsuit-based, probably no video)
-5. **LOW:** Rosemount (unverified, needs sourcing first)
+5. **LOW:** Rosemount (no-news-media, needs sourcing first)

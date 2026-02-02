@@ -112,7 +112,7 @@ Both `citizens` and `observers` may involve U.S. citizens being detained. Choose
 
 ## Trustworthiness Rating Criteria
 
-**IMPORTANT:** Use exactly one of these four values: `high`, `medium`, `low`, `unverified`. Do NOT use compound ratings like "medium-high" or "low-medium".
+**IMPORTANT:** Use exactly one of these four values: `high`, `medium`, `low`, `no-news-media`. Do NOT use compound ratings like "medium-high" or "low-medium".
 
 ### HIGH - Strong Evidence
 Assign HIGH when ANY of these conditions are met:
@@ -149,22 +149,22 @@ Assign LOW when:
 | Social media with limited pickup | Facebook/X post, minimal news coverage |
 | Conflicting details | Sources disagree on key facts |
 
-### UNVERIFIED
+### NO-NEWS-MEDIA
 - Reported but not independently confirmed
 - Anonymous tips without supporting evidence
 - Rumor or speculation
 
-**Special Formatting for UNVERIFIED incidents:**
+**Special Formatting for NO-NEWS-MEDIA incidents:**
 
-UNVERIFIED incidents require additional formatting to clearly communicate their verification status:
+NO-NEWS-MEDIA incidents require additional formatting to clearly communicate their verification status:
 
-1. **Title suffix**: Add `(UNVERIFIED)` to the end of the title
+1. **Title suffix**: Add `(NO NEWS MEDIA)` to the end of the title
 2. **Warning message**: Add bold italic disclaimer between title and Summary:
 
 ```markdown
-# Incident Title (UNVERIFIED)
+# Incident Title (NO NEWS MEDIA)
 
-***No mainstream media has reported on this incident. It is based on social media posts only. If you have a media source, please [contact us](mailto:mnicewitness@gmail.com).***
+***Documented by social media posts. If you know of press coverage, please [contact us](mailto:mnicewitness@gmail.com).***
 
 ## Summary
 ```
@@ -255,7 +255,7 @@ These are common mistakes when adding incidents. Read this section carefully.
 ### Trustworthiness
 | Mistake | Why It's Wrong | Correct Approach |
 |---------|---------------|------------------|
-| `trustworthiness: medium-high` | Compound values not allowed | Pick exactly one: high, medium, low, unverified |
+| `trustworthiness: medium-high` | Compound values not allowed | Pick exactly one: high, medium, low, no-news-media |
 | Rating HIGH without corroboration | Single-source stories need verification | See witness corroboration rule |
 
 ### last_updated
