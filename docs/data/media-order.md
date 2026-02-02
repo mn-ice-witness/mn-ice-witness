@@ -10,6 +10,7 @@
 
 
 
+
 juan-carlos-brutality
 aliya-rahman-car-window-hospitalized
 speedway-st-paul
@@ -98,3 +99,4 @@ christian-salamanca-ice-chase-crash
 st-peter-police-chief-intervenes
 columbia-heights-jessica-father-detained
 preschool-tear-gas
+bowlocity-us-citizen-detained
