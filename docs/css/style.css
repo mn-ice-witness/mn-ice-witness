@@ -1135,11 +1135,11 @@ body {
 
 /* Viewed Row State */
 .incident-row.viewed {
-    opacity: 0.6;
+    opacity: 0.85;
 }
 
 .incident-row.viewed:hover {
-    opacity: 0.75;
+    opacity: 0.92;
 }
 
 .trust-badge {
