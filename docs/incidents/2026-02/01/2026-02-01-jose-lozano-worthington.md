@@ -22,13 +22,13 @@ Jose Lozano, 28, was detained by ICE while jumpstarting his minivan outside his 
 2. Worthington Daily Globe (Feb 2026): [Anti-ICE Protest March in Worthington shows support for immigrants](https://www.dglobe.com/news/local/anti-ice-protest-march-in-worthington-shows-support-for-immigrants)
 
 ## What Happened
-- Lozano was jumpstarting his minivan between 8:00-8:30 a.m. in preparation to take it to a repair shop
-- Six ICE agents surrounded him
-- When he attempted to retrieve his wallet to show his documentation, agents prevented him from doing so
-- Agents secured his vehicles and took his keys before taking him into custody
-- He was initially slated for transfer to Texas
-- Immigration attorney Erin Schutte Wadzinski intervened within 30 minutes to stop the transfer
-- He was given a hearing date of February 28, 2026
+- Lozano was jumpstarting his minivan between 8:00-8:30 a.m. in preparation to take it to a repair shop.
+- Six ICE agents surrounded him.
+- When he attempted to retrieve his wallet to show his documentation, agents prevented him from doing so.
+- Agents secured his vehicles and took his keys before taking him into custody.
+- He was initially slated for transfer to Texas.
+- Immigration attorney Erin Schutte Wadzinski intervened within 30 minutes to stop the transfer.
+- He was given a hearing date of February 28, 2026.
 
 ## Affected Individual
 Jose Lozano, 28, arrived in the U.S. at age 18 seeking political asylum from El Salvador due to gang violence. He held a valid temporary permit allowing him to remain for five years while his asylum case processes. He had renewed the permit two years prior, meaning three years of legal authorization remained.
