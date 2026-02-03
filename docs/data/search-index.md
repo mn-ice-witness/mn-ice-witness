@@ -15,7 +15,7 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (178 incidents)
+## CURRENT (177 incidents)
 
 Published incidents visible on the main site.
 
@@ -85,7 +85,6 @@ Published incidents visible on the main site.
 - incidents/2026-01/15/2026-01-15-whipple-lawyers-denied-access.md | 2026-01-15 | Minneapolis | immigrants | Attorneys Denied Access to Detained Clients at Whipple Building
 - incidents/2026-01/15/2026-01-15-vine-faith-mankato-workers.md | 2026-01-15 | Mankato | immigrants | Two Subcontractors Detained at VINE Faith in Action Senior Center
 - incidents/2026-01/15/2026-01-15-cottage-grove-food-shelf-volunteer.md | 2026-01-15 | Cottage Grove | immigrants | Food Shelf Volunteer Detained at Basic Needs in Cottage Grove
-- incidents/2026-01/15/2026-01-15-el-tapatio-willmar-workers.md | 2026-01-15 | Willmar | immigrants | ICE Agents Dine at Willmar Restaurant Then Detain Workers
 - incidents/2026-01/15/2026-01-15-hiawatha-student-bus-stop.md | 2026-01-15 | Minneapolis | schools-hospitals | Hiawatha Academies Student Detained at Bus Stop
 - incidents/2026-01/15/2026-01-15-ramon-menera-accent-detained.md | 2026-01-15 | Minneapolis | citizens | U.S. Citizen Detained Because of "Accent"
 - incidents/2026-01/15/2026-01-15-st-paul-school-vans-pulled-over.md | 2026-01-15 | St. Paul | schools-hospitals | Two St. Paul School Vans Pulled Over by ICE With Students and Teachers Aboard
