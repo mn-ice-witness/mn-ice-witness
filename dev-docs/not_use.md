@@ -699,6 +699,69 @@ Stories are excluded when they don't meet the project's core focus:
 
 ### February 2026
 
+**West Central Turkeys Pelican Rapids (Dec 22, 2025)**
+- Sources: [Fergus Falls Journal](https://www.fergusfallsjournal.com/news/confirmed-ice-presence-in-otc/article_e34ed205-cf3c-4561-af25-e01a37ccc939.html)
+- Date: December 22, 2025
+- Details: Otter Tail County Sheriff's Office assisted ICE/HSI in serving "several federal judicial warrants" at West Central Turkeys plant. Warrants described as "criminal in nature."
+- Reason: **Criminal warrants** - Sheriff characterized these as criminal warrants, not civil immigration enforcement.
+- Date evaluated: 2026-02-02
+
+**KIMT Studio Arrest Rochester (Jan 8, 2026)**
+- Sources: [KIMT](https://www.kimt.com/news/ice-agents-arrest-man-outside-of-kimt-news-3-studios/article_71ba9ac0-3beb-457d-9318-66e65bf74842.html)
+- Date: January 8, 2026
+- Details: ICE agents arrested a man outside KIMT News 3 studios in Rochester during targeted enforcement operation.
+- Reason: **Insufficient details** - no name, no citizenship/status information.
+- Date evaluated: 2026-02-02
+
+**Kwik Trip Rochester Approach (Jan 8, 2026)**
+- Sources: [KAAL ABC 6 News](https://www.kaaltv.com/news/top-news/ice-agents-spotted-in-rochester-jan-8/)
+- Date: January 8, 2026
+- Details: ICE agents approached a woman at Kwik Trip gas station on Ninth St. NW. Bystander filmed and intervened.
+- Reason: **Unclear if arrest occurred** - no outcome documented, no name.
+- Date evaluated: 2026-02-02
+
+**El Agave Server St. Peter (Jan 2026)**
+- Sources: [Mankato Free Press](https://www.mankatofreepress.com/news/local_news/st-peter-mobile-home-park-residents-living-in-fear/article_a5a6e0a4-e574-48fe-adb6-cf151ec96db9.html)
+- Date: Days after January 9-10, 2026
+- Details: 22-year-old server stopped on way to work at El Agave, reportedly deported to El Salvador within 24 hours. Had been in country since age 9.
+- Reason: **Insufficient details** - no name disclosed, brief mention in larger article.
+- Date evaluated: 2026-02-02
+
+**Worthington Jan 19 Arrests (Jan 19, 2026)**
+- Sources: [Worthington Daily Globe](https://www.dglobe.com/news/local/ice-agents-spotted-in-worthington)
+- Date: January 19, 2026
+- Details: At least 2 people taken into custody. At least 3 ICE vehicles working in coordination.
+- Reason: **Insufficient details** - no affected individual names, no citizenship/status information.
+- Date evaluated: 2026-02-02
+
+**St. James Courthouse Detention (Jan 2026)**
+- Sources: [Star Tribune](https://www.startribune.com/with-ice-surge-spreading-across-state-rumors-and-anxiety-grow-in-greater-minnesota/601562255)
+- Date: January 2026
+- Details: Watonwan County chief deputy confirmed someone detained near courthouse.
+- Reason: **Insufficient details** - no affected individual name, brief mention only.
+- Date evaluated: 2026-02-02
+
+**Park Rapids Apartment Complex (Jan 13, 2026)**
+- Sources: [Park Rapids Enterprise](https://www.parkrapidsenterprise.com/news/local/ice-agents-observed-in-park-rapids)
+- Date: January 13, 2026
+- Details: Five ICE agents observed outside Park Avenue Apartments for ~2 hours. No detentions witnessed.
+- Reason: **Presence only** - no arrest documented.
+- Date evaluated: 2026-02-02
+
+**El Loro Alexandria (Jan 10, 2026)**
+- Sources: [Echo Press](https://www.echopress.com/news/ice-agents-seen-in-alexandria)
+- Date: January 10, 2026
+- Details: ICE agents seen at and leaving El Loro Mexican Restaurant. Police chief confirmed ICE would be in area.
+- Reason: **Unclear if arrest occurred** - not confirmed whether anyone was detained.
+- Date evaluated: 2026-02-02
+
+**Jennie-O Willmar Shift Change (Jan 13, 2026)**
+- Sources: [West Central Tribune](https://www.wctrib.com/news/local/federal-immigration-agents-make-arrests-monday-in-willmar)
+- Date: January 13, 2026
+- Details: Man arrested during shift change at Jennie-O Turkey Store. Same day as Suban Noor arrest.
+- Reason: **Insufficient details** - no name, no status information.
+- Date evaluated: 2026-02-02
+
 **Michelandia Bar & Grill Employee (Feb 1)**
 - Sources: [Bring Me The News](https://bringmethenews.com/minnesota-news/list-of-ice-raids-major-updates-in-minnesota-on-sunday-feb-1)
 - Date: February 1, 2026
