@@ -56,7 +56,16 @@ This is not optional. Do not type `2026-01-22T12:00:00` or any other time from m
 Only edit the markdown incident files in `docs/incidents/`.
 
 ### Search Index for Daily Searches
-**Read `docs/data/search-index.md` FIRST when searching for incidents.** It's a lightweight index (21KB) with one line per incident: `date | city | category | title`. Much faster than reading individual files.
+**Read `docs/data/search-index.md` FIRST when searching for incidents.** It's auto-generated with 4 sections:
+
+| Section | Contents |
+|---------|----------|
+| **CURRENT** | Published incidents with full file paths |
+| **NO-ADD** | Rejected stories (auto-parsed from not_use.md) |
+| **REMOVED** | Retracted incidents |
+| **NO-NEWS-MEDIA** | Unverified incidents |
+
+Format: `path | date | city | category | title`. One file replaces reading multiple sources.
 
 ### Trustworthiness Ratings
 **Use exactly ONE of these four values:**
@@ -240,7 +249,7 @@ GIT_MN_ICE_FILES/
     ├── media/           # Processed video/images (also uses YYYY-MM/DD structure)
     └── data/
         ├── incidents-summary-*.json  # 5 category files (auto-generated)
-        ├── search-index.md           # LLM search index (auto-generated)
+        ├── search-index.md           # LLM search index with 4 sections (auto-generated)
         ├── media-order.md            # Controls gallery ordering
         ├── og-tweaks.md              # Custom OG image timestamps
         └── high-quality-videos.md    # Videos needing less compression
