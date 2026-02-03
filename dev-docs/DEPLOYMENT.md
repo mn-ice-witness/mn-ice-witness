@@ -129,7 +129,7 @@ dig mn-ice-witness.org +short
 
 The repository has pre-commit hooks that run before each commit:
 
-1. Regenerates `docs/data/incidents-summary.json` from markdown files
+1. Regenerates `docs/data/incident category JSON files` from markdown files
 2. Cache-busts `index.html` with timestamp
 
 These run locally before push, not on Cloudflare's build.
@@ -188,7 +188,7 @@ Previous setup (deprecated):
 - `docs/` - Static site files served by Cloudflare Pages
 - `docs/CNAME` - May still exist but is ignored (Cloudflare manages domain)
 - `scripts/pre-commit` - Pre-commit hook for JSON generation
-- `scripts/generate_summary.py` - Generates incidents-summary.json
+- `scripts/generate_summary.py` - Generates incident category JSON files
 
 ## Access & Management
 

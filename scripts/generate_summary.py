@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Generate incidents-summary.json from markdown incident files.
+Generate category-based incident summary JSON files and search index from markdown files.
 This creates a single JSON file with all metadata needed for table rendering,
 eliminating the need to fetch individual markdown files on page load.
 """
@@ -222,7 +222,9 @@ REQUIRED_FIELDS = [
 
 # Date validation patterns
 DATE_ONLY_PATTERN = re.compile(r"^\d{4}-\d{2}-\d{2}$")  # YYYY-MM-DD
-DATETIME_PATTERN = re.compile(r"^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}$")  # YYYY-MM-DDTHH:MM:SS
+DATETIME_PATTERN = re.compile(
+    r"^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}$"
+)  # YYYY-MM-DDTHH:MM:SS
 
 VALID_STATUS = {"ongoing", "resolved", "under-investigation"}
 VALID_INJURIES = {"none", "minor", "serious", "fatal"}
@@ -391,19 +393,76 @@ def update_media_order(incidents_with_media, data_dir):
         order_file.write_text(content)
 
 
+CATEGORIES = ["citizens", "immigrants", "observers", "schools-hospitals", "response"]
+
+
+def get_incident_categories(incident):
+    """Return list of categories this incident belongs to."""
+    incident_type = incident["type"]
+    if isinstance(incident_type, list):
+        return incident_type
+    return [incident_type]
+
+
+def generate_category_files(incidents, data_dir):
+    """Generate separate JSON files for each category."""
+    category_incidents = {cat: [] for cat in CATEGORIES}
+
+    for incident in incidents:
+        for cat in get_incident_categories(incident):
+            if cat in category_incidents:
+                category_incidents[cat].append(incident)
+
+    counts = []
+    for cat in CATEGORIES:
+        output_file = data_dir / f"incidents-summary-{cat}.json"
+        output_data = {"incidents": category_incidents[cat]}
+        output_file.write_text(json.dumps(output_data, indent=2))
+        counts.append(f"{cat}={len(category_incidents[cat])}")
+
+    return ", ".join(counts)
+
+
+def generate_search_index(incidents, data_dir):
+    """Generate search-index.md for LLM consumption."""
+    lines = [
+        "# Incident Search Index",
+        "",
+        "Lightweight index for searching incidents. Format: date | city | names/keywords | summary phrase",
+        "",
+    ]
+
+    for incident in incidents:
+        date = incident["date"]
+        city = incident["city"]
+        title = incident["title"]
+        summary = incident["summary"][:150] if incident["summary"] else ""
+        cat = (
+            incident["type"]
+            if isinstance(incident["type"], str)
+            else ", ".join(incident["type"])
+        )
+
+        line = f"- {date} | {city} | {cat} | {title}"
+        lines.append(line)
+
+    output_file = data_dir / "search-index.md"
+    output_file.write_text("\n".join(lines) + "\n")
+    return len(incidents)
+
+
 def main():
     script_dir = Path(__file__).parent
     project_root = script_dir.parent
     docs_dir = project_root / "docs"
     incidents_dir = docs_dir / "incidents"
     media_dir = docs_dir / "media"
-    output_file = docs_dir / "data" / "incidents-summary.json"
+    data_dir = docs_dir / "data"
 
-    output_file.parent.mkdir(parents=True, exist_ok=True)
+    data_dir.mkdir(parents=True, exist_ok=True)
 
     incidents = []
     for md_file in incidents_dir.rglob("*.md"):
-        # Skip files starting with underscore (commented out/draft incidents)
         if md_file.name.startswith("_"):
             continue
         incident = process_incident(md_file, docs_dir, media_dir)
@@ -411,24 +470,22 @@ def main():
 
     incidents.sort(key=lambda x: x["date"], reverse=True)
 
-    # Count media for summary
     incidents_with_media = [i for i in incidents if i["hasLocalMedia"]]
     media_count = len(incidents_with_media)
 
-    # Update media order file with new items (exclude no-news-media and removed incidents)
     verified_with_media = [
-        i for i in incidents_with_media if i["trustworthiness"] not in ("no-news-media", "removed")
+        i
+        for i in incidents_with_media
+        if i["trustworthiness"] not in ("no-news-media", "removed")
     ]
-    update_media_order(verified_with_media, docs_dir / "data")
+    update_media_order(verified_with_media, data_dir)
 
-    # Output incidents (each has its own mediaVersion based on file mtime)
-    output_data = {"incidents": incidents}
+    category_counts = generate_category_files(incidents, data_dir)
+    search_count = generate_search_index(incidents, data_dir)
 
-    output_file.write_text(json.dumps(output_data, indent=2))
-
-    print(
-        f"Generated {output_file} with {len(incidents)} incidents ({media_count} with local media)"
-    )
+    print(f"Generated {len(incidents)} incidents ({media_count} with media)")
+    print(f"  Category files: {category_counts}")
+    print(f"  Search index: {search_count} entries")
 
 
 if __name__ == "__main__":

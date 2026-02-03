@@ -2,7 +2,7 @@
 
 ROOT="$(git rev-parse --show-toplevel)"
 
-echo "Regenerating incidents-summary.json..."
+echo "Regenerating incident data files..."
 python3 "$ROOT/scripts/generate_summary.py"
 
 if [ $? -ne 0 ]; then
@@ -10,7 +10,12 @@ if [ $? -ne 0 ]; then
     exit 1
 fi
 
-git add "$ROOT/docs/data/incidents-summary.json"
+git add "$ROOT/docs/data/incidents-summary-citizens.json"
+git add "$ROOT/docs/data/incidents-summary-immigrants.json"
+git add "$ROOT/docs/data/incidents-summary-observers.json"
+git add "$ROOT/docs/data/incidents-summary-schools-hospitals.json"
+git add "$ROOT/docs/data/incidents-summary-response.json"
+git add "$ROOT/docs/data/search-index.md"
 
 # Cache bust: update ?v= parameters in index.html with current timestamp
 TIMESTAMP=$(date +%s)

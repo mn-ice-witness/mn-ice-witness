@@ -43,9 +43,11 @@ See `research-sources.md` for complete source lists by region.
 When the user says **"do our daily search"** or **"do a metro search"**, follow this exact procedure:
 
 ### Phase 1: Gather Context (Before Searching)
-1. **Read existing incidents** - Use Explore agent to get current incident count and recent additions
+1. **Read `docs/data/search-index.md`** - Quick scan of all 181 incidents (date, city, category, title)
 2. **Read `dev-docs/not_use.md`** - Know what stories have been rejected and why
 3. **Read no-news-media incidents** - Check `docs/incidents/` for files with `trustworthiness: no-news-media` to see if news has broken
+
+**Why search-index.md first?** It's a 21KB file with one line per incident - much faster to scan than reading individual files. Format: `date | city | category | title`
 
 ### Phase 2: Launch Parallel Search Agents
 Launch **4-6 agents simultaneously** with different search strategies:

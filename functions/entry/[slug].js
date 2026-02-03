@@ -32,19 +32,27 @@ export async function onRequest(context) {
   const indexResponse = await fetch(baseUrl.toString());
   let html = await indexResponse.text();
 
-  // Fetch incidents data to find the matching incident
-  const dataUrl = new URL(context.request.url);
-  dataUrl.pathname = '/data/incidents-summary.json';
+  // Fetch incidents data from category files (parallel)
+  const categories = ['citizens', 'immigrants', 'observers', 'schools-hospitals', 'response'];
+  const dataUrls = categories.map(cat => {
+    const url = new URL(context.request.url);
+    url.pathname = `/data/incidents-summary-${cat}.json`;
+    return url.toString();
+  });
 
   try {
-    const dataResponse = await fetch(dataUrl.toString());
-    const data = await dataResponse.json();
+    const responses = await Promise.all(dataUrls.map(url => fetch(url)));
+    const dataArrays = await Promise.all(responses.map(r => r.json()));
 
-    // Find incident by slug (the part after YYYY-MM-DD- in the filename)
-    const incident = data.incidents.find(i => {
-      const incidentSlug = i.filePath.split('/').pop().replace('.md', '');
-      return incidentSlug === slug;
-    });
+    // Find incident by slug across all category files
+    let incident = null;
+    for (const data of dataArrays) {
+      incident = data.incidents.find(i => {
+        const incidentSlug = i.filePath.split('/').pop().replace('.md', '');
+        return incidentSlug === slug;
+      });
+      if (incident) break;
+    }
 
     if (incident) {
       // Build OG meta tags for this incident

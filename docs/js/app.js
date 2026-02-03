@@ -94,12 +94,29 @@ const App = {
     },
 
     /**
-     * Load incidents from JSON
+     * Load incidents from category JSON files (parallel fetch, deduplicated)
      */
     async loadIncidents() {
-        const response = await fetch('/data/incidents-summary.json');
-        const data = await response.json();
-        this.incidents = data.incidents || [];
+        const categories = ['citizens', 'immigrants', 'observers', 'schools-hospitals', 'response'];
+        const fetches = categories.map(cat =>
+            fetch(`/data/incidents-summary-${cat}.json`).then(r => r.json())
+        );
+        const results = await Promise.all(fetches);
+
+        // Merge and deduplicate by filePath (dual-category incidents appear in multiple files)
+        const seen = new Set();
+        this.incidents = [];
+        for (const data of results) {
+            for (const incident of (data.incidents || [])) {
+                if (!seen.has(incident.filePath)) {
+                    seen.add(incident.filePath);
+                    this.incidents.push(incident);
+                }
+            }
+        }
+
+        // Sort by date descending
+        this.incidents.sort((a, b) => b.date.localeCompare(a.date));
         this.updateStats();
     },
 

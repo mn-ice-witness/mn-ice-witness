@@ -111,7 +111,7 @@ A rule belongs in CONTEXT.md's Critical Rules section if it meets ALL of these c
 |------|-------------------|
 | Terminology (entry=incident) | Causes confusion; used interchangeably everywhere |
 | Timestamps (use script) | Manually-entered timestamps are often wrong |
-| incidents-summary.json (don't edit) | Changes get overwritten; frustrating to lose work |
+| incidents-summary-*.json / search-index.md (don't edit) | Changes get overwritten; frustrating to lose work |
 | Trustworthiness (exactly one value) | Common mistake: "medium-high" is invalid |
 | Incident types (exactly 5) | Made-up types break the site |
 | SVG icons (use pattern) | Inline SVGs create maintenance nightmare |
