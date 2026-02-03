@@ -4,6 +4,7 @@
 
 
 
+
 juan-carlos-brutality
 aliya-rahman-car-window-hospitalized
 speedway-st-paul
@@ -97,3 +98,4 @@ northfield-nunez-gonzalez-arrest
 powderhorn-rec-center-observer-arrested
 jose-lozano-worthington
 perla-ocampo-willmar-citizen
+thi-dua-vang-st-paul
