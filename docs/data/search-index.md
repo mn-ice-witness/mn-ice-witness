@@ -71,7 +71,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/18/2026-01-18-saly-hmong-citizen-shirtless.md | 2026-01-18 | St. Paul | citizens | Hmong U.S. Citizen Detained Shirtless in Freezing Weather, Then Released
 - incidents/2026-01/18/2026-01-18-noem-pepper-spray-denial-backtrack.md | 2026-01-18 | Minneapolis | response | DHS Secretary Noem Defends Raids as Targeting 'Criminals and Rapists,' Denies Pepper Spray Use on CBS
 - incidents/2026-01/18/2026-01-18-dhs-response-juan-carlos.md | 2026-01-18 | Minneapolis | response | DHS Response: Kneeing Victim is "Criminal Alien from Ecuador"
-- incidents/2026-01/18/2026-01-18-perla-ocampo-willmar-citizen.md | 2026-01-18 | Willmar | citizens | U.S. Citizen College Student Zip-Tied by ICE, Released After Showing Birth Certificate
+- incidents/2026-01/18/2026-01-18-perla-ocampo-willmar-citizen.md | 2026-01-18 | Willmar | citizens | U.S. Citizen College Student Restrained by ICE, Released After Showing Birth Certificate
 - incidents/2026-01/18/2026-01-18-dhs-response-accent-detention.md | 2026-01-18 | Minneapolis | response | DHS Statement: Defends Accent-Based Detention
 - incidents/2026-01/17/2026-01-17-st-louis-park-daycare.md | 2026-01-17 | St. Louis Park | schools-hospitals | ICE Agents Near St. Louis Park Daycare Threaten Parent with Pepper Spray
 - incidents/2026-01/17/2026-01-17-mischief-toy-store-ice-inspection.md | 2026-01-17 | St. Paul | observers | Toy Store Receives ICE Inspection Notice Hours After ABC News Interview

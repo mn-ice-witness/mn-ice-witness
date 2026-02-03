@@ -32,6 +32,26 @@ These rules apply to almost every task. Do not skip them.
 ### Terminology
 **"Entry" and "Incident" are synonyms.** The codebase uses both interchangeably. URLs use `/entry/`, code and docs say "incident" - they mean the same thing.
 
+### Media in raw_media — MANDATORY SCRIPT USAGE
+**NEVER manually rename or move files in `raw_media/`.** Use the scripts.
+
+**When user says "latest screenshot/mov in raw_media is for [INCIDENT]":**
+```bash
+# Step 1: Move and rename (uses newest file automatically)
+./scripts/move-screen-recording.sh --type mov|png INCIDENT_ID
+
+# Step 2: Process media (compress, generate OG images)
+python-main scripts/process_media.py
+
+# Step 3: Regenerate incidents summary
+python-main scripts/generate_summary.py
+
+# Step 4: Clean up any remaining Screen files
+rm raw_media/Screen* 2>/dev/null
+```
+
+**DO NOT** use `mv`, `cp`, or manual file operations on raw_media. The script handles folder structure, naming conventions, and cleanup. See `dev-docs/screen-recording-workflow.md` for details.
+
 ### Timestamps — MANDATORY SCRIPT USAGE
 **NEVER type a timestamp manually.** Manually-entered timestamps are frequently wrong.
 
