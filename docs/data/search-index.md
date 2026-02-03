@@ -117,7 +117,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/12/2026-01-12-phil-maddox-did-you-not-learn.md | 2026-01-12 | Minneapolis | observers | "Did You Not Learn From What Just Happened?" - ICE Agents Threaten Observer
 - incidents/2026-01/12/2026-01-12-irma-escoto-citizen-check.md | 2026-01-12 | West St. Paul | citizens | Citizen Check: U.S. Citizen Surrounded by ICE Agents at West St. Paul Restaurant
 - incidents/2026-01/12/2026-01-12-silva-sosa-inver-grove-heights.md | 2026-01-12 | Inver Grove Heights | immigrants | Silva Sosa Parents Detained Days After I-130 Approval
-- incidents/2026-01/12/2026-01-12-st-cloud-star-city-mall.md | 2026-01-12 | St. Cloud | immigrants | 50+ ICE Agents Swarm Somali Mall in St. Cloud; Chemical Irritants Used on Protesters
+- incidents/2026-01/12/2026-01-12-st-cloud-star-city-mall.md | 2026-01-12 | St. Cloud | immigrants, observers | 50+ ICE Agents Swarm Somali Mall in St. Cloud; Chemical Irritants Used on Protesters
 - incidents/2026-01/12/2026-01-12-detroit-lakes-china-buffet.md | 2026-01-12 | Detroit Lakes | immigrants | Honduran Man Arrested at Detroit Lakes Restaurant; Partner Documents on Video
 - incidents/2026-01/12/2026-01-12-christina-rank-teacher.md | 2026-01-12 | Inver Grove Heights | citizens, schools-hospitals | U.S. Citizen Special Education Teacher Detained for Nearly 12 Hours
 - incidents/2026-01/12/2026-01-12-christian-molina-car-rammed.md | 2026-01-12 | Minneapolis | citizens | ICE Rams Latino U.S. Citizen's Car, Releases Him After Confirming Identity
@@ -199,7 +199,7 @@ Published incidents visible on the main site.
 
 ---
 
-## NO-ADD (122 entries)
+## NO-ADD (123 entries)
 
 Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 
@@ -322,6 +322,7 @@ Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 - dev-docs/not_use.md | Feb 3 | Vernon Ave Edina Nannies
 - dev-docs/not_use.md | Feb 2-3 | Target HQ Protest
 - dev-docs/not_use.md | Dec 13, 2025 | Loc Vinh Truong Rochester
+- dev-docs/not_use.md | Dec 13-14, 2025 | Willmar December 13-14 HSI Arrests
 - dev-docs/not_use.md | Nov 11, 2025 | Adán Núñez Gonzalez Northfield
 - dev-docs/not_use.md | n/a | ICE Raids Two Hibbing Mexican Restaurants
 - dev-docs/not_use.md | n/a | Federal Agents Raid St. Paul Roofing Crew

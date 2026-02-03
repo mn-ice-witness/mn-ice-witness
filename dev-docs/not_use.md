@@ -855,6 +855,13 @@ Stories are excluded when they don't meet the project's core focus:
 - Reason: **Prior criminal conviction** - 2004 felony burglary/drug charges. Similar to "Detainees with criminal convictions" exclusion criteria.
 - Date evaluated: 2026-02-02
 
+**Willmar December 13-14 HSI Arrests (Dec 13-14, 2025)**
+- Sources: [West Central Tribune](https://www.wctrib.com/news/local/federal-agents-presence-in-willmar-spread-fear-throughout-the-community), [KWLM Willmar Radio](https://www.willmarradio.com/news/ice-arrests-reported-in-willmar-last-weekend/article_330671c7-a9d5-4207-8b98-3cabb2c9ed44.html), [MPR News](https://www.mprnews.org/story/2025/12/19/ice-rumors-cause-hundreds-to-miss-school-in-willmar-minnesota)
+- Date: December 13-14, 2025
+- Details: Sheriff Eric Tollefson confirmed 5-6 people arrested by Homeland Security Investigations (HSI) over the weekend at locations including near Cornerstone Baptist Church and Trott Avenue SW. Facebook videos showed man pushed face-down in snow. Caused widespread fear; hundreds of students absent from school. Willmar Police Chief confirmed local authorities were not notified. No names of arrested individuals ever released.
+- Reason: **Insufficient details** - HSI operation (not ICE/ERO), no affected individual names, no citizenship/status information. May have been criminal investigation rather than civil immigration enforcement.
+- Date evaluated: 2026-02-03
+
 ### November 2025
 
 **Adán Núñez Gonzalez Northfield (Nov 11, 2025)**
