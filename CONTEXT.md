@@ -181,6 +181,12 @@ When user says **"do our daily search"** or **"do a metro search"**, follow `dev
 
 **The user expects you to do the research**, not just copy what they gave you. See `adding-incidents.md` Step 1.5.
 
+### When You Can't Fetch a URL
+**Print the URL and ask for text.** When WebFetch fails or returns login walls/CSS:
+1. Print the full URL
+2. Ask: "Please paste the text so I can verify it covers this incident."
+3. Do this one URL at a time — don't dump a list of URLs
+
 ### Before Adding Any Incident
 Read `adding-incidents.md` first. Check `not_use.md` for rejected stories.
 
