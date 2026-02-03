@@ -222,6 +222,24 @@ If the incident involves a refugee or immigrant with **pending legal status** (I
 
 These are common mistakes when adding incidents. Read this section carefully.
 
+### Citing Sources You Haven't Read — CRITICAL
+
+| Mistake | Why It's Wrong | Correct Approach |
+|---------|---------------|------------------|
+| Linking to an article without reading it | The article may be about a DIFFERENT incident/person | Always fetch and read the source first |
+| Using a URL that looks right based on the title | URL titles can be misleading or reused | Verify the content matches your claim |
+| Adding sources from search result snippets only | Snippets may be out of context or outdated | Read the full article |
+
+**⚠️ This has caused real errors.** A previous session linked a Sahan Journal article about one case (north Minneapolis shooting detainees) to an update about a completely different person (Tobay Robles). The URL looked plausible, but the article was about different people entirely.
+
+**Required workflow:**
+1. Before citing ANY source, use WebFetch to read the actual content
+2. Verify the article mentions the specific person/incident you're documenting
+3. If WebFetch fails or returns CSS/login walls, **ask the user to paste the article text**
+4. Never assume a URL is correct based on the title alone
+
+**If you cannot access a source:** Tell the user "I can't access [URL] — can you paste the article text so I can verify it's about [person/incident]?"
+
 ### Inventing Details Not in Sources — CRITICAL
 | Mistake | Why It's Wrong | Correct Approach |
 |---------|---------------|------------------|
