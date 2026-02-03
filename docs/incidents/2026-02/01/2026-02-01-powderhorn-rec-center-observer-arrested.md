@@ -7,14 +7,12 @@ type: observers
 status: ongoing
 affected_individual_citizenship: unknown
 injuries: minor
-trustworthiness: no-news-media
+trustworthiness: medium
 created: 2026-02-01T16:41:47
-last_updated: 2026-02-01T16:41:47
+last_updated: 2026-02-02T20:34:00
 ---
 
-# Observer Arrested, Concussion Grenades Deployed at Powderhorn Rec Center (NO NEWS MEDIA)
-
-***Documented by social media posts. If you know of press coverage, please [contact us](mailto:mnicewitness@gmail.com).***
+# Observer Arrested, Concussion Grenades Deployed at Powderhorn Rec Center
 
 ## Summary
 
@@ -22,11 +20,12 @@ On Sunday morning, February 1, 2026, federal agents staged at the Powderhorn Par
 
 ## Sources
 
-1. Facebook Post (Feb 1, 2026): [@JasonChavez - Council Member statement](https://www.facebook.com/share/1C9NqQnUZJ/)
-2. Facebook Video (Feb 1, 2026): [Reel showing incident](https://www.facebook.com/reel/823987634035956)
-3. Facebook Post (Feb 1, 2026): [Eyewitness account](https://www.facebook.com/share/p/1Cwhpoddzc/)
-4. Facebook Post (Feb 1, 2026): [Detailed eyewitness account with video](https://www.facebook.com/share/p/1AqQAuAjYf/)
-5. Facebook Post (Feb 1, 2026): [@JP Pritchett - Smitten Kitten](https://www.facebook.com/share/p/1axsBeDkGv/)
+1. MPR News (Feb 2, 2026): [Minneapolis parks continue to address ICE on grounds](https://www.mprnews.org/story/2026/02/02/minneapolis-parks-continue-to-address-ice-on-grounds-no-where-will-truly-be-safe)
+2. Facebook Post (Feb 1, 2026): [@JasonChavez - Council Member statement](https://www.facebook.com/share/1C9NqQnUZJ/)
+3. Facebook Video (Feb 1, 2026): [Reel showing incident](https://www.facebook.com/reel/823987634035956)
+4. Facebook Post (Feb 1, 2026): [Eyewitness account](https://www.facebook.com/share/p/1Cwhpoddzc/)
+5. Facebook Post (Feb 1, 2026): [Detailed eyewitness account with video](https://www.facebook.com/share/p/1AqQAuAjYf/)
+6. Facebook Post (Feb 1, 2026): [@JP Pritchett - Smitten Kitten](https://www.facebook.com/share/p/1axsBeDkGv/)
 
 ## Affected Individual(s)
 
@@ -66,4 +65,4 @@ The Powderhorn Park Recreation Center has been a site of previous ICE staging ac
 
 ## Editorial Assessment
 
-**NO NEWS MEDIA** - Multiple Facebook posts with video from eyewitnesses. Awaiting news media coverage. Incident occurred this morning (Feb 1, 2026). Will upgrade trustworthiness when press coverage emerges.
+**MEDIUM** - MPR News coverage plus multiple Facebook posts with video from eyewitnesses. Council member and Park Board commissioner were on-site witnesses. Affected individual not identified by name.

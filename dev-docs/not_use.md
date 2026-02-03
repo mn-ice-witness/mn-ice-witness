@@ -662,6 +662,65 @@ Stories are excluded when they don't meet the project's core focus:
 - Reason: Not a civil rights incident - both individuals had prior immigration violations or criminal history. Routine ICE enforcement operation, not targeting non-criminal community members or U.S. citizens.
 - Date evaluated: 2026-01-20
 
+**8½ Street NW Rochester Attempted Arrest (Jan 29)**
+- Sources: [Post Bulletin](https://www.postbulletin.com/news/local/photos-ice-agents-check-house-on-8-1-2-street-northwest-in-rochester-on-jan-29-2026)
+- Date: January 29, 2026
+- Details: Approximately 10 ICE agents approached a house attempting arrest. Agents could be heard "trying to coax a person out of the home." Protesters and neighbors gathered to record. After about 20 minutes, agents left without taking anyone into custody.
+- Reason: **No arrest made** - agents left after 20 minutes. Similar to other presence-only exclusions.
+- Date evaluated: 2026-02-02
+
+**Virginia/Cazadores Restaurant ICE Arrest (Jan 16)**
+- Sources: [Northern News Now](https://www.northernnewsnow.com/2026/01/23/man-accused-assaulting-ice-agent-outside-iron-range-restaurant/), [Fox21](https://www.fox21online.com/2026/01/26/case-dismissed-for-man-arrested-in-virginia-ice-operation/), [KAXE](https://www.kaxe.org/local-news/2026-01-26/doj-drops-assault-charge-against-man-arrested-by-ice-in-virginia)
+- Date: January 16, 2026
+- Details: Jose Miguel Espinoza-Espinoza, 19, Guatemalan, was arrested at Cazadores Mexican Food in Virginia when ICE/HSI agents approached a vehicle they suspected of transporting undocumented immigrants. Espinoza allegedly accelerated and rammed a government vehicle. Assault charges dismissed January 26 when prosecutors failed to present witnesses. Remains in Douglas County Jail on federal detainer facing deportation.
+- Reason: **Undocumented individual** - person admitted to being in the country illegally. Routine enforcement action. Case dismissal was procedural (no witnesses), not exoneration. No civil rights violation documented.
+- Date evaluated: 2026-02-02
+
+**St. Cloud "14 Criminals Arrested" DHS Claims (Jan 2026)**
+- Sources: [KNSI Radio](https://knsiradio.com/2026/01/27/802214/), [Minnesota DOC statement](https://knsiradio.com/2026/01/28/802543/)
+- Date: January 2026
+- Details: DHS claimed 14 individuals with criminal histories were arrested in St. Cloud. MN DOC disputes this, saying at least 7-8 were routine prison transfers from MN Correctional Facility-St. Cloud, not community arrests. Names include: Sing Radsmikham, David Lainez Martinez, Hector Avila Vargas, and others.
+- Reason: **Detainees with criminal convictions** - all 14 had prior criminal records (5 with sexual assault convictions). Additionally, most were prison transfers, not community arrests.
+- Date evaluated: 2026-02-02
+
+**MSU Mankato Student Detained (Late Jan 2026)**
+- Sources: [CBS Minnesota](https://www.cbsnews.com/minnesota/news/minnesota-state-university-mankato-student-detained-by-ice/), [BMTN](https://bringmethenews.com/minnesota-news/minnesota-state-university-mankato-student-detained-by-ice-officials-say)
+- Date: Late January 2026
+- Details: International student detained at off-campus residence. President Inch stated "No reason was given." Student held at Albert Lea jail.
+- Reason: **Insufficient details** - no name provided, no citizenship/status information. May revisit if student identified.
+- Date evaluated: 2026-02-02
+
+**Heather Lane Rooftop Workers Mankato (Jan 10)**
+- Sources: [Mankato Free Press](https://www.mankatofreepress.com/news/local_news/ice-activity-heats-up-in-mankato/article_55544fb0-c9a6-4a04-880b-f67559bbc187.html)
+- Date: January 10, 2026
+- Details: Two workers detained while re-siding apartment building at 201 Heather Lane, west of East High School. ICE agent confronted worker on rooftop. Greater Mankato ICE Watch confirmed "4 men are resting safe in their homes" (suggesting 6 total workers, 2 taken, 4 not).
+- Reason: **Insufficient details** - single source, no affected individual names, limited corroboration. May revisit if affected individuals come forward.
+- Date evaluated: 2026-02-02
+
+### February 2026
+
+**Michelandia Bar & Grill Employee (Feb 1)**
+- Sources: [Bring Me The News](https://bringmethenews.com/minnesota-news/list-of-ice-raids-major-updates-in-minnesota-on-sunday-feb-1)
+- Date: February 1, 2026
+- Details: Video posted online alleges federal agents arrested an employee of Michelandia Bar & Grill in South St. Paul early Sunday.
+- Reason: **Insufficient details** - no affected individual name, no citizenship/status information, social media video only with no news follow-up.
+- Date evaluated: 2026-02-02
+
+### December 2025
+
+**Loc Vinh Truong Rochester (Dec 13, 2025)**
+- Sources: [KTTC](https://www.kttc.com/2026/01/13/ice-arrests-rochester-man-16-years-after-he-was-released-prison-attempts-deport/), [Post Bulletin](https://www.postbulletin.com/news/local/most-of-ices-worst-were-never-on-the-streets-of-rochester)
+- Date: December 13, 2025
+- Details: 47-year-old Vietnamese national who arrived as refugee at age 9 in 1987. Arrested while driving in Rochester. Had 2009 removal order after 2004 conviction (first-degree burglary and drug charges). Allegedly surrendered green card in 2009 for early release deal. Complied with supervision for 16 years. Currently held at Freeborn County Jail.
+- Reason: **Prior criminal conviction** - 2004 felony burglary/drug charges. Similar to "Detainees with criminal convictions" exclusion criteria.
+- Date evaluated: 2026-02-02
+
+### November 2025
+
+**Adán Núñez Gonzalez Northfield (Nov 11, 2025)**
+- Status: **ADDED AS INCIDENT** - see `docs/incidents/2025-11/11/2025-11-11-northfield-nunez-gonzalez-arrest.md`
+- Date evaluated: 2026-02-02
+
 ### October 2025
 
 **ICE Raids Two Hibbing Mexican Restaurants (El Charro, La Tequila Taco Shop)**
