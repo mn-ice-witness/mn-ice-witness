@@ -15,7 +15,8 @@ set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
-SUMMARY_FILE="$PROJECT_ROOT/docs/data/incidents-summary.json"
+DATA_DIR="$PROJECT_ROOT/docs/data"
+CATEGORY_FILES="incidents-summary-citizens.json incidents-summary-immigrants.json incidents-summary-observers.json incidents-summary-schools-hospitals.json incidents-summary-response.json"
 BASE_URL="https://mn-ice-witness.org"
 
 # Colors for output
@@ -81,13 +82,21 @@ warm_cache() {
     echo -e "${BLUE}═══════════════════════════════════════════════════════════════${NC}"
     echo ""
 
-    # Extract all media paths from incidents-summary.json
-    local media_paths=$(jq -r '
-        .incidents[] |
-        select(.hasLocalMedia == true) |
-        .localMediaFiles[]?.path // empty,
-        .localMediaOgPath // empty
-    ' "$SUMMARY_FILE" | sort -u | grep -v '^$')
+    # Extract all media paths from category files
+    local media_paths=""
+    for file in $CATEGORY_FILES; do
+        local file_path="$DATA_DIR/$file"
+        if [[ -f "$file_path" ]]; then
+            local paths=$(jq -r '
+                .incidents[] |
+                select(.hasLocalMedia == true) |
+                .localMediaFiles[]?.path // empty,
+                .localMediaOgPath // empty
+            ' "$file_path")
+            media_paths="$media_paths"$'\n'"$paths"
+        fi
+    done
+    media_paths=$(echo "$media_paths" | sort -u | grep -v '^$')
 
     local total=$(echo "$media_paths" | wc -l | tr -d ' ')
     local count=0

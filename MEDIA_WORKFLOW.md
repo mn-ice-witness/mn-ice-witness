@@ -78,7 +78,7 @@ After processing, always regenerate the JSON:
 python3 scripts/generate_summary.py
 ```
 
-This updates `docs/data/incidents-summary.json` with `hasLocalMedia: true` for incidents with media.
+This updates `incident category JSON files` with `hasLocalMedia: true` for incidents with media.
 
 ## Controlling Gallery Order
 
@@ -121,7 +121,7 @@ python3 scripts/process_media.py
 ### Media not appearing in gallery
 1. Check filename matches incident slug exactly
 2. Run `python3 scripts/generate_summary.py`
-3. Check `docs/data/incidents-summary.json` for `hasLocalMedia: true`
+3. Check `incident category JSON files` for `hasLocalMedia: true`
 
 ## Full Pipeline Summary
 

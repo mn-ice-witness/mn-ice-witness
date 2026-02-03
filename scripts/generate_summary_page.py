@@ -18,14 +18,33 @@ PROJECT_ROOT = Path(__file__).parent.parent
 MEDIA_DIR = PROJECT_ROOT / "docs" / "media"
 SUMMARIES_DIR = PROJECT_ROOT / "docs" / "summaries"
 OG_IMAGES_DIR = PROJECT_ROOT / "docs" / "summary-og-images"
-SUMMARY_JSON = PROJECT_ROOT / "docs" / "data" / "incidents-summary.json"
+DATA_DIR = PROJECT_ROOT / "docs" / "data"
+CATEGORY_FILES = [
+    "incidents-summary-citizens.json",
+    "incidents-summary-immigrants.json",
+    "incidents-summary-observers.json",
+    "incidents-summary-schools-hospitals.json",
+    "incidents-summary-response.json",
+]
+
+
+def load_all_incidents():
+    seen = set()
+    all_incidents = []
+    for filename in CATEGORY_FILES:
+        filepath = DATA_DIR / filename
+        if filepath.exists():
+            with open(filepath) as f:
+                data = json.load(f)
+            for inc in data.get("incidents", []):
+                if inc["filePath"] not in seen:
+                    seen.add(inc["filePath"])
+                    all_incidents.append(inc)
+    return all_incidents
 
 
 def find_incidents_for_date(target_date):
-    with open(SUMMARY_JSON) as f:
-        data = json.load(f)
-
-    incidents = data.get("incidents", data)
+    incidents = load_all_incidents()
 
     matching = []
     for inc in incidents:
@@ -83,18 +102,22 @@ def generate_html(target_date, incidents):
     if new_incidents:
         incident_list_html += "<h3>New</h3><ul>"
         for inc in new_incidents:
-            incident_list_html += f'<li><a href="/entry/{inc["slug"]}">{inc["title"]}</a></li>'
+            incident_list_html += (
+                f'<li><a href="/entry/{inc["slug"]}">{inc["title"]}</a></li>'
+            )
         incident_list_html += "</ul>"
 
     if updated_incidents:
         incident_list_html += "<h3>Updated</h3><ul>"
         for inc in updated_incidents:
-            incident_list_html += f'<li><a href="/entry/{inc["slug"]}">{inc["title"]}</a></li>'
+            incident_list_html += (
+                f'<li><a href="/entry/{inc["slug"]}">{inc["title"]}</a></li>'
+            )
         incident_list_html += "</ul>"
 
     description = f"Incidents added or updated on {date_display} documenting ICE/CBP civil rights incidents in Minnesota."
 
-    html = f'''<!DOCTYPE html>
+    html = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -132,7 +155,7 @@ def generate_html(target_date, incidents):
     </main>
 </body>
 </html>
-'''
+"""
     return html
 
 
@@ -170,7 +193,9 @@ def generate_summary(target_date):
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        print("Usage: python-main scripts/generate_summary_page.py YYYY-MM-DD [YYYY-MM-DD ...]")
+        print(
+            "Usage: python-main scripts/generate_summary_page.py YYYY-MM-DD [YYYY-MM-DD ...]"
+        )
         sys.exit(1)
 
     for date in sys.argv[1:]:
