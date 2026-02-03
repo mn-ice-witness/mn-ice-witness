@@ -342,6 +342,8 @@ Use the schema from `incident-schema.md`. At minimum include:
 
 Use the output for BOTH `created` and `last_updated` fields. **Never guess or make up a timestamp** — manually-entered timestamps are often wrong.
 
+**⚠️ NEVER backdate `last_updated`** — Even when adding an old incident from months ago, both timestamps must be TODAY (when you create the file). The `last_updated` field tracks when WE updated our site, not when the story had its last news coverage.
+
 ```markdown
 ---
 date: 2026-01-15

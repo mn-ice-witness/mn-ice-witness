@@ -7,7 +7,7 @@ How to capture, process, and add video/image clips to incidents.
 **When user says "latest screenshot/mov in raw_media is for [INCIDENT]", ALWAYS run these 3 commands in order:**
 
 ```bash
-# Step 1: Move and rename the file
+# Step 1: Move and rename the file (ALWAYS uses the NEWEST file)
 ./scripts/move-screen-recording.sh --type mov|png INCIDENT_ID
 
 # Step 2: Process all media (compress, generate OG images)
@@ -17,7 +17,10 @@ python-main scripts/process_media.py
 python-main scripts/generate_summary.py
 ```
 
-**DO NOT manually rename files with `mv` - use the script!**
+**IMPORTANT RULES:**
+- **ALWAYS use the NEWEST Screen Recording file** - the script automatically selects it by timestamp
+- **ALWAYS delete ALL remaining `Screen*` files** after moving - run `rm raw_media/Screen*` to clean up failed attempts
+- **DO NOT manually rename files with `mv`** - use the script!
 
 ---
 
@@ -178,9 +181,12 @@ or
 > "Latest screenshot/mov in raw_media is for [INCIDENT_ID or description]"
 
 Claude will:
-1. Run `./scripts/move-screen-recording.sh --type mov|png INCIDENT_ID`
-2. **Clean up all remaining `Screen*` files** in `raw_media/` (often takes multiple tries to get good media)
-3. Run `python3 scripts/process_media.py`
-4. Run `python3 scripts/generate_summary.py`
+1. Run `./scripts/move-screen-recording.sh --type mov|png INCIDENT_ID` — **this ALWAYS uses the NEWEST file by timestamp**
+2. Run `rm raw_media/Screen*` — **ALWAYS delete ALL remaining Screen Recording files** (failed attempts)
+3. Run `python-main scripts/process_media.py`
+4. Run `python-main scripts/generate_summary.py`
 
-**Important:** Always delete leftover Screen Recording/Screenshot files after processing. Multiple capture attempts are common, and only the latest (or specified) one should be kept.
+**CRITICAL:**
+- The script automatically selects the **newest** Screen Recording file — never manually specify which one
+- **ALWAYS delete ALL `Screen*` files** after moving — multiple capture attempts are common, only keep the processed one
+- If multiple `Screen*` files exist, they are failed attempts and should be deleted

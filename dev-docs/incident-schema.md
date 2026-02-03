@@ -100,6 +100,8 @@ last_updated: YYYY-MM-DDTHH:MM:SS  # Required. When last MAJOR update occurred (
 
 **When adding a new incident:** Set BOTH `created` and `last_updated` to the exact current time.
 
+**⚠️ NEVER backdate `last_updated`** — Even if adding an old incident from months ago, `last_updated` must be TODAY (when you created the file), NOT the date of the last news article about the story. The `last_updated` field tracks when WE last updated our documentation, not when the story itself last had news.
+
 **When updating an existing incident:**
 
 | Update Type | Change `last_updated`? |

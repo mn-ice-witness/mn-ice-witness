@@ -4,7 +4,7 @@ Where to find and verify incidents for documentation.
 
 ## Primary News Sources
 
-### Local Minnesota
+### Metro Minnesota (Twin Cities)
 
 | Source | URL | Notes |
 |--------|-----|-------|
@@ -18,6 +18,32 @@ Where to find and verify incidents for documentation.
 | Bring Me The News | bringmethenews.com | Aggregator, quick updates |
 | Sahan Journal | sahanjournal.com | Immigration focus, excellent |
 | Racket | racketmn.com | Alt weekly, detailed |
+
+### Outstate Minnesota
+
+| Source | URL | Coverage Area | Notes |
+|--------|-----|---------------|-------|
+| **Brainerd** | | | |
+| Brainerd Dispatch | brainerddispatch.com | Brainerd, Baxter, Lakes | Primary daily, 18K+ circulation |
+| KAXE Radio | kaxe.org | Northern MN | Public radio |
+| **Moorhead/Fargo** | | | |
+| InForum | inforum.com | Fargo-Moorhead, Red River Valley | The Forum newspaper, primary daily |
+| KVRR TV | kvrr.com | Fargo, Moorhead | Fox affiliate |
+| **St. Cloud** | | | |
+| St. Cloud Times | sctimes.com | St. Cloud metro | Gannett paper, reduced staff |
+| WJON Radio | wjon.com | Central MN | News/talk/sports |
+| KNSI Radio | knsiradio.com | St. Cloud area | Local news |
+| **Duluth** | | | |
+| Duluth News Tribune | duluthnewstribune.com | Duluth, Iron Range, NW Wisconsin | Primary daily, 40K+ circulation |
+| WDIO TV | wdio.com | Duluth, Iron Range, UP Michigan | ABC affiliate |
+| Northern News Now | northernnewsnow.com | Duluth area | KBJR, CBS/NBC affiliate |
+| **Mankato** | | | |
+| Mankato Free Press | mankatofreepress.com | Southern MN | Primary daily, 12K circulation |
+| KEYC TV | keyc.com | Mankato, southern MN, northern IA | CBS affiliate, has ICE coverage |
+| **Rochester** | | | |
+| Post Bulletin | postbulletin.com | Rochester, SE Minnesota | Primary daily |
+| KTTC TV | kttc.com | Rochester, SE Minnesota | NBC affiliate |
+| KIMT TV | kimt.com | Mason City, Rochester | CBS affiliate |
 
 ### National
 

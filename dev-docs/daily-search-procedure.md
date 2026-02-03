@@ -23,9 +23,24 @@ See `adding-incidents.md` Step 1.5 for full details.
 
 ---
 
-## Daily Search Command
+## Search Scope Commands
 
-When the user says **"do our daily search"** or similar, follow this exact procedure:
+The user may request different search scopes:
+
+| Command | Scope | Sources to Search |
+|---------|-------|-------------------|
+| **"do our daily search"** | Metro (default) | Twin Cities sources: BMTN, Star Tribune, MPR, KARE 11, KSTP, Fox 9, Sahan Journal |
+| **"do a metro search"** | Metro only | Same as above |
+| **"do an outstate search"** | Outstate MN | Brainerd Dispatch, InForum (Fargo-Moorhead), WJON/St. Cloud Times, Duluth News Tribune/WDIO, Mankato Free Press/KEYC, Post Bulletin/KTTC (Rochester) |
+| **"do a full search"** | Both | All metro + all outstate sources |
+
+See `research-sources.md` for complete source lists by region.
+
+---
+
+## Daily Search Command (Metro)
+
+When the user says **"do our daily search"** or **"do a metro search"**, follow this exact procedure:
 
 ### Phase 1: Gather Context (Before Searching)
 1. **Read existing incidents** - Use Explore agent to get current incident count and recent additions
@@ -80,6 +95,33 @@ After agents complete, produce summary table:
 ### Search Terms Used
 [List all search queries run]
 ```
+
+---
+
+---
+
+## Outstate Search Command
+
+When the user says **"do an outstate search"**, search for incidents in Greater Minnesota:
+
+### Outstate Search Agents
+
+Launch **4-6 agents simultaneously** targeting outstate cities:
+
+| Agent | Region | Search Terms |
+|-------|--------|--------------|
+| 1 | Rochester | `site:postbulletin.com OR site:kttc.com ICE Rochester Minnesota [dates]` |
+| 2 | Duluth | `site:duluthnewstribune.com OR site:wdio.com ICE Duluth Minnesota [dates]` |
+| 3 | Mankato | `site:mankatofreepress.com OR site:keyc.com ICE Mankato Minnesota [dates]` |
+| 4 | St. Cloud | `site:sctimes.com OR site:wjon.com ICE St. Cloud Minnesota [dates]` |
+| 5 | Moorhead | `site:inforum.com OR site:kvrr.com ICE Moorhead Fargo Minnesota [dates]` |
+| 6 | Brainerd | `site:brainerddispatch.com ICE Brainerd Minnesota [dates]` |
+
+### Additional Outstate Searches
+
+- General: `ICE Minnesota outstate rural January 2026`
+- Meatpacking: `ICE Minnesota meatpacking plant [dates]` (common target)
+- Agricultural: `ICE Minnesota farm agricultural worker [dates]`
 
 ---
 

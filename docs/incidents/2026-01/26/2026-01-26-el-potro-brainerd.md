@@ -9,10 +9,13 @@ affected_individual_citizenship: unknown
 injuries: none
 trustworthiness: high
 created: 2026-01-28T21:20:51
-last_updated: 2026-01-28T21:20:51
+last_updated: 2026-02-02T20:33:00
 ---
 
 # Four Restaurant Workers Detained at El Potro in Brainerd
+
+## Updates
+- **Jan 30** - [KAXE reports](https://www.kaxe.org/local-news/2026-01-30/ice-arrests-brainerd-restaurant-court-appearances) two of the four detained have been arraigned: **Francisco Javier Montoya-Barboza**, 35, charged with improper entry (misdemeanor), pleaded not guilty; **Jose Barajas-Farias**, 52, charged with reentry of removed alien (felony), pleaded not guilty. Both held at Douglas County Jail in Superior, Wisconsin.
 
 ## Summary
 Four employees were detained by Homeland Security Investigation agents at El Potro Mexican Restaurant in downtown Brainerd. The Crow Wing County Sheriff's Office assisted with executing two federal felony warrants, but authorities have not explained why four people were taken into custody when only two had warrants. The restaurant closed indefinitely after the operation.
@@ -22,12 +25,13 @@ Four employees were detained by Homeland Security Investigation agents at El Pot
 2. KAXE (Jan 26, 2026): [Crow Wing County deputies assist with ICE arrests in Brainerd](https://www.kaxe.org/local-news/2026-01-26/crow-wing-county-deputies-assist-ice-arrests-brainerd)
 3. Brainerd Dispatch (Jan 28, 2026): [Dozens gather at Brainerd restaurant for vigil of support](https://www.brainerddispatch.com/news/local/dozens-gather-at-brainerd-restaurant-for-vigil-of-support-for-workers-detained-by-federal-agents)
 4. KAXE (Jan 28, 2026): [ICE arrests at Brainerd restaurant prompts vigil with faith leaders](https://www.kaxe.org/local-news/2026-01-28/ice-arrests-brainerd-restaurant-support-faith-leaders-community-members)
+5. KAXE (Jan 30, 2026): [Two arraigned in Brainerd restaurant ICE arrests](https://www.kaxe.org/local-news/2026-01-30/ice-arrests-brainerd-restaurant-court-appearances)
 
 ## Affected Individual(s)
-- **Names:** Not released.
-- **Number:** 4 employees.
-- **Citizenship:** Unknown.
-- **Criminal History:** No criminal history has been reported for those detained. Two of the four had federal felony warrants (which can be immigration-related).
+- **Francisco Javier Montoya-Barboza**, 35, Mexican national - charged with improper entry (misdemeanor), pleaded not guilty
+- **Jose Barajas-Farias**, 52, Mexican national - charged with reentry of removed alien (felony), pleaded not guilty
+- Two additional men remain unnamed, held "pending removal proceedings" for unlawful presence
+- All four held at Douglas County Jail in Superior, Wisconsin
 
 ## Timeline
 - **~11:00 a.m.** - Homeland Security Investigation agents arrive at El Potro Mexican Restaurant.
