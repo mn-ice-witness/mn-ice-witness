@@ -9,12 +9,13 @@ affected_individual_citizenship: us-citizen
 injuries: fatal
 trustworthiness: high
 created: 2026-01-24T13:40:15
-last_updated: 2026-02-01T21:04:04
+last_updated: 2026-02-02T21:10:32
 ---
 
 # Alex Pretti Shot and Killed by Federal Agents
 
 ## Updates
+- **Feb 2** - Judge Tostrud [lifted the evidence preservation order](https://krdo.com/news/2026/02/02/judge-wipes-away-order-requiring-feds-to-preserve-evidence-gathered-at-alex-pretti-shooting-scene/), stating federal officials provided assurances evidence would be properly maintained.
 - **Feb 1** - [ProPublica identifies](https://www.propublica.org/article/alex-pretti-shooting-cbp-agents-identified-jesus-ochoa-raymundo-gutierrez) the two agents who shot Pretti: Border Patrol agent **Jesus Ochoa**, 43, and CBP officer **Raymundo Gutierrez**, 35. Agents fired Glock pistols approximately 10 times. Video analysis suggests "a federal agent taking Pretti's gun from his hip before the first shots were fired."
 - **Jan 30** - [DOJ opens federal civil rights investigation](https://www.pbs.org/newshour/politics/doj-has-opened-a-federal-civil-rights-probe-into-the-death-of-alex-pretti-deputy-ag-says). Deputy AG Todd Blanche confirmed FBI now leading the probe. Two Border Patrol agents who fired shots placed on administrative leave.
 - **Jan 28** - [MN DOC](https://mn.gov/doc/about/news/news-releases/?id=1089-720842) and [NYT](https://www.nytimes.com/live/2026/01/28/us/minneapolis-shooting-ice-minnesota) report the ICE target (Jose Huerta-Chuma) had only traffic tickets and an expunged misdemeanor—not the "significant criminal history" Bovino claimed.

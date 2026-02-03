@@ -9,12 +9,13 @@ affected_individual_citizenship: us-citizen
 injuries: fatal
 trustworthiness: high
 created: 2026-01-14T08:01:12
-last_updated: 2026-01-23T17:00:00
+last_updated: 2026-02-02T21:10:32
 ---
 
 # Renee Nicole Good Shot and Killed by ICE Agent
 
 ## Updates
+- **Feb 2** - Hennepin County Attorney Mary Moriarty [served Touhy letters](https://www.startribune.com/minnesota-prosecutors-formally-demand-evidence-from-trump-administration-over-the-killing-of-renee-good/601575530) on DOJ and DHS demanding crime scene evidence with a Feb 17 deadline.
 - **Jan 23** - FBI agent Tracee Mergen, a supervisor in the Minneapolis field office, [resigned](https://www.nytimes.com/2026/01/23/us/fbi-agent-ice-shooting-renee-good.html) after bureau leadership in Washington pressured her to discontinue a civil rights inquiry into Jonathan Ross.
 - **Jan 22** - [Hennepin County Medical Examiner](https://www.fox9.com/news/minneapolis-ice-shooting-renee-goods-death-homicide-hennepin-medical-examiner-jan-23) officially ruled death a homicide, cause "multiple gunshot wounds" from being "shot by a law enforcement officer.".
 - **Jan 22** - [Autopsy commissioned by family](https://www.nbcnews.com/news/us-news/renee-good-was-shot-head-autopsy-commissioned-family-finds-rcna255335) found cause of death was multiple gunshot wounds.
