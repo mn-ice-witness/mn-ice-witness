@@ -18,13 +18,18 @@
       "lastUpdated": "2026-02-02T20:53:54",
       "mediaCount": 0,
       "notable": false,
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
+      "hasLocalMedia": true,
+      "localMediaType": "image",
+      "localMediaPath": "media/2026-02/01/2026-02-01-jose-lozano-worthington.jpg",
       "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
+      "localMediaFiles": [
+        {
+          "type": "image",
+          "path": "media/2026-02/01/2026-02-01-jose-lozano-worthington.jpg"
+        }
+      ],
+      "aspectRatio": 1.3528748590755355,
+      "mediaVersion": 1770092930
     },
     {
       "filePath": "incidents/2026-01/30/2026-01-30-st-peter-police-chief-intervenes.md",
