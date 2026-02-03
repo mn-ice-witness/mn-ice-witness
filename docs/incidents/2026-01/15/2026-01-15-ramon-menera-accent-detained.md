@@ -25,7 +25,7 @@ Ramon Menera, a U.S. citizen, was detained by Border Patrol agents outside his h
 ## Affected Individual(s)
 - **Name:** Ramon Menera
 - **Citizenship:** U.S. citizen
-- **Family:** 5-year-old daughter witnessed the detention
+- **Family:** 5-year-old daughter witnessed the detention.
 
 ## Timeline
 - **Jan 15, 2026** - Menera detained outside his home by Border Patrol agents

@@ -29,7 +29,7 @@ Federal immigration agents have been circling El Burrito Mercado, a prominent 47
 - **Founded:** 1979 by immigrant parents from Mexico
 - **Location:** Corner of Cesar Chavez and State Streets, District del Sol, St. Paul's West Side
 - **Current Ownership:** Sisters Milissa Silva-Diaz (CEO) and partner took over a decade ago
-- **Operations:** Mexican supermarket, restaurant, food truck, catering, imported gifts/décor
+- **Operations:** Mexican supermarket, restaurant, food truck, catering, imported gifts/decor
 - **Achievement:** Secured vendor spot at 2024 Minnesota State Fair
 
 ## What's Happening
@@ -40,17 +40,17 @@ ICE agents have been observed:
 - Creating an atmosphere of intimidation.
 
 ## Impact on Business
-- **Monday:** Closed entirely.
-- **Wednesday:** Open only 4 hours.
-- Staff calling out sick due to fear.
-- Customers staying home.
-- Sales dropped dramatically (businesses across area reporting 50-80% declines).
+- **Monday:** Closed entirely
+- **Wednesday:** Open only 4 hours
+- Staff calling out sick due to fear
+- Customers staying home
+- Sales dropped dramatically (businesses across area reporting 50-80% declines)
 
 ## Safety Measures Implemented
-- Parking lot reduced to single entrance.
-- Guards stationed at entrance checking for ICE.
-- Men posted at door opening for customers.
-- Time limits requested for shopping.
+- Parking lot reduced to single entrance
+- Guards stationed at entrance checking for ICE
+- Men posted at door opening for customers
+- Time limits requested for shopping
 
 ## Statements
 

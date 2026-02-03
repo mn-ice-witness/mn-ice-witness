@@ -35,9 +35,9 @@ Minnesota Senate Agriculture Chair Aric Putnam, Vice Chair Rob Kupec, Minnesota 
 ## Key Claims
 
 ### Economic Impact
-- Minnesota agriculture generates $105 billion annually and supports over 380,000 jobs statewide.
-- Approximately 3,500 H-2A visa holders work legally in Minnesota agriculture.
-- Labor shortages expected to drive higher food prices.
+- Minnesota agriculture generates $105 billion annually and supports over 380,000 jobs statewide
+- Approximately 3,500 H-2A visa holders work legally in Minnesota agriculture
+- Labor shortages expected to drive higher food prices
 
 ### ICE Activity in Rural Minnesota
 Sen. Kupec stated ICE activity is occurring well beyond the Twin Cities: "We have ICE agents who are roaming around the countryside causing disruptions through the ag industry."
@@ -73,9 +73,9 @@ Warned that impacts will worsen as planting season approaches. Said farmworkers 
 "Immigrants are a critical part of this labor force."
 
 ## Specific Incidents Mentioned
-- Minnesota dairy farmer reported workers afraid to arrive; ICE agents stationed near farm.
-- Turkey processing plant worker arrested during shift change in Willmar (see separate incident file).
-- Farmworkers afraid to stop for lunch during workdays.
+- Minnesota dairy farmer reported workers afraid to arrive; ICE agents stationed near farm
+- Turkey processing plant worker arrested during shift change in Willmar (see separate incident file)
+- Farmworkers afraid to stop for lunch during workdays
 
 ## Related Congressional Action
 Rep. Angie Craig (D-Minnesota), top Democrat on the House Agriculture Committee, held a separate press conference on Capitol Hill on January 16: "ICE is terrorizing our communities, including our farm communities. They are not just in the Twin Cities. They are everywhere."

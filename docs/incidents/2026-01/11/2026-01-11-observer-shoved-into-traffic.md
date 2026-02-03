@@ -36,11 +36,11 @@ Video shows an ICE agent shoving a man who was filming their vehicle into oncomi
 - **Status:** Appeared uninjured in video
 
 ## Timeline
-- **Weekend (Jan 11-12)** - Incident occurs during ICE operation in Minneapolis.
-- **During incident** - Man stands in front of ICE vehicle filming agents.
-- **Seconds later** - ICE agent approaches and shoves man to the ground.
-- **Immediately after** - Bus approaching scene brakes abruptly to avoid collision.
-- **January 13** - Video obtained and published by CNN.
+- **Weekend (Jan 11-12)** - Incident occurs during ICE operation in Minneapolis
+- **During incident** - Man stands in front of ICE vehicle filming agents
+- **Seconds later** - ICE agent approaches and shoves man to the ground
+- **Immediately after** - Bus approaching scene brakes abruptly to avoid collision
+- **January 13** - Video obtained and published by CNN
 
 ## What the Video Shows
 The eight-second clip shows the man appearing unthreatening, standing in place while filming the ICE agents from several steps in front of their vehicle. An ICE agent walks up to him and pushes him, knocking him off his feet. The video cuts off as he tumbles to the ground toward oncoming traffic.

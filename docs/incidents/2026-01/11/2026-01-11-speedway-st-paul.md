@@ -36,8 +36,8 @@ At a Speedway gas station, federal agents smashed a man's car window to arrest h
 
 ### Bystander Arrested
 - **Citizenship:** U.S. Citizen
-- **What happened:** Filming, told to back up, complied, then shoved, tackled, detained.
-- **Status:** Released Sunday night.
+- **What happened:** Filming, told to back up, complied, then shoved, tackled, detained
+- **Status:** Released Sunday night
 
 ## Key Players Present
 - **Border Patrol Chief Greg Bovino** - Personally on scene commanding operations

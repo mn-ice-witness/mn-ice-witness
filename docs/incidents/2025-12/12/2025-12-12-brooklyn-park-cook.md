@@ -35,9 +35,9 @@ ICE agents arrested Rubio outside Crumbs and Coffee, his workplace in Brooklyn P
 - **Employer claim:** Charles Spies, owner of Crumbs and Coffee, stated Rubio "was legally authorized to work" at the time of arrest.
 
 ## Impact
-- Crumbs and Coffee restaurant forced to close.
-- Community organizations including CAIR shared resources in response.
-- Part of pattern showing Operation Metro Surge extending to suburbs.
+- Crumbs and Coffee restaurant forced to close
+- Community organizations including CAIR shared resources in response
+- Part of pattern showing Operation Metro Surge extending to suburbs
 
 ## Context
 This arrest occurred during the early phase of "Operation Metro Surge," before the January 2026 escalation that brought 2,000+ agents to the Twin Cities. It demonstrated ICE enforcement reaching into suburban communities.

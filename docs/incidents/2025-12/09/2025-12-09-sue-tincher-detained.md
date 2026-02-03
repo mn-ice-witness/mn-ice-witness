@@ -39,15 +39,15 @@ Sue Tincher, a 55-year-old Minneapolis resident and U.S. citizen, was detained f
 - **~6:20 AM** - Tincher responds to neighborhood alert about ICE activity on Oliver Avenue N.
 - **Arrival** - Federal agents tell her to move back.
 - **15 seconds later** - After refusing and questioning if they were ICE, officers "knocked me to the ground."
-- **Detention** - Handcuffed and placed in van.
-- **Transport** - Taken to Bishop Henry Whipple Federal Building at Fort Snelling.
-- **Interrogation** - Read Miranda rights, interviewed; declined to answer without counsel.
-- **Shortly after noon** - Released after attorneys contacted the facility.
+- **Detention** - Handcuffed and placed in van
+- **Transport** - Taken to Bishop Henry Whipple Federal Building at Fort Snelling
+- **Interrogation** - Read Miranda rights, interviewed; declined to answer without counsel
+- **Shortly after noon** - Released after attorneys contacted the facility
 
 ## Injuries
-- Wedding ring cut off by officers.
-- Hand bruising from tight handcuffing.
-- No serious injuries.
+- Wedding ring cut off by officers
+- Hand bruising from tight handcuffing
+- No serious injuries
 
 ## Affected Individual Statement
 

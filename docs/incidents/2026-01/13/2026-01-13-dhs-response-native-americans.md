@@ -49,10 +49,10 @@ The tribe's memorandum stated:
 ## Unanswered Questions
 
 The following questions remain unaddressed in DHS communications:
-- Why U.S. citizens were detained for 12+ hours.
-- Why detained individuals' names were not recorded.
-- How homeless citizens without documentation should prove citizenship.
-- Whether racial profiling protocols were followed.
+- Why U.S. citizens were detained for 12+ hours
+- Why detained individuals' names were not recorded
+- How homeless citizens without documentation should prove citizenship
+- Whether racial profiling protocols were followed
 
 ## Editorial Assessment
 **HIGH** - DHS's non-response is itself well-documented. The demand for a cooperation agreement in exchange for information about detained citizens is documented by multiple sources.

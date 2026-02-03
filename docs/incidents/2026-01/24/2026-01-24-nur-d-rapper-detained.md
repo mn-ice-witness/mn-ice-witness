@@ -31,11 +31,11 @@ Matthew James Obadiah Allen, known as Twin Cities hip-hop artist Nur-D, was viol
 - [Minneapolis Witness Detained for Hours at Whipple Building](#2026-01-24-javier-witness-detained)
 
 ## Affected Individual(s)
-- **Name:** Matthew James Obadiah Allen (stage name: Nur-D).
-- **Citizenship:** U.S. citizen.
-- **Occupation:** Hip-hop artist, Emmy winner, co-founder of Justice Frontline Aid.
-- **Social media:** Instagram @nurdrocks.
-- **Status:** Released same day.
+- **Name:** Matthew James Obadiah Allen (stage name: Nur-D)
+- **Citizenship:** U.S. citizen
+- **Occupation:** Hip-hop artist, Emmy winner, co-founder of Justice Frontline Aid
+- **Social media:** Instagram @nurdrocks
+- **Status:** Released same day
 
 ## Background
 Nur-D is a prominent Twin Cities hip-hop artist who co-founded Justice Frontline Aid in May 2020 after the murder of George Floyd. The organization aims to "create the safest environment possible" for activists and provides first aid and support at protests. He was voted Best New Artist by City Pages in 2019 and has appeared on NPR's Morning Edition.

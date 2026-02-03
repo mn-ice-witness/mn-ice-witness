@@ -22,9 +22,9 @@ During protests in Minneapolis following the fatal shooting of Renee Good, video
 2. Peoples Dispatch (Jan 11, 2026): [Movement against ICE grows in the US](https://peoplesdispatch.org/2026/01/11/movement-against-ice-grows-in-the-us-in-the-wake-of-killing-of-renee-good/)
 
 ## Affected Individual(s)
-- **Name:** Unknown.
-- **Citizenship:** Unknown.
-- **Background:** Protester at Minneapolis demonstrations.
+- **Name:** Unknown
+- **Citizenship:** Unknown
+- **Background:** Protester at Minneapolis demonstrations
 
 ## Timeline
 - **January 7, 2026** - Renee Good fatally shot by ICE agent Jonathan Ross.

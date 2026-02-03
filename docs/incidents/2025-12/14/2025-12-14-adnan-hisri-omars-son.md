@@ -46,19 +46,19 @@ According to Rep. Omar, her son was stopped by ICE agents on Saturday, December 
 - Omar said her son has had previous encounters with federal agents, including at a Twin Cities mosque where agents entered while he and others were praying
 
 ## DHS Response
-- "ICE has absolutely ZERO record of its officers or agents pulling over Congresswoman Omar's son"
-- Accused Omar of making "unsupported accusations"
-- Called claims of racial profiling "disgusting, reckless and categorically FALSE"
-- Said ICE enforcement actions are based on "reasonable suspicion" under the Fourth Amendment
+- "ICE has absolutely ZERO record of its officers or agents pulling over Congresswoman Omar's son."
+- Accused Omar of making "unsupported accusations."
+- Called claims of racial profiling "disgusting, reckless and categorically FALSE."
+- Said ICE enforcement actions are based on "reasonable suspicion" under the Fourth Amendment.
 
 ## Rep. Omar's Office Response
 "The congresswoman's son and others were pulled over by ICE, racially profiled, and forced to prove their citizenship with a passport. ICE has long operated as a rogue agency beyond reform. It's no surprise that an agency known for disappearing people also can't keep its records straight."
 
 ## Significance
 This incident highlights concerns about:
-- Racial profiling of Somali-Americans and other people of color.
-- U.S. citizens being forced to carry passports to prove citizenship.
-- Disputed record-keeping by federal agencies.
+- Racial profiling of Somali-Americans and other people of color
+- U.S. citizens being forced to carry passports to prove citizenship
+- Disputed record-keeping by federal agencies
 - Minnesota being home to the largest Somali community in the U.S.
 
 ## Editorial Assessment

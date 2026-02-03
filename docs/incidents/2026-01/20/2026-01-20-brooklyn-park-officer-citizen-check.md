@@ -33,10 +33,10 @@ Three Twin Cities law enforcement leaders held a joint press conference at the M
 13. NewsNation (Jan 20, 2026): [ICE profiling off-duty cops requiring citizenship papers](https://www.newsnationnow.com/us-news/midwest/ice-profiling-cops-citizenship/)
 
 ## Affected Individual(s)
-- **Name:** Not disclosed.
-- **Occupation:** Brooklyn Park Police Officer (off-duty at time of incident).
-- **Citizenship:** U.S. Citizen.
-- **Background:** Female officer of color; identity protected by department.
+- **Name:** Not disclosed
+- **Occupation:** Brooklyn Park Police Officer (off-duty at time of incident)
+- **Citizenship:** U.S. Citizen
+- **Background:** Female officer of color; identity protected by department
 
 ## Timeline
 - **Early-mid January 2026** - Off-duty Brooklyn Park police officer driving in the Twin Cities metro area.

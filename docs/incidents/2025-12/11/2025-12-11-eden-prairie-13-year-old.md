@@ -44,9 +44,9 @@ ICE agents detained Gomez outside an Eden Prairie apartment complex while his 13
 - **~10:20 a.m.** - ICE agents approach Gomez outside apartment building in Eden Prairie.
 - **During arrest** - 13-year-old Jose is handcuffed.
 - **Incident** - Jose allegedly thrown to ground and struck by officers.
-- **Later** - Jose released.
-- **Following days** - Jose experiences medical complications including abnormal heartbeat.
-- **Hospitalization** - Evaluated at St. Francis Hospital.
+- **Later** - Jose released
+- **Following days** - Jose experiences medical complications including abnormal heartbeat
+- **Hospitalization** - Evaluated at St. Francis Hospital
 
 ## Mother's Statement
 "They didn't have the right to arrest my son."
@@ -56,9 +56,9 @@ The family fled violence in Mexico. Gomez arrived in 2022; his wife and children
 
 ## Medical Complications
 Following the incident, the 13-year-old experienced:
-- Abnormal heartbeat requiring evaluation.
-- Hospitalization at St. Francis Hospital.
-- Ongoing medical monitoring.
+- Abnormal heartbeat requiring evaluation
+- Hospitalization at St. Francis Hospital
+- Ongoing medical monitoring
 
 ## Editorial Assessment
 **HIGH** - Local news coverage with family statements. Medical complications documented. Part of pattern of aggressive enforcement affecting children. The handcuffing and alleged assault of a 13-year-old represents a significant civil rights concern.

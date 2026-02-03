@@ -40,9 +40,9 @@ Leadership in the Civil Rights Division, overseen by Harmeet Dhillon, informed s
 ## Prosecutor Resignations
 
 Six federal prosecutors from the U.S. Attorney's Office in Minnesota resigned, including:
-- **Joseph Thompson** - Over a decade in law enforcement.
-- **Melinda Williams**.
-- Four additional attorneys (names not disclosed).
+- **Joseph Thompson** - Over a decade in law enforcement
+- **Melinda Williams**
+- Four additional attorneys (names not disclosed)
 
 ### Their Concerns
 According to sources, the prosecutors had two main concerns:

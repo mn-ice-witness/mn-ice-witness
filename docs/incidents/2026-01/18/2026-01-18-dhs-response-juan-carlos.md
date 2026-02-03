@@ -77,13 +77,13 @@ The victim was issued a U.S. District Court Violation Notice for "Failure to car
 **DHS Claim:** The victim is a "criminal alien from Ecuador"
 
 **Conflicting Information:**
-- GoFundMe states he is a U.S. resident
+- GoFundMe states he is a U.S. resident.
 - He was issued a civil violation ticket, not arrested for criminal activity.
 - DHS provided no specific criminal history claims.
 - Video shows the victim was not resisting when agents kneed him repeatedly.
 
 **What Remains Unverified:**
-- The victim's exact immigration status.
+- The victim's exact immigration status
 - DHS has not provided documentation supporting the "criminal alien" claim.
 - The victim has not publicly come forward to confirm his status.
 

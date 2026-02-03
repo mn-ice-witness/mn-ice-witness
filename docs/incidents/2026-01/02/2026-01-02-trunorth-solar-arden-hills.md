@@ -26,8 +26,8 @@ ICE agents descended on the TruNorth Solar factory in Arden Hills in what was de
 
 ## Community Response
 Protesters:
-- Blew whistles.
-- Honked horns.
+- Blew whistles
+- Honked horns
 - Yelled at agents to leave the facility.
 
 ## Context

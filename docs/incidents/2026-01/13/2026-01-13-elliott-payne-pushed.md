@@ -37,10 +37,10 @@ Minneapolis City Council President Elliott Payne was shoved by a masked ICE agen
 - **Activity:** Legally observing ICE operations in his ward
 
 ## Timeline
-- **Unknown time** - Payne observing ICE activities outside Eastside Co-op at 2551 Central Ave NE.
-- **Confrontation** - ICE agents stop a citizen in front of the co-op.
-- **Assault** - Masked ICE agent shoves Payne at a bus stop.
-- **Aftermath** - Payne shares video to BlueSky.
+- **Unknown time** - Payne observing ICE activities outside Eastside Co-op at 2551 Central Ave NE
+- **Confrontation** - ICE agents stop a citizen in front of the co-op
+- **Assault** - Masked ICE agent shoves Payne at a bus stop
+- **Aftermath** - Payne shares video to BlueSky
 
 ## Affected Individual Statement
 

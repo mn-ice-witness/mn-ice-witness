@@ -55,7 +55,7 @@ Four days after ICE detained four Oglala Sioux tribal members from a Minneapolis
 
 ## Timeline
 - **Jan 10 (Fri)** - Four Oglala Lakota men detained from homeless encampment under bridge near Little Earth
-- **Jan 13** - Axios, MPR report on tribe's demands; tribe locates detainees.
+- **Jan 13** - Axios, MPR report on tribe's demands; tribe locates detainees
 - **Jan 14 (Tue)** - President Frank Star Comes Out issues formal memorandum to DHS Sec. Noem and Interior Sec. Burgum demanding release
 - **Jan 16-17 (upcoming)** - Oglala Sioux Tribe enrollment office organizing assistance at Minneapolis American Indian Center to help tribal members obtain documentation and IDs
 
@@ -69,22 +69,22 @@ President Frank Star Comes Out issued formal memorandum stating:
 - "We will not enter an agreement that would authorize, or make it easier for, ICE or Homeland Security to come onto our tribal homeland to arrest or detain our tribal members."
 
 ### Tribal Demands
-1. Immediate release of all enrolled tribal citizens held by immigration
-2. Full, comprehensive information from DHS on detainees
-3. Written assurances that ICE will stop detaining Native Americans
-4. Immediate government-to-government consultation
+1. Immediate release of all enrolled tribal citizens held by immigration.
+2. Full, comprehensive information from DHS on detainees.
+3. Written assurances that ICE will stop detaining Native Americans.
+4. Immediate government-to-government consultation.
 
 ### DHS Response
 When tribe contacted DHS requesting information about detained tribal members:
-- DHS released only first names of detainees
-- DHS refused additional information unless tribe "entered into an immigration agreement with ICE"
-- Tribe declined this condition
-- DHS did not respond to media requests for comment
+- DHS released only first names of detainees.
+- DHS refused additional information unless tribe "entered into an immigration agreement with ICE."
+- Tribe declined this condition.
+- DHS did not respond to media requests for comment.
 
 ## Legal Context
-- ICE agents can arrest U.S. citizens in some cases, but agents cannot place U.S. citizens in immigration detention after citizenship is verified
-- Citizens of tribal nations became U.S. citizens in 1924 through the Indian Citizenship Act
-- Oglala Sioux Tribe promises aggressive legal action to secure release
+- ICE agents can arrest U.S. citizens in some cases, but agents cannot place U.S. citizens in immigration detention after citizenship is verified.
+- Citizens of tribal nations became U.S. citizens in 1924 through the Indian Citizenship Act.
+- Oglala Sioux Tribe promises aggressive legal action to secure release.
 
 ## Historical Context
 Scholar Nick Estes, associate professor of American Indian Studies at University of Minnesota, noted Fort Snelling's "notorious anti-Indigenous, specifically anti-Dakota, history." Fort Snelling was the first military outpost in the area and Dakota people were held prisoner there during the Dakota War of 1862.

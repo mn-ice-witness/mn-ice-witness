@@ -29,12 +29,12 @@ Combat-wounded Army veteran William Vermie was detained for approximately eight 
 - **Wife:** Heather Mains
 
 ## Timeline
-- **Afternoon** - Vermie observes ICE agents arresting two people near 34th Street and Park Avenue.
-- **During arrest** - ICE agents move down sidewalk, shoving bystanders and ordering them to leave.
-- **Shortly after** - Vermie grabbed by leg, taken to ground, handcuffed.
-- **After arrest** - Transported to Bishop Henry Whipple Federal Building.
-- **Throughout detention** - Repeatedly asks for phone call, never receives one.
-- **~8 hours later** - Released without charges, bruised but otherwise uninjured.
+- **Afternoon** - Vermie observes ICE agents arresting two people near 34th Street and Park Avenue
+- **During arrest** - ICE agents move down sidewalk, shoving bystanders and ordering them to leave
+- **Shortly after** - Vermie grabbed by leg, taken to ground, handcuffed
+- **After arrest** - Transported to Bishop Henry Whipple Federal Building
+- **Throughout detention** - Repeatedly asks for phone call, never receives one
+- **~8 hours later** - Released without charges, bruised but otherwise uninjured
 
 ## What Happened
 

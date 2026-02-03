@@ -24,12 +24,12 @@ Fridley Public Schools cancelled all classes on January 9, 2026, and again on Ja
 4. Hometown Source (Jan 12, 2026): [Fridley, Columbia Heights Schools classes back in person](https://www.hometownsource.com/abc_newspapers/abc_newspapers/fridley-columbia-heights-schools-classes-back-in-person/article_fc9c2cd8-8ce7-4fa9-ab63-f71ae1d8af29.html)
 
 ## School Impact
-- **District:** Fridley Public Schools (~2,700 students).
-- **Demographics:** Significant Hispanic and Somali population.
-- **Absences:** Roughly one-third of students absent in the days before closure.
-- **First closure:** January 9, 2026 (full closure).
-- **Second closure:** January 16, 2026 (citing ICE activity and winter weather).
-- **Resumption:** January 12, 2026 (after first closure); January 20, 2026 (after second closure).
+- **District:** Fridley Public Schools (~2,700 students)
+- **Demographics:** Significant Hispanic and Somali population
+- **Absences:** Roughly one-third of students absent in the days before closure
+- **First closure:** January 9, 2026 (full closure)
+- **Second closure:** January 16, 2026 (citing ICE activity and winter weather)
+- **Resumption:** January 12, 2026 (after first closure); January 20, 2026 (after second closure)
 
 ## Timeline
 
@@ -64,12 +64,12 @@ The district also announced an optional e-learning opportunity from January 20 t
 The Fridley Public Schools Board of Education unanimously approved a resolution on December 16, 2025, affirming that the district would continue to protect private student information and refuse to grant access to immigration enforcement without a valid judicial warrant.
 
 ## What Was Cancelled (Both Closures)
-- All school for all students.
-- Online or distance learning.
-- All after-school, evening, and weekend activities.
-- Building rentals.
-- All Community Education classes.
-- Tiger Club childcare.
+- All school for all students
+- Online or distance learning
+- All after-school, evening, and weekend activities
+- Building rentals
+- All Community Education classes
+- Tiger Club childcare
 
 ## Context
 The closures came after:

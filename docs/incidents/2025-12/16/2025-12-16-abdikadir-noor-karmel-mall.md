@@ -46,9 +46,9 @@ During processing, an ICE agent made the following statements (as alleged in law
 - "Somalis should go back home"
 
 ## Due Process Violations
-- Shackled alone for approximately 4 hours before being read his rights.
-- Agent refused to allow seatbelt during transport (safety issue).
-- Released without charges after hours of detention.
+- Shackled alone for approximately 4 hours before being read his rights
+- Agent refused to allow seatbelt during transport (safety issue)
+- Released without charges after hours of detention
 
 ## Context
 This incident occurred at Karmel Mall, the nation's first Somali shopping center, which has been a frequent site of ICE activity. The same mall was the location of the pregnant woman dragged through snow incident (Dec 15, 2025).

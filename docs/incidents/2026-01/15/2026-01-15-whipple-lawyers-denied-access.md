@@ -25,7 +25,7 @@ Multiple attorneys allege the Department of Homeland Security is denying detaine
 - **Detainees affected:** Multiple, number unknown
 - **Notable cases cited:**
   - [William Vermie](#2026-01-13-william-vermie-veteran-detained), U.S. citizen and Iraq War veteran detained as bystander to an immigration enforcement operation
-  - Detainee with severe medical needs requiring specific medications.
+  - Detainee with severe medical needs requiring specific medications
 
 ## Timeline
 - **Week of Jan 13:** Attorneys report new pattern of being denied access to clients

@@ -26,13 +26,13 @@ Kong Vang, a U.S. citizen working from home in St. Paul's Frogtown neighborhood,
 ## Affected Individual(s)
 - **Name:** Kong Vang
 - **Citizenship:** U.S. Citizen
-- **Background:** Lives with his parents (who immigrated from Laos in the 1970s), his sister, and his son. All family members are U.S. citizens.
+- **Background:** Lives with his parents (who immigrated from Laos in the 1970s), his sister, and his son; all family members are U.S. citizens
 
 ## Timeline
-- **Afternoon** - Vang working from home when his mother alerts him someone is at the door.
-- **Afternoon** - Vang grabs phone and starts recording the interaction.
-- **Afternoon** - Vang refuses to open door, tells agents "We're not opening the door" and "You're trespassing".
-- **~90 seconds later** - Agents leave without explanation.
+- **Afternoon** - Vang working from home when his mother alerts him someone is at the door
+- **Afternoon** - Vang grabs phone and starts recording the interaction
+- **Afternoon** - Vang refuses to open door, tells agents "We're not opening the door" and "You're trespassing"
+- **~90 seconds later** - Agents leave without explanation
 
 ## Official Accounts
 

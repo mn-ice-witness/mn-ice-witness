@@ -31,11 +31,11 @@ The kitchen manager at Francis Burger Joint's East Lake Street location in Minne
 - **Background:** Restaurant employee arriving for work shift
 
 ## Timeline
-- **Tuesday, Jan 13** - Kitchen manager arrives at Francis Burger Joint's East Lake Street location.
-- **During arrival** - ICE altercation already occurring nearby.
-- **Observation** - Manager runs over to act as legal observer; front-of-house staff follow.
-- **Arrest** - Manager is tackled, punched repeatedly, and detained.
-- **During arrest** - His kitchen shoes are knocked off.
+- **Tuesday, Jan 13** - Kitchen manager arrives at Francis Burger Joint's East Lake Street location
+- **During arrival** - ICE altercation already occurring nearby
+- **Observation** - Manager runs over to act as legal observer; front-of-house staff follow
+- **Arrest** - Manager is tackled, punched repeatedly, and detained
+- **During arrest** - His kitchen shoes are knocked off
 
 ## Witness Accounts
 
@@ -63,9 +63,9 @@ Following the Renee Good shooting on January 7, Francis Burger Joint posted on F
 Following the January 13 detention of their kitchen manager, Francis Burger Joint closed temporarily. When the East Lake Street location reopened, the restaurant offered a 10 percent discount to customers, though some refused the discount, saying they wanted to support the restaurant.
 
 The restaurant implemented new safety protocols:
-- All staff trained on asserting right to legal representation.
-- Clear procedures established for ICE encounters.
-- Staff know exactly what to say and who to call.
+- All staff trained on asserting right to legal representation
+- Clear procedures established for ICE encounters
+- Staff know exactly what to say and who to call
 
 ## Editorial Assessment
 **HIGH** - Multiple sources including Mpls.St.Paul Magazine feature article and Yahoo News coverage. Named co-owner (Lindsey Johnston) provides direct, detailed account with multiple quotes. The affected individual's name is not disclosed but incident details are specific.

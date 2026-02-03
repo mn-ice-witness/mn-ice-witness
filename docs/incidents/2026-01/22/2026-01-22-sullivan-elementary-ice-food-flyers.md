@@ -68,9 +68,9 @@ This occurred during [Operation Metro Surge](https://en.wikipedia.org/wiki/Opera
 ## Context: ICE Ruse Tactics
 
 The [Immigrant Defense Project](https://www.immigrantdefenseproject.org/ice-ruses/) has documented ICE using various ruses since 2017, including:
-- Pretending to be local police.
-- Claiming to investigate fake crimes.
-- Using plainclothes officers with vests marked "POLICE."
+- Pretending to be local police
+- Claiming to investigate fake crimes
+- Using plainclothes officers with vests marked "POLICE"
 
 However, we found no documented cases of ICE specifically using food assistance flyers as a lure.
 

@@ -25,9 +25,9 @@ On the morning of January 29, 2026, ICE agents detained a man in Columbia Height
 
 ## Affected Individual(s)
 
-- **Jessica:** U.S. presence status unknown; grabbed and held by agent for 5+ minutes before release.
-- **Jessica's father:** Undocumented, from Ecuador, no criminal record. Detained.
-- **Jessica's husband:** Detained approximately three weeks prior.
+- **Jessica:** U.S. presence status unknown; grabbed and held by agent for 5+ minutes before release
+- **Jessica's father:** Undocumented, from Ecuador, no criminal record; detained
+- **Jessica's husband:** Detained approximately three weeks prior
 
 ## What Happened
 

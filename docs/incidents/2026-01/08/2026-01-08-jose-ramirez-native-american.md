@@ -37,20 +37,20 @@ Jose Roberto "Beto" Ramirez, 20, U.S. citizen and Red Lake Nation descendant, wa
 13. MPR News (Jan 27, 2026): [Native American legal rights group says Jose Roberto Ramirez retaliated against by ICE](https://www.mprnews.org/story/2026/01/27/native-american-legal-rights-group-says-jose-roberto-ramirez-retaliated-against-by-ice)
 
 ## Affected Individual(s)
-- **Name:** Jose Roberto "Beto" Ramirez.
-- **Age:** 20.
-- **Citizenship:** U.S. Citizen (born Minneapolis).
-- **Heritage:** Red Lake Nation (Ojibwe) descendant.
-- **Mother:** Raelyn Duffy (Red Lake Nation member).
+- **Name:** Jose Roberto "Beto" Ramirez
+- **Age:** 20
+- **Citizenship:** U.S. Citizen (born Minneapolis)
+- **Heritage:** Red Lake Nation (Ojibwe) descendant
+- **Mother:** Raelyn Duffy (Red Lake Nation member)
 
 ## What Happened
-- Followed by blacked-out SUV.
-- ~20 agents swarmed vehicle at Hy-Vee.
-- Punched while face being scanned.
-- Told "You're gonna see your family, some of your cousins in here."
-- Threatened with federal prison for "assaulting officer" (charges filed Jan 26).
-- Handcuffs tightened when asked to loosen.
-- Still bruised 24+ hours later.
+- Followed by blacked-out SUV
+- ~20 agents swarmed vehicle at Hy-Vee
+- Punched while face being scanned
+- Told "You're gonna see your family, some of your cousins in here"
+- Threatened with federal prison for "assaulting officer" (charges filed Jan 26)
+- Handcuffs tightened when asked to loosen
+- Still bruised 24+ hours later
 
 ## Editorial Assessment
 **HIGH** - Family provided birth certificate to Star Tribune. Multiple sources.

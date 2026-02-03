@@ -30,11 +30,11 @@ A U.S. citizen was detained by ICE agents outside Bowlocity bowling alley in Roc
 ## Incident Details
 Rep. Kim Hicks (DFL-Rochester, District 25A) documented the incident on video:
 
-1. ICE agents detained the man outside Bowlocity Entertainment Center Friday afternoon
-2. Agents handcuffed him and loaded him into a vehicle
-3. When Hicks asked why they were arresting him, an ICE agent responded: "She's being arrested because the vehicle is going back to an illegal, ma'am"
-4. The man was released shortly after
-5. Hicks spoke with the man after his release and confirmed: the car was registered to him, not to another person
+1. ICE agents detained the man outside Bowlocity Entertainment Center Friday afternoon.
+2. Agents handcuffed him and loaded him into a vehicle.
+3. When Hicks asked why they were arresting him, an ICE agent responded: "She's being arrested because the vehicle is going back to an illegal, ma'am."
+4. The man was released shortly after.
+5. Hicks spoke with the man after his release and confirmed: the car was registered to him, not to another person.
 
 ## Witness Accounts
 

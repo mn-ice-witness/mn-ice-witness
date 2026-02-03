@@ -60,11 +60,11 @@ Shortal emphasized she was in the appropriate position with a press credential, 
 
 The incident occurred during the immediate aftermath of a fatal shooting by federal agents:
 
-- **Victim:** 37-year-old white male, Minneapolis resident, U.S. citizen.
-- **Status:** Lawful gun owner with valid permit to carry, no criminal record.
-- **DHS claim:** Man "approached Border Patrol officers with a 9 mm semi-automatic handgun" and "violently resisted" disarming.
+- **Victim:** 37-year-old white male, Minneapolis resident, U.S. citizen
+- **Status:** Lawful gun owner with valid permit to carry, no criminal record
+- **DHS claim:** Man "approached Border Patrol officers with a 9 mm semi-automatic handgun" and "violently resisted" disarming
 - **Video evidence:** CBS Minnesota reviewed video showing "several federal agents surrounding a person on the ground" and "one of the agents hits the person with a gun several times before several gunshots are heard." Multiple videos showed the person "without a weapon in hand before agents tackled him to the ground."
-- **Police Chief O'Hara:** Said victim's only interaction with law enforcement was traffic tickets.
+- **Police Chief O'Hara:** Said victim's only interaction with law enforcement was traffic tickets
 
 This was the third shooting by federal agents in Minneapolis since January 7, 2026, and the second fatality.
 

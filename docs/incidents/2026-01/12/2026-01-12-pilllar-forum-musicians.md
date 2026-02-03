@@ -23,7 +23,7 @@ Musicians and concert attendees were pepper-sprayed and hit with batons by ICE a
 ## Affected Individual(s)
 - **Names:** Multiple unnamed musicians and concert-goers
 - **Citizenship:** U.S. Citizens
-- **Details:** Several customers and musicians were pepper-sprayed, at least two hit with batons
+- **Details:** Several customers and musicians were pepper-sprayed, at least two hit with batons.
 
 ## Timeline
 - **Evening** - Concert scheduled at Pilllar Forum with headliner Anita Velveeta.

@@ -22,16 +22,16 @@ Bryam Escobar Martinez, a father of two from Hopkins, was detained by ICE while 
 2. MPR News (Jan 10, 2026): [Court orders Hopkins man detained by ICE released from custody](https://www.mprnews.org/story/2026/01/12/court-orders-hopkins-man-detained-by-ice-in-latest-enforcement-surge-released-from-custody)
 
 ## Affected Individual(s)
-- **Name:** Bryam Escobar Martinez.
-- **Citizenship:** Undocumented.
-- **Family:** Married to Estefany Escobar; father of two children.
-- **Occupation:** Working (detained on way to job).
+- **Name:** Bryam Escobar Martinez
+- **Citizenship:** Undocumented
+- **Family:** Married to Estefany Escobar; father of two children
+- **Occupation:** Working (detained on way to job)
 
 ## Timeline
-- **Jan 9, 2026 (morning)** - Martinez detained by ICE while commuting to work.
-- **Jan 9** - Wife Estefany speaks to MPR News about family disruption.
-- **Days later** - Martinez files legal challenge to detention.
-- **Jan 12, 2026** - Court orders Martinez released from custody.
+- **Jan 9, 2026 (morning)** - Martinez detained by ICE while commuting to work
+- **Jan 9** - Wife Estefany speaks to MPR News about family disruption
+- **Days later** - Martinez files legal challenge to detention
+- **Jan 12, 2026** - Court orders Martinez released from custody
 
 ## What Happened
 Estefany Escobar reported that her husband was detained by ICE while on his way to work. The arrest disrupted the lives of their Hopkins family of four.

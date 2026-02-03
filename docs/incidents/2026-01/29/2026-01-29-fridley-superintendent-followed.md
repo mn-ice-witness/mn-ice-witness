@@ -29,10 +29,10 @@ Fridley Public Schools Superintendent Brenda Lewis reported on January 29, 2026,
 
 ## Affected Individual(s)
 
-- **Name:** Dr. Brenda Lewis.
-- **Role:** Superintendent, Fridley Public Schools.
-- **Citizenship:** U.S. citizen.
-- **Also affected:** Three Fridley school board members.
+- **Name:** Dr. Brenda Lewis
+- **Role:** Superintendent, Fridley Public Schools
+- **Citizenship:** U.S. citizen
+- **Also affected:** Three Fridley school board members
 
 ## What Happened
 

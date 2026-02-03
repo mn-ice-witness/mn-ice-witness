@@ -28,10 +28,10 @@ Video circulating on social media shows an ICE agent approaching a woman who was
 - **Status:** Phone snatched while filming
 
 ## Timeline
-- **Unknown time** - Woman films ICE operation from a distance.
-- **During filming** - ICE agent walks approximately 17 steps toward her.
-- **Confrontation** - Agent says "Have you all not learned over the last couple of days".
-- **Moments later** - Agent snatches phone from her hand.
+- **Unknown time** - Woman films ICE operation from a distance
+- **During filming** - ICE agent walks approximately 17 steps toward her
+- **Confrontation** - Agent says "Have you all not learned over the last couple of days"
+- **Moments later** - Agent snatches phone from her hand
 
 ## What the Video Shows
 The video shows an ICE agent deliberately walking toward a woman who was filming from a safe distance. The agent reportedly had to walk approximately 17 steps to reach her, indicating she was not blocking or interfering with the operation. The agent tells her "Have you all not learned over the last couple of days" and falsely claims that following federal agents is illegal before snatching her phone.

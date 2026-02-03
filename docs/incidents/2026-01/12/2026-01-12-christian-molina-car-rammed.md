@@ -33,12 +33,12 @@ ICE agents followed and rammed into the car of Christian Molina, a 40-year-old L
 - **Wife:** Lorena Molina, 34
 
 ## Timeline
-- **~Noon** - ICE agents follow Molina's vehicle on E. 35th Street near Park Avenue.
-- **Collision** - Agents ram into the back of his car.
-- **Confrontation** - Agents ask about citizenship, request ID.
-- **Refusal** - Molina refuses to comply, states he's a citizen and they'd need police.
-- **Crowd gathers** - ~100 observers arrive, blowing whistles and honking horns.
-- **Release** - Agents release Molina after confirming his identity.
+- **~Noon** - ICE agents follow Molina's vehicle on E. 35th Street near Park Avenue
+- **Collision** - Agents ram into the back of his car
+- **Confrontation** - Agents ask about citizenship, request ID
+- **Refusal** - Molina refuses to comply, states he's a citizen and they'd need police
+- **Crowd gathers** - ~100 observers arrive, blowing whistles and honking horns
+- **Release** - Agents release Molina after confirming his identity
 
 ## Affected Individual Statement
 
@@ -51,10 +51,10 @@ On the confrontation: He refused to show ID, stating he is a U.S. citizen and th
 Minneapolis City Council Member Jason Chavez arrived at the scene. A crowd of approximately 100 observers quickly gathered, blowing whistles and honking horns to support Molina.
 
 ## Aftermath
-- Car sustained significant rear damage.
-- Agent mentioned ICE would cover repairs but provided no contact information.
-- Molina experienced lower back pain.
-- Supporters began GoFundMe campaign for repairs and family expenses.
+- Car sustained significant rear damage
+- Agent mentioned ICE would cover repairs but provided no contact information
+- Molina experienced lower back pain
+- Supporters began GoFundMe campaign for repairs and family expenses
 
 ## Location Context
 The incident occurred two blocks from where Renee Nicole Good was killed by an ICE agent on January 7.

@@ -34,19 +34,19 @@ Wes Prince, a U.S. citizen protesting at the Whipple Building, was detained appr
 From his Facebook post and KSTP interview:
 
 ### Security Failures Observed
-- Agents sharing badges to access cells ("one agent would pass off their badge access to another").
-- Mugshots taken on personal cell phones with social media apps visible on home screen.
-- Notes written in notebooks, not on official forms.
-- Agents unable to locate detainees, asking other detainees where people were.
-- His cell phone was not found during jacket search (he kept it in breast pocket).
+- Agents sharing badges to access cells ("one agent would pass off their badge access to another")
+- Mugshots taken on personal cell phones with social media apps visible on home screen
+- Notes written in notebooks, not on official forms
+- Agents unable to locate detainees, asking other detainees where people were
+- His cell phone was not found during jacket search (he kept it in breast pocket)
 
 ### Interrogation Concerns
-- Agents asked for names of family members rather than "emergency contact".
+- Agents asked for names of family members rather than "emergency contact"
 
 ### Conditions
-- Observed ~40-50 migrants in large holding cell with "somber, defeated expressions".
-- Cells marked with sticky notes ("USC" for U.S. citizens).
-- Not fingerprinted; only cell phone photo taken.
+- Observed ~40-50 migrants in large holding cell with "somber, defeated expressions"
+- Cells marked with sticky notes ("USC" for U.S. citizens)
+- Not fingerprinted; only cell phone photo taken
 
 ### His Assessment
 > "The overall atmosphere is chaotic. I think it's a word that I keep coming to."

@@ -31,32 +31,32 @@ Brandon Sigüenza (32) and Patty O'Keefe (36), both U.S. citizens monitoring ICE
 11. Yahoo News Canada (Jan 26, 2026): [ICE arrested me without cause. What I saw will haunt me forever.](https://ca.news.yahoo.com/ice-arrested-without-cause-saw-164506774.html)
 
 ## Affected Individual(s)
-- **Patty O'Keefe:** 36, U.S. Citizen.
-- **Brandon Sigüenza:** 32, U.S. Citizen.
+- **Patty O'Keefe:** 36, U.S. Citizen
+- **Brandon Sigüenza:** 32, U.S. Citizen
 
 ## Treatment
 
 ### O'Keefe's Account (USA Today Opinion)
-- Placed alone in car with three agents who taunted her.
-- Agent photographed her and showed it to others, laughing.
-- Agent called her "ugly".
-- Agent stated: "You guys gotta stop obstructing us — that's why that lesbian bitch is dead" (referencing Renee Good).
-- Shackled at ankles upon arrival at Whipple Federal Building.
-- Requested phone call four times — denied each time.
-- Had to beg for water and bathroom access.
-- Witnessed holding cells with men, women, and children (reportedly as young as 5) of Latino and East African descent.
-- Described "despondent faces" and "screaming, wailing and pleading" from detainees.
-- Agents nearby were laughing.
-- Two other women in her cell identified themselves as Marine Corps veterans, also detained as observers.
-- One veteran, bruised at wrist and ankle from agent aggression, noted it was "ironic and shocking" that her first time having a gun pointed at her was by the government she swore an oath to serve.
+- Placed alone in car with three agents who taunted her
+- Agent photographed her and showed it to others, laughing
+- Agent called her "ugly"
+- Agent stated: "You guys gotta stop obstructing us — that's why that lesbian bitch is dead" (referencing Renee Good)
+- Shackled at ankles upon arrival at Whipple Federal Building
+- Requested phone call four times — denied each time
+- Had to beg for water and bathroom access
+- Witnessed holding cells with men, women, and children (reportedly as young as 5) of Latino and East African descent
+- Described "despondent faces" and "screaming, wailing and pleading" from detainees
+- Agents nearby were laughing
+- Two other women in her cell identified themselves as Marine Corps veterans, also detained as observers
+- One veteran, bruised at wrist and ankle from agent aggression, noted it was "ironic and shocking" that her first time having a gun pointed at her was by the government she swore an oath to serve
 
 ### Sigüenza's Account
-- Offered money/legal protection for names of organizers — declined.
-- Witnessed ~20 detainees with untreated injuries.
+- Offered money/legal protection for names of organizers — declined
+- Witnessed ~20 detainees with untreated injuries
 
 ### Upon Release
-- Released after 8 hours without charges.
-- Tear-gassed again while leaving the facility.
+- Released after 8 hours without charges
+- Tear-gassed again while leaving the facility
 
 ## Key Quotes
 

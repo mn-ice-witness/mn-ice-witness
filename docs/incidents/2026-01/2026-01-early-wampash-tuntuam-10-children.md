@@ -27,7 +27,7 @@ Melida Rita Wampash Tuntuam, a 41-year-old Indigenous Ecuadorian mother who work
 - **Origin:** Ecuador (Indigenous)
 - **Occupation:** Office cleaner
 - **Citizenship:** Undocumented (entered U.S. in 2022 via Texas border)
-- **Children:** 10 total
+- **Children:** 10 total:
   - 22-year-old daughter (has final removal order)
   - 20-year-old son (working on legal status)
   - Six children under 16 years old

@@ -25,17 +25,17 @@ Three Minnesota Democratic representatives—Ilhan Omar, Angie Craig, and Kelly 
 5. InForum (Jan 10, 2026): [Minnesota lawmakers denied access to ICE detention center Saturday](https://www.inforum.com/news/minnesota/minnesota-lawmakers-denied-access-to-ice-detention-center-saturday)
 
 ## Lawmakers Involved
-- **Rep. Ilhan Omar** (DFL-5th District).
-- **Rep. Angie Craig** (DFL-2nd District).
-- **Rep. Kelly Morrison** (DFL-3rd District).
+- **Rep. Ilhan Omar** (DFL-5th District)
+- **Rep. Angie Craig** (DFL-2nd District)
+- **Rep. Kelly Morrison** (DFL-3rd District)
 
 ## Timeline
 - **Saturday morning, Jan 10:** Three representatives arrive at Whipple Federal Building.
-- Representatives initially granted access by former acting director.
-- Briefly permitted to view part of the monitoring room.
-- Observed approximately 20 detainees.
-- **Approximately 10 minutes after entry:** Ordered to leave the facility.
-- Representatives hold press conference outside building.
+- Representatives initially granted access by former acting director
+- Briefly permitted to view part of the monitoring room
+- Observed approximately 20 detainees
+- **Approximately 10 minutes after entry:** Ordered to leave the facility
+- Representatives hold press conference outside building
 
 ## What They Observed
 Rep. Morrison: "We saw a lot of young men sitting with their heads in their hands. We were not allowed to speak to any of them."

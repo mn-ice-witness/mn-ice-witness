@@ -60,15 +60,15 @@ Reported agents confiscated phones and pointed guns at family members. His famil
 Now caring for her own two children PLUS the 7-year-old whose parents were both detained. She was told to "voluntarily self-deport."
 
 ## Property Damage
-- Front door broken down.
-- Hole made through bedroom door.
-- Multiple doors throughout the home damaged on both levels.
+- Front door broken down
+- Hole made through bedroom door
+- Multiple doors throughout the home damaged on both levels
 
 ## Key Details
-- Father of the 7-year-old had a valid **work permit**
-- U.S. citizens were never formally arrested but were "briefly questioned"
-- Agents confiscated phones during the raid
-- Guns were pointed at residents
+- Father of the 7-year-old had a valid **work permit**.
+- U.S. citizens were never formally arrested but were "briefly questioned".
+- Agents confiscated phones during the raid.
+- Guns were pointed at residents.
 
 ## Official Accounts
 

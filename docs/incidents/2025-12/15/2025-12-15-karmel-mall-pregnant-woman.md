@@ -36,8 +36,8 @@ ICE agents detained at least four people near Karmel Mall, the nation's first So
 - **Detentions** - Agents detain at least four people.
 - **Pregnant woman incident** - Woman sits down to prevent falling; officers grab her arms and drag her through snow.
 - **Community response** - 60-70 protesters swarm agents.
-- **Blockade** - Large crowd blocks ICE vehicles with their cars.
-- **Release** - One Somali U.S. citizen released after detention.
+- **Blockade** - Large crowd blocks ICE vehicles with their cars
+- **Release** - One Somali U.S. citizen released after detention
 
 ## Witness Accounts
 

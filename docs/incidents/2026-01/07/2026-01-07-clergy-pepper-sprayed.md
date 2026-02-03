@@ -33,13 +33,13 @@ At least two pastors were shoved, shot at with pepper rounds, and exposed to pep
 ## Affected Individual(s)
 
 ### Rev. Susie Hayward
-- **Church:** Creekside UCC, Minneapolis.
-- **Role:** Minister for Justice Organizing.
+- **Church:** Creekside UCC, Minneapolis
+- **Role:** Minister for Justice Organizing
 - **What happened:** Shoved by DHS agent; exposed to pepper spray that drifted through crowd.
 
 ### Rev. Ashley Horan
-- **Organization:** Unitarian Universalist Association.
-- **Role:** Vice President for Programs and Ministries.
+- **Organization:** Unitarian Universalist Association
+- **Role:** Vice President for Programs and Ministries
 - **Location during shooting:** Lives one block away; was two blocks away when it occurred.
 - **What happened:** While livestreaming, agent fired pepper round just feet from her head, forcing her and other protesters to flee.
 

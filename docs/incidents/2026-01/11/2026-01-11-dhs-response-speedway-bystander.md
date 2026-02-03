@@ -32,11 +32,11 @@ Posted on X (@DHSgov):
 ## Video Evidence
 
 Multiple videos from the scene show:
-- Agent tells bystander to "back up".
-- Bystander complies and moves back.
-- Agent then shoves bystander.
-- Bystander is tackled to ground.
-- While being restrained, bystander repeatedly says "I'm not resisting".
+- Agent tells bystander to "back up"
+- Bystander complies and moves back
+- Agent then shoves bystander
+- Bystander is tackled to ground
+- While being restrained, bystander repeatedly says "I'm not resisting"
 
 Video sources: FOX 9, CNN, BlueSky, Getty Images
 

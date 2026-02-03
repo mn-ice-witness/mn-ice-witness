@@ -92,10 +92,10 @@ DHS claimed Good "weaponized" her SUV and that agent Ross acted in self-defense,
 Witnesses reported Good had stopped in the middle of the street and motioned for unmarked vehicles to drive past. She was turning away from Ross when he fired. Audio from one video captures her wife Becca yelling "Drive, baby, drive!" just before the shots.
 
 ## The Shooter
-- **Name:** Jonathan Ross.
-- **Agency:** ICE Fugitive Operations, Minneapolis.
-- **Background:** Joined ICE 2015. Iraq veteran (Indiana National Guard). Border Patrol agent since 2007.
-- **Prior Incident:** June 17, 2025 - dragged 50 yards during arrest attempt in Bloomington.
+- **Name:** Jonathan Ross
+- **Agency:** ICE Fugitive Operations, Minneapolis
+- **Background:** Joined ICE 2015. Iraq veteran (Indiana National Guard). Border Patrol agent since 2007
+- **Prior Incident:** June 17, 2025 - dragged 50 yards during arrest attempt in Bloomington
 
 ## Aftermath
 - Fundraiser reached $1.5 million for Good's family.

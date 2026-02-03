@@ -30,9 +30,9 @@ Alberto Castaneda Mondragon, who entered the U.S. legally on a temporary worker 
 6. ABC7 Los Angeles (Jan 31, 2026): [ICE claim that a man shattered his skull running into wall triggers tension at a Minnesota hospital](https://abc7.com/post/ice-minneapolis-news-agents-claim-alberto-castaeda-mondragn-hit-wall-shattered-skull-triggers-tension-hospital/18514566/)
 
 ## Affected Individual(s)
-- **Name:** Alberto Castaneda Mondragon (referred to as "Alberto C.M." in court documents).
-- **Citizenship:** Legal visa holder (entered U.S. on temporary worker visa in 2022).
-- **Criminal Record:** None indicated.
+- **Name:** Alberto Castaneda Mondragon (referred to as "Alberto C.M." in court documents)
+- **Citizenship:** Legal visa holder (entered U.S. on temporary worker visa in 2022)
+- **Criminal Record:** None indicated
 - **Current Condition:** Discharged Jan 28; significant memory loss; long recovery ahead; unable to work for foreseeable future. Living with coworkers (no family in Minnesota).
 
 ## Timeline
@@ -46,9 +46,9 @@ Alberto Castaneda Mondragon, who entered the U.S. legally on a temporary worker 
 - **Jan 28, 2026** - Discharged from hospital; taken in by coworkers.
 
 ## Injuries
-- At least 8 skull fractures.
-- Hemorrhages in at least 5 areas of the brain.
-- Described as "catastrophic" and "life-threatening."
+- At least 8 skull fractures
+- Hemorrhages in at least 5 areas of the brain
+- Described as "catastrophic" and "life-threatening"
 
 AP interviewed a doctor and five nurses at HCMC who said his injuries were inconsistent with running into a wall or an accidental fall.
 
