@@ -29,14 +29,14 @@ An ICE agent fired two shots during an arrest attempt in St. Paul after being st
 - **Vehicle stop** - ICE attempts vehicle stop; suspect refuses to comply.
 - **First collision** - Suspect drives away, striking an ICE officer.
 - **Chase** - Suspect drives recklessly, hitting parked vehicles and ramming ICE vehicle.
-- **Second collision** - Suspect hits second ICE officer.
-- **Shots fired** - ICE agent "defensively fired" two rounds; no one struck.
-- **Flight** - Suspect drives to apartment complex, rams another ICE vehicle.
-- **Arrest** - Suspect attempts to flee on foot, apprehended after resisting arrest and biting an officer.
+- **Second collision** - Suspect hits second ICE officer
+- **Shots fired** - ICE agent "defensively fired" two rounds; no one struck
+- **Flight** - Suspect drives to apartment complex, rams another ICE vehicle
+- **Arrest** - Suspect attempts to flee on foot, apprehended after resisting arrest and biting an officer
 
 ## Injuries
-- Two ICE officers hospitalized with non-life-threatening injuries.
-- Suspect hospitalized for evaluation.
+- Two ICE officers hospitalized with non-life-threatening injuries
+- Suspect hospitalized for evaluation
 
 ## Official Response
 The incident will undergo review per agency policy, including independent review following initial investigation.

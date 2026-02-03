@@ -43,10 +43,10 @@ A Hmong man named Saly, described as a naturalized U.S. citizen with no criminal
 20. KSTP (Jan 22, 2026): [Man ICE sought in "humiliating" arrest of US citizen has been in prison since 2024](https://kstp.com/kstp-news/top-news/man-ice-sought-in-humiliating-arrest-of-us-citizen-has-been-in-prison-since-2024/)
 
 ## Affected Individual(s)
-- **Name:** ChongLy Scott Thao (also referred to as "Saly" by family).
-- **Citizenship:** Naturalized U.S. citizen (per family account).
-- **Criminal Record:** None (per family account).
-- **Medical Condition:** Severe psoriasis, exacerbated by extreme cold and stress.
+- **Name:** ChongLy Scott Thao (also referred to as "Saly" by family)
+- **Citizenship:** Naturalized U.S. citizen (per family account)
+- **Criminal Record:** None (per family account)
+- **Medical Condition:** Severe psoriasis, exacerbated by extreme cold and stress
 - **Background:** Son of Nurse Choua Thao, a pioneering Hmong nurse who worked at Sam Thong Hospital in Laos during the Secret War and later settled in St. Paul, Minnesota.
 
 ## Timeline

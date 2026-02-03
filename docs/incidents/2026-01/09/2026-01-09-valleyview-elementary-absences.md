@@ -22,8 +22,8 @@ At Valleyview Elementary School in Bloomington, 142 students did not attend clas
 2. Education Minnesota (Jan 10, 2026): [Education Minnesota demands ICE stay away from schools](https://educationminnesota.org/news/press-release/education-minnesota-demands-ice-stay-away-from-schools/)
 
 ## School Impact
-- **142 students absent** - Significant spike in absences attributed to ICE fears.
-- Part of broader pattern across Twin Cities metro schools.
+- **142 students absent** - Significant spike in absences attributed to ICE fears
+- Part of broader pattern across Twin Cities metro schools
 
 ## Context
 This occurred two days after:

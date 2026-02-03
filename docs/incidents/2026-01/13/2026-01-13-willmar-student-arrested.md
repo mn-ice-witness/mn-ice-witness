@@ -32,13 +32,13 @@ Suban Noor, a 19-year-old Somali woman and 11th-grade student at Willmar Senior 
 - **Background:** Came to the U.S. as a refugee with legal documentation
 
 ## Timeline
-- **Monday, Jan 13 afternoon** - 6-8 ICE agents conduct operations in downtown Willmar.
-- **Afternoon** - Suban Noor arrested while picking up food for her family; her car left abandoned with door open, containing employee name tag, credit cards, bank cards, cellphone, and school backpack.
-- **Same day** - Male arrested at Jennie-O Turkey Store during shift change.
-- **Tuesday, Jan 14** - ~90% of Somali students absent from Willmar schools.
-- **Tuesday afternoon** - Community protest organized downtown.
-- **Week of Jan 13-17** - Family receives no contact from Noor.
-- **Friday, Jan 17** - Noor released from custody; no longer listed on Homeland Security Investigations detainee database.
+- **Monday, Jan 13 afternoon** - 6-8 ICE agents conduct operations in downtown Willmar
+- **Afternoon** - Suban Noor arrested while picking up food for her family; her car left abandoned with door open, containing employee name tag, credit cards, bank cards, cellphone, and school backpack
+- **Same day** - Male arrested at Jennie-O Turkey Store during shift change
+- **Tuesday, Jan 14** - ~90% of Somali students absent from Willmar schools
+- **Tuesday afternoon** - Community protest organized downtown
+- **Week of Jan 13-17** - Family receives no contact from Noor
+- **Friday, Jan 17** - Noor released from custody; no longer listed on Homeland Security Investigations detainee database
 
 ## Witness Accounts
 Liz Reyes, after seeing video of the arrest: "I don't feel safe sending my son to school."
@@ -55,9 +55,9 @@ Shafia Abdullahi, cultural liaison at Willmar Public Schools, stated: "She came 
 Abdullahi added: "You're treating her like she's a felon, like she's a criminal, like she killed someone. Even murderers are innocent until proven guilty, and she's not even committed any crime, except be a Somalian."
 
 ## School Impact
-- Approximately 90% of Somali students absent from Willmar schools on Tuesday.
-- Many Somali staff members stayed home to care for their children.
-- School district sent letters to staffers and students offering support and information about their rights.
+- Approximately 90% of Somali students absent from Willmar schools on Tuesday
+- Many Somali staff members stayed home to care for their children
+- School district sent letters to staffers and students offering support and information about their rights
 
 ## Related Incident
 During the Tuesday protest against ICE actions, agents deployed chemical irritant at the crowd, which included children. Emergency medical services was called to evaluate at least one child.

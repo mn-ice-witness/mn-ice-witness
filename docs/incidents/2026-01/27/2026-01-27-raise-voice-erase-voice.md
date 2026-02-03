@@ -26,8 +26,8 @@ A video shows an ICE agent telling a legal observer "You raise your voice, I era
 4. Bluesky (Jan 27, 2026): [Prem Thakker post](https://bsky.app/profile/did:plc:3uxbidhlq2h4uhhutdv3a3q5/post/3mdg6nglnec2n) - journalist sharing video
 
 ## Affected Individual(s)
-- **Role:** Legal observer.
-- **Name:** Not disclosed.
+- **Role:** Legal observer
+- **Name:** Not disclosed
 
 ## What Happened
 

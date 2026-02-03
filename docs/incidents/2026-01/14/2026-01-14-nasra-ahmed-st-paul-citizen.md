@@ -33,20 +33,20 @@ Nasra Mohamed Ahmed, a 23-year-old U.S. citizen born in Hennepin County, was det
 10. Inquisitr (Jan 18, 2026): [ICE Agents Pulled 23-Year-Old in a Surprise Raid, Then Left Her Scarred and Bruised](https://www.inquisitr.com/ice-agents-pulled-23-year-old-in-a-surprise-raid-then-left-her-scarred-and-bruised-they-had-a-padlock-on-me)
 
 ## Affected Individual(s)
-- **Name:** Nasra Mohamed Ahmed.
-- **Age:** 23.
-- **Height/Weight:** 5'4", 112 lbs.
-- **Birthplace:** Hennepin County, Minnesota.
-- **Citizenship:** U.S. Citizen (birth citizen).
-- **Residence:** St. Paul (raised there).
-- **Criminal History:** None - Minnesota court records show no prior criminal history.
-- **Medical Conditions:** Suffers from seizures and anxiety, requires prescription medication.
+- **Name:** Nasra Mohamed Ahmed
+- **Age:** 23
+- **Height/Weight:** 5'4", 112 lbs
+- **Birthplace:** Hennepin County, Minnesota
+- **Citizenship:** U.S. Citizen (birth citizen)
+- **Residence:** St. Paul (raised there)
+- **Criminal History:** None - Minnesota court records show no prior criminal history
+- **Medical Conditions:** Suffers from seizures and anxiety, requires prescription medication
 
 ## Timeline
-- **~11:00 AM** - ICE agents detain Nasra Ahmed in parking lot of her apartment complex on Lower Afton Road in St. Paul while she was on her way to pick up a prescription.
-- **During detention** - Ahmed tells agents: "I'm a U.S. citizen, born in Hennepin County".
-- **Wednesday-Friday** - Ahmed held at Sherburne County Jail without bail.
-- **Friday AM** - Jail roster lists only "federal title," "federal court" and "f" for felony; U.S. Marshals say they have no record of her.
+- **~11:00 AM** - ICE agents detain Nasra Ahmed in parking lot of her apartment complex on Lower Afton Road in St. Paul while she was on her way to pick up a prescription
+- **During detention** - Ahmed tells agents: "I'm a U.S. citizen, born in Hennepin County"
+- **Wednesday-Friday** - Ahmed held at Sherburne County Jail without bail
+- **Friday AM** - Jail roster lists only "federal title," "federal court" and "f" for felony; U.S. Marshals say they have no record of her
 
 ## Witness Accounts
 

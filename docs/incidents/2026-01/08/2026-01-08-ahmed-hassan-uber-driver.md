@@ -25,10 +25,10 @@ Ahmed Bin Hassan, 38, Somali American U.S. citizen and Uber driver, was confront
 5. Common Dreams (Jan 15, 2026): ['Where Were You Born?' ICE Conducting Show-Me-Your-Papers Stops in Minnesota](https://www.commondreams.org/news/ice-citizen-checks-minneapolis)
 
 ## Affected Individual(s)
-- **Name:** Ahmed Bin Hassan.
-- **Age:** 38.
-- **Citizenship:** U.S. Citizen (naturalized 2016).
-- **Occupation:** Uber driver.
+- **Name:** Ahmed Bin Hassan
+- **Age:** 38
+- **Citizenship:** U.S. Citizen (naturalized 2016)
+- **Occupation:** Uber driver
 
 ## What Happened
 Hassan was in airport parking lot when agents knocked on his window. He later said: "They couldn't hear my voice when they knocked on my window, but they could see my color."

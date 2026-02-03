@@ -29,8 +29,8 @@ An asylum-seeking mother of two Valley View Elementary students was detained dur
 7. Star Tribune (Jan 29, 2026): [Detained asylum-seeking mother asks principal to bring her two young children to Whipple](https://www.startribune.com/valley-view-elementary-students-mother-detained-ice-minnesota-immigration-checkin/601573397) 
 ## Affected Individual(s)
 
-- **Mother:** Name not disclosed; asylum-seeker.
-- **Children:** Two students at Valley View Elementary, ages 7-9.
+- **Mother:** Name not disclosed; asylum-seeker
+- **Children:** Two students at Valley View Elementary, ages 7-9
 
 ## What Happened
 

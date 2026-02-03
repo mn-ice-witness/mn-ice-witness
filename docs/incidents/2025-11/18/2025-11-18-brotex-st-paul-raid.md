@@ -32,8 +32,8 @@ Federal agents raided Bro-Tex Inc., a cleaning products manufacturer in St. Paul
 Federal agents from ICE, FBI, and Homeland Security Investigations raided the Bro-Tex facility at 830 N. Hampden Ave. Workers were detained inside the facility.
 
 As agents attempted to leave, protesters linked arms to block their vehicles. Agents responded by:
-- Shooting chemical irritants into the crowd.
-- Pepper spraying protesters directly in the face.
+- Shooting chemical irritants into the crowd
+- Pepper spraying protesters directly in the face
 
 ## Scale
 Ryan Perez, organizing director of Communities Organizing Latine Power and Action (COPAL), said this was "the largest ICE workplace raid" he knows of in Minnesota in 2025.

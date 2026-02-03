@@ -25,7 +25,7 @@ FBI, ATF, and Hennepin County Sheriff's Office agents used a battering ram to en
 ## Affected Individual(s)
 - **Name:** Alisa Porter and daughter
 - **Citizenship:** U.S. Citizens
-- **Background:** Porter was at a doctor's appointment when neighbors called to inform her that federal agents had handcuffed her daughter and were searching her home
+- **Background:** Porter was at a doctor's appointment when neighbors called to inform her that federal agents had handcuffed her daughter and were searching her home.
 
 ## Timeline
 - **~13:00** - Federal agents arrive at apartment building

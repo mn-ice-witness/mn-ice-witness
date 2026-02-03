@@ -27,11 +27,11 @@ A Minneapolis man using the pseudonym "Javier" for safety reasons was among doze
 - [Nur-D Detained at Pretti Shooting Scene](#2026-01-24-nur-d-rapper-detained)
 
 ## Affected Individual(s)
-- **Name:** "Javier" (pseudonym used for safety).
-- **Citizenship:** U.S. citizen.
-- **Residence:** Lives a few blocks from the shooting scene.
-- **Criminal charges:** None filed.
-- **Status:** Released.
+- **Name:** "Javier" (pseudonym used for safety)
+- **Citizenship:** U.S. citizen
+- **Residence:** Lives a few blocks from the shooting scene
+- **Criminal charges:** None filed
+- **Status:** Released
 
 ## What Happened
 Javier recalled arriving at the scene at 26th and Nicollet after neighbors alerted him to an ongoing ICE raid.

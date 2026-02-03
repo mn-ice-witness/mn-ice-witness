@@ -26,14 +26,14 @@ A St. Paul Public Works employee working as a snowplow driver was detained by IC
 - **Name:** Not disclosed
 - **Occupation:** Snowplow driver, St. Paul Public Works
 - **Citizenship:** Legal resident with valid federal work authorization
-- **Background:** City of St. Paul verified his legal authorization before hiring. He held a valid commercial driver's license.
+- **Background:** City of St. Paul verified his legal authorization before hiring; he held a valid commercial driver's license
 - **Medical:** Has a serious medical condition requiring strict medication management and specific dietary requirements
 
 ## Timeline
 - **Week of Jan 11-17** - Worker detained by ICE outside a work site
 - **After detention** - Taken to Whipple Building in Minneapolis
 - **Later** - Transferred to detention facility in El Paso, Texas
-- **Jan 18** - Public Works Director Sean Kershaw publicly condemns detention; GoFundMe launched.
+- **Jan 18** - Public Works Director Sean Kershaw publicly condemns detention; GoFundMe launched
 
 ## Official Accounts
 
@@ -43,15 +43,15 @@ A St. Paul Public Works employee working as a snowplow driver was detained by IC
 > "This is a detention that never should have happened. He was detained by ICE purely based on his country of origin, he had every federal authorization to be here which is something we check at the city of St. Paul."
 
 ### Support Efforts
-- Immigrant Law Center of Minnesota assisting with the case
-- Representative Angie Craig working to ensure medical care access
-- GoFundMe organized by Director Sean Kershaw and Street Superintendent Jericho Huggar raised over $10,000 as of Jan 18
-- City connecting the worker with legal resources
+- Immigrant Law Center of Minnesota assisting with the case.
+- Representative Angie Craig working to ensure medical care access.
+- GoFundMe organized by Director Sean Kershaw and Street Superintendent Jericho Huggar raised over $10,000 as of Jan 18.
+- City connecting the worker with legal resources.
 
 ## Impact
-- Worker's wife lost household income due to fear of employment
-- Wife described as unfamiliar with local community and requiring support services
-- Department colleagues described him as a "great employee" working on essential city services
+- Worker's wife lost household income due to fear of employment.
+- Wife described as unfamiliar with local community and requiring support services.
+- Department colleagues described him as a "great employee" working on essential city services.
 
 ## Editorial Assessment
 **HIGH** - Two independent news sources (FOX 9, Pioneer Press). Direct statements from named city officials (Public Works Director Sean Kershaw, Street Superintendent Jericho Huggar). Official confirmation that the worker had valid federal work authorization that the city verified before hiring. Part of documented pattern of legally authorized workers being detained during Operation Metro Surge.

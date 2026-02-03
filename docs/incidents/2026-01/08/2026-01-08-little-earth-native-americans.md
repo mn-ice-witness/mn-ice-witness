@@ -49,10 +49,10 @@ Four homeless men, all enrolled members of the Oglala Sioux Tribe and U.S. citiz
 11. MR Online (Jan 15, 2026): [ICE detains Indigenous people in Minneapolis, tribes cite treaty violations](https://mronline.org/2026/01/15/ice-detains-indigenous-people-in-minneapolis-tribes-cite-treaty-violations/)
 
 ## Affected Individual(s)
-- **Number:** Four.
-- **Names:** Not disclosed (taken into custody without names being recorded).
-- **Citizenship:** U.S. Citizens, enrolled Oglala Sioux Tribe members.
-- **Status:** Homeless, living under a bridge near Little Earth.
+- **Number:** Four
+- **Names:** Not disclosed (taken into custody without names being recorded)
+- **Citizenship:** U.S. Citizens, enrolled Oglala Sioux Tribe members
+- **Status:** Homeless, living under a bridge near Little Earth
 
 ## What Happened
 Four unhoused Oglala Sioux Tribe members were detained by ICE agents near the Little Earth Housing Project in Minneapolis. The men were unable to provide documentation at the time of detention. Federal agents took them into custody without recording their names, making it difficult for tribal officials to locate them afterward.
@@ -85,10 +85,10 @@ Jearica Fountain (community advocate):
 - "Native Americans are being detained, but then no one knows where to find them."
 
 ## Significance
-- Native Americans are U.S. citizens by birth and cannot be deported.
-- Detaining tribal members without recording names made it impossible for the tribe to locate them.
-- Multiple Minnesota tribes (Red Lake Nation, Fond Du Lac Band, Mille Lacs Band, Leech Lake Band) issued statements condemning the detentions.
-- Mille Lacs Band expanded tribal ID distribution to ages 5+ in response.
+- Native Americans are U.S. citizens by birth and cannot be deported
+- Detaining tribal members without recording names made it impossible for the tribe to locate them
+- Multiple Minnesota tribes (Red Lake Nation, Fond Du Lac Band, Mille Lacs Band, Leech Lake Band) issued statements condemning the detentions
+- Mille Lacs Band expanded tribal ID distribution to ages 5+ in response
 
 ## Editorial Assessment
 **REMOVED** - While initially well-sourced (ICT, CBS Minnesota, Fox 9, Newsweek, and tribal president statements), the tribe later acknowledged it cannot confirm the detained individuals are tribal members. Without verified tribal membership, we cannot verify U.S. citizenship, and the core claim of the incident is unconfirmed. See sources 12-13 below.

@@ -53,36 +53,36 @@ Four students from Columbia Heights Public School District have been detained by
 ## Affected Individual(s)
 
 ### Liam Ramos (5 years old)
-- **Grade:** Kindergarten/preschool.
-- **Date detained:** January 20, 2026 (afternoon).
-- **Location:** Family driveway after arriving home from school.
+- **Grade:** Kindergarten/preschool
+- **Date detained:** January 20, 2026 (afternoon)
+- **Location:** Family driveway after arriving home from school
 - **Circumstances:** Taken with his father. School officials say the child was used as "bait" to knock on the door, letting officers see if anyone else was home.
-- **Current status:** Released February 1, 2026; returned home to Minneapolis.
-- **Legal status:** Family following U.S. legal parameters with active asylum case; no deportation order.
+- **Current status:** Released February 1, 2026; returned home to Minneapolis
+- **Legal status:** Family following U.S. legal parameters with active asylum case; no deportation order
 
 ### 10-year-old girl (name not released)
-- **Grade:** Fourth grade.
-- **Date detained:** Approximately January 6-7, 2026 (two weeks before press conference).
-- **Location:** On the way to elementary school with her mother.
+- **Grade:** Fourth grade
+- **Date detained:** Approximately January 6-7, 2026 (two weeks before press conference)
+- **Location:** On the way to elementary school with her mother
 - **Circumstances:** During the arrest, the child called her father to tell him ICE agents were bringing her to school. The father came to the school to find both his daughter and wife had been taken.
-- **Current status:** Detained in Texas with her mother.
+- **Current status:** Detained in Texas with her mother
 
 ### 17-year-old boy (name not released)
-- **Date detained:** January 20, 2026 (morning).
-- **Location:** On his way to school.
-- **Circumstances:** Removed from his car and taken away.
+- **Date detained:** January 20, 2026 (morning)
+- **Location:** On his way to school
+- **Circumstances:** Removed from his car and taken away
 
 ### Fourth student
-- Details not released.
+- Details not released
 
 ## Timeline
-- **~January 6-7, 2026** - 10-year-old fourth grader detained with mother on way to school; both transported to Texas.
-- **January 20, 2026 (morning)** - 17-year-old boy detained from car on way to school.
-- **January 20, 2026 (afternoon)** - 5-year-old Liam Ramos detained with father in driveway.
-- **January 22, 2026** - Superintendent Zena Stenvik holds press conference.
-- **January 27, 2026** - Judge Fred Biery issues temporary restraining order barring removal of Liam and his father.
-- **January 31, 2026** - Judge Biery orders release of Liam and his father by Tuesday (Feb 4).
-- **February 1, 2026** - Liam and his father released from Dilley detention center, returned home to Minneapolis.
+- **~January 6-7, 2026** - 10-year-old fourth grader detained with mother on way to school; both transported to Texas
+- **January 20, 2026 (morning)** - 17-year-old boy detained from car on way to school
+- **January 20, 2026 (afternoon)** - 5-year-old Liam Ramos detained with father in driveway
+- **January 22, 2026** - Superintendent Zena Stenvik holds press conference
+- **January 27, 2026** - Judge Fred Biery issues temporary restraining order barring removal of Liam and his father
+- **January 31, 2026** - Judge Biery orders release of Liam and his father by Tuesday (Feb 4)
+- **February 1, 2026** - Liam and his father released from Dilley detention center, returned home to Minneapolis
 
 ## Official Accounts
 

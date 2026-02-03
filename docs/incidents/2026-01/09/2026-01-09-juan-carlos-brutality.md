@@ -37,21 +37,21 @@ A Border Patrol agent kneed a man in the face at least five times while other ag
 12. WALB/Gray TV (Jan 18, 2026): [ICE officer seen kneeing detained man in the head](https://www.walb.com/2026/01/18/ice-officer-seen-kneeing-detained-man-head/)
 
 ## Affected Individual(s)
-- **Name:** Appears to say "Juan Carlos" on video (unverified).
-- **Citizenship:** Disputed — GoFundMe claims legal U.S. resident; DHS claims "criminal alien from Ecuador".
-- **Circumstances:** Was in a gray Buick Encore near ongoing ICE activity when agents targeted him.
+- **Name:** Appears to say "Juan Carlos" on video (unverified)
+- **Citizenship:** Disputed — GoFundMe claims legal U.S. resident; DHS claims "criminal alien from Ecuador"
+- **Circumstances:** Was in a gray Buick Encore near ongoing ICE activity when agents targeted him
 
 ## Timeline
-- **Unknown time** - The victim is in his car near 22nd & Chicago, near ongoing ICE activity.
-- **Shortly after** - A black Chevrolet Suburban driven by Border Patrol goes wrong way on Chicago Avenue.
-- **Collision** - Border Patrol Suburban hits the victim's Buick Encore head-on.
-- **Extraction** - Agent jumps out, smashes driver's window, pulls the victim from vehicle.
-- **Restraint** - Five Border Patrol agents pin the victim face-down on pavement.
-- **Assault** - One agent knees the victim in the face at least five times as he cries out in pain; agent appeared to stop only when he realized he was being filmed.
-- **Transport** - Victim taken to Whipple Federal Building.
-- **Hospitalization** - Transported to hospital due to difficulty breathing.
-- **At hospital** - Held in shackles for two hours while agents intimidated hospital staff.
-- **Later** - Agents left him at the hospital.
+- **Unknown time** - The victim is in his car near 22nd & Chicago, near ongoing ICE activity
+- **Shortly after** - A black Chevrolet Suburban driven by Border Patrol goes wrong way on Chicago Avenue
+- **Collision** - Border Patrol Suburban hits the victim's Buick Encore head-on
+- **Extraction** - Agent jumps out, smashes driver's window, pulls the victim from vehicle
+- **Restraint** - Five Border Patrol agents pin the victim face-down on pavement
+- **Assault** - One agent knees the victim in the face at least five times as he cries out in pain; agent appeared to stop only when he realized he was being filmed
+- **Transport** - Victim taken to Whipple Federal Building
+- **Hospitalization** - Transported to hospital due to difficulty breathing
+- **At hospital** - Held in shackles for two hours while agents intimidated hospital staff
+- **Later** - Agents left him at the hospital
 
 ## Witness Accounts
 

@@ -25,23 +25,23 @@ On January 14, 2026, ICE agents conducted an enforcement operation at an apartme
 5. Bring Me The News (Jan 2026): [Rising anger over ICE raids near Minnesota schools](https://bringmethenews.com/minnesota-news/rising-anger-over-ice-raids-near-minnesota-schools)
 
 ## What Happened
-- ICE agents conducted enforcement operation at apartment building across the street from Aquila Elementary School
-- Operation occurred during school dismissal time
-- Students watched from classrooms as agents kicked down doors
-- Teachers closed window blinds to shield students from seeing masked, armed federal agents
-- One fourth grader saw "masked federal agents with guns approaching apartment buildings just outside his classroom"
-- Parents reported ICE presence "seems to ramp up kind of at arrival and dismissal"
+- ICE agents conducted enforcement operation at apartment building across the street from Aquila Elementary School.
+- Operation occurred during school dismissal time.
+- Students watched from classrooms as agents kicked down doors.
+- Teachers closed window blinds to shield students from seeing masked, armed federal agents.
+- One fourth grader saw "masked federal agents with guns approaching apartment buildings just outside his classroom."
+- Parents reported ICE presence "seems to ramp up kind of at arrival and dismissal."
 
 ## School and Community Response
-- St. Louis Park Public Schools adjusted pickup procedures due to ICE activity
-- Teachers and staff walked approximately 100 children out of the building after a musical practice out of caution
-- Over 1,000 community members joined a rapid response group to escort children to and from school
-- Dozens of parents gathered to protest the ICE presence
+- St. Louis Park Public Schools adjusted pickup procedures due to ICE activity.
+- Teachers and staff walked approximately 100 children out of the building after a musical practice out of caution.
+- Over 1,000 community members joined a rapid response group to escort children to and from school.
+- Dozens of parents gathered to protest the ICE presence.
 
 ## Official Statements
-- St. Louis Park Mayor Nadia Mohamed, a former Aquila student who came from Somalia as a child, called the agents' presence "terrorizing"
-- State Rep. Larry Kraft said agents had been staging near the school and called the presence "terrorizing" for students and community members
-- Superintendent Carlondrea Hines: "The presence of ICE is causing harm, fear and anxiety, and it is detracting from our primary goal"
+- St. Louis Park Mayor Nadia Mohamed, a former Aquila student who came from Somalia as a child, called the agents' presence "terrorizing."
+- State Rep. Larry Kraft said agents had been staging near the school and called the presence "terrorizing" for students and community members.
+- Superintendent Carlondrea Hines: "The presence of ICE is causing harm, fear and anxiety, and it is detracting from our primary goal."
 
 ## Context
 Aquila Elementary School has a large Somali and Latino student population. Parents described a growing ICE presence outside the school and the nearby apartment building since early December 2025. Student attendance dropped sharply across several Twin Cities school districts as families kept children home during Operation Metro Surge.

@@ -24,11 +24,11 @@ Thao Xiong, a Hmong community activist and food shelf volunteer, was detained by
 2. Twin Cities Pioneer Press (Jan 28, 2026): [St. Paul activist Thao Xiong taken by ICE at Hallie Q. Brown Center](https://www.twincities.com/2026/01/28/st-paul-activist-thao-xiong-taken-by-ice-at-hallie-q-brown-center/) 
 ## Affected Individual(s)
 
-- **Name:** Thao Xiong.
-- **Ethnicity:** Hmong.
-- **Status:** Has removal order from February 23, 2010.
-- **Family:** Father of a young daughter.
-- **Background:** Released from prison in November 2016; became active with In Progress, a St. Paul-based arts nonprofit, around 2018; volunteered as food shelf delivery driver.
+- **Name:** Thao Xiong
+- **Ethnicity:** Hmong
+- **Status:** Has removal order from February 23, 2010
+- **Family:** Father of a young daughter
+- **Background:** Released from prison in November 2016; became active with In Progress, a St. Paul-based arts nonprofit, around 2018; volunteered as food shelf delivery driver
 
 ## What Happened
 

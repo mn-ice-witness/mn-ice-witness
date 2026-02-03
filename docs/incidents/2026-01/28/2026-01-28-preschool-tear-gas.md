@@ -29,8 +29,8 @@ A video circulating on social media shows ICE agents deploying tear gas outside 
 
 ## Affected Individual(s)
 
-- **Names:** Not disclosed.
-- **Status:** Unknown.
+- **Names:** Not disclosed
+- **Status:** Unknown
 
 ## What Happened
 

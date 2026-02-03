@@ -21,8 +21,8 @@ ICE agents detained a contractor in the parking lot behind General Mills' Chanha
 1. Star Tribune (Jan 14, 2026): [Minnesota's biggest companies starting to feel heat from ICE surge](https://www.startribune.com/minnesotas-biggest-companies-starting-to-feel-heat-from-ice-surge/601562852)
 
 ## Affected Individual(s)
-- **Name:** Not disclosed.
-- **Employment:** Contractor at General Mills facility.
+- **Name:** Not disclosed
+- **Employment:** Contractor at General Mills facility
 - **Citizenship:** Undocumented (DHS claims "unlawfully entered" U.S. in 2023)
 
 ## What Happened

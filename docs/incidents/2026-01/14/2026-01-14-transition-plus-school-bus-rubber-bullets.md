@@ -25,25 +25,25 @@ On January 14, 2026, students on a Minneapolis Public Schools Transition Plus pr
 
 ## Affected Individual(s)
 
-- **Detained man:** Hispanic male, name unknown. Shot with rubber bullets, then detained.
-- **Students:** Children on MPS Transition Plus school bus who witnessed the incident.
+- **Detained man:** Hispanic male, name unknown; shot with rubber bullets, then detained
+- **Students:** Children on MPS Transition Plus school bus who witnessed the incident
 
 ## What Happened
 
 A child on an MPS Transition Plus program school bus witnessed the following:
 
-1. Five ICE vehicles blocked the school bus's path
-2. Agents deployed a fence-type barrier to corral a Hispanic man
-3. Agents fired rubber bullets at the man
-4. The man was detained
+1. Five ICE vehicles blocked the school bus's path.
+2. Agents deployed a fence-type barrier to corral a Hispanic man.
+3. Agents fired rubber bullets at the man.
+4. The man was detained.
 
 The Transition Plus program serves students with disabilities ages 18-21 who are transitioning to adult life.
 
 ## Context: Student Anxiety
 
 Students on the bus were already experiencing heightened anxiety due to:
-- The Roosevelt High School incident on January 8, where ICE agents entered school grounds
-- The fatal shooting of Renee Good on January 7, which occurred nearby
+- The Roosevelt High School incident on January 8, where ICE agents entered school grounds.
+- The fatal shooting of Renee Good on January 7, which occurred nearby.
 
 ## Editorial Assessment
 

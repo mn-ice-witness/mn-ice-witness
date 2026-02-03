@@ -30,8 +30,8 @@ DHS issued a statement demanding Governor Tim Walz and Minneapolis Mayor Jacob F
 > "Criminal illegal aliens should not be released back onto our streets to terrorize more innocent Americans."
 
 ### DHS Key Claims
-- **1,360+** people in Minnesota custody with outstanding ICE detainers.
-- **470** "criminal illegal aliens" allegedly released by Governor Walz since President Trump took office.
+- **1,360+** people in Minnesota custody with outstanding ICE detainers
+- **470** "criminal illegal aliens" allegedly released by Governor Walz since President Trump took office
 - Both Walz and Frey "refuse" to cooperate with federal immigration officials.
 
 ## Disputed Numbers

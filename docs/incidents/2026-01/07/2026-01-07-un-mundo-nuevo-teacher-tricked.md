@@ -22,8 +22,8 @@ A teacher at Un Mundo Nuevo Children's Academy was detained by ICE on January 7,
 
 ## Affected Individual(s)
 - **Occupation:** Teacher at Un Mundo Nuevo Children's Academy
-- **Immigration status:** Legal resident.
-- **Criminal record:** None indicated.
+- **Immigration status:** Legal resident
+- **Criminal record:** None indicated
 
 ## What Happened
 - ICE agents or individuals working with them falsely claimed that someone had hit the teacher's car.

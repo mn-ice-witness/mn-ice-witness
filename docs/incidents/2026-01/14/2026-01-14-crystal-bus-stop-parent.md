@@ -32,11 +32,11 @@ ICE agents detained the parent of a Northport Elementary School student at a sch
 - **Background:** Waiting with child at school bus stop
 
 ## Timeline
-- **Morning** - Parent waiting with child at Northport Elementary bus stop in Crystal.
-- **During wait** - ICE agents approach and detain parent.
-- **After arrest** - Child safely boards school bus, arrives at school.
-- **Later** - School contacts family, makes support services available.
-- **Same day** - Robbinsdale Schools offers remote learning option.
+- **Morning** - Parent waiting with child at Northport Elementary bus stop in Crystal
+- **During wait** - ICE agents approach and detain parent
+- **After arrest** - Child safely boards school bus, arrives at school
+- **Later** - School contacts family, makes support services available
+- **Same day** - Robbinsdale Schools offers remote learning option
 
 ## School Response
 Robbinsdale Area Schools Superintendent Teri Staloch stated: "We recognize this news can create fear, confusion, and anxiety for students and for adults across the district, not just at the school this incident involved."
@@ -52,8 +52,8 @@ Following this incident, Fridley, St. Paul, and Robbinsdale school districts joi
 ## Official Accounts
 
 ### Local Officials
-- **Robbinsdale Schools:** Confirmed incident, offered remote learning.
-- **State legislators:** Called for ICE to stay away from schools.
+- **Robbinsdale Schools:** Confirmed incident, offered remote learning
+- **State legislators:** Called for ICE to stay away from schools
 
 ## Editorial Assessment
 **HIGH** - Confirmed by school district, multiple independent news sources, and state lawmakers. School issued official communication to families.

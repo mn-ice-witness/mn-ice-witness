@@ -23,11 +23,11 @@ A Nicaraguan refugee working at the Hilton Homewood Suites in St. Louis Park was
 3. MPR News (Jan 21, 2026): ['ICE is here!' Refugee family with legal status unsettled by early morning arrest](https://www.mprnews.org/story/2026/01/21/ice-is-here-refugee-family-with-legal-status-unsettled-by-early-morning-arrest)
 
 ## Affected Individual(s)
-- **Citizenship:** Nicaraguan refugee.
-- **Entry:** Entered U.S. legally as refugee in October 2023.
-- **Work authorization:** Valid work permit through 2029.
-- **Criminal record:** None indicated.
-- **Employer:** Hilton Homewood Suites, St. Louis Park.
+- **Citizenship:** Nicaraguan refugee
+- **Entry:** Entered U.S. legally as refugee in October 2023
+- **Work authorization:** Valid work permit through 2029
+- **Criminal record:** None indicated
+- **Employer:** Hilton Homewood Suites, St. Louis Park
 
 ## What Happened
 - ICE agents deployed to Minnesota as part of Operation Metro Surge were staying at the Hilton Homewood Suites.

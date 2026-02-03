@@ -41,12 +41,12 @@ When protesters refused to allow ICE vehicles to leave, agents deployed chemical
 In the same parking lot, Somali business owners and patrons confronted ICE agents so forcefully that the federal officers drove away without making arrests. Video of this incident went viral.
 
 ## Arrests
-- **1** - Target of ICE operation (man from deli).
-- **2** - Protesters arrested in parking lot.
+- **1** - Target of ICE operation (man from deli)
+- **2** - Protesters arrested in parking lot
 
 ## Officials Present
-- **St. Cloud City Council Member Hudda Ibrahim** - arrived after alert about ~80 agents.
-- **State Sen. Aric Putnam (D-St. Cloud)** - acted as mediator.
+- **St. Cloud City Council Member Hudda Ibrahim** - arrived after alert about ~80 agents
+- **State Sen. Aric Putnam (D-St. Cloud)** - acted as mediator
 
 ## Official Statements
 

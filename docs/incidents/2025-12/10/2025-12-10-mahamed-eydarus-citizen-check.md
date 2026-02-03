@@ -38,9 +38,9 @@ Mahamed Eydarus, a 25-year-old U.S. citizen of Somali descent from Fridley, was 
 - **During shoveling** - Masked agents in unmarked vehicles surround him.
 - **Detention begins** - Agents ask why they are speaking a "foreign language."
 - **Religious violation** - Agents demand mother remove her niqab (religious face covering).
-- **Separation** - Eydarus separated from his mother.
-- **Lengthy detention** - Both held "for a lengthy period."
-- **Release** - Both released after showing identification.
+- **Separation** - Eydarus separated from his mother
+- **Lengthy detention** - Both held "for a lengthy period"
+- **Release** - Both released after showing identification
 
 ## What Happened
 According to the ACLU lawsuit filed January 15, 2026:

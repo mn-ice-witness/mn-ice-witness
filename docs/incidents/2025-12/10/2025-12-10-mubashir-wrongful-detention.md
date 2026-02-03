@@ -45,10 +45,10 @@ Mubashir, a 20-year-old U.S. citizen and Somali American, was tackled, placed in
 - **Assault** - Agent tackles him, slams him to ground, places him in chokehold.
 - **Identification refused** - Mubashir tells agents "I'm a U.S. citizen" and offers to show passport; agents refuse to check.
 - **Vehicle** - Placed in ICE vehicle; someone brings his passport to scene but agents still don't release him.
-- **Detention** - Transported to Bishop Henry Whipple Federal Building (Fort Snelling).
-- **Processing** - Fingerprints and facial recognition initially fail; scanned second time.
-- **Release** - After viewing passport hours later, told he is free to go.
-- **Aftermath** - Asks for ride back; agents refuse three times; forced to walk in snow until parents pick him up.
+- **Detention** - Transported to Bishop Henry Whipple Federal Building (Fort Snelling)
+- **Processing** - Fingerprints and facial recognition initially fail; scanned second time
+- **Release** - After viewing passport hours later, told he is free to go
+- **Aftermath** - Asks for ride back; agents refuse three times; forced to walk in snow until parents pick him up
 
 ## Official Accounts
 
@@ -93,7 +93,7 @@ Mubashir stated he was also denied water and medical assistance during detention
 - Video showed officers using a chokehold and forcing Mubashir to his knees in the snow.
 - Community members blew whistles during the arrest.
 - Witnesses chased the ICE vehicle in traffic; one stood in front of it.
-- Person brought copy of Mubashir's passport to the scene.
+- Person brought copy of Mubashir's passport to the scene
 
 ## Related Incidents
 At least two other Somali U.S. citizens were arrested by ICE and released the same day, according to CAIR-MN Executive Director Jaylani Hussein.

@@ -24,14 +24,14 @@ ICE conducted enforcement operations across Rochester on January 8-9, 2026, with
 4. KIMT (Jan 9, 2026): [ICE agents arrest man outside of KIMT News 3 studios](https://www.kimt.com/news/ice-agents-arrest-man-outside-of-kimt-news-3-studios/)
 
 ## Number of Arrests
-- **COPAL MN-Rochester confirmed:** 5 arrests as of 3 p.m. on January 8th.
-- **DHS 'worst of the worst' webpage:** 27 arrests in Rochester.
-- **Regional total (SE Minnesota + NE Iowa):** 30 detained.
+- **COPAL MN-Rochester confirmed:** 5 arrests as of 3 p.m. on January 8th
+- **DHS 'worst of the worst' webpage:** 27 arrests in Rochester
+- **Regional total (SE Minnesota + NE Iowa):** 30 detained
 
 ## Locations of Activity
-- Gates of Rochester apartment complex.
-- Outside KIMT News studio.
-- Various locations throughout the city.
+- Gates of Rochester apartment complex
+- Outside KIMT News studio
+- Various locations throughout the city
 
 ## Witness Accounts
 
@@ -43,10 +43,10 @@ Captured video of an arrest outside the KIMT News studio. The agent told him it 
 
 ## Community Response
 Activists and observers followed agents while:
-- Taking video.
-- Blowing whistles.
-- Honking car horns.
-- Alerting residents of their presence.
+- Taking video
+- Blowing whistles
+- Honking car horns
+- Alerting residents of their presence
 
 ## Official Statements
 

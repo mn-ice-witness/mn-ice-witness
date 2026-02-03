@@ -37,13 +37,13 @@ Brandon Steven Saenz was arrested by ICE agents when he and his wife arrived at 
 - **Background:** Was doing DoorDash deliveries with his wife when ICE arrived
 
 ## Timeline
-- **During DoorDash delivery** - Couple arrives at delivery stop in Saint Paul.
-- **Upon arrival** - ICE agents pull up and arrest Brandon Saenz.
-- **Immediately after** - His wife runs into customer's home seeking shelter; their child remains in vehicle.
-- **During standoff** - Homeowner demands warrant; ICE agents do not have one.
-- **During standoff** - Police threaten homeowner with harboring charges.
-- **Resolution** - Wife exits home voluntarily; she is NOT detained.
-- **Aftermath** - Wife confirms she is safe and has obtained immigration lawyer.
+- **During DoorDash delivery** - Couple arrives at delivery stop in Saint Paul
+- **Upon arrival** - ICE agents pull up and arrest Brandon Saenz
+- **Immediately after** - His wife runs into customer's home seeking shelter; their child remains in vehicle
+- **During standoff** - Homeowner demands warrant; ICE agents do not have one
+- **During standoff** - Police threaten homeowner with harboring charges
+- **Resolution** - Wife exits home voluntarily; she is NOT detained
+- **Aftermath** - Wife confirms she is safe and has obtained immigration lawyer
 
 ## Witness Accounts
 

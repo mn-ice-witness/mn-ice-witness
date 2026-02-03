@@ -64,7 +64,7 @@ This incident is significant for several reasons:
 Callaghan stated that the experience revealed how ICE operations use "fear and intimidation," though he emphasized his commitment to continuing protest work and advocating for marginalized communities.
 
 ## Related Incidents
-Same day: Renee Good shot and killed by ICE agent nearby.
+Same day: Renee Good shot and killed by ICE agent nearby
 
 ## Editorial Assessment
 **HIGH** - Multiple news sources (KARE 11, The Advocate, New Republic) with consistent first-person account. Named affected individual willing to speak publicly. Direct quotes from ICE agent documented. Clear evidence of racial profiling admission by federal agent.

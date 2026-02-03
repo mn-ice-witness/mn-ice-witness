@@ -32,19 +32,19 @@ ICE agents arrived at Shearer's Foods in unmarked vehicles without visible badge
 ## Witness Account
 
 ### Rand Stolee (Perham resident)
-- Witnessed the incident from outside the facility.
-- Tried to enter the building but was denied access.
-- Waited approximately an hour before agents exited.
-- Agent allegedly acknowledged having no warrant and claimed they didn't need one.
-- Called 911 out of concern but was told he was trespassing and made to stand across the highway.
+- Witnessed the incident from outside the facility
+- Tried to enter the building but was denied access
+- Waited approximately an hour before agents exited
+- Agent allegedly acknowledged having no warrant and claimed they didn't need one
+- Called 911 out of concern but was told he was trespassing and made to stand across the highway
 
 ## Company Statement
 Shearer's Foods stated:
-- The employee was hired before Shearer's acquired the facility.
-- The company cooperated with authorities and complied with employment/immigration laws.
-- No other employees were involved.
-- Plant operations were not disrupted.
-- Declined to provide additional details citing employee privacy.
+- The employee was hired before Shearer's acquired the facility
+- The company cooperated with authorities and complied with employment/immigration laws
+- No other employees were involved
+- Plant operations were not disrupted
+- Declined to provide additional details citing employee privacy
 
 ## Context
 The arrest occurred as ICE activity spread across Greater Minnesota, with reports from Rochester, Detroit Lakes, St. Peter, Mankato, and other communities outside the Twin Cities metro.

@@ -41,11 +41,11 @@ Hani Duglof, 32, who came to Minnesota from Libya in 2014 for life-saving medica
 Duglof and his brother came from Libya in 2014 under visas to be screened for a bone marrow transplant pioneered by the University of Minnesota. The U of M and Mayo Clinic draw people from around the world for treatment of rare conditions.
 
 ## Detention Conditions
-- Legs bound in metal cuffs despite his condition.
-- Told his brother conditions are "crowded" and "rough".
-- "They were sitting on the floor".
-- Friction from shackles exacerbates wounds on his legs.
-- Has since been moved in shackles to a hospital.
+- Legs bound in metal cuffs despite his condition
+- Told his brother conditions are "crowded" and "rough"
+- "They were sitting on the floor"
+- Friction from shackles exacerbates wounds on his legs
+- Has since been moved in shackles to a hospital
 
 ## Legal Status
 Duglof is in the U.S. legally, but his ultimate status has been uncertain for nearly a decade because **federal officials have delayed action on his asylum request**, according to his attorney.

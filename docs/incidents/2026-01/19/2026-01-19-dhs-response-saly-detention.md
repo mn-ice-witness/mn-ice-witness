@@ -92,7 +92,7 @@ The family has filed complaints with:
 ### Unresolved Questions
 - No photos or descriptors of the alleged sex offenders have been released by DHS.
 - No warrant has been produced to support the operation.
-- No explanation for why the citizen was driven around for an hour.
+- No explanation for why the citizen was driven around for an hour
 
 ## Editorial Assessment
 **HIGH** - Official statement from Tricia McLaughlin, Assistant Secretary of the Department of Homeland Security, paired with formal family press release disputing all key claims. Both are primary sources providing directly conflicting accounts. The family rebuttal specifically addresses and disputes: (1) that sex offenders live at the home, (2) that the citizen refused identification, and (3) that a warrant was presented. The family has initiated formal complaints with the ACLU of Minnesota and MN Attorney General Keith Ellison. This incident now represents a matter of disputed fact between federal officials and the affected family.

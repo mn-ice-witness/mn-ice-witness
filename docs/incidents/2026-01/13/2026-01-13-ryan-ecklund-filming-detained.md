@@ -35,18 +35,18 @@ Ryan Ecklund, a U.S. citizen and real estate agent, was detained by ICE for over
 - **Background:** Woodbury resident who spotted ICE vehicles while grocery shopping
 
 ## Timeline
-- **Morning** - Ecklund drops son off at school in Stillwater.
-- **~10:00 AM** - Spots ICE vehicles in Cub Foods parking lot at Tamarack Village, Woodbury.
-- **10:00-10:15** - Follows and records ICE agents through his neighborhood.
-- **~10:15 AM** - Agents run his license plate, locate his residence, warn him not to follow.
-- **~10:15 AM** - On third encounter, five agents box in his vehicle with two ICE vehicles.
-- **Detention** - Agent climbs into back seat, places arm around Ecklund's neck; agents forcibly remove him, throw him to ground.
-- **~10:30 AM** - Transported to Whipple Federal Building at Fort Snelling.
-- **~7:30 PM** - Released after wife contacts attorney; held approximately 9 hours total.
+- **Morning** - Ecklund drops son off at school in Stillwater
+- **~10:00 AM** - Spots ICE vehicles in Cub Foods parking lot at Tamarack Village, Woodbury
+- **10:00-10:15** - Follows and records ICE agents through his neighborhood
+- **~10:15 AM** - Agents run his license plate, locate his residence, warn him not to follow
+- **~10:15 AM** - On third encounter, five agents box in his vehicle with two ICE vehicles
+- **Detention** - Agent climbs into back seat, places arm around Ecklund's neck; agents forcibly remove him, throw him to ground
+- **~10:30 AM** - Transported to Whipple Federal Building at Fort Snelling
+- **~7:30 PM** - Released after wife contacts attorney; held approximately 9 hours total
 
 ## Injuries
-- Facial abrasions/road rash from being thrown to ground.
-- Black eye reported.
+- Facial abrasions/road rash from being thrown to ground
+- Black eye reported
 
 ## What Ecklund Told Agents
 > "I'm a U.S. citizen who's allowed to record you. I'm not impeding your movement or your investigation."

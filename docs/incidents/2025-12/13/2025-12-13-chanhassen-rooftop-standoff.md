@@ -40,10 +40,10 @@ The standoff lasted several hours in cold December weather. Community members wh
 "They didn't have a judicial warrant, they didn't know who they were trying to find."
 
 ## Conditions
-- Cold weather standoff lasting several hours.
-- Workers exposed on rooftop.
-- Community members prevented from providing blankets/assistance.
-- No judicial warrant presented by agents.
+- Cold weather standoff lasting several hours
+- Workers exposed on rooftop
+- Community members prevented from providing blankets/assistance
+- No judicial warrant presented by agents
 
 ## Related Incident
 This standoff followed the Eden Prairie detention of Gomez on December 11, 2025, where his 13-year-old son was handcuffed.

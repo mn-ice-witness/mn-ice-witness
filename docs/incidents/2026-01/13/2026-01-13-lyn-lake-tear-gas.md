@@ -33,18 +33,18 @@ Federal agents attempted to enter Wrecktangle Pizza at one of Minneapolis' busie
 
 ## Location
 The incident occurred directly in front of **Wrecktangle Pizza** (703 W Lake St) at the intersection of Lyndale & Lake, one of Minneapolis' busiest commercial districts. Nearby businesses include:
-- Moto-I.
-- Twin Cities Leather.
-- Smitten Kitten.
+- Moto-I
+- Twin Cities Leather
+- Smitten Kitten
 
 ## Timeline
-- **Afternoon** - Federal agent convoy arrives at Lyn-Lake intersection.
-- **Approach** - Agents exit unmarked SUV and approach Wrecktangle Pizza's door.
-- **Attempted Entry** - Agents storm up to the restaurant door attempting to enter.
-- **Confrontation** - Employees and community members confront agents, chase them off.
-- **Retreat** - Agents return to their SUV.
-- **Chemical Agent Deployment** - Agents drop tear gas canister as they prepare to exit.
-- **Community Response** - Crowd kicks gas canister back at the agents.
+- **Afternoon** - Federal agent convoy arrives at Lyn-Lake intersection
+- **Approach** - Agents exit unmarked SUV and approach Wrecktangle Pizza's door
+- **Attempted Entry** - Agents storm up to the restaurant door attempting to enter
+- **Confrontation** - Employees and community members confront agents, chase them off
+- **Retreat** - Agents return to their SUV
+- **Chemical Agent Deployment** - Agents drop tear gas canister as they prepare to exit
+- **Community Response** - Crowd kicks gas canister back at the agents
 
 ## Official Accounts
 

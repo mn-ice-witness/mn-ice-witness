@@ -29,9 +29,9 @@ The school confirmed all students and faculty were inside the building and safe 
 
 ## Context
 This was one of several school lockdowns in recent days related to ICE activity, including:
-- Justice Page Middle School in south Minneapolis.
-- Green Central Elementary (blocks from where Renee Good was shot).
-- Roosevelt High School incident on January 7.
+- Justice Page Middle School in south Minneapolis
+- Green Central Elementary (blocks from where Renee Good was shot)
+- Roosevelt High School incident on January 7
 
 ## Editorial Assessment
 **MEDIUM** - Confirmed by school communication to parents, reported by MPR News and Bring Me The News. Limited details about the specific arrest that prompted the lockdown.

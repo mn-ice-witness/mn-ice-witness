@@ -37,9 +37,9 @@ Federal Judge Patrick Schiltz ordered ICE's acting director Todd Lyons to person
 
 ## Affected Individual(s)
 
-- **Name:** Juan Hugo Tobay Robles.
-- **Citizenship:** Ecuadorean, entered U.S. illegally in 1999 as a minor.
-- **Detention Location:** Fort Snelling, Minnesota.
+- **Name:** Juan Hugo Tobay Robles
+- **Citizenship:** Ecuadorean, entered U.S. illegally in 1999 as a minor
+- **Detention Location:** Fort Snelling, Minnesota
 - **Status:** In custody since January 6, 2026; court found detention improper under federal law
 
 ## Timeline

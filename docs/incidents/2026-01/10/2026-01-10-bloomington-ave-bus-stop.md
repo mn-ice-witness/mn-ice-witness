@@ -25,11 +25,11 @@ On January 10, 2026, ICE agents created a chaotic scene at a bus stop at 31st St
 
 ### Metro Transit Bus Operator
 According to ATU Local 1005 President David Stiggers, a bus operator witnessed ICE agents:
-- "Ripping people from their cars".
-- Using "excessive force".
-- Blocking traffic.
-- Removing individuals from vehicles.
-- Blocking the bus from proceeding through the intersection.
+- "Ripping people from their cars"
+- Using "excessive force"
+- Blocking traffic
+- Removing individuals from vehicles
+- Blocking the bus from proceeding through the intersection
 
 The incident happened in broad daylight and "caused a ton of anxiety and fear" for the operator and everyone who witnessed it.
 
@@ -42,15 +42,15 @@ On January 14, 2026, Metro Transit workers and allies gathered at the corner of 
 
 ### Union Statement
 David Stiggers, ATU 1005 President, stated:
-- ICE activity is "a throwback to the darkest times of human history, 1940s Germany".
-- Bus drivers have the right to refuse to open doors for masked, unidentified agents.
-- Armed agents without identification pose safety risks to operators and passengers.
+- ICE activity is "a throwback to the darkest times of human history, 1940s Germany"
+- Bus drivers have the right to refuse to open doors for masked, unidentified agents
+- Armed agents without identification pose safety risks to operators and passengers
 
 ### Protocol for Bus Operators
 Stiggers announced that current protocol allows:
-- Drivers to refuse opening doors to perceived threats.
-- Treating masked, armed agents without identification as a safety risk.
-- Protecting both operators and passengers from unauthorized boarding.
+- Drivers to refuse opening doors to perceived threats
+- Treating masked, armed agents without identification as a safety risk
+- Protecting both operators and passengers from unauthorized boarding
 
 ## Context
 This incident occurred during Operation Metro Surge, with approximately 3,000 federal agents deployed to the Minneapolis area. It came three days after the fatal shooting of Renee Good and demonstrates the expansion of ICE tactics into public transit areas.

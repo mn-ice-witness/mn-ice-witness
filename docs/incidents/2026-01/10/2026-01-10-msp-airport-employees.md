@@ -22,9 +22,9 @@ Multiple airport employees were detained by ICE agents operating beyond security
 2. WCCO Radio (Jan 10, 2026): [Groups at MSP Airport share experience as more federal ICE officers converge](https://www.audacy.com/wccoradio/news/local/groups-msp-airport-share-experience-more-ice-officers-arrive)
 
 ## Affected Individual(s)
-- **Names:** Unknown (at least 6 employees).
-- **Citizenship:** Had proper work authorization.
-- **Occupation:** Airport workers (hospitality, transportation).
+- **Names:** Unknown (at least 6 employees)
+- **Citizenship:** Had proper work authorization
+- **Occupation:** Airport workers (hospitality, transportation)
 
 ## Details
 

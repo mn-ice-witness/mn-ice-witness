@@ -43,10 +43,10 @@ The restaurant closed on January 18-19 in response to the incident and the broad
 
 ## Employer Response
 Restaurant owners Frank and Stacey Chase confirmed:
-- Employee has a valid work visa/work permit.
-- Employee has no criminal record in the U.S. or his native country.
-- Employee came to the U.S. under asylum protections.
-- Restaurant organized GoFundMe for legal fees.
+- Employee has a valid work visa/work permit
+- Employee has no criminal record in the U.S. or his native country
+- Employee came to the U.S. under asylum protections
+- Restaurant organized GoFundMe for legal fees
 
 From the GoFundMe: "He was moved from the federal Whipple Federal Building in Minneapolis to a detention facility in El Paso, Texas within 12 hours of his arrest. Twice, in those first hours, we attempted to bring him his glasses so that he can see, only to realize he had immediately been transported."
 

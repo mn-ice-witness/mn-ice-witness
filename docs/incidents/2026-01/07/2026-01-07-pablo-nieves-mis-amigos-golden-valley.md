@@ -43,7 +43,7 @@ Semke said she had no reason to believe Nieves was targeted for his work at a da
 ## Community Response
 - Parents at Mis Amigos organized to monitor ICE activity in shifts.
 - Parents escort staff to and from their vehicles.
-- GoFundMe established for detained staff member.
+- GoFundMe established for detained staff member
 - Daycare administrators have safety protocols and business attorneys in place.
 
 ## Context
