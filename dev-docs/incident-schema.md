@@ -173,6 +173,36 @@ Both categories may involve U.S. citizens being detained. Choose based on WHY th
 
 **Do NOT use:** `refugee` (use `legal-resident` if green card, `asylum-seeker` if still in refugee status), `mixed-status-household` (use `various`), `legal-status` (use `legal-resident`), `us-citizens` plural (use `us-citizen`)
 
+## Bullet List Punctuation
+
+**Complete sentences get periods. Fragments don't.**
+
+| Bullet Type | Period? | Example |
+|-------------|---------|---------|
+| Complete sentence | ✅ Yes | `- Agents broke the car window and extracted him.` |
+| Metadata/fragment | ❌ No | `- **Name:** Jose Lozano` |
+| Fragment phrase | ❌ No | `- Released same day` |
+
+**Simple test:** Can it stand alone as a sentence? If yes, add a period. If it's a label:value pair or short fragment, no period needed.
+
+**Examples of complete sentences (USE PERIODS):**
+```markdown
+- Six ICE agents surrounded the vehicle.
+- The arrest was captured on TikTok video that went viral.
+- Restaurant closed indefinitely; later reopened under son's leadership.
+```
+
+**Examples of fragments/metadata (NO PERIODS):**
+```markdown
+- **Name:** Jose Lozano
+- **Citizenship:** U.S. Citizen
+- **Status:** Released same day
+- Released on bond
+- No criminal history
+```
+
+**Be consistent within each list.** If a list mixes sentences and fragments, either rewrite for consistency or follow the rule for each individual item.
+
 ## Body Structure
 
 ```markdown
@@ -221,7 +251,7 @@ The Updates section is for **substantive story developments** - things that happ
 - Date format: **Jan 24** (no times, no year)
 - Newest updates first
 - Brief description with hyperlink to source
-- End each item with a period
+- End each item with a period (Updates are always complete sentences)
 
 ```markdown
 ## Updates

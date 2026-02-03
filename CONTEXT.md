@@ -77,6 +77,17 @@ Multiple types allowed via comma: `type: citizens, schools-hospitals`
 ### No-News-Media Incidents
 Incidents with `trustworthiness: no-news-media` are **hidden from the main page** (both media gallery and list view). They appear only at `/no-news-media`, sorted by update date.
 
+### Bullet List Punctuation
+**Complete sentences get periods. Fragments don't.**
+
+| Bullet Type | Period? | Example |
+|-------------|---------|---------|
+| Complete sentence | ✅ Yes | `- Agents broke the car window and extracted him.` |
+| Metadata/fragment | ❌ No | `- **Name:** Jose Lozano` |
+| Fragment phrase | ❌ No | `- Released same day` |
+
+**Simple test:** Can it stand alone as a sentence? If yes, add a period. If it's a label or fragment, no period needed.
+
 ### SVG Icons
 **NEVER inline SVG paths.** Always use the symbol/use pattern:
 
