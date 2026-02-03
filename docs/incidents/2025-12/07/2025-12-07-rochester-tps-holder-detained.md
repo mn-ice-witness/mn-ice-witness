@@ -27,12 +27,12 @@ A Somali man with Temporary Protected Status (TPS) valid until March 2026 was pu
 4. Austin Daily Herald (Dec 2025): [Community sounds alarm after apparent ICE arrest in Rochester](https://www.austindailyherald.com/news/community-sounds-alarm-after-apparent-ice-arrest-in-rochester-592f012e)
 
 ## What Happened
-- Man was pulled from his car by ICE agents on 14th Street SE near Meadow Park Apartments
-- Arrest was captured on TikTok video that went viral
-- Rochester Police confirmed ICE conducted an operation in southeast Rochester that Sunday
-- Man had applied for asylum (denied), but held Temporary Protected Status valid until March 2026
-- He was in the process of renewing his work visa
-- He had a valid Minnesota driver's license
+- Man was pulled from his car by ICE agents on 14th Street SE near Meadow Park Apartments.
+- Arrest was captured on TikTok video that went viral.
+- Rochester Police confirmed ICE conducted an operation in southeast Rochester that Sunday.
+- Man had applied for asylum (denied), but held Temporary Protected Status valid until March 2026.
+- He was in the process of renewing his work visa.
+- He had a valid Minnesota driver's license.
 
 ## Legal Outcome
 On December 17, a federal judge ordered his release, finding he is not likely to be deported to Somalia.

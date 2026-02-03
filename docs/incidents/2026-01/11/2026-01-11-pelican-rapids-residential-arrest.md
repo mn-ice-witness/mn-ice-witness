@@ -24,16 +24,16 @@ ICE agents conducted door-to-door operations throughout Pelican Rapids, arrestin
 4. Prairie Public (Jan 14, 2026): [ICE in Minnesota: Rural town waits with worry](https://news.prairiepublic.org/local-news/2026-01-14/ice-in-minnesota-rural-town-waits-with-worry)
 
 ## What Happened
-- ICE agents knocked on doors throughout the community
-- At least one person confirmed arrested: a 43-year-old Nicaraguan man who had lived in Pelican Rapids for three years
-- Five unmarked vehicles were reported in town
-- Agents had a list of names and addresses
-- Pelican Rapids Chief of Police Todd Quaintance confirmed ICE presence
+- ICE agents knocked on doors throughout the community.
+- At least one person confirmed arrested: a 43-year-old Nicaraguan man who had lived in Pelican Rapids for three years.
+- Five unmarked vehicles were reported in town.
+- Agents had a list of names and addresses.
+- Pelican Rapids Chief of Police Todd Quaintance confirmed ICE presence.
 
 ## Community Impact
-- Local Catholic church canceled its Hispanic Mass
-- 30 students did not attend school the following Monday
-- Peaceful protest held January 12 with 75-100 participants
+- Local Catholic church canceled its Hispanic Mass.
+- 30 students did not attend school the following Monday.
+- Peaceful protest held January 12 with 75-100 participants.
 
 ## Affected Individual
 A 43-year-old Nicaraguan man who had lived in the community for three years. Name not publicly released.

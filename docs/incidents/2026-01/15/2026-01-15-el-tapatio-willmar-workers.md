@@ -23,12 +23,12 @@ Four ICE agents ate lunch at El Tapatio Mexican Restaurant in Willmar, then retu
 3. West Central Tribune (Jan 2026): [El Tapatio in Willmar closed Friday, ICE arrests reported there Wednesday](https://www.wctrib.com/news/local/el-tapatio-in-willmar-closed-friday-ice-arrests-reported-there-wednesday)
 
 ## What Happened
-- Around 3:00 p.m., four ICE agents ate lunch at El Tapatio
-- Restaurant closed early due to federal presence
-- Around 8:30 p.m., agents followed departing workers and conducted a vehicle stop
-- Three workers were detained near a Lutheran church and Willmar Middle School
-- Detained individuals included the restaurant owners (parents of 20-year-old who took over business) and one dishwasher
-- Restaurant closed indefinitely; later reopened under son's leadership
+- Around 3:00 p.m., four ICE agents ate lunch at El Tapatio.
+- Restaurant closed early due to federal presence.
+- Around 8:30 p.m., agents followed departing workers and conducted a vehicle stop.
+- Three workers were detained near a Lutheran church and Willmar Middle School.
+- Detained individuals included the restaurant owners (parents of 20-year-old who took over business) and one dishwasher.
+- Restaurant closed indefinitely; later reopened under son's leadership.
 
 ## Affected Individuals
 - **Jose Rosario Gomez Gallardo** - identified by DHS as primary target
