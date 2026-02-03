@@ -15,7 +15,7 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (179 incidents)
+## CURRENT (180 incidents)
 
 Published incidents visible on the main site.
 
@@ -134,6 +134,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/11/2026-01-11-siguenza-okeefe-detained.md | 2026-01-11 | Minneapolis | observers | Two ICE Observers Detained 8 Hours, Pressured to Name Organizers
 - incidents/2026-01/11/2026-01-11-rogelio-jimenez-brooklyn-park.md | 2026-01-11 | Brooklyn Park | citizens | U.S. Citizen Detained by ICE in Brooklyn Park, Told to "Prove" Citizenship
 - incidents/2026-01/2026-01-second-week-general-mills-chanhassen.md | 2026-01-10 | Chanhassen | immigrants | Contractor Detained at General Mills Chanhassen Facility
+- incidents/2026-01/10/2026-01-10-nicole-cleland-global-entry-revoked.md | 2026-01-10 | Richfield | observers | Observer's Global Entry and TSA PreCheck Revoked After CBP Agent Uses Facial Recognition
 - incidents/2026-01/10/2026-01-10-bloomington-ave-bus-stop.md | 2026-01-10 | Minneapolis | immigrants | ICE Agents "Ripping People From Cars" at Bus Stop; Union Marks Site as "Abduction" Location
 - incidents/2026-01/10/2026-01-10-maple-grove-walmart.md | 2026-01-10 | Maple Grove | immigrants | Man Pinned and Arrested Inside Maple Grove Walmart
 - incidents/2026-01/10/2026-01-10-congressional-access-denied.md | 2026-01-10 | Minneapolis | immigrants | Congressional Representatives Denied Access to Whipple ICE Facility
