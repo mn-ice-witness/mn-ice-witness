@@ -9,7 +9,7 @@ affected_individual_citizenship: unknown
 injuries: minor
 trustworthiness: high
 created: 2026-01-14T08:38:51
-last_updated: 2026-02-03T14:00:36
+last_updated: 2026-01-14T08:38:51
 ---
 
 # 50+ ICE Agents Swarm Somali Mall in St. Cloud; Chemical Irritants Used on Protesters
