@@ -21,6 +21,34 @@ Where to find and verify incidents for documentation.
 
 ### Outstate Minnesota
 
+**Top 20 Minnesota Cities by Population (2024-2025):**
+
+| Rank | City | Population | Region | Coverage Status |
+|------|------|------------|--------|-----------------|
+| 1 | Minneapolis | 428,579 | Metro | ✓ Covered |
+| 2 | St. Paul | 307,465 | Metro | ✓ Covered |
+| 3 | Rochester | 123,624 | SE MN | ✓ Covered |
+| 4 | Bloomington | 88,344 | Metro | ✓ Covered |
+| 5 | Duluth | 87,986 | NE MN | ⚠️ Gap - 5th largest city |
+| 6 | Brooklyn Park | 82,893 | Metro | ✓ Covered |
+| 7 | Woodbury | 80,596 | Metro | ✓ Covered |
+| 8 | Plymouth | 78,551 | Metro | Metro suburb |
+| 9 | Lakeville | 77,971 | Metro | Metro suburb |
+| 10 | Blaine | 75,172 | Metro | Metro suburb |
+| 11 | Maple Grove | 72,739 | Metro | ✓ Covered |
+| 12 | St. Cloud | 72,145 | Central MN | ✓ Covered |
+| 13 | Eagan | 67,240 | Metro | Metro suburb |
+| 14 | Burnsville | 64,864 | Metro | ✓ Covered |
+| 15 | Coon Rapids | 63,807 | Metro | Metro suburb |
+| 16 | Eden Prairie | 62,905 | Metro | ✓ Covered |
+| 17 | Apple Valley | 55,272 | Metro | Metro suburb |
+| 18 | Edina | 53,564 | Metro | Metro suburb |
+| 19 | Minnetonka | 52,651 | Metro | Metro suburb |
+| 20 | St. Louis Park | 49,899 | Metro | ✓ Covered |
+
+**Outstate cities with documented incidents:**
+- Brainerd, Detroit Lakes, Duluth (gap), Mankato, Northfield, Owatonna, Pelican Rapids, Perham, Rochester, St. Cloud, St. Peter, Willmar, Worthington
+
 | Source | URL | Coverage Area | Notes |
 |--------|-----|---------------|-------|
 | **Brainerd** | | | |

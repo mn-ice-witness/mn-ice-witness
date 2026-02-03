@@ -699,6 +699,20 @@ Stories are excluded when they don't meet the project's core focus:
 
 ### February 2026
 
+**Winona Two Hmong Men Arrested (Jan 16 & Jan 22, 2026)**
+- Sources: [Winona Post](https://www.winonapost.com/news/ice-arrested-two-winona-residents-volunteers-say/article_7f71e362-4de0-48d6-8d8e-3a81ae947750.html)
+- Dates: January 16 and January 22, 2026
+- Details: Two Hmong American men arrested in Winona. First man (Jan 16) had prior criminal conviction (served time), steady job, four children. Transported to El Paso, released after 8 days. Second arrest (Jan 22) has minimal details. Winona Police confirmed ICE was in area both dates but did not participate.
+- Reason: **Insufficient details** - no names disclosed. First person had prior criminal history. Second person has almost no information available.
+- Date evaluated: 2026-02-02
+
+**Abdirahman Hassan Yusuf Grand Forks ND (Jan 28, 2026)**
+- Sources: [InForum](https://www.inforum.com/news/north-dakota/attorneys-say-grand-forks-man-is-being-illegally-detained-after-ice-arrest)
+- Date: January 28, 2026
+- Details: 65-year-old Somali refugee who entered U.S. legally in 1998 arrested leaving his home for work. Suffers traumatic brain injury from bomb blast in Somalia. Attorneys filed emergency federal lawsuit; St. Paul ICE field office named as defendant.
+- Reason: **Out of state** - arrest occurred in Grand Forks, North Dakota, not Minnesota. (East Grand Forks would be MN, but this was Grand Forks proper.)
+- Date evaluated: 2026-02-02
+
 **West Central Turkeys Pelican Rapids (Dec 22, 2025)**
 - Sources: [Fergus Falls Journal](https://www.fergusfallsjournal.com/news/confirmed-ice-presence-in-otc/article_e34ed205-cf3c-4561-af25-e01a37ccc939.html)
 - Date: December 22, 2025
