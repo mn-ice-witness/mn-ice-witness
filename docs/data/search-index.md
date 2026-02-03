@@ -199,7 +199,7 @@ Published incidents visible on the main site.
 
 ---
 
-## NO-ADD (111 entries)
+## NO-ADD (113 entries)
 
 Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 
@@ -300,6 +300,8 @@ Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 - dev-docs/not_use.md | Jan 2026 | St. Cloud "14 Criminals Arrested" DHS Claims
 - dev-docs/not_use.md | Late Jan 2026 | MSU Mankato Student Detained
 - dev-docs/not_use.md | Jan 10 | Heather Lane Rooftop Workers Mankato
+- dev-docs/not_use.md | Jan 16 & Jan 22, 2026 | Winona Two Hmong Men Arrested
+- dev-docs/not_use.md | Jan 28, 2026 | Abdirahman Hassan Yusuf Grand Forks ND
 - dev-docs/not_use.md | Dec 22, 2025 | West Central Turkeys Pelican Rapids
 - dev-docs/not_use.md | Jan 8, 2026 | KIMT Studio Arrest Rochester
 - dev-docs/not_use.md | Jan 8, 2026 | Kwik Trip Rochester Approach
