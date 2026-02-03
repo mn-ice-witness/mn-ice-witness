@@ -54,7 +54,7 @@ Four ICE agents ate lunch at El Tapatio, a family-owned Mexican restaurant in Wi
 ## Official Accounts
 
 ### DHS/ICE Statement
-The Department of Homeland Security declined to respond to media inquiries about who was arrested or why.
+DHS later identified Jose Rosario Gomez Gallardo as the primary target, stating he was an "illegal alien from Mexico." One detained person reportedly had "a final order of removal from an immigration judge."
 
 ### Local Officials
 Willmar Mayor Doug Reese urged residents to stay calm and respect one another for community safety.
