@@ -222,6 +222,15 @@ If the incident involves a refugee or immigrant with **pending legal status** (I
 
 These are common mistakes when adding incidents. Read this section carefully.
 
+### Inventing Details Not in Sources — CRITICAL
+| Mistake | Why It's Wrong | Correct Approach |
+|---------|---------------|------------------|
+| Writing "zip-tied" when source says "untied" | Specific detail not in source | Use "restrained" or "tied up" |
+| Writing "slammed to ground" when source says "dragged" | Adding violence not described | Use exact language from source |
+| Adding specific weapons, numbers, or methods not stated | Fabrication damages credibility | Only include what sources explicitly state |
+
+**⚠️ This is a critical error.** If a source says someone was "untied," you know they were restrained — but you do NOT know with what. Do not write "zip-tied," "handcuffed," or any other specific restraint unless a source explicitly says so. Use general terms like "restrained" that match what's actually documented.
+
 ### Timestamps — Common Error
 | Mistake | Why It's Wrong | Correct Approach |
 |---------|---------------|------------------|
@@ -329,6 +338,24 @@ docs/incidents/2026-01/2026-01-early-description-slug.md
 - Describe actions objectively: "agents used a battering ram to enter" not "agents violently smashed through the door"
 - Avoid superlatives and marketing language from news sources (strip out "exclusive," "shocking," etc.)
 - **For official statements:** Report what was said accurately, not your interpretation. If an official says "vicious animals" referring to "murderers & criminals," don't editorialize that as "calling immigrants vicious animals." Let readers draw their own conclusions about the rhetoric.
+
+#### ⚠️ CRITICAL: Use ONLY Language Found in Sources
+
+**NEVER infer, embellish, or add specific details not explicitly stated in sources.**
+
+| Source Says | DO NOT Write | DO Write |
+|-------------|--------------|----------|
+| "untied me" | "zip-tied" | "restrained" or "tied up" |
+| "dragged from car" | "slammed to ground" | "dragged from car" |
+| "detained" | "arrested and jailed" | "detained" |
+| "agents" | "armed officers" | "agents" |
+
+**Why this matters:**
+- "Untied" implies restraint, but doesn't specify the type — writing "zip-tied" is an assumption
+- Even reasonable inferences can be wrong and damage credibility
+- If a detail isn't in the source, it's not in our file
+
+**If you want to include a detail:** Find a source that explicitly states it. If you can't find one, use the more general language from existing sources.
 
 Use the schema from `incident-schema.md`. At minimum include:
 
