@@ -59,8 +59,8 @@ Abdullahi added: "You're treating her like she's a felon, like she's a criminal,
 - Many Somali staff members stayed home to care for their children
 - School district sent letters to staffers and students offering support and information about their rights
 
-## Related Incident
-During the Tuesday protest against ICE actions, agents deployed chemical irritant at the crowd, which included children. Emergency medical services was called to evaluate at least one child.
+## Related Incident: Child Pepper-Sprayed
+During the Monday enforcement action (same day as Noor's arrest), a **9-year-old child was pepper-sprayed** in the 400 block of Litchfield Avenue Southwest at approximately 3:47 PM—ten minutes after the initial crowd control call at Fourth Street and Benson Avenue SW where Noor was being arrested. Police officers provided first aid until EMS arrived to evaluate the child. (Source: [West Central Tribune police records, published Jan 14, 2026](https://www.wctrib.com/news/local/records-published-jan-14-2026))
 
 ## Context: Operation PARRIS
 
