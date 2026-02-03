@@ -818,6 +818,37 @@
       "mediaVersion": null
     },
     {
+      "filePath": "incidents/2026-01/08/2026-01-08-thi-dua-vang-st-paul.md",
+      "title": "Christian Refugee Detained Despite Legal Status, ICE Keeps Returning to Home After Release",
+      "summary": "Thi Dua Vang, a Hmong refugee who fled Vietnam after decades of persecution for being Christian, was detained by ICE at her St. Paul home despite having legal status and a pending green card application. After nearly two weeks in detention\u2014including being transferred to Texas and nearly deported before being pulled off a plane on the runway\u2014an immigration judge ordered her release on bond. Since returning home, the family reports ICE agents have come back to their home three times.",
+      "latestUpdate": null,
+      "date": "2026-01-08",
+      "time": "morning",
+      "location": "Family home, St. Paul",
+      "city": "St. Paul",
+      "type": "citizens",
+      "status": "resolved",
+      "affectedIndividualCitizenship": "asylum-seeker",
+      "injuries": "none",
+      "trustworthiness": "medium",
+      "created": "2026-02-03T14:02:17",
+      "lastUpdated": "2026-02-03T14:02:17",
+      "mediaCount": 0,
+      "notable": false,
+      "hasLocalMedia": true,
+      "localMediaType": "video",
+      "localMediaPath": "media/2026-01/08/2026-01-08-thi-dua-vang-st-paul.mp4",
+      "localMediaOgPath": "media/2026-01/08/2026-01-08-thi-dua-vang-st-paul-og-43s-1770149023.jpg",
+      "localMediaFiles": [
+        {
+          "type": "video",
+          "path": "media/2026-01/08/2026-01-08-thi-dua-vang-st-paul.mp4"
+        }
+      ],
+      "aspectRatio": 1.8027777777777778,
+      "mediaVersion": 1770149023
+    },
+    {
       "filePath": "incidents/2026-01/08/2026-01-08-target-richfield-employees.md",
       "title": "Two U.S. Citizen Target Employees Detained and Injured",
       "summary": "Two Target drive-up employees, both U.S. citizens, were aggressively detained by CBP agents at the Richfield Target store. Both sustained injuries. According to witnesses, agents asked the workers if they were citizens; when they didn't answer and tried to go inside, they were grabbed and pinned to the ground. One affected individual, a 22-year-old Latino man identified in court documents as \"Javier Doe,\" had a knee pressed into his neck, was driven around in an SUV while agents played loud music, and was eventually dumped in a Walmart parking lot in Bloomington. He required emergency medical care and is now a plaintiff in the ACLU class-action lawsuit against ICE.",

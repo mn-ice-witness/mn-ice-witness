@@ -15,7 +15,7 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (177 incidents)
+## CURRENT (178 incidents)
 
 Published incidents visible on the main site.
 
@@ -145,6 +145,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/08/2026-01-08-ahmed-hassan-uber-driver.md | 2026-01-08 | Minneapolis | citizens | U.S. Citizen Uber Driver Confronted by Agents: "I can hear you don't have the same accent"
 - incidents/2026-01/08/2026-01-08-alberto-castaneda-mondragon-head-injury.md | 2026-01-08 | St. Paul | citizens | Legal Visa Holder Hospitalized With Skull Fractures; ICE Claims He "Purposely Ran Headfirst Into a Brick Wall"
 - incidents/2026-01/08/2026-01-08-rochester-gates-complex.md | 2026-01-08 | Rochester | immigrants | Multiple ICE Arrests in Rochester; Activist Documents Agent Using Hammer on Car Window
+- incidents/2026-01/08/2026-01-08-thi-dua-vang-st-paul.md | 2026-01-08 | St. Paul | citizens | Christian Refugee Detained Despite Legal Status, ICE Keeps Returning to Home After Release
 - incidents/2026-01/08/2026-01-08-hennepin-healthcare-i9-subpoena.md | 2026-01-08 | Minneapolis | schools-hospitals | DHS Subpoenas Hennepin Healthcare Employee Records for 7,000+ Workers
 - incidents/2026-01/08/2026-01-08-jesse-ventura-roosevelt.md | 2026-01-08 | Minneapolis | schools-hospitals | Jesse Ventura Visits Roosevelt High School, Condemns ICE Actions
 - incidents/2026-01/08/2026-01-08-ice-gun-pointed-at-protester.md | 2026-01-08 | Minneapolis | observers | ICE Agent Points Gun at Protester's Face at Point-Blank Range
