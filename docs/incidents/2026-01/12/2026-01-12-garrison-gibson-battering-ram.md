@@ -15,12 +15,13 @@ last_updated: 2026-01-18T14:57:37
 # Liberian Man Arrested With Battering Ram, No Judicial Warrant
 
 ## Updates
+- **Feb 2** - [Full press conference video](https://www.youtube.com/watch?v=UVYy57H30DU) now available from MPR News.
 - **Jan 18** - Gibson alleges ICE took "trophy photos" of him and held him in overcrowded cell; Stephen Miller claims credit for re-arrest.
 - **Jan 18** - Gibson re-arrested at routine check-in, then released again after ICE admits error; now on ankle monitor.
 - **Jan 18** - Federal judge rules arrest violated Fourth Amendment, orders immediate release.
 
 ## Summary
-Garrison Gibson, a 38-year-old Liberian citizen who has lived in the U.S. for approximately 20 years, was arrested by ICE agents who used a battering ram to enter his north Minneapolis home. His family demanded to see a judicial warrant, but agents presented only an administrative warrant signed by an immigration officer. A 9-year-old child was inside the home during the raid. A federal judge ruled the arrest violated Gibson's Fourth Amendment rights and ordered his immediate release, finding he has "no criminal record" — contradicting DHS claims. Gibson was released but taken back into ICE custody the next day. At a Jan 18 press conference, Gibson alleged agents took "trophy photos" of him and held him in an overcrowded cell. He now wears an ankle monitor and says he is afraid to leave his home.
+Garrison Gibson, a 38-year-old Liberian citizen who has lived in the U.S. for 17 years, was arrested by ICE agents who used a battering ram to enter his north Minneapolis home. His family demanded to see a judicial warrant, but agents presented only an administrative warrant signed by an immigration officer. A 9-year-old child was inside the home during the raid. A federal judge ruled the arrest violated Gibson's Fourth Amendment rights and ordered his immediate release, finding he has "no criminal record" — contradicting DHS claims. Gibson was released but taken back into ICE custody the next day. At a Jan 18 press conference, Gibson alleged agents took "trophy photos" of him and held him in an overcrowded cell. He now wears an ankle monitor and says he is afraid to leave his home.
 
 ## Sources
 1. FOX 9 (Jan 12, 2026): [Minneapolis family demands judicial warrant as federal agents bust door](https://www.fox9.com/news/minneapolis-family-demands-judicial-warrant-federal-agents-raid-jan-2026)
@@ -36,24 +37,26 @@ Garrison Gibson, a 38-year-old Liberian citizen who has lived in the U.S. for ap
 11. ABC News (Jan 17, 2026): [A Liberian man released after his battering-ram arrest in Minneapolis is back in custody again](https://abcnews.go.com/US/wireStory/liberian-man-released-after-battering-ram-arrest-minneapolis-129282435)
 12. CBS Minnesota (Jan 17, 2026): [1 day after judge orders release, agents re-arrest him at immigration check-in](https://www.cbsnews.com/minnesota/news/judge-orders-release-of-liberian-man-arrested-by-ice-in-minneapolis-home-invasion/)
 13. MPR News (Jan 18, 2026): [Garrison Gibson says ICE agents took 'trophy' photos after Minneapolis arrest](https://www.mprnews.org/story/2026/01/18/garrison-gibson-says-ice-agents-took-trophy-photos-locked-in-overcrowded-cell)
+14. MPR News video (Jan 18, 2026): [Garrison Gibson full press conference](https://www.youtube.com/watch?v=UVYy57H30DU)
 
 ## Affected Individual(s)
 - **Name:** Garrison Gibson
 - **Age:** 37
-- **Origin:** Liberia (fled civil war as a child)
+- **Origin:** Liberia (fled civil war at age 6)
 - **Citizenship:** Under ICE supervision
 - **Status:** Final immigration removal order from 2008; lived under order of supervision with regular check-ins
 - **Criminal History:** 2008 third-degree narcotics sales conviction was later dismissed by courts. Court records show legal history dominated by traffic violations, minor drug arrests, and one arrest for riding public transit without paying fare.
 - **Family:** Wife Teyana Gibson Brown (nurse) and 9-year-old child in the home during raid
 
 ## Background
-According to court filings, Gibson has resided in the U.S. for approximately two decades. Four years prior, immigration officials placed him under supervision. The filing notes: "At no point has he ever been deemed a danger to his community, a flight risk, or has he been convicted of any new crime warranting his detention."
+According to Gibson, he has resided in the U.S. for 17 years. Four years prior, immigration officials placed him under supervision. The filing notes: "At no point has he ever been deemed a danger to his community, a flight risk, or has he been convicted of any new crime warranting his detention."
 
-He had checked in with ICE officials approximately two weeks before the arrest.
+He had checked in with ICE officials on Dec 29, less than two weeks before the arrest.
 
 ## Timeline
 - **Jan 12, 2026** - ICE uses battering ram to enter home; family demands judicial warrant but agents show only administrative warrant; Gibson arrested
-- **Jan 16, 2026** - Federal judge rules arrest violated Fourth Amendment, orders immediate release
+- **Mid-Jan 2026** - Gibson flown to El Paso, Texas for processing
+- **Jan 16, 2026** - Federal judge rules arrest violated Fourth Amendment, orders immediate release; Gibson returned to Minnesota and released
 - **Jan 17, 2026** - Re-arrested at routine check-in; released again same day after ICE admits error
 - **Jan 18, 2026** - Gibson holds press conference alleging "trophy photos" and overcrowded cell; now wears ankle monitor
 
