@@ -199,7 +199,7 @@ Published incidents visible on the main site.
 
 ---
 
-## NO-ADD (113 entries)
+## NO-ADD (122 entries)
 
 Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 
@@ -312,6 +312,15 @@ Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 - dev-docs/not_use.md | Jan 10, 2026 | El Loro Alexandria
 - dev-docs/not_use.md | Jan 13, 2026 | Jennie-O Willmar Shift Change
 - dev-docs/not_use.md | Feb 1 | Michelandia Bar & Grill Employee
+- dev-docs/not_use.md | Feb 2 | Ian Davis Austin / Jerome Deangelo Richardson Arrests
+- dev-docs/not_use.md | Feb 1-2 | DHS Weekend Criminal Arrests
+- dev-docs/not_use.md | Feb 2 | DHS Body Camera Announcement
+- dev-docs/not_use.md | Feb 2 | Federal Court Denies MN/Mpls/St. Paul Injunction
+- dev-docs/not_use.md | Feb 2026 | 8 More Federal Prosecutors Resign
+- dev-docs/not_use.md | Feb 1 | Rogers Hampton Inn Protest
+- dev-docs/not_use.md | Feb 3 | Midtown Phillips Observers Detained
+- dev-docs/not_use.md | Feb 3 | Vernon Ave Edina Nannies
+- dev-docs/not_use.md | Feb 2-3 | Target HQ Protest
 - dev-docs/not_use.md | Dec 13, 2025 | Loc Vinh Truong Rochester
 - dev-docs/not_use.md | Nov 11, 2025 | Adán Núñez Gonzalez Northfield
 - dev-docs/not_use.md | n/a | ICE Raids Two Hibbing Mexican Restaurants
