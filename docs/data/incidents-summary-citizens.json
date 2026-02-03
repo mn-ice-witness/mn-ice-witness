@@ -351,13 +351,18 @@
       "lastUpdated": "2026-02-02T22:22:30",
       "mediaCount": 0,
       "notable": false,
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
-      "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
+      "hasLocalMedia": true,
+      "localMediaType": "video",
+      "localMediaPath": "media/2026-01/18/2026-01-18-perla-ocampo-willmar-citizen.mp4",
+      "localMediaOgPath": "media/2026-01/18/2026-01-18-perla-ocampo-willmar-citizen-og-2s-1770094004.jpg",
+      "localMediaFiles": [
+        {
+          "type": "video",
+          "path": "media/2026-01/18/2026-01-18-perla-ocampo-willmar-citizen.mp4"
+        }
+      ],
+      "aspectRatio": 1.0062305295950156,
+      "mediaVersion": 1770094004
     },
     {
       "filePath": "incidents/2026-01/15/2026-01-15-porter-wrong-address-raid.md",
