@@ -185,9 +185,17 @@ When user says **"do our daily search"** or **"do a metro search"**, follow `dev
 Read `adding-incidents.md` first. Check `not_use.md` for rejected stories.
 
 ### last_updated Field
-**Only update for substantive story changes:**
-- ✅ Court rulings, releases, status changes, new facts
-- ❌ Adding more sources, formatting fixes, rating changes
+**⚠️ CRITICAL RULE:** Only update `last_updated` when you are ALSO adding a `## Updates` entry. They must stay in sync.
+
+**The test:** If you're not adding an `## Updates` entry at the top of the file, DON'T touch `last_updated`.
+
+| Change | Update `last_updated`? | Why |
+|--------|----------------------|-----|
+| ✅ Court ruling, release, new facts | YES + add `## Updates` entry | Story development readers care about |
+| ❌ Adding sources | NO | Just documentation, not story change |
+| ❌ Formatting/schema fixes | NO | Internal maintenance |
+| ❌ Trustworthiness rating change | NO | Editorial judgment |
+| ❌ Adding U.S. citizen details to existing incident | NO (unless adding Updates entry) | Enrichment, not new development |
 
 ### Updates Section Placement
 **The `## Updates` section goes RIGHT AFTER THE TITLE, BEFORE SUMMARY** — never at the bottom. This is user-facing content readers see first. Hyperlink to the source, end with a period:
