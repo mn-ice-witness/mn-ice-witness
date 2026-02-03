@@ -15,7 +15,7 @@ last_updated: 2026-02-02T22:24:26
 # Ecuadorean Man Held 3 Weeks Despite Court Order; Judge Orders ICE Director to Appear for Contempt
 
 ## Updates
-- **Feb 1** - Tobay Robles [returned to Minnesota](https://sahanjournal.com/immigration/ice-north-minneapolis-shooting-detainees-released/) after being released from ICE custody in Texas. A supporter drove from Minnesota to Texas to bring him home to reunite with his family.
+- **Jan 28** - After his release in Texas, a supporter [drove from Minnesota to Texas](https://www.cnbc.com/2026/01/28/ice-immigrant-minnesota-contempt-released.html) to bring Tobay Robles home to reunite with his family and reestablish his interrupted medical care.
 - **Jan 28** - Contempt hearing canceled after Tobay Robles' release. [Judge Schiltz documented](https://www.kare11.com/article/news/local/ice-in-minnesota/judge-ice-violated-nearly-100-court-orders-this-month/89-3e95803b-952f-4383-b09d-fc289cd9c21b) that ICE has violated **96 court orders in 74 cases** since January 1, 2026, stating "ICE is not a law unto itself" and "ICE has likely violated more court orders in January 2026 than some federal agencies have violated in their entire existence."
 - **Jan 27** - [Tobay Robles released](https://www.mprnews.org/story/2026/01/27/judge-orders-ice-director-to-appear-federal-court-minneapolis) shortly after 1 p.m. following judge's contempt order against ICE director.
 
@@ -35,7 +35,6 @@ Federal Judge Patrick Schiltz ordered ICE's acting director Todd Lyons to person
 8. Philadelphia Inquirer (Jan 27, 2026): [ICE chief must appear in court to explain why detainees have been denied due process](https://www.inquirer.com/news/nation-world/ice-immigration-enforcement-minnesota-due-process-20260127.html)
 9. KARE 11 (Jan 28, 2026): [Judge says ICE has violated nearly 100 court orders this month](https://www.kare11.com/article/news/local/ice-in-minnesota/judge-ice-violated-nearly-100-court-orders-this-month/89-3e95803b-952f-4383-b09d-fc289cd9c21b)
 10. CNBC (Jan 28, 2026): ['ICE is not a law unto itself,' Minnesota judge says](https://www.cnbc.com/2026/01/28/ice-immigrant-minnesota-contempt-released.html)
-11. Sahan Journal (Feb 1, 2026): [Detainees released, returned to Minnesota](https://sahanjournal.com/immigration/ice-north-minneapolis-shooting-detainees-released/)
 
 ## Affected Individual(s)
 
@@ -49,9 +48,9 @@ Federal Judge Patrick Schiltz ordered ICE's acting director Todd Lyons to person
 - **Jan 6** - Tobay Robles detained by immigration agents.
 - **Jan 14** - Judge Schiltz orders ICE to allow Tobay Robles to challenge detention at a hearing within one week, or release him; determines ICE is holding him under improper reading of federal law.
 - **Jan 27 (evening)** - Judge Schiltz issues ruling summoning ICE Acting Director Todd Lyons to appear in court Friday to explain why he should not be held in contempt
-- **Jan 27 (~1:00 p.m.)** - Tobay Robles released from detention
-- **Jan 31 (Friday, 1:00 p.m.)** - Contempt hearing canceled due to release
-- **Feb 1** - Tobay Robles returned to Minnesota after supporter drove to Texas to bring him home
+- **Jan 27 (~1:00 p.m.)** - Tobay Robles released from detention in Texas
+- **Jan 28** - Supporter drove from Minnesota to Texas to bring Tobay Robles home
+- **Jan 31 (Friday)** - Contempt hearing canceled due to release
 
 ## Court Order Details
 
