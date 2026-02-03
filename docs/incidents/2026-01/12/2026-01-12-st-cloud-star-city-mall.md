@@ -26,7 +26,7 @@ More than 50 ICE agents descended on Star City Mall, a strip mall with numerous 
 ## What Happened
 
 ### The Arrest
-ICE agents detained a man coming out of a deli at Star City Mall around midday on January 12, 2026.
+ICE agents detained **Yonis Mohamed Abdullahi**, an Amazon employee, as he was coming out of a deli at Star City Mall around midday on January 12, 2026. According to Sahan Journal, Abdullahi had valid work authorization and does not appear on DHS's "Worst of the Worst" list of individuals with criminal records.
 
 ### Community Response
 - People started gathering immediately after witnessing the arrest.
