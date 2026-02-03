@@ -235,10 +235,10 @@ These are common mistakes when adding incidents. Read this section carefully.
 **Required workflow:**
 1. Before citing ANY source, use WebFetch to read the actual content
 2. Verify the article mentions the specific person/incident you're documenting
-3. If WebFetch fails or returns CSS/login walls, **ask the user to paste the article text**
+3. If WebFetch fails or returns CSS/login walls, **print the URL and ask the user to paste the article text** — do this one URL at a time
 4. Never assume a URL is correct based on the title alone
 
-**If you cannot access a source:** Tell the user "I can't access [URL] — can you paste the article text so I can verify it's about [person/incident]?"
+**If you cannot access a source:** Print the full URL, then ask: "Please paste the text so I can verify it covers this incident."
 
 ### Inventing Details Not in Sources — CRITICAL
 | Mistake | Why It's Wrong | Correct Approach |

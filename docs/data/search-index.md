@@ -15,10 +15,11 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (178 incidents)
+## CURRENT (179 incidents)
 
 Published incidents visible on the main site.
 
+- incidents/2026-02/03/2026-02-03-observers-detained-gunpoint-midtown-phillips.md | 2026-02-03 | Minneapolis | observers | Observers Detained at Gunpoint in Midtown Phillips
 - incidents/2026-02/01/2026-02-01-jose-lozano-worthington.md | 2026-02-01 | Worthington | citizens | Jose Lozano Detained Despite Valid Asylum Permit in Worthington
 - incidents/2026-02/01/2026-02-01-powderhorn-rec-center-observer-arrested.md | 2026-02-01 | Minneapolis | observers | Observer Arrested, Concussion Grenades Deployed at Powderhorn Rec Center
 - incidents/2026-01/30/2026-01-30-dhs-response-racial-profiling-false.md | 2026-01-30 | Minneapolis | response | DHS Response: Racial Profiling Allegations Are "Disgusting, Reckless and Categorically FALSE"
