@@ -783,6 +783,69 @@ Stories are excluded when they don't meet the project's core focus:
 - Reason: **Insufficient details** - no affected individual name, no citizenship/status information, social media video only with no news follow-up.
 - Date evaluated: 2026-02-02
 
+**Ian Davis Austin / Jerome Deangelo Richardson Arrests (Feb 2)**
+- Sources: [Fox 9](https://www.fox9.com/news/st-paul-church-protest-2-more-arrests-made-mn)
+- Date: February 2, 2026
+- Details: AG Bondi announced two additional arrests connected to the January 18 Cities Church protest in St. Paul.
+- Reason: **Same reasoning as Don Lemon/Georgia Fort** - DOJ/FBI arrests for FACE Act violations at Cities Church protest, not ICE enforcement action.
+- Date evaluated: 2026-02-03
+
+**DHS Weekend Criminal Arrests (Feb 1-2)**
+- Sources: [DHS Press Release](https://www.dhs.gov/news/2026/02/02/dhs-arrests-more-criminal-illegal-aliens-minnesota-over-weekend-including-sex)
+- Date: February 1-2, 2026
+- Details: DHS announced arrests of Vong Som (Laos), Houa Xiong (Laos), Charanjit Singh (India), and Baltazar Camposeco-Ros (Guatemala).
+- Reason: **Detainees with criminal convictions** - All four had prior convictions including sexual assault, cruelty toward a child, terroristic threats, and domestic abuse.
+- Date evaluated: 2026-02-03
+
+**DHS Body Camera Announcement (Feb 2)**
+- Sources: [FOX 9](https://www.fox9.com/news/ice-minnesota-latest-feb-2-2026), [PBS News](https://www.pbs.org/newshour/politics/every-homeland-security-officer-in-minneapolis-is-getting-a-body-worn-camera-noem-says)
+- Date: February 2, 2026
+- Details: DHS Secretary Noem announced all ICE and CBP agents in Minneapolis will wear body cameras "effective immediately."
+- Reason: **Policy story** - documents operational change, not a civil rights incident.
+- Date evaluated: 2026-02-03
+
+**Federal Court Denies MN/Mpls/St. Paul Injunction (Feb 2)**
+- Sources: [CBS Minnesota](https://www.cbsnews.com/minnesota/news/minnesota-legal-battle-operation-metro-surge-ellison/)
+- Date: February 2, 2026
+- Details: Judge Kate Menendez denied Minnesota/Minneapolis/St. Paul request to halt Operation Metro Surge, stating state hadn't proved constitutional violation.
+- Reason: **Legal/policy story** - court ruling on systemic challenge, not a specific civil rights incident.
+- Date evaluated: 2026-02-03
+
+**8 More Federal Prosecutors Resign (Feb 2026)**
+- Sources: [KSTP](https://kstp.com/kstp-news/top-news/star-tribune-8-more-federal-prosecutors-leaving-minnesota-u-s-attorneys-office/), [Star Tribune](https://www.startribune.com/another-wave-of-departures-in-minnesotas-us-attorneys-office/601575569)
+- Date: February 2026
+- Details: 8 additional federal prosecutors leaving MN U.S. Attorney's Office (14 total this year), following 6 who resigned over Renee Good investigation pressure.
+- Reason: **Political/institutional story** - documents internal DOJ conflict, not a civil rights incident.
+- Date evaluated: 2026-02-03
+
+**Rogers Hampton Inn Protest (Feb 1)**
+- Sources: [Bring Me The News](https://bringmethenews.com/minnesota-news/list-of-ice-raids-major-updates-in-minnesota-on-sunday-feb-1)
+- Date: February 1, 2026
+- Details: Protesters gathered outside Hampton Inn in Rogers where federal agents were believed to be staying. Two dispersal orders issued, crowd dispersed peacefully.
+- Reason: **Protest coverage only** - no enforcement incident.
+- Date evaluated: 2026-02-03
+
+**Midtown Phillips Observers Detained (Feb 3)**
+- Sources: [Bring Me The News](https://bringmethenews.com/minnesota-news/list-of-ice-raids-major-updates-in-minnesota-on-tuesday-feb-3), Ford Fischer video
+- Date: February 3, 2026
+- Details: Video shows at least two observers detained at gunpoint at 18th Ave S and 27th St E. Agent claimed observers made "threatening hand symbols" described as "finger guns."
+- Reason: **Insufficient details** - no observer names, no citizenship/status information, no outcome documented. May revisit if affected individuals come forward.
+- Date evaluated: 2026-02-03
+
+**Vernon Ave Edina Nannies (Feb 3)**
+- Sources: [Bring Me The News](https://bringmethenews.com/minnesota-news/list-of-ice-raids-major-updates-in-minnesota-on-tuesday-feb-3)
+- Date: February 3, 2026
+- Details: Unverified claim that two nannies were subject to federal immigration action at gas station near Vernon Avenue South, close to Edina Public Library.
+- Reason: **Unverified** - BMTN explicitly labeled this unverified, no corroborating coverage.
+- Date evaluated: 2026-02-03
+
+**Target HQ Protest (Feb 2-3)**
+- Sources: [CBS Minnesota](https://www.cbsnews.com/minnesota/news/protests-planned-at-target-headquarters-as-new-ceo-starts-first-day/)
+- Date: February 2-3, 2026
+- Details: Protesters rallied outside Target headquarters on new CEO's first day, demanding company call for ICE to leave Minnesota.
+- Reason: **Protest coverage only** - no enforcement incident.
+- Date evaluated: 2026-02-03
+
 ### December 2025
 
 **Loc Vinh Truong Rochester (Dec 13, 2025)**
