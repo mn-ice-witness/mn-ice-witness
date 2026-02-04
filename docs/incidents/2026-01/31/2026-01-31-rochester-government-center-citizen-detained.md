@@ -44,7 +44,10 @@ Franklin sought information from DHS officials on Monday (February 2). DHS told 
 Several council members and community speakers referenced this incident during a meeting where the council debated joining a lawsuit against the federal government over ICE enforcement. The council split on the issue.
 
 ## Context
-This incident occurred during an extended period of ICE activity in Rochester. At the same council meeting, resident Abdirashid Fareh testified that ICE agents surrounded his home on Sunday (February 1) while his siblings were home alone. Rochester has been one of the most active areas for ICE enforcement in Minnesota, with 64 arrests reported in the city as of January 23.
+This incident occurred during an extended period of ICE activity in Rochester. Rochester has been one of the most active areas for ICE enforcement in Minnesota, with 64 arrests reported in the city as of January 23.
+
+## Related Incidents
+- [ICE Agents Surround U.S. Citizen Family Home in Rochester](#2026-02-01-fareh-home-surrounded-rochester)
 
 ## Editorial Assessment
 **MEDIUM** - Two sources (Star Tribune, Post Bulletin). Incident described at public city council meeting by multiple speakers including legislators and police chief. U.S. citizen status stated by attendees at public meeting. Police chief confirmed details with DHS. No name disclosed, no video evidence.

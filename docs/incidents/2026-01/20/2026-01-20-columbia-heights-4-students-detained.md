@@ -9,12 +9,14 @@ affected_individual_citizenship: asylum-seeker
 injuries: none
 trustworthiness: high
 created: 2026-01-22T12:00:00
-last_updated: 2026-02-03T20:19:15
+last_updated: 2026-02-04T16:19:46
 ---
 
 # Four Columbia Heights Students Detained by ICE, Including 5-Year-Old Sent to Texas
 
 ## Updates
+- **Feb 4** - [Elizabeth Zuna Caisaguano and her mother released](https://sahanjournal.com/education/columbia-heights-fourth-grader-held-by-ice/) from Dilley detention center late Tuesday evening after nearly one month in custody. Three Columbia Heights students remain in federal custody.
+- **Feb 3** - Superintendent Stenvik reveals [at least 23 parents at Valley View Elementary alone](https://www.mprnews.org/story/2026/02/03/columbia-heights-superintendent-zena-stenvik-23-parents-detained-by-ice-at-one-school) have been detained by ICE. A third of students absent on one recent day.
 - **Feb 3** - [11-year-old Elizabeth Zuna Caisaguano remains in ICE detention](https://www.mprnews.org/story/2026/02/03/columbia-heights-girl-11-remains-in-ice-detention-in-texas-during-measles-outbreak) in Texas during a measles outbreak at the Dilley facility. Gov. Walz [demands DHS stop detaining Minnesota children](https://www.startribune.com/walz-demands-dhs-stop-detaining-minnesota-children/601575923).
 - **Feb 1** - [Liam and his father returned home](https://www.cbsnews.com/news/liam-conejo-ramos-released-ice-custody/) to Minneapolis after being released from the Dilley, Texas detention center. Rep. Joaquin Castro escorted them on the flight home.
 - **Jan 31** - [Federal judge orders release](https://www.sacurrent.com/news/texas-news/federal-judge-orders-release-of-liam-ramos/) of Liam and his father by Tuesday. Judge Fred Biery accused the government of "ill-conceived and incompetently implemented pursuit of daily deportation quotas."
@@ -46,6 +48,9 @@ Four students from Columbia Heights Public School District have been detained by
 19. ABC News (Feb 1, 2026): [5-year-old Liam Conejo Ramos, father board plane to return to Minneapolis](https://abcnews.go.com/US/5-year-liam-conejo-ramos-father-board-plane/story?id=129749784)
 20. MPR News (Feb 3, 2026): [Columbia Heights girl, 11, remains in ICE detention in Texas during measles outbreak](https://www.mprnews.org/story/2026/02/03/columbia-heights-girl-11-remains-in-ice-detention-in-texas-during-measles-outbreak)
 21. Star Tribune (Feb 3, 2026): [Walz demands DHS stop detaining Minnesota children](https://www.startribune.com/walz-demands-dhs-stop-detaining-minnesota-children/601575923)
+22. MPR News (Feb 3, 2026): [Columbia Heights superintendent: At one school, ICE has detained at least 23 parents](https://www.mprnews.org/story/2026/02/03/columbia-heights-superintendent-zena-stenvik-23-parents-detained-by-ice-at-one-school)
+23. Sahan Journal (Feb 4, 2026): [Columbia Heights fourth-grader and her mother released from ICE detention](https://sahanjournal.com/education/columbia-heights-fourth-grader-held-by-ice/)
+24. CBS News (Feb 4, 2026): [Feds releasing Elizabeth Zuna, 4th-grader from same school district as Liam Ramos](https://www.cbsnews.com/news/elizabeth-zuna-release-liam-ramos-same-school-district/)
 
 ## Related Incidents
 
@@ -68,7 +73,7 @@ Four students from Columbia Heights Public School District have been detained by
 - **Date detained:** Approximately January 6-7, 2026 (two weeks before press conference)
 - **Location:** On the way to elementary school with her mother
 - **Circumstances:** During the arrest, the child called her father to tell him ICE agents were bringing her to school. The father came to the school to find both his daughter and wife had been taken.
-- **Current status:** Still detained in Texas as of February 3, 2026; measles outbreak reported at Dilley detention facility
+- **Current status:** Released February 3, 2026 (evening) with her mother from Dilley detention center after nearly one month; habeas corpus petition filed February 2 led to Judge Biery ordering they cannot be deported while case proceeds
 
 ### 17-year-old boy (name not released)
 - **Date detained:** January 20, 2026 (morning)
@@ -86,7 +91,8 @@ Four students from Columbia Heights Public School District have been detained by
 - **January 27, 2026** - Judge Fred Biery issues temporary restraining order barring removal of Liam and his father
 - **January 31, 2026** - Judge Biery orders release of Liam and his father by Tuesday (Feb 4)
 - **February 1, 2026** - Liam and his father released from Dilley detention center, returned home to Minneapolis
-- **February 3, 2026** - Elizabeth Zuna Caisaguano (11) reported still detained in Texas; measles outbreak at Dilley facility; Gov. Walz demands DHS stop detaining Minnesota children
+- **February 3, 2026** - Supt. Stenvik reveals at least 23 parents at Valley View Elementary detained; measles outbreak at Dilley facility; Gov. Walz demands DHS stop detaining Minnesota children
+- **February 3, 2026 (evening)** - Elizabeth Zuna Caisaguano and her mother released from Dilley after habeas corpus petition
 
 ## Official Accounts
 

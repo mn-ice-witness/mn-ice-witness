@@ -327,6 +327,8 @@ These provide incontrovertible evidence and should be documented with HIGH trust
 - Single single social media posts without news coverage
 - Rumors without any news pickup
 
+**PROMOTING from not_use.md:** If new information upgrades a rejected story into a valid incident, create the incident file and **remove the entry from not_use.md entirely**. Don't mark it or leave a stub — the incident file is the record.
+
 ### Categorizing Incidents: citizens vs immigrants
 
 **⚠️ CRITICAL DISTINCTION — Get this right when creating incident files:**
@@ -358,6 +360,9 @@ After completing search, report:
 
 ### Already Documented
 List incidents found that match existing files
+
+### Promoted from not_use.md
+List any stories previously in not_use.md that are now being added as incidents (remove these entries from not_use.md)
 
 ### Added to not_use.md
 List stories evaluated and rejected, with reasons

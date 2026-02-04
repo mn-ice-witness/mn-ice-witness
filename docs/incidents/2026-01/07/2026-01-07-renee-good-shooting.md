@@ -9,12 +9,13 @@ affected_individual_citizenship: us-citizen
 injuries: fatal
 trustworthiness: high
 created: 2026-01-14T08:01:12
-last_updated: 2026-02-02T21:10:32
+last_updated: 2026-02-04T16:19:46
 ---
 
 # Renee Nicole Good Shot and Killed by ICE Agent
 
 ## Updates
+- **Feb 3** - Brothers [Luke and Brent Ganger testify before Congress](https://www.cbsnews.com/minnesota/news/renee-good-brothers-capitol-hill-hearing-use-of-force/) at a bicameral forum on DHS use of force hosted by Sen. Blumenthal and Rep. Garcia. Luke Ganger: "Our family took some consolation thinking that perhaps Nay's death would bring about change in our country. And it has not."
 - **Feb 2** - Hennepin County Attorney Mary Moriarty [served Touhy letters](https://www.startribune.com/minnesota-prosecutors-formally-demand-evidence-from-trump-administration-over-the-killing-of-renee-good/601575530) on DOJ and DHS demanding crime scene evidence with a Feb 17 deadline.
 - **Jan 23** - FBI agent Tracee Mergen, a supervisor in the Minneapolis field office, [resigned](https://www.nytimes.com/2026/01/23/us/fbi-agent-ice-shooting-renee-good.html) after bureau leadership in Washington pressured her to discontinue a civil rights inquiry into Jonathan Ross.
 - **Jan 22** - [Hennepin County Medical Examiner](https://www.fox9.com/news/minneapolis-ice-shooting-renee-goods-death-homicide-hennepin-medical-examiner-jan-23) officially ruled death a homicide, cause "multiple gunshot wounds" from being "shot by a law enforcement officer.".
@@ -62,6 +63,9 @@ Renee Nicole Good, a 37-year-old U.S. citizen, was fatally shot by ICE agent Jon
 35. New York Times (Jan 23, 2026): [F.B.I. Agent Who Tried to Investigate ICE Officer in Shooting Resigns](https://www.nytimes.com/2026/01/23/us/fbi-agent-ice-shooting-renee-good.html)
 36. FOX 9 (Jan 22, 2026): [Hennepin County Medical Examiner rules Renee Good's death a homicide](https://www.fox9.com/news/minneapolis-ice-shooting-renee-goods-death-homicide-hennepin-medical-examiner-jan-23)
 37. Star Tribune (Jan 22, 2026): [County medical examiner classifies Renee Good's death as homicide](https://www.startribune.com/hennepin-county-medical-examiner-renee-good-death-homicide/601568759)
+38. CBS Minnesota (Feb 3, 2026): [Brothers of Renee Good testify about federal agents' use of force at Capitol Hill hearing](https://www.cbsnews.com/minnesota/news/renee-good-brothers-capitol-hill-hearing-use-of-force/)
+39. NPR (Feb 4, 2026): [Brothers of Renee Good call for action in Congress](https://www.npr.org/2026/02/04/g-s1-108617/brothers-renee-good-congress)
+40. ABC News (Feb 3, 2026): [Renee Good's brothers testify on Capitol Hill after deadly ICE shooting](https://abcnews.go.com/US/renee-goods-brothers-testify-capitol-hill-after-deadly/story?id=129826762)
 
 ## Affected Individual(s)
 - **Name:** Renee Nicole Good

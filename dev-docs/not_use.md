@@ -683,13 +683,6 @@ Stories are excluded when they don't meet the project's core focus:
 - Reason: **Detainees with criminal convictions** - all 14 had prior criminal records (5 with sexual assault convictions). Additionally, most were prison transfers, not community arrests.
 - Date evaluated: 2026-02-02
 
-**MSU Mankato Student Detained (Late Jan 2026)**
-- Sources: [CBS Minnesota](https://www.cbsnews.com/minnesota/news/minnesota-state-university-mankato-student-detained-by-ice/), [BMTN](https://bringmethenews.com/minnesota-news/minnesota-state-university-mankato-student-detained-by-ice-officials-say)
-- Date: Late January 2026
-- Details: International student detained at off-campus residence. President Inch stated "No reason was given." Student held at Albert Lea jail.
-- Reason: **Insufficient details** - no name provided, no citizenship/status information. May revisit if student identified.
-- Date evaluated: 2026-02-02
-
 **Heather Lane Rooftop Workers Mankato (Jan 10)**
 - Sources: [Mankato Free Press](https://www.mankatofreepress.com/news/local_news/ice-activity-heats-up-in-mankato/article_55544fb0-c9a6-4a04-880b-f67559bbc187.html)
 - Date: January 10, 2026
@@ -825,13 +818,6 @@ Stories are excluded when they don't meet the project's core focus:
 - Reason: **Protest coverage only** - no enforcement incident.
 - Date evaluated: 2026-02-03
 
-**Midtown Phillips Observers Detained (Feb 3)**
-- Sources: [Bring Me The News](https://bringmethenews.com/minnesota-news/list-of-ice-raids-major-updates-in-minnesota-on-tuesday-feb-3), Ford Fischer video
-- Date: February 3, 2026
-- Details: Video shows at least two observers detained at gunpoint at 18th Ave S and 27th St E. Agent claimed observers made "threatening hand symbols" described as "finger guns."
-- Reason: **Insufficient details** - no observer names, no citizenship/status information, no outcome documented. May revisit if affected individuals come forward.
-- Date evaluated: 2026-02-03
-
 **Vernon Ave Edina Nannies (Feb 3)**
 - Sources: [Bring Me The News](https://bringmethenews.com/minnesota-news/list-of-ice-raids-major-updates-in-minnesota-on-tuesday-feb-3)
 - Date: February 3, 2026
@@ -853,6 +839,20 @@ Stories are excluded when they don't meet the project's core focus:
 - Reason: **Follow-up to existing incident** - business reopening is not a new civil rights incident. Original detention documented in `docs/incidents/2026-01/15/2026-01-15-el-tapatio-willmar.md`.
 - Date evaluated: 2026-02-03
 
+**Tom Homan 700-Agent Drawdown Announcement (Feb 4)**
+- Sources: [FOX 9](https://www.fox9.com/news/ice-minnesota-border-czar-tom-homan-update-feb-4-2026-video), [MPR News](https://www.mprnews.org/story/2026/02/04/tom-homan-border-czar-immigration-surge-minnesota-press-conference), [CBS Minnesota](https://www.cbsnews.com/minnesota/live-updates/border-czar-homan-to-give-update-on-minnesota-as-top-corrections-official-questions-drawdown-timeline/), [CNBC](https://www.cnbc.com/2026/02/04/trump-homan-minnesota-ice-immigration.html)
+- Date: February 4, 2026
+- Details: Border Czar Tom Homan announced withdrawal of 700 federal agents from Minnesota, reducing from ~2,700 to ~2,000. Conditions for further drawdown include continued county cooperation with ICE detainers. Trump told NBC agents "could use a little bit of a softer touch." Mayor Frey responded this "isn't a de-escalation" since 2,000 agents remain.
+- Reason: **General policy/response announcement** - not a specific civil rights incident. Site documents specific enforcement actions, not policy announcements.
+- Date evaluated: 2026-02-04
+
+**Venezuelan Men Re-Detained at Courthouse (Feb 3-4)**
+- Sources: Multiple outlets
+- Date: February 3-4, 2026
+- Details: Aljorna and Sosa-Celis, Venezuelan men connected to the January 14 Alex Pretti shooting case, re-arrested by ICE at courthouse after a judge ordered their release.
+- Reason: **Connected to existing incident** - relates to the documented Alex Pretti shooting case. Re-detention is a legal/custody dispute outcome, not a separate civil rights incident.
+- Date evaluated: 2026-02-04
+
 ### December 2025
 
 **Loc Vinh Truong Rochester (Dec 13, 2025)**
@@ -870,10 +870,6 @@ Stories are excluded when they don't meet the project's core focus:
 - Date evaluated: 2026-02-03
 
 ### November 2025
-
-**Adán Núñez Gonzalez Northfield (Nov 11, 2025)**
-- Status: **ADDED AS INCIDENT** - see `docs/incidents/2025-11/11/2025-11-11-northfield-nunez-gonzalez-arrest.md`
-- Date evaluated: 2026-02-02
 
 ### October 2025
 
