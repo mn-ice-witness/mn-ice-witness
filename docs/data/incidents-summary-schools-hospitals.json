@@ -1,6 +1,32 @@
 {
   "incidents": [
     {
+      "filePath": "incidents/2026-02/03/2026-02-03-fraser-school-cleaner-detained.md",
+      "title": "Contract Cleaner Detained by Armed Agents in Fraser School Parking Lot (NO NEWS MEDIA)",
+      "summary": "Federal agents detained a woman working as a contract cleaner in the parking lot of Fraser School, an inclusive preschool for children with disabilities in Richfield. At least three officers in three unmarked vehicles with tinted windows took the woman from her car, restrained her hands, and drove away.",
+      "latestUpdate": null,
+      "date": "2026-02-03",
+      "time": "unknown",
+      "location": "Fraser School, 2400 W 64th St",
+      "city": "Richfield",
+      "type": "schools-hospitals",
+      "status": "ongoing",
+      "affectedIndividualCitizenship": "unknown",
+      "injuries": "none",
+      "trustworthiness": "no-news-media",
+      "created": "2026-02-03T21:25:21",
+      "lastUpdated": "2026-02-03T21:25:21",
+      "mediaCount": 0,
+      "notable": false,
+      "hasLocalMedia": false,
+      "localMediaType": null,
+      "localMediaPath": null,
+      "localMediaOgPath": null,
+      "localMediaFiles": [],
+      "aspectRatio": null,
+      "mediaVersion": null
+    },
+    {
       "filePath": "incidents/2026-01/30/2026-01-30-richfield-middle-school-bus-route.md",
       "title": "Federal Agents Present on Richfield Middle School Bus Route",
       "summary": "Richfield Public Schools confirmed federal agents were present on a school bus route on January 30, 2026. Once school staff realized agents were on the route, district leadership traveled to the bus to ensure student safety. Staff and vetted volunteers walked students from the bus to their homes. Superintendent Steven Unowsky confirmed all students were safe and urged students to reach out to school counselors if feeling anxious.",
