@@ -9,12 +9,13 @@ affected_individual_citizenship: us-citizen
 injuries: serious
 trustworthiness: high
 created: 2026-01-15T23:23:27
-last_updated: 2026-01-20T15:16:31
+last_updated: 2026-02-03T19:44:05
 ---
 
 # U.S. Citizen Aliya Rahman Dragged From Car, Hospitalized After ICE Assault
 
 ## Updates
+- **Feb 3** - Rahman [testifies before Congress](https://www.c-span.org/event/public-affairs-event/house-senate-dems-hold-meeting-examining-dhs-tactics/440085) at a forum hosted by Sen. Blumenthal and Rep. Garcia on DHS use of force.
 - **Jan 20** - Aliya Rahman speaks exclusively to CNN in her first on-camera interview about the assault.
 
 ## Summary
@@ -47,6 +48,7 @@ Aliya Rahman, a 43-year-old U.S. citizen and software engineer, was dragged from
 24. KSAT San Antonio (Jan 16, 2026): [Federal immigration agents filmed dragging a woman from her car](https://www.ksat.com/news/national/2026/01/16/federal-immigration-agents-filmed-dragging-a-woman-from-her-car-in-minneapolis/)
 25. Facebook Video (Jan 15, 2026): [Video coverage](https://www.facebook.com/reel/1298284502358086/)
 26. CNN Video (Jan 20, 2026): [Rahman's first on-camera interview after the assault](https://www.cnn.com/2026/01/20/us/video/woman-dragged-from-car-by-ice-ldn-digvid-vrtc)
+27. C-SPAN Video (Feb 3, 2026): [House and Senate Democrats Examine DHS Immigration and Enforcement Tactics](https://www.c-span.org/event/public-affairs-event/house-senate-dems-hold-meeting-examining-dhs-tactics/440085)
 
 ## Affected Individual(s)
 - **Name:** Aliya Rahman
