@@ -846,6 +846,13 @@ Stories are excluded when they don't meet the project's core focus:
 - Reason: **Protest coverage only** - no enforcement incident.
 - Date evaluated: 2026-02-03
 
+**El Tapatio Willmar Reopening (Feb 2026)**
+- Sources: General coverage
+- Date: February 2026
+- Details: El Tapatio restaurant in Willmar reopened under management of the owner's 20-year-old U.S.-citizen son after the father was detained by ICE.
+- Reason: **Follow-up to existing incident** - business reopening is not a new civil rights incident. Original detention documented in `docs/incidents/2026-01/15/2026-01-15-el-tapatio-willmar.md`.
+- Date evaluated: 2026-02-03
+
 ### December 2025
 
 **Loc Vinh Truong Rochester (Dec 13, 2025)**

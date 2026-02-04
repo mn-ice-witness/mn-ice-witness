@@ -7,12 +7,15 @@ type: observers
 status: ongoing
 affected_individual_citizenship: us-citizen
 injuries: none
-trustworthiness: low
+trustworthiness: medium
 created: 2026-01-29T21:13:04
-last_updated: 2026-01-29T21:13:04
+last_updated: 2026-02-03T20:19:15
 ---
 
 # Fridley Superintendent Says ICE Followed Her to Work; Board Members Report ICE Outside Homes
+
+## Updates
+- **Feb 3** - [Star Tribune reports](https://www.startribune.com/walz-demands-dhs-stop-detaining-minnesota-children/601575923) Lewis appeared at Gov. Walz press conference saying ICE retaliation is "escalating every single day." ICE agents staged at two Fridley schools on January 31.
 
 ## Summary
 
@@ -22,6 +25,7 @@ Fridley Public Schools Superintendent Brenda Lewis reported on January 29, 2026,
 
 1. LinkedIn (Jan 29, 2026): [Superintendent Brenda Lewis post](https://www.linkedin.com/feed/update/urn:li:activity:7422795170850500608/) - primary source
 2. Star Tribune (Jan 29, 2026): [ICE raids Minnesota overview](https://www.startribune.com/ice-raids-minnesota/601546426) - quotes Lewis's LinkedIn post 
+3. Star Tribune (Feb 3, 2026): [Walz demands DHS stop detaining Minnesota children](https://www.startribune.com/walz-demands-dhs-stop-detaining-minnesota-children/601575923) - Lewis at Walz press conference
 **Related coverage of Fridley Schools and ICE:**
 - NPR/WBUR (Jan 29, 2026): [Minnesota superintendent on 'fearful' students being followed by masked ICE agents](https://www.wbur.org/hereandnow/2026/01/29/ice-minnesota-schools) - includes interview with Supt. Lewis about district impact
 - The Hill (Jan 2026): [As Minneapolis grapples with ICE, schools try to balance learning with student safety](https://thehill.com/homenews/education/5699002-ice-minneapolis-schools-renee-good-trump-immigration-dhs/) - quotes Lewis
@@ -58,4 +62,4 @@ Lewis previously stated: "We're at a place where, in my 26 years, I have never s
 
 ## Editorial Assessment
 
-**LOW** - Primary source is superintendent's LinkedIn post. Named public official making direct claims about being followed. No independent video or witness corroboration of the following incidents. Claims are her opinion without independent verification.
+**MEDIUM** - Upgraded from LOW after Star Tribune independently reported Lewis's claims at Gov. Walz press conference (Feb 3). Original source was superintendent's LinkedIn post. Named public official making direct claims about being followed. Star Tribune corroboration of continued ICE activity at Fridley schools strengthens credibility.

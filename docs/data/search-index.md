@@ -15,13 +15,14 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (180 incidents)
+## CURRENT (181 incidents)
 
 Published incidents visible on the main site.
 
 - incidents/2026-02/03/2026-02-03-observers-detained-gunpoint-midtown-phillips.md | 2026-02-03 | Minneapolis | observers | Observers Detained at Gunpoint in Midtown Phillips
 - incidents/2026-02/01/2026-02-01-jose-lozano-worthington.md | 2026-02-01 | Worthington | citizens | Jose Lozano Detained Despite Valid Asylum Permit in Worthington
 - incidents/2026-02/01/2026-02-01-powderhorn-rec-center-observer-arrested.md | 2026-02-01 | Minneapolis | observers | Observer Arrested, Concussion Grenades Deployed at Powderhorn Rec Center
+- incidents/2026-01/31/2026-01-31-rochester-government-center-citizen-detained.md | 2026-01-31 | Rochester | citizens | U.S. Citizen Detained at Olmsted County Government Center, Released After Identity Verified
 - incidents/2026-01/30/2026-01-30-dhs-response-racial-profiling-false.md | 2026-01-30 | Minneapolis | response | DHS Response: Racial Profiling Allegations Are "Disgusting, Reckless and Categorically FALSE"
 - incidents/2026-01/30/2026-01-30-richfield-middle-school-bus-route.md | 2026-01-30 | Richfield | schools-hospitals | Federal Agents Present on Richfield Middle School Bus Route
 - incidents/2026-01/30/2026-01-30-st-peter-police-chief-intervenes.md | 2026-01-30 | St. Peter | citizens | St. Peter Police Chief Retrieves U.S. Citizen From ICE Custody Mid-Transport
@@ -202,7 +203,7 @@ Published incidents visible on the main site.
 
 ---
 
-## NO-ADD (123 entries)
+## NO-ADD (124 entries)
 
 Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 
@@ -324,6 +325,7 @@ Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 - dev-docs/not_use.md | Feb 3 | Midtown Phillips Observers Detained
 - dev-docs/not_use.md | Feb 3 | Vernon Ave Edina Nannies
 - dev-docs/not_use.md | Feb 2-3 | Target HQ Protest
+- dev-docs/not_use.md | Feb 2026 | El Tapatio Willmar Reopening
 - dev-docs/not_use.md | Dec 13, 2025 | Loc Vinh Truong Rochester
 - dev-docs/not_use.md | Dec 13-14, 2025 | Willmar December 13-14 HSI Arrests
 - dev-docs/not_use.md | Nov 11, 2025 | Adán Núñez Gonzalez Northfield
