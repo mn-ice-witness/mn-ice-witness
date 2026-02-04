@@ -343,9 +343,10 @@ Previously published but retracted due to contradicting information. See inciden
 
 ---
 
-## NO-NEWS-MEDIA (2 incidents)
+## NO-NEWS-MEDIA (3 incidents)
 
 Incidents without news media verification. Visible only at /no-news-media.
 
+- incidents/2026-02/03/2026-02-03-fraser-school-cleaner-detained.md | 2026-02-03 | Richfield | schools-hospitals | Contract Cleaner Detained by Armed Agents in Fraser School Parking Lot (NO NEWS MEDIA)
 - incidents/2026-01/22/2026-01-22-sullivan-elementary-ice-food-flyers.md | 2026-01-22 | Minneapolis | schools-hospitals | School Warns ICE Distributing Food Support Flyers (NO NEWS MEDIA)
 - incidents/2026-01/17/2026-01-17-nadya-moldovan-refugee.md | 2026-01-17 | Unknown | immigrants | Moldovan Refugee Nadya Detained While Driving to Church with Family (NO NEWS MEDIA)
