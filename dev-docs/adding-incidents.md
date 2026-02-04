@@ -9,6 +9,8 @@ Step-by-step guide for adding new incidents to the site.
 ### A. Check Not-Use List
 Check `dev-docs/not_use.md` to see if the story was already evaluated and rejected. This prevents re-adding stories that don't fit the project scope.
 
+**If a not_use story later becomes an incident:** Remove the entry from `not_use.md` entirely. Don't mark it or leave a stub — the incident file itself is the record. The search index will pick it up in the CURRENT section on next commit.
+
 ### B. Check for Existing Incident Files
 Search existing incident files in `docs/incidents/` to ensure the incident isn't already documented:
 

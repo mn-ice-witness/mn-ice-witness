@@ -15,13 +15,14 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (181 incidents)
+## CURRENT (184 incidents)
 
 Published incidents visible on the main site.
 
 - incidents/2026-02/03/2026-02-03-observers-detained-gunpoint-midtown-phillips.md | 2026-02-03 | Minneapolis | observers | Observers Detained at Gunpoint in Midtown Phillips
 - incidents/2026-02/01/2026-02-01-jose-lozano-worthington.md | 2026-02-01 | Worthington | citizens | Jose Lozano Detained Despite Valid Asylum Permit in Worthington
 - incidents/2026-02/01/2026-02-01-powderhorn-rec-center-observer-arrested.md | 2026-02-01 | Minneapolis | observers | Observer Arrested, Concussion Grenades Deployed at Powderhorn Rec Center
+- incidents/2026-02/01/2026-02-01-fareh-home-surrounded-rochester.md | 2026-02-01 | Rochester | citizens | Citizen Check: ICE Agents Surround U.S. Citizen Family Home in Rochester
 - incidents/2026-01/31/2026-01-31-rochester-government-center-citizen-detained.md | 2026-01-31 | Rochester | citizens | U.S. Citizen Detained at Olmsted County Government Center, Released After Identity Verified
 - incidents/2026-01/30/2026-01-30-dhs-response-racial-profiling-false.md | 2026-01-30 | Minneapolis | response | DHS Response: Racial Profiling Allegations Are "Disgusting, Reckless and Categorically FALSE"
 - incidents/2026-01/30/2026-01-30-richfield-middle-school-bus-route.md | 2026-01-30 | Richfield | schools-hospitals | Federal Agents Present on Richfield Middle School Bus Route
@@ -35,6 +36,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/29/2026-01-29-columbia-heights-jessica-father-detained.md | 2026-01-29 | Columbia Heights | immigrants | Woman Grabbed While Warming Car; Father Detained as "Original Target"
 - incidents/2026-01/28/2026-01-28-thao-xiong-hallie-brown-food-shelf.md | 2026-01-28 | St. Paul | immigrants | Food Shelf Volunteer Thao Xiong Detained at Hallie Q. Brown Community Center
 - incidents/2026-01/28/2026-01-28-preschool-tear-gas.md | 2026-01-28 | Minneapolis | schools-hospitals | ICE Agents Deploy Tear Gas Outside Minneapolis Preschool
+- incidents/2026-01/28/2026-01-28-suburban-observers-pursued-highway.md | 2026-01-28 | Minneapolis suburbs | observers | ICE Observers Pursued in 20-Minute Highway Chase in Northern Suburbs
 - incidents/2026-01/27/2026-01-27-luis-martinez-facial-recognition.md | 2026-01-27 | Minneapolis | citizens | U.S. Citizen Luis Martinez Subjected to Facial Recognition Scan
 - incidents/2026-01/27/2026-01-27-raise-voice-erase-voice.md | 2026-01-27 | Minneapolis | observers | ICE Agent Tells Legal Observer "You Raise Your Voice, I Erase Your Voice"
 - incidents/2026-01/27/2026-01-27-northeast-mpls-jenny-family-separated.md | 2026-01-27 | Minneapolis | immigrants | "I Was Yelling at Them to Take Me With Him": Mother Holds Daughter as Husband Detained in Northeast Minneapolis
@@ -81,6 +83,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/16/2026-01-16-nevada-avenue-12-year-old-deported.md | 2026-01-16 | St. Paul | immigrants | Venezuelan Family Detained, Including 12-Year-Old Sent to Texas
 - incidents/2026-01/16/2026-01-16-newsguild-member-el-paso.md | 2026-01-16 | Minneapolis | immigrants | NewsGuild Union Member Detained and Transferred to Texas
 - incidents/2026-01/16/2026-01-16-owatonna-15-year-old-pepper-sprayed.md | 2026-01-16 | Owatonna | observers | 15-Year-Old Girl Pepper Sprayed While Observing ICE Operation
+- incidents/2026-01/15/2026-01-15-mohammed-hoque-msu-mankato.md | 2026-01-15 | Mankato | citizens | MSU Mankato Student Mohammed Hoque Detained by ICE a Second Time
 - incidents/2026-01/15/2026-01-15-el-tapatio-willmar.md | 2026-01-15 | Willmar | immigrants | ICE Agents Dine at El Tapatio, Then Return to Detain Workers
 - incidents/2026-01/15/2026-01-15-porter-wrong-address-raid.md | 2026-01-15 | Minneapolis | citizens | Federal Agents Execute Search Warrant at Wrong Address; U.S. Citizen Mistakenly Arrested
 - incidents/2026-01/15/2026-01-15-mercado-central-mother-children.md | 2026-01-15 | Minneapolis | immigrants | Mother Arrested Near Mercado Central; Two Children Left Behind
@@ -203,7 +206,7 @@ Published incidents visible on the main site.
 
 ---
 
-## NO-ADD (124 entries)
+## NO-ADD (123 entries)
 
 Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 
@@ -302,7 +305,6 @@ Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 - dev-docs/not_use.md | Jan 29 | 8½ Street NW Rochester Attempted Arrest
 - dev-docs/not_use.md | Jan 16 | Virginia/Cazadores Restaurant ICE Arrest
 - dev-docs/not_use.md | Jan 2026 | St. Cloud "14 Criminals Arrested" DHS Claims
-- dev-docs/not_use.md | Late Jan 2026 | MSU Mankato Student Detained
 - dev-docs/not_use.md | Jan 10 | Heather Lane Rooftop Workers Mankato
 - dev-docs/not_use.md | Jan 16 & Jan 22, 2026 | Winona Two Hmong Men Arrested
 - dev-docs/not_use.md | Jan 28, 2026 | Abdirahman Hassan Yusuf Grand Forks ND
@@ -322,13 +324,13 @@ Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 - dev-docs/not_use.md | Feb 2 | Federal Court Denies MN/Mpls/St. Paul Injunction
 - dev-docs/not_use.md | Feb 2026 | 8 More Federal Prosecutors Resign
 - dev-docs/not_use.md | Feb 1 | Rogers Hampton Inn Protest
-- dev-docs/not_use.md | Feb 3 | Midtown Phillips Observers Detained
 - dev-docs/not_use.md | Feb 3 | Vernon Ave Edina Nannies
 - dev-docs/not_use.md | Feb 2-3 | Target HQ Protest
 - dev-docs/not_use.md | Feb 2026 | El Tapatio Willmar Reopening
+- dev-docs/not_use.md | Feb 4 | Tom Homan 700-Agent Drawdown Announcement
+- dev-docs/not_use.md | Feb 3-4 | Venezuelan Men Re-Detained at Courthouse
 - dev-docs/not_use.md | Dec 13, 2025 | Loc Vinh Truong Rochester
 - dev-docs/not_use.md | Dec 13-14, 2025 | Willmar December 13-14 HSI Arrests
-- dev-docs/not_use.md | Nov 11, 2025 | Adán Núñez Gonzalez Northfield
 - dev-docs/not_use.md | n/a | ICE Raids Two Hibbing Mexican Restaurants
 - dev-docs/not_use.md | n/a | Federal Agents Raid St. Paul Roofing Crew
 

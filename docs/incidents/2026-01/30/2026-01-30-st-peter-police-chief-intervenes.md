@@ -9,13 +9,16 @@ affected_individual_citizenship: us-citizen
 injuries: none
 trustworthiness: high
 created: 2026-01-31T11:05:22
-last_updated: 2026-02-02T10:30:00
+last_updated: 2026-02-04T16:22:55
 ---
 
 # St. Peter Police Chief Retrieves U.S. Citizen From ICE Custody Mid-Transport
 
+## Updates
+- **Feb 1** - City of St. Peter [officially denies](https://www.npr.org/2026/02/01/nx-s1-5695217/minnesota-woman-says-local-police-freed-her-from-immigration-agents-custody) police department involvement, stating it "did not participate in, coordinate with or intervene in any federal enforcement activity." This contradicts Chief Grochow's earlier confirmation to MPR News that he received the woman and drove her home.
+
 ## Summary
-In the first known instance of local police retrieving someone from ICE custody during Operation Metro Surge, St. Peter Police Chief Matt Grochow secured the release of a U.S. citizen woman who had been detained while recording ICE agents. The woman was dragged from her car, handcuffed, and placed in an ICE vehicle heading toward the Twin Cities federal detention facility. Approximately 20 minutes into the transport, after her husband contacted Chief Grochow, ICE agents turned around and returned her to the St. Peter police station.
+A U.S. citizen woman was detained by ICE agents while recording them near Jefferson Park in St. Peter. She was dragged from her car, handcuffed, and placed in an ICE vehicle heading toward the Twin Cities federal detention facility. Initially widely reported as the first instance of local police retrieving someone from ICE custody, Chief Matt Grochow confirmed to MPR News that ICE returned the woman to the police station and he personally drove her home. However, the City of St. Peter subsequently issued a statement denying that the police department participated in or intervened in any federal enforcement activity.
 
 ## Sources
 1. NPR (Feb 1, 2026): [Minnesota woman says local police freed her from immigration agents' custody](https://www.npr.org/2026/02/01/nx-s1-5695217/minnesota-woman-says-local-police-freed-her-from-immigration-agents-custody)
@@ -34,15 +37,16 @@ In the first known instance of local police retrieving someone from ICE custody 
 - Chief Grochow contacted ICE and secured her release
 - Approximately 20 minutes into the transport, ICE turned around and returned her to the St. Peter police station
 - The chief told her husband: "I got her. I'm bringing her home."
-- The woman requested anonymity; the city later officially denied involvement
+- The woman requested anonymity
+- The City of St. Peter later issued a statement denying the police department "participated in, coordinated with or intervened in any federal enforcement activity"
 
 ## Context
 Data from the St. Peter Police Department shows there have been 8-10 incidents where local law enforcement made contact with federal agents, including times local officers acted as observers of ICE operations.
 
-This incident is significant as the first documented case of local police successfully retrieving a person from ICE custody during Operation Metro Surge. It follows similar confrontations between ICE and observers/local officials, including a Brooklyn Park police officer who was stopped by ICE agents at gunpoint and asked for immigration papers despite being a U.S. citizen.
+**Note on disputed narrative:** This incident was initially reported as the first documented case of local police successfully retrieving a person from ICE custody during Operation Metro Surge. Chief Grochow confirmed to MPR News that "ICE returned the female to our police department, I saw her, and I gave her a ride home." However, the city's formal statement denies departmental involvement. The distinction may be that the chief personally assisted after ICE returned the woman, rather than the department formally intervening to secure her release.
 
 ## Related Incidents
 - [Brooklyn Park Officer Citizenship Check](#2026-01-20-brooklyn-park-officer-citizen-check) - Off-duty officer stopped by ICE at gunpoint, asked for papers
 
 ## Editorial Assessment
-**HIGH** - Multiple sources including NPR with detailed account. Documents unprecedented action: local police chief securing release of a U.S. citizen who had already been detained and was being transported to federal custody. Named police chief, corroborated by multiple local sources.
+**HIGH** - Multiple sources including NPR with detailed account. Named police chief confirmed key details to MPR News. However, the city's formal denial creates a disputed narrative about the extent of police intervention. The core facts — that a U.S. citizen was detained while recording ICE, transported toward federal custody, and ultimately returned to St. Peter — are not in dispute.

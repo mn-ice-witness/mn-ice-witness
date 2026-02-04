@@ -9,10 +9,13 @@ affected_individual_citizenship: asylum-seeker
 injuries: none
 trustworthiness: high
 created: 2026-02-02T20:53:54
-last_updated: 2026-02-02T20:53:54
+last_updated: 2026-02-04T16:19:46
 ---
 
 # Jose Lozano Detained Despite Valid Asylum Permit in Worthington
+
+## Updates
+- **Feb 3** - Family reports Lozano [slated to be released](https://www.dglobe.com/news/local/ice-detains-worthington-man-with-permit-to-be-in-u-s) from detention on Tuesday. GoFundMe raised over $11,600 of $13,000 goal for legal costs.
 
 ## Summary
 Jose Lozano, 28, was detained by ICE while jumpstarting his minivan outside his Worthington home. Lozano held a valid temporary permit allowing him to remain in the U.S. for five years while his asylum case processes, with three years of authorization still remaining. When he attempted to retrieve his wallet to show documentation, agents prevented him from doing so. An immigration attorney intervened within 30 minutes to stop his transfer to Texas.
