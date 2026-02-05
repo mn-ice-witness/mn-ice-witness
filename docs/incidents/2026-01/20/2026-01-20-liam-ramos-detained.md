@@ -9,7 +9,7 @@ affected_individual_citizenship: asylum-seeker
 injuries: none
 trustworthiness: high
 created: 2026-01-22T12:00:00
-last_updated: 2026-02-05T14:49:05
+last_updated: 2026-02-04T16:19:46
 ---
 
 # Five-Year-Old Liam Ramos Detained in Driveway, Allegedly Used as "Bait"
