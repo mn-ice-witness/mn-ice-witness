@@ -255,11 +255,11 @@ const Timeline = {
             const inc = day.incidents[i];
             const slug = App.getIncidentId(inc);
             const tag = this.getCategoryTag(inc);
-            const hiddenClass = i >= 3 ? ' tl-day-hidden' : '';
+            const hiddenClass = i >= 6 ? ' tl-day-hidden' : '';
             titlesHTML += `<div class="tl-day-incident${hiddenClass}" data-incident-slug="${slug}"><span class="tl-cat-tag">${tag}:</span> ${inc.title}</div>`;
         }
-        if (day.incidents.length > 3) {
-            titlesHTML += `<div class="tl-day-more">+ ${day.incidents.length - 3} more</div>`;
+        if (day.incidents.length > 6) {
+            titlesHTML += `<div class="tl-day-more">+ ${day.incidents.length - 6} more</div>`;
         }
 
         return `
