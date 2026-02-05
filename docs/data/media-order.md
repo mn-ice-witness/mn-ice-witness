@@ -8,6 +8,7 @@
 
 
 
+
 juan-carlos-brutality
 aliya-rahman-car-window-hospitalized
 speedway-st-paul
@@ -105,3 +106,4 @@ thi-dua-vang-st-paul
 observers-detained-gunpoint-midtown-phillips
 fareh-home-surrounded-rochester
 suburban-observers-pursued-highway
+mohammed-hoque-msu-mankato

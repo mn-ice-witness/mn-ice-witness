@@ -89,37 +89,6 @@
       "mediaVersion": null
     },
     {
-      "filePath": "incidents/2026-01/30/2026-01-30-st-peter-police-chief-intervenes.md",
-      "title": "St. Peter Police Chief Retrieves U.S. Citizen From ICE Custody Mid-Transport",
-      "summary": "A U.S. citizen woman was detained by ICE agents while recording them near Jefferson Park in St. Peter. She was dragged from her car, handcuffed, and placed in an ICE vehicle heading toward the Twin Cities federal detention facility. Initially widely reported as the first instance of local police retrieving someone from ICE custody, Chief Matt Grochow confirmed to MPR News that ICE returned the woman to the police station and he personally drove her home. However, the City of St. Peter subsequently issued a statement denying that the police department participated in or intervened in any federal enforcement activity.",
-      "latestUpdate": "City of St. Peter [officially denies](https://www.npr.org/2026/02/01/nx-s1-5695217/minnesota-woman-says-local-police-freed-her-from-immigration-agents-custody) police department involvement, stating it \"did not participate in, coordinate with or intervene in any federal enforcement activity.\" This contradicts Chief Grochow's earlier confirmation to MPR News that he received the woman and drove her home.",
-      "date": "2026-01-30",
-      "time": "unknown",
-      "location": "Jefferson Park, St. Peter",
-      "city": "St. Peter",
-      "type": "citizens",
-      "status": "resolved",
-      "affectedIndividualCitizenship": "us-citizen",
-      "injuries": "none",
-      "trustworthiness": "high",
-      "created": "2026-01-31T11:05:22",
-      "lastUpdated": "2026-02-04T16:22:55",
-      "mediaCount": 0,
-      "notable": false,
-      "hasLocalMedia": true,
-      "localMediaType": "video",
-      "localMediaPath": "media/2026-01/30/2026-01-30-st-peter-police-chief-intervenes.mp4",
-      "localMediaOgPath": "media/2026-01/30/2026-01-30-st-peter-police-chief-intervenes-og-custom-1769890628.jpg",
-      "localMediaFiles": [
-        {
-          "type": "video",
-          "path": "media/2026-01/30/2026-01-30-st-peter-police-chief-intervenes.mp4"
-        }
-      ],
-      "aspectRatio": 1.8222222222222222,
-      "mediaVersion": 1769912968
-    },
-    {
       "filePath": "incidents/2026-01/29/2026-01-29-columbia-heights-hs-students-harassed.md",
       "title": "Columbia Heights High School Students Harassed by ICE Agents",
       "summary": "Three Columbia Heights High School students had their cars surrounded by ICE vehicles while lawfully driving to school on the morning of January 29. One 16-year-old student was forced to show their passport to masked federal agents. Another student called the school principal in fear, leaving a voicemail saying agents were \"looming around the high school.\" Superintendent Zena Stenvik reported ICE agents were parked behind the high school in a park and circling schools that morning.",
@@ -439,13 +408,18 @@
       "lastUpdated": "2026-02-04T16:11:03",
       "mediaCount": 0,
       "notable": false,
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
-      "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
+      "hasLocalMedia": true,
+      "localMediaType": "video",
+      "localMediaPath": "media/2026-01/15/2026-01-15-mohammed-hoque-msu-mankato.mp4",
+      "localMediaOgPath": "media/2026-01/15/2026-01-15-mohammed-hoque-msu-mankato-og-2s-1770256127.jpg",
+      "localMediaFiles": [
+        {
+          "type": "video",
+          "path": "media/2026-01/15/2026-01-15-mohammed-hoque-msu-mankato.mp4"
+        }
+      ],
+      "aspectRatio": 1.8194444444444444,
+      "mediaVersion": 1770256127
     },
     {
       "filePath": "incidents/2026-01/15/2026-01-15-porter-wrong-address-raid.md",

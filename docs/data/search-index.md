@@ -26,7 +26,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/31/2026-01-31-rochester-government-center-citizen-detained.md | 2026-01-31 | Rochester | citizens | U.S. Citizen Detained at Olmsted County Government Center, Released After Identity Verified
 - incidents/2026-01/30/2026-01-30-dhs-response-racial-profiling-false.md | 2026-01-30 | Minneapolis | response | DHS Response: Racial Profiling Allegations Are "Disgusting, Reckless and Categorically FALSE"
 - incidents/2026-01/30/2026-01-30-richfield-middle-school-bus-route.md | 2026-01-30 | Richfield | schools-hospitals | Federal Agents Present on Richfield Middle School Bus Route
-- incidents/2026-01/30/2026-01-30-st-peter-police-chief-intervenes.md | 2026-01-30 | St. Peter | citizens | St. Peter Police Chief Retrieves U.S. Citizen From ICE Custody Mid-Transport
+- incidents/2026-01/30/2026-01-30-st-peter-police-chief-intervenes.md | 2026-01-30 | St. Peter | observers | St. Peter Police Chief Retrieves U.S. Citizen From ICE Custody Mid-Transport
 - incidents/2026-01/29/2026-01-29-columbia-heights-hs-students-harassed.md | 2026-01-29 | Columbia Heights | citizens, schools-hospitals | Columbia Heights High School Students Harassed by ICE Agents
 - incidents/2026-01/29/2026-01-29-valley-view-mother-checkin-detained.md | 2026-01-29 | Columbia Heights | immigrants | Asylum-Seeking Mother Detained at Check-In; Principal Brings Her Children to Whipple
 - incidents/2026-01/29/2026-01-29-noem-best-information-defense.md | 2026-01-29 | Minneapolis | response | Noem Defends "Domestic Terrorist" Claim: "Best Information We Had at the Time"
