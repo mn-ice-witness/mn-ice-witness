@@ -106,13 +106,18 @@
       "lastUpdated": "2026-02-05T09:12:00",
       "mediaCount": 0,
       "notable": false,
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
-      "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
+      "hasLocalMedia": true,
+      "localMediaType": "video",
+      "localMediaPath": "media/2026-01/30/2026-01-30-natifs-employee-detained.mp4",
+      "localMediaOgPath": "media/2026-01/30/2026-01-30-natifs-employee-detained-og-2s-1770305180.jpg",
+      "localMediaFiles": [
+        {
+          "type": "video",
+          "path": "media/2026-01/30/2026-01-30-natifs-employee-detained.mp4"
+        }
+      ],
+      "aspectRatio": 0.6138888888888889,
+      "mediaVersion": 1770305180
     },
     {
       "filePath": "incidents/2026-01/29/2026-01-29-columbia-heights-hs-students-harassed.md",

@@ -21,7 +21,7 @@ An employee at NATIFS (North American Traditional Indigenous Food Systems), the 
 
 ## Sources
 1. Bring Me The News (Feb 2, 2026): [Chef Sean Sherman says federal agents took one of his employees, flew him to Texas](https://bringmethenews.com/minnesota-news/chef-sean-sherman-says-federal-agents-took-one-of-his-employees-flew-him-to-texas)
-2. Mother Jones (Feb 2026): Interview with Sean Sherman (referenced in BMTN article)
+2. Mother Jones (Feb 2026): [Video - Sean Sherman interview](https://www.youtube.com/watch?v=b9RndgmcpPs)
 
 ## Affected Individual(s)
 - **Citizenship:** Ecuadorian national
