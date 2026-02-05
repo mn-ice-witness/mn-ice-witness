@@ -81,7 +81,7 @@ The Hopkins community established the #HopkinsStrong Relief Fund with a goal of 
 
 ## Related Incidents
 - [2-Year-Old and Father Detained Near Powderhorn; Flown to Texas Despite Court Order](#2026-01-22-tipan-toddler-father-detained)
-- [Four Columbia Heights Students Detained by ICE, Including 5-Year-Old Sent to Texas](#2026-01-20-columbia-heights-4-students-detained)
+- [Five-Year-Old Liam Ramos Detained in Driveway, Allegedly Used as "Bait"](#2026-01-20-liam-ramos-detained)
 
 ## Context
 This detention occurred on the same day as the Tipan family detention, where a 2-year-old was flown to Texas despite a court order. Both cases involve ICE transporting families to Texas in violation of or shortly after federal court orders, raising questions about the agency's compliance with judicial oversight.

@@ -28,7 +28,7 @@ At a press conference in Minneapolis on January 23, 2026, Border Patrol Commande
 
 ## Related Incidents
 
-- [Four Columbia Heights Students Detained by ICE, Including 5-Year-Old Sent to Texas](#2026-01-20-columbia-heights-4-students-detained)
+- [Five-Year-Old Liam Ramos Detained in Driveway, Allegedly Used as "Bait"](#2026-01-20-liam-ramos-detained)
 - [2-Year-Old and Father Detained Near Powderhorn; Flown to Texas Despite Court Order](#2026-01-22-tipan-toddler-father-detained)
 - [DHS Response: "Child Was ABANDONED," Father "Fled on Foot"](#2026-01-21-dhs-response-5-year-old-bait)
 - [Vice President Vance Defends 5-Year-Old's Detention: "What Are They Supposed to Do?"](#2026-01-23-vance-response-5-year-old-detention)

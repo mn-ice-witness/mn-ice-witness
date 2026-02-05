@@ -24,7 +24,7 @@ DHS posted on X responding to reports that ICE agents used a 5-year-old child as
 
 ## Related Incidents
 
-- [Four Columbia Heights Students Detained by ICE, Including 5-Year-Old Sent to Texas](#2026-01-20-columbia-heights-4-students-detained).
+- [Five-Year-Old Liam Ramos Detained in Driveway, Allegedly Used as "Bait"](#2026-01-20-liam-ramos-detained)
 - [Bovino: "We Are Experts in Dealing With Children"](#2026-01-23-bovino-experts-dealing-children).
 - [Vice President Vance Defends 5-Year-Old's Detention: "What Are They Supposed to Do?"](#2026-01-23-vance-response-5-year-old-detention).
 
