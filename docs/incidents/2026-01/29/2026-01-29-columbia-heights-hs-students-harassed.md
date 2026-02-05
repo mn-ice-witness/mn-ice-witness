@@ -22,7 +22,7 @@ Three Columbia Heights High School students had their cars surrounded by ICE veh
 
 ## Related Incidents
 
-- [Columbia Heights Students Detained Including 5-Year-Old](#2026-01-20-columbia-heights-4-students-detained)
+- [Five-Year-Old Liam Ramos Detained in Driveway](#2026-01-20-liam-ramos-detained)
 - [Valley View Mother Detained at Check-In](#2026-01-29-valley-view-mother-checkin-detained)
 
 ## Affected Individual(s)

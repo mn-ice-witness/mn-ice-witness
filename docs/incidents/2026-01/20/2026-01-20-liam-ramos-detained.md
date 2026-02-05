@@ -1,30 +1,27 @@
 ---
 date: 2026-01-20
-time: morning and afternoon
-location: Columbia Heights Public School District
+time: afternoon
+location: Family driveway, Columbia Heights
 city: Columbia Heights
-type: schools-hospitals
+type: schools-hospitals, immigrants
 status: resolved
 affected_individual_citizenship: asylum-seeker
 injuries: none
 trustworthiness: high
 created: 2026-01-22T12:00:00
-last_updated: 2026-02-04T16:19:46
+last_updated: 2026-02-05T14:49:05
 ---
 
-# Four Columbia Heights Students Detained by ICE, Including 5-Year-Old Sent to Texas
+# Five-Year-Old Liam Ramos Detained in Driveway, Allegedly Used as "Bait"
 
 ## Updates
-- **Feb 4** - [Elizabeth Zuna Caisaguano and her mother released](https://sahanjournal.com/education/columbia-heights-fourth-grader-held-by-ice/) from Dilley detention center late Tuesday evening after nearly one month in custody. Three Columbia Heights students remain in federal custody.
-- **Feb 3** - Superintendent Stenvik reveals [at least 23 parents at Valley View Elementary alone](https://www.mprnews.org/story/2026/02/03/columbia-heights-superintendent-zena-stenvik-23-parents-detained-by-ice-at-one-school) have been detained by ICE. A third of students absent on one recent day.
-- **Feb 3** - [11-year-old Elizabeth Zuna Caisaguano remains in ICE detention](https://www.mprnews.org/story/2026/02/03/columbia-heights-girl-11-remains-in-ice-detention-in-texas-during-measles-outbreak) in Texas during a measles outbreak at the Dilley facility. Gov. Walz [demands DHS stop detaining Minnesota children](https://www.startribune.com/walz-demands-dhs-stop-detaining-minnesota-children/601575923).
 - **Feb 1** - [Liam and his father returned home](https://www.cbsnews.com/news/liam-conejo-ramos-released-ice-custody/) to Minneapolis after being released from the Dilley, Texas detention center. Rep. Joaquin Castro escorted them on the flight home.
 - **Jan 31** - [Federal judge orders release](https://www.sacurrent.com/news/texas-news/federal-judge-orders-release-of-liam-ramos/) of Liam and his father by Tuesday. Judge Fred Biery accused the government of "ill-conceived and incompetently implemented pursuit of daily deportation quotas."
 - **Jan 28** - Liam is [sick with a fever](https://www.huffpost.com/entry/liam-conejo-ramos-sick-ice-detention_n_696fd209e4b0559a85915488) at the Dilley, Texas detention facility. Valley View Elementary principal [got emotional](https://www.cbsnews.com/news/liam-ramos-5-year-old-minneapolis-valley-view-principal-emotional-ice-detention/) describing how his friends "notice that he's not here." School reports 24 families at Valley View have had parents detained.
 - **Jan 27** - [Federal judge issues temporary restraining order](https://www.mprnews.org/story/2026/01/27/judge-issues-temporary-order-barring-removal-of-5-year-old-detained) barring removal of Liam Conejo Ramos and his father Adrian Alexander Conejo Arias.
 
 ## Summary
-Four students from Columbia Heights Public School District have been detained by ICE, including a 5-year-old kindergartner and a 10-year-old fourth grader who are now held in a Texas detention center with their parents. Superintendent Zena Stenvik held an emotional press conference on January 22, 2026, asking "Why detain a 5-year-old? You can't tell me that this child is going to be classified as a violent criminal."
+Liam Conejo Ramos, a 5-year-old kindergartner, was detained by ICE with his father in their family driveway after arriving home from school on January 20, 2026. School officials allege agents used the child as "bait"—instructing him to knock on the front door to see if anyone else was home. Superintendent Zena Stenvik held an emotional press conference asking, "Why detain a 5-year-old? You can't tell me that this child is going to be classified as a violent criminal." Liam and his father were flown to the Dilley detention center in Texas, where they spent 12 days before a federal judge ordered their release.
 
 ## Sources
 1. CBS Minnesota (Jan 22, 2026): [ICE has arrested four children in same Minnesota school district](https://www.cbsnews.com/minnesota/news/minnesota-school-children-ice-arrests-columbia-heights/)
@@ -46,53 +43,43 @@ Four students from Columbia Heights Public School District have been detained by
 17. Fox 9 (Feb 1, 2026): [Liam is home: 5-year-old boy and his father back in Minnesota](https://www.fox9.com/news/liam-is-home-5-year-old-boy-his-father-back-minnesota-feb-1)
 18. MPR News (Feb 1, 2026): [Liam Conejo Ramos, 5, returned to Minnesota following judge's order](https://www.mprnews.org/story/2026/02/01/liam-conejo-ramos-5-returned-to-minnesota-following-judges-order)
 19. ABC News (Feb 1, 2026): [5-year-old Liam Conejo Ramos, father board plane to return to Minneapolis](https://abcnews.go.com/US/5-year-liam-conejo-ramos-father-board-plane/story?id=129749784)
-20. MPR News (Feb 3, 2026): [Columbia Heights girl, 11, remains in ICE detention in Texas during measles outbreak](https://www.mprnews.org/story/2026/02/03/columbia-heights-girl-11-remains-in-ice-detention-in-texas-during-measles-outbreak)
-21. Star Tribune (Feb 3, 2026): [Walz demands DHS stop detaining Minnesota children](https://www.startribune.com/walz-demands-dhs-stop-detaining-minnesota-children/601575923)
-22. MPR News (Feb 3, 2026): [Columbia Heights superintendent: At one school, ICE has detained at least 23 parents](https://www.mprnews.org/story/2026/02/03/columbia-heights-superintendent-zena-stenvik-23-parents-detained-by-ice-at-one-school)
-23. Sahan Journal (Feb 4, 2026): [Columbia Heights fourth-grader and her mother released from ICE detention](https://sahanjournal.com/education/columbia-heights-fourth-grader-held-by-ice/)
-24. CBS News (Feb 4, 2026): [Feds releasing Elizabeth Zuna, 4th-grader from same school district as Liam Ramos](https://www.cbsnews.com/news/elizabeth-zuna-release-liam-ramos-same-school-district/)
 
 ## Related Incidents
-
-- [DHS Response: "Child Was ABANDONED," Father "Fled on Foot"](#2026-01-21-dhs-response-5-year-old-bait).
-- [Bovino: "We Are Experts in Dealing With Children"](#2026-01-23-bovino-experts-dealing-children).
-- [Vice President Vance Defends 5-Year-Old's Detention: "What Are They Supposed to Do?"](#2026-01-23-vance-response-5-year-old-detention).
+- [DHS Response: "Child Was ABANDONED," Father "Fled on Foot"](#2026-01-21-dhs-response-5-year-old-bait)
+- [Bovino: "We Are Experts in Dealing With Children"](#2026-01-23-bovino-experts-dealing-children)
+- [Vice President Vance Defends 5-Year-Old's Detention: "What Are They Supposed to Do?"](#2026-01-23-vance-response-5-year-old-detention)
+- [Ten-Year-Old Elizabeth Caisaguano Detained with Mother](#2026-01-06-elizabeth-caisaguano-detained) - Same school district, detained two weeks earlier.
 
 ## Affected Individual(s)
 
-### Liam Ramos (5 years old)
-- **Grade:** Kindergarten/preschool
+### Liam Conejo Ramos (5 years old)
+- **Grade:** Kindergarten at Valley View Elementary
 - **Date detained:** January 20, 2026 (afternoon)
 - **Location:** Family driveway after arriving home from school
-- **Circumstances:** Taken with his father. School officials say the child was used as "bait" to knock on the door, letting officers see if anyone else was home.
-- **Current status:** Released February 1, 2026; returned home to Minneapolis
+- **Circumstances:** School officials allege agents used Liam as "bait," instructing him to knock on the front door to see if anyone else was home.
 - **Legal status:** Family following U.S. legal parameters with active asylum case; no deportation order
+- **Current status:** Released February 1, 2026; returned home to Minneapolis
 
-### Elizabeth Zuna Caisaguano (11 years old)
-- **Grade:** Fourth grade
-- **Date detained:** Approximately January 6-7, 2026 (two weeks before press conference)
-- **Location:** On the way to elementary school with her mother
-- **Circumstances:** During the arrest, the child called her father to tell him ICE agents were bringing her to school. The father came to the school to find both his daughter and wife had been taken.
-- **Current status:** Released February 3, 2026 (evening) with her mother from Dilley detention center after nearly one month; habeas corpus petition filed February 2 led to Judge Biery ordering they cannot be deported while case proceeds
+### Adrian Alexander Conejo Arias (father)
+- **Date detained:** January 20, 2026 (afternoon)
+- **Circumstances:** Detained with Liam in the family driveway.
+- **Current status:** Released February 1, 2026
 
-### 17-year-old boy (name not released)
+### 17-year-old boy (same morning)
 - **Date detained:** January 20, 2026 (morning)
 - **Location:** On his way to school
-- **Circumstances:** Removed from his car and taken away
-
-### Fourth student
-- Details not released
+- **Circumstances:** Removed from his car and taken away.
+- **Status:** Unknown
 
 ## Timeline
-- **~January 6-7, 2026** - 10-year-old fourth grader detained with mother on way to school; both transported to Texas
-- **January 20, 2026 (morning)** - 17-year-old boy detained from car on way to school
-- **January 20, 2026 (afternoon)** - 5-year-old Liam Ramos detained with father in driveway
-- **January 22, 2026** - Superintendent Zena Stenvik holds press conference
-- **January 27, 2026** - Judge Fred Biery issues temporary restraining order barring removal of Liam and his father
-- **January 31, 2026** - Judge Biery orders release of Liam and his father by Tuesday (Feb 4)
-- **February 1, 2026** - Liam and his father released from Dilley detention center, returned home to Minneapolis
-- **February 3, 2026** - Supt. Stenvik reveals at least 23 parents at Valley View Elementary detained; measles outbreak at Dilley facility; Gov. Walz demands DHS stop detaining Minnesota children
-- **February 3, 2026 (evening)** - Elizabeth Zuna Caisaguano and her mother released from Dilley after habeas corpus petition
+- **January 20, 2026 (morning)** - A 17-year-old Columbia Heights student detained from his car on the way to school.
+- **January 20, 2026 (afternoon)** - Liam Conejo Ramos and his father Adrian detained in their driveway after arriving home from school. School officials allege agents used Liam to knock on the door as "bait."
+- **January 21, 2026** - Story breaks. Attorney says agents used 5-year-old as "bait."
+- **January 22, 2026** - Superintendent Zena Stenvik holds press conference disclosing four students detained.
+- **January 27, 2026** - Judge Fred Biery issues temporary restraining order barring removal of Liam and his father.
+- **January 28, 2026** - Liam is sick with a fever at Dilley detention facility.
+- **January 31, 2026** - Judge Biery orders release of Liam and his father by Tuesday, accusing government of "ill-conceived and incompetently implemented pursuit of daily deportation quotas."
+- **February 1, 2026** - Liam and his father released from Dilley. Rep. Joaquin Castro escorts them on flight home to Minneapolis.
 
 ## Official Accounts
 
@@ -102,14 +89,27 @@ Four students from Columbia Heights Public School District have been detained by
 School officials reported that ICE agents have:
 - Detained students traveling to and from school.
 - Attempted to access school property.
+- Used a child as "bait" by having him knock on the door during the arrest.
 
 A photo provided by school officials shows an ICE agent holding a child's backpack during a detention.
 
-### District Response
-Columbia Heights Public Schools shifted to a Flex Learning Day "out of an abundance of caution," with students staying home and attending school on their devices.
+### Columbia Heights School Board Chair Mary Granlund
+Offered to personally take Liam back to school until his mother could retrieve him. This offer was refused.
+
+### Judge Fred Biery (U.S. District Court)
+> "[This case] has its genesis in the ill-conceived and incompetently implemented government pursuit of daily deportation quotas, apparently even if it requires traumatizing children."
+
+## DHS Response
+DHS claimed the father "fled on foot—abandoning his child" when agents approached.
+
+**Disputed by school officials:** Superintendent Stenvik provided a different account: ICE agents took the child from the vehicle and led him to the front door, instructing him to knock to see if anyone else was home. In this account, ICE had custody of the child before any flight occurred.
+
+See [DHS Response: "Child Was ABANDONED," Father "Fled on Foot"](#2026-01-21-dhs-response-5-year-old-bait) for the full federal response and fact-check.
 
 ## Context
-This incident is part of "Operation Metro Surge," a surge of federal immigration enforcement in the Twin Cities. Reports indicate ICE has been active in multiple areas including circling school property waiting for families to pick up their children.
+Liam's detention drew international attention after his photo went viral. His case became a flashpoint in the debate over the Trump administration's immigration enforcement tactics. The same morning Liam was detained, a 17-year-old Columbia Heights student was also taken from his car on the way to school.
+
+Columbia Heights Public Schools reported that by early February, at least 23 parents at Valley View Elementary alone had been detained by ICE, with one-third of students absent on some days. The district shifted to a Flex Learning Day "out of an abundance of caution."
 
 ## Editorial Assessment
-**HIGH** - Superintendent press conference reported by multiple news outlets (CBS Minnesota, Sahan Journal). School district provided photo evidence. Named affected individual (Liam Ramos) with specific details about detention circumstances and family's legal status (active asylum case).
+**HIGH** - International news coverage (NYT, WaPo, Al Jazeera, NBC, ABC, CBS, PBS). Named affected individual with specific details. Superintendent press conference with photo evidence. Federal judge's scathing order on record. Family attorney provided detailed account. Multiple witness accounts disputing DHS claims.
