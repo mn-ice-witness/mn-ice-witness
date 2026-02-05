@@ -1197,7 +1197,7 @@ body {
     display: flex;
     align-items: flex-start;
     justify-content: center;
-    padding: 16px;
+    padding: 8px;
     overflow-y: auto;
     opacity: 0;
     visibility: hidden;
@@ -1220,22 +1220,21 @@ body {
     position: relative;
     background: var(--color-surface);
     border-radius: 12px;
-    max-width: 95vw;
-    width: 100%;
-    margin: 20px auto;
+    width: calc(100vw - 16px);
+    margin: 8px auto;
     box-shadow: var(--shadow-lg);
     z-index: 1;
 }
 
 @media (min-width: 768px) {
-    .lightbox-content {
-        max-width: 900px;
+    .lightbox {
+        padding: 16px;
     }
-}
 
-@media (min-width: 1200px) {
     .lightbox-content {
+        width: calc(100vw - 32px);
         max-width: 1100px;
+        margin: 20px auto;
     }
 }
 
