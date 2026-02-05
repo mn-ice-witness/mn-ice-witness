@@ -34,6 +34,7 @@ Following two fatal shootings of U.S. citizens by federal agents, the Trump admi
 8. ABC News (Jan 27, 2026): [Kristi Noem met with Trump amid scrutiny over deadly Minneapolis ICE operations](https://abcnews.go.com/Politics/kristi-noem-met-trump-amid-scrutiny-deadly-minneapolis/story?id=129603158)
 9. Salon (Jan 27, 2026): [Border Patrol commander Gregory Bovino demoted](https://www.salon.com/2026/01/27/border-patrol-commander-gregory-bovino-demoted/)
 10. CNBC (Feb 4, 2026): [Trump admin to withdraw 700 federal officers from Minnesota](https://www.cnbc.com/2026/02/04/trump-homan-minnesota-ice-immigration.html)
+11. YouTube Video (Jan 29, 2026): [Tom Homan Minneapolis press conference](https://www.youtube.com/watch?v=UcAz0EqlaFY)
 
 ## Background
 
@@ -50,7 +51,10 @@ The administration framed the operation and draw down around two recurring theme
 ### The Cooperation Contradiction
 Homan justified the draw down by claiming "unprecedented cooperation" from local officials. Hours later, the Hennepin County Sheriff's Office contradicted him: "HCSO does not work with any agency on civil immigration enforcement. That means we do not assist with or comply with any civil immigration requests from ICE." The Sheriff's Office said their "policy has not changed."
 
-Despite the partial draw down, Homan stated a complete withdrawal would depend on "continued cooperation" and "the decrease of the violence, the rhetoric and the attacks against ICE and Border Patrol."
+### Blaming "Rhetoric" for the Chaos
+Despite two U.S. citizens being killed by federal agents and widespread community disruption, Homan deflected blame onto critics. He conditioned a complete withdrawal on "the decrease of the violence, the rhetoric and the attacks against ICE and Border Patrol," framing criticism of the operation as the problem rather than the operation's own conduct.
+
+This echoed a pattern throughout Operation Metro Surge: when federal agents shot Renee Good and Alex Pretti, when businesses closed, when schools reported drops in attendance, the administration blamed local officials' "sanctuary policies" and critics' "rhetoric" rather than acknowledging problems with the enforcement operation itself.
 
 ## Timeline
 
