@@ -156,6 +156,13 @@ def get_local_media(slug: str, media_dir: Path) -> dict:
         # Find OG image for videos (timestamp-based naming: slug-og-2s.jpg)
         if primary["type"] == "video":
             result["localMediaOgPath"] = find_og_image(slug, media_dir)
+    else:
+        # No regular media — check for standalone OG image (custom OG without video/image)
+        og_path = find_og_image(slug, media_dir)
+        if og_path:
+            result["hasLocalMedia"] = True
+            result["localMediaType"] = "image"
+            result["localMediaPath"] = og_path
 
     return result
 

@@ -54,12 +54,16 @@ const Timeline = {
             const dateMatch = fields.match(/date:\s*(\S+)/);
             const titleMatch = fields.match(/title:\s*(.+)/);
             const incidentMatch = fields.match(/incident:\s*(\S+)/);
+            const sourceMatch = fields.match(/source:\s*(\S+)/);
+            const imageMatch = fields.match(/image:\s*(\S+)/);
 
             if (dateMatch && titleMatch) {
                 moments.push({
                     date: dateMatch[1],
                     title: titleMatch[1].trim(),
                     incident: (incidentMatch && incidentMatch[1].trim()) || null,
+                    source: (sourceMatch && sourceMatch[1].trim()) || null,
+                    image: (imageMatch && imageMatch[1].trim()) || null,
                     body: body
                 });
             }
@@ -187,11 +191,31 @@ const Timeline = {
         const clickClass = moment.incident ? ' tl-moment-clickable' : '';
 
         let imgHTML = '';
-        if (moment.incident) {
-            const incident = this.findIncident(moment.incident);
-            if (incident && incident.localMediaPath && incident.localMediaType === 'image') {
-                imgHTML = `<img class="tl-moment-img" src="/${incident.localMediaPath}" alt="" loading="lazy">`;
+        if (moment.image !== 'false') {
+            let imgSrc = null;
+            // 1. Custom image from moments config
+            if (moment.image && moment.image !== 'false') {
+                imgSrc = moment.image.startsWith('/') ? moment.image : '/' + moment.image;
             }
+            // 2. OG image or primary media from incident
+            if (!imgSrc && moment.incident) {
+                const incident = this.findIncident(moment.incident);
+                if (incident) {
+                    if (incident.localMediaOgPath) {
+                        imgSrc = '/' + incident.localMediaOgPath;
+                    } else if (incident.localMediaPath && incident.localMediaType === 'image') {
+                        imgSrc = '/' + incident.localMediaPath;
+                    }
+                }
+            }
+            if (imgSrc) {
+                imgHTML = `<img class="tl-moment-img" src="${imgSrc}" alt="" loading="lazy">`;
+            }
+        }
+
+        let sourceHTML = '';
+        if (moment.source && !moment.incident) {
+            sourceHTML = `<a class="tl-moment-source" href="${moment.source}" target="_blank" rel="noopener">Source →</a>`;
         }
 
         return `
@@ -201,6 +225,7 @@ const Timeline = {
                     <div class="tl-moment-date">${dateStr}</div>
                     <h4 class="tl-moment-title">${moment.title}</h4>
                     <p class="tl-moment-desc">${moment.body}</p>
+                    ${sourceHTML}
                     ${imgHTML}
                 </div>
             </div>
