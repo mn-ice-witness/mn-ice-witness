@@ -68,8 +68,39 @@ Focus on events that provide essential context for understanding the timeline:
 2. Add a blank line, then the `---` frontmatter block
 3. If it links to an incident, use the incident filename (without `.md`) as the `incident` value
 4. If it's a standalone event (no incident file), add a `source` URL
-5. Write 1-3 sentences of description as the body — focus on what happened and why it matters
+5. Write 2-4 sentences of description as the body following the **context-first pattern** below
 6. The description should read as narrative prose, not a headline
+
+### Context-First Writing Pattern (IMPORTANT)
+
+Every moment description must start by explaining **why this event matters** — framing it as a first, escalation, turning point, or milestone. This timeline is for people outside Minnesota who want to understand the arc of the crisis. Do not assume the reader knows what came before.
+
+**Lead with significance, then describe what happened:**
+- "The first federal raid on a school." → then describe what happened
+- "The most shocking use of force against children." → then describe what happened
+- "A major escalation:" → then describe what happened
+- "The start of a pattern of racially motivated 'citizen checks.'" → then describe what happened
+- "Local law enforcement breaks with federal agents." → then describe what happened
+
+**Good framing phrases:**
+- "The first..." (first shooting, first school raid, first school closures, first state lawsuit)
+- "The most..." (most graphic video, most extreme use of force)
+- "A major escalation..." / "A turning point..."
+- "The youngest/oldest/longest..." (youngest detainee, longest detention)
+- "An extraordinary..." (extraordinary judicial rebuke)
+- "The [Nth] fatal shooting — this time of a [context]."
+
+**End with broader significance when possible:**
+- "...establishing the pattern of racial profiling that would define the operation."
+- "...reflecting the near-total refusal of local law enforcement to assist."
+- "...The scale of the response signals that public opinion has decisively turned."
+- "...Bovino is later removed from Minnesota operations."
+
+**Bad example (no context):**
+> "ICE agents deploy flashbang grenades and tear gas under an SUV carrying six children."
+
+**Good example (context-first):**
+> "The most shocking use of force against children. ICE agents deploy flashbang grenades and tear gas under an SUV carrying Shawn Jackson and his six children, ages 6 months to 11. The baby stops breathing and requires CPR. Three children are hospitalized. Agents refuse to call 911. The incident becomes a turning point in national media coverage."
 
 ## Example: Adding a Court Ruling
 
