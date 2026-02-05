@@ -41,7 +41,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/28/2026-01-28-suburban-observers-pursued-highway.md | 2026-01-28 | Minneapolis suburbs | observers | ICE Observers Pursued in 20-Minute Highway Chase in Northern Suburbs
 - incidents/2026-01/27/2026-01-27-luis-martinez-facial-recognition.md | 2026-01-27 | Minneapolis | citizens | U.S. Citizen Luis Martinez Subjected to Facial Recognition Scan
 - incidents/2026-01/27/2026-01-27-raise-voice-erase-voice.md | 2026-01-27 | Minneapolis | observers | ICE Agent Tells Legal Observer "You Raise Your Voice, I Erase Your Voice"
-- incidents/2026-01/27/2026-01-27-homan-draw-down-minneapolis.md | 2026-01-27 | Minneapolis | response | Operation Metro Surge Draw Down Begins
+- incidents/2026-01/27/2026-01-27-homan-draw-down-minneapolis.md | 2026-01-27 | Minneapolis | response | Homan Takes Command, Begins Operation Metro Surge Draw Down
 - incidents/2026-01/27/2026-01-27-northeast-mpls-jenny-family-separated.md | 2026-01-27 | Minneapolis | immigrants | "I Was Yelling at Them to Take Me With Him": Mother Holds Daughter as Husband Detained in Northeast Minneapolis
 - incidents/2026-01/27/2026-01-27-tobay-robles-lyons-contempt.md | 2026-01-27 | Minneapolis | immigrants | Ecuadorean Man Held 3 Weeks Despite Court Order; Judge Orders ICE Director to Appear for Contempt
 - incidents/2026-01/26/2026-01-26-christian-salamanca-ice-chase-crash.md | 2026-01-26 | St. Paul | citizens | Asylum Seeker Hospitalized After Wife Says ICE Rammed His Car Into Telephone Pole

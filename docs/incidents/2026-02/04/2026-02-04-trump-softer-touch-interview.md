@@ -15,7 +15,29 @@ last_updated: 2026-02-05T11:48:18
 # Trump Says Administration Will Use "Softer Touch" After Minneapolis Shootings
 
 ## Summary
-In an NBC News interview ahead of the 2026 Super Bowl, President Trump acknowledged the federal government could use "a little bit of a softer touch" in Minneapolis following the fatal shootings of two U.S. citizens by federal immigration agents. Trump also blamed Minnesota Governor Tim Walz and Minneapolis Mayor Jacob Frey for lack of cooperation, claiming he had "great conversations" with them before seeing them "ranting and raving" publicly.
+In an NBC News interview ahead of the 2026 Super Bowl, President Trump acknowledged the federal government could use "a little bit of a softer touch" in Minneapolis following the fatal shootings of two U.S. citizens by federal immigration agents. The interview captured the administration's messaging strategy: acknowledging problems while repeating claims that fact-checkers found inaccurate or misleading.
+
+### The "Softer Touch" Framing
+When asked about the fatal shootings of Renee Good (January 7) and Alex Pretti (January 25), Trump said he "learned that maybe we could use a little bit of a softer touch. But you still have to be tough." He called the deaths "sad" and said they "should've not happened."
+
+The same day, border czar Tom Homan announced 700 federal officers would be withdrawn from Minneapolis. However, approximately 2,000 agents remained, a figure Mayor Jacob Frey called "not de-escalation." Before Operation Metro Surge, only about 80-150 federal immigration agents operated in the Minneapolis area.
+
+### The "Criminals" Claim
+Trump stated the administration was "totally focused on criminals, really bad criminals" and "murderers from different countries." He cited "11,888 murderers" entering the U.S. under the previous administration.
+
+**Fact-check:** NBC News found Trump's "11,888 murderers" figure was misstated. The number referred to people in ICE's non-detained docket accumulated over decades, not recent entries. More broadly, ICE's own data showed more than a third of the approximately 220,000 arrests under the operation had no criminal histories. Independent analysis found only about 5% of detainees had violent criminal convictions.
+
+Trump also claimed 25 million people entered the U.S. illegally under Biden. The actual figure was 7.4 million, according to NBC's fact-check.
+
+### The "Lack of Cooperation" Claim
+Trump blamed Governor Tim Walz and Mayor Jacob Frey for lack of cooperation, stating: "I've called the people. I've called the governor. I've called the mayor. Spoke to 'em. Had great conversations with them. And then I see them ranting and raving out there."
+
+**Fact-check:** This claim contradicted documented evidence. Per Poynter fact-checkers, Minnesota's Department of Corrections stated it had long cooperated with ICE, and all 84 state prisoners sought by ICE in 2025 were successfully transferred. The Department said it "has not found a single case where the state failed to honor an ICE detainer."
+
+Trump said mayors and governors would need to "ask" and "say please" before federal enforcement enters their jurisdictions, framing the draw down as a concession rather than a response to public backlash over the two fatal shootings.
+
+### Rhetoric vs. Policy
+Despite the softer rhetoric, the interview signaled tactical recalibration rather than policy change. Homan stated the same day: "We're not surrendering the president's mission on a mass-deportation operation. President Trump fully intends to achieve mass deportations during this administration." A complete draw down, Homan said, would depend on "continued cooperation" and "the decrease of the violence, the rhetoric and the attacks against ICE and Border Patrol."
 
 ## Sources
 1. NBC News (Feb 4, 2026): [After Minneapolis shootings, Trump says administration will use 'softer touch' in immigration enforcement](https://www.nbcnews.com/politics/donald-trump/minneapolis-shootings-trump-says-administration-use-softer-touch-immig-rcna257459)
