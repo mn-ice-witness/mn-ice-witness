@@ -15,10 +15,10 @@
     <link rel="canonical" href="https://mn-ice-witness.org/">
 
     <!-- Favicon and App Icons -->
-    <link rel="icon" type="image/x-icon" href="/assets/favicon.ico?v=1770325743">
-    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png?v=1770325743">
-    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png?v=1770325743">
-    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png?v=1770325743">
+    <link rel="icon" type="image/x-icon" href="/assets/favicon.ico?v=1770328312">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png?v=1770328312">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png?v=1770328312">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png?v=1770328312">
     <link rel="manifest" href="/manifest.json">
     <meta name="theme-color" content="#121212">
 
@@ -39,7 +39,8 @@
     <meta name="twitter:image" content="https://mn-ice-witness.org/assets/og-image.jpg">
 
     <title>MN ICE Witness - ICE Raids, Incidents & Enforcement Database | Minnesota</title>
-    <link rel="stylesheet" href="/css/style.css?v=1770325743">
+    <link rel="stylesheet" href="/css/style.css?v=1770328312">
+    <link rel="stylesheet" href="/css/timeline.css?v=1770328312">
     <!-- SPLASH DISABLED
     <script>
         (function() {
@@ -190,6 +191,10 @@
             <circle cx="10" cy="10" r="7"/>
             <path d="M21 21l-5-5"/>
         </symbol>
+        <!-- Sort icon (up/down arrows) -->
+        <symbol id="icon-sort" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M3 18h6v-2H3v2zM3 6v2h18V6H3zm0 7h12v-2H3v2z"/>
+        </symbol>
         <!-- Social media icons -->
         <symbol id="icon-facebook" viewBox="0 0 24 24">
             <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z" fill="currentColor"/>
@@ -240,14 +245,22 @@
         <div class="view-toggle" id="view-toggle">
             <button class="view-btn active" data-view="list">List</button>
             <button class="view-btn" data-view="media">Media</button>
+            <button class="view-btn" data-view="timeline">Timeline</button>
             <button class="search-btn" id="search-btn" aria-label="Search incidents">
                 <svg viewBox="0 0 24 24" width="18" height="18"><use href="#icon-search"/></svg>
             </button>
-            <label class="sort-toggle" id="sort-toggle" title="Sort by recently updated">
-                <input type="checkbox" id="sort-updated-checkbox">
-                <span class="sort-label sort-label-short">New</span>
-                <span class="sort-label sort-label-full">New/Updated</span>
-            </label>
+            <div class="sort-dropdown" id="sort-dropdown">
+                <button class="sort-btn" id="sort-btn" aria-label="Sort incidents" title="Sort by">
+                    <svg width="16" height="16"><use href="#icon-sort"/></svg>
+                </button>
+                <div class="sort-menu" id="sort-menu" aria-hidden="true">
+                    <button class="sort-option active" data-sort="all">All</button>
+                    <button class="sort-option" data-sort="new-updated">New/Updated</button>
+                    <button class="sort-option" data-sort="new">New</button>
+                    <button class="sort-option" data-sort="updated">Updated</button>
+                    <button class="sort-option" data-sort="occurred">Occurred</button>
+                </div>
+            </div>
         </div>
 
         <!-- Search Modal -->
@@ -281,6 +294,9 @@
 
         <!-- Media Gallery View (hidden by default) -->
         <div class="media-gallery" id="media-gallery" style="display: none;"></div>
+
+        <!-- Timeline View (hidden by default) -->
+        <div id="timeline-view" style="display: none;"></div>
 
         <!-- List View (default) -->
         <div class="list-view" id="list-view">
@@ -373,18 +389,19 @@
 
     <script src="/js/marked.min.js"></script>
     <!-- Core modules (no dependencies) -->
-    <script src="/js/parser.js?v=1770325743"></script>
-    <script src="/js/router.js?v=1770325743"></script>
-    <script src="/js/media-controls.js?v=1770325743"></script>
+    <script src="/js/parser.js?v=1770328312"></script>
+    <script src="/js/router.js?v=1770328312"></script>
+    <script src="/js/media-controls.js?v=1770328312"></script>
     <!-- Feature modules -->
-    <script src="/js/view-state.js?v=1770325743"></script>
-    <script src="/js/splash.js?v=1770325743"></script>
-    <script src="/js/lightbox-content.js?v=1770325743"></script>
-    <script src="/js/lightbox.js?v=1770325743"></script>
-    <script src="/js/media-gallery.js?v=1770325743"></script>
-    <script src="/js/search.js?v=1770325743"></script>
+    <script src="/js/view-state.js?v=1770328312"></script>
+    <script src="/js/splash.js?v=1770328312"></script>
+    <script src="/js/lightbox-content.js?v=1770328312"></script>
+    <script src="/js/lightbox.js?v=1770328312"></script>
+    <script src="/js/media-gallery.js?v=1770328312"></script>
+    <script src="/js/search.js?v=1770328312"></script>
+    <script src="/js/timeline.js?v=1770328312"></script>
     <!-- Main app (last, coordinates all modules) -->
-    <script src="/js/app.js?v=1770325743"></script>
+    <script src="/js/app.js?v=1770328312"></script>
 </body>
 </html>
 <!-- build test 1769912033 -->

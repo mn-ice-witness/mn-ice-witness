@@ -31,6 +31,8 @@ const Router = {
                 return slug ? `/list/${slug}` : '/list';
             case 'media':
                 return '/media';
+            case 'timeline':
+                return '/timeline';
             case 'new-updated':
                 return `/new-updated/${slug}`;
             case 'no-news-media':
@@ -69,6 +71,9 @@ const Router = {
         if (path === '/media') {
             return { type: 'media', filter };
         }
+        if (path === '/timeline') {
+            return { type: 'timeline', filter };
+        }
         if (path.startsWith('/new-updated/')) {
             return { type: 'new-updated', dateStr: path.replace('/new-updated/', ''), filter };
         }
@@ -102,6 +107,9 @@ const Router = {
             if (hash === 'media') {
                 return { type: 'media', legacy: true, filter };
             }
+            if (hash === 'timeline') {
+                return { type: 'timeline', legacy: true, filter };
+            }
             if (hash.startsWith('new-updated-')) {
                 return { type: 'new-updated', dateStr: hash.replace('new-updated-', ''), legacy: true, filter };
             }
@@ -114,9 +122,7 @@ const Router = {
     },
 
     /**
-     * Parse filter parameter from URL
-     * @param {URL|Location} url - URL to parse
-     * @returns {string|null} Filter value or null
+     * Parse filter parameter from URL (backward compat for ?filter=new)
      */
     parseFilter(url = window.location) {
         const params = new URLSearchParams(url.search);
@@ -124,10 +130,13 @@ const Router = {
     },
 
     /**
-     * Check if new/updated filter is active in URL
-     * @param {URL|Location} url - URL to check
-     * @returns {boolean}
+     * Parse sort parameter from URL (?sort=new-updated, etc.)
      */
+    parseSort(url = window.location) {
+        const params = new URLSearchParams(url.search);
+        return params.get('sort');
+    },
+
     hasNewFilter(url = window.location) {
         return this.parseFilter(url) === 'new';
     },
@@ -162,6 +171,9 @@ const Router = {
                 break;
             case 'media':
                 newPath = this.buildUrl('media');
+                break;
+            case 'timeline':
+                newPath = this.buildUrl('timeline');
                 break;
             case 'new-updated':
                 newPath = this.buildUrl('new-updated', route.dateStr);
