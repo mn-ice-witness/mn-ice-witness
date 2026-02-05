@@ -301,14 +301,21 @@
 }
 
 .tl-day-more {
-    font-size: 0.8rem;
-    color: var(--color-text-muted);
-    padding: 3px 0;
+    display: inline-block;
+    font-size: 0.78rem;
+    font-weight: 600;
+    color: #5a7a9e;
+    padding: 4px 10px;
+    margin-top: 4px;
     cursor: pointer;
+    border: 1px solid rgba(90, 122, 158, 0.3);
+    border-radius: 12px;
+    background: rgba(90, 122, 158, 0.06);
 }
 
 .tl-day-more:hover {
-    color: #5a7a9e;
+    background: rgba(90, 122, 158, 0.12);
+    border-color: rgba(90, 122, 158, 0.5);
 }
 
 /* ==================== DESKTOP LAYOUT ==================== */
