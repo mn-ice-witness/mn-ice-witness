@@ -222,7 +222,12 @@ const Timeline = {
 
         let sourceHTML = '';
         if (moment.source && !moment.incident) {
-            sourceHTML = `<a class="tl-moment-source" href="${moment.source}" target="_blank" rel="noopener">Source →</a>`;
+            try {
+                const hostname = new URL(moment.source).hostname.replace('www.', '');
+                sourceHTML = `<a class="tl-moment-source" href="${moment.source}" target="_blank" rel="noopener">${hostname} →</a>`;
+            } catch {
+                sourceHTML = `<a class="tl-moment-source" href="${moment.source}" target="_blank" rel="noopener">Source article →</a>`;
+            }
         }
 
         return `
