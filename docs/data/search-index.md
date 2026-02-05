@@ -15,10 +15,11 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (185 incidents)
+## CURRENT (187 incidents)
 
 Published incidents visible on the main site.
 
+- incidents/2026-02/04/2026-02-04-trump-softer-touch-interview.md | 2026-02-04 | Washington D.C. | response | Trump Says Administration Will Use "Softer Touch" After Minneapolis Shootings
 - incidents/2026-02/03/2026-02-03-observers-detained-gunpoint-midtown-phillips.md | 2026-02-03 | Minneapolis | observers | Observers Detained at Gunpoint in Midtown Phillips
 - incidents/2026-02/01/2026-02-01-jose-lozano-worthington.md | 2026-02-01 | Worthington | citizens | Jose Lozano Detained Despite Valid Asylum Permit in Worthington
 - incidents/2026-02/01/2026-02-01-powderhorn-rec-center-observer-arrested.md | 2026-02-01 | Minneapolis | observers | Observer Arrested, Concussion Grenades Deployed at Powderhorn Rec Center
@@ -40,6 +41,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/28/2026-01-28-suburban-observers-pursued-highway.md | 2026-01-28 | Minneapolis suburbs | observers | ICE Observers Pursued in 20-Minute Highway Chase in Northern Suburbs
 - incidents/2026-01/27/2026-01-27-luis-martinez-facial-recognition.md | 2026-01-27 | Minneapolis | citizens | U.S. Citizen Luis Martinez Subjected to Facial Recognition Scan
 - incidents/2026-01/27/2026-01-27-raise-voice-erase-voice.md | 2026-01-27 | Minneapolis | observers | ICE Agent Tells Legal Observer "You Raise Your Voice, I Erase Your Voice"
+- incidents/2026-01/27/2026-01-27-homan-draw-down-minneapolis.md | 2026-01-27 | Minneapolis | response | Operation Metro Surge Draw Down Begins
 - incidents/2026-01/27/2026-01-27-northeast-mpls-jenny-family-separated.md | 2026-01-27 | Minneapolis | immigrants | "I Was Yelling at Them to Take Me With Him": Mother Holds Daughter as Husband Detained in Northeast Minneapolis
 - incidents/2026-01/27/2026-01-27-tobay-robles-lyons-contempt.md | 2026-01-27 | Minneapolis | immigrants | Ecuadorean Man Held 3 Weeks Despite Court Order; Judge Orders ICE Director to Appear for Contempt
 - incidents/2026-01/26/2026-01-26-christian-salamanca-ice-chase-crash.md | 2026-01-26 | St. Paul | citizens | Asylum Seeker Hospitalized After Wife Says ICE Rammed His Car Into Telephone Pole

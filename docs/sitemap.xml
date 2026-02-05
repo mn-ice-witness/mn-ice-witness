@@ -46,6 +46,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://mn-ice-witness.org/entry/2026-02-04-trump-softer-touch-interview</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://mn-ice-witness.org/entry/2026-02-03-fraser-school-cleaner-detained</loc>
     <lastmod>2026-02-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -174,6 +180,12 @@
   <url>
     <loc>https://mn-ice-witness.org/entry/2026-01-27-raise-voice-erase-voice</loc>
     <lastmod>2026-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://mn-ice-witness.org/entry/2026-01-27-homan-draw-down-minneapolis</loc>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
