@@ -132,6 +132,7 @@ date: 2026-01-23
 title: 50,000 March in Subzero Temperatures
 incident:
 source: https://www.npr.org/2026/01/23/nx-s1-5686733/minnesotans-day-of-ice-protests
+image: media/2026-01/23/2026-01-23-50k-march.jpg
 ---
 An estimated 50,000 to 100,000 people march through downtown Minneapolis in -20 degree temperatures in the "Day of Truth & Freedom" protest. Hundreds of businesses close in solidarity in what becomes the first general strike in the United States in 80 years.
 
