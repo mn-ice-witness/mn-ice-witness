@@ -1195,7 +1195,7 @@ body {
     inset: 0;
     z-index: 1000;
     display: flex;
-    align-items: flex-start;
+    align-items: center;
     justify-content: center;
     padding: 8px;
     overflow-y: auto;
@@ -1221,20 +1221,20 @@ body {
     background: var(--color-surface);
     border-radius: 12px;
     width: calc(100vw - 16px);
-    margin: 16px auto 4px;
+    margin: 8px auto;
     box-shadow: var(--shadow-lg);
     z-index: 1;
 }
 
 @media (min-width: 768px) {
     .lightbox {
-        padding: 16px;
+        padding: 12px;
     }
 
     .lightbox-content {
-        width: calc(100vw - 32px);
+        width: calc(100vw - 24px);
         max-width: 1100px;
-        margin: 24px auto 8px;
+        margin: 12px auto;
     }
 }
 
