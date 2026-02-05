@@ -187,8 +187,15 @@ const Timeline = {
     buildMomentHTML(moment) {
         const dateObj = new Date(moment.date + 'T12:00:00');
         const dateStr = dateObj.toLocaleDateString('en-US', { month: 'long', day: 'numeric' });
-        const clickAttr = moment.incident ? `data-incident-slug="${moment.incident}"` : '';
-        const clickClass = moment.incident ? ' tl-moment-clickable' : '';
+        let clickAttr = '';
+        let clickClass = '';
+        if (moment.incident) {
+            clickAttr = `data-incident-slug="${moment.incident}"`;
+            clickClass = ' tl-moment-clickable';
+        } else if (moment.source) {
+            clickAttr = `data-source-url="${moment.source}"`;
+            clickClass = ' tl-moment-clickable';
+        }
 
         let imgHTML = '';
         if (moment.image !== 'false') {
@@ -426,8 +433,11 @@ const Timeline = {
 
             const momentEl = e.target.closest('.tl-moment-clickable');
             if (momentEl) {
-                const slug = momentEl.dataset.incidentSlug;
-                this.openIncident(slug);
+                if (momentEl.dataset.incidentSlug) {
+                    this.openIncident(momentEl.dataset.incidentSlug);
+                } else if (momentEl.dataset.sourceUrl) {
+                    window.open(momentEl.dataset.sourceUrl, '_blank', 'noopener');
+                }
                 return;
             }
 
