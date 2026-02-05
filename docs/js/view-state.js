@@ -14,6 +14,8 @@
 const ViewState = {
     viewedIncidents: new Set(),
     sortMode: 'all',
+    listSortMode: 'all',
+    mediaSortMode: 'all',
     currentView: 'list',
 
     init() {
@@ -129,6 +131,13 @@ const ViewState = {
     setSortMode(mode, skipRender) {
         this.sortMode = mode;
 
+        // Remember per-view sort
+        if (this.currentView === 'list') {
+            this.listSortMode = mode;
+        } else if (this.currentView === 'media') {
+            this.mediaSortMode = mode;
+        }
+
         // Update active state in dropdown
         const menu = document.getElementById('sort-menu');
         if (menu) {
@@ -166,7 +175,7 @@ const ViewState = {
 
     updateUrlWithSort() {
         const basePath = Router.buildUrl(this.currentView);
-        const sortParam = this.sortMode !== 'all' ? `?sort=${this.sortMode}` : '';
+        const sortParam = this.sortMode !== 'all' ? `?sort-by=${this.sortMode}` : '';
         window.history.replaceState({}, '', basePath + sortParam);
     },
 
@@ -210,6 +219,13 @@ const ViewState = {
 
     switchView(view, skipUrlUpdate) {
         this.currentView = view;
+
+        // Restore per-view sort mode
+        if (view === 'list') {
+            this.setSortMode(this.listSortMode, true);
+        } else if (view === 'media') {
+            this.setSortMode(this.mediaSortMode, true);
+        }
 
         if (!skipUrlUpdate) {
             this.updateUrlView(view);
@@ -266,7 +282,7 @@ const ViewState = {
 
     updateUrlView(view) {
         const basePath = Router.buildUrl(view);
-        const sortParam = (view !== 'timeline' && this.sortMode !== 'all') ? `?sort=${this.sortMode}` : '';
+        const sortParam = (view !== 'timeline' && this.sortMode !== 'all') ? `?sort-by=${this.sortMode}` : '';
         window.history.replaceState({}, '', basePath + sortParam);
     },
 
