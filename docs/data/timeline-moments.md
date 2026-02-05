@@ -88,6 +88,14 @@ source: https://www.twincities.com/2026/01/12/keith-ellison-mayors-kaohly-her-ja
 The most significant legal challenge to the operation. Minnesota Attorney General Keith Ellison, Minneapolis Mayor Jacob Frey, and St. Paul Mayor Kaohly Her file a lawsuit calling Operation Metro Surge a "federal invasion of the Twin Cities" and alleging systematic racial profiling. It is the first time a state has sued the federal government to halt an immigration operation.
 
 ---
+date: 2026-01-13
+title: Disabled U.S. Citizen Dragged From Car, Hospitalized
+incident: 2026-01-13-aliya-rahman-car-window-hospitalized
+source:
+---
+One of the most-viewed videos of the operation. ICE agents smash the car window of Aliya Rahman, a 43-year-old U.S. citizen and software engineer with a traumatic brain injury, and drag her out while she screams "I'm disabled!" She was driving to an appointment at the Traumatic Brain Injury Center. Denied medical attention in custody, she loses consciousness in her cell before finally being hospitalized. The footage goes viral with millions of views, and Rahman later testifies before Congress.
+
+---
 date: 2026-01-14
 title: Six Children Hospitalized After Flashbangs Hit Family SUV
 incident: 2026-01-14-shawn-jackson-children-tear-gas
