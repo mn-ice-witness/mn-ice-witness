@@ -876,6 +876,13 @@ Stories are excluded when they don't meet the project's core focus:
 - Reason: **Insufficient details** - HSI operation (not ICE/ERO), no affected individual names, no citizenship/status information. May have been criminal investigation rather than civil immigration enforcement.
 - Date evaluated: 2026-02-03
 
+**Rekeya Frazier / Oluwadamilola Bamigboye Plymouth (Dec 10-11, 2025)**
+- Sources: [Star Tribune](https://www.startribune.com/ice-arrest-in-twin-cities-strikes-close-to-home-for-key-witness-who-filmed-george-floyds-murder/601546325), [MPR News](https://www.mprnews.org/story/2025/12/17/couple-pleads-not-guilty-as-attorneys-clash-with-feds-over-hsi-agent-encounter), [Fox 9](https://www.fox9.com/news/federal-agent-feared-abducted-suspect-escape-dec-12), [KARE 11](https://www.kare11.com/article/news/local/2-charged-after-allegedly-driving-off-with-a-federal-agent-in-their-vehicle-during-immigration-operation/89-2f7b2f6e-57c4-49f2-8c01-2d3ee0db619c), [Sahan Journal](https://sahanjournal.com/news-partners/fbi-man-woman-drive-to-police-station-with-homeland-security-agent-trapped-in-vehicle/)
+- Date: December 10-11, 2025
+- Details: Rekeya Frazier (23, U.S. citizen, sister of Darnella Frazier who filmed George Floyd's murder) and boyfriend Oluwadamilola Bamigboye (24, Nigerian national with expired student visa) arrested after HSI agents approached their SUV. Frazier drove away with an agent inside who had entered to prevent departure; drove to New Hope Police Department. Bamigboye fled to Hy-Vee and was tackled. Both charged with interfering with federal agent with intent to commit felony (federal assault). Judge released both pending trial Dec 17. Defense disputes 95% of government's narrative; says agent entered vehicle uninvited with drawn weapon. Hennepin County Attorney declined state charges.
+- Reason: **Criminal case, not civil rights incident** - This is primarily a criminal prosecution for alleged assault on federal agents. Frazier (U.S. citizen) was not targeted for immigration enforcement - she was arrested for her conduct during her boyfriend's immigration arrest. Similar to excluded "Feng/Baierl Federal Assault Charges" pattern. The core legal question is whether defendants committed a crime by driving with an agent in the vehicle, not whether ICE violated their civil rights.
+- Date evaluated: 2026-02-05
+
 ### November 2025
 
 ### October 2025
