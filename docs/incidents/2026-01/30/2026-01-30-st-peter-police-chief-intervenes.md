@@ -3,7 +3,7 @@ date: 2026-01-30
 time: unknown
 location: Jefferson Park, St. Peter
 city: St. Peter
-type: citizens
+type: observers
 status: resolved
 affected_individual_citizenship: us-citizen
 injuries: none
