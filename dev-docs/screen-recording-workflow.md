@@ -4,7 +4,7 @@ How to capture, process, and add video/image clips to incidents.
 
 ## CRITICAL: Three-Step Pipeline
 
-**When user says "latest screenshot/mov in raw_media is for [INCIDENT]", ALWAYS run these 3 commands in order:**
+**When you see "latest screenshot/photo/mov in raw_media is for [INCIDENT]" (from user OR command output), ALWAYS run these 3 commands in order:**
 
 ```bash
 # Step 1: Move and rename the file (ALWAYS uses the NEWEST file)
@@ -170,15 +170,14 @@ raw_media/
 │   │   └── 2026-01-24-nur-d-rapper-detained.raw.mov
 ```
 
-## Asking Claude to Do This
+## Triggering Claude to Do This
 
-When asking Claude to process a screen recording, say:
+Claude will automatically run the media pipeline when it sees any of these phrases (from user OR command output):
 
-> "Process the latest media file in raw_media for [INCIDENT_ID or description]"
-
-or
-
-> "Latest screenshot/mov in raw_media is for [INCIDENT_ID or description]"
+- "Latest screenshot in raw_media is for [INCIDENT]"
+- "Latest photo in raw_media is for [INCIDENT]"
+- "Latest mov in raw_media is for [INCIDENT]"
+- "Process the latest media file in raw_media for [INCIDENT]"
 
 Claude will:
 1. Run `./scripts/move-screen-recording.sh --type mov|png INCIDENT_ID` — **this ALWAYS uses the NEWEST file by timestamp**
