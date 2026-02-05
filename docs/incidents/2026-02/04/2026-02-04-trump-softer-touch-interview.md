@@ -15,29 +15,7 @@ last_updated: 2026-02-05T11:48:18
 # Trump Says Administration Will Use "Softer Touch" After Minneapolis Shootings
 
 ## Summary
-In an NBC News interview ahead of the 2026 Super Bowl, President Trump acknowledged the federal government could use "a little bit of a softer touch" in Minneapolis following the fatal shootings of two U.S. citizens by federal immigration agents. The interview captured the administration's messaging strategy: acknowledging problems while repeating claims that fact-checkers found inaccurate or misleading.
-
-### The "Softer Touch" Framing
-When asked about the fatal shootings of Renee Good (January 7) and Alex Pretti (January 25), Trump said he "learned that maybe we could use a little bit of a softer touch. But you still have to be tough." He called the deaths "sad" and said they "should've not happened."
-
-The same day, border czar Tom Homan announced 700 federal officers would be withdrawn from Minneapolis. However, approximately 2,000 agents remained, a figure Mayor Jacob Frey called "not de-escalation." Before Operation Metro Surge, only about 80-150 federal immigration agents operated in the Minneapolis area.
-
-### The "Criminals" Claim
-Trump stated the administration was "totally focused on criminals, really bad criminals" and "murderers from different countries." He cited "11,888 murderers" entering the U.S. under the previous administration.
-
-**Fact-check:** NBC News found Trump's "11,888 murderers" figure was misstated. The number referred to people in ICE's non-detained docket accumulated over decades, not recent entries. More broadly, ICE's own data showed more than a third of the approximately 220,000 arrests under the operation had no criminal histories. Independent analysis found only about 5% of detainees had violent criminal convictions.
-
-Trump also claimed 25 million people entered the U.S. illegally under Biden. The actual figure was 7.4 million, according to NBC's fact-check.
-
-### The "Lack of Cooperation" Claim
-Trump blamed Governor Tim Walz and Mayor Jacob Frey for lack of cooperation, stating: "I've called the people. I've called the governor. I've called the mayor. Spoke to 'em. Had great conversations with them. And then I see them ranting and raving out there."
-
-**Fact-check:** This claim contradicted documented evidence. Per Poynter fact-checkers, Minnesota's Department of Corrections stated it had long cooperated with ICE, and all 84 state prisoners sought by ICE in 2025 were successfully transferred. The Department said it "has not found a single case where the state failed to honor an ICE detainer."
-
-Trump said mayors and governors would need to "ask" and "say please" before federal enforcement enters their jurisdictions, framing the draw down as a concession rather than a response to public backlash over the two fatal shootings.
-
-### Rhetoric vs. Policy
-Despite the softer rhetoric, the interview signaled tactical recalibration rather than policy change. Homan stated the same day: "We're not surrendering the president's mission on a mass-deportation operation. President Trump fully intends to achieve mass deportations during this administration." A complete draw down, Homan said, would depend on "continued cooperation" and "the decrease of the violence, the rhetoric and the attacks against ICE and Border Patrol."
+In an NBC News interview ahead of the 2026 Super Bowl, President Trump said the federal government could use "a little bit of a softer touch" in Minneapolis following the fatal shootings of two U.S. citizens by federal immigration agents. Trump blamed Governor Tim Walz and Mayor Jacob Frey for lack of cooperation, repeated claims about targeting "criminals" that fact-checkers found inaccurate, and framed the draw down as a concession rather than a response to public backlash.
 
 ## Sources
 1. NBC News (Feb 4, 2026): [After Minneapolis shootings, Trump says administration will use 'softer touch' in immigration enforcement](https://www.nbcnews.com/politics/donald-trump/minneapolis-shootings-trump-says-administration-use-softer-touch-immig-rcna257459)
@@ -50,7 +28,27 @@ Despite the softer rhetoric, the interview signaled tactical recalibration rathe
 8. Fox News Video (Feb 4, 2026): [Trump discusses 'softer touch' approach](https://www.foxnews.com/video/6388773244112)
 
 ## Related Incidents
-- [Operation Metro Surge Draw Down Begins](#2026-01-27-homan-draw-down-minneapolis)
+- [Homan Takes Command, Begins Operation Metro Surge Draw Down](#2026-01-27-homan-draw-down-minneapolis)
+
+## Background
+
+### Context
+The interview came after two U.S. citizens were fatally shot by federal immigration agents in Minneapolis: Renee Good on January 7 and Alex Pretti on January 25. The same day as the interview, border czar Tom Homan announced 700 federal officers would be withdrawn, leaving approximately 2,000 agents. Before Operation Metro Surge, only about 80-150 federal immigration agents operated in the Minneapolis area.
+
+### Rhetoric vs. Policy
+Despite the softer rhetoric, the interview signaled tactical recalibration rather than policy change. Homan stated the same day: "We're not surrendering the president's mission on a mass-deportation operation. President Trump fully intends to achieve mass deportations during this administration."
+
+Mayor Jacob Frey responded: "2,000 ICE officers still here is not de-escalation... Operation Metro Surge has been catastrophic for our residents and businesses. It needs to end immediately."
+
+### The "Criminals" Claim
+Trump stated the administration was "totally focused on criminals, really bad criminals" and cited "11,888 murderers" entering the U.S. under the previous administration.
+
+**Fact-check:** NBC News found the "11,888 murderers" figure was misstated, referring to people in ICE's non-detained docket accumulated over decades, not recent entries. ICE's own data showed more than a third of the approximately 220,000 arrests under the operation had no criminal histories. Independent analysis found only about 5% of detainees had violent criminal convictions. Trump also claimed 25 million people entered the U.S. illegally under Biden; the actual figure was 7.4 million.
+
+### The "Lack of Cooperation" Claim
+Trump blamed Governor Walz and Mayor Frey, saying he had "great conversations" with them before seeing them "ranting and raving." He said mayors and governors would need to "ask" and "say please" before federal enforcement enters their jurisdictions.
+
+**Fact-check:** Per Poynter, Minnesota's Department of Corrections stated it had long cooperated with ICE, and all 84 state prisoners sought by ICE in 2025 were successfully transferred. The Department said it "has not found a single case where the state failed to honor an ICE detainer."
 
 ## Official Statement
 
@@ -61,7 +59,7 @@ Despite the softer rhetoric, the interview signaled tactical recalibration rathe
 
 ### The "Softer Touch" Quote
 
-When asked about the fatal shootings of Renee Good (January 7) and Alex Pretti (January 25) by federal immigration agents in Minneapolis, Trump stated:
+When asked about the fatal shootings, Trump stated:
 
 > "I learned that maybe we could use a little bit of a softer touch. But you still have to be tough."
 
@@ -69,41 +67,15 @@ Trump said he was "not happy with the two incidents" and that "it should've not 
 
 ### On Targeting "Criminals"
 
-Trump emphasized the administration's focus on criminals:
-
 > "We're dealing with really hard criminals."
 
 > "Now you could say people that came in illegally are criminals, but I'm talking about murderers from different countries."
 
-He claimed the administration was "totally focused on criminals, really bad criminals" and cited (inaccurately, per NBC fact-checkers) "11,888 murderers" entering under the previous administration.
-
 ### On Local Officials
-
-Trump blamed Governor Tim Walz and Mayor Jacob Frey for lack of cooperation:
 
 > "I've called the people. I've called the governor. I've called the mayor. Spoke to 'em. Had great conversations with them. And then I see them ranting and raving out there. Literally as though a call wasn't made."
 
 Trump said moving forward, mayors and governors "have to ask, and they have to say please" before federal enforcement enters their jurisdictions.
-
-### Local Response
-
-Minneapolis Mayor Jacob Frey responded to the same-day announcement of 700 officers being withdrawn:
-
-> "2,000 ICE officers still here is not de-escalation... Operation Metro Surge has been catastrophic for our residents and businesses. It needs to end immediately."
-
-## Fact Check
-
-### Criminal Statistics Claim
-NBC News fact-checkers found Trump's claims inconsistent with ICE data:
-- More than a third of the approximately 220,000 arrests had no criminal histories
-- Trump claimed 25 million people entered illegally under Biden; the actual figure was 7.4 million
-- The "11,888 murderers" figure was misstated and referred to people in the non-detained docket over decades, not recent entries
-
-### Minnesota Cooperation Claim
-Per Poynter fact-checkers:
-- Minnesota's Department of Corrections stated it had long cooperated with ICE
-- All 84 state prisoners sought by ICE in 2025 were successfully transferred
-- The claim of non-cooperation contradicted documented evidence
 
 ## Editorial Assessment
 **HIGH** - Primary source interview conducted by major network (NBC News) with full transcript and video available. Multiple news outlets (CBS, The Hill, Newsweek, Fox News) covered the interview. NBC's own fact-check provides context for the claims made.
