@@ -853,6 +853,13 @@ Stories are excluded when they don't meet the project's core focus:
 - Reason: **Connected to existing incident** - relates to the documented Alex Pretti shooting case. Re-detention is a legal/custody dispute outcome, not a separate civil rights incident.
 - Date evaluated: 2026-02-04
 
+**School Districts Lawsuit Against DHS (Feb 4)**
+- Sources: [Star Tribune](https://www.startribune.com/minnesota-school-districts-teachers-union-sue-trump-administration-over-ice-activity-near-schools/601576148), [MPR News](https://www.mprnews.org/story/2026/02/04/minnesota-districts-sue-feds-to-keep-ice-away-from-schools), [Washington Post](https://www.washingtonpost.com/education/2026/02/04/minnesota-teachers-sue-ice/), [Fox 9](https://www.fox9.com/news/minnesota-educators-lawsuit-ice-enforcement-near-schools-feb-2026)
+- Date: February 4, 2026
+- Details: Education Minnesota, Duluth Public Schools, and Fridley Public Schools filed federal lawsuit against DHS/ICE seeking to reinstate "protected areas" policy and bar enforcement within 1,000 feet of school property.
+- Reason: **Legal/institutional action** - lawsuit responding to ICE activity, not a specific civil rights incident. Site documents enforcement actions, not lawsuits about them.
+- Date evaluated: 2026-02-05
+
 ### December 2025
 
 **Loc Vinh Truong Rochester (Dec 13, 2025)**
