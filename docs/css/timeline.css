@@ -200,6 +200,18 @@
     margin: 0;
 }
 
+.tl-moment-source {
+    display: inline-block;
+    font-size: 0.78rem;
+    color: #5a7a9e;
+    text-decoration: none;
+    margin-top: 6px;
+}
+
+.tl-moment-source:hover {
+    text-decoration: underline;
+}
+
 .tl-moment-img {
     display: none;
 }

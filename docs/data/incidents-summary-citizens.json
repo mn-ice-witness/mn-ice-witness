@@ -376,7 +376,7 @@
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/18/2026-01-18-saly-hmong-citizen-shirtless.mp4",
-      "localMediaOgPath": "media/2026-01/18/2026-01-18-saly-hmong-citizen-shirtless-og-2s-1769378403.jpg",
+      "localMediaOgPath": "media/2026-01/18/2026-01-18-saly-hmong-citizen-shirtless-og-custom.jpg",
       "localMediaFiles": [
         {
           "type": "video",
@@ -1207,9 +1207,9 @@
       "lastUpdated": "2026-01-14T08:01:12",
       "mediaCount": 0,
       "notable": false,
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
+      "hasLocalMedia": true,
+      "localMediaType": "image",
+      "localMediaPath": "media/2025-12/09/2025-12-09-mubashir-wrongful-detention-og-custom.jpg",
       "localMediaOgPath": null,
       "localMediaFiles": [],
       "aspectRatio": null,
