@@ -55,12 +55,36 @@ source:
 A Border Patrol agent knees a man in the face at least five times while other agents pin him face-down on the pavement near 22nd & Chicago in south Minneapolis. The viral video sparks national outrage over the brutality of the operation.
 
 ---
+date: 2026-01-09
+title: Schools Close Across Twin Cities
+incident: 2026-01-09-fridley-schools-closure
+source:
+---
+Fridley and Columbia Heights school districts cancel all classes as one-third of students are absent due to fear of ICE activity. Multiple other districts follow suit in the days ahead, disrupting education for tens of thousands of students.
+
+---
+date: 2026-01-10
+title: Congress Members Denied Access to Detention Facility
+incident: 2026-01-10-congressional-access-denied
+source:
+---
+Representatives Ilhan Omar, Angie Craig, and Kelly Morrison are ordered to leave the Whipple Federal Building ICE facility after just 10 minutes. They briefly observe approximately 20 detainees — young men sitting with their heads in their hands.
+
+---
 date: 2026-01-12
 title: Minnesota Sues to Halt Operation
 incident:
 source: https://www.twincities.com/2026/01/12/keith-ellison-mayors-kaohly-her-jacob-frey-file-legal-action-against-ice/
 ---
 Minnesota Attorney General Keith Ellison, Minneapolis Mayor Jacob Frey, and St. Paul Mayor Kaohly Her file a lawsuit calling Operation Metro Surge a "federal invasion of the Twin Cities" and alleging racial profiling.
+
+---
+date: 2026-01-14
+title: Six Children Hospitalized After Flashbangs Hit Family SUV
+incident: 2026-01-14-shawn-jackson-children-tear-gas
+source:
+---
+ICE agents deploy flashbang grenades and tear gas under an SUV carrying Shawn Jackson and his six children, ages 6 months to 11. The baby stops breathing and requires CPR. Three children are hospitalized. Agents refuse to call 911.
 
 ---
 date: 2026-01-16
@@ -93,6 +117,14 @@ incident: 2026-01-20-liam-ramos-detained
 source:
 ---
 Five-year-old kindergartner Liam Conejo Ramos and his father Adrian are detained by ICE in a Minneapolis suburb. They are flown to the Dilley, Texas detention facility, drawing national outrage.
+
+---
+date: 2026-01-21
+title: Banned Chemical Weapon Deployed Near School
+incident: 2026-01-21-bovino-hexachloroethane-playground
+source:
+---
+Border Patrol Commander Greg Bovino personally throws hexachloroethane canisters — classified as a chemical weapon banned in international warfare — at Mueller Park near Ella Baker school just after dismissal. A school bus carrying students is forced to drive through the gas cloud.
 
 ---
 date: 2026-01-23
