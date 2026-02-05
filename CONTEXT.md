@@ -35,7 +35,7 @@ These rules apply to almost every task. Do not skip them.
 ### Media in raw_media — MANDATORY SCRIPT USAGE
 **NEVER manually rename or move files in `raw_media/`.** Use the scripts.
 
-**When user says "latest screenshot/mov in raw_media is for [INCIDENT]":**
+**When you see "latest screenshot/photo/mov in raw_media is for [INCIDENT]"** (from user OR command output):
 ```bash
 # Step 1: Move and rename (uses newest file automatically)
 ./scripts/move-screen-recording.sh --type mov|png INCIDENT_ID
