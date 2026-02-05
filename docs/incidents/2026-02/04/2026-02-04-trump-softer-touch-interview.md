@@ -26,6 +26,8 @@ In an NBC News interview ahead of the 2026 Super Bowl, President Trump said the 
 6. The Hill (Feb 4, 2026): [Trump softens tone on immigration enforcement](https://thehill.com/homenews/administration/5722948-trump-immigration-softer-touch/)
 7. Newsweek (Feb 4, 2026): [Donald Trump reveals what he learned from Minneapolis ICE crackdown](https://www.newsweek.com/5-key-moments-from-donald-trumps-interview-with-nbc-11468183)
 8. Fox News Video (Feb 4, 2026): [Trump discusses 'softer touch' approach](https://www.foxnews.com/video/6388773244112)
+9. Star Tribune (Jan 2026): [Violent crime is down in Minneapolis, but police overtime is up amid ICE surge](https://www.startribune.com/crime-in-minneapolis-down-ice-operation-metro-surge/601569549)
+10. National Institute of Justice (2024): [Undocumented Immigrant Offending Rate Lower Than U.S.-Born Citizen Rate](https://nij.ojp.gov/topics/articles/undocumented-immigrant-offending-rate-lower-us-born-citizen-rate)
 
 ## Related Incidents
 - [Homan Takes Command, Begins Operation Metro Surge Draw Down](#2026-01-27-homan-draw-down-minneapolis)
@@ -49,6 +51,15 @@ Trump stated the administration was "totally focused on criminals, really bad cr
 Trump blamed Governor Walz and Mayor Frey, saying he had "great conversations" with them before seeing them "ranting and raving." He said mayors and governors would need to "ask" and "say please" before federal enforcement enters their jurisdictions.
 
 **Fact-check:** Per Poynter, Minnesota's Department of Corrections stated it had long cooperated with ICE, and all 84 state prisoners sought by ICE in 2025 were successfully transferred. The Department said it "has not found a single case where the state failed to honor an ICE detainer."
+
+### The "Crime Is Down Because of Us" Claim
+Trump claimed: "Crime now in Minneapolis is down. Crime in all cities is down. And you know why it's down — It's down because of us." He also claimed crime in Chicago was "down by 25%."
+
+**Fact-check:** This claim is misleading on multiple fronts:
+
+**Crime was already declining before Operation Metro Surge:** Minneapolis had 64 homicides in 2025, down from 77 in 2024 (a 16% decrease). Gunshot victims were down 18% from 2024. These declines occurred throughout 2025, before Operation Metro Surge began on December 4, 2025. Minneapolis Police Chief Brian O'Hara credited "good police work," not federal immigration enforcement.
+
+**No evidence immigration enforcement reduces crime:** According to the National Institute of Justice (Department of Justice), undocumented immigrants have a lower offending rate than U.S.-born citizens. A study of the Secure Communities program found it had "no discernible impact on crime rates" despite substantially increasing deportations. Research consistently finds no causal link between immigration enforcement and crime reduction.
 
 ## Official Statement
 
@@ -76,6 +87,12 @@ Trump said he was "not happy with the two incidents" and that "it should've not 
 > "I've called the people. I've called the governor. I've called the mayor. Spoke to 'em. Had great conversations with them. And then I see them ranting and raving out there. Literally as though a call wasn't made."
 
 Trump said moving forward, mayors and governors "have to ask, and they have to say please" before federal enforcement enters their jurisdictions.
+
+### On Crime Reduction
+
+> "Crime now in Minneapolis is down. Crime in all cities is down. And you know why it's down — It's down because of us."
+
+> "It's down in Chicago by 25%."
 
 ## Editorial Assessment
 **HIGH** - Primary source interview conducted by major network (NBC News) with full transcript and video available. Multiple news outlets (CBS, The Hill, Newsweek, Fox News) covered the interview. NBC's own fact-check provides context for the claims made.
