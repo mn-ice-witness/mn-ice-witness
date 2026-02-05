@@ -3,8 +3,8 @@
  *
  * Handles:
  * - Viewed incidents tracking (localStorage)
- * - Sort preference (by date vs by updated)
- * - View toggle (media vs list)
+ * - Sort mode (all, new-updated, new, updated, occurred)
+ * - View toggle (list, media, timeline)
  * - Clear viewed functionality
  *
  * Global: ViewState
@@ -13,41 +13,35 @@
 
 const ViewState = {
     viewedIncidents: new Set(),
-    sortByUpdated: false,
+    sortMode: 'all',
     currentView: 'list',
 
-    /**
-     * Initialize view state
-     */
     init() {
         this.loadViewedState();
-        this.initSortToggle();
+        this.initSortDropdown();
         this.initViewToggle();
         this.initClearViewed();
     },
 
-    /**
-     * Sync URL to match sortByUpdated state (call after route handling)
-     */
     syncUrlWithFilterState() {
         const route = Router.parseUrl();
-        const urlHasFilter = route.filter === 'new';
-
-        // Only sync for media/list routes (not lightbox content)
         if (route.type !== 'media' && route.type !== 'list') return;
 
-        // If state and URL match, nothing to do
-        if (this.sortByUpdated === urlHasFilter) return;
+        // Handle ?sort= param
+        const sortParam = Router.parseSort();
+        if (sortParam && ['new-updated', 'new', 'updated', 'occurred'].includes(sortParam)) {
+            this.setSortMode(sortParam, true);
+            return;
+        }
 
-        // Update URL to match state
-        this.updateUrlWithFilter();
+        // Backward compat: ?filter=new → sort mode new-updated
+        if (route.filter === 'new' && this.sortMode === 'all') {
+            this.setSortMode('new-updated', true);
+        }
     },
 
     // ==================== VIEWED INCIDENTS ====================
 
-    /**
-     * Load viewed incidents from localStorage
-     */
     loadViewedState() {
         const stored = localStorage.getItem('viewedIncidents');
         if (stored) {
@@ -55,30 +49,18 @@ const ViewState = {
         }
     },
 
-    /**
-     * Save viewed incidents to localStorage
-     */
     saveViewedState() {
         localStorage.setItem('viewedIncidents', JSON.stringify([...this.viewedIncidents]));
     },
 
-    /**
-     * Get incident ID from incident object
-     */
     getIncidentId(incident) {
         return incident.filePath.split('/').pop().replace('.md', '');
     },
 
-    /**
-     * Check if incident has been viewed
-     */
     isViewed(incident) {
         return this.viewedIncidents.has(this.getIncidentId(incident));
     },
 
-    /**
-     * Mark an incident as viewed
-     */
     markAsViewed(incident) {
         const id = this.getIncidentId(incident);
         if (!this.viewedIncidents.has(id)) {
@@ -88,9 +70,6 @@ const ViewState = {
         }
     },
 
-    /**
-     * Update UI to show viewed state for an incident
-     */
     updateViewedUI(id) {
         const row = document.querySelector(`.incident-row[data-incident-id="${id}"]`);
         if (row) {
@@ -98,9 +77,6 @@ const ViewState = {
         }
     },
 
-    /**
-     * Clear all viewed incidents
-     */
     clearViewed() {
         this.viewedIncidents.clear();
         this.saveViewedState();
@@ -109,9 +85,6 @@ const ViewState = {
         });
     },
 
-    /**
-     * Initialize clear viewed link handler
-     */
     initClearViewed() {
         document.addEventListener('click', (e) => {
             if (e.target.matches('a[href="#clear-viewed"]')) {
@@ -122,80 +95,100 @@ const ViewState = {
         });
     },
 
-    // ==================== SORT PREFERENCE ====================
+    // ==================== SORT DROPDOWN ====================
 
-    /**
-     * Initialize sort toggle checkbox
-     */
-    initSortToggle() {
-        const checkbox = document.getElementById('sort-updated-checkbox');
-        if (!checkbox) return;
+    initSortDropdown() {
+        const btn = document.getElementById('sort-btn');
+        const menu = document.getElementById('sort-menu');
+        if (!btn || !menu) return;
 
-        checkbox.checked = this.sortByUpdated;
+        btn.addEventListener('click', (e) => {
+            e.stopPropagation();
+            const isOpen = menu.classList.toggle('open');
+            menu.setAttribute('aria-hidden', !isOpen);
+            btn.classList.toggle('active', isOpen);
+        });
 
-        checkbox.addEventListener('change', () => {
-            this.sortByUpdated = checkbox.checked;
+        menu.querySelectorAll('.sort-option').forEach(option => {
+            option.addEventListener('click', (e) => {
+                e.stopPropagation();
+                this.setSortMode(option.dataset.sort);
+                menu.classList.remove('open');
+                menu.setAttribute('aria-hidden', 'true');
+                btn.classList.remove('active');
+            });
+        });
 
-            // Update toggle visual state
-            const toggle = document.getElementById('view-toggle');
-            if (toggle) {
-                toggle.classList.toggle('list-active', this.currentView === 'list' && !this.sortByUpdated);
-            }
-
-            // Update nav visibility
-            const sectionNav = document.getElementById('section-nav');
-            if (sectionNav && this.currentView === 'list') {
-                sectionNav.style.display = this.sortByUpdated ? 'none' : '';
-            }
-
-            // Update URL with filter param
-            this.updateUrlWithFilter();
-
-            // Re-render via App
-            if (typeof App !== 'undefined') {
-                App.render();
-                if (this.currentView === 'media') {
-                    App.renderMediaGallery();
-                }
-            }
-
-            window.scrollTo({ top: 0, behavior: 'smooth' });
+        document.addEventListener('click', () => {
+            menu.classList.remove('open');
+            menu.setAttribute('aria-hidden', 'true');
+            btn.classList.remove('active');
         });
     },
 
-    /**
-     * Update URL to include or remove ?filter=new based on sortByUpdated state
-     */
-    updateUrlWithFilter() {
-        const basePath = this.currentView === 'list' ? Router.buildUrl('list') : Router.buildUrl('media');
-        const newUrl = Router.buildUrlWithFilter(basePath, this.sortByUpdated);
-        window.history.replaceState({}, '', newUrl);
-    },
+    setSortMode(mode, skipRender) {
+        this.sortMode = mode;
 
-    /**
-     * Disable sort by updated (when navigating to a specific category)
-     */
-    disableSortByUpdated() {
-        this.sortByUpdated = false;
-        const checkbox = document.getElementById('sort-updated-checkbox');
-        if (checkbox) checkbox.checked = false;
-    },
+        // Update active state in dropdown
+        const menu = document.getElementById('sort-menu');
+        if (menu) {
+            menu.querySelectorAll('.sort-option').forEach(opt => {
+                opt.classList.toggle('active', opt.dataset.sort === mode);
+            });
+        }
 
-    /**
-     * Enable sort by updated (when ?filter=new is in URL)
-     */
-    enableSortByUpdated() {
-        this.sortByUpdated = true;
-        const checkbox = document.getElementById('sort-updated-checkbox');
-        if (checkbox) checkbox.checked = true;
+        // Backward compat: keep sortByUpdated in sync
+        this.sortByUpdated = mode !== 'all';
 
         // Update nav visibility
+        const sectionNav = document.getElementById('section-nav');
+        if (sectionNav && this.currentView === 'list') {
+            sectionNav.style.display = (mode !== 'all') ? 'none' : '';
+        }
+
+        // Update sort button visual
+        const sortBtn = document.getElementById('sort-btn');
+        if (sortBtn) {
+            sortBtn.classList.toggle('active', false);
+        }
+
+        // Update URL
+        this.updateUrlWithSort();
+
+        if (!skipRender && typeof App !== 'undefined') {
+            App.render();
+            if (this.currentView === 'media') {
+                App.renderMediaGallery();
+            }
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+    },
+
+    updateUrlWithSort() {
+        const basePath = Router.buildUrl(this.currentView);
+        const sortParam = this.sortMode !== 'all' ? `?sort=${this.sortMode}` : '';
+        window.history.replaceState({}, '', basePath + sortParam);
+    },
+
+    disableSortByUpdated() {
+        this.sortMode = 'all';
+        this.sortByUpdated = false;
+        const menu = document.getElementById('sort-menu');
+        if (menu) {
+            menu.querySelectorAll('.sort-option').forEach(opt => {
+                opt.classList.toggle('active', opt.dataset.sort === 'all');
+            });
+        }
+    },
+
+    enableSortByUpdated() {
+        this.setSortMode('new-updated', true);
+
         const sectionNav = document.getElementById('section-nav');
         if (sectionNav) {
             sectionNav.style.display = 'none';
         }
 
-        // Update toggle visual state
         const toggle = document.getElementById('view-toggle');
         if (toggle) {
             toggle.classList.remove('list-active');
@@ -204,27 +197,18 @@ const ViewState = {
 
     // ==================== VIEW TOGGLE ====================
 
-    /**
-     * Initialize view toggle buttons
-     */
     initViewToggle() {
         const toggle = document.getElementById('view-toggle');
         if (!toggle) return;
 
         toggle.querySelectorAll('.view-btn').forEach(btn => {
             btn.addEventListener('click', () => {
-                const view = btn.dataset.view;
-                this.switchView(view);
+                this.switchView(btn.dataset.view);
             });
         });
     },
 
-    /**
-     * Switch between media and list views
-     * @param {string} view - 'media' or 'list'
-     * @param {boolean} skipUrlUpdate - Don't update URL (for initial load)
-     */
-    switchView(view, skipUrlUpdate = false) {
+    switchView(view, skipUrlUpdate) {
         this.currentView = view;
 
         if (!skipUrlUpdate) {
@@ -233,45 +217,50 @@ const ViewState = {
 
         const listView = document.getElementById('list-view');
         const mediaGallery = document.getElementById('media-gallery');
+        const timelineView = document.getElementById('timeline-view');
         const toggle = document.getElementById('view-toggle');
         const sectionNav = document.getElementById('section-nav');
+        const sortDropdown = document.getElementById('sort-dropdown');
 
         // Update button states
         toggle.querySelectorAll('.view-btn').forEach(btn => {
             btn.classList.toggle('active', btn.dataset.view === view);
         });
 
-        toggle.classList.toggle('list-active', view === 'list' && !this.sortByUpdated);
+        toggle.classList.toggle('list-active', view === 'list' && this.sortMode === 'all');
 
-        // Show/hide section nav
+        // Show/hide section nav (only for list view with 'all' sort)
         if (sectionNav) {
-            sectionNav.style.display = (view === 'media' || this.sortByUpdated) ? 'none' : '';
+            sectionNav.style.display = (view === 'list' && this.sortMode === 'all') ? '' : 'none';
+        }
+
+        // Show/hide sort dropdown (not relevant for timeline)
+        if (sortDropdown) {
+            sortDropdown.style.display = (view === 'timeline') ? 'none' : '';
         }
 
         // Switch views
-        if (view === 'list') {
-            listView.style.display = '';
-            mediaGallery.style.display = 'none';
-            if (typeof App !== 'undefined') App.render();
-        } else {
-            listView.style.display = 'none';
-            mediaGallery.style.display = '';
-            if (typeof App !== 'undefined') App.renderMediaGallery();
+        listView.style.display = (view === 'list') ? '' : 'none';
+        mediaGallery.style.display = (view === 'media') ? '' : 'none';
+        if (timelineView) {
+            timelineView.style.display = (view === 'timeline') ? '' : 'none';
+        }
+
+        if (view === 'list' && typeof App !== 'undefined') {
+            App.render();
+        } else if (view === 'media' && typeof App !== 'undefined') {
+            App.renderMediaGallery();
+        } else if (view === 'timeline' && typeof Timeline !== 'undefined') {
+            Timeline.render();
         }
     },
 
-    /**
-     * Update URL to reflect current view (preserves filter param)
-     */
     updateUrlView(view) {
-        const basePath = view === 'list' ? Router.buildUrl('list') : Router.buildUrl('media');
-        const newUrl = Router.buildUrlWithFilter(basePath, this.sortByUpdated);
-        window.history.replaceState({}, '', newUrl);
+        const basePath = Router.buildUrl(view);
+        const sortParam = (view !== 'timeline' && this.sortMode !== 'all') ? `?sort=${this.sortMode}` : '';
+        window.history.replaceState({}, '', basePath + sortParam);
     },
 
-    /**
-     * Get preferred view - always list
-     */
     getPreferredView() {
         return 'list';
     }

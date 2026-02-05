@@ -620,6 +620,13 @@ def generate_sitemap(incidents, docs_dir):
         "priority": "0.7",
     })
 
+    # Timeline
+    urls.append({
+        "loc": f"{base_url}/timeline",
+        "changefreq": "daily",
+        "priority": "0.7",
+    })
+
     # No-news-media page
     urls.append({
         "loc": f"{base_url}/no-news-media",

@@ -1,0 +1,411 @@
+/*
+ * timeline.css - Timeline View Styles
+ *
+ * All styles for the interactive timeline view.
+ * Isolated from main style.css to keep timeline code separate.
+ */
+
+/* ==================== TOTALS BAR ==================== */
+
+.tl-totals-bar {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 48px;
+    z-index: 99;
+    display: flex;
+    justify-content: center;
+    gap: 4px;
+    padding: 10px 12px;
+    background: var(--color-surface);
+    border-bottom: 1px solid var(--color-border);
+}
+
+.tl-total {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 6px 12px;
+    border-radius: 6px;
+    min-width: 70px;
+}
+
+.tl-total-citizens { background: rgba(191, 57, 137, 0.08); }
+.tl-total-observers { background: rgba(9, 105, 218, 0.08); }
+.tl-total-immigrants { background: rgba(130, 80, 223, 0.08); }
+.tl-total-schools { background: rgba(188, 76, 0, 0.08); }
+
+.tl-count {
+    font-size: 1.4rem;
+    font-weight: 700;
+    font-family: var(--font-serif);
+    line-height: 1;
+}
+
+.tl-total-citizens .tl-count { color: var(--type-citizens); }
+.tl-total-observers .tl-count { color: var(--type-observers); }
+.tl-total-immigrants .tl-count { color: var(--type-immigrants); }
+.tl-total-schools .tl-count { color: var(--type-schools); }
+
+.tl-total-label {
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--color-text-muted);
+    margin-top: 2px;
+}
+
+.tl-count-pop {
+    animation: tl-pop 0.3s ease-out;
+}
+
+@keyframes tl-pop {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.3); }
+    100% { transform: scale(1); }
+}
+
+/* ==================== CONTENT AREA ==================== */
+
+.tl-content {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 0 16px 60px;
+    position: relative;
+}
+
+.tl-content::before {
+    content: '';
+    position: absolute;
+    left: 28px;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: var(--color-border);
+}
+
+/* ==================== YEAR HEADERS ==================== */
+
+.tl-year {
+    position: relative;
+    padding: 32px 0 16px 0;
+    text-align: center;
+}
+
+.tl-year span {
+    display: inline-block;
+    background: var(--color-bg);
+    padding: 4px 20px;
+    font-family: var(--font-serif);
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: var(--color-text);
+    letter-spacing: 0.02em;
+    position: relative;
+    z-index: 1;
+}
+
+/* ==================== MONTH SECTIONS ==================== */
+
+.tl-month {
+    padding: 8px 0;
+}
+
+.tl-month-label {
+    font-family: var(--font-serif);
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--color-text-secondary);
+    padding: 16px 0 8px 52px;
+    margin: 0;
+    letter-spacing: 0.01em;
+}
+
+/* ==================== NARRATIVE MOMENTS ==================== */
+
+.tl-moment {
+    position: relative;
+    padding: 16px 0 16px 52px;
+    margin: 8px 0;
+}
+
+.tl-moment-line {
+    position: absolute;
+    left: 22px;
+    top: 20px;
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    background: var(--type-fatal, #cf222e);
+    border: 3px solid var(--color-surface);
+    box-shadow: 0 0 0 2px var(--type-fatal, #cf222e);
+    z-index: 2;
+}
+
+.tl-moment-content {
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-left: 4px solid var(--type-fatal, #cf222e);
+    border-radius: 0 8px 8px 0;
+    padding: 16px 20px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+.tl-moment-clickable {
+    cursor: pointer;
+}
+
+.tl-moment-clickable:hover .tl-moment-content {
+    border-color: #aab;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+}
+
+.tl-moment-date {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--color-text-muted);
+    margin-bottom: 4px;
+}
+
+.tl-moment-title {
+    font-family: var(--font-serif);
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: var(--color-text);
+    margin: 0 0 8px 0;
+    line-height: 1.3;
+}
+
+.tl-moment-desc {
+    font-size: 0.9rem;
+    line-height: 1.55;
+    color: var(--color-text-secondary);
+    margin: 0;
+}
+
+.tl-moment-img {
+    display: none;
+}
+
+/* ==================== DAY CLUSTERS ==================== */
+
+.tl-day {
+    position: relative;
+    padding: 8px 0 8px 52px;
+}
+
+.tl-day-marker {
+    position: absolute;
+    left: 24px;
+    top: 14px;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: var(--color-border);
+    border: 2px solid var(--color-surface);
+    z-index: 2;
+}
+
+.tl-day-body {
+    padding: 4px 0;
+}
+
+.tl-day-header {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+    margin-bottom: 4px;
+}
+
+.tl-day-date {
+    font-weight: 600;
+    font-size: 0.85rem;
+    color: var(--color-text);
+}
+
+.tl-day-count {
+    font-size: 0.78rem;
+    color: var(--color-text-muted);
+}
+
+.tl-day-titles {
+    padding-left: 0;
+}
+
+.tl-day-incident {
+    font-size: 0.85rem;
+    color: var(--color-text-secondary);
+    padding: 3px 0;
+    cursor: pointer;
+    line-height: 1.35;
+}
+
+.tl-day-incident:hover {
+    color: #5a7a9e;
+}
+
+.tl-day-more {
+    font-size: 0.8rem;
+    color: var(--color-text-muted);
+    padding: 3px 0;
+    cursor: pointer;
+}
+
+.tl-day-more:hover {
+    color: #5a7a9e;
+}
+
+/* ==================== DESKTOP LAYOUT ==================== */
+
+@media (min-width: 768px) {
+    .tl-totals-bar {
+        gap: 16px;
+        padding: 12px 20px;
+    }
+
+    .tl-total {
+        padding: 8px 20px;
+        min-width: 90px;
+    }
+
+    .tl-count {
+        font-size: 1.8rem;
+    }
+
+    .tl-total-label {
+        font-size: 0.7rem;
+    }
+
+    .tl-content {
+        max-width: 800px;
+        padding: 0 24px 80px;
+    }
+
+    .tl-content::before {
+        left: 36px;
+    }
+
+    .tl-month-label {
+        padding-left: 68px;
+        font-size: 1.2rem;
+    }
+
+    .tl-moment {
+        padding-left: 68px;
+    }
+
+    .tl-moment-line {
+        left: 30px;
+        width: 16px;
+        height: 16px;
+    }
+
+    .tl-moment-content {
+        padding: 20px 24px;
+    }
+
+    .tl-moment-title {
+        font-size: 1.3rem;
+    }
+
+    .tl-moment-desc {
+        font-size: 0.95rem;
+    }
+
+    .tl-moment-img {
+        display: block;
+        width: 100%;
+        max-height: 280px;
+        object-fit: cover;
+        border-radius: 6px;
+        margin-top: 12px;
+    }
+
+    .tl-day {
+        padding-left: 68px;
+    }
+
+    .tl-day-marker {
+        left: 32px;
+    }
+
+    .tl-day-incident {
+        font-size: 0.9rem;
+    }
+}
+
+/* ==================== LARGE DESKTOP ==================== */
+
+@media (min-width: 1200px) {
+    .tl-content {
+        max-width: 900px;
+    }
+
+    .tl-count {
+        font-size: 2rem;
+    }
+
+    .tl-moment-img {
+        max-height: 340px;
+    }
+}
+
+/* ==================== NARROW MOBILE ==================== */
+
+@media (max-width: 480px) {
+    .tl-totals-bar {
+        gap: 2px;
+        padding: 8px 8px;
+    }
+
+    .tl-total {
+        padding: 4px 8px;
+        min-width: 60px;
+    }
+
+    .tl-count {
+        font-size: 1.2rem;
+    }
+
+    .tl-total-label {
+        font-size: 0.58rem;
+    }
+
+    .tl-content::before {
+        left: 20px;
+    }
+
+    .tl-month-label {
+        padding-left: 42px;
+    }
+
+    .tl-moment {
+        padding-left: 42px;
+    }
+
+    .tl-moment-line {
+        left: 14px;
+        width: 12px;
+        height: 12px;
+    }
+
+    .tl-moment-content {
+        padding: 12px 14px;
+    }
+
+    .tl-moment-title {
+        font-size: 1rem;
+    }
+
+    .tl-moment-desc {
+        font-size: 0.85rem;
+    }
+
+    .tl-day {
+        padding-left: 42px;
+    }
+
+    .tl-day-marker {
+        left: 16px;
+    }
+}

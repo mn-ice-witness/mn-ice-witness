@@ -85,6 +85,8 @@ const App = {
             ViewState.switchView('list', true);
         } else if (route.type === 'media') {
             ViewState.switchView('media', true);
+        } else if (route.type === 'timeline') {
+            ViewState.switchView('timeline', true);
         } else {
             ViewState.switchView(ViewState.getPreferredView(), true);
         }
@@ -218,6 +220,10 @@ const App = {
 
             case 'media':
                 ViewState.switchView('media', true);
+                break;
+
+            case 'timeline':
+                ViewState.switchView('timeline', true);
                 break;
 
             case 'home':
@@ -371,6 +377,31 @@ const App = {
         MediaGallery.muteAll();
     },
 
+    // ==================== SORT MODES ====================
+
+    applySortMode(incidents, mode) {
+        let list = [...incidents];
+        if (mode === 'new-updated') {
+            list.sort((a, b) => {
+                const dateA = a.lastUpdated || a.date;
+                const dateB = b.lastUpdated || b.date;
+                return dateB.localeCompare(dateA);
+            });
+        } else if (mode === 'new') {
+            list.sort((a, b) => {
+                const dateA = a.created || a.date;
+                const dateB = b.created || b.date;
+                return dateB.localeCompare(dateA);
+            });
+        } else if (mode === 'updated') {
+            list = list.filter(i => i.lastUpdated && i.created && i.lastUpdated !== i.created);
+            list.sort((a, b) => b.lastUpdated.localeCompare(a.lastUpdated));
+        } else if (mode === 'occurred') {
+            list.sort((a, b) => b.date.localeCompare(a.date));
+        }
+        return list;
+    },
+
     // ==================== RENDERING ====================
 
     /**
@@ -476,13 +507,9 @@ const App = {
         // Clear existing sections
         container.querySelectorAll('.incident-section').forEach(el => el.remove());
 
-        // Sort by updated if enabled
-        if (ViewState.sortByUpdated) {
-            const sorted = [...filtered].sort((a, b) => {
-                const dateA = a.lastUpdated || a.date;
-                const dateB = b.lastUpdated || b.date;
-                return dateB.localeCompare(dateA);
-            });
+        // Non-default sort modes: render as flat list
+        if (ViewState.sortMode !== 'all') {
+            const sorted = this.applySortMode(filtered, ViewState.sortMode);
             this.renderFlatList(container, sorted);
             return;
         }
