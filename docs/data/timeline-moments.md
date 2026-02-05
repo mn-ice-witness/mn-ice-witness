@@ -39,6 +39,14 @@ source:
 Renee Nicole Macklin Good, 37, a writer, poet, and mother of three, is fatally shot by ICE agent Jonathan Ross while in her car in south Minneapolis. Her death becomes a catalyst for massive protests and legal action.
 
 ---
+date: 2026-01-07
+title: Border Patrol Raids Roosevelt High School
+incident: 2026-01-07-roosevelt-high-school
+source:
+---
+Federal agents descend on Roosevelt High School during dismissal, tackle people on school grounds, and deploy chemical irritants. A special education assistant — a U.S. citizen — is detained. Minneapolis Public Schools cancels classes. Former Governor Jesse Ventura, a Roosevelt graduate, visits the next day and calls ICE "the draft-dodging coward's Gestapo."
+
+---
 date: 2026-01-08
 title: "Citizen Checks" Begin
 incident: 2026-01-08-ahmed-hassan-uber-driver
