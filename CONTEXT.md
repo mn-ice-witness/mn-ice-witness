@@ -160,16 +160,26 @@ Use documentary tone. Let facts speak for themselves.
 | exclusive, breaking | (omit) |
 
 ### Daily Search Command
-When user says **"do our daily search"** or **"do a metro search"**, follow `dev-docs/daily-search-procedure.md` exactly:
-1. Read existing incidents, `not_use.md`, and no-news-media incidents first
-2. Launch 4-6 parallel search agents with different strategies
-3. Cross-reference all findings against existing files
-4. Report: new incidents, updates to existing, additions to not_use.md, no-news-media upgrades
+When user says **"do our daily search"**, **ASK FIRST:**
+1. **Time scope:** "Last 2 days, or broaden to catch missed incidents?"
+2. **Geographic scope:** "Metro, outstate, or all MN?"
+
+Then follow `dev-docs/daily-search-procedure.md`:
+1. Read `docs/data/search-index.md` (has CURRENT, NO-ADD, REMOVED, NO-NEWS-MEDIA)
+2. Launch 4-6 parallel search agents
+3. Cross-reference findings against existing files
+4. **Report NEW INCIDENTS FIRST** — after adding, report updates and status changes
 
 **Search scope commands:**
 - **"do our daily search"** / **"do a metro search"** = Twin Cities sources only
 - **"do an outstate search"** = Greater MN: Rochester, Duluth, Mankato, St. Cloud, Moorhead, Brainerd
 - **"do a full search"** = Both metro + outstate
+
+**Output priority:**
+1. New incidents (present first, add before anything else)
+2. Status changes (no-add/no-news-media → real incident)
+3. Updates to existing (require `## Updates` entry)
+4. New sources (add silently, don't update `last_updated`)
 
 ### When User Provides a Link to Add
 **⚠️ CRITICAL:** Do NOT just use the source the user gave you. **Always search for additional coverage first.**

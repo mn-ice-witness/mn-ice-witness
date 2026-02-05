@@ -15,7 +15,7 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (184 incidents)
+## CURRENT (185 incidents)
 
 Published incidents visible on the main site.
 
@@ -25,6 +25,7 @@ Published incidents visible on the main site.
 - incidents/2026-02/01/2026-02-01-fareh-home-surrounded-rochester.md | 2026-02-01 | Rochester | citizens | Citizen Check: ICE Agents Surround U.S. Citizen Family Home in Rochester
 - incidents/2026-01/31/2026-01-31-rochester-government-center-citizen-detained.md | 2026-01-31 | Rochester | citizens | U.S. Citizen Detained at Olmsted County Government Center, Released After Identity Verified
 - incidents/2026-01/30/2026-01-30-dhs-response-racial-profiling-false.md | 2026-01-30 | Minneapolis | response | DHS Response: Racial Profiling Allegations Are "Disgusting, Reckless and Categorically FALSE"
+- incidents/2026-01/30/2026-01-30-natifs-employee-detained.md | 2026-01-30 | Minneapolis | citizens | NATIFS Restaurant Employee Detained at Gunpoint, Flown to Texas
 - incidents/2026-01/30/2026-01-30-richfield-middle-school-bus-route.md | 2026-01-30 | Richfield | schools-hospitals | Federal Agents Present on Richfield Middle School Bus Route
 - incidents/2026-01/30/2026-01-30-st-peter-police-chief-intervenes.md | 2026-01-30 | St. Peter | observers | St. Peter Police Chief Retrieves U.S. Citizen From ICE Custody Mid-Transport
 - incidents/2026-01/29/2026-01-29-columbia-heights-hs-students-harassed.md | 2026-01-29 | Columbia Heights | citizens, schools-hospitals | Columbia Heights High School Students Harassed by ICE Agents
@@ -206,7 +207,7 @@ Published incidents visible on the main site.
 
 ---
 
-## NO-ADD (123 entries)
+## NO-ADD (124 entries)
 
 Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 
@@ -329,6 +330,7 @@ Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 - dev-docs/not_use.md | Feb 2026 | El Tapatio Willmar Reopening
 - dev-docs/not_use.md | Feb 4 | Tom Homan 700-Agent Drawdown Announcement
 - dev-docs/not_use.md | Feb 3-4 | Venezuelan Men Re-Detained at Courthouse
+- dev-docs/not_use.md | Feb 4 | School Districts Lawsuit Against DHS
 - dev-docs/not_use.md | Dec 13, 2025 | Loc Vinh Truong Rochester
 - dev-docs/not_use.md | Dec 13-14, 2025 | Willmar December 13-14 HSI Arrests
 - dev-docs/not_use.md | n/a | ICE Raids Two Hibbing Mexican Restaurants

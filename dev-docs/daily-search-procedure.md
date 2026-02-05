@@ -2,6 +2,63 @@
 
 Step-by-step guide for searching for and documenting new ICE incidents.
 
+---
+
+## When User Says "Do Our Daily Search"
+
+**CRITICAL: Always ask clarifying questions first.**
+
+When the user initiates a daily search, ASK before proceeding:
+
+1. **Time scope:** "Should I focus on the last 2 days, or broaden the search to catch missed incidents?"
+2. **Geographic scope:** "All of MN, metro only, or outstate only?"
+
+**Default if user says "just go":** Last 2 days, metro focus.
+
+---
+
+## Search Priorities (In This Order)
+
+**Present results in this order — don't mix them:**
+
+### Priority 1: NEW INCIDENTS (Present First)
+The primary goal of daily searches. Look for stories we haven't documented yet.
+
+### Priority 2: STATUS CHANGES (Present After New Incidents Added)
+- **Upgrading no-news-media → real incident:** Found legitimate news coverage for a previously unverified story
+- **Upgrading no-add → real incident:** New information changes the assessment
+- **Removing an incident:** Very rare — only when contradicting information emerges (see `removed-incidents.md`)
+
+### Priority 3: UPDATES TO EXISTING INCIDENTS (Present Last)
+- New developments (court rulings, releases, new facts)
+- These require adding `## Updates` entry AND updating `last_updated`
+
+### Priority 4: NEW SOURCES (Document Along the Way, Don't Announce)
+- Additional coverage for existing incidents
+- Add these quietly to incident files — no need to report unless they contain new information
+- Do NOT update `last_updated` for new sources alone
+
+**Workflow:** Present new incidents first. After user confirms which to add, THEN present updates and status changes.
+
+---
+
+## Awareness of Existing Incidents
+
+**Before searching, you MUST know what already exists.** This prevents:
+- Adding duplicate incidents
+- Proposing stories already in not_use.md
+- Missing opportunities to upgrade no-news-media incidents
+
+**Read `docs/data/search-index.md` FIRST** — it has 4 sections:
+| Section | What It Contains |
+|---------|------------------|
+| **CURRENT** | Published incidents (won't add these again) |
+| **NO-ADD** | Rejected stories (don't propose unless new info) |
+| **REMOVED** | Retracted incidents (acknowledge if found) |
+| **NO-NEWS-MEDIA** | Unverified incidents that may upgrade with news coverage |
+
+---
+
 ## Ad-Hoc Incident Additions (User Provides a Link)
 
 **⚠️ CRITICAL:** When a user provides a news link and asks you to add an incident, **DO NOT just use that one source.** Always search for additional coverage first.
@@ -69,38 +126,47 @@ Launch **4-6 agents simultaneously** with different search strategies:
 Each agent should:
 1. Cross-reference findings against existing `docs/incidents/` files
 2. Cross-reference against `dev-docs/not_use.md`
-3. Return structured report with:
+3. **Remember but don't report yet:**
+   - Updates to existing incidents (new sources, status changes)
+   - No-news-media upgrades
+4. **Report immediately:**
    - **New incidents found** (date, location, description, sources)
    - **Already documented** (incident matched existing file)
    - **Add to not_use.md** (evaluated and rejected, with reason)
-   - **Updates to existing** (new sources, status changes)
-   - **No-news-media upgrades** (news found for no-news-media incidents)
 
-### Phase 4: Output
-After agents complete, produce summary table:
+### Phase 4: Output — NEW INCIDENTS FIRST
 
+**Critical: Present new incidents first.** After the user reviews and we add them, then present updates.
+
+**Step 1: Report New Incidents**
 ```markdown
-## Daily Search Results - [Date]
+## Daily Search Results - [Date] - Scope: [metro/outstate/full] - [last 2 days / broader]
 
 ### New Incidents Found
 | Date | Location | Description | Video? | Sources | Action |
 |------|----------|-------------|--------|---------|--------|
 
-### Existing Incidents Updated
-| Incident | Update Type | Details |
-|----------|-------------|---------|
-
 ### Added to not_use.md
 | Story | Reason |
 |-------|--------|
-
-### No-News-Media Status Changes
-| Incident | Old Status | New Status | Evidence |
-|----------|------------|------------|----------|
-
-### Search Terms Used
-[List all search queries run]
 ```
+
+**Step 2: After Adding New Incidents, Report Updates**
+```markdown
+### Status Changes (no-add/no-news-media → real incident)
+| Incident | Previous Status | New Status | Evidence |
+|----------|-----------------|------------|----------|
+
+### Updates to Existing Incidents (requires ## Updates entry)
+| Incident | Update Type | Details |
+|----------|-------------|---------|
+
+### New Sources Added (no report needed, just document)
+[Added to N incident files — no last_updated changes]
+```
+
+### Phase 5: Rarely — Incident Removal
+Very rarely, contradicting information may require removing an incident. See `removed-incidents.md` for procedure. Flag these for user review — never remove without confirmation.
 
 ---
 
@@ -135,26 +201,51 @@ Launch **4-6 agents simultaneously** targeting outstate cities:
 
 This procedure is designed to be run **1-2 times daily**. For efficient recurring searches:
 
-1. **Focus on the last 24-48 hours** - Prioritize yesterday and today's dates
-2. **Check BMTN daily lists first** - Bring Me The News publishes daily roundup articles
-3. **Use the Task tool with Explore agent** - Get comprehensive incident summary before searching
-4. **Cross-reference quickly** - Many searches will confirm existing coverage; that's expected
+1. **Ask about time scope** - Default is last 2 days, but user may request broader search for missed incidents
+2. **Ask about geographic scope** - Metro, outstate, or full MN
+3. **Check BMTN daily lists first** - Bring Me The News publishes daily roundup articles
+4. **Use the Task tool with Explore agent** - Get comprehensive incident summary before searching
+5. **Cross-reference quickly** - Many searches will confirm existing coverage; that's expected
+
+### Time Scope Options
+| Scope | When to Use | Search Dates |
+|-------|-------------|--------------|
+| **Last 2 days** (default) | Normal daily search | Yesterday + today |
+| **Last week** | Catching up after break | Last 7 days |
+| **Broader** | Looking for missed/rare incidents | User specifies range |
 
 ### Quick Start for Daily Searches
 ```
-1. Read existing incidents (use Explore agent for summary)
-2. Search BMTN for "List of major ICE raids" + [yesterday/today date]
-3. Run 4-5 parallel web searches for recent incidents
-4. Cross-reference results against existing files
-5. Document new incidents, add sources to existing, update not_use.md
+1. ASK: "Last 2 days? Metro, outstate, or all MN?"
+2. Read search-index.md for existing incidents
+3. Search BMTN for "List of major ICE raids" + [dates]
+4. Run 4-5 parallel web searches for recent incidents
+5. Cross-reference results against existing files
+6. REPORT NEW INCIDENTS FIRST
+7. After adding, report updates and new sources
 ```
 
 ## Before You Start
 
-1. **Read existing incidents list** - Check `docs/incidents/` to see what's already documented
-2. **Read not_use.md** - Check `dev-docs/not_use.md` for stories already evaluated and rejected
+**⚠️ You must know what exists before searching. This prevents duplicates and wasted effort.**
+
+1. **Ask clarifying questions** - Time scope (last 2 days or broader?) and geographic scope (metro/outstate/full?)
+2. **Read `docs/data/search-index.md`** - Contains CURRENT, NO-ADD, REMOVED, and NO-NEWS-MEDIA in one file
 3. **Note the current date** - Search results are time-sensitive
 4. **Check recent git activity** - Use git diff to monitor changes (see below)
+
+---
+
+## When You Can't Fetch a URL
+
+**The user can help.** When WebFetch fails or returns login walls/paywalls/403 errors:
+
+1. **Print the URL** you're trying to access
+2. **Ask:** "Can you paste the article text so I can extract the details?"
+3. **Do this one URL at a time** — don't dump a list of URLs
+4. **User will copy/paste** the article contents for you to parse
+
+This is faster than trying multiple fetch workarounds. The user has browser access to most sources.
 
 ### Using Git Diff to Monitor Recent Changes
 
@@ -324,8 +415,11 @@ These provide incontrovertible evidence and should be documented with HIGH trust
 - Protest-only coverage without a civil rights incident
 - Criminal investigations (drug trafficking, weapons)
 - Detainees with criminal convictions
-- Single single social media posts without news coverage
+- Single social media posts without news coverage
 - Rumors without any news pickup
+- **Incidents where we can't determine the detained person's status** — If we don't know whether someone is a citizen, legal resident, or undocumented immigrant, we can't categorize the incident. Skip it unless more information emerges.
+
+**Key principle:** Every incident must clearly fit into one of our categories (citizens, immigrants, observers, schools-hospitals, response). If you can't determine the category, don't add it.
 
 **PROMOTING from not_use.md:** If new information upgrades a rejected story into a valid incident, create the incident file and **remove the entry from not_use.md entirely**. Don't mark it or leave a stub — the incident file is the record.
 
