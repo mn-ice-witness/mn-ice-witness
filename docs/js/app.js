@@ -17,7 +17,7 @@ const App = {
 
     // Category labels for display
     categoryLabels: {
-        'citizens': 'CITIZENS',
+        'citizens': 'CITIZEN/LEGAL',
         'observers': 'OBSERVERS',
         'immigrants': 'IMMIGRANTS',
         'schools-hospitals': 'SCHOOLS',
