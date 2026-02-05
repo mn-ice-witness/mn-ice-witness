@@ -15,7 +15,7 @@ last_updated: 2026-02-05T14:18:31
 # Trump Threatens Military Deployment to Minneapolis Under Insurrection Act
 
 ## Updates
-- **Feb 2** - [Northern Command orders troops to stand down](https://www.nytimes.com/2026/02/02/us/politics/alaska-north-carolina-troops-minnesota-deployment.html). The second fatal shooting of a U.S. citizen (Alex Pretti on Jan 24) "galvanized public sentiment against the federal government's tactics and forced the administration to retreat."
+- **Feb 1** - [Northern Command orders troops to stand down](https://www.nytimes.com/2026/02/02/us/politics/alaska-north-carolina-troops-minnesota-deployment.html). The second fatal shooting of a U.S. citizen (Alex Pretti on Jan 24) "galvanized public sentiment against the federal government's tactics and forced the administration to retreat."
 - **Jan 18** - [Pentagon puts 1,500 troops on standby](https://www.npr.org/2026/01/18/nx-s1-5681372/us-military-troops-on-standby-for-possible-deployment-to-minnesota) from the 11th Airborne Division in Alaska.
 - **Jan 17** - Trump tells reporters he doesn't think he needs to invoke the Insurrection Act "right now."
 
@@ -58,7 +58,7 @@ Chief Pentagon spokesperson Sean Parnell stated: "The Department of War is alway
 By Friday, January 17, Trump appeared to walk back the threat. He told reporters that he didn't think he needed to use the Insurrection Act "right now" and that there wasn't a reason to use it "anymore."
 
 ### The Stand Down
-Over the weekend of February 1-2, 2026, Northern Command quietly ordered the active-duty troops to stand down. According to the New York Times, "the shooting death by immigration officers of a second U.S. citizen, Alex Pretti, on Jan. 24 galvanized public sentiment against the federal government's tactics and forced the administration to retreat."
+Over the weekend of January 31 - February 1, 2026, Northern Command quietly ordered the active-duty troops to stand down. According to the New York Times, "the shooting death by immigration officers of a second U.S. citizen, Alex Pretti, on Jan. 24 galvanized public sentiment against the federal government's tactics and forced the administration to retreat."
 
 ## Official Accounts
 
