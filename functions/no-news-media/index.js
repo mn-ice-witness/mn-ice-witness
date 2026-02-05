@@ -16,8 +16,9 @@ export async function onRequest(context) {
   // Build OG meta tags for no-news-media page
   const ogTags = buildNoNewsMediaOgTags(baseUrl.origin);
 
-  // Inject OG tags into <head>
+  // Inject OG tags and page-specific title/canonical/description into <head>
   html = injectOgTags(html, ogTags);
+  html = injectPageMeta(html, ogTags);
 
   return new Response(html, {
     headers: {
@@ -42,6 +43,18 @@ function buildNoNewsMediaOgTags(origin) {
     'twitter:description': description,
     'twitter:image': `${origin}/assets/og-image.jpg`,
   };
+}
+
+function injectPageMeta(html, tags) {
+  const title = tags['og:title'];
+  const desc = tags['og:description'];
+  const url = tags['og:url'];
+  const escapedTitle = title.replace(/"/g, '&quot;');
+  const escapedDesc = desc.replace(/"/g, '&quot;');
+  html = html.replace(/<title>[^<]*<\/title>/, `<title>${escapedTitle}</title>`);
+  html = html.replace(/<link rel="canonical" href="[^"]*">/, `<link rel="canonical" href="${url}">`);
+  html = html.replace(/<meta name="description" content="[^"]*">/, `<meta name="description" content="${escapedDesc}">`);
+  return html;
 }
 
 function injectOgTags(html, tags) {
