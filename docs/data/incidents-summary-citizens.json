@@ -49,13 +49,18 @@
       "lastUpdated": "2026-02-04T16:11:03",
       "mediaCount": 0,
       "notable": false,
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
+      "hasLocalMedia": true,
+      "localMediaType": "image",
+      "localMediaPath": "media/2026-02/01/2026-02-01-fareh-home-surrounded-rochester.jpg",
       "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
+      "localMediaFiles": [
+        {
+          "type": "image",
+          "path": "media/2026-02/01/2026-02-01-fareh-home-surrounded-rochester.jpg"
+        }
+      ],
+      "aspectRatio": 1.7241379310344827,
+      "mediaVersion": 1770254400
     },
     {
       "filePath": "incidents/2026-01/31/2026-01-31-rochester-government-center-citizen-detained.md",

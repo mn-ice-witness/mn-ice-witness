@@ -60,6 +60,9 @@ export async function onRequest(context) {
 
       // Inject OG tags into <head> (replace existing generic ones)
       html = injectOgTags(html, ogTags);
+
+      // Inject per-incident structured data and title
+      html = injectStructuredData(html, incident, baseUrl.origin, slug);
     }
     // If incident not found, return page anyway (JS will show 404 lightbox)
 
@@ -104,6 +107,74 @@ function buildOgTags(incident, origin, slug) {
     'twitter:description': description,
     'twitter:image': image,
   };
+}
+
+function injectStructuredData(html, incident, origin, slug) {
+  const title = incident.title;
+  const description = incident.summary.length > 200
+    ? incident.summary.substring(0, 197) + '...'
+    : incident.summary;
+  const url = `${origin}/entry/${slug}`;
+  const city = incident.city || 'Minnesota';
+
+  let image = `${origin}/assets/og-image.jpg`;
+  if (incident.hasLocalMedia) {
+    if (incident.localMediaType === 'image') {
+      image = `${origin}/${incident.localMediaPath}`;
+    } else if (incident.localMediaType === 'video' && incident.localMediaOgPath) {
+      image = `${origin}/${incident.localMediaOgPath}`;
+    }
+  }
+
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": title,
+    "description": description,
+    "url": url,
+    "image": image,
+    "datePublished": incident.created,
+    "dateModified": incident.lastUpdated,
+    "author": {
+      "@type": "Organization",
+      "name": "MN ICE Witness",
+      "url": origin
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "MN ICE Witness",
+      "url": origin
+    },
+    "mainEntityOfPage": url,
+    "keywords": `ICE, ${city}, Minnesota, immigration enforcement, Operation Metro Surge`,
+    "contentLocation": {
+      "@type": "Place",
+      "name": `${city}, Minnesota`
+    }
+  };
+
+  const jsonLd = `    <script type="application/ld+json">\n    ${JSON.stringify(articleSchema)}\n    </script>`;
+
+  // Inject the per-incident title and structured data before </head>
+  const escapedTitle = title.replace(/"/g, '&quot;');
+  const newTitle = `    <title>${escapedTitle} | MN ICE Witness</title>`;
+  html = html.replace(/<title>[^<]*<\/title>/, newTitle);
+  html = html.replace('</head>', `${jsonLd}\n</head>`);
+
+  // Set canonical URL for this specific incident
+  html = html.replace(
+    /<link rel="canonical" href="[^"]*">/,
+    `<link rel="canonical" href="${url}">`
+  );
+
+  // Update meta description for this incident
+  const escapedDesc = description.replace(/"/g, '&quot;');
+  html = html.replace(
+    /<meta name="description" content="[^"]*">/,
+    `<meta name="description" content="${escapedDesc}">`
+  );
+
+  return html;
 }
 
 function injectOgTags(html, tags) {

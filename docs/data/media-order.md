@@ -6,6 +6,8 @@
 
 
 
+
+
 juan-carlos-brutality
 aliya-rahman-car-window-hospitalized
 speedway-st-paul
@@ -101,3 +103,5 @@ jose-lozano-worthington
 perla-ocampo-willmar-citizen
 thi-dua-vang-st-paul
 observers-detained-gunpoint-midtown-phillips
+fareh-home-surrounded-rochester
+suburban-observers-pursued-highway

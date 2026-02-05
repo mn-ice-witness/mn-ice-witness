@@ -23,8 +23,9 @@ export async function onRequest(context) {
   // Build OG meta tags
   const ogTags = buildListOgTags(baseUrl.origin, category);
 
-  // Inject OG tags into <head>
+  // Inject OG tags and page-specific title/canonical/description into <head>
   html = injectOgTags(html, ogTags);
+  html = injectPageMeta(html, ogTags);
 
   return new Response(html, {
     headers: {
@@ -36,24 +37,24 @@ export async function onRequest(context) {
 function buildListOgTags(origin, category) {
   const categories = {
     'citizens': {
-      title: 'U.S. Citizens & Legal Residents',
-      description: 'Documented incidents of U.S. citizens and legal residents wrongly detained or stopped by ICE in Minnesota.',
+      title: 'U.S. Citizens & Legal Residents Detained by ICE',
+      description: 'Documented incidents of U.S. citizens and legal residents wrongly detained, stopped, or racially profiled by ICE agents in Minnesota during Operation Metro Surge.',
     },
     'observers': {
-      title: 'Observers & Protesters',
-      description: 'Documented incidents of observers and protesters arrested or attacked during ICE operations in Minnesota.',
+      title: 'Observers & Protesters Targeted by ICE',
+      description: 'Documented incidents of observers, protesters, and journalists arrested, pepper sprayed, or attacked while filming ICE operations in Minnesota.',
     },
     'immigrants': {
-      title: 'Community Members',
-      description: 'Documented incidents of non-criminal community members detained by ICE in Minnesota.',
+      title: 'Immigration Arrests & Detentions in Minnesota',
+      description: 'Documented ICE arrests and detentions of community members in Minnesota. Includes workplace raids, family separations, and deportations during Operation Metro Surge.',
     },
-    'schools': {
-      title: 'Schools & Hospitals',
-      description: 'Documented ICE/CBP actions at schools and hospitals in Minnesota.',
+    'schools-hospitals': {
+      title: 'ICE Activity Near Schools & Hospitals in Minnesota',
+      description: 'Documented ICE/CBP enforcement actions at or near schools, daycares, and hospitals in Minnesota. Includes school lockdowns, student detentions, and disruptions.',
     },
     'response': {
-      title: 'Official Federal Response',
-      description: 'DHS and ICE official statements regarding Minnesota enforcement operations.',
+      title: 'Official DHS & ICE Statements on Minnesota Operations',
+      description: 'Official DHS, ICE, and federal government statements and responses regarding enforcement operations in Minnesota during Operation Metro Surge.',
     },
   };
 
@@ -82,6 +83,18 @@ function buildListOgTags(origin, category) {
     'twitter:description': description,
     'twitter:image': `${origin}/assets/og-image.jpg`,
   };
+}
+
+function injectPageMeta(html, tags) {
+  const title = tags['og:title'];
+  const desc = tags['og:description'];
+  const url = tags['og:url'];
+  const escapedTitle = title.replace(/"/g, '&quot;');
+  const escapedDesc = desc.replace(/"/g, '&quot;');
+  html = html.replace(/<title>[^<]*<\/title>/, `<title>${escapedTitle}</title>`);
+  html = html.replace(/<link rel="canonical" href="[^"]*">/, `<link rel="canonical" href="${url}">`);
+  html = html.replace(/<meta name="description" content="[^"]*">/, `<meta name="description" content="${escapedDesc}">`);
+  return html;
 }
 
 function injectOgTags(html, tags) {

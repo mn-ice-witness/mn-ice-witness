@@ -585,6 +585,86 @@ def generate_search_index(incidents, data_dir, project_root):
     }
 
 
+def generate_sitemap(incidents, docs_dir):
+    """Generate sitemap.xml with all indexable URLs."""
+    base_url = "https://mn-ice-witness.org"
+
+    urls = []
+
+    # Homepage
+    urls.append({
+        "loc": f"{base_url}/",
+        "changefreq": "daily",
+        "priority": "1.0",
+    })
+
+    # About page
+    urls.append({
+        "loc": f"{base_url}/about",
+        "changefreq": "weekly",
+        "priority": "0.8",
+    })
+
+    # Category list pages
+    for cat in CATEGORIES:
+        urls.append({
+            "loc": f"{base_url}/list/{cat}",
+            "changefreq": "daily",
+            "priority": "0.8",
+        })
+
+    # Media gallery
+    urls.append({
+        "loc": f"{base_url}/media",
+        "changefreq": "daily",
+        "priority": "0.7",
+    })
+
+    # No-news-media page
+    urls.append({
+        "loc": f"{base_url}/no-news-media",
+        "changefreq": "weekly",
+        "priority": "0.5",
+    })
+
+    # Individual incident pages (only verified/published ones)
+    for incident in incidents:
+        trust = incident.get("trustworthiness", "").lower()
+        if trust in ("removed",):
+            continue
+        slug = Path(incident["filePath"]).stem
+        last_updated = incident.get("lastUpdated", "")
+        lastmod = last_updated[:10] if last_updated else incident.get("date", "")
+        urls.append({
+            "loc": f"{base_url}/entry/{slug}",
+            "lastmod": lastmod,
+            "changefreq": "weekly",
+            "priority": "0.6",
+        })
+
+    # Build XML
+    xml_lines = [
+        '<?xml version="1.0" encoding="UTF-8"?>',
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
+    ]
+
+    for url in urls:
+        xml_lines.append("  <url>")
+        xml_lines.append(f"    <loc>{url['loc']}</loc>")
+        if url.get("lastmod"):
+            xml_lines.append(f"    <lastmod>{url['lastmod']}</lastmod>")
+        xml_lines.append(f"    <changefreq>{url['changefreq']}</changefreq>")
+        xml_lines.append(f"    <priority>{url['priority']}</priority>")
+        xml_lines.append("  </url>")
+
+    xml_lines.append("</urlset>")
+    xml_lines.append("")
+
+    sitemap_path = docs_dir / "sitemap.xml"
+    sitemap_path.write_text("\n".join(xml_lines))
+    return len(urls)
+
+
 def main():
     script_dir = Path(__file__).parent
     project_root = script_dir.parent
@@ -616,10 +696,12 @@ def main():
 
     category_counts = generate_category_files(incidents, data_dir)
     search_counts = generate_search_index(incidents, data_dir, project_root)
+    sitemap_count = generate_sitemap(incidents, docs_dir)
 
     print(f"Generated {len(incidents)} incidents ({media_count} with media)")
     print(f"  Category files: {category_counts}")
     print(f"  Search index: {search_counts['current']} current, {search_counts['no_add']} no-add, {search_counts['removed']} removed, {search_counts['no_news_media']} no-news-media")
+    print(f"  Sitemap: {sitemap_count} URLs")
 
 
 if __name__ == "__main__":
