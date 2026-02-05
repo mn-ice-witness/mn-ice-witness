@@ -15,7 +15,7 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (187 incidents)
+## CURRENT (188 incidents)
 
 Published incidents visible on the main site.
 
@@ -86,6 +86,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/16/2026-01-16-nevada-avenue-12-year-old-deported.md | 2026-01-16 | St. Paul | immigrants | Venezuelan Family Detained, Including 12-Year-Old Sent to Texas
 - incidents/2026-01/16/2026-01-16-newsguild-member-el-paso.md | 2026-01-16 | Minneapolis | immigrants | NewsGuild Union Member Detained and Transferred to Texas
 - incidents/2026-01/16/2026-01-16-owatonna-15-year-old-pepper-sprayed.md | 2026-01-16 | Owatonna | observers | 15-Year-Old Girl Pepper Sprayed While Observing ICE Operation
+- incidents/2026-01/16/2026-01-16-trump-insurrection-act-threat.md | 2026-01-16 | Washington D.C. | response | Trump Threatens Military Deployment to Minneapolis Under Insurrection Act
 - incidents/2026-01/15/2026-01-15-mohammed-hoque-msu-mankato.md | 2026-01-15 | Mankato | citizens | MSU Mankato Student Mohammed Hoque Detained by ICE a Second Time
 - incidents/2026-01/15/2026-01-15-el-tapatio-willmar.md | 2026-01-15 | Willmar | immigrants | ICE Agents Dine at El Tapatio, Then Return to Detain Workers
 - incidents/2026-01/15/2026-01-15-porter-wrong-address-raid.md | 2026-01-15 | Minneapolis | citizens | Federal Agents Execute Search Warrant at Wrong Address; U.S. Citizen Mistakenly Arrested

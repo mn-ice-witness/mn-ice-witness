@@ -137,5 +137,8 @@ DHS claimed 1,360+ "criminal illegal aliens" in Minnesota state custody with ICE
 - Total: approximately 301 people, about 4.5 times less than DHS claimed
 - The Department stated it "has not found a single case where the state failed to honor an ICE detainer"
 
+## Related Incidents
+- [Trump Threatens Military Deployment Under Insurrection Act](#2026-01-16-trump-insurrection-act-threat)
+
 ## Editorial Assessment
 **HIGH** - Multiple major news outlets (NPR, PBS, Washington Post, NBC, ABC, MPR) provided extensive coverage of both press conferences with direct quotes and video. Official statements are documented from DHS sources. Local officials' contradictions are also documented by credible sources.

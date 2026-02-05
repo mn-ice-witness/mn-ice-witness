@@ -560,6 +560,37 @@
       "mediaVersion": 1769985954
     },
     {
+      "filePath": "incidents/2026-01/16/2026-01-16-trump-insurrection-act-threat.md",
+      "title": "Trump Threatens Military Deployment to Minneapolis Under Insurrection Act",
+      "summary": "President Trump threatened to invoke the Insurrection Act to deploy military forces to Minneapolis, warning he would use the law if \"corrupt politicians\" don't \"obey the law and stop the professional agitators and insurrectionists.\" The Pentagon subsequently placed 1,500 active-duty troops from the 11th Airborne Division in Alaska on standby for possible deployment. Trump walked back the threat a day later, and troops were stood down after the second fatal shooting of a U.S. citizen by federal agents.",
+      "latestUpdate": "[Northern Command orders troops to stand down](https://www.nytimes.com/2026/02/02/us/politics/alaska-north-carolina-troops-minnesota-deployment.html). The second fatal shooting of a U.S. citizen (Alex Pretti on Jan 24) \"galvanized public sentiment against the federal government's tactics and forced the administration to retreat.\"",
+      "date": "2026-01-16",
+      "time": "unknown",
+      "location": "White House",
+      "city": "Washington D.C.",
+      "type": "response",
+      "status": "resolved",
+      "affectedIndividualCitizenship": "n/a",
+      "injuries": "none",
+      "trustworthiness": "high",
+      "created": "2026-02-05T14:18:31",
+      "lastUpdated": "2026-02-05T14:18:31",
+      "mediaCount": 0,
+      "notable": false,
+      "hasLocalMedia": true,
+      "localMediaType": "video",
+      "localMediaPath": "media/2026-01/16/2026-01-16-trump-insurrection-act-threat.mp4",
+      "localMediaOgPath": "media/2026-01/16/2026-01-16-trump-insurrection-act-threat-og-18s-1770322836.jpg",
+      "localMediaFiles": [
+        {
+          "type": "video",
+          "path": "media/2026-01/16/2026-01-16-trump-insurrection-act-threat.mp4"
+        }
+      ],
+      "aspectRatio": 1.8195488721804511,
+      "mediaVersion": 1770322836
+    },
+    {
       "filePath": "incidents/2026-01/14/2026-01-14-dhs-response-frey-sanctuary.md",
       "title": "DHS Blames Mayor Frey's Sanctuary Policies for Criminal Release",
       "summary": "DHS issued a statement criticizing Minneapolis Mayor Jacob Frey's sanctuary city policies, claiming they have resulted in the release of \"nearly 470 criminal illegal aliens\" back onto Minnesota streets since President Trump took office. The statement centered on a vehicular homicide case as evidence for why sanctuary policies are \"dangerous.\"",
