@@ -59,6 +59,7 @@ date: 2026-01-09
 title: Schools Close Across Twin Cities
 incident: 2026-01-09-fridley-schools-closure
 source:
+image: false
 ---
 Fridley and Columbia Heights school districts cancel all classes as one-third of students are absent due to fear of ICE activity. Multiple other districts follow suit in the days ahead, disrupting education for tens of thousands of students.
 
@@ -145,31 +146,31 @@ Alex Jeffrey Pretti, 37, an ICU nurse and VA employee, is fatally shot by CBP ag
 ---
 date: 2026-01-27
 title: Drawdown Begins
-incident:
-source: https://www.npr.org/2026/01/27/nx-s1-5690183/minnesota-gov-tim-walz-and-border-czar-tom-homan-begin-talks-over-ice-surge
+incident: 2026-01-27-homan-draw-down-minneapolis
+source:
 ---
 Border czar Tom Homan meets with Governor Tim Walz. The divisive Border Patrol commander Greg Bovino is removed from Minnesota operations. Both sides agree to ongoing dialogue and a "changed tone."
 
 ---
 date: 2026-01-28
 title: Judge Finds 96 Court Orders Violated
-incident:
-source: https://www.npr.org/2026/01/31/nx-s1-5693175/judge-says-immigration-and-customs-enforcement-has-violated-96-court-orders-this-month-in-minn
+incident: 2026-01-27-tobay-robles-lyons-contempt
+source:
 ---
 Minnesota Chief Judge Patrick Schiltz finds ICE has violated 96 court orders in January 2026 alone, stating ICE likely violated more orders in one month "than some federal agencies have violated in their entire existence."
 
 ---
 date: 2026-02-01
 title: Liam Ramos Released from Detention
-incident:
-source: https://www.pbs.org/newshour/nation/5-year-old-liam-conejo-ramos-and-his-father-released-from-texas-detention-facility-following-judges-order
+incident: 2026-01-20-liam-ramos-detained
+source:
 ---
 U.S. District Judge Fred Biery orders the release of 5-year-old Liam Ramos and his father from the Dilley detention facility. They return to Minnesota the following morning.
 
 ---
 date: 2026-02-04
 title: Partial Drawdown Announced
-incident:
-source: https://www.mprnews.org/story/2026/02/04/tom-homan-border-czar-immigration-surge-minnesota-press-conference
+incident: 2026-02-04-trump-softer-touch-interview
+source:
 ---
 Border czar Tom Homan announces 700 immigration officers will be immediately withdrawn from Minnesota. Approximately 2,000 federal agents remain. Only 7 of 87 Minnesota county sheriffs have signed cooperation agreements with ICE.
