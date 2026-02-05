@@ -130,11 +130,11 @@ const Router = {
     },
 
     /**
-     * Parse sort parameter from URL (?sort=new-updated, etc.)
+     * Parse sort parameter from URL (?sort-by= or legacy ?sort=)
      */
     parseSort(url = window.location) {
         const params = new URLSearchParams(url.search);
-        return params.get('sort');
+        return params.get('sort-by') || params.get('sort');
     },
 
     hasNewFilter(url = window.location) {
