@@ -1221,7 +1221,7 @@ body {
     background: var(--color-surface);
     border-radius: 12px;
     width: calc(100vw - 16px);
-    margin: 8px auto;
+    margin: 16px auto 4px;
     box-shadow: var(--shadow-lg);
     z-index: 1;
 }
@@ -1234,7 +1234,7 @@ body {
     .lightbox-content {
         width: calc(100vw - 32px);
         max-width: 1100px;
-        margin: 20px auto;
+        margin: 24px auto 8px;
     }
 }
 
