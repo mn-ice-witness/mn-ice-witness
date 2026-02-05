@@ -1502,6 +1502,35 @@
       "mediaVersion": null
     },
     {
+      "filePath": "incidents/2025-12/06/2025-12-06-augsburg-student-detained.md",
+      "title": "ICE Agents Point Weapons at Students During Campus Arrest at Augsburg University",
+      "summary": "ICE agents detained undergraduate student Jesus Saucedo-Portillo in Parking Lot B at Augsburg University, a private campus in Minneapolis. University officials said agents pointed weapons at students and staff, including those watching from residence hall windows, and refused to produce a judicial warrant when asked. DHS disputed this account, claiming agents had a warrant and were obstructed by a university administrator.",
+      "latestUpdate": null,
+      "date": "2025-12-06",
+      "time": "\"15:00\"",
+      "location": "Parking Lot B, Augsburg University",
+      "city": "Minneapolis",
+      "type": [
+        "immigrants",
+        "schools-hospitals"
+      ],
+      "status": "ongoing",
+      "affectedIndividualCitizenship": "undocumented",
+      "injuries": "none",
+      "trustworthiness": "high",
+      "created": "2026-02-05T14:55:45",
+      "lastUpdated": "2026-02-05T14:55:45",
+      "mediaCount": 0,
+      "notable": false,
+      "hasLocalMedia": false,
+      "localMediaType": null,
+      "localMediaPath": null,
+      "localMediaOgPath": null,
+      "localMediaFiles": [],
+      "aspectRatio": null,
+      "mediaVersion": null
+    },
+    {
       "filePath": "incidents/2025-12/04/2025-12-04-francisco-paredes-church.md",
       "title": "Church Employee Deported, Parish Later Surveilled by ICE",
       "summary": "Francisco Paredes, a 46-year-old church maintenance worker and choir member who had lived in the U.S. for 25 years, was arrested by ICE in the parking lot of St. Gabriel the Archangel Catholic Church in Hopkins. He spent a month in detention, including Christmas without religious services, before being deported to Mexico. On January 4, 2026, ICE agents were observed surveilling the church during Spanish Mass.",

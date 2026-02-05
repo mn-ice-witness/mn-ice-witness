@@ -9,7 +9,7 @@ Incidents marked with the blue star (★) represent cases that exemplify pattern
 | 2026-01-12 | Latino U.S. citizen's car rammed by ICE; released after confirming identity | `2026-01-12-christian-molina-car-rammed.md` |
 | 2026-01-08 | Two Target employees, both U.S. citizens, detained and injured | `2026-01-08-target-richfield-employees.md` |
 | 2026-01-08 | Native American U.S. citizen punched and detained | `2026-01-08-jose-ramirez-native-american.md` |
-| 2025-12-10 | U.S. citizen tackled and detained during lunch break | `2025-12-10-mubashir-wrongful-detention.md` |
+| 2025-12-09 | U.S. citizen tackled and detained during lunch break | `2025-12-09-mubashir-wrongful-detention.md` |
 
 ## Legal Residents
 

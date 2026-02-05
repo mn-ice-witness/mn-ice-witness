@@ -29,7 +29,7 @@ docs/incidents/YYYY-MM/DD/YYYY-MM-DD-slug.md
 
 Examples:
 - `docs/incidents/2026-01/07/2026-01-07-renee-good-shooting.md`
-- `docs/incidents/2025-12/10/2025-12-10-mubashir-lunch-break.md`
+- `docs/incidents/2025-12/10/2025-12-09-mubashir-lunch-break.md`
 
 **Non-standard dates** (early, unknown, etc.) stay at the month level:
 - `docs/incidents/2026-01/2026-01-early-wampash-tuntuam-10-children.md`

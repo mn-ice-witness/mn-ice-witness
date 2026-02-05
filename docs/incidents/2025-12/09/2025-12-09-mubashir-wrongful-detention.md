@@ -1,5 +1,5 @@
 ---
-date: 2025-12-10
+date: 2025-12-09
 time: afternoon
 location: Cedar-Riverside
 city: Minneapolis

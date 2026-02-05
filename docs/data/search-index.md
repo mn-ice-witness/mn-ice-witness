@@ -15,7 +15,7 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (189 incidents)
+## CURRENT (191 incidents)
 
 Published incidents visible on the main site.
 
@@ -191,12 +191,14 @@ Published incidents visible on the main site.
 - incidents/2025-12/13/2025-12-13-chanhassen-rooftop-standoff.md | 2025-12-13 | Chanhassen | immigrants | Construction Workers Take Refuge on Roof During Hours-Long ICE Standoff
 - incidents/2025-12/12/2025-12-12-brooklyn-park-cook.md | 2025-12-12 | Brooklyn Park | immigrants | Brooklyn Park Cook Arrested Outside Workplace; Restaurant Forced to Close
 - incidents/2025-12/11/2025-12-11-eden-prairie-13-year-old.md | 2025-12-11 | Eden Prairie | immigrants | 13-Year-Old Boy Handcuffed, Thrown to Ground by ICE Agents
-- incidents/2025-12/10/2025-12-10-mubashir-wrongful-detention.md | 2025-12-10 | Minneapolis | citizens | U.S. Citizen Tackled, Detained by ICE During Lunch Break
 - incidents/2025-12/10/2025-12-10-mahamed-eydarus-citizen-check.md | 2025-12-10 | Fridley | citizens | U.S. Citizen Questioned for Speaking Somali While Shoveling Snow with Mother
+- incidents/2025-12/09/2025-12-09-ice-vehicle-strikes-protester.md | 2025-12-09 | Minneapolis | observers | ICE Vehicle Strikes Protester; Agent Laughs "Wipe Out!"
 - incidents/2025-12/09/2025-12-09-sue-tincher-detained.md | 2025-12-09 | Minneapolis | observers | U.S. Citizen Observer Detained 5 Hours, Wedding Ring Cut Off
+- incidents/2025-12/09/2025-12-09-mubashir-wrongful-detention.md | 2025-12-09 | Minneapolis | citizens | U.S. Citizen Tackled, Detained by ICE During Lunch Break
 - incidents/2025-12/07/2025-12-07-rochester-tps-holder-detained.md | 2025-12-07 | Rochester | citizens | Somali Man with Temporary Protected Status Detained in Rochester
 - incidents/2025-12/07/2025-12-07-biestman-lee-guns-pointed.md | 2025-12-07 | Richfield | observers | Elderly Couple Has Guns Pointed at Them After Following ICE Vehicle
 - incidents/2025-12/06/2025-12-06-burnsville-family-separated.md | 2025-12-06 | Burnsville | immigrants | Parents Separated from 7-Year-Old in Burnsville Raid; Ring Camera Captures Forced Entry
+- incidents/2025-12/06/2025-12-06-augsburg-student-detained.md | 2025-12-06 | Minneapolis | immigrants, schools-hospitals | ICE Agents Point Weapons at Students During Campus Arrest at Augsburg University
 - incidents/2025-12/04/2025-12-04-francisco-paredes-church.md | 2025-12-04 | Hopkins | immigrants | Church Employee Deported, Parish Later Surveilled by ICE
 - incidents/2025-12/04/2025-12-04-dhs-response-abdulkadir-abdi.md | 2025-12-04 | Minneapolis | response | DHS Response: Abdulkadir Abdi "Gang Member"
 - incidents/2025-12/04/2025-12-04-abdulkadir-abdi-detained.md | 2025-12-04 | Minneapolis | immigrants | Addiction Recovery Leader Detained, Labeled "Gang Member"
@@ -211,7 +213,7 @@ Published incidents visible on the main site.
 
 ---
 
-## NO-ADD (124 entries)
+## NO-ADD (125 entries)
 
 Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 
@@ -337,6 +339,7 @@ Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 - dev-docs/not_use.md | Feb 4 | School Districts Lawsuit Against DHS
 - dev-docs/not_use.md | Dec 13, 2025 | Loc Vinh Truong Rochester
 - dev-docs/not_use.md | Dec 13-14, 2025 | Willmar December 13-14 HSI Arrests
+- dev-docs/not_use.md | Dec 10-11, 2025 | Rekeya Frazier / Oluwadamilola Bamigboye Plymouth
 - dev-docs/not_use.md | n/a | ICE Raids Two Hibbing Mexican Restaurants
 - dev-docs/not_use.md | n/a | Federal Agents Raid St. Paul Roofing Crew
 
