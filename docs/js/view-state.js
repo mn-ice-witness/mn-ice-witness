@@ -237,6 +237,11 @@ const ViewState = {
         // Show/hide sort dropdown and search (not relevant for timeline)
         if (sortDropdown) {
             sortDropdown.style.display = (view === 'timeline') ? 'none' : '';
+            // Update default sort label based on view
+            const allOption = sortDropdown.querySelector('.sort-option[data-sort="all"]');
+            if (allOption) {
+                allOption.textContent = (view === 'media') ? 'Featured' : 'Category';
+            }
         }
         const searchBtn = document.getElementById('search-btn');
         if (searchBtn) {
