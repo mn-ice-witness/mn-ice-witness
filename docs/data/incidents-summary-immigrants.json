@@ -265,6 +265,40 @@
       "mediaVersion": 1769985955
     },
     {
+      "filePath": "incidents/2026-01/20/2026-01-20-liam-ramos-detained.md",
+      "title": "Five-Year-Old Liam Ramos Detained in Driveway, Allegedly Used as \"Bait\"",
+      "summary": "Liam Conejo Ramos, a 5-year-old kindergartner, was detained by ICE with his father in their family driveway after arriving home from school on January 20, 2026. School officials allege agents used the child as \"bait\"\u2014instructing him to knock on the front door to see if anyone else was home. Superintendent Zena Stenvik held an emotional press conference asking, \"Why detain a 5-year-old? You can't tell me that this child is going to be classified as a violent criminal.\" Liam and his father were flown to the Dilley detention center in Texas, where they spent 12 days before a federal judge ordered their release.",
+      "latestUpdate": "[Liam and his father returned home](https://www.cbsnews.com/news/liam-conejo-ramos-released-ice-custody/) to Minneapolis after being released from the Dilley, Texas detention center. Rep. Joaquin Castro escorted them on the flight home.",
+      "date": "2026-01-20",
+      "time": "afternoon",
+      "location": "Family driveway, Columbia Heights",
+      "city": "Columbia Heights",
+      "type": [
+        "schools-hospitals",
+        "immigrants"
+      ],
+      "status": "resolved",
+      "affectedIndividualCitizenship": "asylum-seeker",
+      "injuries": "none",
+      "trustworthiness": "high",
+      "created": "2026-01-22T12:00:00",
+      "lastUpdated": "2026-02-05T14:49:05",
+      "mediaCount": 0,
+      "notable": false,
+      "hasLocalMedia": true,
+      "localMediaType": "image",
+      "localMediaPath": "media/2026-01/20/2026-01-20-liam-ramos-detained.jpg",
+      "localMediaOgPath": null,
+      "localMediaFiles": [
+        {
+          "type": "image",
+          "path": "media/2026-01/20/2026-01-20-liam-ramos-detained.jpg"
+        }
+      ],
+      "aspectRatio": 1.3528748590755355,
+      "mediaVersion": 1769985954
+    },
+    {
       "filePath": "incidents/2026-01/17/2026-01-17-nadya-moldovan-refugee.md",
       "title": "Moldovan Refugee Nadya Detained While Driving to Church with Family (NO NEWS MEDIA)",
       "summary": "Nadya, a Moldovan refugee with legal status awaiting her green card, was detained by ICE on January 17, 2026 while driving from her home to church with her husband and three children. Five ICE vehicles stopped the family shortly after they left their house. Despite the family explaining they had refugee status and were in the process of obtaining green cards, ICE detained only Nadya and released her husband and children. She has been held in poor conditions, in handcuffs and sleeping on the floor. <em class=\"incident-note\">**Note: This story seems to follow a pattern of Operation PARRIS (Post-Admission Refugee Reverification and Integrity Strengthening) -- see more details on this below.**</em>",
@@ -1160,6 +1194,35 @@
       "trustworthiness": "medium",
       "created": "2026-01-25T21:18:19",
       "lastUpdated": "2026-01-25T21:18:19",
+      "mediaCount": 0,
+      "notable": false,
+      "hasLocalMedia": false,
+      "localMediaType": null,
+      "localMediaPath": null,
+      "localMediaOgPath": null,
+      "localMediaFiles": [],
+      "aspectRatio": null,
+      "mediaVersion": null
+    },
+    {
+      "filePath": "incidents/2026-01/06/2026-01-06-elizabeth-caisaguano-detained.md",
+      "title": "Ten-Year-Old Elizabeth Caisaguano Detained with Mother, Held Nearly One Month in Texas",
+      "summary": "Elizabeth Zuna Caisaguano, a 10-year-old fourth grader at Highland Elementary in Columbia Heights, was detained by ICE agents with her mother on January 6, 2026, while on their way to school. During the arrest, Elizabeth called her father to say agents would drop her at school\u2014but neither she nor her mother arrived. By day's end, both had been flown to the Dilley Immigration Processing Center in Texas. Elizabeth spent nearly one month in detention before being released on February 3, making her the first and longest-detained of the Columbia Heights students taken during the Trump administration's immigration crackdown.",
+      "latestUpdate": "Elizabeth and her mother [released from Dilley](https://sahanjournal.com/education/columbia-heights-fourth-grader-held-by-ice/) Tuesday evening after nearly one month in detention. They were at a Texas shelter Wednesday morning before returning to Minnesota to reunite with her father.",
+      "date": "2026-01-06",
+      "time": "morning",
+      "location": "On way to Highland Elementary School",
+      "city": "Columbia Heights",
+      "type": [
+        "schools-hospitals",
+        "immigrants"
+      ],
+      "status": "resolved",
+      "affectedIndividualCitizenship": "asylum-seeker",
+      "injuries": "none",
+      "trustworthiness": "high",
+      "created": "2026-02-05T14:49:05",
+      "lastUpdated": "2026-02-05T14:49:05",
       "mediaCount": 0,
       "notable": false,
       "hasLocalMedia": false,

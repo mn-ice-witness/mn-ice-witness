@@ -15,7 +15,7 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (188 incidents)
+## CURRENT (189 incidents)
 
 Published incidents visible on the main site.
 
@@ -69,10 +69,10 @@ Published incidents visible on the main site.
 - incidents/2026-01/21/2026-01-21-dhs-response-5-year-old-bait.md | 2026-01-21 | Columbia Heights | response | DHS Response: "Child Was ABANDONED," Father "Fled on Foot"
 - incidents/2026-01/21/2026-01-21-bovino-hexachloroethane-playground.md | 2026-01-21 | Minneapolis | schools-hospitals | Border Patrol Commander Greg Bovino Deploys Hexachloroethane Gas Near School at Dismissal
 - incidents/2026-01/21/2026-01-21-dhs-response-crowd-control.md | 2026-01-21 | Minneapolis | response | DHS Response: Agents "Harassed" at Gas Stations, Used "Crowd Control Measures"
+- incidents/2026-01/20/2026-01-20-liam-ramos-detained.md | 2026-01-20 | Columbia Heights | schools-hospitals, immigrants | Five-Year-Old Liam Ramos Detained in Driveway, Allegedly Used as "Bait"
 - incidents/2026-01/20/2026-01-20-trump-mistakes-happen.md | 2026-01-20 | Washington D.C. | response | Trump on ICE Violence: "Mistakes Happen" While Focusing on "Murders and Criminals"
 - incidents/2026-01/20/2026-01-20-brooklyn-park-officer-citizen-check.md | 2026-01-20 | St. Paul | citizens | Metro Police Chiefs Call for End to Civil Rights Violations / Racially Discriminatory Citizen Checks; Off-Duty Brooklyn Park Police Officer Stopped at Gunpoint, Asked for Papers
 - incidents/2026-01/20/2026-01-20-trump-vicious-animals-statement.md | 2026-01-20 | n/a | response | Trump Claims ICE Operation is About Removing "Murderers & Criminals" from Minnesota, Calls Protesters "Highly Paid Troublemakers"
-- incidents/2026-01/20/2026-01-20-columbia-heights-4-students-detained.md | 2026-01-20 | Columbia Heights | schools-hospitals | Four Columbia Heights Students Detained by ICE, Including 5-Year-Old Sent to Texas
 - incidents/2026-01/19/2026-01-19-hilton-hotel-worker-arrested-by-guests.md | 2026-01-19 | St. Louis Park | citizens | ICE Agents Staying at Hotel Arrest One of Its Employees
 - incidents/2026-01/19/2026-01-19-dhs-response-saly-detention.md | 2026-01-19 | St. Paul | response | DHS Response: Defends Detention of Hmong Citizen, Claims Sex Offender Targets at Large — Family Disputes Claims
 - incidents/2026-01/18/2026-01-18-saly-hmong-citizen-shirtless.md | 2026-01-18 | St. Paul | citizens | Hmong U.S. Citizen Detained Shirtless in Freezing Weather, Then Released
@@ -175,6 +175,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/07/2026-01-07-roosevelt-high-school.md | 2026-01-07 | Minneapolis | schools-hospitals | Border Patrol Agents at Roosevelt High School, Staffer Detained
 - incidents/2026-01/07/2026-01-07-un-mundo-nuevo-teacher-tricked.md | 2026-01-07 | Burnsville | schools-hospitals, immigrants | Daycare Teacher Tricked with Fake Car Accident Claim, Detained for 10 Minutes
 - incidents/2026-01/07/2026-01-07-pickup-truck-rams-protesters.md | 2026-01-07 | Minneapolis | observers | Federal Agents Ram White Pickup Truck Into Protesters
+- incidents/2026-01/06/2026-01-06-elizabeth-caisaguano-detained.md | 2026-01-06 | Columbia Heights | schools-hospitals, immigrants | Ten-Year-Old Elizabeth Caisaguano Detained with Mother, Held Nearly One Month in Texas
 - incidents/2026-01/06/2026-01-06-emmanuel-sackie-brooklyn-park.md | 2026-01-06 | Brooklyn Park | citizens | Naturalized U.S. Citizen Hospitalized After ICE Encounter
 - incidents/2026-01/06/2026-01-06-bloomington-wilderness-inquiry.md | 2026-01-06 | Bloomington | immigrants | Man Seeks Refuge in Bloomington Office During 2-Hour ICE Standoff
 - incidents/2026-01/06/2026-01-06-el-fresco-restaurant-owner.md | 2026-01-06 | Bloomington | immigrants | Restaurant Owner Reported Missing, Confirmed Detained by ICE
