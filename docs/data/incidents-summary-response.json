@@ -18,13 +18,18 @@
       "lastUpdated": "2026-02-05T11:48:18",
       "mediaCount": 0,
       "notable": false,
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
-      "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
+      "hasLocalMedia": true,
+      "localMediaType": "video",
+      "localMediaPath": "media/2026-02/04/2026-02-04-trump-softer-touch-interview.mp4",
+      "localMediaOgPath": "media/2026-02/04/2026-02-04-trump-softer-touch-interview-og-2s-1770318562.jpg",
+      "localMediaFiles": [
+        {
+          "type": "video",
+          "path": "media/2026-02/04/2026-02-04-trump-softer-touch-interview.mp4"
+        }
+      ],
+      "aspectRatio": 1.7827715355805243,
+      "mediaVersion": 1770318562
     },
     {
       "filePath": "incidents/2026-01/30/2026-01-30-dhs-response-racial-profiling-false.md",
