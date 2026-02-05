@@ -13,20 +13,36 @@
     top: 48px;
     z-index: 99;
     display: flex;
+    align-items: center;
     justify-content: center;
     gap: 4px;
-    padding: 10px 12px;
+    padding: 6px 12px;
     background: var(--color-surface);
     border-bottom: 1px solid var(--color-border);
+}
+
+.tl-current-date {
+    font-family: var(--font-sans);
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: var(--color-text-secondary);
+    white-space: nowrap;
+    margin-right: 8px;
+    min-width: 60px;
+}
+
+.tl-totals-group {
+    display: flex;
+    gap: 4px;
 }
 
 .tl-total {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 6px 12px;
-    border-radius: 6px;
-    min-width: 70px;
+    padding: 4px 10px;
+    border-radius: 4px;
+    min-width: 60px;
 }
 
 .tl-total-citizens { background: rgba(191, 57, 137, 0.08); }
@@ -35,9 +51,9 @@
 .tl-total-schools { background: rgba(188, 76, 0, 0.08); }
 
 .tl-count {
-    font-size: 1.4rem;
+    font-size: 1.1rem;
     font-weight: 700;
-    font-family: var(--font-serif);
+    font-family: var(--font-sans);
     line-height: 1;
 }
 
@@ -47,11 +63,12 @@
 .tl-total-schools .tl-count { color: var(--type-schools); }
 
 .tl-total-label {
-    font-size: 0.65rem;
+    font-size: 0.6rem;
+    font-family: var(--font-sans);
     text-transform: uppercase;
     letter-spacing: 0.05em;
     color: var(--color-text-muted);
-    margin-top: 2px;
+    margin-top: 1px;
 }
 
 .tl-count-pop {
@@ -60,7 +77,7 @@
 
 @keyframes tl-pop {
     0% { transform: scale(1); }
-    50% { transform: scale(1.3); }
+    50% { transform: scale(1.2); }
     100% { transform: scale(1); }
 }
 
@@ -69,7 +86,7 @@
 .tl-content {
     max-width: 720px;
     margin: 0 auto;
-    padding: 0 16px 60px;
+    padding: 0 16px 40px;
     position: relative;
 }
 
@@ -87,16 +104,16 @@
 
 .tl-year {
     position: relative;
-    padding: 32px 0 16px 0;
+    padding: 20px 0 10px 0;
     text-align: center;
 }
 
 .tl-year span {
     display: inline-block;
     background: var(--color-bg);
-    padding: 4px 20px;
+    padding: 2px 16px;
     font-family: var(--font-serif);
-    font-size: 1.8rem;
+    font-size: 1.5rem;
     font-weight: 700;
     color: var(--color-text);
     letter-spacing: 0.02em;
@@ -107,15 +124,15 @@
 /* ==================== MONTH SECTIONS ==================== */
 
 .tl-month {
-    padding: 8px 0;
+    padding: 4px 0;
 }
 
 .tl-month-label {
     font-family: var(--font-serif);
-    font-size: 1.1rem;
+    font-size: 1rem;
     font-weight: 600;
     color: var(--color-text-secondary);
-    padding: 16px 0 8px 52px;
+    padding: 10px 0 4px 52px;
     margin: 0;
     letter-spacing: 0.01em;
 }
@@ -124,8 +141,8 @@
 
 .tl-moment {
     position: relative;
-    padding: 16px 0 16px 52px;
-    margin: 8px 0;
+    padding: 8px 0 8px 52px;
+    margin: 4px 0;
 }
 
 .tl-moment-line {
@@ -146,7 +163,7 @@
     border: 1px solid var(--color-border);
     border-left: 4px solid var(--type-fatal, #cf222e);
     border-radius: 0 8px 8px 0;
-    padding: 16px 20px;
+    padding: 12px 16px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
 }
 
@@ -191,7 +208,7 @@
 
 .tl-day {
     position: relative;
-    padding: 8px 0 8px 52px;
+    padding: 4px 0 4px 52px;
 }
 
 .tl-day-marker {
@@ -244,6 +261,25 @@
     color: #5a7a9e;
 }
 
+.tl-cat-tag {
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    color: var(--color-text-muted);
+}
+
+.tl-day-hidden {
+    display: none;
+}
+
+.tl-day-expanded .tl-day-hidden {
+    display: block;
+}
+
+.tl-day-expanded .tl-day-more {
+    display: none;
+}
+
 .tl-day-more {
     font-size: 0.8rem;
     color: var(--color-text-muted);
@@ -259,21 +295,26 @@
 
 @media (min-width: 768px) {
     .tl-totals-bar {
-        gap: 16px;
-        padding: 12px 20px;
+        gap: 10px;
+        padding: 8px 20px;
     }
 
     .tl-total {
-        padding: 8px 20px;
-        min-width: 90px;
+        padding: 5px 16px;
+        min-width: 80px;
     }
 
     .tl-count {
-        font-size: 1.8rem;
+        font-size: 1.3rem;
     }
 
     .tl-total-label {
-        font-size: 0.7rem;
+        font-size: 0.65rem;
+    }
+
+    .tl-current-date {
+        font-size: 0.8rem;
+        min-width: 80px;
     }
 
     .tl-content {

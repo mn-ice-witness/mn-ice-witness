@@ -70,7 +70,7 @@ Alex Jeffrey Pretti, 37, an ICU nurse and VA employee, is fatally shot by CBP ag
 
 ---
 date: 2026-01-27
-title: Bovino Removed, Homan Takes Over
+title: Drawdown Begins
 incident:
 ---
 Border czar Tom Homan meets with Governor Tim Walz. The divisive Border Patrol commander Greg Bovino is removed from Minnesota operations. Both sides agree to ongoing dialogue and a "changed tone."

@@ -234,9 +234,13 @@ const ViewState = {
             sectionNav.style.display = (view === 'list' && this.sortMode === 'all') ? '' : 'none';
         }
 
-        // Show/hide sort dropdown (not relevant for timeline)
+        // Show/hide sort dropdown and search (not relevant for timeline)
         if (sortDropdown) {
             sortDropdown.style.display = (view === 'timeline') ? 'none' : '';
+        }
+        const searchBtn = document.getElementById('search-btn');
+        if (searchBtn) {
+            searchBtn.style.display = (view === 'timeline') ? 'none' : '';
         }
 
         // Switch views

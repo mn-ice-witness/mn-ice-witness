@@ -140,21 +140,24 @@ const Timeline = {
 
     buildTotalsHTML() {
         return `
-            <div class="tl-total tl-total-citizens">
-                <span class="tl-count" id="tl-count-citizens">0</span>
-                <span class="tl-total-label">Citizens</span>
-            </div>
-            <div class="tl-total tl-total-observers">
-                <span class="tl-count" id="tl-count-observers">0</span>
-                <span class="tl-total-label">Observers</span>
-            </div>
-            <div class="tl-total tl-total-immigrants">
-                <span class="tl-count" id="tl-count-immigrants">0</span>
-                <span class="tl-total-label">Immigrants</span>
-            </div>
-            <div class="tl-total tl-total-schools">
-                <span class="tl-count" id="tl-count-schools-hospitals">0</span>
-                <span class="tl-total-label">Schools</span>
+            <div class="tl-current-date" id="tl-current-date"></div>
+            <div class="tl-totals-group">
+                <div class="tl-total tl-total-citizens">
+                    <span class="tl-count" id="tl-count-citizens">0</span>
+                    <span class="tl-total-label">Citizen/Legal</span>
+                </div>
+                <div class="tl-total tl-total-observers">
+                    <span class="tl-count" id="tl-count-observers">0</span>
+                    <span class="tl-total-label">Observers</span>
+                </div>
+                <div class="tl-total tl-total-immigrants">
+                    <span class="tl-count" id="tl-count-immigrants">0</span>
+                    <span class="tl-total-label">Immigrants</span>
+                </div>
+                <div class="tl-total tl-total-schools">
+                    <span class="tl-count" id="tl-count-schools-hospitals">0</span>
+                    <span class="tl-total-label">Schools</span>
+                </div>
             </div>
         `;
     },
@@ -211,11 +214,12 @@ const Timeline = {
         const countsJson = JSON.stringify(day.counts);
 
         let titlesHTML = '';
-        const showCount = Math.min(day.incidents.length, 3);
-        for (let i = 0; i < showCount; i++) {
+        for (let i = 0; i < day.incidents.length; i++) {
             const inc = day.incidents[i];
             const slug = App.getIncidentId(inc);
-            titlesHTML += `<div class="tl-day-incident" data-incident-slug="${slug}">${inc.title}</div>`;
+            const tag = this.getCategoryTag(inc);
+            const hiddenClass = i >= 3 ? ' tl-day-hidden' : '';
+            titlesHTML += `<div class="tl-day-incident${hiddenClass}" data-incident-slug="${slug}"><span class="tl-cat-tag">${tag}:</span> ${inc.title}</div>`;
         }
         if (day.incidents.length > 3) {
             titlesHTML += `<div class="tl-day-more">+ ${day.incidents.length - 3} more</div>`;
@@ -235,6 +239,19 @@ const Timeline = {
         `;
     },
 
+    categoryLabels: {
+        'citizens': 'CITIZEN/LEGAL',
+        'observers': 'OBSERVER',
+        'immigrants': 'IMMIGRANT',
+        'schools-hospitals': 'SCHOOLS',
+        'response': 'RESPONSE'
+    },
+
+    getCategoryTag(incident) {
+        const types = Array.isArray(incident.type) ? incident.type : [incident.type];
+        return this.categoryLabels[types[0]] || types[0].toUpperCase();
+    },
+
     findIncident(slug) {
         if (typeof App === 'undefined') return null;
         return App.incidents.find(i => {
@@ -244,42 +261,110 @@ const Timeline = {
     },
 
     initScrollObserver() {
-        if (this.observer) this.observer.disconnect();
+        if (this._scrollHandler) {
+            window.removeEventListener('scroll', this._scrollHandler);
+        }
 
         this.countedDays.clear();
         this.totals = { citizens: 0, observers: 0, immigrants: 0, 'schools-hospitals': 0 };
         this.updateTotalsDisplay();
 
+        this._scrollTicking = false;
+        this._scrollHandler = () => {
+            if (!this._scrollTicking) {
+                this._scrollTicking = true;
+                requestAnimationFrame(() => {
+                    this.onScroll();
+                    this._scrollTicking = false;
+                });
+            }
+        };
+        window.addEventListener('scroll', this._scrollHandler, { passive: true });
+        // Run once immediately to handle initial visible state
+        requestAnimationFrame(() => this.onScroll());
+    },
+
+    onScroll() {
         const container = document.getElementById('timeline-view');
+        if (!container || container.style.display === 'none') return;
+
+        const totalsBar = container.querySelector('.tl-totals-bar');
+        if (!totalsBar) return;
+        const triggerY = totalsBar.getBoundingClientRect().bottom;
+
         const dayEls = container.querySelectorAll('.tl-day');
+        const newCounted = new Set();
+        const newTotals = { citizens: 0, observers: 0, immigrants: 0, 'schools-hospitals': 0 };
+        let currentDate = null;
 
-        this.observer = new IntersectionObserver((entries) => {
-            let changed = false;
-            for (const entry of entries) {
-                const date = entry.target.dataset.date;
-                const counts = JSON.parse(entry.target.dataset.counts);
+        // Track the lowest element (closest to trigger line) that's scrolled past
+        let closestTop = -Infinity;
 
-                if (entry.isIntersecting && !this.countedDays.has(date)) {
-                    this.countedDays.add(date);
-                    for (const cat in counts) {
-                        this.totals[cat] += counts[cat];
-                    }
-                    changed = true;
-                } else if (!entry.isIntersecting && this.countedDays.has(date)) {
-                    const rect = entry.target.getBoundingClientRect();
-                    if (rect.top > window.innerHeight) {
-                        this.countedDays.delete(date);
-                        for (const cat in counts) {
-                            this.totals[cat] -= counts[cat];
-                        }
-                        changed = true;
-                    }
+        for (const el of dayEls) {
+            const rect = el.getBoundingClientRect();
+            if (rect.top < triggerY) {
+                const date = el.dataset.date;
+                newCounted.add(date);
+                const counts = JSON.parse(el.dataset.counts);
+                for (const cat in counts) {
+                    newTotals[cat] += counts[cat];
+                }
+                if (rect.top > closestTop) {
+                    closestTop = rect.top;
+                    currentDate = date;
                 }
             }
-            if (changed) this.updateTotalsDisplay();
-        }, { threshold: 0.1 });
+        }
 
-        dayEls.forEach(el => this.observer.observe(el));
+        // Also check moments for date display (they may appear between days)
+        const momentEls = container.querySelectorAll('.tl-moment');
+        for (const el of momentEls) {
+            const rect = el.getBoundingClientRect();
+            if (rect.top < triggerY && rect.top > closestTop) {
+                closestTop = rect.top;
+                const dateEl = el.querySelector('.tl-moment-date');
+                if (dateEl) currentDate = dateEl.textContent;
+            }
+        }
+
+        // Update totals if changed
+        let changed = false;
+        for (const cat in newTotals) {
+            if (newTotals[cat] !== this.totals[cat]) {
+                changed = true;
+                break;
+            }
+        }
+        if (changed) {
+            this.countedDays = newCounted;
+            this.totals = newTotals;
+            this.updateTotalsDisplay();
+        }
+
+        // Update current date display
+        this.updateCurrentDate(currentDate);
+    },
+
+    updateCurrentDate(date) {
+        const el = document.getElementById('tl-current-date');
+        if (!el) return;
+
+        if (!date) {
+            el.textContent = '';
+            return;
+        }
+
+        // date could be a formatted string from a moment, or a YYYY-MM-DD from a day
+        let display = date;
+        if (/^\d{4}-\d{2}-\d{2}$/.test(date)) {
+            const d = new Date(date + 'T12:00:00');
+            display = d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+        }
+        // Shorten long month names from moments (e.g. "January 12" → "Jan 12")
+        display = display.replace(/^(January|February|March|April|May|June|July|August|September|October|November|December)\s/, (_, m) => m.slice(0, 3) + ' ');
+        if (el.textContent !== display) {
+            el.textContent = display;
+        }
     },
 
     updateTotalsDisplay() {
@@ -299,8 +384,21 @@ const Timeline = {
 
     initClickHandlers() {
         const container = document.getElementById('timeline-view');
+        if (this._clickHandler) {
+            container.removeEventListener('click', this._clickHandler);
+        }
 
-        container.addEventListener('click', (e) => {
+        this._clickHandler = (e) => {
+            // Check "more" first so it doesn't get caught by anything else
+            const dayMore = e.target.closest('.tl-day-more');
+            if (dayMore) {
+                e.preventDefault();
+                e.stopPropagation();
+                const dayEl = dayMore.closest('.tl-day');
+                if (dayEl) dayEl.classList.toggle('tl-day-expanded');
+                return;
+            }
+
             const momentEl = e.target.closest('.tl-moment-clickable');
             if (momentEl) {
                 const slug = momentEl.dataset.incidentSlug;
@@ -314,14 +412,8 @@ const Timeline = {
                 this.openIncident(slug);
                 return;
             }
-
-            const dayMore = e.target.closest('.tl-day-more');
-            if (dayMore) {
-                const dayEl = dayMore.closest('.tl-day');
-                if (dayEl) dayEl.classList.toggle('tl-day-expanded');
-                return;
-            }
-        });
+        };
+        container.addEventListener('click', this._clickHandler);
     },
 
     openIncident(slug) {
