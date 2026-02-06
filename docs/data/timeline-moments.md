@@ -39,6 +39,15 @@ source:
 A major escalation: DHS deploys 2,000 additional immigration officers to the Twin Cities and extends operations across all of Minnesota. The surge now involves more federal agents than any domestic law enforcement operation since the Civil Rights era.
 
 ---
+date: 2026-01-06
+title: 10-Year-Old Detained on Way to School
+incident: 2026-01-06-elizabeth-caisaguano-detained
+source:
+image: false
+---
+The first child detained during the operation. Ten-year-old Elizabeth Caisaguano, a fourth grader who dreams of being a doctor, is seized with her mother by ICE agents on the way to Highland Elementary in Columbia Heights. Elizabeth calls her father during the arrest — agents tell her they'll drop her at school. They never do. By day's end, both are flown to the Dilley, Texas detention facility. Her father waits for hours at the school before learning what happened. Elizabeth would remain in detention for nearly a month — longer than any other child taken during the operation.
+
+---
 date: 2026-01-07
 title: Renee Good Killed by ICE Agent
 incident: 2026-01-07-renee-good-shooting
@@ -165,7 +174,7 @@ title: 5-Year-Old Liam Ramos Detained
 incident: 2026-01-20-liam-ramos-detained
 source:
 ---
-The youngest known detainee. Five-year-old kindergartner Liam Conejo Ramos and his father Adrian are detained by ICE in a Minneapolis suburb and flown to the Dilley, Texas detention facility. The detention of a kindergartner becomes the single most widely covered story of the operation and draws condemnation from across the political spectrum.
+The youngest known detainee — but not the first child taken. Five-year-old kindergartner Liam Conejo Ramos and his father Adrian are detained by ICE in Columbia Heights and flown to the Dilley, Texas detention facility — the same facility where [10-year-old Elizabeth Caisaguano](/entry/2026-01-06-elizabeth-caisaguano-detained) has already been held for two weeks. The detention of a kindergartner becomes the single most widely covered story of the operation and draws condemnation from across the political spectrum.
 
 ---
 date: 2026-01-21
@@ -182,6 +191,15 @@ incident: 2026-01-21-bovino-hexachloroethane-playground
 source:
 ---
 The most extreme use of force near a school. Border Patrol Commander Greg Bovino personally throws hexachloroethane canisters — classified as a chemical weapon banned in international warfare — at Mueller Park near Ella Baker school just after dismissal. A school bus carrying students is forced to drive through the gas cloud. Bovino is later removed from Minnesota operations.
+
+---
+date: 2026-01-22
+title: 2-Year-Old Flown to Texas Despite Court Order
+incident: 2026-01-22-tipan-toddler-father-detained
+source:
+image: false
+---
+The third child detained in two weeks, and the most brazen defiance of the courts. Two-year-old Chloe Tipan and her father, asylum-seekers from Ecuador, are followed from a grocery store and detained near Powderhorn. A federal judge orders the toddler released by 9:30 PM. Nineteen minutes later, ICE places both on a commercial flight to Texas — separating Chloe from her mother. Attorneys call it "bad-faith conduct" and file motions to block all interstate ICE transfers from Minnesota. With [Elizabeth Caisaguano](/entry/2026-01-06-elizabeth-caisaguano-detained) still in Dilley after 16 days and [Liam Ramos](/entry/2026-01-20-liam-ramos-detained) detained two days earlier, three children under 10 are now held in Texas.
 
 ---
 date: 2026-01-23
@@ -229,7 +247,7 @@ title: Liam Ramos Released from Detention
 incident: 2026-01-20-liam-ramos-detained
 source:
 ---
-A legal victory after national outcry. U.S. District Judge Fred Biery orders the release of 5-year-old Liam Ramos and his father from the Dilley detention facility after 12 days in custody. The judge describes the case as having "its genesis in the ill-conceived and incompetently implemented government pursuit of daily deportation quotas." They return to Minnesota the following morning.
+A legal victory after national outcry. U.S. District Judge Fred Biery orders the release of 5-year-old Liam Ramos and his father from the Dilley detention facility after 12 days in custody. The judge describes the case as having "its genesis in the ill-conceived and incompetently implemented government pursuit of daily deportation quotas." They return to Minnesota the following morning. But [Elizabeth Caisaguano](/entry/2026-01-06-elizabeth-caisaguano-detained), the 10-year-old detained on her way to school nearly a month earlier, remains in Dilley — her case drawing less national attention than Liam's despite a longer detention.
 
 ---
 date: 2026-02-04
