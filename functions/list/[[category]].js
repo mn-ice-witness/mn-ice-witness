@@ -56,6 +56,10 @@ function buildListOgTags(origin, category) {
       title: 'Official DHS & ICE Statements on Minnesota Operations',
       description: 'Official DHS, ICE, and federal government statements and responses regarding enforcement operations in Minnesota during Operation Metro Surge.',
     },
+    'background': {
+      title: 'Background & Context | Operation Metro Surge',
+      description: 'Major events, legal actions, protests, and political developments that shaped the ICE crisis in Minnesota during Operation Metro Surge.',
+    },
   };
 
   const categoryInfo = category ? categories[category] : null;

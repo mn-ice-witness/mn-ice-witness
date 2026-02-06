@@ -236,7 +236,7 @@ DATETIME_PATTERN = re.compile(
 VALID_STATUS = {"ongoing", "resolved", "under-investigation"}
 VALID_INJURIES = {"none", "minor", "serious", "fatal"}
 VALID_TRUSTWORTHINESS = {"high", "medium", "low", "no-news-media", "removed"}
-VALID_TYPES = {"citizens", "observers", "immigrants", "schools-hospitals", "response"}
+VALID_TYPES = {"citizens", "observers", "immigrants", "schools-hospitals", "response", "background"}
 VALID_CITIZENSHIP = {
     "us-citizen",
     "legal-resident",
@@ -400,7 +400,7 @@ def update_media_order(incidents_with_media, data_dir):
         order_file.write_text(content)
 
 
-CATEGORIES = ["citizens", "immigrants", "observers", "schools-hospitals", "response"]
+CATEGORIES = ["citizens", "immigrants", "observers", "schools-hospitals", "response", "background"]
 
 
 def get_incident_categories(incident):

@@ -3,7 +3,7 @@ date: 2026-01-14
 time: unknown
 location: Minnesota State Capitol
 city: St. Paul
-type: immigrants
+type: background
 status: ongoing
 affected_individual_citizenship: legal-resident
 injuries: none

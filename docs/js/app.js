@@ -22,6 +22,7 @@ const App = {
         'immigrants': 'IMMIGRANTS',
         'schools-hospitals': 'SCHOOLS',
         'response': 'RESPONSE',
+        'background': 'BACKGROUND',
         'fatal': 'FATAL'
     },
 
@@ -36,7 +37,8 @@ const App = {
             'observers': 'observers',
             'immigrants': 'immigrants',
             'schools-hospitals': 'schools',
-            'response': 'response'
+            'response': 'response',
+            'background': 'background'
         };
         this.sections = Object.entries(typeToId).map(([type, id]) => {
             const el = document.getElementById(id);
@@ -99,7 +101,7 @@ const App = {
      * Load incidents from category JSON files (parallel fetch, deduplicated)
      */
     async loadIncidents() {
-        const categories = ['citizens', 'immigrants', 'observers', 'schools-hospitals', 'response'];
+        const categories = ['citizens', 'immigrants', 'observers', 'schools-hospitals', 'response', 'background'];
         const fetches = categories.map(cat =>
             fetch(`/data/incidents-summary-${cat}.json`).then(r => r.json())
         );

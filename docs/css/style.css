@@ -66,6 +66,7 @@
     --type-fatal: #cf222e;
     --type-schools: #bc4c00;
     --type-response: #6e7781;
+    --type-background: #57606a;
     --type-no-news-media: #7d4e57;
 
     --shadow-sm: 0 1px 2px rgba(0,0,0,0.04);
@@ -445,6 +446,7 @@ body {
 .nav-fatal { background: #ffebe9; color: var(--type-fatal); border-color: #ff818433; }
 .nav-schools { background: #fff1e5; color: var(--type-schools); border-color: #fb8f4433; }
 .nav-response { background: #f0f0f0; color: var(--type-response); border-color: #8c959f33; }
+.nav-background { background: #eef1f5; color: var(--type-background); border-color: #57606a33; }
 .nav-no-news-media { background: #f5eef0; color: var(--type-no-news-media); border-color: #7d4e5733; }
 
 .nav-pill:hover {
@@ -1028,6 +1030,7 @@ body {
 .marker-fatal { background: var(--type-fatal); }
 .marker-schools-hospitals { background: var(--type-schools); }
 .marker-response { background: var(--type-response); }
+.marker-background { background: var(--type-background); }
 
 .section-title {
     font-family: var(--font-serif);
