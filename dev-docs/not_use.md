@@ -627,13 +627,6 @@ Stories are excluded when they don't meet the project's core focus:
 - Reason: Insufficient details - brief mention by official without affected individual identification, no corroborating news coverage, no video. May revisit if affected individual or family comes forward.
 - Date evaluated: 2026-01-21
 
-**St. Cloud Washington Memorial Drive Arrest (Jan 20)**
-- Source: [Xidig TV](https://bringmethenews.com/minnesota-news/list-of-major-ice-raids-updates-in-minnesota-on-tuesday-jan-20) via BMTN
-- Date: January 20, 2026
-- Details: Footage from Xidig TV shows ICE agents arrested a man near Washington Memorial Drive and Division Street in St. Cloud.
-- Reason: Insufficient details - single source (Somali media outlet), no affected individual identification, no news media coverage with additional details.
-- Date evaluated: 2026-01-21
-
 **MSP Airport Clergy Protest Arrests (Jan 23)**
 - Sources: [CBS Minnesota](https://www.cbsnews.com/minnesota/news/clergy-members-arrested-minneapolis-st-paul-international-airport/), [FOX 9](https://www.fox9.com/news/ice-out-protests-mn-jan-23-2026), [KARE 11](https://www.kare11.com/article/news/local/ice-in-minnesota/law-enforcement-load-protesters-into-school-buses-at-msp/89-b100a221-ff5d-4636-905b-d4830d4d34ea), [MPR News](https://www.mprnews.org/story/2026/01/23/clergy-and-protesters-gather-at-msp-airport-to-demonstrate-against-ice)
 - Date: January 23, 2026
@@ -859,6 +852,104 @@ Stories are excluded when they don't meet the project's core focus:
 - Details: Education Minnesota, Duluth Public Schools, and Fridley Public Schools filed federal lawsuit against DHS/ICE seeking to reinstate "protected areas" policy and bar enforcement within 1,000 feet of school property.
 - Reason: **Legal/institutional action** - lawsuit responding to ICE activity, not a specific civil rights incident. Site documents enforcement actions, not lawsuits about them.
 - Date evaluated: 2026-02-05
+
+**Kyle Wagner Federal Arrest (Feb 5)**
+- Sources: [DOJ Press Release](https://www.justice.gov/opa/pr/anti-ice-antifa-member-arrested-federal-charges-cyberstalking-and-threatening-communications), [Sahan Journal](https://sahanjournal.com/public-safety/federal-raid-kyle-wagner-detained-whittier-minneapolis/), [MPR News](https://www.mprnews.org/story/2026/02/05/minneapolis-man-kyle-wagner-charged-with-threatening-and-cyberstalking-ice-officers), [Star Tribune](https://www.startribune.com/kyle-wagner-charged-antifa-ice-threats/601577296), [ABC News](https://abcnews.go.com/US/kill-killed-minneapolis-man-arrested-charges-threatening-ice/story?id=129880845)
+- Date: February 5, 2026
+- Details: Kyle Wagner, 37, arrested by HSI agents at Eat Street Flats apartment building in Whittier after 11+ agents broke through a window next to the security door at ~6 AM. Charged with federal cyberstalking and threatening communications against ICE agents via social media. DOJ described him as "Anti-ICE Antifa member."
+- Reason: **DOJ/HSI arrest for federal criminal charges (cyberstalking/threats), not ICE immigration enforcement.** Same pattern as Don Lemon/Georgia Fort arrests. While the building-entry tactics are noteworthy, this is a criminal prosecution of an activist, not a civil rights incident involving ICE enforcement against an individual.
+- Date evaluated: 2026-02-06
+
+**Graduate by Hilton Protest Arrests Feb 5 (Feb 5)**
+- Sources: [CBS Minnesota](https://www.cbsnews.com/minnesota/live-updates/minneapolis-anti-ice-protests-graduate-by-hilton-hotel-federal-officers-operation-metro-surge/), [KSTP](https://kstp.com/kstp-news/local-news/12-arrested-after-anti-ice-protests-outside-graduate-hotel/), [Fox News](https://www.foxnews.com/us/12-minneapolis-anti-ice-agitators-arrested-after-massive-crowd-gathers-outside-hilton-hotel)
+- Date: February 5, 2026
+- Details: 12 protesters arrested (11 disorderly conduct, 1 property damage) outside Graduate By Hilton in Stadium Village after a crowd of 150-175 gathered. Police gave five orders to disperse. Continuation of weekly Thursday protests.
+- Reason: **Protest-only coverage.** Same pattern as Jan 29 Graduate Hotel protests already in no-add. No direct ICE civil rights incident.
+- Date evaluated: 2026-02-06
+
+**Jake Lang Ice Sculpture Vandalism (Feb 5)**
+- Sources: [KARE 11](https://www.kare11.com/article/news/local/ice-in-minnesota/prosecute-ice-sculpture-destroyed-outside-state-capitol-hours-after-unveiling-mn/89-f959ce2f-19c6-4bff-ac61-1015187c9243), [MPR News](https://www.mprnews.org/story/2026/02/05/prosecute-ice-sculpture-at-minn-capitol-destroyed-jake-lang-arrested), [Star Tribune](https://www.startribune.com/jan-6-rioter-jake-lang-arrested-for-damaging-ice-sculpture-at-minnesota-state-capitol/601577481)
+- Date: February 5, 2026
+- Details: Pardoned Jan 6 rioter Jake Lang destroyed a 20-foot "PROSECUTE ICE" ice sculpture on the Minnesota State Capitol steps, altering it to read "PRO ICE." Arrested for felony criminal damage.
+- Reason: **Political/property crime, not ICE enforcement.** Far-right figure vandalizing anti-ICE art installation. No immigration enforcement action.
+- Date evaluated: 2026-02-06
+
+**Minneapolis $1M Rental Assistance Vote (Feb 5)**
+- Sources: [CBS Minnesota](https://www.cbsnews.com/minnesota/news/minneapolis-city-council-rental-assistance/), [Star Tribune](https://www.startribune.com/minneapolis-council-allocates-1-million-to-help-people-pay-rent/601576913), [FOX 9](https://www.fox9.com/news/minneapolis-city-council-approves-1m-rental-assistance-feb-2026)
+- Date: February 5, 2026
+- Details: Council voted 9-4 to allocate $1 million from city cash balance for rental assistance to families impacted by Operation Metro Surge, administered through Rent Help Hennepin.
+- Reason: **Political/institutional response.** Government policy action, not a specific civil rights incident.
+- Date evaluated: 2026-02-06
+
+**Minneapolis Hotel Liquor License Delays (Feb 4)**
+- Sources: [Bring Me The News](https://bringmethenews.com/minnesota-news/minneapolis-city-council-delays-liquor-license-renewals-for-hotels-reportedly-housing-ice)
+- Date: February 4, 2026
+- Details: Council voted 8-5 to delay liquor license renewals for Depot Renaissance Hotel and Canopy by Hilton, both reportedly housing ICE agents.
+- Reason: **Political/institutional response.** Government policy action, not a specific civil rights incident.
+- Date evaluated: 2026-02-06
+
+**County Attorneys Nix Sheriff-ICE Agreement (Feb 5)**
+- Sources: [MinnPost](https://www.minnpost.com/national/washington/2026/02/county-attorneys-nix-proposal-for-minnesota-sheriffs-to-coordinate-with-ice/)
+- Date: February 5, 2026
+- Details: Minnesota Association of County Attorneys concluded proposed "basic ordering agreements" allowing ICE 48 hours to pick up undocumented individuals in county jails would not comport with Minnesota law.
+- Reason: **Policy story.** Legal/institutional action, not a specific civil rights incident.
+- Date evaluated: 2026-02-06
+
+**St. Paul Anti-ICE Staging Ordinance (Feb 5)**
+- Sources: [FOX 9](https://www.fox9.com/news/st-paul-mayor-signs-ordinance-prohibit-ice-from-being-city-property-feb-5-2026), [KSTP](https://kstp.com/kstp-news/local-news/st-paul-mayor-her-signs-ordinance-banning-federal-law-enforcement-from-staging-on-city-property/)
+- Date: February 5, 2026
+- Details: St. Paul Mayor Kaohly Her signed ordinance prohibiting federal law enforcement from staging enforcement operations on city property.
+- Reason: **Political/institutional response.** Government policy action.
+- Date evaluated: 2026-02-06
+
+**New Brighton Homewood Suites Protest (Feb 5)**
+- Sources: Social media video via BMTN roundup
+- Date: February 5, 2026
+- Details: Protesters with drums and pots outside Homewood Suites by Hilton in New Brighton. Police and deputies on scene.
+- Reason: **Protest-only coverage.** No ICE enforcement incident.
+- Date evaluated: 2026-02-06
+
+**Crow Wing County Jail Conditions Report (Feb 5)**
+- Sources: [CBS Minnesota](https://www.cbsnews.com/minnesota/news/crow-wing-county-jail-ice-detainees/)
+- Date: February 5, 2026
+- Details: Investigation into conditions at Crow Wing County jail, which holds 30-50 ICE detainees at a time. Sheriff acknowledged "the majority of them, we don't know if they have anything" regarding criminal histories.
+- Reason: **Feature/background story.** General conditions reporting, not a specific civil rights incident. El Potro arrests already documented.
+- Date evaluated: 2026-02-06
+
+**Tacos El Primo Confrontation (Feb 3)**
+- Sources: [CBS Minnesota](https://www.cbsnews.com/minnesota/news/tacos-el-primo-ice-confrontation-south-minneapolis/)
+- Date: February 3, 2026
+- Details: Crowd surrounded men believed to be ICE agents at a south Minneapolis taco shop. The men confirmed they were NOT ICE agents. No arrest, no detention, no enforcement action.
+- Reason: **False alarm.** No ICE agents involved, no enforcement action occurred.
+- Date evaluated: 2026-02-06
+
+**Flying J Travel Center Northfield Arrests (Feb 3)**
+- Sources: [Southernminn.com](https://www.southernminn.com/northfield_news/news/ice-activity-surges-in-southern-minnesota-despite-dhs-leadership-shakeup/article_d50bd775-4315-426a-85af-80094eea2a22.html)
+- Date: February 3, 2026
+- Details: ~12 agents arrested at least 2 individuals from a semi truck at Flying J Pilot Travel Center near I-35 exit 69. Broke truck window. Agents claimed to have "got a sex offender off the streets." Single source, no affected individual name.
+- Reason: **Insufficient details for standalone incident.** Single source, no affected individual identification. Agents claimed criminal arrest. May revisit if more coverage emerges.
+- Date evaluated: 2026-02-06
+
+**Litchfield Near-School Operation (Feb 5)**
+- Sources: [Bring Me The News](https://bringmethenews.com/minnesota-news/list-of-ice-raids-major-updates-in-minnesota-on-thursday-feb-5)
+- Date: February 5, 2026
+- Details: Federal agents at a home near Lake Ripley Elementary, block from School of St. Philip in Litchfield.
+- Reason: **Insufficient details.** Single brief mention in BMTN daily roundup. No names, no arrest details, no follow-up coverage.
+- Date evaluated: 2026-02-06
+
+**Operation Creep ICE Employee Sex Sting (Nov 2025)**
+- Sources: [Bring Me The News](https://bringmethenews.com/minnesota-news/ice-employee-state-worker-among-16-arrested-in-operation-creep-sting)
+- Date: November 5, 2025
+- Details: Alexander Steven Back, 41, civilian ICE auditor, among 16 arrested in Bloomington sex sting for attempting to purchase sex from a decoy posing as a 17-year-old.
+- Reason: **Tangential.** ICE employee's personal criminal conduct, not an ICE enforcement action or civil rights incident.
+- Date evaluated: 2026-02-06
+
+**Faribault Citizen Stopped / "Database" Mention (Feb 2)**
+- Sources: [Southernminn.com](https://www.southernminn.com/northfield_news/news/ice-activity-surges-in-southern-minnesota-despite-dhs-leadership-shakeup/article_d50bd775-4315-426a-85af-80094eea2a22.html)
+- Date: February 2, 2026
+- Details: Anonymous citizen reported being stopped by ICE in Faribault. Agents allegedly called her by name and mentioned "creating a database" of those documenting federal operations.
+- Reason: **Insufficient details.** Anonymous source, no name, single article. May revisit if more coverage or corroboration emerges.
+- Date evaluated: 2026-02-06
 
 ### December 2025
 
