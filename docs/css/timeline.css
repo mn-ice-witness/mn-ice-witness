@@ -100,15 +100,7 @@
     position: relative;
 }
 
-.tl-content::before {
-    content: '';
-    position: absolute;
-    left: 28px;
-    top: 0;
-    bottom: 0;
-    width: 2px;
-    background: var(--color-border);
-}
+/* vertical line removed to reclaim horizontal space */
 
 /* ==================== YEAR HEADERS ==================== */
 
@@ -142,7 +134,7 @@
     font-size: 1rem;
     font-weight: 600;
     color: var(--color-text-secondary);
-    padding: 10px 0 4px 52px;
+    padding: 10px 0 4px 0;
     margin: 0;
     letter-spacing: 0.01em;
 }
@@ -151,21 +143,12 @@
 
 .tl-moment {
     position: relative;
-    padding: 8px 0 8px 52px;
+    padding: 8px 0 8px 0;
     margin: 4px 0;
 }
 
 .tl-moment-line {
-    position: absolute;
-    left: 22px;
-    top: 20px;
-    width: 14px;
-    height: 14px;
-    border-radius: 50%;
-    background: var(--type-fatal, #cf222e);
-    border: 3px solid var(--color-surface);
-    box-shadow: 0 0 0 2px var(--type-fatal, #cf222e);
-    z-index: 2;
+    display: none;
 }
 
 .tl-moment-content {
@@ -249,19 +232,11 @@
 
 .tl-day {
     position: relative;
-    padding: 4px 0 4px 52px;
+    padding: 4px 0 4px 0;
 }
 
 .tl-day-marker {
-    position: absolute;
-    left: 24px;
-    top: 14px;
-    width: 10px;
-    height: 10px;
-    border-radius: 50%;
-    background: var(--color-border);
-    border: 2px solid var(--color-surface);
-    z-index: 2;
+    display: none;
 }
 
 .tl-day-body {
@@ -361,7 +336,7 @@
     }
 
     .tl-current-date {
-        font-size: 0.8rem;
+        font-size: 1.1rem;
         min-width: 80px;
     }
 
@@ -370,23 +345,8 @@
         padding: 0 24px 80px;
     }
 
-    .tl-content::before {
-        left: 36px;
-    }
-
     .tl-month-label {
-        padding-left: 68px;
         font-size: 1.2rem;
-    }
-
-    .tl-moment {
-        padding-left: 68px;
-    }
-
-    .tl-moment-line {
-        left: 30px;
-        width: 16px;
-        height: 16px;
     }
 
     .tl-moment-content {
@@ -409,14 +369,6 @@
         aspect-ratio: auto;
         border-radius: 6px;
         margin: 12px 0 0 0;
-    }
-
-    .tl-day {
-        padding-left: 68px;
-    }
-
-    .tl-day-marker {
-        left: 32px;
     }
 
     .tl-day-incident {
@@ -461,22 +413,8 @@
         font-size: 0.58rem;
     }
 
-    .tl-content::before {
-        left: 20px;
-    }
-
     .tl-month-label {
-        padding-left: 42px;
-    }
-
-    .tl-moment {
-        padding-left: 42px;
-    }
-
-    .tl-moment-line {
-        left: 14px;
-        width: 12px;
-        height: 12px;
+        padding-left: 0;
     }
 
     .tl-moment-content {
@@ -492,10 +430,6 @@
     }
 
     .tl-day {
-        padding-left: 42px;
-    }
-
-    .tl-day-marker {
-        left: 16px;
+        padding-left: 0;
     }
 }
