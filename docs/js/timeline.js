@@ -384,15 +384,9 @@ const Timeline = {
             }
         }
 
-        // Newest-first: always show grand totals, just update date
-        if (this.sortOrder === 'newest') {
-            this.updateCurrentDate(currentDate);
-            return;
-        }
-
-        // Oldest-first: accumulate totals as user scrolls
+        // Accumulate counts for days that scrolled past the trigger
         const newCounted = new Set();
-        const newTotals = { citizens: 0, observers: 0, immigrants: 0, 'schools-hospitals': 0 };
+        const scrolledPastTotals = { citizens: 0, observers: 0, immigrants: 0, 'schools-hospitals': 0 };
 
         for (const el of dayEls) {
             const rect = el.getBoundingClientRect();
@@ -401,19 +395,41 @@ const Timeline = {
                 newCounted.add(date);
                 const counts = JSON.parse(el.dataset.counts);
                 for (const cat in counts) {
-                    newTotals[cat] += counts[cat];
+                    scrolledPastTotals[cat] += counts[cat];
                 }
             }
         }
 
-        // Always include first day so counters never show zeros
-        const firstDay = this.monthData[0] && this.monthData[0].days[0];
-        if (firstDay && !newCounted.has(firstDay.date)) {
-            newCounted.add(firstDay.date);
-            for (const cat in firstDay.counts) {
-                newTotals[cat] += firstDay.counts[cat];
+        const newTotals = { citizens: 0, observers: 0, immigrants: 0, 'schools-hospitals': 0 };
+
+        if (this.sortOrder === 'newest') {
+            // Newest-first: grand totals minus scrolled-past (newer) days = count as of current date
+            for (const cat in newTotals) {
+                newTotals[cat] = this.grandTotals[cat] - scrolledPastTotals[cat];
             }
-            if (!currentDate) currentDate = firstDay.date;
+            // Ensure we always show at least the last day's counts
+            const lastMonth = this.monthData[this.monthData.length - 1];
+            const lastDay = lastMonth && lastMonth.days[lastMonth.days.length - 1];
+            if (lastDay && !newCounted.has(lastDay.date)) {
+                if (!currentDate) currentDate = lastDay.date;
+                for (const cat in newTotals) {
+                    newTotals[cat] = this.grandTotals[cat];
+                }
+            }
+        } else {
+            // Oldest-first: accumulate totals as user scrolls
+            for (const cat in scrolledPastTotals) {
+                newTotals[cat] = scrolledPastTotals[cat];
+            }
+            // Always include first day so counters never show zeros
+            const firstDay = this.monthData[0] && this.monthData[0].days[0];
+            if (firstDay && !newCounted.has(firstDay.date)) {
+                newCounted.add(firstDay.date);
+                for (const cat in firstDay.counts) {
+                    newTotals[cat] += firstDay.counts[cat];
+                }
+                if (!currentDate) currentDate = firstDay.date;
+            }
         }
 
         // Update totals if changed
