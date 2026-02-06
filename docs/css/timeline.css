@@ -100,14 +100,33 @@
     position: relative;
 }
 
-/* vertical line removed to reclaim horizontal space */
+.tl-content::before {
+    content: '';
+    position: absolute;
+    left: 14px;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: var(--color-border);
+}
 
 /* ==================== YEAR HEADERS ==================== */
 
 .tl-year {
     position: relative;
     padding: 20px 0 10px 0;
-    text-align: center;
+    z-index: 1;
+}
+
+.tl-year::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 30px;
+    background: var(--color-bg);
+    z-index: -1;
 }
 
 .tl-year span {
@@ -134,21 +153,43 @@
     font-size: 1rem;
     font-weight: 600;
     color: var(--color-text-secondary);
-    padding: 10px 0 4px 0;
+    padding: 10px 0 4px 32px;
     margin: 0;
     letter-spacing: 0.01em;
+    position: relative;
+    z-index: 1;
+}
+
+.tl-month-label::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 30px;
+    background: var(--color-bg);
+    z-index: -1;
 }
 
 /* ==================== NARRATIVE MOMENTS ==================== */
 
 .tl-moment {
     position: relative;
-    padding: 8px 0 8px 0;
+    padding: 8px 0 8px 32px;
     margin: 4px 0;
 }
 
 .tl-moment-line {
-    display: none;
+    position: absolute;
+    left: 9px;
+    top: 18px;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: var(--type-fatal, #cf222e);
+    border: 3px solid var(--color-surface);
+    box-shadow: 0 0 0 2px var(--type-fatal, #cf222e);
+    z-index: 2;
 }
 
 .tl-moment-content {
@@ -220,8 +261,8 @@
 .tl-moment-img {
     display: block;
     float: right;
-    width: 40%;
-    max-width: 140px;
+    width: 55%;
+    max-width: 280px;
     border-radius: 4px;
     margin: 0 0 8px 12px;
     object-fit: cover;
@@ -232,11 +273,19 @@
 
 .tl-day {
     position: relative;
-    padding: 4px 0 4px 0;
+    padding: 4px 0 4px 32px;
 }
 
 .tl-day-marker {
-    display: none;
+    position: absolute;
+    left: 11px;
+    top: 12px;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--color-border);
+    border: 2px solid var(--color-surface);
+    z-index: 2;
 }
 
 .tl-day-body {
@@ -362,13 +411,11 @@
     }
 
     .tl-moment-img {
-        float: none;
-        width: 100%;
-        max-width: none;
+        width: 45%;
+        max-width: 300px;
         max-height: 280px;
         aspect-ratio: auto;
         border-radius: 6px;
-        margin: 12px 0 0 0;
     }
 
     .tl-day-incident {
@@ -413,8 +460,30 @@
         font-size: 0.58rem;
     }
 
+    .tl-content::before {
+        left: 10px;
+    }
+
     .tl-month-label {
-        padding-left: 0;
+        padding-left: 26px;
+    }
+
+    .tl-month-label::before {
+        width: 24px;
+    }
+
+    .tl-year::before {
+        width: 24px;
+    }
+
+    .tl-moment {
+        padding-left: 26px;
+    }
+
+    .tl-moment-line {
+        left: 5px;
+        width: 10px;
+        height: 10px;
     }
 
     .tl-moment-content {
@@ -430,6 +499,10 @@
     }
 
     .tl-day {
-        padding-left: 0;
+        padding-left: 26px;
+    }
+
+    .tl-day-marker {
+        left: 7px;
     }
 }
