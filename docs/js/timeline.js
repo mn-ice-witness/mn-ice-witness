@@ -256,11 +256,7 @@ const Timeline = {
             const inc = day.incidents[i];
             const slug = App.getIncidentId(inc);
             const tag = this.getCategoryTag(inc);
-            const hiddenClass = i >= 6 ? ' tl-day-hidden' : '';
-            titlesHTML += `<div class="tl-day-incident${hiddenClass}" data-incident-slug="${slug}"><span class="tl-cat-tag">${tag}:</span> ${inc.title}</div>`;
-        }
-        if (day.incidents.length > 6) {
-            titlesHTML += `<div class="tl-day-more">+ ${day.incidents.length - 6} more</div>`;
+            titlesHTML += `<div class="tl-day-incident" data-incident-slug="${slug}"><span class="tl-cat-tag">${tag}:</span> ${inc.title}</div>`;
         }
 
         return `
@@ -282,7 +278,8 @@ const Timeline = {
         'observers': 'OBSERVER',
         'immigrants': 'IMMIGRANT',
         'schools-hospitals': 'SCHOOLS',
-        'response': 'RESPONSE'
+        'response': 'RESPONSE',
+        'background': 'BACKGROUND'
     },
 
     renderLinks(text) {
@@ -457,16 +454,6 @@ const Timeline = {
         this._clickHandler = (e) => {
             // Let inline links and source links navigate normally
             if (e.target.closest('.tl-inline-link') || e.target.closest('.tl-moment-source')) return;
-
-            // Check "more" first so it doesn't get caught by anything else
-            const dayMore = e.target.closest('.tl-day-more');
-            if (dayMore) {
-                e.preventDefault();
-                e.stopPropagation();
-                const dayEl = dayMore.closest('.tl-day');
-                if (dayEl) dayEl.classList.toggle('tl-day-expanded');
-                return;
-            }
 
             const momentEl = e.target.closest('.tl-moment-clickable');
             if (momentEl) {
