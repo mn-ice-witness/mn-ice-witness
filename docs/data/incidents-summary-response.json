@@ -828,32 +828,6 @@
       "localMediaFiles": [],
       "aspectRatio": null,
       "mediaVersion": null
-    },
-    {
-      "filePath": "incidents/2025-10/30/2025-10-30-noem-no-citizens-arrested-claim.md",
-      "title": "DHS Secretary Noem: \"No American Citizens Have Been Arrested or Detained\"",
-      "summary": "DHS Secretary Kristi Noem stated at a press conference that \"no American citizens have been arrested or detained\" by immigration agents. Multiple fact-checking organizations disputed this claim, including PolitiFact, NPR, and Poynter. ProPublica documented over 170 cases of U.S. citizens detained by immigration agents nationwide.",
-      "latestUpdate": null,
-      "date": "2025-10-30",
-      "time": "unknown",
-      "location": "DHS Press Conference, Gary, Indiana",
-      "city": "Minneapolis",
-      "type": "response",
-      "status": "resolved",
-      "affectedIndividualCitizenship": "us-citizen",
-      "injuries": "none",
-      "trustworthiness": "high",
-      "created": "2026-01-14T20:26:03",
-      "lastUpdated": "2026-01-14T20:26:03",
-      "mediaCount": 0,
-      "notable": false,
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
-      "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
     }
   ]
 }

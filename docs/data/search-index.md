@@ -15,7 +15,7 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (191 incidents)
+## CURRENT (189 incidents)
 
 Published incidents visible on the main site.
 
@@ -208,8 +208,6 @@ Published incidents visible on the main site.
 - incidents/2025-11/25/2025-11-25-jeffrey-suazo-st-paul.md | 2025-11-25 | St. Paul | immigrants | House Painter Arrested After 5-Hour Standoff; Family Reports Humiliation, No Warrant Shown
 - incidents/2025-11/18/2025-11-18-brotex-st-paul-raid.md | 2025-11-18 | St. Paul | immigrants | 14 Workers Detained in Major ICE Workplace Raid at Bro-Tex
 - incidents/2025-11/11/2025-11-11-northfield-nunez-gonzalez-arrest.md | 2025-11-11 | Northfield | immigrants | Adán Núñez Gonzalez Forcibly Arrested in Northfield, Son Records
-- incidents/2025-10/30/2025-10-30-noem-no-citizens-arrested-claim.md | 2025-10-30 | Minneapolis | response | DHS Secretary Noem: "No American Citizens Have Been Arrested or Detained"
-- incidents/2025-02/12/2025-02-12-nupa-rochester-workers.md | 2025-02-12 | Rochester | immigrants | Two Cooks Detained at Rochester Greek Restaurant; Business Forced to Close
 
 ---
 
