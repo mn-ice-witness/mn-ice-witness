@@ -175,22 +175,14 @@
 
 .tl-moment {
     position: relative;
-    padding: 8px 0 8px 32px;
-    margin: 4px 0;
+    padding: 10px 0 10px 14px;
+    margin: 10px 0;
+    background: var(--color-bg);
+    z-index: 1;
 }
 
 .tl-moment-line {
-    position: absolute;
-    left: 15px;
-    top: 14px;
-    width: 26px;
-    height: 26px;
-    border-radius: 50%;
-    background: #c0c0c0;
-    border: 3px solid var(--color-bg);
-    box-shadow: 0 0 0 3px var(--color-bg);
-    transform: translateX(-50%);
-    z-index: 2;
+    display: none;
 }
 
 .tl-moment-content {
@@ -208,7 +200,7 @@
 }
 
 .tl-moment-clickable:hover .tl-moment-content {
-    border-color: #aab;
+    border-left-color: #5a8aad;
     box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
 }
 
@@ -411,11 +403,6 @@
         font-size: 0.95rem;
     }
 
-    .tl-moment-line {
-        width: 12px;
-        height: 12px;
-    }
-
     .tl-moment-img {
         float: right;
         width: 40%;
@@ -483,13 +470,7 @@
     }
 
     .tl-moment {
-        padding-left: 26px;
-    }
-
-    .tl-moment-line {
-        left: 11px;
-        width: 20px;
-        height: 20px;
+        padding-left: 10px;
     }
 
     .tl-moment-content {
