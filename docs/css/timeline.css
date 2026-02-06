@@ -81,6 +81,24 @@
     margin-top: 2px;
 }
 
+.tl-sort-toggle {
+    font-size: 0.7rem;
+    font-family: var(--font-sans);
+    font-weight: 600;
+    color: #6a8fad;
+    cursor: pointer;
+    padding: 3px 10px;
+    border: 1px solid rgba(106, 143, 173, 0.3);
+    border-radius: 12px;
+    background: rgba(106, 143, 173, 0.06);
+    white-space: nowrap;
+}
+
+.tl-sort-toggle:hover {
+    background: rgba(106, 143, 173, 0.12);
+    border-color: rgba(106, 143, 173, 0.5);
+}
+
 .tl-count-pop {
     animation: tl-pop 0.3s ease-out;
 }
