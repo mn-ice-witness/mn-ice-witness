@@ -15,7 +15,7 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (189 incidents)
+## CURRENT (193 incidents)
 
 Published incidents visible on the main site.
 
@@ -59,6 +59,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/23/2026-01-23-bowlocity-us-citizen-detained.md | 2026-01-23 | Rochester | citizens | U.S. Citizen Detained Outside Rochester Bowling Alley, Released After Rep. Kim Hicks Intervenes
 - incidents/2026-01/23/2026-01-23-bovino-experts-dealing-children.md | 2026-01-23 | Minneapolis | response | Bovino: "We Are Experts in Dealing With Children"
 - incidents/2026-01/23/2026-01-23-oak-terraces-obstruction-arrest.md | 2026-01-23 | Rochester | observers | Woman Arrested at Oak Terraces After Challenging ICE Presence on Private Property
+- incidents/2026-01/23/2026-01-23-50k-march.md | 2026-01-23 | Minneapolis | background | 50,000 March in Subzero Temperatures in Largest Minnesota Protest
 - incidents/2026-01/22/2026-01-22-little-canada-elementary-secure-protocol.md | 2026-01-22 | Little Canada | schools-hospitals | Little Canada Elementary Goes to Secure Protocol Due to ICE in Parking Lot
 - incidents/2026-01/22/2026-01-22-tipan-toddler-father-detained.md | 2026-01-22 | Minneapolis | immigrants | 2-Year-Old and Father Detained Near Powderhorn; Flown to Texas Despite Court Order
 - incidents/2026-01/22/2026-01-22-amundson-zemien-seizure-first-responders.md | 2026-01-22 | Brooklyn Park | observers | Two Detained Women Become First Responders After ICE Agent Has Seizure
@@ -132,6 +133,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/12/2026-01-12-christian-molina-car-rammed.md | 2026-01-12 | Minneapolis | citizens | ICE Rams Latino U.S. Citizen's Car, Releases Him After Confirming Identity
 - incidents/2026-01/12/2026-01-12-nimco-omar-citizen-check.md | 2026-01-12 | Minneapolis | citizens | Citizen Check: U.S. Citizen Confronted by ICE Agents While Walking
 - incidents/2026-01/12/2026-01-12-pilllar-forum-musicians.md | 2026-01-12 | Minneapolis | observers | Musicians and Fans Pepper Sprayed Outside NE Minneapolis Venue
+- incidents/2026-01/12/2026-01-12-minnesota-sues-to-halt-operation.md | 2026-01-12 | Minneapolis | background | Minnesota Sues Federal Government to Halt Operation Metro Surge
 - incidents/2026-01/12/2026-01-12-garrison-gibson-battering-ram.md | 2026-01-12 | Minneapolis | immigrants | Liberian Man Arrested With Battering Ram, No Judicial Warrant
 - incidents/2026-01/11/2026-01-11-dhs-response-speedway-bystander.md | 2026-01-11 | St. Paul | response | DHS Response: Speedway Bystander "Hit an Officer"
 - incidents/2026-01/11/2026-01-11-observer-shoved-into-traffic.md | 2026-01-11 | Minneapolis | observers | Observer Shoved Into Oncoming Traffic While Filming ICE
@@ -175,6 +177,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/07/2026-01-07-roosevelt-high-school.md | 2026-01-07 | Minneapolis | schools-hospitals | Border Patrol Agents at Roosevelt High School, Staffer Detained
 - incidents/2026-01/07/2026-01-07-un-mundo-nuevo-teacher-tricked.md | 2026-01-07 | Burnsville | schools-hospitals, immigrants | Daycare Teacher Tricked with Fake Car Accident Claim, Detained for 10 Minutes
 - incidents/2026-01/07/2026-01-07-pickup-truck-rams-protesters.md | 2026-01-07 | Minneapolis | observers | Federal Agents Ram White Pickup Truck Into Protesters
+- incidents/2026-01/06/2026-01-06-2000-agents-deployed.md | 2026-01-06 | Minneapolis | background | DHS Deploys 2,000 Additional Agents to Minnesota
 - incidents/2026-01/06/2026-01-06-elizabeth-caisaguano-detained.md | 2026-01-06 | Columbia Heights | schools-hospitals, immigrants | Ten-Year-Old Elizabeth Caisaguano Detained with Mother, Held Nearly One Month in Texas
 - incidents/2026-01/06/2026-01-06-emmanuel-sackie-brooklyn-park.md | 2026-01-06 | Brooklyn Park | citizens | Naturalized U.S. Citizen Hospitalized After ICE Encounter
 - incidents/2026-01/06/2026-01-06-bloomington-wilderness-inquiry.md | 2026-01-06 | Bloomington | immigrants | Man Seeks Refuge in Bloomington Office During 2-Hour ICE Standoff
@@ -200,6 +203,7 @@ Published incidents visible on the main site.
 - incidents/2025-12/06/2025-12-06-burnsville-family-separated.md | 2025-12-06 | Burnsville | immigrants | Parents Separated from 7-Year-Old in Burnsville Raid; Ring Camera Captures Forced Entry
 - incidents/2025-12/06/2025-12-06-augsburg-student-detained.md | 2025-12-06 | Minneapolis | immigrants, schools-hospitals | ICE Agents Point Weapons at Students During Campus Arrest at Augsburg University
 - incidents/2025-12/04/2025-12-04-francisco-paredes-church.md | 2025-12-04 | Hopkins | immigrants | Church Employee Deported, Parish Later Surveilled by ICE
+- incidents/2025-12/04/2025-12-04-operation-metro-surge-launched.md | 2025-12-04 | Minneapolis | background | DHS Launches Operation Metro Surge
 - incidents/2025-12/04/2025-12-04-dhs-response-abdulkadir-abdi.md | 2025-12-04 | Minneapolis | response | DHS Response: Abdulkadir Abdi "Gang Member"
 - incidents/2025-12/04/2025-12-04-abdulkadir-abdi-detained.md | 2025-12-04 | Minneapolis | immigrants | Addiction Recovery Leader Detained, Labeled "Gang Member"
 - incidents/2025-12/03/2025-12-03-hola-arepa-warrantless-entry.md | 2025-12-03 | Minneapolis | immigrants | Hola Arepa Staff Refuses ICE Entry Without Warrant

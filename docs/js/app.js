@@ -37,8 +37,7 @@ const App = {
             'observers': 'observers',
             'immigrants': 'immigrants',
             'schools-hospitals': 'schools',
-            'response': 'response',
-            'background': 'background'
+            'response': 'response'
         };
         this.sections = Object.entries(typeToId).map(([type, id]) => {
             const el = document.getElementById(id);
@@ -304,10 +303,13 @@ const App = {
      */
     getFilteredIncidents() {
         const query = (typeof Search !== 'undefined' && Search.query) ? Search.query.toLowerCase().trim() : '';
-        // Filter out no-news-media and removed incidents from main display
-        const verified = this.incidents.filter(i =>
-            i.trustworthiness !== 'no-news-media' && i.trustworthiness !== 'removed'
-        );
+        // Filter out no-news-media, removed, and background incidents from main display
+        const verified = this.incidents.filter(i => {
+            if (i.trustworthiness === 'no-news-media' || i.trustworthiness === 'removed') return false;
+            const types = Array.isArray(i.type) ? i.type : [i.type];
+            if (types.length === 1 && types[0] === 'background') return false;
+            return true;
+        });
         if (!query) return verified;
 
         const terms = query.split(/\s+/).filter(t => t.length > 0);
