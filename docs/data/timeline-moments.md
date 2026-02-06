@@ -169,6 +169,14 @@ The story that came to symbolize workplace enforcement. Four ICE agents eat lunc
 
 ---
 date: 2026-01-16
+title: "An Economic Crisis of Catastrophic Proportions"
+incident: 2026-01-16-business-disruption-economic-crisis
+source:
+---
+As the "[dine and detain](/entry/2026-01-15-el-tapatio-willmar)" story went viral, a quieter devastation was already unfolding across the Twin Cities. Immigrant-run businesses — the restaurants, markets, and shops that anchor Lake Street, Cedar-Riverside, and St. Paul's West Side — were emptying out. Workers stopped showing up for shifts. Customers stayed home. The Midtown Global Market, which draws 1.5 million visitors a year, fell nearly silent. At Manny's Tortas, four of ten employees refused to come in; at El Burrito Mercado, 20 of 90 were gone by month's end. Owners responded with extraordinary measures: driving workers to and from shifts under blankets, posting volunteers at locked front doors to screen for ICE, leasing apartments for vulnerable staff, and applying for temporary guardianship of employees' children. The Lake Street Council estimated the corridor's 1,000-plus immigrant-owned businesses lost a cumulative $46 million in December and January. The city put weekly losses at $10 million to $20 million. Half of Lake Street's immigrant businesses were closed on any given day. Mercado Central's 35 family-run vendors lost 90% to 100% of their income. The crisis extended beyond immigrant communities: 80% of all Minneapolis businesses reported reduced sales, and 72% reported worker absenteeism. Multiple owners compared conditions to COVID-19, but worse — because no government relief existed. As one restaurant owner told [Mpls.St.Paul Magazine](https://mspmag.com/eat-and-drink/foodie/restaurants-ice-operation-metro-surge-economic-strain/): "This is like COVID, but worse."
+
+---
+date: 2026-01-16
 title: Trump Threatens Insurrection Act
 incident: 2026-01-16-trump-insurrection-act-threat
 source:

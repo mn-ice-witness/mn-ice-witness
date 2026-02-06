@@ -29,7 +29,33 @@
         }
       ],
       "aspectRatio": 1.8927444794952681,
-      "mediaVersion": 1770334633
+      "mediaVersion": 1770397820
+    },
+    {
+      "filePath": "incidents/2026-01/16/2026-01-16-business-disruption-economic-crisis.md",
+      "title": "Immigrant-Run Businesses Devastated as Operation Metro Surge Empties Cultural Corridors",
+      "summary": "Operation Metro Surge triggered an economic crisis across the Twin Cities as immigrant-run businesses lost between 50% and 100% of their revenue, workers stopped showing up for shifts out of fear of detention, and entire commercial corridors fell silent. By late January, the Lake Street Council estimated the corridor's more than 1,000 immigrant-owned businesses had lost a cumulative $46 million. Restaurant owners resorted to driving workers to and from shifts under blankets, locking front doors and posting volunteers as lookouts, and leasing apartments for vulnerable employees. The disruption extended to non-immigrant businesses citywide, with 80% of Minneapolis businesses reporting canceled or reduced sales and the city estimating losses of $10 million to $20 million per week.",
+      "latestUpdate": null,
+      "date": "2026-01-16",
+      "time": "unknown",
+      "location": "Minneapolis-St. Paul Metropolitan Area",
+      "city": "Minneapolis",
+      "type": "background",
+      "status": "ongoing",
+      "affectedIndividualCitizenship": "various",
+      "injuries": "none",
+      "trustworthiness": "high",
+      "created": "2026-02-06T12:04:35",
+      "lastUpdated": "2026-02-06T12:04:35",
+      "mediaCount": 0,
+      "notable": false,
+      "hasLocalMedia": false,
+      "localMediaType": null,
+      "localMediaPath": null,
+      "localMediaOgPath": null,
+      "localMediaFiles": [],
+      "aspectRatio": null,
+      "mediaVersion": null
     },
     {
       "filePath": "incidents/2026-01/14/2026-01-14-agriculture-press-conference.md",
