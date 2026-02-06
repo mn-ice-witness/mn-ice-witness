@@ -410,6 +410,11 @@
         font-size: 0.95rem;
     }
 
+    .tl-moment-line {
+        width: 14px;
+        height: 14px;
+    }
+
     .tl-moment-img {
         float: right;
         width: 40%;
