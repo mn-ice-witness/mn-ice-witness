@@ -15,7 +15,7 @@ last_updated: 2026-02-05T11:48:18
 # Trump Says Administration Will Use "Softer Touch" After Minneapolis Shootings
 
 ## Summary
-In an NBC News interview ahead of the 2026 Super Bowl, President Trump said the federal government could use "a little bit of a softer touch" in Minneapolis following the fatal shootings of two U.S. citizens by federal immigration agents. Trump blamed Governor Tim Walz and Mayor Jacob Frey for lack of cooperation, repeated claims about targeting "criminals" that fact-checkers found inaccurate, and framed the draw down as a concession rather than a response to public backlash.
+In an NBC News interview ahead of the 2026 Super Bowl, President Trump said the federal government could use "a little bit of a softer touch" in Minneapolis following the fatal shootings of two U.S. citizens by federal immigration agents. Trump called the people his agents killed "not angels," saying: "He was not an angel, and she was not an angel." He blamed Governor Tim Walz and Mayor Jacob Frey for lack of cooperation, repeated claims about targeting "criminals" that fact-checkers found inaccurate, and framed the draw down as a concession rather than a response to public backlash.
 
 ## Sources
 1. NBC News (Feb 4, 2026): [After Minneapolis shootings, Trump says administration will use 'softer touch' in immigration enforcement](https://www.nbcnews.com/politics/donald-trump/minneapolis-shootings-trump-says-administration-use-softer-touch-immig-rcna257459)
