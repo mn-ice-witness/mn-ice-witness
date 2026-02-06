@@ -235,11 +235,11 @@ const Timeline = {
             <div class="tl-moment${clickClass}" ${clickAttr}>
                 <div class="tl-moment-line"></div>
                 <div class="tl-moment-content">
+                    ${imgHTML}
                     <div class="tl-moment-date">${dateStr}</div>
                     <h4 class="tl-moment-title">${moment.title}</h4>
                     <p class="tl-moment-desc">${this.renderLinks(moment.body)}</p>
                     ${sourceHTML}
-                    ${imgHTML}
                 </div>
             </div>
         `;
