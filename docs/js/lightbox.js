@@ -585,6 +585,14 @@ const Lightbox = {
     async renderIncidentContent(incident) {
         const response = await fetch('/' + incident.filePath);
         const content = await response.text();
+
+        if (!response.ok || content.trimStart().startsWith('<!DOCTYPE') || content.trimStart().startsWith('<html')) {
+            this.bodyElement.innerHTML = '<div style="padding: 2rem; text-align: center; color: #999;">' +
+                '<p style="font-size: 1.2rem;">This incident file is not available yet.</p>' +
+                '<p>It may still be deploying. Try refreshing in a minute.</p></div>';
+            return;
+        }
+
         const fullIncident = IncidentParser.parseIncident(content, incident.filePath);
 
         const html = LightboxContent.renderIncident(fullIncident, incident);
