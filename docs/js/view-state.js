@@ -129,6 +129,23 @@ const ViewState = {
     },
 
     setSortMode(mode, skipRender) {
+        // Handle timeline sort modes
+        if (mode === 'tl-oldest' || mode === 'tl-newest') {
+            const order = mode === 'tl-newest' ? 'newest' : 'oldest';
+            if (typeof Timeline !== 'undefined' && Timeline.sortOrder !== order) {
+                Timeline.sortOrder = order;
+                Timeline.render();
+            }
+            // Update active state
+            const menu = document.getElementById('sort-menu');
+            if (menu) {
+                menu.querySelectorAll('.sort-option').forEach(opt => {
+                    opt.classList.toggle('active', opt.dataset.sort === mode);
+                });
+            }
+            return;
+        }
+
         this.sortMode = mode;
 
         // Remember per-view sort
@@ -254,13 +271,38 @@ const ViewState = {
             sectionNav.style.display = (view === 'list' && this.sortMode === 'all') ? '' : 'none';
         }
 
-        // Show/hide sort dropdown and search (not relevant for timeline)
+        // Show/hide sort dropdown - swap options for timeline
         if (sortDropdown) {
-            sortDropdown.style.display = (view === 'timeline') ? 'none' : '';
-            // Update default sort label based on view
-            const allOption = sortDropdown.querySelector('.sort-option[data-sort="all"]');
-            if (allOption) {
-                allOption.textContent = (view === 'media') ? 'Featured' : 'Category';
+            sortDropdown.style.display = '';
+            const menu = document.getElementById('sort-menu');
+            if (menu) {
+                if (view === 'timeline') {
+                    menu.innerHTML = `
+                        <div class="sort-menu-header">Sort By</div>
+                        <button class="sort-option${Timeline.sortOrder === 'oldest' ? ' active' : ''}" data-sort="tl-oldest">Oldest</button>
+                        <button class="sort-option${Timeline.sortOrder === 'newest' ? ' active' : ''}" data-sort="tl-newest">Newest</button>
+                    `;
+                } else {
+                    const currentSort = this.sortMode || 'all';
+                    menu.innerHTML = `
+                        <div class="sort-menu-header">Sort By</div>
+                        <button class="sort-option${currentSort === 'all' ? ' active' : ''}" data-sort="all">${view === 'media' ? 'Featured' : 'Category'}</button>
+                        <button class="sort-option${currentSort === 'occurred' ? ' active' : ''}" data-sort="occurred">Occurred</button>
+                        <button class="sort-option${currentSort === 'new-updated' ? ' active' : ''}" data-sort="new-updated">New/Updated</button>
+                        <button class="sort-option${currentSort === 'new' ? ' active' : ''}" data-sort="new">New</button>
+                        <button class="sort-option${currentSort === 'updated' ? ' active' : ''}" data-sort="updated">Updated</button>
+                    `;
+                }
+                // Re-bind click handlers for the new buttons
+                menu.querySelectorAll('.sort-option').forEach(option => {
+                    option.addEventListener('click', (e) => {
+                        e.stopPropagation();
+                        this.setSortMode(option.dataset.sort);
+                        menu.classList.remove('open');
+                        menu.setAttribute('aria-hidden', 'true');
+                        document.getElementById('sort-btn').classList.remove('active');
+                    });
+                });
             }
         }
         const searchBtn = document.getElementById('search-btn');

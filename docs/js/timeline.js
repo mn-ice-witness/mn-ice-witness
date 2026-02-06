@@ -155,19 +155,7 @@ const Timeline = {
     },
 
     buildTotalsHTML() {
-        const oldestActive = this.sortOrder === 'oldest' ? ' active' : '';
-        const newestActive = this.sortOrder === 'newest' ? ' active' : '';
         return `
-            <div class="sort-dropdown" id="tl-sort-dropdown" style="position:relative;left:auto;top:auto;transform:none;">
-                <button class="sort-btn${this.sortOrder !== 'oldest' ? ' active' : ''}" id="tl-sort-btn" aria-label="Sort timeline" title="Sort by">
-                    <svg width="16" height="16"><use href="#icon-sort"/></svg>
-                </button>
-                <div class="sort-menu" id="tl-sort-menu" aria-hidden="true">
-                    <div class="sort-menu-header">Sort By</div>
-                    <button class="sort-option${oldestActive}" data-tl-sort="oldest">Oldest</button>
-                    <button class="sort-option${newestActive}" data-tl-sort="newest">Newest</button>
-                </div>
-            </div>
             <div class="tl-current-date" id="tl-current-date"></div>
             <div class="tl-totals-group">
                 <div class="tl-total tl-total-citizens">
@@ -494,30 +482,6 @@ const Timeline = {
         }
 
         this._clickHandler = (e) => {
-            // Sort dropdown toggle
-            if (e.target.closest('#tl-sort-btn')) {
-                const menu = document.getElementById('tl-sort-menu');
-                if (menu) menu.classList.toggle('open');
-                return;
-            }
-            // Sort option selected
-            const sortOpt = e.target.closest('[data-tl-sort]');
-            if (sortOpt) {
-                const newOrder = sortOpt.dataset.tlSort;
-                if (newOrder !== this.sortOrder) {
-                    this.sortOrder = newOrder;
-                    this.render();
-                }
-                const menu = document.getElementById('tl-sort-menu');
-                if (menu) menu.classList.remove('open');
-                return;
-            }
-            // Close sort menu on any other click
-            const menu = document.getElementById('tl-sort-menu');
-            if (menu && menu.classList.contains('open')) {
-                menu.classList.remove('open');
-            }
-
             // Let inline links and source links navigate normally
             if (e.target.closest('.tl-inline-link') || e.target.closest('.tl-moment-source')) return;
 
