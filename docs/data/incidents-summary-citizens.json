@@ -1,6 +1,32 @@
 {
   "incidents": [
     {
+      "filePath": "incidents/2026-02/05/2026-02-05-javier-abreu-rochester-kidney-transplant.md",
+      "title": "Kidney Transplant Recipient Arrested in Rochester Needs Anti-Rejection Medication",
+      "summary": "Federal immigration agents arrested Javier Abreu, 38, on Civic Center Drive in Rochester on February 5 while he was delivering groceries for his church. Agents rammed his car and broke his window during the arrest. Abreu is a kidney transplant recipient who requires anti-rejection medication, and State Rep. Kim Hicks says his access to the medication has been inconsistent. He was transported to the Whipple Federal Building near Ft. Snelling and was scheduled to be flown to a facility in Texas on February 6.",
+      "latestUpdate": null,
+      "date": "2026-02-05",
+      "time": "unknown",
+      "location": "Civic Center Drive and Broadway Avenue",
+      "city": "Rochester",
+      "type": "citizens",
+      "status": "ongoing",
+      "affectedIndividualCitizenship": "unknown",
+      "injuries": "none",
+      "trustworthiness": "high",
+      "created": "2026-02-06T15:56:25",
+      "lastUpdated": "2026-02-06T15:56:25",
+      "mediaCount": 0,
+      "notable": false,
+      "hasLocalMedia": false,
+      "localMediaType": null,
+      "localMediaPath": null,
+      "localMediaOgPath": null,
+      "localMediaFiles": [],
+      "aspectRatio": null,
+      "mediaVersion": null
+    },
+    {
       "filePath": "incidents/2026-02/01/2026-02-01-jose-lozano-worthington.md",
       "title": "Jose Lozano Detained Despite Valid Asylum Permit in Worthington",
       "summary": "Jose Lozano, 28, was detained by ICE while jumpstarting his minivan outside his Worthington home. Lozano held a valid temporary permit allowing him to remain in the U.S. for five years while his asylum case processes, with three years of authorization still remaining. When he attempted to retrieve his wallet to show documentation, agents prevented him from doing so. An immigration attorney intervened within 30 minutes to stop his transfer to Texas.",

@@ -60,7 +60,7 @@ title: 10-Year-Old Detained on Way to School
 incident: 2026-01-06-elizabeth-caisaguano-detained
 source:
 ---
-The beginning of what would become one of the most condemned aspects of the operation: the detention of children. Ten-year-old Elizabeth Caisaguano, a fourth grader who dreams of being a doctor, is seized with her mother by ICE agents on the way to Highland Elementary in Columbia Heights. Elizabeth calls her father during the arrest — agents tell her they'll drop her at school. They never do. By day's end, both are flown to the Dilley, Texas detention facility. Her father waits for hours at the school before learning what happened. Elizabeth's case would not become widely known for two weeks, when her school district revealed that four students had been taken by ICE. She would remain in detention for nearly a month — the first in a series of child detentions that drew bipartisan outrage and international attention.
+The first known detention of a child during the operation. Ten-year-old Elizabeth Caisaguano, a fourth grader who dreams of being a doctor, is seized with her mother by ICE agents on the way to Highland Elementary in Columbia Heights. Elizabeth calls her father during the arrest — agents tell her they'll drop her at school. They never do. By day's end, both are flown to the Dilley, Texas detention facility. Her father waits for hours at the school before learning what happened. Elizabeth's case would not become widely known for two weeks, when her school district revealed that four students had been taken by ICE. She would remain in detention for nearly a month — the first in a series of child detentions that drew bipartisan outrage and international attention.
 
 ---
 date: 2026-01-07
@@ -68,7 +68,7 @@ title: Renee Good Killed by ICE Agent
 incident: 2026-01-07-renee-good-shooting
 source:
 ---
-The first fatal shooting. Renee Nicole Macklin Good, 37, a writer, poet, and mother of three, is shot and killed by ICE agent Jonathan Ross while in her car in south Minneapolis. Her death transforms the crisis — protests escalate dramatically and the state files legal action within days.
+The first fatal shooting. Renee Nicole Macklin Good, 37, a mother of three, is shot and killed by ICE agent Jonathan Ross while in her car in south Minneapolis. Her death transforms the crisis — protests escalate dramatically and the state files legal action within days.
 
 ---
 date: 2026-01-07
@@ -76,7 +76,7 @@ title: Border Patrol Raids Roosevelt High School
 incident: 2026-01-07-roosevelt-high-school
 source:
 ---
-The first federal raid on a school. Border Patrol agents descend on Roosevelt High School during dismissal, tackle people on school grounds, and deploy chemical irritants. A special education assistant — a U.S. citizen — is detained. Minneapolis Public Schools cancels classes for the rest of the week. Former Governor Jesse Ventura, a Roosevelt graduate, [visits the next day](/entry/2026-01-08-jesse-ventura-roosevelt) and calls ICE "the draft-dodging coward's Gestapo," comparing the administration's tactics to 1930s Germany.
+Border Patrol agents descend on Roosevelt High School during dismissal, tackle people on school grounds, and deploy chemical irritants. A special education assistant — a U.S. citizen — is detained. Minneapolis Public Schools cancels classes for the rest of the week. Former Governor Jesse Ventura, a Roosevelt graduate, [visits the next day](/entry/2026-01-08-jesse-ventura-roosevelt) and calls ICE "the draft-dodging coward's Gestapo," comparing the administration's tactics to 1930s Germany.
 
 ---
 date: 2026-01-08
@@ -149,7 +149,7 @@ title: Disabled U.S. Citizen Dragged From Car, Hospitalized
 incident: 2026-01-13-aliya-rahman-car-window-hospitalized
 source:
 ---
-One of the most-viewed videos of the operation. ICE agents smash the car window of Aliya Rahman, a 43-year-old U.S. citizen and software engineer with a traumatic brain injury, and drag her out while she screams "I'm disabled!" She was driving to an appointment at the Traumatic Brain Injury Center. Denied medical attention in custody, she loses consciousness in her cell before finally being hospitalized. The footage goes viral with millions of views, and Rahman later testifies before Congress.
+In a video viewed millions of times worldwide, ICE agents smash the car window of Aliya Rahman, a 43-year-old U.S. citizen and software engineer with a traumatic brain injury, and drag her out while she screams "I'm disabled!" She was driving to an appointment at the Traumatic Brain Injury Center. Denied medical attention in custody, she loses consciousness in her cell before finally being hospitalized. The footage goes viral with millions of views, and Rahman later testifies before Congress.
 
 ---
 date: 2026-01-14
@@ -157,7 +157,7 @@ title: North Minneapolis Erupts; Six Children Hospitalized After Flashbangs Hit 
 incident: 2026-01-14-shawn-jackson-children-tear-gas
 source:
 ---
-The night North Minneapolis erupted. After an ICE agent shoots a man during a traffic stop on 24th Avenue North, protests erupt and the neighborhood descends into chaos. In the escalation, agents deploy flashbang grenades and tear gas under an SUV carrying Shawn Jackson and his six children, ages 6 months to 11. The baby stops breathing and requires CPR. Three children are hospitalized. Agents refuse to call 911. Mayor Frey holds a late-night press conference calling federal agents' behavior "disgusting and intolerable." DHS fires back, blaming Frey's sanctuary policies. The incident becomes a turning point in national media coverage.
+After an ICE agent shoots a man during a traffic stop on 24th Avenue North, protests erupt and the neighborhood descends into chaos. In the escalation, agents deploy flashbang grenades and tear gas under an SUV carrying Shawn Jackson and his six children, ages 6 months to 11. The baby stops breathing and requires CPR. Three children are hospitalized. Agents refuse to call 911. Mayor Frey holds a late-night press conference calling federal agents' behavior "disgusting and intolerable." DHS fires back, blaming Frey's sanctuary policies. The incident becomes a turning point in national media coverage.
 
 ---
 date: 2026-01-15
@@ -181,7 +181,7 @@ title: Trump Threatens Insurrection Act
 incident: 2026-01-16-trump-insurrection-act-threat
 source:
 ---
-The crisis reaches the White House. President Trump threatens to invoke the Insurrection Act to deploy military forces to Minneapolis, warning he will use the law if "corrupt politicians" don't "obey the law." The Pentagon places 1,500 active-duty troops on standby. The threat marks the first time the Insurrection Act has been invoked or threatened against a U.S. city since the 1992 Los Angeles riots.
+President Trump threatens to invoke the Insurrection Act to deploy military forces to Minneapolis, warning he will use the law if "corrupt politicians" don't "obey the law." The Pentagon places 1,500 active-duty troops on standby. The threat marks the first time the Insurrection Act has been invoked or threatened against a U.S. city since the 1992 Los Angeles riots.
 
 ---
 date: 2026-01-18
@@ -189,7 +189,7 @@ title: Hmong Elder Detained Shirtless in Freezing Cold
 incident: 2026-01-18-saly-hmong-citizen-shirtless
 source:
 ---
-The operation's reach into Minnesota's Hmong community. ChongLy "Scott" Thao, a naturalized U.S. citizen, is dragged from his home shirtless in approximately 10-degree weather. Agents entered without a warrant and pointed a gun at his daughter-in-law. The incident demonstrates that enforcement is targeting citizens across multiple ethnic communities, not just Somali and Latino residents.
+ChongLy "Scott" Thao, a naturalized U.S. citizen, is dragged from his home shirtless in approximately 10-degree weather. Agents entered without a warrant and pointed a gun at his daughter-in-law. The incident demonstrates that enforcement is targeting citizens across multiple ethnic communities, not just Somali and Latino residents.
 
 ---
 date: 2026-01-18
@@ -205,7 +205,7 @@ title: Police Chiefs Denounce Racial Profiling
 incident: 2026-01-20-brooklyn-park-officer-citizen-check
 source:
 ---
-Local law enforcement breaks with federal agents. Three Twin Cities police chiefs hold a joint press conference at the State Capitol. Brooklyn Park Police Chief Mark Bruley reveals an off-duty officer — a woman of color — was stopped at gunpoint and ordered to prove her citizenship. "If it's happening to our officers, it pains me to think of how many community members fall victim daily." The rare public rebuke by police of federal agents underscores the depth of the crisis.
+In a highly unusual public rebuke, three Twin Cities police chiefs hold a joint press conference at the State Capitol. Brooklyn Park Police Chief Mark Bruley reveals an off-duty officer — a woman of color — was stopped at gunpoint and ordered to prove her citizenship. "If it's happening to our officers, it pains me to think of how many community members fall victim daily." The rare public rebuke by police of federal agents underscores the depth of the crisis.
 
 ---
 date: 2026-01-20
@@ -213,7 +213,7 @@ title: 5-Year-Old Liam Ramos Detained
 incident: 2026-01-20-liam-ramos-detained
 source:
 ---
-The pattern of detaining children escalates. Five-year-old kindergartner Liam Conejo Ramos and his father Adrian are detained by ICE in Columbia Heights and flown to the Dilley, Texas detention facility — the same facility where [10-year-old Elizabeth Caisaguano](/entry/2026-01-06-elizabeth-caisaguano-detained) has already been held for two weeks. Liam is the youngest known detainee, and his case becomes the single most widely covered story of the operation, drawing condemnation from across the political spectrum and forcing the question of how many children were being swept up in the surge.
+Five-year-old kindergartner Liam Conejo Ramos and his father Adrian are detained by ICE in Columbia Heights and flown to the Dilley, Texas detention facility — the same facility where [10-year-old Elizabeth Caisaguano](/entry/2026-01-06-elizabeth-caisaguano-detained) has already been held for two weeks. Liam is the youngest known detainee, and his case becomes the single most widely covered story of the operation, drawing condemnation from across the political spectrum and forcing the question of how many children were being swept up in the surge.
 
 ---
 date: 2026-01-21
@@ -229,7 +229,7 @@ title: Banned Chemical Weapon Deployed Near School
 incident: 2026-01-21-bovino-hexachloroethane-playground
 source:
 ---
-The most extreme use of force near a school. Border Patrol Commander Greg Bovino personally throws hexachloroethane canisters — classified as a chemical weapon banned in international warfare — at Mueller Park near Ella Baker school just after dismissal. A school bus carrying students is forced to drive through the gas cloud. Bovino is later removed from Minnesota operations.
+Border Patrol Commander Greg Bovino personally throws hexachloroethane canisters — classified as a chemical weapon banned in international warfare — at Mueller Park near Ella Baker school just after dismissal. A school bus carrying students is forced to drive through the gas cloud. Bovino is later removed from Minnesota operations.
 
 ---
 date: 2026-01-22
@@ -237,11 +237,11 @@ title: 2-Year-Old Flown to Texas Despite Court Order
 incident: 2026-01-22-tipan-toddler-father-detained
 source:
 ---
-Two days after Liam Ramos, the detention of children reaches its most defiant moment. Two-year-old Chloe Tipan and her father, asylum-seekers from Ecuador, are followed from a grocery store and detained near Powderhorn. A federal judge orders the toddler released by 9:30 PM. Nineteen minutes later, ICE places both on a commercial flight to Texas — separating Chloe from her mother. Attorneys call it "bad-faith conduct" and file motions to block all interstate ICE transfers from Minnesota. With [Elizabeth Caisaguano](/entry/2026-01-06-elizabeth-caisaguano-detained) still in Dilley after 16 days and [Liam Ramos](/entry/2026-01-20-liam-ramos-detained) detained two days earlier, three children under 10 are now held in a Texas detention facility. The defiance of the court order fits an escalating pattern — by month's end, a federal judge would find ICE had violated 96 court orders in January alone. Chloe is returned to her mother the following day, but her father remains in ICE custody.
+Two-year-old Chloe Tipan and her father, asylum-seekers from Ecuador, are followed from a grocery store and detained near Powderhorn. A federal judge orders the toddler released by 9:30 PM. Nineteen minutes later, ICE places both on a commercial flight to Texas — separating Chloe from her mother. Attorneys call it "bad-faith conduct" and file motions to block all interstate ICE transfers from Minnesota. With [Elizabeth Caisaguano](/entry/2026-01-06-elizabeth-caisaguano-detained) still in Dilley after 16 days and [Liam Ramos](/entry/2026-01-20-liam-ramos-detained) detained two days earlier, three children under 10 are now held in a Texas detention facility. The defiance of the court order fits an escalating pattern — by month's end, a federal judge would find ICE had violated 96 court orders in January alone. Chloe is returned to her mother the following day, but her father remains in ICE custody.
 
 ---
 date: 2026-01-23
-title: 50,000 March in Subzero Temperatures
+title: 50,000-100,000 March in Subzero Temperatures
 incident: 2026-01-23-50k-march
 source:
 ---
@@ -269,7 +269,7 @@ title: Judge Finds 96 Court Orders Violated
 incident: 2026-01-27-tobay-robles-lyons-contempt
 source:
 ---
-An extraordinary judicial rebuke. Minnesota Chief Judge Patrick Schiltz — a George W. Bush appointee — finds ICE has violated 96 court orders in January 2026 alone, stating ICE likely violated more orders in one month "than some federal agencies have violated in their entire existence." The ruling comes after Judge Schiltz summoned ICE Acting Director Todd Lyons to explain why he should not be held in contempt.
+Minnesota Chief Judge Patrick Schiltz — a George W. Bush appointee — finds ICE has violated 96 court orders in January 2026 alone, stating ICE likely violated more orders in one month "than some federal agencies have violated in their entire existence." The ruling comes after Judge Schiltz summoned ICE Acting Director Todd Lyons to explain why he should not be held in contempt.
 
 ---
 date: 2026-01-30
@@ -285,7 +285,7 @@ title: Liam Ramos Released from Detention
 incident: 2026-01-20-liam-ramos-detained
 source:
 ---
-A legal victory after national outcry. U.S. District Judge Fred Biery orders the release of 5-year-old Liam Ramos and his father from the Dilley detention facility after 12 days in custody. The judge describes the case as having "its genesis in the ill-conceived and incompetently implemented government pursuit of daily deportation quotas." They return to Minnesota the following morning. Three days later, [Elizabeth Caisaguano](/entry/2026-01-06-elizabeth-caisaguano-detained) — the 10-year-old detained on her way to school nearly a month earlier — is also released from Dilley and reunited with her father. Two-year-old Chloe Tipan had been returned to her mother the day after her detention.
+U.S. District Judge Fred Biery orders the release of 5-year-old Liam Ramos and his father from the Dilley detention facility after 12 days in custody. The judge describes the case as having "its genesis in the ill-conceived and incompetently implemented government pursuit of daily deportation quotas." They return to Minnesota the following morning. Three days later, [Elizabeth Caisaguano](/entry/2026-01-06-elizabeth-caisaguano-detained) — the 10-year-old detained on her way to school nearly a month earlier — is also released from Dilley and reunited with her father. Two-year-old Chloe Tipan had been returned to her mother the day after her detention.
 
 ---
 date: 2026-02-04
