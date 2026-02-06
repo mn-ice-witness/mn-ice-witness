@@ -197,7 +197,7 @@ title: 2-Year-Old Flown to Texas Despite Court Order
 incident: 2026-01-22-tipan-toddler-father-detained
 source:
 ---
-Two days after Liam Ramos, the detention of children reaches its most defiant moment. Two-year-old Chloe Tipan and her father, asylum-seekers from Ecuador, are followed from a grocery store and detained near Powderhorn. A federal judge orders the toddler released by 9:30 PM. Nineteen minutes later, ICE places both on a commercial flight to Texas — separating Chloe from her mother. Attorneys call it "bad-faith conduct" and file motions to block all interstate ICE transfers from Minnesota. With [Elizabeth Caisaguano](/entry/2026-01-06-elizabeth-caisaguano-detained) still in Dilley after 16 days and [Liam Ramos](/entry/2026-01-20-liam-ramos-detained) detained two days earlier, three children under 10 are now held in a Texas detention facility. The ages keep getting younger: ten, five, two.
+Two days after Liam Ramos, the detention of children reaches its most defiant moment. Two-year-old Chloe Tipan and her father, asylum-seekers from Ecuador, are followed from a grocery store and detained near Powderhorn. A federal judge orders the toddler released by 9:30 PM. Nineteen minutes later, ICE places both on a commercial flight to Texas — separating Chloe from her mother. Attorneys call it "bad-faith conduct" and file motions to block all interstate ICE transfers from Minnesota. With [Elizabeth Caisaguano](/entry/2026-01-06-elizabeth-caisaguano-detained) still in Dilley after 16 days and [Liam Ramos](/entry/2026-01-20-liam-ramos-detained) detained two days earlier, three children under 10 are now held in a Texas detention facility. The ages keep getting younger: ten, five, two. Chloe is returned to her mother the following day, but her father remains in ICE custody.
 
 ---
 date: 2026-01-23
@@ -245,7 +245,7 @@ title: Liam Ramos Released from Detention
 incident: 2026-01-20-liam-ramos-detained
 source:
 ---
-A legal victory after national outcry. U.S. District Judge Fred Biery orders the release of 5-year-old Liam Ramos and his father from the Dilley detention facility after 12 days in custody. The judge describes the case as having "its genesis in the ill-conceived and incompetently implemented government pursuit of daily deportation quotas." They return to Minnesota the following morning. But [Elizabeth Caisaguano](/entry/2026-01-06-elizabeth-caisaguano-detained), the 10-year-old detained on her way to school nearly a month earlier, remains in Dilley — her case drawing less national attention than Liam's despite a longer detention.
+A legal victory after national outcry. U.S. District Judge Fred Biery orders the release of 5-year-old Liam Ramos and his father from the Dilley detention facility after 12 days in custody. The judge describes the case as having "its genesis in the ill-conceived and incompetently implemented government pursuit of daily deportation quotas." They return to Minnesota the following morning. Three days later, [Elizabeth Caisaguano](/entry/2026-01-06-elizabeth-caisaguano-detained) — the 10-year-old detained on her way to school nearly a month earlier — is also released from Dilley and reunited with her father. Two-year-old Chloe Tipan had been returned to her mother the day after her detention, though her father remains in ICE custody.
 
 ---
 date: 2026-02-04
