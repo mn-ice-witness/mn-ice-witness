@@ -181,7 +181,7 @@
 
 .tl-moment-line {
     position: absolute;
-    left: 9px;
+    left: -7px;
     top: 18px;
     width: 12px;
     height: 12px;
@@ -262,7 +262,6 @@
     display: block;
     float: right;
     width: 55%;
-    max-width: 280px;
     border-radius: 4px;
     margin: 0 0 8px 12px;
     object-fit: cover;
@@ -278,7 +277,7 @@
 
 .tl-day-marker {
     position: absolute;
-    left: 11px;
+    left: -5px;
     top: 12px;
     width: 8px;
     height: 8px;
@@ -411,10 +410,8 @@
     }
 
     .tl-moment-img {
-        width: 45%;
+        width: 40%;
         max-width: 300px;
-        max-height: 280px;
-        aspect-ratio: auto;
         border-radius: 6px;
     }
 
@@ -481,7 +478,7 @@
     }
 
     .tl-moment-line {
-        left: 5px;
+        left: -5px;
         width: 10px;
         height: 10px;
     }
@@ -503,6 +500,6 @@
     }
 
     .tl-day-marker {
-        left: 7px;
+        left: -3px;
     }
 }
