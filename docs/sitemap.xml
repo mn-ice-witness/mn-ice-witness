@@ -36,6 +36,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://mn-ice-witness.org/list/background</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://mn-ice-witness.org/media</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -1199,18 +1204,6 @@
   <url>
     <loc>https://mn-ice-witness.org/entry/2025-11-11-northfield-nunez-gonzalez-arrest</loc>
     <lastmod>2026-02-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://mn-ice-witness.org/entry/2025-10-30-noem-no-citizens-arrested-claim</loc>
-    <lastmod>2026-01-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://mn-ice-witness.org/entry/2025-02-12-nupa-rochester-workers</loc>
-    <lastmod>2026-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

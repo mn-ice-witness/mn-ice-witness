@@ -3,7 +3,7 @@ date: 2026-01-10
 time: morning
 location: Bishop Henry Whipple Federal Building
 city: Minneapolis
-type: immigrants
+type: background
 status: resolved
 affected_individual_citizenship: unknown
 injuries: none
