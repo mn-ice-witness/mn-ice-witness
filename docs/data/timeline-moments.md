@@ -120,6 +120,14 @@ source:
 The operation's reach into Minnesota's Hmong community. ChongLy "Scott" Thao, a naturalized U.S. citizen, is dragged from his home shirtless in approximately 10-degree weather. Agents entered without a warrant and pointed a gun at his daughter-in-law. The incident demonstrates that enforcement is targeting citizens across multiple ethnic communities, not just Somali and Latino residents.
 
 ---
+date: 2026-01-18
+title: Federal Officials Insist Operation Targets "Criminals and Rapists"
+incident: 2026-01-18-noem-pepper-spray-denial-backtrack
+source:
+---
+Part of a sustained federal messaging campaign to justify the operation. DHS Secretary Kristi Noem tells CBS's "Face the Nation" that agents are targeting "criminals and rapists," denies use of pepper spray — then backtracks when shown video evidence. President Trump echoes the theme on social media, claiming ICE is capturing ["murderers & criminals"](/entry/2026-01-20-trump-vicious-animals-statement) and that there are "thousands of vicious animals in MN alone." The claims are contradicted by the operation's own record: the majority of documented incidents involve U.S. citizens, legal residents, bystanders, and children.
+
+---
 date: 2026-01-20
 title: Police Chiefs Denounce Racial Profiling
 incident: 2026-01-20-brooklyn-park-officer-citizen-check
