@@ -18,13 +18,18 @@
       "lastUpdated": "2026-02-06T15:56:25",
       "mediaCount": 0,
       "notable": false,
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
+      "hasLocalMedia": true,
+      "localMediaType": "image",
+      "localMediaPath": "media/2026-02/05/2026-02-05-javier-abreu-rochester-kidney-transplant.jpg",
       "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
+      "localMediaFiles": [
+        {
+          "type": "image",
+          "path": "media/2026-02/05/2026-02-05-javier-abreu-rochester-kidney-transplant.jpg"
+        }
+      ],
+      "aspectRatio": 1.3986013986013985,
+      "mediaVersion": 1770416882
     },
     {
       "filePath": "incidents/2026-02/01/2026-02-01-jose-lozano-worthington.md",
