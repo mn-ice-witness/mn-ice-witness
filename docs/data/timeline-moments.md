@@ -23,12 +23,28 @@ source:
 An early sign of how the operation would treat those who watched. John Biestman and Janet Lee, a married couple in their late 60s from Linden Hills, follow an ICE vehicle after witnessing a raid at Church of the Assumption in Richfield. Agents box in their car and point guns at them. The couple later become named plaintiffs in the ACLU of Minnesota's federal lawsuit challenging ICE's treatment of observers — the first legal action to establish that watching federal agents is a constitutionally protected activity. It would not be the last: in the weeks ahead, agents [followed observers home](/entry/2026-01-06-levy-observers-followed-home); [told one "did you not learn from what just happened?"](/entry/2026-01-12-phil-maddox-did-you-not-learn); [snatched phones from people recording](/entry/2026-01-11-observer-phone-snatched); [pepper-sprayed women in Mankato](/entry/2026-01-13-mankato-women-sprayed) — [among others](/list/observers).
 
 ---
+date: 2025-12-15
+title: Pregnant Woman Dragged Through Snow at Karmel Mall
+incident: 2025-12-15-karmel-mall-pregnant-woman
+source:
+---
+The first nationally viral moment of the operation. ICE agents swarm Karmel Mall — the nation's first Somali shopping center — and detain at least four people. A pregnant Somali woman is grabbed and dragged through the snow as bystanders scream. Video goes viral on TMZ and national outlets; the Minneapolis Police Chief condemns the agents' actions. The next day, [Abdikadir Noor](/entry/2025-12-16-abdikadir-noor-karmel-mall), a 45-year-old who has been a U.S. citizen for 20 years, is arrested at the same mall while getting coffee. During processing, an ICE agent tells him "Somalis should go back home." The mall falls silent in the weeks that follow — the first of many community gathering places emptied by the operation.
+
+---
 date: 2025-12-21
 title: First Shooting by Federal Agent
 incident: 2025-12-21-st-paul-westminster-shooting
 source:
 ---
 The first use of lethal force during Operation Metro Surge. A DHS agent shoots at a man in his car in St. Paul after being struck by the vehicle. The shooting foreshadows a pattern of escalating violence by federal agents in the weeks ahead.
+
+---
+date: 2025-12-31
+title: Patient Shackled to Hospital Bed; DHS Retaliates Against Hospital
+incident: 2025-12-31-hcmc-patient-shackled
+source:
+---
+ICE agents enter Hennepin County Medical Center — Minnesota's largest Level One trauma center — without a judicial warrant and shackle a patient to his hospital bed for 28 hours. Six agents rotate in shifts, two at the bedside at all times. After county commissioners and hospital leadership confront the agents and confirm no warrant exists, they are ordered to leave. Days later, DHS retaliates: on January 8, it [subpoenas I-9 employment records](/entry/2026-01-08-hennepin-healthcare-i9-subpoena) for more than 7,000 Hennepin Healthcare employees — home addresses, Social Security numbers, eligibility status. Commissioner Angela Conley calls it a "retaliatory move." In the weeks ahead, a [man is detained while driving his sick wife to the emergency room](/entry/2026-01-16-parral-ortiz-hospital-detention) and a [Libyan man seeking medical treatment is shackled despite a painful skin condition](/entry/2026-01-11-hani-duglof-medical). The message is clear: not even hospitals are off-limits, and institutions that push back face consequences.
 
 ---
 date: 2026-01-06
@@ -60,7 +76,7 @@ title: Border Patrol Raids Roosevelt High School
 incident: 2026-01-07-roosevelt-high-school
 source:
 ---
-The first federal raid on a school. Border Patrol agents descend on Roosevelt High School during dismissal, tackle people on school grounds, and deploy chemical irritants. A special education assistant — a U.S. citizen — is detained. Minneapolis Public Schools cancels classes for the rest of the week. Former Governor Jesse Ventura, a Roosevelt graduate, [visits the next day](/entry/2026-01-08-jesse-ventura-roosevelt) and calls ICE "the draft-dodging coward's Gestapo." Ventura directly targets Trump, warning "this is what happens in a dictatorship" and comparing the administration's tactics to 1930s Germany. He tells reporters the country is becoming a "third-world country" where the military does police work in American cities. That same day, Bovino's agents [entered a Richfield Target](/entry/2026-01-08-target-richfield-employees) and detained two drive-up employees — both U.S. citizens — injuring them in the process. State Rep. Michael Howard confirmed the detentions and called out the racial profiling. The incident ignited weeks of protests at Target stores that eventually spread nationwide, with critics divided over whether the sit-ins helped or hurt the broader cause.
+The first federal raid on a school. Border Patrol agents descend on Roosevelt High School during dismissal, tackle people on school grounds, and deploy chemical irritants. A special education assistant — a U.S. citizen — is detained. Minneapolis Public Schools cancels classes for the rest of the week. Former Governor Jesse Ventura, a Roosevelt graduate, [visits the next day](/entry/2026-01-08-jesse-ventura-roosevelt) and calls ICE "the draft-dodging coward's Gestapo," comparing the administration's tactics to 1930s Germany.
 
 ---
 date: 2026-01-08
@@ -69,6 +85,14 @@ incident: 2026-01-08-ahmed-hassan-uber-driver
 source:
 ---
 The first widely reported "citizen check." Somali-American U.S. citizen Ahmed Bin Hassan, an Uber driver, is confronted by over a dozen masked agents at the airport. An agent tells him: "I can hear you don't have the same accent as me." The viral video becomes a symbol of racial profiling — in the weeks that follow, dozens of U.S. citizens of color are stopped and ordered to prove their citizenship, including Nimco Omar, a Somali-American woman surrounded by four masked agents who demanded her ID during what they called a "citizen check" while she was walking near a mall.
+
+---
+date: 2026-01-08
+title: U.S. Citizen Target Employees Detained and Injured
+incident: 2026-01-08-target-richfield-employees
+source:
+---
+One of the first incidents to break through into widespread national coverage. Agents enter a Richfield Target and detain two drive-up employees — both U.S. citizens — injuring them in the process. One, a 22-year-old Latino man identified in court documents as "Javier Doe," has a knee pressed into his neck, is driven around in an SUV while agents play loud music, and is dumped in a Walmart parking lot. He becomes a plaintiff in the ACLU's class-action lawsuit. The incident ignites weeks of protests at Target stores that eventually spread nationwide.
 
 ---
 date: 2026-01-09
@@ -117,7 +141,7 @@ title: Parents Detained Days After Green Card Approval
 incident: 2026-01-12-silva-sosa-inver-grove-heights
 source:
 ---
-A window into Operation PARRIS (Post-Admission Refugee Reverification and Integrity Strengthening), a parallel enforcement program targeting approximately 5,600 green card applicants in Minnesota. The Silva Sosa parents — who have lived in Minnesota since 1999, own a business, and pay taxes — are detained during a traffic stop in Inver Grove Heights just five days after their I-130 petition is approved. They are flown to an El Paso detention facility. The case illustrates how Operation PARRIS ran alongside Metro Surge, arresting over 100 lawfully present refugees and shipping them to Texas before a federal judge halted the program on January 28.
+A window into Operation PARRIS (Post-Admission Refugee Reverification and Integrity Strengthening), a parallel enforcement program targeting approximately 5,600 green card applicants in Minnesota. The Silva Sosa parents — who have lived in Minnesota since 1999, own a business, and pay taxes — are detained during a traffic stop in Inver Grove Heights just five days after their I-130 petition is approved. They are flown to an El Paso detention facility. The case illustrates how Operation PARRIS ran alongside Metro Surge, sweeping up lawfully present refugees — including [four torture survivors with pending asylum cases](/entry/2026-01-22-torture-survivors-asylum-detained) — and shipping them to Texas. By the time U.S. District Judge John Tunheim issued a temporary restraining order on January 29 barring further arrests under the program and ordering the return of those transferred out of state, over 100 refugees with legal status had been detained.
 
 ---
 date: 2026-01-13
@@ -134,6 +158,14 @@ incident: 2026-01-14-shawn-jackson-children-tear-gas
 source:
 ---
 The night North Minneapolis erupted. After an ICE agent shoots a man during a traffic stop on 24th Avenue North, protests erupt and the neighborhood descends into chaos. In the escalation, agents deploy flashbang grenades and tear gas under an SUV carrying Shawn Jackson and his six children, ages 6 months to 11. The baby stops breathing and requires CPR. Three children are hospitalized. Agents refuse to call 911. Mayor Frey holds a late-night press conference calling federal agents' behavior "disgusting and intolerable." DHS fires back, blaming Frey's sanctuary policies. The incident becomes a turning point in national media coverage.
+
+---
+date: 2026-01-15
+title: "Dine and Detain": Agents Eat at Restaurant, Then Arrest Workers
+incident: 2026-01-15-el-tapatio-willmar
+source:
+---
+The story that came to symbolize workplace enforcement. Four ICE agents eat lunch at El Tapatio, a family-owned Mexican restaurant in Willmar — a farming community 100 miles west of Minneapolis. Staff are visibly frightened but serve the meal. That evening, agents follow the workers after closing and detain the restaurant's owners and their dishwasher near a Lutheran church. The owners, Liborio Parral Ortiz and Bonfilia Sanchez Dominguez, have lived in the United States since 1989. The "dine and detain" story goes viral, covered by Star Tribune, Salon, HuffPost, Daily Beast, and dozens of outlets. It becomes a symbol of the operation's expansion into outstate Minnesota, where agents targeted workers at restaurants, food plants, and farms from Brainerd to Perham to Pelican Rapids — threatening the immigrant workforce that sustains rural Minnesota's economy.
 
 ---
 date: 2026-01-16
@@ -245,7 +277,7 @@ title: Liam Ramos Released from Detention
 incident: 2026-01-20-liam-ramos-detained
 source:
 ---
-A legal victory after national outcry. U.S. District Judge Fred Biery orders the release of 5-year-old Liam Ramos and his father from the Dilley detention facility after 12 days in custody. The judge describes the case as having "its genesis in the ill-conceived and incompetently implemented government pursuit of daily deportation quotas." They return to Minnesota the following morning. Three days later, [Elizabeth Caisaguano](/entry/2026-01-06-elizabeth-caisaguano-detained) — the 10-year-old detained on her way to school nearly a month earlier — is also released from Dilley and reunited with her father. Two-year-old Chloe Tipan had been returned to her mother the day after her detention, though her father remains in ICE custody.
+A legal victory after national outcry. U.S. District Judge Fred Biery orders the release of 5-year-old Liam Ramos and his father from the Dilley detention facility after 12 days in custody. The judge describes the case as having "its genesis in the ill-conceived and incompetently implemented government pursuit of daily deportation quotas." They return to Minnesota the following morning. Three days later, [Elizabeth Caisaguano](/entry/2026-01-06-elizabeth-caisaguano-detained) — the 10-year-old detained on her way to school nearly a month earlier — is also released from Dilley and reunited with her father. Two-year-old Chloe Tipan had been returned to her mother the day after her detention.
 
 ---
 date: 2026-02-04
