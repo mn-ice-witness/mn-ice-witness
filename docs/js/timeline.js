@@ -308,8 +308,17 @@ const Timeline = {
             window.removeEventListener('scroll', this._scrollHandler);
         }
 
+        // Seed with first day's data so counters never show all zeros
         this.countedDays.clear();
         this.totals = { citizens: 0, observers: 0, immigrants: 0, 'schools-hospitals': 0 };
+        const firstDay = this.monthData[0] && this.monthData[0].days[0];
+        if (firstDay) {
+            this.countedDays.add(firstDay.date);
+            for (const cat in firstDay.counts) {
+                this.totals[cat] += firstDay.counts[cat];
+            }
+            this.updateCurrentDate(firstDay.date);
+        }
         this.updateTotalsDisplay();
 
         this._scrollTicking = false;
@@ -357,6 +366,16 @@ const Timeline = {
                     currentDate = date;
                 }
             }
+        }
+
+        // Always include first day so counters never show zeros
+        const firstDay = this.monthData[0] && this.monthData[0].days[0];
+        if (firstDay && !newCounted.has(firstDay.date)) {
+            newCounted.add(firstDay.date);
+            for (const cat in firstDay.counts) {
+                newTotals[cat] += firstDay.counts[cat];
+            }
+            if (!currentDate) currentDate = firstDay.date;
         }
 
         // Also check moments for date display (they may appear between days)
