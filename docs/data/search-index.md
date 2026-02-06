@@ -145,7 +145,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/10/2026-01-10-nicole-cleland-global-entry-revoked.md | 2026-01-10 | Richfield | observers | Observer's Global Entry and TSA PreCheck Revoked After CBP Agent Uses Facial Recognition
 - incidents/2026-01/10/2026-01-10-bloomington-ave-bus-stop.md | 2026-01-10 | Minneapolis | immigrants | ICE Agents "Ripping People From Cars" at Bus Stop; Union Marks Site as "Abduction" Location
 - incidents/2026-01/10/2026-01-10-maple-grove-walmart.md | 2026-01-10 | Maple Grove | immigrants | Man Pinned and Arrested Inside Maple Grove Walmart
-- incidents/2026-01/10/2026-01-10-congressional-access-denied.md | 2026-01-10 | Minneapolis | immigrants | Congressional Representatives Denied Access to Whipple ICE Facility
+- incidents/2026-01/10/2026-01-10-congressional-access-denied.md | 2026-01-10 | Minneapolis | background | Congressional Representatives Denied Access to Whipple ICE Facility
 - incidents/2026-01/10/2026-01-10-msp-airport-employees.md | 2026-01-10 | Minneapolis | citizens | Multiple Airport Employees Detained by ICE at MSP
 - incidents/2026-01/09/2026-01-09-brandon-saenz-doordash.md | 2026-01-09 | St. Paul | immigrants | DoorDash Driver Arrested by ICE; Wife Flees Into Customer's Home
 - incidents/2026-01/09/2026-01-09-valleyview-elementary-absences.md | 2026-01-09 | Bloomington | schools-hospitals | 142 Students Absent from Valleyview Elementary Due to ICE Fears
