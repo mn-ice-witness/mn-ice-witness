@@ -4,15 +4,18 @@ time: morning
 location: Immigration check-in
 city: Columbia Heights
 type: immigrants
-status: ongoing
+status: resolved
 affected_individual_citizenship: asylum-seeker
 injuries: none
 trustworthiness: high
 created: 2026-01-29T21:03:57
-last_updated: 2026-01-29T21:03:57
+last_updated: 2026-02-06T10:35:41
 ---
 
 # Asylum-Seeking Mother Detained at Check-In; Principal Brings Her Children to Whipple
+
+## Updates
+- **Feb 4** - Both children [released from ICE custody and returned to Minnesota](https://www.mprnews.org/story/2026/02/04/minnesota-boys-from-liam-ramos-school-released-from-ice-custody).
 
 ## Summary
 
@@ -26,7 +29,11 @@ An asylum-seeking mother of two Valley View Elementary students was detained dur
 4. Fox 9 (Jan 2026): [ICE agents detaining teens, toddlers in Minnesota](https://www.fox9.com/news/ice-agents-detaining-teens-toddlers-minnesota-jan-2026)
 5. KSTP (Jan 22, 2026): [Columbia Heights Public Schools: 4 students detained by ICE in recent weeks](https://kstp.com/kstp-news/top-news/columbia-heights-public-schools-4-students-detained-by-ice-in-recent-weeks/)
 6. Sahan Journal (Jan 2026): [Columbia Heights school leaders speak out after ICE detentions](https://sahanjournal.com/education/ice-minnesota-columbia-heights-students-detained/)
-7. Star Tribune (Jan 29, 2026): [Detained asylum-seeking mother asks principal to bring her two young children to Whipple](https://www.startribune.com/valley-view-elementary-students-mother-detained-ice-minnesota-immigration-checkin/601573397) 
+7. Star Tribune (Jan 29, 2026): [Detained asylum-seeking mother asks principal to bring her two young children to Whipple](https://www.startribune.com/valley-view-elementary-students-mother-detained-ice-minnesota-immigration-checkin/601573397)
+8. Bring Me The News (Jan 30, 2026): [Two more Columbia Heights children detained after ICE arrest their mother](https://bringmethenews.com/minnesota-news/two-more-columbia-heights-children-detained-after-ice-arrest-their-mother)
+9. MPR News (Feb 4, 2026): [Minnesota boys from Liam Ramos' school released from ICE custody](https://www.mprnews.org/story/2026/02/04/minnesota-boys-from-liam-ramos-school-released-from-ice-custody)
+10. Star Tribune (Feb 4, 2026): [Two Columbia Heights elementary school students detained in Texas facility return to Minnesota](https://www.startribune.com/two-columbia-heights-elementary-school-students-detained-in-texas-facility-return-to-minnesota/601576912)
+
 ## Affected Individual(s)
 
 - **Mother:** Name not disclosed; asylum-seeker
