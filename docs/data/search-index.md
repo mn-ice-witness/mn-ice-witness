@@ -15,7 +15,7 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (198 incidents)
+## CURRENT (199 incidents)
 
 Published incidents visible on the main site.
 
@@ -110,6 +110,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/14/2026-01-14-dhs-response-frey-sanctuary.md | 2026-01-14 | Minneapolis | response | DHS Blames Mayor Frey's Sanctuary Policies for Criminal Release
 - incidents/2026-01/14/2026-01-14-aquila-elementary-ice-presence.md | 2026-01-14 | St. Louis Park | schools-hospitals | ICE Conducts Operation Across Street From Aquila Elementary During Dismissal
 - incidents/2026-01/14/2026-01-14-transition-plus-school-bus-rubber-bullets.md | 2026-01-14 | Minneapolis | schools-hospitals | Students on Transition Plus Bus Witness ICE Fire Rubber Bullets at Man
+- incidents/2026-01/14/2026-01-14-victor-diaz-custody-death.md | 2026-01-14 | Coon Rapids | immigrants | Victor Manuel Díaz Dies in ICE Custody at Camp East Montana After Coon Rapids Arrest
 - incidents/2026-01/14/2026-01-14-crystal-bus-stop-parent.md | 2026-01-14 | Crystal | schools-hospitals | Parent Detained by ICE at School Bus Stop While Waiting with Child
 - incidents/2026-01/13/2026-01-13-bovino-cbs-interview.md | 2026-01-13 | Minneapolis | response | Border Patrol Commander Bovino CBS Interview
 - incidents/2026-01/13/2026-01-13-mankato-women-sprayed.md | 2026-01-13 | Mankato | observers | Two Young Women Sprayed Directly in Face with Chemical Irritant by ICE Agent in Mankato
@@ -220,7 +221,7 @@ Published incidents visible on the main site.
 
 ---
 
-## NO-ADD (138 entries)
+## NO-ADD (137 entries)
 
 Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 
@@ -294,7 +295,6 @@ Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 - dev-docs/not_use.md | Jan 17 | Far-Right Counter-Protest at Minneapolis City Hall
 - dev-docs/not_use.md | Jan 14 | Park Avenue & 38th Street Bus Stop Arrest
 - dev-docs/not_use.md | n/a | Asian American Teenager Arrested Outside Home, Offered to Get ID
-- dev-docs/not_use.md | Jan 14 | Victor Manuel Diaz Death in ICE Custody
 - dev-docs/not_use.md | Jan 18 | Cities Church St. Paul Anti-ICE Protest
 - dev-docs/not_use.md | Jan 2026 | ICE Agents Asking "Where the Asian People Live"
 - dev-docs/not_use.md | Jan 18 | Letter Carriers Protest Lake Street
