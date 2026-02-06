@@ -508,13 +508,6 @@ Stories are excluded when they don't meet the project's core focus:
 - Reason: **Needs more research** - No victim name, no specific location, no date, no corroborating news sources found. Video looks legitimate but cannot verify details. May revisit if news coverage emerges.
 - Date evaluated: 2026-01-18
 
-**Victor Manuel Diaz Death in ICE Custody (Jan 14)**
-- Sources: [MPR News](https://www.mprnews.org/story/2026/01/18/man-detained-in-minneapolis-dies-in-ice-custody-in-texas), [ICE Press Release](https://www.ice.gov/news/releases/ice-reports-death-illegal-alien-custody-el-paso), [Bring Me The News](https://bringmethenews.com/minnesota-news/man-detained-by-ice-in-minneapolis-dies-awaiting-deportation-in-texas), [KARE 11](https://www.kare11.com/article/news/local/man-detained-by-ice-in-minneapolis-dies-in-texas-dhs-facility-mn/89-ef90b752-c1d1-42cc-bf3e-c431a1a22c16)
-- Date: Detained Jan 6, died Jan 14, 2026
-- Details: Victor Manuel Diaz, 36, from Nicaragua, was detained by ICE in Minneapolis on Jan 6 and died on Jan 14 at Camp East Montana in El Paso, Texas. ICE reports "presumed suicide." He had illegally entered the U.S. in March 2024, was ordered removed in August 2025, and had a final order of removal processed on Jan 12.
-- Reason: Custody death after proper detention - not an enforcement civil rights incident. While tragic, this documents conditions after detention (in Texas), not a civil rights violation during enforcement in Minnesota. The person had a final removal order and was not a "non-criminal community member."
-- Date evaluated: 2026-01-18
-
 **Cities Church St. Paul Anti-ICE Protest (Jan 18)**
 - Sources: [Fox 9](https://www.fox9.com/news/department-justice-investigating-anti-ice-protest-st-paul-church)
 - Date: January 18, 2026
