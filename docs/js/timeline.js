@@ -397,7 +397,6 @@ const Timeline = {
             }
         }
         if (changed) {
-            this.countedDays = newCounted;
             this.totals = newTotals;
             this.updateTotalsDisplay();
         }
