@@ -44,7 +44,7 @@ title: 10-Year-Old Detained on Way to School
 incident: 2026-01-06-elizabeth-caisaguano-detained
 source:
 ---
-The first child detained during the operation. Ten-year-old Elizabeth Caisaguano, a fourth grader who dreams of being a doctor, is seized with her mother by ICE agents on the way to Highland Elementary in Columbia Heights. Elizabeth calls her father during the arrest — agents tell her they'll drop her at school. They never do. By day's end, both are flown to the Dilley, Texas detention facility. Her father waits for hours at the school before learning what happened. Elizabeth would remain in detention for nearly a month — longer than any other child taken during the operation.
+The beginning of what would become one of the most condemned aspects of the operation: the detention of children. Ten-year-old Elizabeth Caisaguano, a fourth grader who dreams of being a doctor, is seized with her mother by ICE agents on the way to Highland Elementary in Columbia Heights. Elizabeth calls her father during the arrest — agents tell her they'll drop her at school. They never do. By day's end, both are flown to the Dilley, Texas detention facility. Her father waits for hours at the school before learning what happened. Elizabeth's case would not become widely known for two weeks, when her school district revealed that four students had been taken by ICE. She would remain in detention for nearly a month — the first in a series of child detentions that drew bipartisan outrage and international attention.
 
 ---
 date: 2026-01-07
@@ -173,7 +173,7 @@ title: 5-Year-Old Liam Ramos Detained
 incident: 2026-01-20-liam-ramos-detained
 source:
 ---
-The youngest known detainee — but not the first child taken. Five-year-old kindergartner Liam Conejo Ramos and his father Adrian are detained by ICE in Columbia Heights and flown to the Dilley, Texas detention facility — the same facility where [10-year-old Elizabeth Caisaguano](/entry/2026-01-06-elizabeth-caisaguano-detained) has already been held for two weeks. The detention of a kindergartner becomes the single most widely covered story of the operation and draws condemnation from across the political spectrum.
+The pattern of detaining children escalates. Five-year-old kindergartner Liam Conejo Ramos and his father Adrian are detained by ICE in Columbia Heights and flown to the Dilley, Texas detention facility — the same facility where [10-year-old Elizabeth Caisaguano](/entry/2026-01-06-elizabeth-caisaguano-detained) has already been held for two weeks. Liam is the youngest known detainee, and his case becomes the single most widely covered story of the operation, drawing condemnation from across the political spectrum and forcing the question of how many children were being swept up in the surge.
 
 ---
 date: 2026-01-21
@@ -197,7 +197,7 @@ title: 2-Year-Old Flown to Texas Despite Court Order
 incident: 2026-01-22-tipan-toddler-father-detained
 source:
 ---
-The third child detained in two weeks, and the most brazen defiance of the courts. Two-year-old Chloe Tipan and her father, asylum-seekers from Ecuador, are followed from a grocery store and detained near Powderhorn. A federal judge orders the toddler released by 9:30 PM. Nineteen minutes later, ICE places both on a commercial flight to Texas — separating Chloe from her mother. Attorneys call it "bad-faith conduct" and file motions to block all interstate ICE transfers from Minnesota. With [Elizabeth Caisaguano](/entry/2026-01-06-elizabeth-caisaguano-detained) still in Dilley after 16 days and [Liam Ramos](/entry/2026-01-20-liam-ramos-detained) detained two days earlier, three children under 10 are now held in Texas.
+Two days after Liam Ramos, the detention of children reaches its most defiant moment. Two-year-old Chloe Tipan and her father, asylum-seekers from Ecuador, are followed from a grocery store and detained near Powderhorn. A federal judge orders the toddler released by 9:30 PM. Nineteen minutes later, ICE places both on a commercial flight to Texas — separating Chloe from her mother. Attorneys call it "bad-faith conduct" and file motions to block all interstate ICE transfers from Minnesota. With [Elizabeth Caisaguano](/entry/2026-01-06-elizabeth-caisaguano-detained) still in Dilley after 16 days and [Liam Ramos](/entry/2026-01-20-liam-ramos-detained) detained two days earlier, three children under 10 are now held in a Texas detention facility. The ages keep getting younger: ten, five, two.
 
 ---
 date: 2026-01-23
