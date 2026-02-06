@@ -386,10 +386,13 @@ const Timeline = {
             if (firstDay) currentDate = firstDay.date;
         }
 
-        // Look up precomputed cumulative totals for this date
-        const newTotals = currentDate && this.cumulativeByDate[currentDate]
-            ? { ...this.cumulativeByDate[currentDate] }
-            : { citizens: 0, observers: 0, immigrants: 0, 'schools-hospitals': 0 };
+        // If scrolled to the bottom, use grand totals (last elements may not scroll past trigger)
+        const atBottom = (window.innerHeight + window.scrollY) >= (document.body.scrollHeight - 50);
+        const newTotals = atBottom
+            ? { ...this.grandTotals }
+            : (currentDate && this.cumulativeByDate[currentDate]
+                ? { ...this.cumulativeByDate[currentDate] }
+                : { citizens: 0, observers: 0, immigrants: 0, 'schools-hospitals': 0 });
 
         // Update totals if changed
         let changed = false;
