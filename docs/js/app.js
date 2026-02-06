@@ -269,8 +269,8 @@ const App = {
             if (!el) return;
             const offset = this.getStickyOffset();
             const targetY = el.getBoundingClientRect().top + window.scrollY - offset;
-            window.scrollTo({ top: targetY, behavior: 'smooth' });
-            setTimeout(() => { this.isScrollingToSection = false; }, 1500);
+            window.scrollTo({ top: targetY, behavior: 'instant' });
+            setTimeout(() => { this.isScrollingToSection = false; }, 100);
         }, 100);
     },
 
