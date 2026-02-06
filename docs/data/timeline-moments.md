@@ -165,7 +165,7 @@ title: "Dine and Detain": Agents Eat at Restaurant, Then Arrest Workers
 incident: 2026-01-15-el-tapatio-willmar
 source:
 ---
-Four ICE agents eat lunch at El Tapatio, a family-owned Mexican restaurant in Willmar. That evening, they follow the workers after closing and detain the owners — who have lived in the United States since 1989 — and their dishwasher near a Lutheran church. The "dine and detain" story goes viral. But the pattern it exposed was already widespread: across Minnesota, agents were arresting cooks, dishwashers, meatpackers, and farm workers — people with no criminal records who had built lives, raised families, and kept local economies running for decades. They were pulled from restaurants, food plants, and farms from Brainerd to Pelican Rapids, leaving businesses short-staffed and communities hollowed out.
+In a widely publicized story, four ICE agents eat lunch at El Tapatio, a family-owned Mexican restaurant in Willmar. That evening, they follow the workers after closing and detain the owners — who have lived in the United States since 1989 — and their dishwasher near a Lutheran church. But the pattern it exposed was already widespread: across Minnesota, agents were arresting cooks, dishwashers, meatpackers, and farm workers — people with no criminal records who had built lives, raised families, and kept local economies running for decades. They were pulled from restaurants, food plants, and farms from Brainerd to Pelican Rapids, leaving businesses short-staffed and communities hollowed out. [See all immigrant detention incidents](/list/immigrants).
 
 ---
 date: 2026-01-16
