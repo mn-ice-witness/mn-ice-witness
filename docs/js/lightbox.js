@@ -570,8 +570,8 @@ const Lightbox = {
         this.returnToNewUpdated = null;
 
         const route = Router.parseUrl();
-        if (route.type === 'list') {
-            // Preserve list view
+        if (route.type === 'list' || route.type === 'timeline' || route.type === 'media') {
+            // Preserve current view
         } else if (route.type !== 'home') {
             history.replaceState(null, '', '/');
         }
