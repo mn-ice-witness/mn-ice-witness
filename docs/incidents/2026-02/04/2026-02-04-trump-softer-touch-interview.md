@@ -79,6 +79,16 @@ When asked about the fatal shootings, Trump stated:
 
 Trump said he was "not happy with the two incidents" and that "it should've not happened. It was a very sad incident, two incidents."
 
+### On the Two U.S. Citizens Killed
+
+When asked about the fatal shootings of Renee Good and Alex Pretti, Trump said:
+
+> "He was not an angel, and she was not an angel. You know, you look at some tapes from back — but still, I'm not happy with what happened there."
+
+He added:
+
+> "And you know who feels worse about it than anybody? The people of ICE."
+
 ### On Targeting "Criminals"
 
 > "We're dealing with really hard criminals."
