@@ -15,10 +15,11 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (201 incidents)
+## CURRENT (202 incidents)
 
 Published incidents visible on the main site.
 
+- incidents/2026-02/05/2026-02-05-javier-abreu-rochester-kidney-transplant.md | 2026-02-05 | Rochester | citizens | Kidney Transplant Recipient Arrested in Rochester Needs Anti-Rejection Medication
 - incidents/2026-02/05/2026-02-05-hennepin-courthouse-detentions.md | 2026-02-05 | Minneapolis | immigrants | Two Detained by ICE Inside Hennepin County Courthouse After Hearing
 - incidents/2026-02/04/2026-02-04-trump-softer-touch-interview.md | 2026-02-04 | Washington D.C. | response | Trump Says Administration Will Use "Softer Touch" After Minneapolis Shootings
 - incidents/2026-02/03/2026-02-03-observers-detained-gunpoint-midtown-phillips.md | 2026-02-03 | Minneapolis | observers | Observers Detained at Gunpoint in Midtown Phillips
