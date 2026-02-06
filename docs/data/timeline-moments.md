@@ -249,8 +249,8 @@ A legal victory after national outcry. U.S. District Judge Fred Biery orders the
 
 ---
 date: 2026-02-04
-title: Partial Drawdown Announced
+title: Trump Promises a "Softer Touch"
 incident: 2026-02-04-trump-softer-touch-interview
 source:
 ---
-The operation begins to wind down. Border czar Tom Homan announces 700 immigration officers will be immediately withdrawn from Minnesota, though approximately 2,000 federal agents remain. Only 7 of 87 Minnesota county sheriffs have signed cooperation agreements with ICE, reflecting the near-total refusal of local law enforcement to assist the operation.
+In an NBC interview before the Super Bowl, President Trump says the administration has learned to use "a little bit of a softer touch" after the fatal shootings of two U.S. citizens. Border czar Tom Homan announces 700 agents will be withdrawn immediately — but approximately 2,000 federal agents remain in Minnesota, more than 13 times the pre-surge level of roughly 150. Homan ties the full drawdown to the end of what he calls "aggression" from community members, stating: "We're not surrendering the president's mission on a mass-deportation operation." Whether the operation is truly winding down remains unclear — enforcement actions continue, ICE has made more than 4,000 arrests since December, and only 7 of 87 Minnesota county sheriffs have agreed to cooperate with federal agents.
