@@ -21,13 +21,25 @@ const Timeline = {
         const container = document.getElementById('timeline-view');
         if (!container) return;
 
+        // Capture hash before async init (fetch) or rAF can change it
+        const targetDate = window.location.hash.slice(1) || null;
+
         if (!this.initialized) {
             await this.init();
         }
 
         container.innerHTML = this.buildHTML();
+
+        // Measure sticky bar and set CSS scroll clearance for anchor navigation
+        const totalsBar = container.querySelector('.tl-totals-bar');
+        if (totalsBar) {
+            const clearance = 48 + totalsBar.offsetHeight + 12;
+            container.style.setProperty('--tl-scroll-clearance', clearance + 'px');
+        }
+
         this.initScrollObserver();
         this.initClickHandlers();
+        this.scrollToDate(targetDate);
     },
 
     async init() {
@@ -146,6 +158,7 @@ const Timeline = {
         const months = this.sortOrder === 'newest' ? [...this.monthData].reverse() : this.monthData;
         let currentYear = null;
         this._momentIndex = 0;
+        this._usedDateIds = new Set();
         for (const month of months) {
             if (month.year !== currentYear) {
                 currentYear = month.year;
@@ -250,8 +263,16 @@ const Timeline = {
 
         const altClass = (this._momentIndex++ % 2 === 1) ? ' tl-moment-alt' : '';
 
+        let dateId = moment.date;
+        if (this._usedDateIds.has(dateId)) {
+            let suffix = 2;
+            while (this._usedDateIds.has(dateId + '-' + suffix)) suffix++;
+            dateId = dateId + '-' + suffix;
+        }
+        this._usedDateIds.add(dateId);
+
         return `
-            <div class="tl-moment${clickClass}${altClass}" data-date="${moment.date}" ${clickAttr}>
+            <div class="tl-moment${clickClass}${altClass}" id="${dateId}" data-date="${moment.date}" ${clickAttr}>
                 <div class="tl-moment-line"></div>
                 <div class="tl-moment-content">
                     <div class="tl-moment-date">${dateStr}</div>
@@ -278,8 +299,16 @@ const Timeline = {
             titlesHTML += `<div class="tl-day-incident" data-incident-slug="${slug}"><span class="tl-cat-tag">${tag}:</span> ${inc.title}</div>`;
         }
 
+        let dateId = day.date;
+        if (this._usedDateIds.has(dateId)) {
+            let suffix = 2;
+            while (this._usedDateIds.has(dateId + '-' + suffix)) suffix++;
+            dateId = dateId + '-' + suffix;
+        }
+        this._usedDateIds.add(dateId);
+
         return `
-            <div class="tl-day" data-date="${day.date}" data-counts='${countsJson}'>
+            <div class="tl-day" id="${dateId}" data-date="${day.date}" data-counts='${countsJson}'>
                 <div class="tl-day-marker"></div>
                 <div class="tl-day-body">
                     <div class="tl-day-header">
@@ -323,6 +352,7 @@ const Timeline = {
         if (this._scrollHandler) {
             window.removeEventListener('scroll', this._scrollHandler);
         }
+        this._lastHashDate = null;
 
         // Seed with first visible day's cumulative totals
         const seedMonth = this.sortOrder === 'newest'
@@ -363,13 +393,15 @@ const Timeline = {
         const triggerY = totalsBar.getBoundingClientRect().bottom;
 
         // Find the current ISO date from the closest scrolled-past element
+        // Tolerance matches the scroll-margin breathing room so anchor targets
+        // positioned just below the bar are still recognised as current
         let currentDate = null;
         let closestTop = -Infinity;
 
         const allEls = container.querySelectorAll('.tl-day, .tl-moment');
         for (const el of allEls) {
             const rect = el.getBoundingClientRect();
-            if (rect.top < triggerY && rect.top > closestTop) {
+            if (rect.top <= triggerY + 15 && rect.top > closestTop) {
                 closestTop = rect.top;
                 currentDate = el.dataset.date || null;
             }
@@ -407,8 +439,9 @@ const Timeline = {
             this.updateTotalsDisplay();
         }
 
-        // Update current date display
+        // Update current date display and URL hash
         this.updateCurrentDate(currentDate);
+        this.updateUrlHash(currentDate);
     },
 
     updateCurrentDate(date) {
@@ -435,6 +468,31 @@ const Timeline = {
         if (el.textContent !== display) {
             el.textContent = display;
         }
+    },
+
+    updateUrlHash(date) {
+        if (this._suppressHashUpdate) return;
+        if (!date || date === this._lastHashDate) return;
+        this._lastHashDate = date;
+        const hash = '#' + date;
+        if (window.location.hash !== hash) {
+            history.replaceState(null, '', '/timeline' + hash);
+        }
+    },
+
+    scrollToDate(dateId) {
+        if (!dateId) return;
+        const target = document.getElementById(dateId);
+        if (!target) return;
+        this._suppressHashUpdate = true;
+        requestAnimationFrame(() => {
+            target.scrollIntoView({ block: 'start', behavior: 'instant' });
+            // Lock hash to the target date so onScroll doesn't drift it
+            this._lastHashDate = target.dataset.date || dateId;
+            requestAnimationFrame(() => {
+                this._suppressHashUpdate = false;
+            });
+        });
     },
 
     updateTotalsDisplay() {
