@@ -20,6 +20,9 @@ Tippy Amundson (39) and Heather Zemien (55), both U.S. citizens, were detained b
 ## Sources
 1. KARE 11 Video (Jan 23, 2026): [Woman detained after helping ICE agent](https://www.youtube.com/watch?v=atY_aW3isYk)
 2. Star Tribune (Jan 23, 2026): [Detained by ICE, two women became first responders during agent's seizure](https://www.startribune.com/detained-by-ice-two-women-became-first-responders-during-agents-seizure/601569667)
+3. MPR News (Feb 3, 2026): [Brooklyn Park women help seizing ICE agent while detained](https://www.mprnews.org/story/2026/02/03/brooklyn-park-women-help-seizing-ice-agent-while-detained)
+4. FOX 9 (Feb 3, 2026): [Woman saves ICE agent during medical emergency after being detained](https://www.fox9.com/news/woman-saves-ice-agent-during-medical-emergency-after-being-detained-jan-2026)
+5. NBC News Video (Feb 3, 2026): [Two women in ICE custody save the federal agent who detained them](https://www.nbcnews.com/now/video/two-women-in-ice-custody-save-the-federal-agent-who-detained-them-256652357896)
 
 ## Affected Individual(s)
 - **Tippy Amundson:** 39, U.S. citizen, kindergarten teacher with CPR and first-aid training

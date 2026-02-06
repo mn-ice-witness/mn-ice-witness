@@ -23,6 +23,7 @@ Thi Dua Vang, a Hmong refugee who fled Vietnam after decades of persecution for 
 ## Sources
 
 1. KARE 11 (Feb 2, 2026): [After ICE release St. Paul woman, she says agents keep returning to her home](https://www.kare11.com/article/news/local/ice-in-minnesota/after-ice-release-st-paul-woman-she-says-agents-keep-returning-to-her-home/89-17f46bf2-9d68-4988-86c6-ba5109ef510f)
+2. Sahan Journal (Feb 3, 2026): [ICE detainees stranded after release](https://sahanjournal.com/immigration/ice-detainees-stranded-after-release/)
 
 ## Affected Individual(s)
 
