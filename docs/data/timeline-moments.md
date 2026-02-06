@@ -125,7 +125,7 @@ title: Observer Detentions Break Into Evening News
 incident: 2026-01-11-siguenza-okeefe-detained
 source:
 ---
-The story that brought observer detentions into the mainstream. Brandon Sigüenza and Patty O'Keefe, both U.S. citizens monitoring ICE activity, are detained for 8 hours without charges. Agents pepper-spray their car, smash windows, and interrogate them about protest organizers, offering deals in exchange for names. O'Keefe later describes witnessing holding cells with men, women, and children — "the screaming, wailing and pleading... will forever haunt me." Jana Shortal's KARE 11 interview with Sigüenza becomes a widely shared local news segment on the detention and intimidation of observers, shifting public awareness of how the operation targeted not just immigrants but anyone watching.
+In a widely viewed story featured during a special report on the KARE 11 evening news, Brandon Sigüenza and Patty O'Keefe — both U.S. citizens monitoring ICE activity — describe being detained for 8 hours without charges. Agents pepper-sprayed their car, smashed windows, and interrogated them about protest organizers, offering deals in exchange for names. O'Keefe describes witnessing holding cells with men, women, and children — "the screaming, wailing and pleading... will forever haunt me." The segment shifted public awareness of how the operation targeted not just immigrants but anyone watching.
 
 ---
 date: 2026-01-12
