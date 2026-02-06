@@ -15,7 +15,7 @@ last_updated: 2026-02-06T12:50:46
 # Marine Veteran Dragged From Car, Ankle Twisted, Called "It" by ICE Agents
 
 ## Summary
-Skye, a disabled U.S. Marine Corps veteran, and her friend Elizabeth were pulled over by ICE agents in an unmarked vehicle while peacefully observing ICE operations from their car on Highway 62 in Minneapolis. Three agents violently pulled both women from the vehicle, dragged Skye into the road, and threatened to tase Elizabeth. Agents repeatedly referred to Skye as "it," mocking her appearance and voice, stomped on her, pushed her face into the pavement, and twisted her ankle. At the Whipple Federal Building, an agent referenced the killing of Renee Good, saying "Have you not learned? This is why we killed that lesbian bitch."
+Skye, a disabled U.S. Marine Corps veteran, and her friend Elizabeth were pulled over by ICE agents in an unmarked vehicle while observing ICE operations from their car on Highway 62 in Minneapolis. Three agents violently pulled both women from the vehicle, dragged Skye into the road, and threatened to tase Elizabeth. Agents repeatedly referred to Skye as "it," mocking her appearance and voice, stomped on her, pushed her face into the pavement, and twisted her ankle. At the Whipple Federal Building, an agent referenced the killing of Renee Good, saying "Have you not learned? This is why we killed that lesbian bitch."
 
 ## Sources
 1. Ms. Magazine (Jan 17, 2026): [A Month of Fear: ICE's Surge in Minneapolis and the Backlash That Won't Quit](https://msmagazine.com/2026/01/17/ice-violence-women-misogyny/)
@@ -37,7 +37,7 @@ Skye, a disabled U.S. Marine Corps veteran, and her friend Elizabeth were pulled
 ## What Happened
 
 ### The Stop
-Skye and Elizabeth were following and peacefully observing ICE agents from their car when ICE agents in an unmarked vehicle pulled them over on Highway 62. According to the Daily Kos account, the ICE vehicle deliberately reversed to ram Skye's car and trap them.
+Skye and Elizabeth were following and observing ICE agents from their car when ICE agents in an unmarked vehicle pulled them over on Highway 62. According to the Daily Kos account, the ICE vehicle deliberately reversed to ram Skye's car and trap them.
 
 ### Use of Force
 - Three agents surrounded the vehicle and violently dragged both women out.
