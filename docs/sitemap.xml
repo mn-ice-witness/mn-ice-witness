@@ -302,6 +302,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://mn-ice-witness.org/entry/2026-01-23-50k-march</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://mn-ice-witness.org/entry/2026-01-22-little-canada-elementary-secure-protocol</loc>
     <lastmod>2026-01-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -752,6 +758,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://mn-ice-witness.org/entry/2026-01-12-minnesota-sues-to-halt-operation</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://mn-ice-witness.org/entry/2026-01-12-garrison-gibson-battering-ram</loc>
     <lastmod>2026-01-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -1010,6 +1022,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://mn-ice-witness.org/entry/2026-01-06-2000-agents-deployed</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://mn-ice-witness.org/entry/2026-01-06-elizabeth-caisaguano-detained</loc>
     <lastmod>2026-02-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -1156,6 +1174,12 @@
   <url>
     <loc>https://mn-ice-witness.org/entry/2025-12-04-francisco-paredes-church</loc>
     <lastmod>2026-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://mn-ice-witness.org/entry/2025-12-04-operation-metro-surge-launched</loc>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

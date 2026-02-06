@@ -1,10 +1,10 @@
 ---
 date: 2025-12-04
 title: Operation Metro Surge Launched
-incident:
-source: https://www.dhs.gov/news/2025/12/04/ice-arrests-worst-worst-criminal-illegal-aliens-during-operation-metro-surge
+incident: 2025-12-04-operation-metro-surge-launched
+source:
 ---
-DHS announces what it calls the ["largest immigration enforcement operation ever carried out,"](https://www.dhs.gov/news/2025/12/04/ice-arrests-worst-worst-criminal-illegal-aliens-during-operation-metro-surge) targeting the Minneapolis-St. Paul metropolitan area — the first time a single U.S. metro has been the focus of a dedicated federal immigration surge. Initial arrests focus on Somali and Latino communities.
+DHS announces what it calls the "largest immigration enforcement operation ever carried out," targeting the Minneapolis-St. Paul metropolitan area — the first time a single U.S. metro has been the focus of a dedicated federal immigration surge. Initial arrests focus on Somali and Latino communities.
 
 ---
 date: 2025-12-09
@@ -33,10 +33,10 @@ The first use of lethal force during Operation Metro Surge. A DHS agent shoots a
 ---
 date: 2026-01-06
 title: 2,000 Additional Officers Deployed
-incident:
-source: https://www.pbs.org/newshour/politics/2000-federal-agents-sent-to-minneapolis-area-to-carry-out-largest-immigration-operation-ever-ice-says
+incident: 2026-01-06-2000-agents-deployed
+source:
 ---
-A major escalation: DHS [deploys 2,000 additional immigration officers](https://www.pbs.org/newshour/politics/2000-federal-agents-sent-to-minneapolis-area-to-carry-out-largest-immigration-operation-ever-ice-says) to the Twin Cities and extends operations across all of Minnesota. The surge now involves more federal agents than any domestic law enforcement operation since the Civil Rights era.
+A major escalation: DHS deploys 2,000 additional immigration officers to the Twin Cities and extends operations across all of Minnesota. The surge now involves more federal agents than any domestic law enforcement operation since the Civil Rights era.
 
 ---
 date: 2026-01-07
@@ -98,10 +98,10 @@ The story that brought observer detentions into the mainstream. Brandon Sigüenz
 ---
 date: 2026-01-12
 title: Minnesota Sues to Halt Operation
-incident:
-source: https://www.twincities.com/2026/01/12/keith-ellison-mayors-kaohly-her-jacob-frey-file-legal-action-against-ice/
+incident: 2026-01-12-minnesota-sues-to-halt-operation
+source:
 ---
-The most significant legal challenge to the operation. Minnesota Attorney General Keith Ellison, Minneapolis Mayor Jacob Frey, and St. Paul Mayor Kaohly Her [file a lawsuit](https://www.twincities.com/2026/01/12/keith-ellison-mayors-kaohly-her-jacob-frey-file-legal-action-against-ice/) calling Operation Metro Surge a "federal invasion of the Twin Cities" and alleging systematic racial profiling. It is the first time a state has sued the federal government to halt an immigration operation.
+The most significant legal challenge to the operation. Minnesota Attorney General Keith Ellison, Minneapolis Mayor Jacob Frey, and St. Paul Mayor Kaohly Her file a lawsuit calling Operation Metro Surge a "federal invasion of the Twin Cities" and alleging systematic racial profiling. It is the first time a state has sued the federal government to halt an immigration operation.
 
 ---
 date: 2026-01-12
@@ -186,11 +186,10 @@ The most extreme use of force near a school. Border Patrol Commander Greg Bovino
 ---
 date: 2026-01-23
 title: 50,000 March in Subzero Temperatures
-incident:
-source: https://www.npr.org/2026/01/23/nx-s1-5686733/minnesotans-day-of-ice-protests
-image: media/2026-01/23/2026-01-23-50k-march.jpg
+incident: 2026-01-23-50k-march
+source:
 ---
-The largest protest in Minnesota history. An estimated [50,000 to 100,000 people march](https://www.npr.org/2026/01/23/nx-s1-5686733/minnesotans-day-of-ice-protests) through downtown Minneapolis in -20 degree temperatures in the "Day of Truth & Freedom" protest. Hundreds of businesses close in solidarity in what becomes the first general strike in the United States in 80 years. The scale of the response signals that public opinion has decisively turned against the operation.
+The largest protest in Minnesota history. An estimated 50,000 to 100,000 people marched through downtown Minneapolis in -20 degree temperatures in the "Day of Truth & Freedom" protest. Hundreds of businesses close in solidarity in what becomes the first general strike in the United States in 80 years. The scale of the response signals that public opinion has decisively turned against the operation.
 
 ---
 date: 2026-01-24
