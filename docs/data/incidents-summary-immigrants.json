@@ -1747,32 +1747,6 @@
       ],
       "aspectRatio": 1.8632075471698113,
       "mediaVersion": 1770085842
-    },
-    {
-      "filePath": "incidents/2025-02/12/2025-02-12-nupa-rochester-workers.md",
-      "title": "Two Cooks Detained at Rochester Greek Restaurant; Business Forced to Close",
-      "summary": "ICE officers detained two brothers\u2014both cooks at Nupa Mediterranean restaurant\u2014in the parking lot as they arrived for their morning shifts. The restaurant was forced to temporarily close one of its two Rochester locations due to the loss of staff. The owner stated the workers had no criminal record as far as they knew.",
-      "latestUpdate": null,
-      "date": "2025-02-12",
-      "time": "morning",
-      "location": "Nupa Restaurant, Civic Center Drive",
-      "city": "Rochester",
-      "type": "immigrants",
-      "status": "resolved",
-      "affectedIndividualCitizenship": "undocumented",
-      "injuries": "none",
-      "trustworthiness": "high",
-      "created": "2026-01-14T12:22:11",
-      "lastUpdated": "2026-01-14T12:22:11",
-      "mediaCount": 0,
-      "notable": false,
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
-      "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
     }
   ]
 }

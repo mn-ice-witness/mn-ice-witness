@@ -163,7 +163,7 @@ const Timeline = {
                     <span class="tl-total-label">Schools</span>
                 </div>
             </div>
-            <div class="tl-totals-note">Counts reflect documented media reports collected by this site</div>
+            <div class="tl-totals-note">Count of collected media reports, not total events in state</div>
         `;
     },
 
@@ -235,9 +235,9 @@ const Timeline = {
             <div class="tl-moment${clickClass}" ${clickAttr}>
                 <div class="tl-moment-line"></div>
                 <div class="tl-moment-content">
-                    ${imgHTML}
                     <div class="tl-moment-date">${dateStr}</div>
                     <h4 class="tl-moment-title">${moment.title}</h4>
+                    ${imgHTML}
                     <p class="tl-moment-desc">${this.renderLinks(moment.body)}</p>
                     ${sourceHTML}
                 </div>
@@ -401,10 +401,14 @@ const Timeline = {
         let display = date;
         if (/^\d{4}-\d{2}-\d{2}$/.test(date)) {
             const d = new Date(date + 'T12:00:00');
-            display = d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+            display = d.toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric', year: 'numeric' });
+        } else {
+            // Convert moment date strings like "January 12" to full format
+            const parsed = new Date(date + ', 2026');
+            if (!isNaN(parsed)) {
+                display = parsed.toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric', year: 'numeric' });
+            }
         }
-        // Shorten long month names from moments (e.g. "January 12" → "Jan 12")
-        display = display.replace(/^(January|February|March|April|May|June|July|August|September|October|November|December)\s/, (_, m) => m.slice(0, 3) + ' ');
         if (el.textContent !== display) {
             el.textContent = display;
         }
