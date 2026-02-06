@@ -145,6 +145,7 @@ const Timeline = {
 
         const months = this.sortOrder === 'newest' ? [...this.monthData].reverse() : this.monthData;
         let currentYear = null;
+        this._momentIndex = 0;
         for (const month of months) {
             if (month.year !== currentYear) {
                 currentYear = month.year;
@@ -247,8 +248,10 @@ const Timeline = {
             }
         }
 
+        const altClass = (this._momentIndex++ % 2 === 1) ? ' tl-moment-alt' : '';
+
         return `
-            <div class="tl-moment${clickClass}" data-date="${moment.date}" ${clickAttr}>
+            <div class="tl-moment${clickClass}${altClass}" data-date="${moment.date}" ${clickAttr}>
                 <div class="tl-moment-line"></div>
                 <div class="tl-moment-content">
                     <div class="tl-moment-date">${dateStr}</div>

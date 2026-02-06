@@ -415,6 +415,11 @@
         margin: 4px 0 10px 14px;
     }
 
+    .tl-moment-alt .tl-moment-img {
+        float: left;
+        margin: 4px 14px 10px 0;
+    }
+
     .tl-day-incident {
         font-size: 0.9rem;
     }
