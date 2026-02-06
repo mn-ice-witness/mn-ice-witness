@@ -289,6 +289,7 @@
     align-items: baseline;
     gap: 10px;
     margin-bottom: 4px;
+    margin-left: -18px;
 }
 
 .tl-day-date {
@@ -487,6 +488,10 @@
 
     .tl-day {
         padding-left: 26px;
+    }
+
+    .tl-day-header {
+        margin-left: -16px;
     }
 
     .tl-day-marker {
