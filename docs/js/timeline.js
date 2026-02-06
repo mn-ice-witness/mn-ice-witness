@@ -453,8 +453,18 @@ const Timeline = {
         }
 
         this._clickHandler = (e) => {
-            // Let inline links and source links navigate normally
-            if (e.target.closest('.tl-inline-link') || e.target.closest('.tl-moment-source')) return;
+            // Intercept inline /entry/ links to open in lightbox instead of navigating
+            const inlineLink = e.target.closest('.tl-inline-link');
+            if (inlineLink) {
+                const href = inlineLink.getAttribute('href');
+                if (href && href.startsWith('/entry/')) {
+                    e.preventDefault();
+                    this.openIncident(href.replace('/entry/', ''));
+                }
+                return;
+            }
+            // Let source links navigate normally
+            if (e.target.closest('.tl-moment-source')) return;
 
             const momentEl = e.target.closest('.tl-moment-clickable');
             if (momentEl) {
