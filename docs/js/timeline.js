@@ -110,6 +110,16 @@ const Timeline = {
         }
 
         this.monthData = Object.values(monthMap).sort((a, b) => a.key.localeCompare(b.key));
+
+        // Compute grand totals for newest-first mode
+        this.grandTotals = { citizens: 0, observers: 0, immigrants: 0, 'schools-hospitals': 0 };
+        for (const month of this.monthData) {
+            for (const day of month.days) {
+                for (const cat in day.counts) {
+                    if (cat in this.grandTotals) this.grandTotals[cat] += day.counts[cat];
+                }
+            }
+        }
     },
 
     countCategories(incidents) {
@@ -145,7 +155,19 @@ const Timeline = {
     },
 
     buildTotalsHTML() {
+        const oldestActive = this.sortOrder === 'oldest' ? ' active' : '';
+        const newestActive = this.sortOrder === 'newest' ? ' active' : '';
         return `
+            <div class="sort-dropdown" id="tl-sort-dropdown" style="position:relative;left:auto;top:auto;transform:none;">
+                <button class="sort-btn${this.sortOrder !== 'oldest' ? ' active' : ''}" id="tl-sort-btn" aria-label="Sort timeline" title="Sort by">
+                    <svg width="16" height="16"><use href="#icon-sort"/></svg>
+                </button>
+                <div class="sort-menu" id="tl-sort-menu" aria-hidden="true">
+                    <div class="sort-menu-header">Sort By</div>
+                    <button class="sort-option${oldestActive}" data-tl-sort="oldest">Oldest</button>
+                    <button class="sort-option${newestActive}" data-tl-sort="newest">Newest</button>
+                </div>
+            </div>
             <div class="tl-current-date" id="tl-current-date"></div>
             <div class="tl-totals-group">
                 <div class="tl-total tl-total-citizens">
@@ -166,7 +188,6 @@ const Timeline = {
                 </div>
             </div>
             <div class="tl-totals-note">Count of collected media reports, not total events in state</div>
-            <div class="tl-sort-toggle" id="tl-sort-toggle">${this.sortOrder === 'oldest' ? 'Oldest first ↓' : 'Newest first ↑'}</div>
         `;
     },
 
@@ -309,17 +330,23 @@ const Timeline = {
             window.removeEventListener('scroll', this._scrollHandler);
         }
 
-        // Seed with first visible day's data so counters never show all zeros
+        // For newest-first, show grand totals always; for oldest, seed with first day
         this.countedDays.clear();
-        this.totals = { citizens: 0, observers: 0, immigrants: 0, 'schools-hospitals': 0 };
-        const seedMonth = this.sortOrder === 'newest' ? this.monthData[this.monthData.length - 1] : this.monthData[0];
-        const firstDay = seedMonth && (this.sortOrder === 'newest' ? seedMonth.days[seedMonth.days.length - 1] : seedMonth.days[0]);
-        if (firstDay) {
-            this.countedDays.add(firstDay.date);
-            for (const cat in firstDay.counts) {
-                this.totals[cat] += firstDay.counts[cat];
+        if (this.sortOrder === 'newest') {
+            this.totals = { ...this.grandTotals };
+            const lastMonth = this.monthData[this.monthData.length - 1];
+            const lastDay = lastMonth && lastMonth.days[lastMonth.days.length - 1];
+            if (lastDay) this.updateCurrentDate(lastDay.date);
+        } else {
+            this.totals = { citizens: 0, observers: 0, immigrants: 0, 'schools-hospitals': 0 };
+            const firstDay = this.monthData[0] && this.monthData[0].days[0];
+            if (firstDay) {
+                this.countedDays.add(firstDay.date);
+                for (const cat in firstDay.counts) {
+                    this.totals[cat] += firstDay.counts[cat];
+                }
+                this.updateCurrentDate(firstDay.date);
             }
-            this.updateCurrentDate(firstDay.date);
         }
         this.updateTotalsDisplay();
 
@@ -346,13 +373,38 @@ const Timeline = {
         if (!totalsBar) return;
         const triggerY = totalsBar.getBoundingClientRect().bottom;
 
+        // Find the current date from the closest scrolled-past element
+        let currentDate = null;
+        let closestTop = -Infinity;
+
         const dayEls = container.querySelectorAll('.tl-day');
+        const momentEls = container.querySelectorAll('.tl-moment');
+
+        for (const el of dayEls) {
+            const rect = el.getBoundingClientRect();
+            if (rect.top < triggerY && rect.top > closestTop) {
+                closestTop = rect.top;
+                currentDate = el.dataset.date;
+            }
+        }
+        for (const el of momentEls) {
+            const rect = el.getBoundingClientRect();
+            if (rect.top < triggerY && rect.top > closestTop) {
+                closestTop = rect.top;
+                const dateEl = el.querySelector('.tl-moment-date');
+                if (dateEl) currentDate = dateEl.textContent;
+            }
+        }
+
+        // Newest-first: always show grand totals, just update date
+        if (this.sortOrder === 'newest') {
+            this.updateCurrentDate(currentDate);
+            return;
+        }
+
+        // Oldest-first: accumulate totals as user scrolls
         const newCounted = new Set();
         const newTotals = { citizens: 0, observers: 0, immigrants: 0, 'schools-hospitals': 0 };
-        let currentDate = null;
-
-        // Track the lowest element (closest to trigger line) that's scrolled past
-        let closestTop = -Infinity;
 
         for (const el of dayEls) {
             const rect = el.getBoundingClientRect();
@@ -363,33 +415,17 @@ const Timeline = {
                 for (const cat in counts) {
                     newTotals[cat] += counts[cat];
                 }
-                if (rect.top > closestTop) {
-                    closestTop = rect.top;
-                    currentDate = date;
-                }
             }
         }
 
-        // Always include first visible day so counters never show zeros
-        const seedMonth = this.sortOrder === 'newest' ? this.monthData[this.monthData.length - 1] : this.monthData[0];
-        const firstDay = seedMonth && (this.sortOrder === 'newest' ? seedMonth.days[seedMonth.days.length - 1] : seedMonth.days[0]);
+        // Always include first day so counters never show zeros
+        const firstDay = this.monthData[0] && this.monthData[0].days[0];
         if (firstDay && !newCounted.has(firstDay.date)) {
             newCounted.add(firstDay.date);
             for (const cat in firstDay.counts) {
                 newTotals[cat] += firstDay.counts[cat];
             }
             if (!currentDate) currentDate = firstDay.date;
-        }
-
-        // Also check moments for date display (they may appear between days)
-        const momentEls = container.querySelectorAll('.tl-moment');
-        for (const el of momentEls) {
-            const rect = el.getBoundingClientRect();
-            if (rect.top < triggerY && rect.top > closestTop) {
-                closestTop = rect.top;
-                const dateEl = el.querySelector('.tl-moment-date');
-                if (dateEl) currentDate = dateEl.textContent;
-            }
         }
 
         // Update totals if changed
@@ -458,11 +494,28 @@ const Timeline = {
         }
 
         this._clickHandler = (e) => {
-            // Sort toggle
-            if (e.target.closest('#tl-sort-toggle')) {
-                this.sortOrder = this.sortOrder === 'oldest' ? 'newest' : 'oldest';
-                this.render();
+            // Sort dropdown toggle
+            if (e.target.closest('#tl-sort-btn')) {
+                const menu = document.getElementById('tl-sort-menu');
+                if (menu) menu.classList.toggle('open');
                 return;
+            }
+            // Sort option selected
+            const sortOpt = e.target.closest('[data-tl-sort]');
+            if (sortOpt) {
+                const newOrder = sortOpt.dataset.tlSort;
+                if (newOrder !== this.sortOrder) {
+                    this.sortOrder = newOrder;
+                    this.render();
+                }
+                const menu = document.getElementById('tl-sort-menu');
+                if (menu) menu.classList.remove('open');
+                return;
+            }
+            // Close sort menu on any other click
+            const menu = document.getElementById('tl-sort-menu');
+            if (menu && menu.classList.contains('open')) {
+                menu.classList.remove('open');
             }
 
             // Let inline links and source links navigate normally
