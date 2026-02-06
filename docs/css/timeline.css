@@ -195,8 +195,8 @@
 
 .tl-moment-content {
     background: var(--color-surface);
-    border: 1px solid var(--color-border);
-    border-left: 4px solid var(--color-border);
+    border: 2px solid #9ab;
+    border-left: 4px solid #9ab;
     border-radius: 0 8px 8px 0;
     padding: 12px 16px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
@@ -316,20 +316,21 @@
 
 .tl-day-incident {
     font-size: 0.85rem;
-    color: var(--color-text-secondary);
+    color: #6a8fad;
     padding: 3px 0;
     cursor: pointer;
     line-height: 1.35;
 }
 
 .tl-day-incident:hover {
-    color: #5a7a9e;
+    color: #3d6a94;
 }
 
 .tl-cat-tag {
     font-size: 0.7rem;
     font-weight: 700;
     letter-spacing: 0.04em;
+    color: var(--color-text-secondary);
     color: var(--color-text-muted);
 }
 
@@ -411,8 +412,8 @@
     }
 
     .tl-moment-line {
-        width: 14px;
-        height: 14px;
+        width: 12px;
+        height: 12px;
     }
 
     .tl-moment-img {
