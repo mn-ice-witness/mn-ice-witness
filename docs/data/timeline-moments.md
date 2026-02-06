@@ -165,7 +165,7 @@ title: "Dine and Detain": Agents Eat at Restaurant, Then Arrest Workers
 incident: 2026-01-15-el-tapatio-willmar
 source:
 ---
-The story that came to symbolize workplace enforcement. Four ICE agents eat lunch at El Tapatio, a family-owned Mexican restaurant in Willmar, 100 miles west of Minneapolis. Staff are visibly frightened but serve the meal. That evening, agents follow the workers after closing and detain the restaurant's owners — who have lived in the United States since 1989 — and their dishwasher near a Lutheran church. The story goes viral and becomes a symbol of the operation's expansion into outstate Minnesota, where agents targeted workers at restaurants, food plants, and farms from Brainerd to Pelican Rapids.
+While the Twin Cities reeled from the [North Minneapolis flashbang incident](/entry/2026-01-14-shawn-jackson-children-tear-gas), the operation was quietly expanding outstate. Four ICE agents eat lunch at El Tapatio, a family-owned Mexican restaurant in Willmar, 100 miles west of Minneapolis. Staff are visibly frightened but serve the meal. That evening, agents follow the workers after closing and detain the restaurant's owners — who have lived in the United States since 1989 — and their dishwasher near a Lutheran church. The "dine and detain" story goes viral, becoming a symbol of the operation's reach into outstate Minnesota's restaurants, food plants, and farms — and a warning to every immigrant-owned business in the state about what could happen next.
 
 ---
 date: 2026-01-16
@@ -173,7 +173,7 @@ title: "An Economic Crisis of Catastrophic Proportions"
 incident: 2026-01-16-business-disruption-economic-crisis
 source:
 ---
-As the "[dine and detain](/entry/2026-01-15-el-tapatio-willmar)" story went viral, a quieter devastation was unfolding across the Twin Cities. Workers stopped showing up. Customers stayed home. Half of Lake Street's immigrant-owned businesses were closed on any given day. The Lake Street Council estimated $46 million in cumulative losses across the corridor's 1,000-plus businesses; the city put weekly losses at $10 million to $20 million. Owners drove workers to shifts under blankets, posted volunteers at locked doors, leased apartments for vulnerable staff, and applied for temporary guardianship of employees' children. Multiple owners compared conditions to COVID — but worse, because no government relief existed.
+What the "[dine and detain](/entry/2026-01-15-el-tapatio-willmar)" story warned of arrived overnight. Across the Twin Cities, immigrant workers stopped showing up for shifts. Customers stayed home. Half of Lake Street's immigrant-owned businesses were closed on any given day; Mercado Central's 35 family-run vendors lost 90% to 100% of their income. The Lake Street Council estimated $46 million in cumulative losses; the city put weekly losses at $10 million to $20 million. Owners drove workers to shifts under blankets, posted volunteers at locked doors, and applied for temporary guardianship of employees' children. The crisis extended beyond immigrant communities — 80% of all Minneapolis businesses reported reduced sales. Multiple owners compared conditions to COVID, but worse, because no government relief existed. The economic damage would become a central justification when Trump [threatened the Insurrection Act](/entry/2026-01-16-trump-insurrection-act-threat) later that day.
 
 ---
 date: 2026-01-16
