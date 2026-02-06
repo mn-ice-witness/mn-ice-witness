@@ -73,7 +73,7 @@
 }
 
 .tl-totals-note {
-    font-size: 0.6rem;
+    font-size: 0.72rem;
     font-family: var(--font-sans);
     color: var(--color-text-muted);
     text-align: center;
@@ -380,6 +380,10 @@
     .tl-current-date {
         font-size: 1.1rem;
         min-width: 80px;
+    }
+
+    .tl-totals-note {
+        font-size: 0.78rem;
     }
 
     .tl-content {
