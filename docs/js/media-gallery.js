@@ -12,6 +12,8 @@
  */
 
 const MediaGallery = {
+    scrollObserver: null,
+
     /**
      * Get number of columns based on viewport width
      */
@@ -139,9 +141,11 @@ const MediaGallery = {
      * Setup IntersectionObserver for scroll-to-play
      */
     setupScrollToPlay(gallery) {
+        if (this.scrollObserver) this.scrollObserver.disconnect();
+
         const videos = gallery.querySelectorAll('.media-card-video');
 
-        const observer = new IntersectionObserver((entries) => {
+        this.scrollObserver = new IntersectionObserver((entries) => {
             entries.forEach(entry => {
                 const video = entry.target;
                 if (entry.isIntersecting && entry.intersectionRatio >= 0.4) {
@@ -152,7 +156,23 @@ const MediaGallery = {
             });
         }, { threshold: [0, 0.4, 0.6, 1] });
 
-        videos.forEach(video => observer.observe(video));
+        videos.forEach(video => this.scrollObserver.observe(video));
+    },
+
+    /**
+     * Stop all video loading/playback and disconnect observer.
+     * Called when switching away from media tab.
+     */
+    cleanup() {
+        if (this.scrollObserver) {
+            this.scrollObserver.disconnect();
+            this.scrollObserver = null;
+        }
+        document.querySelectorAll('.media-card-video').forEach(video => {
+            video.pause();
+            video.removeAttribute('src');
+            video.load();
+        });
     },
 
     /**
