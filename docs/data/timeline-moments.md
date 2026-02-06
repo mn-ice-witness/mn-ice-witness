@@ -4,7 +4,7 @@ title: Operation Metro Surge Launched
 incident: 2025-12-04-operation-metro-surge-launched
 source:
 ---
-DHS announces what it calls the "largest immigration enforcement operation ever carried out," targeting the Minneapolis-St. Paul metropolitan area — the first time a single U.S. metro has been the focus of a dedicated federal immigration surge. The announcement comes two days after Trump [called Somali immigrants "garbage"](https://abcnews.go.com/Politics/trump-describes-somali-immigrants-garbage-amid-feud-minnesota/story?id=128069199) during a Cabinet meeting. Initial arrests focus on Somali and Latino communities.
+DHS announces what it calls the "largest immigration enforcement operation ever carried out," targeting the Minneapolis-St. Paul metropolitan area — the first time a single U.S. metro has been the focus of a dedicated federal immigration surge. Initial arrests focus on Somali and Latino communities.
 
 ---
 date: 2025-12-09
@@ -12,7 +12,7 @@ title: U.S. Citizen Tackled for "Looking Somali"
 incident: 2025-12-09-mubashir-wrongful-detention
 source:
 ---
-The first major wrongful detention of a U.S. citizen. 20-year-old Mubashir Hussen is tackled and placed in a chokehold by ICE agents in the Cedar-Riverside neighborhood despite offering to show his passport. He is detained for hours. Minneapolis Mayor Jacob Frey condemns the arrest, establishing the pattern of racial profiling that would define the operation.
+The first major wrongful detention of a U.S. citizen. Five days after Trump [called Somali immigrants "garbage"](https://abcnews.go.com/Politics/trump-describes-somali-immigrants-garbage-amid-feud-minnesota/story?id=128069199) during a Cabinet meeting, 20-year-old Mubashir Hussen — a Somali-American born in the United States — is tackled and placed in a chokehold by ICE agents in the Cedar-Riverside neighborhood despite offering to show his passport. He is detained for hours. Minneapolis Mayor Jacob Frey condemns the arrest, establishing the pattern of racial profiling that would define the operation.
 
 ---
 date: 2025-12-07
