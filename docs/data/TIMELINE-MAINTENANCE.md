@@ -36,10 +36,17 @@ Renee Nicole Macklin Good, 37, a writer, poet, and mother of three, is fatally s
 | `source` | No | URL to a news article or primary source. Only displayed when there is NO linked incident (since incidents have their own sources). Used for policy events, announcements, etc. |
 | `image` | No | Path to a custom image (e.g. `/media/custom/photo.jpg`). If omitted, the system automatically uses the OG image or primary media from the linked incident. Set to `false` to suppress images entirely. |
 
+### Two Types of Moments
+
+**Incident-linked moments** have an `incident` slug. The whole card is clickable and opens the incident detail. Sources come from the incident itself. Example: "Renee Good Killed by ICE Agent" → links to `2026-01-07-renee-good-shooting`.
+
+**Non-incident moments** have no `incident` slug. These are policy events, court rulings, troop deployments, etc. that don't have their own incident file. For these, you MUST embed source links directly in the body text using markdown syntax: `[link text](https://url)`. This ensures readers can verify claims and access original reporting.
+
 ### Rules
 
 - **`incident` takes priority over `source`** — If a moment has an `incident` slug, the card links to that incident and the `source` URL is not shown (the incident itself has sources).
-- **`source` is for non-incident moments** — Policy announcements, troop deployments, court rulings that don't have their own incident file.
+- **Non-incident moments need inline links** — Use `[text](url)` markdown in the body. Embed the link naturally in the prose, e.g. "DHS [deploys 2,000 officers](https://pbs.org/...) to the Twin Cities."
+- **`source` field is optional for non-incident moments** — The `source` field makes the whole card clickable as a fallback. But inline links in the body are the primary way readers access sources.
 - **Images are automatic for incidents** — The system checks for `localMediaOgPath` first, then `localMediaPath`. Only set `image` if you want to override or suppress.
 - **Moments appear in date order** — They are interleaved with incident day-clusters by date.
 - **Two moments can share a date** — They will both appear on that date in the order they appear in the file.
@@ -102,19 +109,21 @@ Every moment description must start by explaining **why this event matters** —
 **Good example (context-first):**
 > "The most shocking use of force against children. ICE agents deploy flashbang grenades and tear gas under an SUV carrying Shawn Jackson and his six children, ages 6 months to 11. The baby stops breathing and requires CPR. Three children are hospitalized. Agents refuse to call 911. The incident becomes a turning point in national media coverage."
 
-## Example: Adding a Court Ruling
+## Example: Non-Incident Moment (with inline links)
 
 ```markdown
 ---
 date: 2026-01-28
 title: Judge Finds 96 Court Orders Violated
 incident:
-source: https://www.npr.org/2026/01/31/nx-s1-5693175/judge-says-immigration-and-customs-enforcement-has-violated-96-court-orders-this-month-in-minn
+source:
 ---
-Minnesota Chief Judge Patrick Schiltz finds ICE has violated 96 court orders in January 2026 alone, stating ICE likely violated more orders in one month "than some federal agencies have violated in their entire existence."
+An extraordinary judicial rebuke. Minnesota Chief Judge Patrick Schiltz — a George W. Bush appointee — finds ICE has [violated 96 court orders](https://www.npr.org/2026/01/31/...) in January 2026 alone, stating ICE likely violated more orders in one month "than some federal agencies have violated in their entire existence."
 ```
 
-## Example: Adding an Incident-Linked Moment
+Note: The link is embedded naturally in the prose using `[text](url)` markdown syntax. This is how readers access sources for non-incident moments.
+
+## Example: Incident-Linked Moment (no inline links needed)
 
 ```markdown
 ---
@@ -123,8 +132,10 @@ title: 5-Year-Old Liam Ramos Detained
 incident: 2026-01-20-liam-ramos-detained
 source:
 ---
-Five-year-old kindergartner Liam Conejo Ramos and his father Adrian are detained by ICE in a Minneapolis suburb. They are flown to the Dilley, Texas detention facility, drawing national outrage.
+The youngest known detainee. Five-year-old kindergartner Liam Conejo Ramos and his father Adrian are detained by ICE in a Minneapolis suburb and flown to the Dilley, Texas detention facility. The detention of a kindergartner becomes the single most widely covered story of the operation.
 ```
+
+Note: No inline links needed — the card itself links to the incident, which has its own sources.
 
 ## Daily Maintenance Workflow
 

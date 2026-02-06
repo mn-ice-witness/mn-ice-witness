@@ -4,7 +4,7 @@ title: Operation Metro Surge Launched
 incident:
 source: https://www.dhs.gov/news/2025/12/04/ice-arrests-worst-worst-criminal-illegal-aliens-during-operation-metro-surge
 ---
-DHS announces what it calls the "largest immigration enforcement operation ever carried out," targeting the Minneapolis-St. Paul metropolitan area — the first time a single U.S. metro has been the focus of a dedicated federal immigration surge. Initial arrests focus on Somali and Latino communities.
+DHS announces what it calls the ["largest immigration enforcement operation ever carried out,"](https://www.dhs.gov/news/2025/12/04/ice-arrests-worst-worst-criminal-illegal-aliens-during-operation-metro-surge) targeting the Minneapolis-St. Paul metropolitan area — the first time a single U.S. metro has been the focus of a dedicated federal immigration surge. Initial arrests focus on Somali and Latino communities.
 
 ---
 date: 2025-12-09
@@ -28,7 +28,7 @@ title: 2,000 Additional Officers Deployed
 incident:
 source: https://www.pbs.org/newshour/politics/2000-federal-agents-sent-to-minneapolis-area-to-carry-out-largest-immigration-operation-ever-ice-says
 ---
-A major escalation: DHS deploys 2,000 additional immigration officers to the Twin Cities and extends operations across all of Minnesota. The surge now involves more federal agents than any domestic law enforcement operation since the Civil Rights era.
+A major escalation: DHS [deploys 2,000 additional immigration officers](https://www.pbs.org/newshour/politics/2000-federal-agents-sent-to-minneapolis-area-to-carry-out-largest-immigration-operation-ever-ice-says) to the Twin Cities and extends operations across all of Minnesota. The surge now involves more federal agents than any domestic law enforcement operation since the Civil Rights era.
 
 ---
 date: 2026-01-07
@@ -85,7 +85,7 @@ title: Minnesota Sues to Halt Operation
 incident:
 source: https://www.twincities.com/2026/01/12/keith-ellison-mayors-kaohly-her-jacob-frey-file-legal-action-against-ice/
 ---
-The most significant legal challenge to the operation. Minnesota Attorney General Keith Ellison, Minneapolis Mayor Jacob Frey, and St. Paul Mayor Kaohly Her file a lawsuit calling Operation Metro Surge a "federal invasion of the Twin Cities" and alleging systematic racial profiling. It is the first time a state has sued the federal government to halt an immigration operation.
+The most significant legal challenge to the operation. Minnesota Attorney General Keith Ellison, Minneapolis Mayor Jacob Frey, and St. Paul Mayor Kaohly Her [file a lawsuit](https://www.twincities.com/2026/01/12/keith-ellison-mayors-kaohly-her-jacob-frey-file-legal-action-against-ice/) calling Operation Metro Surge a "federal invasion of the Twin Cities" and alleging systematic racial profiling. It is the first time a state has sued the federal government to halt an immigration operation.
 
 ---
 date: 2026-01-13
@@ -150,7 +150,7 @@ incident:
 source: https://www.npr.org/2026/01/23/nx-s1-5686733/minnesotans-day-of-ice-protests
 image: media/2026-01/23/2026-01-23-50k-march.jpg
 ---
-The largest protest in Minnesota history. An estimated 50,000 to 100,000 people march through downtown Minneapolis in -20 degree temperatures in the "Day of Truth & Freedom" protest. Hundreds of businesses close in solidarity in what becomes the first general strike in the United States in 80 years. The scale of the response signals that public opinion has decisively turned against the operation.
+The largest protest in Minnesota history. An estimated [50,000 to 100,000 people march](https://www.npr.org/2026/01/23/nx-s1-5686733/minnesotans-day-of-ice-protests) through downtown Minneapolis in -20 degree temperatures in the "Day of Truth & Freedom" protest. Hundreds of businesses close in solidarity in what becomes the first general strike in the United States in 80 years. The scale of the response signals that public opinion has decisively turned against the operation.
 
 ---
 date: 2026-01-24
@@ -166,7 +166,7 @@ title: Drawdown Begins
 incident: 2026-01-27-homan-draw-down-minneapolis
 source:
 ---
-The first sign of federal retreat. Border czar Tom Homan meets with Governor Tim Walz. The divisive Border Patrol Commander Greg Bovino — responsible for the hexachloroethane deployment near Ella Baker school — is removed from Minnesota operations. Both sides agree to ongoing dialogue and a "changed tone."
+The first sign of federal retreat. Border czar Tom Homan [meets with Governor Tim Walz](https://www.npr.org/2026/01/27/nx-s1-5690183/minnesota-gov-tim-walz-and-border-czar-tom-homan-begin-talks-over-ice-surge). The divisive Border Patrol Commander Greg Bovino — responsible for the hexachloroethane deployment near Ella Baker school — is removed from Minnesota operations. Both sides agree to ongoing dialogue and a "changed tone."
 
 ---
 date: 2026-01-28
@@ -174,7 +174,7 @@ title: Judge Finds 96 Court Orders Violated
 incident: 2026-01-27-tobay-robles-lyons-contempt
 source:
 ---
-An extraordinary judicial rebuke. Minnesota Chief Judge Patrick Schiltz — a George W. Bush appointee — finds ICE has violated 96 court orders in January 2026 alone, stating ICE likely violated more orders in one month "than some federal agencies have violated in their entire existence." The ruling comes after Judge Schiltz summoned ICE Acting Director Todd Lyons to explain why he should not be held in contempt.
+An extraordinary judicial rebuke. Minnesota Chief Judge Patrick Schiltz — a George W. Bush appointee — finds ICE has [violated 96 court orders](https://www.npr.org/2026/01/31/nx-s1-5693175/judge-says-immigration-and-customs-enforcement-has-violated-96-court-orders-this-month-in-minn) in January 2026 alone, stating ICE likely violated more orders in one month "than some federal agencies have violated in their entire existence." The ruling comes after Judge Schiltz summoned ICE Acting Director Todd Lyons to explain why he should not be held in contempt.
 
 ---
 date: 2026-02-01
@@ -182,7 +182,7 @@ title: Liam Ramos Released from Detention
 incident: 2026-01-20-liam-ramos-detained
 source:
 ---
-A legal victory after national outcry. U.S. District Judge Fred Biery orders the release of 5-year-old Liam Ramos and his father from the Dilley detention facility after 12 days in custody. The judge describes the case as having "its genesis in the ill-conceived and incompetently implemented government pursuit of daily deportation quotas." They return to Minnesota the following morning.
+A legal victory after national outcry. U.S. District Judge Fred Biery [orders the release](https://www.pbs.org/newshour/nation/5-year-old-liam-conejo-ramos-and-his-father-released-from-texas-detention-facility-following-judges-order) of 5-year-old Liam Ramos and his father from the Dilley detention facility after 12 days in custody. The judge describes the case as having "its genesis in the ill-conceived and incompetently implemented government pursuit of daily deportation quotas." They return to Minnesota the following morning.
 
 ---
 date: 2026-02-04
@@ -190,4 +190,4 @@ title: Partial Drawdown Announced
 incident: 2026-02-04-trump-softer-touch-interview
 source:
 ---
-The operation begins to wind down. Border czar Tom Homan announces 700 immigration officers will be immediately withdrawn from Minnesota, though approximately 2,000 federal agents remain. Only 7 of 87 Minnesota county sheriffs have signed cooperation agreements with ICE, reflecting the near-total refusal of local law enforcement to assist the operation.
+The operation begins to wind down. Border czar Tom Homan [announces 700 immigration officers](https://www.mprnews.org/story/2026/02/04/tom-homan-border-czar-immigration-surge-minnesota-press-conference) will be immediately withdrawn from Minnesota, though approximately 2,000 federal agents remain. Only 7 of 87 Minnesota county sheriffs have signed cooperation agreements with ICE, reflecting the near-total refusal of local law enforcement to assist the operation.

@@ -201,6 +201,16 @@
     margin: 0;
 }
 
+.tl-inline-link {
+    color: #5a7a9e;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.tl-inline-link:hover {
+    color: #3d6a94;
+}
+
 .tl-moment-source {
     display: inline-block;
     font-size: 0.8rem;
