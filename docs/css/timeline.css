@@ -214,7 +214,7 @@
 
 .tl-moment-title {
     font-family: var(--font-serif);
-    font-size: 1.15rem;
+    font-size: 1.32rem;
     font-weight: 700;
     color: var(--color-text);
     margin: 0 0 8px 0;
@@ -396,7 +396,7 @@
     }
 
     .tl-moment-title {
-        font-size: 1.3rem;
+        font-size: 1.5rem;
     }
 
     .tl-moment-desc {
@@ -478,7 +478,7 @@
     }
 
     .tl-moment-title {
-        font-size: 1rem;
+        font-size: 1.15rem;
     }
 
     .tl-moment-desc {
