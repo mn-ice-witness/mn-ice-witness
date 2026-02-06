@@ -1184,11 +1184,15 @@
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2025-12/15/2025-12-15-karmel-mall-pregnant-woman.mp4",
-      "localMediaOgPath": "media/2025-12/15/2025-12-15-karmel-mall-pregnant-woman-og-custom.jpg",
+      "localMediaOgPath": "media/2025-12/15/2025-12-15-karmel-mall-pregnant-woman-og-2s-1770397820.jpg",
       "localMediaFiles": [
         {
           "type": "video",
           "path": "media/2025-12/15/2025-12-15-karmel-mall-pregnant-woman.mp4"
+        },
+        {
+          "type": "image",
+          "path": "media/2025-12/15/2025-12-15-karmel-mall-pregnant-woman.jpg"
         }
       ],
       "aspectRatio": 0.55,

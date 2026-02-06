@@ -682,13 +682,18 @@
       "lastUpdated": "2026-02-06T12:47:33",
       "mediaCount": 0,
       "notable": false,
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
+      "hasLocalMedia": true,
+      "localMediaType": "image",
+      "localMediaPath": "media/2026-01/14/2026-01-14-victor-diaz-custody-death.jpg",
       "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
+      "localMediaFiles": [
+        {
+          "type": "image",
+          "path": "media/2026-01/14/2026-01-14-victor-diaz-custody-death.jpg"
+        }
+      ],
+      "aspectRatio": 1.426872770511296,
+      "mediaVersion": 1770404372
     },
     {
       "filePath": "incidents/2026-01/13/2026-01-13-la-mexicana-st-peter.md",
