@@ -15,6 +15,7 @@ const Timeline = {
     totals: { citizens: 0, observers: 0, immigrants: 0, 'schools-hospitals': 0 },
     initialized: false,
     observer: null,
+    sortOrder: 'oldest',
 
     async render() {
         const container = document.getElementById('timeline-view');
@@ -129,8 +130,9 @@ const Timeline = {
         html += '</div>';
         html += '<div class="tl-content">';
 
+        const months = this.sortOrder === 'newest' ? [...this.monthData].reverse() : this.monthData;
         let currentYear = null;
-        for (const month of this.monthData) {
+        for (const month of months) {
             if (month.year !== currentYear) {
                 currentYear = month.year;
                 html += `<div class="tl-year"><span>${currentYear}</span></div>`;
@@ -164,6 +166,7 @@ const Timeline = {
                 </div>
             </div>
             <div class="tl-totals-note">Count of collected media reports, not total events in state</div>
+            <div class="tl-sort-toggle" id="tl-sort-toggle">${this.sortOrder === 'oldest' ? 'Oldest first ↓' : 'Newest first ↑'}</div>
         `;
     },
 
@@ -172,7 +175,8 @@ const Timeline = {
         let html = `<div class="tl-month">`;
         html += `<h3 class="tl-month-label">${monthName} ${month.year}</h3>`;
 
-        for (const day of month.days) {
+        const days = this.sortOrder === 'newest' ? [...month.days].reverse() : month.days;
+        for (const day of days) {
             for (const moment of day.moments) {
                 html += this.buildMomentHTML(moment);
             }
@@ -305,10 +309,11 @@ const Timeline = {
             window.removeEventListener('scroll', this._scrollHandler);
         }
 
-        // Seed with first day's data so counters never show all zeros
+        // Seed with first visible day's data so counters never show all zeros
         this.countedDays.clear();
         this.totals = { citizens: 0, observers: 0, immigrants: 0, 'schools-hospitals': 0 };
-        const firstDay = this.monthData[0] && this.monthData[0].days[0];
+        const seedMonth = this.sortOrder === 'newest' ? this.monthData[this.monthData.length - 1] : this.monthData[0];
+        const firstDay = seedMonth && (this.sortOrder === 'newest' ? seedMonth.days[seedMonth.days.length - 1] : seedMonth.days[0]);
         if (firstDay) {
             this.countedDays.add(firstDay.date);
             for (const cat in firstDay.counts) {
@@ -365,8 +370,9 @@ const Timeline = {
             }
         }
 
-        // Always include first day so counters never show zeros
-        const firstDay = this.monthData[0] && this.monthData[0].days[0];
+        // Always include first visible day so counters never show zeros
+        const seedMonth = this.sortOrder === 'newest' ? this.monthData[this.monthData.length - 1] : this.monthData[0];
+        const firstDay = seedMonth && (this.sortOrder === 'newest' ? seedMonth.days[seedMonth.days.length - 1] : seedMonth.days[0]);
         if (firstDay && !newCounted.has(firstDay.date)) {
             newCounted.add(firstDay.date);
             for (const cat in firstDay.counts) {
@@ -452,6 +458,13 @@ const Timeline = {
         }
 
         this._clickHandler = (e) => {
+            // Sort toggle
+            if (e.target.closest('#tl-sort-toggle')) {
+                this.sortOrder = this.sortOrder === 'oldest' ? 'newest' : 'oldest';
+                this.render();
+                return;
+            }
+
             // Let inline links and source links navigate normally
             if (e.target.closest('.tl-inline-link') || e.target.closest('.tl-moment-source')) return;
 
