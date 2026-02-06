@@ -111,15 +111,18 @@ const Timeline = {
 
         this.monthData = Object.values(monthMap).sort((a, b) => a.key.localeCompare(b.key));
 
-        // Compute grand totals for newest-first mode
-        this.grandTotals = { citizens: 0, observers: 0, immigrants: 0, 'schools-hospitals': 0 };
+        // Precompute cumulative totals by date (for both sort modes)
+        this.cumulativeByDate = {};
+        const running = { citizens: 0, observers: 0, immigrants: 0, 'schools-hospitals': 0 };
         for (const month of this.monthData) {
             for (const day of month.days) {
                 for (const cat in day.counts) {
-                    if (cat in this.grandTotals) this.grandTotals[cat] += day.counts[cat];
+                    if (cat in running) running[cat] += day.counts[cat];
                 }
+                this.cumulativeByDate[day.date] = { ...running };
             }
         }
+        this.grandTotals = { ...running };
     },
 
     countCategories(incidents) {
@@ -245,7 +248,7 @@ const Timeline = {
         }
 
         return `
-            <div class="tl-moment${clickClass}" ${clickAttr}>
+            <div class="tl-moment${clickClass}" data-date="${moment.date}" ${clickAttr}>
                 <div class="tl-moment-line"></div>
                 <div class="tl-moment-content">
                     <div class="tl-moment-date">${dateStr}</div>
@@ -318,23 +321,18 @@ const Timeline = {
             window.removeEventListener('scroll', this._scrollHandler);
         }
 
-        // For newest-first, show grand totals always; for oldest, seed with first day
-        this.countedDays.clear();
-        if (this.sortOrder === 'newest') {
-            this.totals = { ...this.grandTotals };
-            const lastMonth = this.monthData[this.monthData.length - 1];
-            const lastDay = lastMonth && lastMonth.days[lastMonth.days.length - 1];
-            if (lastDay) this.updateCurrentDate(lastDay.date);
+        // Seed with first visible day's cumulative totals
+        const seedMonth = this.sortOrder === 'newest'
+            ? this.monthData[this.monthData.length - 1]
+            : this.monthData[0];
+        const seedDay = seedMonth && (this.sortOrder === 'newest'
+            ? seedMonth.days[seedMonth.days.length - 1]
+            : seedMonth.days[0]);
+        if (seedDay) {
+            this.totals = { ...this.cumulativeByDate[seedDay.date] };
+            this.updateCurrentDate(seedDay.date);
         } else {
             this.totals = { citizens: 0, observers: 0, immigrants: 0, 'schools-hospitals': 0 };
-            const firstDay = this.monthData[0] && this.monthData[0].days[0];
-            if (firstDay) {
-                this.countedDays.add(firstDay.date);
-                for (const cat in firstDay.counts) {
-                    this.totals[cat] += firstDay.counts[cat];
-                }
-                this.updateCurrentDate(firstDay.date);
-            }
         }
         this.updateTotalsDisplay();
 
@@ -361,76 +359,34 @@ const Timeline = {
         if (!totalsBar) return;
         const triggerY = totalsBar.getBoundingClientRect().bottom;
 
-        // Find the current date from the closest scrolled-past element
+        // Find the current ISO date from the closest scrolled-past element
         let currentDate = null;
         let closestTop = -Infinity;
 
-        const dayEls = container.querySelectorAll('.tl-day');
-        const momentEls = container.querySelectorAll('.tl-moment');
-
-        for (const el of dayEls) {
+        const allEls = container.querySelectorAll('.tl-day, .tl-moment');
+        for (const el of allEls) {
             const rect = el.getBoundingClientRect();
             if (rect.top < triggerY && rect.top > closestTop) {
                 closestTop = rect.top;
-                currentDate = el.dataset.date;
-            }
-        }
-        for (const el of momentEls) {
-            const rect = el.getBoundingClientRect();
-            if (rect.top < triggerY && rect.top > closestTop) {
-                closestTop = rect.top;
-                const dateEl = el.querySelector('.tl-moment-date');
-                if (dateEl) currentDate = dateEl.textContent;
+                currentDate = el.dataset.date || null;
             }
         }
 
-        // Accumulate counts for days that scrolled past the trigger
-        const newCounted = new Set();
-        const scrolledPastTotals = { citizens: 0, observers: 0, immigrants: 0, 'schools-hospitals': 0 };
-
-        for (const el of dayEls) {
-            const rect = el.getBoundingClientRect();
-            if (rect.top < triggerY) {
-                const date = el.dataset.date;
-                newCounted.add(date);
-                const counts = JSON.parse(el.dataset.counts);
-                for (const cat in counts) {
-                    scrolledPastTotals[cat] += counts[cat];
-                }
-            }
+        // Fallback to first visible day if nothing scrolled past yet
+        if (!currentDate) {
+            const firstMonth = this.sortOrder === 'newest'
+                ? this.monthData[this.monthData.length - 1]
+                : this.monthData[0];
+            const firstDay = firstMonth && (this.sortOrder === 'newest'
+                ? firstMonth.days[firstMonth.days.length - 1]
+                : firstMonth.days[0]);
+            if (firstDay) currentDate = firstDay.date;
         }
 
-        const newTotals = { citizens: 0, observers: 0, immigrants: 0, 'schools-hospitals': 0 };
-
-        if (this.sortOrder === 'newest') {
-            // Newest-first: grand totals minus scrolled-past (newer) days = count as of current date
-            for (const cat in newTotals) {
-                newTotals[cat] = this.grandTotals[cat] - scrolledPastTotals[cat];
-            }
-            // Ensure we always show at least the last day's counts
-            const lastMonth = this.monthData[this.monthData.length - 1];
-            const lastDay = lastMonth && lastMonth.days[lastMonth.days.length - 1];
-            if (lastDay && !newCounted.has(lastDay.date)) {
-                if (!currentDate) currentDate = lastDay.date;
-                for (const cat in newTotals) {
-                    newTotals[cat] = this.grandTotals[cat];
-                }
-            }
-        } else {
-            // Oldest-first: accumulate totals as user scrolls
-            for (const cat in scrolledPastTotals) {
-                newTotals[cat] = scrolledPastTotals[cat];
-            }
-            // Always include first day so counters never show zeros
-            const firstDay = this.monthData[0] && this.monthData[0].days[0];
-            if (firstDay && !newCounted.has(firstDay.date)) {
-                newCounted.add(firstDay.date);
-                for (const cat in firstDay.counts) {
-                    newTotals[cat] += firstDay.counts[cat];
-                }
-                if (!currentDate) currentDate = firstDay.date;
-            }
-        }
+        // Look up precomputed cumulative totals for this date
+        const newTotals = currentDate && this.cumulativeByDate[currentDate]
+            ? { ...this.cumulativeByDate[currentDate] }
+            : { citizens: 0, observers: 0, immigrants: 0, 'schools-hospitals': 0 };
 
         // Update totals if changed
         let changed = false;
