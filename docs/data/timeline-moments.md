@@ -253,7 +253,7 @@ title: Drawdown Begins
 incident: 2026-01-27-homan-draw-down-minneapolis
 source:
 ---
-Border czar Tom Homan meets with Governor Tim Walz. Border Patrol Commander Greg Bovino — responsible for the hexachloroethane deployment near Ella Baker school — is removed from Minnesota operations. Both sides agree to ongoing dialogue. However, Homan conditions any further drawdown on what he calls an end to "aggression" from community members, and blames local leaders' rhetoric for the escalation. Enforcement actions continue.
+Border czar Tom Homan meets with Governor Tim Walz. Border Patrol Commander Greg Bovino — responsible for the hexachloroethane deployment near Ella Baker school — is removed from Minnesota operations. Both sides agree to ongoing dialogue. However, Homan conditions any further drawdown on what he calls an end to "aggression" from community members, and blames local leaders' rhetoric for the escalation and reaffirms that enforcement actions will continue.
 
 ---
 date: 2026-01-28
