@@ -9,12 +9,13 @@ affected_individual_citizenship: asylum-seeker
 injuries: none
 trustworthiness: high
 created: 2026-01-22T12:00:00
-last_updated: 2026-02-04T16:19:46
+last_updated: 2026-02-06T16:30:31
 ---
 
 # Five-Year-Old Liam Ramos Detained in Driveway, Allegedly Used as "Bait"
 
 ## Updates
+- **Feb 6** - [DHS filed to deport Liam and his father](https://www.mprnews.org/story/2026/02/05/liam-conejo-ramos-dhs-requests-expedited-deportation-proceedings-for-family) through removal proceedings. Attorney Danielle Molliver called the move "extraordinary" and possibly "retaliatory." DHS spokesperson Tricia McLaughlin called it "standard procedure." The father told NBC News Liam has nightmares and wakes up crying since detention.
 - **Feb 1** - [Liam and his father returned home](https://www.cbsnews.com/news/liam-conejo-ramos-released-ice-custody/) to Minneapolis after being released from the Dilley, Texas detention center. Rep. Joaquin Castro escorted them on the flight home.
 - **Jan 31** - [Federal judge orders release](https://www.sacurrent.com/news/texas-news/federal-judge-orders-release-of-liam-ramos/) of Liam and his father by Tuesday. Judge Fred Biery accused the government of "ill-conceived and incompetently implemented pursuit of daily deportation quotas."
 - **Jan 28** - Liam is [sick with a fever](https://www.huffpost.com/entry/liam-conejo-ramos-sick-ice-detention_n_696fd209e4b0559a85915488) at the Dilley, Texas detention facility. Valley View Elementary principal [got emotional](https://www.cbsnews.com/news/liam-ramos-5-year-old-minneapolis-valley-view-principal-emotional-ice-detention/) describing how his friends "notice that he's not here." School reports 24 families at Valley View have had parents detained.
@@ -43,6 +44,11 @@ Liam Conejo Ramos, a 5-year-old kindergartner, was detained by ICE with his fath
 17. Fox 9 (Feb 1, 2026): [Liam is home: 5-year-old boy and his father back in Minnesota](https://www.fox9.com/news/liam-is-home-5-year-old-boy-his-father-back-minnesota-feb-1)
 18. MPR News (Feb 1, 2026): [Liam Conejo Ramos, 5, returned to Minnesota following judge's order](https://www.mprnews.org/story/2026/02/01/liam-conejo-ramos-5-returned-to-minnesota-following-judges-order)
 19. ABC News (Feb 1, 2026): [5-year-old Liam Conejo Ramos, father board plane to return to Minneapolis](https://abcnews.go.com/US/5-year-liam-conejo-ramos-father-board-plane/story?id=129749784)
+20. MPR News (Feb 5, 2026): [DHS requests expedited deportation proceedings against family of Liam Conejo Ramos](https://www.mprnews.org/story/2026/02/05/liam-conejo-ramos-dhs-requests-expedited-deportation-proceedings-for-family)
+21. Reuters (Feb 6, 2026): [US moves to deport 5-year-old detained in Minnesota](https://www.yahoo.com/news/articles/us-moves-deport-5-old-200241547.html)
+22. NBC News (Feb 6, 2026): [Father says 5-year-old son has nightmares and wakes up crying since immigration detention](https://www.nbcnews.com/news/us-news/father-says-5-year-old-son-nightmares-wakes-crying-immigration-detenti-rcna257718)
+23. Scripps News (Feb 6, 2026): [DHS fast-tracks 5-year-old Liam Ramos and his father for deportation](https://www.nbc26.com/politics/immigration/dhs-fast-tracks-5-year-old-liam-ramos-and-his-father-for-deportation)
+24. NOTUS (Feb 6, 2026): [Democratic Lawmaker Says Trump Administration Is 'Trying to Take' Liam Conejo Ramos Again](https://www.notus.org/immigration/trump-administration-liam-conejo-ramos-deportation)
 
 ## Related Incidents
 - [DHS Response: "Child Was ABANDONED," Father "Fled on Foot"](#2026-01-21-dhs-response-5-year-old-bait)
@@ -80,6 +86,7 @@ Liam Conejo Ramos, a 5-year-old kindergartner, was detained by ICE with his fath
 - **January 28, 2026** - Liam is sick with a fever at Dilley detention facility.
 - **January 31, 2026** - Judge Biery orders release of Liam and his father by Tuesday, accusing government of "ill-conceived and incompetently implemented pursuit of daily deportation quotas."
 - **February 1, 2026** - Liam and his father released from Dilley. Rep. Joaquin Castro escorts them on flight home to Minneapolis.
+- **February 5-6, 2026** - DHS files removal proceedings against Liam and his father. Attorney Danielle Molliver calls the move "extraordinary" and possibly "retaliatory." DHS calls it "standard procedure."
 
 ## Official Accounts
 
