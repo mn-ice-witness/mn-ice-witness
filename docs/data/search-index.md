@@ -15,7 +15,7 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (193 incidents)
+## CURRENT (194 incidents)
 
 Published incidents visible on the main site.
 
@@ -178,6 +178,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/07/2026-01-07-un-mundo-nuevo-teacher-tricked.md | 2026-01-07 | Burnsville | schools-hospitals, immigrants | Daycare Teacher Tricked with Fake Car Accident Claim, Detained for 10 Minutes
 - incidents/2026-01/07/2026-01-07-pickup-truck-rams-protesters.md | 2026-01-07 | Minneapolis | observers | Federal Agents Ram White Pickup Truck Into Protesters
 - incidents/2026-01/06/2026-01-06-2000-agents-deployed.md | 2026-01-06 | Minneapolis | background | DHS Deploys 2,000 Additional Agents to Minnesota
+- incidents/2026-01/06/2026-01-06-levy-observers-followed-home.md | 2026-01-06 | St. Paul | observers | ICE Agent Calls Observer "Judith" by Name After Running Plates; Agents Then Drive to Couple's Home
 - incidents/2026-01/06/2026-01-06-elizabeth-caisaguano-detained.md | 2026-01-06 | Columbia Heights | schools-hospitals, immigrants | Ten-Year-Old Elizabeth Caisaguano Detained with Mother, Held Nearly One Month in Texas
 - incidents/2026-01/06/2026-01-06-emmanuel-sackie-brooklyn-park.md | 2026-01-06 | Brooklyn Park | citizens | Naturalized U.S. Citizen Hospitalized After ICE Encounter
 - incidents/2026-01/06/2026-01-06-bloomington-wilderness-inquiry.md | 2026-01-06 | Bloomington | immigrants | Man Seeks Refuge in Bloomington Office During 2-Hour ICE Standoff
