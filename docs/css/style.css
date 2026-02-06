@@ -1852,13 +1852,13 @@ body {
     transform: scale(1.05);
 }
 
-/* Mobile: float right, larger than desktop ratio */
+/* Mobile: stack full-width above content */
 @media (max-width: 768px) {
     .local-media-container {
-        float: right;
-        width: 66%;
+        float: none;
+        width: 100%;
         max-width: none;
-        margin: 0 0 12px 12px;
+        margin: 0 0 16px 0;
     }
 }
 
