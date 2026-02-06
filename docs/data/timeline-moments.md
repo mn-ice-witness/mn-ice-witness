@@ -84,7 +84,7 @@ title: "Citizen Checks" Begin
 incident: 2026-01-08-ahmed-hassan-uber-driver
 source:
 ---
-In what would become a pattern of racially profiled "citizen checks," Somali-American U.S. citizen Ahmed Bin Hassan, an Uber driver, is confronted by over a dozen masked agents at the airport. An agent tells him: "I can hear you don't have the same accent as me." The viral video becomes a symbol of racial profiling — in the weeks that follow, dozens of U.S. citizens of color are stopped and ordered to prove their citizenship, including Nimco Omar, a Somali-American woman surrounded by four masked agents who demanded her ID during what they called a "citizen check" while she was walking near a mall.
+In what would become a pattern of racially profiled "citizen checks," Somali-American U.S. citizen Ahmed Bin Hassan, an Uber driver, is confronted by over a dozen masked agents at the airport. An agent tells him: "I can hear you don't have the same accent as me." The viral video becomes a symbol of racial profiling — in the weeks that follow, dozens of U.S. citizens of color are stopped and ordered to prove their citizenship, including [Nimco Omar](/entry/2026-01-12-nimco-omar-citizen-check), a Somali-American woman surrounded by four masked agents who demanded her ID during what they called a "citizen check" while she was walking near a mall.
 
 ---
 date: 2026-01-08
@@ -294,3 +294,11 @@ incident: 2026-02-04-trump-softer-touch-interview
 source:
 ---
 In an NBC interview before the Super Bowl, President Trump says the administration has learned to use "a little bit of a softer touch" after the fatal shootings of two U.S. citizens — but calls the people his agents killed "not angels," saying: "He was not an angel, and she was not an angel." Border czar Tom Homan announces 700 agents will be withdrawn immediately — but approximately 2,000 federal agents remain in Minnesota, more than 13 times the pre-surge level of roughly 150. Homan states: "We're not surrendering the president's mission on a mass-deportation operation." Enforcement actions continue.
+
+---
+date: 2026-02-06
+title: DHS Moves to Deport 5-Year-Old Liam Ramos
+incident: 2026-01-20-liam-ramos-detained
+source:
+---
+Two days after Trump promises a "softer touch," DHS files removal proceedings against 5-year-old Liam Conejo Ramos and his father — the same family whose detention in Columbia Heights drew international condemnation. Attorney Danielle Molliver calls the move "extraordinary" and possibly "retaliatory." DHS spokesperson Tricia McLaughlin calls it "standard procedure." Liam's father tells NBC News the boy has nightmares and wakes up crying since their 12 days in the Dilley detention facility. The family remains in hiding in Minneapolis.
