@@ -38,9 +38,12 @@ In an NBC News interview ahead of the 2026 Super Bowl, President Trump said the 
 The interview came after two U.S. citizens were fatally shot by federal immigration agents in Minneapolis: Renee Good on January 7 and Alex Pretti on January 25. The same day as the interview, border czar Tom Homan announced 700 federal officers would be withdrawn, leaving approximately 2,000 agents. Before Operation Metro Surge, only about 80-150 federal immigration agents operated in the Minneapolis area.
 
 ### Rhetoric vs. Policy
-Despite the softer rhetoric, the interview signaled tactical recalibration rather than policy change. Homan stated the same day: "We're not surrendering the president's mission on a mass-deportation operation. President Trump fully intends to achieve mass deportations during this administration."
+Despite the softer rhetoric, the interview signaled tactical recalibration rather than policy change. Homan stated the same day: "We're not surrendering the president's mission on a mass-deportation operation. President Trump fully intends to achieve mass deportations during this administration." Homan tied the full drawdown to the end of what he called "aggression against federal agents by community members," effectively conditioning the withdrawal on public compliance rather than setting a firm timeline.
 
 Mayor Jacob Frey responded: "2,000 ICE officers still here is not de-escalation... Operation Metro Surge has been catastrophic for our residents and businesses. It needs to end immediately."
+
+### Staffing in Perspective
+Before Operation Metro Surge, approximately 80-150 federal immigration agents operated in the Minneapolis–St. Paul area. After the announced withdrawal of 700, roughly 2,000 agents remain — more than 13 times the normal level. Homan stated his goal is to eventually return to approximately 150 agents, but offered no timeline. Meanwhile, enforcement actions continue: ICE has made more than 4,000 arrests since the operation began in December, and 158 people were arrested in January alone for impeding or assaulting federal officers, with 85 cases accepted for prosecution.
 
 ### The "Criminals" Claim
 Trump stated the administration was "totally focused on criminals, really bad criminals" and cited "11,888 murderers" entering the U.S. under the previous administration.
