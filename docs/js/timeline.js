@@ -236,7 +236,7 @@ const Timeline = {
                 <div class="tl-moment-content">
                     <div class="tl-moment-date">${dateStr}</div>
                     <h4 class="tl-moment-title">${moment.title}</h4>
-                    <p class="tl-moment-desc">${moment.body}</p>
+                    <p class="tl-moment-desc">${this.renderLinks(moment.body)}</p>
                     ${sourceHTML}
                     ${imgHTML}
                 </div>
@@ -282,6 +282,11 @@ const Timeline = {
         'immigrants': 'IMMIGRANT',
         'schools-hospitals': 'SCHOOLS',
         'response': 'RESPONSE'
+    },
+
+    renderLinks(text) {
+        return text.replace(/\[([^\]]+)\]\(([^)]+)\)/g,
+            '<a class="tl-inline-link" href="$2" target="_blank" rel="noopener">$1</a>');
     },
 
     getCategoryTag(incident) {
@@ -426,6 +431,9 @@ const Timeline = {
         }
 
         this._clickHandler = (e) => {
+            // Let inline links and source links navigate normally
+            if (e.target.closest('.tl-inline-link') || e.target.closest('.tl-moment-source')) return;
+
             // Check "more" first so it doesn't get caught by anything else
             const dayMore = e.target.closest('.tl-day-more');
             if (dayMore) {
