@@ -179,6 +179,7 @@
     margin: 10px 0;
     background: var(--color-bg);
     z-index: 1;
+    scroll-margin-top: var(--tl-scroll-clearance, 200px);
 }
 
 .tl-moment-line {
@@ -265,6 +266,7 @@
 .tl-day {
     position: relative;
     padding: 4px 0 4px 32px;
+    scroll-margin-top: var(--tl-scroll-clearance, 200px);
 }
 
 .tl-day-marker {
