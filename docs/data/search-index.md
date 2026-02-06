@@ -15,7 +15,7 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (199 incidents)
+## CURRENT (201 incidents)
 
 Published incidents visible on the main site.
 
@@ -141,6 +141,8 @@ Published incidents visible on the main site.
 - incidents/2026-01/12/2026-01-12-minnesota-sues-to-halt-operation.md | 2026-01-12 | Minneapolis | background | Minnesota Sues Federal Government to Halt Operation Metro Surge
 - incidents/2026-01/12/2026-01-12-garrison-gibson-battering-ram.md | 2026-01-12 | Minneapolis | immigrants | Liberian Man Arrested With Battering Ram, No Judicial Warrant
 - incidents/2026-01/11/2026-01-11-dhs-response-speedway-bystander.md | 2026-01-11 | St. Paul | response | DHS Response: Speedway Bystander "Hit an Officer"
+- incidents/2026-01/11/2026-01-11-dennis-hernandez-ramirez-detained.md | 2026-01-11 | Minneapolis | citizens | Green Card Holder Roughed Up by Agents, Held Over 10 Hours, Offered Money to Identify Immigrants
+- incidents/2026-01/11/2026-01-11-skye-elizabeth-marine-veteran-detained.md | 2026-01-11 | Minneapolis | observers | Marine Veteran Dragged From Car, Ankle Twisted, Called "It" by ICE Agents
 - incidents/2026-01/11/2026-01-11-observer-shoved-into-traffic.md | 2026-01-11 | Minneapolis | observers | Observer Shoved Into Oncoming Traffic While Filming ICE
 - incidents/2026-01/11/2026-01-11-speedway-st-paul.md | 2026-01-11 | St. Paul | observers | Bystander Filming ICE Arrest Tackled and Detained at Speedway
 - incidents/2026-01/11/2026-01-11-observer-phone-snatched.md | 2026-01-11 | Minneapolis | observers | "Have You All Not Learned Over the Last Couple of Days": Agent Snatches Phone from Observer

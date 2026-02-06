@@ -27,6 +27,8 @@ At a Speedway gas station, federal agents smashed a man's car window to arrest h
 7. CNN Video (Jan 13, 2026): [Tackle from different angle](https://www.cnn.com/2026/01/13/us/video/border-patrol-agents-tackle-anti-ice-protester-digvid)
 8. Mediaite Video (Jan 13, 2026): [Fox News airs footage](https://www.mediaite.com/media/tv/fox-news-airs-footage-of-man-mauled-by-feds-at-gas-station-as-graphic-says-ice-agents-are-doing-their-jobs/)
 9. Facebook Reel (Jan 15, 2026): [Speedway arrest footage](https://www.facebook.com/reel/2019008555624601)
+10. Status Coup News (Jan 2026): [Border Patrol Violently Invades Gas Station and Attacks U.S. Citizens](https://www.statuscoupsubstack.com/p/border-patrol-violently-invades-gas)
+11. YouTube Video (Jan 2026): [Coup News interview with Lalo Rios Meza](https://www.youtube.com/watch?v=KAKwl9p8YdY)
 
 ## Affected Individual(s)
 
@@ -35,8 +37,11 @@ At a Speedway gas station, federal agents smashed a man's car window to arrest h
 - **Status:** Had 2020 removal order (per DHS)
 
 ### Bystander Arrested
+- **Name:** Lalo Rios Meza
+- **Age:** 22
 - **Citizenship:** U.S. Citizen
-- **What happened:** Filming, told to back up, complied, then shoved, tackled, detained
+- **What happened:** Filming, told to back up, complied, then shoved, tackled, detained. Rios Meza told Status Coup: "I was recording them talking to the guy in the jeep, they told me to step back, I complied and seconds later an agent rushed at me and swung at my face and got tackled."
+- **Detained:** Approximately 6-7 hours at federal building at Fort Snelling
 - **Status:** Released Sunday night
 
 ## Key Players Present
