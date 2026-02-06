@@ -107,7 +107,7 @@
     top: 0;
     bottom: 0;
     width: 2px;
-    background: var(--color-border);
+    background: #c0c0c0;
 }
 
 /* ==================== YEAR HEADERS ==================== */
@@ -183,10 +183,10 @@
     position: absolute;
     left: 15px;
     top: 14px;
-    width: 20px;
-    height: 20px;
+    width: 26px;
+    height: 26px;
     border-radius: 50%;
-    background: var(--color-border);
+    background: #c0c0c0;
     border: 3px solid var(--color-bg);
     box-shadow: 0 0 0 3px var(--color-bg);
     transform: translateX(-50%);
@@ -279,10 +279,10 @@
     position: absolute;
     left: 15px;
     top: 12px;
-    width: 8px;
-    height: 8px;
+    width: 10px;
+    height: 10px;
     border-radius: 50%;
-    background: var(--color-border);
+    background: #c0c0c0;
     border: 2px solid var(--color-surface);
     transform: translateX(-50%);
     z-index: 2;
@@ -482,8 +482,8 @@
 
     .tl-moment-line {
         left: 11px;
-        width: 16px;
-        height: 16px;
+        width: 20px;
+        height: 20px;
     }
 
     .tl-moment-content {
