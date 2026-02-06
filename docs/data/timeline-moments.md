@@ -20,7 +20,7 @@ title: Guns Pointed at Elderly Couple Observing ICE
 incident: 2025-12-07-biestman-lee-guns-pointed
 source:
 ---
-An early sign of how the operation would treat those who watched. John Biestman and Janet Lee, a married couple in their late 60s from Linden Hills, follow an ICE vehicle after witnessing a raid at Church of the Assumption in Richfield. Agents box in their car and point guns at them. The couple later become named plaintiffs in the [ACLU of Minnesota's federal lawsuit](https://www.aclu-mn.org/press-releases/1a/) challenging ICE's treatment of observers — the first legal action to establish that watching federal agents is a constitutionally protected activity.
+An early sign of how the operation would treat those who watched. John Biestman and Janet Lee, a married couple in their late 60s from Linden Hills, follow an ICE vehicle after witnessing a raid at Church of the Assumption in Richfield. Agents box in their car and point guns at them. The couple later become named plaintiffs in the ACLU of Minnesota's federal lawsuit challenging ICE's treatment of observers — the first legal action to establish that watching federal agents is a constitutionally protected activity.
 
 ---
 date: 2025-12-21
@@ -52,7 +52,7 @@ title: Border Patrol Raids Roosevelt High School
 incident: 2026-01-07-roosevelt-high-school
 source:
 ---
-The first federal raid on a school. Border Patrol agents descend on Roosevelt High School during dismissal, tackle people on school grounds, and deploy chemical irritants. A special education assistant — a U.S. citizen — is detained. Minneapolis Public Schools cancels classes for the rest of the week. Former Governor Jesse Ventura, a Roosevelt graduate, [visits the next day](/entry/2026-01-08-jesse-ventura-roosevelt) and calls ICE "the draft-dodging coward's Gestapo."
+The first federal raid on a school. Border Patrol agents descend on Roosevelt High School during dismissal, tackle people on school grounds, and deploy chemical irritants. A special education assistant — a U.S. citizen — is detained. Minneapolis Public Schools cancels classes for the rest of the week. Former Governor Jesse Ventura, a Roosevelt graduate, [visits the next day](/entry/2026-01-08-jesse-ventura-roosevelt) and calls ICE "the draft-dodging coward's Gestapo." Ventura directly targets Trump, warning "this is what happens in a dictatorship" and comparing the administration's tactics to 1930s Germany. He tells reporters the country is becoming a "third-world country" where the military does police work in American cities.
 
 ---
 date: 2026-01-08
@@ -60,7 +60,7 @@ title: "Citizen Checks" Begin
 incident: 2026-01-08-ahmed-hassan-uber-driver
 source:
 ---
-The first widely reported "citizen check." Somali-American U.S. citizen Ahmed Bin Hassan, an Uber driver, is confronted by over a dozen masked agents at the airport. An agent tells him: "I can hear you don't have the same accent as me." The viral video becomes a symbol of racial profiling — in the weeks that follow, dozens of U.S. citizens of color are stopped and ordered to prove their citizenship, including [Nimco Omar](/entry/2026-01-12-nimco-omar-citizen-check), a Somali-American woman surrounded by four masked agents who demanded her ID during what they called a "citizen check" while she was walking near a mall.
+The first widely reported "citizen check." Somali-American U.S. citizen Ahmed Bin Hassan, an Uber driver, is confronted by over a dozen masked agents at the airport. An agent tells him: "I can hear you don't have the same accent as me." The viral video becomes a symbol of racial profiling — in the weeks that follow, dozens of U.S. citizens of color are stopped and ordered to prove their citizenship, including Nimco Omar, a Somali-American woman surrounded by four masked agents who demanded her ID during what they called a "citizen check" while she was walking near a mall.
 
 ---
 date: 2026-01-09
@@ -93,7 +93,7 @@ title: First Major Coverage of Observer Detentions
 incident: 2026-01-11-siguenza-okeefe-detained
 source:
 ---
-The story that brought observer detentions into the mainstream. Brandon Sigüenza and Patty O'Keefe, both U.S. citizens monitoring ICE activity, are detained for 8 hours without charges. Agents pepper-spray their car, smash windows, and interrogate them about protest organizers, offering deals in exchange for names. O'Keefe later describes witnessing holding cells with men, women, and children — "the screaming, wailing and pleading... will forever haunt me." Jana Shortal's [KARE 11 interview](https://www.youtube.com/watch?v=Inn-sfiMcyE) with Sigüenza becomes the first widely shared local news segment on the systematic detention and intimidation of observers, shifting public awareness of how the operation targeted not just immigrants but anyone watching.
+The story that brought observer detentions into the mainstream. Brandon Sigüenza and Patty O'Keefe, both U.S. citizens monitoring ICE activity, are detained for 8 hours without charges. Agents pepper-spray their car, smash windows, and interrogate them about protest organizers, offering deals in exchange for names. O'Keefe later describes witnessing holding cells with men, women, and children — "the screaming, wailing and pleading... will forever haunt me." Jana Shortal's KARE 11 interview with Sigüenza becomes the first widely shared local news segment on the systematic detention and intimidation of observers, shifting public awareness of how the operation targeted not just immigrants but anyone watching.
 
 ---
 date: 2026-01-12
@@ -109,7 +109,7 @@ title: Parents Detained Days After Green Card Approval
 incident: 2026-01-12-silva-sosa-inver-grove-heights
 source:
 ---
-A window into [Operation PARRIS](https://www.fox9.com/news/minnesota-fraud-dhs-launching-operation-parris-target-refugees-jan-9) (Post-Admission Refugee Reverification and Integrity Strengthening), a parallel enforcement program targeting approximately [5,600 green card applicants](https://www.twincities.com/2026/01/18/5600-green-card-applicants-in-minnesota-targeted-through-operation-parris/) in Minnesota. The Silva Sosa parents — who have lived in Minnesota since 1999, own a business, and pay taxes — are detained during a traffic stop in Inver Grove Heights just five days after their I-130 petition is approved. They are flown to an El Paso detention facility. The case illustrates how Operation PARRIS ran alongside Metro Surge, [arresting over 100 lawfully present refugees](https://capitalandmain.com/amid-the-violent-minnesota-raids-ice-arrests-over-100-refugees-ships-many-to-texas) and shipping them to Texas before a [federal judge halted the program](https://www.wctrib.com/news/local/federal-judge-orders-temporary-halt-to-operation-parris-activities-in-minnesota) on January 28.
+A window into Operation PARRIS (Post-Admission Refugee Reverification and Integrity Strengthening), a parallel enforcement program targeting approximately 5,600 green card applicants in Minnesota. The Silva Sosa parents — who have lived in Minnesota since 1999, own a business, and pay taxes — are detained during a traffic stop in Inver Grove Heights just five days after their I-130 petition is approved. They are flown to an El Paso detention facility. The case illustrates how Operation PARRIS ran alongside Metro Surge, arresting over 100 lawfully present refugees and shipping them to Texas before a federal judge halted the program on January 28.
 
 ---
 date: 2026-01-13
@@ -125,7 +125,7 @@ title: North Minneapolis Erupts; Six Children Hospitalized After Flashbangs Hit 
 incident: 2026-01-14-shawn-jackson-children-tear-gas
 source:
 ---
-The night North Minneapolis erupted. After an ICE agent [shoots a man during a traffic stop](https://sahanjournal.com/public-safety/north-minneapolis-ice-shooting-report-immigration/) on 24th Avenue North, protests erupt and the neighborhood descends into chaos. In the escalation, agents deploy flashbang grenades and tear gas under an SUV carrying Shawn Jackson and his six children, ages 6 months to 11. The baby stops breathing and requires CPR. Three children are hospitalized. Agents refuse to call 911. Mayor Frey holds a late-night press conference calling federal agents' behavior ["disgusting and intolerable."](/entry/2026-01-16-trump-insurrection-act-threat) DHS [fires back](/entry/2026-01-14-dhs-response-frey-sanctuary), blaming Frey's sanctuary policies. The incident becomes a turning point in national media coverage.
+The night North Minneapolis erupted. After an ICE agent shoots a man during a traffic stop on 24th Avenue North, protests erupt and the neighborhood descends into chaos. In the escalation, agents deploy flashbang grenades and tear gas under an SUV carrying Shawn Jackson and his six children, ages 6 months to 11. The baby stops breathing and requires CPR. Three children are hospitalized. Agents refuse to call 911. Mayor Frey holds a late-night press conference calling federal agents' behavior "disgusting and intolerable." DHS fires back, blaming Frey's sanctuary policies. The incident becomes a turning point in national media coverage.
 
 ---
 date: 2026-01-16
@@ -149,7 +149,7 @@ title: Federal Officials Insist Operation Targets "Criminals and Rapists"
 incident: 2026-01-18-noem-pepper-spray-denial-backtrack
 source:
 ---
-Part of a sustained federal messaging campaign to justify the operation. DHS Secretary Kristi Noem tells CBS's "Face the Nation" that agents are targeting "criminals and rapists," denies use of pepper spray — then backtracks when shown video evidence. President Trump echoes the theme on social media, claiming ICE is capturing ["murderers & criminals"](/entry/2026-01-20-trump-vicious-animals-statement) and that there are "thousands of vicious animals in MN alone." The claims are contradicted by the operation's own record: the majority of documented incidents involve U.S. citizens, legal residents, bystanders, and children.
+Part of a sustained federal messaging campaign to justify the operation. DHS Secretary Kristi Noem tells CBS's "Face the Nation" that agents are targeting "criminals and rapists," denies use of pepper spray — then backtracks when shown video evidence. President Trump echoes the theme on social media, claiming ICE is capturing "murderers & criminals" and that there are "thousands of vicious animals in MN alone." The claims are contradicted by the operation's own record: the majority of documented incidents involve U.S. citizens, legal residents, bystanders, and children.
 
 ---
 date: 2026-01-20
@@ -173,7 +173,7 @@ title: Star Tribune Photo Captures Point-Blank Pepper Spray
 incident: 2026-01-21-observer-pinned-pepper-sprayed-face
 source:
 ---
-The defining photograph of the operation. Star Tribune photographer [Richard Tsong-Taatarii captures the moment](https://www.startribune.com/ice-raids-minnesota/601546426) an ICE agent sprays chemical irritant directly into the face of an observer pinned to the ground by multiple agents at 28th and Blaisdell in south Minneapolis. The image [runs on the Star Tribune's front page](https://www.yahoo.com/news/articles/local-minnesota-paper-runs-front-210500571.html) two days later alongside coverage of 5-year-old Liam Ramos's detention, and is [picked up by the New York Times](https://www.nytimes.com/2026/01/23/us/minneapolis-man-pepper-sprayed-pinned-video.html) and media worldwide. The incident occurred four days after a federal judge had explicitly barred agents from using pepper spray on observers and protesters.
+An iconic photo shared widely across social media and news outlets. Star Tribune photographer Richard Tsong-Taatarii captures the moment an ICE agent sprays chemical irritant directly into the face of an observer pinned to the ground by multiple agents at 28th and Blaisdell in south Minneapolis. The image runs on the Star Tribune's front page two days later alongside coverage of 5-year-old Liam Ramos's detention, and is picked up by the New York Times and media worldwide. The incident occurred four days after a federal judge had explicitly barred agents from using pepper spray on observers and protesters.
 
 ---
 date: 2026-01-21
@@ -205,7 +205,7 @@ title: Drawdown Begins
 incident: 2026-01-27-homan-draw-down-minneapolis
 source:
 ---
-The first sign of federal retreat. Border czar Tom Homan [meets with Governor Tim Walz](https://www.npr.org/2026/01/27/nx-s1-5690183/minnesota-gov-tim-walz-and-border-czar-tom-homan-begin-talks-over-ice-surge). The divisive Border Patrol Commander Greg Bovino — responsible for the hexachloroethane deployment near Ella Baker school — is removed from Minnesota operations. Both sides agree to ongoing dialogue and a "changed tone."
+The first sign of federal retreat. Border czar Tom Homan meets with Governor Tim Walz. The divisive Border Patrol Commander Greg Bovino — responsible for the hexachloroethane deployment near Ella Baker school — is removed from Minnesota operations. Both sides agree to ongoing dialogue and a "changed tone."
 
 ---
 date: 2026-01-28
@@ -213,7 +213,7 @@ title: Judge Finds 96 Court Orders Violated
 incident: 2026-01-27-tobay-robles-lyons-contempt
 source:
 ---
-An extraordinary judicial rebuke. Minnesota Chief Judge Patrick Schiltz — a George W. Bush appointee — finds ICE has [violated 96 court orders](https://www.npr.org/2026/01/31/nx-s1-5693175/judge-says-immigration-and-customs-enforcement-has-violated-96-court-orders-this-month-in-minn) in January 2026 alone, stating ICE likely violated more orders in one month "than some federal agencies have violated in their entire existence." The ruling comes after Judge Schiltz summoned ICE Acting Director Todd Lyons to explain why he should not be held in contempt.
+An extraordinary judicial rebuke. Minnesota Chief Judge Patrick Schiltz — a George W. Bush appointee — finds ICE has violated 96 court orders in January 2026 alone, stating ICE likely violated more orders in one month "than some federal agencies have violated in their entire existence." The ruling comes after Judge Schiltz summoned ICE Acting Director Todd Lyons to explain why he should not be held in contempt.
 
 ---
 date: 2026-01-30
@@ -221,7 +221,7 @@ title: Local Police Chief Retrieves Citizen from ICE Custody
 incident: 2026-01-30-st-peter-police-chief-intervenes
 source:
 ---
-Widely reported as the first instance of local law enforcement intervening in an ICE operation during the surge. After a U.S. citizen woman is dragged from her car, handcuffed, and transported toward the Twin Cities federal detention facility for recording ICE agents, her husband calls St. Peter Police Chief Matt Grochow. The chief contacts ICE and secures her return — telling the husband: "I got her. I'm bringing her home." The story spreads nationally, but the City of St. Peter subsequently issues a statement [denying the police department](https://www.npr.org/2026/02/01/nx-s1-5695217/minnesota-woman-says-local-police-freed-her-from-immigration-agents-custody) "participated in, coordinated with or intervened in any federal enforcement activity" — walking back the chief's own account.
+Widely reported as the first instance of local law enforcement intervening in an ICE operation during the surge. After a U.S. citizen woman is dragged from her car, handcuffed, and transported toward the Twin Cities federal detention facility for recording ICE agents, her husband calls St. Peter Police Chief Matt Grochow. The chief contacts ICE and secures her return — telling the husband: "I got her. I'm bringing her home." The story spreads nationally, but the City of St. Peter subsequently issues a statement denying the police department "participated in, coordinated with or intervened in any federal enforcement activity" — walking back the chief's own account.
 
 ---
 date: 2026-02-01
@@ -229,7 +229,7 @@ title: Liam Ramos Released from Detention
 incident: 2026-01-20-liam-ramos-detained
 source:
 ---
-A legal victory after national outcry. U.S. District Judge Fred Biery [orders the release](https://www.pbs.org/newshour/nation/5-year-old-liam-conejo-ramos-and-his-father-released-from-texas-detention-facility-following-judges-order) of 5-year-old Liam Ramos and his father from the Dilley detention facility after 12 days in custody. The judge describes the case as having "its genesis in the ill-conceived and incompetently implemented government pursuit of daily deportation quotas." They return to Minnesota the following morning.
+A legal victory after national outcry. U.S. District Judge Fred Biery orders the release of 5-year-old Liam Ramos and his father from the Dilley detention facility after 12 days in custody. The judge describes the case as having "its genesis in the ill-conceived and incompetently implemented government pursuit of daily deportation quotas." They return to Minnesota the following morning.
 
 ---
 date: 2026-02-04
@@ -237,4 +237,4 @@ title: Partial Drawdown Announced
 incident: 2026-02-04-trump-softer-touch-interview
 source:
 ---
-The operation begins to wind down. Border czar Tom Homan [announces 700 immigration officers](https://www.mprnews.org/story/2026/02/04/tom-homan-border-czar-immigration-surge-minnesota-press-conference) will be immediately withdrawn from Minnesota, though approximately 2,000 federal agents remain. Only 7 of 87 Minnesota county sheriffs have signed cooperation agreements with ICE, reflecting the near-total refusal of local law enforcement to assist the operation.
+The operation begins to wind down. Border czar Tom Homan announces 700 immigration officers will be immediately withdrawn from Minnesota, though approximately 2,000 federal agents remain. Only 7 of 87 Minnesota county sheriffs have signed cooperation agreements with ICE, reflecting the near-total refusal of local law enforcement to assist the operation.
