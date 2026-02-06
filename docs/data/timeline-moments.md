@@ -24,11 +24,11 @@ An early sign of how the operation would treat those who watched. John Biestman 
 
 ---
 date: 2025-12-15
-title: Pregnant Woman Dragged Through Snow at Karmel Mall
+title: Pregnant Somali Woman Dragged Through Snow at Karmel Mall
 incident: 2025-12-15-karmel-mall-pregnant-woman
 source:
 ---
-The first nationally viral moment of the operation. ICE agents swarm Karmel Mall — the nation's first Somali shopping center — and detain at least four people. A pregnant Somali woman is grabbed and dragged through the snow as bystanders scream. Video goes viral on TMZ and national outlets; the Minneapolis Police Chief condemns the agents' actions. The next day, [Abdikadir Noor](/entry/2025-12-16-abdikadir-noor-karmel-mall), a 45-year-old who has been a U.S. citizen for 20 years, is arrested at the same mall while getting coffee. During processing, an ICE agent tells him "Somalis should go back home." The mall falls silent in the weeks that follow — the first of many community gathering places emptied by the operation.
+The first nationally viral moment of the operation. ICE agents swarm Karmel Mall — the nation's first Somali shopping center — and detain at least four people. A pregnant Somali woman is grabbed and dragged through the snow as bystanders scream. Video goes viral on TMZ and national outlets; the Minneapolis Police Chief condemns the agents' actions. The next day, [Abdikadir Noor](/entry/2025-12-16-abdikadir-noor-karmel-mall), a 45-year-old who has been a U.S. citizen for 20 years, is arrested at the same mall while getting coffee. During processing, an ICE agent tells him "Somalis should go back home." The Karmel Mall raids come less than two weeks after Trump [called Somali immigrants "garbage"](https://abcnews.go.com/Politics/trump-describes-somali-immigrants-garbage-amid-feud-minnesota/story?id=128069199) during a Cabinet meeting. The mall falls silent in the weeks that follow — the first of many community gathering places emptied by the operation.
 
 ---
 date: 2025-12-21
