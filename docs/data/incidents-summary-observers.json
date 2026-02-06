@@ -801,13 +801,18 @@
       "lastUpdated": "2026-02-06T12:50:46",
       "mediaCount": 0,
       "notable": false,
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
-      "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
+      "hasLocalMedia": true,
+      "localMediaType": "video",
+      "localMediaPath": "media/2026-01/11/2026-01-11-skye-elizabeth-marine-veteran-detained.mp4",
+      "localMediaOgPath": "media/2026-01/11/2026-01-11-skye-elizabeth-marine-veteran-detained-og-2s-1770406050.jpg",
+      "localMediaFiles": [
+        {
+          "type": "video",
+          "path": "media/2026-01/11/2026-01-11-skye-elizabeth-marine-veteran-detained.mp4"
+        }
+      ],
+      "aspectRatio": 1.7254901960784315,
+      "mediaVersion": 1770406050
     },
     {
       "filePath": "incidents/2026-01/11/2026-01-11-observer-shoved-into-traffic.md",

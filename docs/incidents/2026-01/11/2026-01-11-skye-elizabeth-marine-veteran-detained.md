@@ -28,7 +28,7 @@ Skye, a disabled U.S. Marine Corps veteran, and her friend Elizabeth were pulled
 
 ### Skye (last name withheld)
 - **Citizenship:** U.S. Citizen
-- **Background:** Disabled U.S. Marine Corps veteran, Minneapolis resident, participating in citizen observer efforts
+- **Background:** Disabled U.S. Marine Corps veteran, Minneapolis resident, friend and neighbor of Renee Good. Participating in citizen observer efforts.
 
 ### Elizabeth (last name withheld)
 - **Citizenship:** U.S. Citizen
@@ -47,7 +47,7 @@ Skye and Elizabeth were following and peacefully observing ICE agents from their
 - Skye was thrown to the ground and stomped on by multiple agents.
 - Her face was pushed into the pavement.
 - Agents twisted her ankle; an agent said "Yeah, I bet you fucking like that, don't you?"
-- Handcuffs were applied so tightly it took six agents to remove them.
+- Handcuffs were applied so tightly her wrists bled and it took six agents to remove them.
 
 ### Anti-Queer Harassment
 - When Skye identified herself as a Marine Corps veteran, an agent responded: "I don't care what you are."
@@ -57,9 +57,13 @@ Skye and Elizabeth were following and peacefully observing ICE agents from their
 ### At Whipple Federal Building
 - While being transported, an agent referenced the killing of Renee Good, then pulled Skye out for additional assault.
 - At Whipple, agents stated: "Have you not learned? This is why we killed that lesbian bitch."
-- Skye and Elizabeth were held in the same cell as Patty O'Keefe, who independently described two Marine veterans in her cell in her USA Today account.
+- Skye and Elizabeth were held approximately 7 hours.
+- Held in the same cell as Patty O'Keefe, who independently described two Marine veterans in her cell in her USA Today account.
 
 ## Key Quotes
+
+On why she was observing ICE:
+> "They shot my neighbor in the face this week. That's what I'm out here to prevent."
 
 On her duty as a veteran:
 > "This is my duty. I took an oath to defend the United States of America against all enemies, foreign and domestic. [ICE agents] are terrorizing our citizens."
