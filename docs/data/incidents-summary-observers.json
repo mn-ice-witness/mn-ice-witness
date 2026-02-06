@@ -1176,6 +1176,37 @@
       "mediaVersion": 1769912968
     },
     {
+      "filePath": "incidents/2026-01/06/2026-01-06-levy-observers-followed-home.md",
+      "title": "ICE Agent Calls Observer \"Judith\" by Name After Running Plates; Agents Then Drive to Couple's Home",
+      "summary": "Judy and Noah Levy, a St. Paul couple, followed a caravan of eight ICE SUVs after receiving a tip that agents were staging in a nearby parking lot on January 6. After agents surrounded observers' cars and photographed license plates, a masked agent walked up to Judy's window and said \"Hello Judith. How are you today?\" \u2014 using her legal name, which she says no one uses unless they've run her plates. When the couple continued observing, the ICE caravan drove directly to the Levys' residential street.",
+      "latestUpdate": null,
+      "date": "2026-01-06",
+      "time": "unknown",
+      "location": "St. Paul (grocery store parking lot, then residential street)",
+      "city": "St. Paul",
+      "type": "observers",
+      "status": "resolved",
+      "affectedIndividualCitizenship": "us-citizen",
+      "injuries": "none",
+      "trustworthiness": "high",
+      "created": "2026-02-06T09:58:15",
+      "lastUpdated": "2026-02-06T09:58:15",
+      "mediaCount": 0,
+      "notable": false,
+      "hasLocalMedia": true,
+      "localMediaType": "video",
+      "localMediaPath": "media/2026-01/06/2026-01-06-levy-observers-followed-home.mp4",
+      "localMediaOgPath": "media/2026-01/06/2026-01-06-levy-observers-followed-home-og-2s-1770393544.jpg",
+      "localMediaFiles": [
+        {
+          "type": "video",
+          "path": "media/2026-01/06/2026-01-06-levy-observers-followed-home.mp4"
+        }
+      ],
+      "aspectRatio": 0.7194444444444444,
+      "mediaVersion": 1770393544
+    },
+    {
       "filePath": "incidents/2026-01/2026-01-unknown-rosemount-gun-threat.md",
       "title": "ICE Agent Waves Gun at Motorist in Rosemount",
       "summary": "An ICE agent reportedly waved a gun sideways at a motorist in a threatening manner in Rosemount, Minnesota. The exact date and circumstances are unclear.",
