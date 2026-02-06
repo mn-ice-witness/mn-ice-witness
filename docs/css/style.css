@@ -341,10 +341,10 @@ body {
     font-family: var(--font-sans);
     font-size: 0.7rem;
     font-weight: 600;
-    color: var(--type-observers);
+    color: #5a7a9e;
     text-decoration: none;
     padding: 3px 10px;
-    border: 1px solid var(--type-observers);
+    border: 1px solid #5a7a9e;
     border-radius: 100px;
     margin-left: 12px;
     vertical-align: middle;
@@ -353,7 +353,7 @@ body {
 }
 
 .about-link:hover {
-    background: var(--type-observers);
+    background: #5a7a9e;
     color: white;
 }
 
@@ -1350,14 +1350,14 @@ body {
 }
 
 .lightbox-body a {
-    color: var(--type-observers);
+    color: #5a7a9e;
     text-decoration: none;
     border-bottom: 1px solid transparent;
     transition: border-color 0.15s;
 }
 
 .lightbox-body a:hover {
-    border-color: var(--type-observers);
+    border-color: #5a7a9e;
 }
 
 .lightbox-body blockquote {
@@ -1471,14 +1471,14 @@ body {
 }
 
 .about-content a {
-    color: var(--type-observers);
+    color: #5a7a9e;
     text-decoration: none;
     border-bottom: 1px solid transparent;
     transition: border-color 0.15s;
 }
 
 .about-content a:hover {
-    border-bottom-color: var(--type-observers);
+    border-bottom-color: #5a7a9e;
 }
 
 .about-content strong {
@@ -1543,14 +1543,14 @@ body {
 }
 
 .not-found-content a {
-    color: var(--type-observers);
+    color: #5a7a9e;
     text-decoration: none;
     border-bottom: 1px solid transparent;
     transition: border-color 0.15s;
 }
 
 .not-found-content a:hover {
-    border-bottom-color: var(--type-observers);
+    border-bottom-color: #5a7a9e;
 }
 
 .lightbox-meta {
