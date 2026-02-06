@@ -19,6 +19,7 @@ Dennis Hernandez Ramirez, a 32-year-old Green Card holder who has lived in the U
 
 ## Sources
 1. Sahan Journal (Jan 14, 2026): [U.S. citizens in Minnesota share disturbing encounters with ICE agents](https://sahanjournal.com/immigration/ice-racial-profiling-minnesota-citizens-detained/)
+2. Star Tribune (Jan 31, 2026): ['No humanity': Detainees describe conditions inside Whipple Federal Building](https://www.startribune.com/no-humanity-detainees-describe-conditions-inside-whipple-federal-building/601566788)
 
 ## Affected Individual(s)
 - **Name:** Dennis Hernandez Ramirez
@@ -34,6 +35,7 @@ Dennis Hernandez Ramirez, a 32-year-old Green Card holder who has lived in the U
 ## At Whipple Federal Building
 - Made to wait in a semi-enclosed garage before being taken to a holding cell.
 - Placed in shackles on his feet.
+- Described cells as packed "shoulder to shoulder."
 - Told he would be charged with assaulting officers.
 - Feared deportation to Mexico.
 - Agents offered him money and legal protection to help identify immigrants.
@@ -47,4 +49,4 @@ On the offer from agents:
 - [Two ICE Observers Detained 8 Hours, Pressured to Name Organizers](#2026-01-11-siguenza-okeefe-detained) — Hernandez Ramirez was held in the same cell as Brandon Sigüenza, who reported being made a similar offer.
 
 ## Editorial Assessment
-**MEDIUM** - Single established local news source (Sahan Journal) with direct quotes from named affected individual. Details independently corroborated by cellmate Brandon Sigüenza's account in the same article.
+**MEDIUM** - Two independent sources (Sahan Journal, Star Tribune) with direct quotes from named affected individual. Details independently corroborated by cellmate Brandon Sigüenza's account.
