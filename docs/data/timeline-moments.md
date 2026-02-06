@@ -88,6 +88,14 @@ source: https://www.twincities.com/2026/01/12/keith-ellison-mayors-kaohly-her-ja
 The most significant legal challenge to the operation. Minnesota Attorney General Keith Ellison, Minneapolis Mayor Jacob Frey, and St. Paul Mayor Kaohly Her [file a lawsuit](https://www.twincities.com/2026/01/12/keith-ellison-mayors-kaohly-her-jacob-frey-file-legal-action-against-ice/) calling Operation Metro Surge a "federal invasion of the Twin Cities" and alleging systematic racial profiling. It is the first time a state has sued the federal government to halt an immigration operation.
 
 ---
+date: 2026-01-12
+title: Parents Detained Days After Green Card Approval
+incident: 2026-01-12-silva-sosa-inver-grove-heights
+source:
+---
+A window into [Operation PARRIS](https://www.fox9.com/news/minnesota-fraud-dhs-launching-operation-parris-target-refugees-jan-9) (Post-Admission Refugee Reverification and Integrity Strengthening), a parallel enforcement program targeting approximately [5,600 green card applicants](https://www.twincities.com/2026/01/18/5600-green-card-applicants-in-minnesota-targeted-through-operation-parris/) in Minnesota. The Silva Sosa parents — who have lived in Minnesota since 1999, own a business, and pay taxes — are detained during a traffic stop in Inver Grove Heights just five days after their I-130 petition is approved. They are flown to an El Paso detention facility. The case illustrates how Operation PARRIS ran alongside Metro Surge, [arresting over 100 lawfully present refugees](https://capitalandmain.com/amid-the-violent-minnesota-raids-ice-arrests-over-100-refugees-ships-many-to-texas) and shipping them to Texas before a [federal judge halted the program](https://www.wctrib.com/news/local/federal-judge-orders-temporary-halt-to-operation-parris-activities-in-minnesota) on January 28.
+
+---
 date: 2026-01-13
 title: Disabled U.S. Citizen Dragged From Car, Hospitalized
 incident: 2026-01-13-aliya-rahman-car-window-hospitalized
@@ -101,7 +109,7 @@ title: Six Children Hospitalized After Flashbangs Hit Family SUV
 incident: 2026-01-14-shawn-jackson-children-tear-gas
 source:
 ---
-The most shocking use of force against children. ICE agents deploy flashbang grenades and tear gas under an SUV carrying Shawn Jackson and his six children, ages 6 months to 11. The baby stops breathing and requires CPR. Three children are hospitalized. Agents refuse to call 911. The incident becomes a turning point in national media coverage.
+The night North Minneapolis erupted. After an ICE agent [shoots a man during a traffic stop](https://sahanjournal.com/public-safety/north-minneapolis-ice-shooting-report-immigration/) on 24th Avenue North, protests erupt and the neighborhood descends into chaos. In the escalation, agents deploy flashbang grenades and tear gas under an SUV carrying Shawn Jackson and his six children, ages 6 months to 11. The baby stops breathing and requires CPR. Three children are hospitalized. Agents refuse to call 911. Mayor Frey holds a late-night press conference calling federal agents' behavior ["disgusting and intolerable."](/entry/2026-01-16-trump-insurrection-act-threat) DHS [fires back](/entry/2026-01-14-dhs-response-frey-sanctuary), blaming Frey's sanctuary policies. The incident becomes a turning point in national media coverage.
 
 ---
 date: 2026-01-16
@@ -142,6 +150,14 @@ incident: 2026-01-20-liam-ramos-detained
 source:
 ---
 The youngest known detainee. Five-year-old kindergartner Liam Conejo Ramos and his father Adrian are detained by ICE in a Minneapolis suburb and flown to the Dilley, Texas detention facility. The detention of a kindergartner becomes the single most widely covered story of the operation and draws condemnation from across the political spectrum.
+
+---
+date: 2026-01-21
+title: Star Tribune Photo Captures Point-Blank Pepper Spray
+incident: 2026-01-21-observer-pinned-pepper-sprayed-face
+source:
+---
+The defining photograph of the operation. Star Tribune photographer [Richard Tsong-Taatarii captures the moment](https://www.startribune.com/ice-raids-minnesota/601546426) an ICE agent sprays chemical irritant directly into the face of an observer pinned to the ground by multiple agents at 28th and Blaisdell in south Minneapolis. The image [runs on the Star Tribune's front page](https://www.yahoo.com/news/articles/local-minnesota-paper-runs-front-210500571.html) two days later alongside coverage of 5-year-old Liam Ramos's detention, and is [picked up by the New York Times](https://www.nytimes.com/2026/01/23/us/minneapolis-man-pepper-sprayed-pinned-video.html) and media worldwide. The incident occurred four days after a federal judge had explicitly barred agents from using pepper spray on observers and protesters.
 
 ---
 date: 2026-01-21

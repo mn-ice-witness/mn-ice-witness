@@ -163,6 +163,7 @@ const Timeline = {
                     <span class="tl-total-label">Schools</span>
                 </div>
             </div>
+            <div class="tl-totals-note">Counts reflect documented media reports collected by this site</div>
         `;
     },
 
@@ -224,9 +225,9 @@ const Timeline = {
         if (moment.source && !moment.incident) {
             try {
                 const hostname = new URL(moment.source).hostname.replace('www.', '');
-                sourceHTML = `<a class="tl-moment-source" href="${moment.source}" target="_blank" rel="noopener">${hostname} →</a>`;
+                sourceHTML = `<a class="tl-moment-source" href="${moment.source}">${hostname} →</a>`;
             } catch {
-                sourceHTML = `<a class="tl-moment-source" href="${moment.source}" target="_blank" rel="noopener">Source article →</a>`;
+                sourceHTML = `<a class="tl-moment-source" href="${moment.source}">Source article →</a>`;
             }
         }
 
@@ -286,7 +287,7 @@ const Timeline = {
 
     renderLinks(text) {
         return text.replace(/\[([^\]]+)\]\(([^)]+)\)/g,
-            '<a class="tl-inline-link" href="$2" target="_blank" rel="noopener">$1</a>');
+            '<a class="tl-inline-link" href="$2">$1</a>');
     },
 
     getCategoryTag(incident) {
@@ -449,7 +450,7 @@ const Timeline = {
                 if (momentEl.dataset.incidentSlug) {
                     this.openIncident(momentEl.dataset.incidentSlug);
                 } else if (momentEl.dataset.sourceUrl) {
-                    window.open(momentEl.dataset.sourceUrl, '_blank', 'noopener');
+                    window.location.href = momentEl.dataset.sourceUrl;
                 }
                 return;
             }

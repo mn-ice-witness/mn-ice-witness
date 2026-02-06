@@ -15,6 +15,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-wrap: wrap;
     gap: 4px;
     padding: 6px 12px;
     background: var(--color-surface);
@@ -69,6 +70,15 @@
     letter-spacing: 0.05em;
     color: var(--color-text-muted);
     margin-top: 1px;
+}
+
+.tl-totals-note {
+    font-size: 0.6rem;
+    font-family: var(--font-sans);
+    color: var(--color-text-muted);
+    text-align: center;
+    width: 100%;
+    margin-top: 2px;
 }
 
 .tl-count-pop {
