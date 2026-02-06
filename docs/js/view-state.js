@@ -218,6 +218,10 @@ const ViewState = {
     },
 
     switchView(view, skipUrlUpdate) {
+        if (this.currentView === 'media' && view !== 'media') {
+            MediaGallery.cleanup();
+        }
+
         this.currentView = view;
 
         // Restore per-view sort mode
