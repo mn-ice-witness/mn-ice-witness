@@ -15,10 +15,11 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (194 incidents)
+## CURRENT (197 incidents)
 
 Published incidents visible on the main site.
 
+- incidents/2026-02/05/2026-02-05-hennepin-courthouse-detentions.md | 2026-02-05 | Minneapolis | immigrants | Two Detained by ICE Inside Hennepin County Courthouse After Hearing
 - incidents/2026-02/04/2026-02-04-trump-softer-touch-interview.md | 2026-02-04 | Washington D.C. | response | Trump Says Administration Will Use "Softer Touch" After Minneapolis Shootings
 - incidents/2026-02/03/2026-02-03-observers-detained-gunpoint-midtown-phillips.md | 2026-02-03 | Minneapolis | observers | Observers Detained at Gunpoint in Midtown Phillips
 - incidents/2026-02/01/2026-02-01-jose-lozano-worthington.md | 2026-02-01 | Worthington | citizens | Jose Lozano Detained Despite Valid Asylum Permit in Worthington
@@ -53,6 +54,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/24/2026-01-24-javier-witness-detained.md | 2026-01-24 | Minneapolis | observers | Minneapolis Man Detained for Hours After Witnessing Pretti Shooting
 - incidents/2026-01/24/2026-01-24-alex-pretti-shooting.md | 2026-01-24 | Minneapolis | observers | Alex Pretti Shot and Killed by Federal Agents
 - incidents/2026-01/24/2026-01-24-jana-shortal-journalist-pepper-sprayed.md | 2026-01-24 | Minneapolis | observers | KARE 11 Journalist Jana Shortal Pushed, Pepper Sprayed While Covering Fatal Shooting
+- incidents/2026-01/24/2026-01-24-emilio-pena-jimenez-deported.md | 2026-01-24 | Apple Valley | immigrants | Lakeville Business Owner Deported to Mexico Despite Two Court Orders
 - incidents/2026-01/24/2026-01-24-nur-d-rapper-detained.md | 2026-01-24 | Minneapolis | observers | Minneapolis Rapper Nur-D Detained at Pretti Scene: "You're Gonna Kill Me. That's What You Want?"
 - incidents/2026-01/24/2026-01-24-dhs-response-pretti-shooting.md | 2026-01-24 | Minneapolis | response | DHS Response: Pretti "Violently Resisted"
 - incidents/2026-01/23/2026-01-23-vance-response-5-year-old-detention.md | 2026-01-23 | Minneapolis | response | Vice President Vance Defends 5-Year-Old's Detention: "What Are They Supposed to Do?"
@@ -74,6 +76,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/20/2026-01-20-trump-mistakes-happen.md | 2026-01-20 | Washington D.C. | response | Trump on ICE Violence: "Mistakes Happen" While Focusing on "Murders and Criminals"
 - incidents/2026-01/20/2026-01-20-brooklyn-park-officer-citizen-check.md | 2026-01-20 | St. Paul | citizens | Metro Police Chiefs Call for End to Civil Rights Violations / Racially Discriminatory Citizen Checks; Off-Duty Brooklyn Park Police Officer Stopped at Gunpoint, Asked for Papers
 - incidents/2026-01/20/2026-01-20-trump-vicious-animals-statement.md | 2026-01-20 | n/a | response | Trump Claims ICE Operation is About Removing "Murderers & Criminals" from Minnesota, Calls Protesters "Highly Paid Troublemakers"
+- incidents/2026-01/20/2026-01-20-mohamed-jama-st-cloud.md | 2026-01-20 | St. Cloud | citizens | U.S. Citizen Arrested Twice by ICE in St. Cloud After Mistaken Identity
 - incidents/2026-01/19/2026-01-19-hilton-hotel-worker-arrested-by-guests.md | 2026-01-19 | St. Louis Park | citizens | ICE Agents Staying at Hotel Arrest One of Its Employees
 - incidents/2026-01/19/2026-01-19-dhs-response-saly-detention.md | 2026-01-19 | St. Paul | response | DHS Response: Defends Detention of Hmong Citizen, Claims Sex Offender Targets at Large — Family Disputes Claims
 - incidents/2026-01/18/2026-01-18-saly-hmong-citizen-shirtless.md | 2026-01-18 | St. Paul | citizens | Hmong U.S. Citizen Detained Shirtless in Freezing Weather, Then Released
@@ -216,7 +219,7 @@ Published incidents visible on the main site.
 
 ---
 
-## NO-ADD (125 entries)
+## NO-ADD (138 entries)
 
 Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 
@@ -307,7 +310,6 @@ Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 - dev-docs/not_use.md | Jan 9 | Fridley/University Avenue Arrest (Rep. Koegel Video)
 - dev-docs/not_use.md | Jan 20 | Sun World Supermarket Arrest
 - dev-docs/not_use.md | Jan 20 | Waite Park NE Minneapolis Arrest
-- dev-docs/not_use.md | Jan 20 | St. Cloud Washington Memorial Drive Arrest
 - dev-docs/not_use.md | Jan 23 | MSP Airport Clergy Protest Arrests
 - dev-docs/not_use.md | Jan 23 | School Parking Lot ICE Presence
 - dev-docs/not_use.md | Jan 23 | Whipple Building Dispersal and Tear Gas
@@ -340,6 +342,20 @@ Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 - dev-docs/not_use.md | Feb 4 | Tom Homan 700-Agent Drawdown Announcement
 - dev-docs/not_use.md | Feb 3-4 | Venezuelan Men Re-Detained at Courthouse
 - dev-docs/not_use.md | Feb 4 | School Districts Lawsuit Against DHS
+- dev-docs/not_use.md | Feb 5 | Kyle Wagner Federal Arrest
+- dev-docs/not_use.md | Feb 5 | Graduate by Hilton Protest Arrests Feb 5
+- dev-docs/not_use.md | Feb 5 | Jake Lang Ice Sculpture Vandalism
+- dev-docs/not_use.md | Feb 5 | Minneapolis $1M Rental Assistance Vote
+- dev-docs/not_use.md | Feb 4 | Minneapolis Hotel Liquor License Delays
+- dev-docs/not_use.md | Feb 5 | County Attorneys Nix Sheriff-ICE Agreement
+- dev-docs/not_use.md | Feb 5 | St. Paul Anti-ICE Staging Ordinance
+- dev-docs/not_use.md | Feb 5 | New Brighton Homewood Suites Protest
+- dev-docs/not_use.md | Feb 5 | Crow Wing County Jail Conditions Report
+- dev-docs/not_use.md | Feb 3 | Tacos El Primo Confrontation
+- dev-docs/not_use.md | Feb 3 | Flying J Travel Center Northfield Arrests
+- dev-docs/not_use.md | Feb 5 | Litchfield Near-School Operation
+- dev-docs/not_use.md | Nov 2025 | Operation Creep ICE Employee Sex Sting
+- dev-docs/not_use.md | Feb 2 | Faribault Citizen Stopped / "Database" Mention
 - dev-docs/not_use.md | Dec 13, 2025 | Loc Vinh Truong Rochester
 - dev-docs/not_use.md | Dec 13-14, 2025 | Willmar December 13-14 HSI Arrests
 - dev-docs/not_use.md | Dec 10-11, 2025 | Rekeya Frazier / Oluwadamilola Bamigboye Plymouth
