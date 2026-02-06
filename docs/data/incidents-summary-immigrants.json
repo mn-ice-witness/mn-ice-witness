@@ -613,37 +613,6 @@
       "mediaVersion": 1769985954
     },
     {
-      "filePath": "incidents/2026-01/14/2026-01-14-agriculture-press-conference.md",
-      "title": "State Lawmakers and Farmers Union Hold Press Conference on ICE Impact to Agriculture",
-      "summary": "Minnesota Senate Agriculture Chair Aric Putnam, Vice Chair Rob Kupec, Minnesota Farmers Union President Gary Wertish, and Deputy Agriculture Commissioner Andrea Vaubel held a press conference at the State Capitol warning that ICE activity is disrupting agriculture, threatening rural economies, and creating widespread fear among farmworkers. Officials reported that legal H-2A visa holders are afraid to go to work and that ICE operations have spread throughout rural Minnesota.",
-      "latestUpdate": null,
-      "date": "2026-01-14",
-      "time": "unknown",
-      "location": "Minnesota State Capitol",
-      "city": "St. Paul",
-      "type": "immigrants",
-      "status": "ongoing",
-      "affectedIndividualCitizenship": "legal-resident",
-      "injuries": "none",
-      "trustworthiness": "high",
-      "created": "2026-01-19T10:42:44",
-      "lastUpdated": "2026-01-19T10:42:44",
-      "mediaCount": 0,
-      "notable": false,
-      "hasLocalMedia": true,
-      "localMediaType": "video",
-      "localMediaPath": "media/2026-01/14/2026-01-14-agriculture-press-conference.mp4",
-      "localMediaOgPath": "media/2026-01/14/2026-01-14-agriculture-press-conference-og-2s-1769378403.jpg",
-      "localMediaFiles": [
-        {
-          "type": "video",
-          "path": "media/2026-01/14/2026-01-14-agriculture-press-conference.mp4"
-        }
-      ],
-      "aspectRatio": 1.8153310104529616,
-      "mediaVersion": 1769912968
-    },
-    {
       "filePath": "incidents/2026-01/13/2026-01-13-la-mexicana-st-peter.md",
       "title": "Customer Arrested While Buying Drink at St. Peter Grocery Store",
       "summary": "ICE agents arrested a customer at La Mexicana Market and Restaurant in St. Peter moments after he biked to the store and while he was paying for a drink. When asked for a warrant, agents said they didn't need one in a public area. Business reported significant drop in customers due to fear.",

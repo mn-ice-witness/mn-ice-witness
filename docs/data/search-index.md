@@ -101,7 +101,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/14/2026-01-14-circle-pines-restaurant-worker.md | 2026-01-14 | Circle Pines | immigrants | Restaurant Worker with Legal Visa Detained by Plain-Clothed Agents
 - incidents/2026-01/14/2026-01-14-st-paul-public-works-snowplow-driver.md | 2026-01-14 | St. Paul | immigrants | St. Paul Snowplow Driver with Legal Work Status Detained by ICE
 - incidents/2026-01/14/2026-01-14-nasra-ahmed-st-paul-citizen.md | 2026-01-14 | St. Paul | citizens | U.S. Citizen Born in Minnesota Detained by ICE for Two Days
-- incidents/2026-01/14/2026-01-14-agriculture-press-conference.md | 2026-01-14 | St. Paul | immigrants | State Lawmakers and Farmers Union Hold Press Conference on ICE Impact to Agriculture
+- incidents/2026-01/14/2026-01-14-agriculture-press-conference.md | 2026-01-14 | St. Paul | background | State Lawmakers and Farmers Union Hold Press Conference on ICE Impact to Agriculture
 - incidents/2026-01/14/2026-01-14-dhs-response-frey-sanctuary.md | 2026-01-14 | Minneapolis | response | DHS Blames Mayor Frey's Sanctuary Policies for Criminal Release
 - incidents/2026-01/14/2026-01-14-aquila-elementary-ice-presence.md | 2026-01-14 | St. Louis Park | schools-hospitals | ICE Conducts Operation Across Street From Aquila Elementary During Dismissal
 - incidents/2026-01/14/2026-01-14-transition-plus-school-bus-rubber-bullets.md | 2026-01-14 | Minneapolis | schools-hospitals | Students on Transition Plus Bus Witness ICE Fire Rubber Bullets at Man
