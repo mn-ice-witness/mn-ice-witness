@@ -92,7 +92,7 @@ title: U.S. Citizen Target Employees Detained and Injured
 incident: 2026-01-08-target-richfield-employees
 source:
 ---
-One of the first incidents to break through into widespread national coverage. Agents enter a Richfield Target and detain two drive-up employees — both U.S. citizens — injuring them in the process. One, a 22-year-old Latino man identified in court documents as "Javier Doe," has a knee pressed into his neck, is driven around in an SUV while agents play loud music, and is dumped in a Walmart parking lot. He becomes a plaintiff in the ACLU's class-action lawsuit. The incident ignites weeks of protests at Target stores that eventually spread nationwide.
+One of the first incidents to break through into widespread coverage. Agents enter a Richfield Target and detain two drive-up employees — both U.S. citizens — injuring them in the process. One, a 22-year-old Latino man identified in court documents as "Javier Doe," has a knee pressed into his neck, is driven around in an SUV while agents play loud music, and is dumped in a Walmart parking lot. He becomes a plaintiff in the ACLU's class-action lawsuit. The incident ignites weeks of protests at Target stores that eventually spread nationwide.
 
 ---
 date: 2026-01-09
