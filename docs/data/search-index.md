@@ -15,7 +15,7 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (197 incidents)
+## CURRENT (198 incidents)
 
 Published incidents visible on the main site.
 
@@ -88,6 +88,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/17/2026-01-17-mischief-toy-store-ice-inspection.md | 2026-01-17 | St. Paul | observers | Toy Store Receives ICE Inspection Notice Hours After ABC News Interview
 - incidents/2026-01/16/2026-01-16-parral-ortiz-hospital-detention.md | 2026-01-16 | Mounds View | immigrants, schools-hospitals | Man Detained While Driving Sick Wife to Emergency Room
 - incidents/2026-01/16/2026-01-16-nevada-avenue-12-year-old-deported.md | 2026-01-16 | St. Paul | immigrants | Venezuelan Family Detained, Including 12-Year-Old Sent to Texas
+- incidents/2026-01/16/2026-01-16-business-disruption-economic-crisis.md | 2026-01-16 | Minneapolis | background | Immigrant-Run Businesses Devastated as Operation Metro Surge Empties Cultural Corridors
 - incidents/2026-01/16/2026-01-16-newsguild-member-el-paso.md | 2026-01-16 | Minneapolis | immigrants | NewsGuild Union Member Detained and Transferred to Texas
 - incidents/2026-01/16/2026-01-16-owatonna-15-year-old-pepper-sprayed.md | 2026-01-16 | Owatonna | observers | 15-Year-Old Girl Pepper Sprayed While Observing ICE Operation
 - incidents/2026-01/16/2026-01-16-trump-insurrection-act-threat.md | 2026-01-16 | Washington D.C. | response | Trump Threatens Military Deployment to Minneapolis Under Insurrection Act
