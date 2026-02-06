@@ -253,7 +253,7 @@ title: Drawdown Begins
 incident: 2026-01-27-homan-draw-down-minneapolis
 source:
 ---
-The first sign of federal retreat. Border czar Tom Homan meets with Governor Tim Walz. The divisive Border Patrol Commander Greg Bovino — responsible for the hexachloroethane deployment near Ella Baker school — is removed from Minnesota operations. Both sides agree to ongoing dialogue and a "changed tone."
+The first sign of a possible shift. Border czar Tom Homan meets with Governor Tim Walz. The divisive Border Patrol Commander Greg Bovino — responsible for the hexachloroethane deployment near Ella Baker school — is removed from Minnesota operations. However, Homan repeatedly blames city and state leaders' rhetoric for the escalation, and conditions any further drawdown on what he calls an end to "aggression" from community members. Whether the tone has actually changed remains to be seen.
 
 ---
 date: 2026-01-28
@@ -285,4 +285,4 @@ title: Trump Promises a "Softer Touch"
 incident: 2026-02-04-trump-softer-touch-interview
 source:
 ---
-In an NBC interview before the Super Bowl, President Trump says the administration has learned to use "a little bit of a softer touch" after the fatal shootings of two U.S. citizens. Border czar Tom Homan announces 700 agents will be withdrawn immediately — but approximately 2,000 federal agents remain in Minnesota, more than 13 times the pre-surge level of roughly 150. Homan ties the full drawdown to the end of what he calls "aggression" from community members, stating: "We're not surrendering the president's mission on a mass-deportation operation." Whether the operation is truly winding down remains unclear, as enforcement actions continue.
+In an NBC interview before the Super Bowl, President Trump says the administration has learned to use "a little bit of a softer touch" after the fatal shootings of two U.S. citizens. Border czar Tom Homan announces 700 agents will be withdrawn immediately — but approximately 2,000 federal agents remain in Minnesota, more than 13 times the pre-surge level of roughly 150. Homan again places blame on local leaders and community members, stating: "We're not surrendering the president's mission on a mass-deportation operation." Enforcement actions continue, and it remains to be seen whether the promised softer touch will materialize on the ground.
