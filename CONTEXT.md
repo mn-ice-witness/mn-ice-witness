@@ -181,6 +181,16 @@ Then follow `dev-docs/daily-search-procedure.md`:
 3. Updates to existing (require `## Updates` entry)
 4. New sources (add silently, don't update `last_updated`)
 
+### Timeline Review Command
+When user says **"review the timeline"** or **"check the timeline"**:
+
+1. Read `docs/data/timeline-moments.md` (existing highlight moments)
+2. Read `docs/data/search-index.md` (all published incidents)
+3. Compare incidents against moments — look for missing turning points, chronological gaps, and under-represented patterns
+4. Follow the full procedure in `dev-docs/timeline.md` → "Reviewing the Timeline"
+
+**Note:** Regular incidents appear on the timeline automatically. Only the curated highlight moment cards need manual review.
+
 ### When User Provides a Link to Add
 **⚠️ CRITICAL:** Do NOT just use the source the user gave you. **Always search for additional coverage first.**
 
@@ -244,6 +254,8 @@ Read `adding-incidents.md` first. Check `not_use.md` for rejected stories.
 | **Modifying CSS** | `architecture.md` (CSS structure section) |
 | **URL/routing work** | `navigation.md` |
 | **Video player/media** | `media-playback.md` |
+| **Timeline highlights / moments** | `timeline.md` |
+| **"Review the timeline"** | `timeline.md` (review procedure) |
 | **Adding icons or UI elements** | `ui-patterns.md` |
 | **Processing media files** | `architecture.md` (media pipeline), `adding-video-audio.md` |
 | **"Latest screenshot/mov is for..."** | `screen-recording-workflow.md` (3-step pipeline: move script → process_media → generate_summary) |
@@ -281,7 +293,9 @@ GIT_MN_ICE_FILES/
 ├── raw_media/           # Source video/images (NEVER modified)
 └── docs/                # Website content (deployed to Cloudflare)
     ├── index.html
-    ├── css/style.css
+    ├── css/
+    │   ├── style.css    # Main styles
+    │   └── timeline.css # Timeline-specific styles
     ├── js/              # See architecture.md for module details
     ├── incidents/       # ALL incident markdown files
     │   ├── 2025-12/     # Month folders contain day subfolders
@@ -294,6 +308,7 @@ GIT_MN_ICE_FILES/
     └── data/
         ├── incidents-summary-*.json  # 5 category files (auto-generated)
         ├── search-index.md           # LLM search index with 4 sections (auto-generated)
+        ├── timeline-moments.md        # Curated timeline highlight cards (manually edited)
         ├── media-order.md            # Controls gallery ordering
         ├── og-tweaks.md              # Custom OG image timestamps
         └── high-quality-videos.md    # Videos needing less compression
@@ -320,6 +335,7 @@ GIT_MN_ICE_FILES/
 ### UI & Media
 | Doc | Contents |
 |-----|----------|
+| `timeline.md` | Timeline feature: two-layer system (auto incidents + curated moments), moment format, review procedure |
 | `ui-patterns.md` | SVG icon pattern, available icons |
 | `media-playback.md` | Video controls, loading strategy, fullscreen |
 | `adding-video-audio.md` | System audio capture

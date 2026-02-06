@@ -35,10 +35,14 @@ GIT_MN_ICE_FILES/
 └── docs/                   # Website content (ALL content here)
     ├── index.html          # Main entry point
     ├── css/style.css       # Styles
+    ├── css/
+    │   ├── style.css       # Main styles
+    │   └── timeline.css    # Timeline-specific styles (isolated)
     ├── js/
     │   ├── app.js          # Main app, loads incidents
     │   ├── parser.js       # Parses markdown frontmatter
-    │   └── lightbox.js     # Detail popup
+    │   ├── lightbox.js     # Detail popup
+    │   └── timeline.js     # Timeline view (narrative moments + incident dots)
     └── incidents/          # ALL incident markdown files (ONLY location!)
         ├── 2025-12/        # December 2025
         └── 2026-01/        # January 2026
@@ -268,6 +272,33 @@ This section describes what each JavaScript file does. Read this before modifyin
 
 ---
 
+### `docs/js/timeline.js` (Timeline View - ~497 lines)
+
+**Purpose:** Interactive timeline rendering with scroll-driven category counters.
+
+**Key Responsibilities:**
+- Loads curated narrative moments from `docs/data/timeline-moments.md`
+- Merges moments with auto-generated incident day-clusters
+- Sticky totals bar with running category counts that update on scroll
+- Click handlers for opening incidents in lightbox or navigating to sources
+
+**Global Object:** `Timeline`
+
+**Key Methods:**
+| Method | Purpose |
+|--------|---------|
+| `render()` | Build and display the timeline |
+| `loadMoments()` | Fetch and parse `timeline-moments.md` |
+| `computeMonthData()` | Merge moments + incidents, precompute cumulative totals |
+| `buildMomentHTML(moment)` | Render a narrative highlight card |
+| `buildDayHTML(day)` | Render an incident day-cluster |
+
+**Depends On:** `App` (incident data), `Lightbox` (opening incidents)
+
+**See:** [timeline.md](timeline.md) for full documentation on the timeline feature, moment format, and review procedure.
+
+---
+
 ### `docs/data/incidents-summary-{category}.json`
 
 **Purpose:** Pre-computed incident metadata split by category for fast parallel loading.
@@ -386,6 +417,8 @@ This section describes what each JavaScript file does. Read this before modifyin
 | Responsive | 1719-1772 | Media queries |
 | New & Updated | 1774-1850 | Date listing styles |
 | Header Links | 1852-1912 | Anchor link icons |
+
+`docs/css/timeline.css` (~500 lines) contains all timeline-specific styles, isolated from the main stylesheet. Sections: Totals Bar, Content Area, Year Headers, Month Sections, Narrative Moments, Day Clusters, Desktop/Mobile responsive.
 
 Each section starts with a comment banner like:
 ```css
