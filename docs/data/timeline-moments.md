@@ -165,7 +165,7 @@ title: "Dine and Detain": Agents Eat at Restaurant, Then Arrest Workers
 incident: 2026-01-15-el-tapatio-willmar
 source:
 ---
-The story that came to symbolize workplace enforcement. Four ICE agents eat lunch at El Tapatio, a family-owned Mexican restaurant in Willmar — a farming community 100 miles west of Minneapolis. Staff are visibly frightened but serve the meal. That evening, agents follow the workers after closing and detain the restaurant's owners and their dishwasher near a Lutheran church. The owners, Liborio Parral Ortiz and Bonfilia Sanchez Dominguez, have lived in the United States since 1989. The "dine and detain" story goes viral, covered by Star Tribune, Salon, HuffPost, Daily Beast, and dozens of outlets. It becomes a symbol of the operation's expansion into outstate Minnesota, where agents targeted workers at restaurants, food plants, and farms from Brainerd to Perham to Pelican Rapids — threatening the immigrant workforce that sustains rural Minnesota's economy.
+The story that came to symbolize workplace enforcement. Four ICE agents eat lunch at El Tapatio, a family-owned Mexican restaurant in Willmar, 100 miles west of Minneapolis. Staff are visibly frightened but serve the meal. That evening, agents follow the workers after closing and detain the restaurant's owners — who have lived in the United States since 1989 — and their dishwasher near a Lutheran church. The story goes viral and becomes a symbol of the operation's expansion into outstate Minnesota, where agents targeted workers at restaurants, food plants, and farms from Brainerd to Pelican Rapids.
 
 ---
 date: 2026-01-16
