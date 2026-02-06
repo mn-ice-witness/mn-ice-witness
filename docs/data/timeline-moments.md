@@ -20,7 +20,7 @@ title: Guns Pointed at Elderly Couple Observing ICE
 incident: 2025-12-07-biestman-lee-guns-pointed
 source:
 ---
-An early sign of how the operation would treat those who watched. John Biestman and Janet Lee, a married couple in their late 60s from Linden Hills, follow an ICE vehicle after witnessing a raid at Church of the Assumption in Richfield. Agents box in their car and point guns at them. The couple later become named plaintiffs in the ACLU of Minnesota's federal lawsuit challenging ICE's treatment of observers — the first legal action to establish that watching federal agents is a constitutionally protected activity. It would not be the last: in the weeks ahead, agents [followed observers home](/entry/2026-01-06-levy-observers-followed-home); [told one "did you not learn from what just happened?"](/entry/2026-01-12-phil-maddox-did-you-not-learn); [snatched phones from people recording](/entry/2026-01-11-observer-phone-snatched); [pepper-sprayed women in Mankato](/entry/2026-01-13-mankato-women-sprayed) — [among others](/list/observers).
+In an early sign of how the operation would treat those who watched, John Biestman and Janet Lee, a married couple in their late 60s from Linden Hills, follow an ICE vehicle after witnessing a raid at Church of the Assumption in Richfield. Agents box in their car and point guns at them. The couple later become named plaintiffs in the ACLU of Minnesota's federal lawsuit challenging ICE's treatment of observers — the first legal action to establish that watching federal agents is a constitutionally protected activity. It would not be the last: in the weeks ahead, agents [followed observers home](/entry/2026-01-06-levy-observers-followed-home); [told one "did you not learn from what just happened?"](/entry/2026-01-12-phil-maddox-did-you-not-learn); [snatched phones from people recording](/entry/2026-01-11-observer-phone-snatched); [pepper-sprayed women in Mankato](/entry/2026-01-13-mankato-women-sprayed) — [among others](/list/observers).
 
 ---
 date: 2025-12-15
@@ -84,7 +84,7 @@ title: "Citizen Checks" Begin
 incident: 2026-01-08-ahmed-hassan-uber-driver
 source:
 ---
-The first widely reported "citizen check." Somali-American U.S. citizen Ahmed Bin Hassan, an Uber driver, is confronted by over a dozen masked agents at the airport. An agent tells him: "I can hear you don't have the same accent as me." The viral video becomes a symbol of racial profiling — in the weeks that follow, dozens of U.S. citizens of color are stopped and ordered to prove their citizenship, including Nimco Omar, a Somali-American woman surrounded by four masked agents who demanded her ID during what they called a "citizen check" while she was walking near a mall.
+In what would become a pattern of racially profiled "citizen checks," Somali-American U.S. citizen Ahmed Bin Hassan, an Uber driver, is confronted by over a dozen masked agents at the airport. An agent tells him: "I can hear you don't have the same accent as me." The viral video becomes a symbol of racial profiling — in the weeks that follow, dozens of U.S. citizens of color are stopped and ordered to prove their citizenship, including Nimco Omar, a Somali-American woman surrounded by four masked agents who demanded her ID during what they called a "citizen check" while she was walking near a mall.
 
 ---
 date: 2026-01-08
@@ -261,7 +261,7 @@ title: Drawdown Begins
 incident: 2026-01-27-homan-draw-down-minneapolis
 source:
 ---
-Border czar Tom Homan meets with Governor Tim Walz. Border Patrol Commander Greg Bovino — responsible for the hexachloroethane deployment near Ella Baker school — is removed from Minnesota operations. Both sides agree to ongoing dialogue. However, Homan conditions any further drawdown on what he calls an end to "aggression" from community members, and blames local leaders' rhetoric for the escalation and reaffirms that enforcement actions will continue.
+Border czar Tom Homan meets with Governor Tim Walz. Border Patrol Commander Greg Bovino — responsible for the hexachloroethane deployment near Ella Baker school, among other incidents — is removed from Minnesota operations. Both sides agree to ongoing dialogue. However, Homan conditions any further drawdown on what he calls an end to "aggression" from community members, and blames local leaders' rhetoric for the escalation and reaffirms that enforcement actions will continue.
 
 ---
 date: 2026-01-28
