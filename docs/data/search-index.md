@@ -15,10 +15,12 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (202 incidents)
+## CURRENT (204 incidents)
 
 Published incidents visible on the main site.
 
+- incidents/2026-02/06/2026-02-06-georgetown-park-pepper-spray.md | 2026-02-06 | Bloomington | immigrants | Federal Agents Pepper Spray Relatives During Arrest at Georgetown Park Apartments
+- incidents/2026-02/05/2026-02-05-robbinsdale-city-hall-ice-pursuit-crash.md | 2026-02-05 | Robbinsdale | immigrants | Vehicle Crashes Near Robbinsdale City Hall During ICE Pursuit
 - incidents/2026-02/05/2026-02-05-javier-abreu-rochester-kidney-transplant.md | 2026-02-05 | Rochester | citizens | Kidney Transplant Recipient Arrested in Rochester Needs Anti-Rejection Medication
 - incidents/2026-02/05/2026-02-05-hennepin-courthouse-detentions.md | 2026-02-05 | Minneapolis | immigrants | Two Detained by ICE Inside Hennepin County Courthouse After Hearing
 - incidents/2026-02/04/2026-02-04-trump-softer-touch-interview.md | 2026-02-04 | Washington D.C. | response | Trump Says Administration Will Use "Softer Touch" After Minneapolis Shootings
@@ -212,12 +214,12 @@ Published incidents visible on the main site.
 - incidents/2025-12/06/2025-12-06-burnsville-family-separated.md | 2025-12-06 | Burnsville | immigrants | Parents Separated from 7-Year-Old in Burnsville Raid; Ring Camera Captures Forced Entry
 - incidents/2025-12/06/2025-12-06-augsburg-student-detained.md | 2025-12-06 | Minneapolis | immigrants, schools-hospitals | ICE Agents Point Weapons at Students During Campus Arrest at Augsburg University
 - incidents/2025-12/04/2025-12-04-francisco-paredes-church.md | 2025-12-04 | Hopkins | immigrants | Church Employee Deported, Parish Later Surveilled by ICE
-- incidents/2025-12/04/2025-12-04-operation-metro-surge-launched.md | 2025-12-04 | Minneapolis | background | DHS Launches Operation Metro Surge
 - incidents/2025-12/04/2025-12-04-dhs-response-abdulkadir-abdi.md | 2025-12-04 | Minneapolis | response | DHS Response: Abdulkadir Abdi "Gang Member"
 - incidents/2025-12/04/2025-12-04-abdulkadir-abdi-detained.md | 2025-12-04 | Minneapolis | immigrants | Addiction Recovery Leader Detained, Labeled "Gang Member"
 - incidents/2025-12/03/2025-12-03-hola-arepa-warrantless-entry.md | 2025-12-03 | Minneapolis | immigrants | Hola Arepa Staff Refuses ICE Entry Without Warrant
 - incidents/2025-12/02/2025-12-02-metro-transit-driver-detained.md | 2025-12-02 | Minneapolis | immigrants | Somali-American Metro Transit Bus Driver Detained Over a Month
 - incidents/2025-12/2025-12-early-lomabonita-jose.md | 2025-12-01 | St. Paul (East Side) | immigrants | Man With Legal Protection Status Detained at Restaurant; Vehicle Abandoned
+- incidents/2025-12/01/2025-12-01-operation-metro-surge-launched.md | 2025-12-01 | Minneapolis | background | DHS Launches Operation Metro Surge
 - incidents/2025-11/25/2025-11-25-jeffrey-suazo-st-paul.md | 2025-11-25 | St. Paul | immigrants | House Painter Arrested After 5-Hour Standoff; Family Reports Humiliation, No Warrant Shown
 - incidents/2025-11/18/2025-11-18-brotex-st-paul-raid.md | 2025-11-18 | St. Paul | immigrants | 14 Workers Detained in Major ICE Workplace Raid at Bro-Tex
 - incidents/2025-11/11/2025-11-11-northfield-nunez-gonzalez-arrest.md | 2025-11-11 | Northfield | immigrants | Adán Núñez Gonzalez Forcibly Arrested in Northfield, Son Records

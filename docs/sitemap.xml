@@ -56,6 +56,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://mn-ice-witness.org/entry/2026-02-06-georgetown-park-pepper-spray</loc>
+    <lastmod>2026-02-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://mn-ice-witness.org/entry/2026-02-05-robbinsdale-city-hall-ice-pursuit-crash</loc>
+    <lastmod>2026-02-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://mn-ice-witness.org/entry/2026-02-05-javier-abreu-rochester-kidney-transplant</loc>
     <lastmod>2026-02-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -932,12 +944,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://mn-ice-witness.org/entry/2026-01-08-ahmed-hassan-uber-driver</loc>
-    <lastmod>2026-01-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://mn-ice-witness.org/entry/2026-01-08-alberto-castaneda-mondragon-head-injury</loc>
     <lastmod>2026-01-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -1005,6 +1011,12 @@
   </url>
   <url>
     <loc>https://mn-ice-witness.org/entry/2026-01-07-pastor-callaghan-detained</loc>
+    <lastmod>2026-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://mn-ice-witness.org/entry/2026-01-07-ahmed-hassan-uber-driver</loc>
     <lastmod>2026-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>

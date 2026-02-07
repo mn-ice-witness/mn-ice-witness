@@ -1,7 +1,7 @@
 ---
-date: 2025-12-04
+date: 2025-12-01
 title: Operation Metro Surge Launched
-incident: 2025-12-04-operation-metro-surge-launched
+incident: 2025-12-01-operation-metro-surge-launched
 source:
 ---
 DHS announces what it calls the "largest immigration enforcement operation ever carried out," targeting the Minneapolis-St. Paul metropolitan area — the first time a single U.S. metro has been the focus of a dedicated federal immigration surge. Initial arrests focus on Somali and Latino communities.
