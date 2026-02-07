@@ -44,7 +44,7 @@ title: Patient Shackled to Hospital Bed; DHS Retaliates Against Hospital
 incident: 2025-12-31-hcmc-patient-shackled
 source:
 ---
-ICE agents enter Hennepin County Medical Center — Minnesota's largest Level One trauma center — without a judicial warrant and shackle a patient to his hospital bed for 28 hours. Six agents rotate in shifts, two at the bedside at all times. After county commissioners and hospital leadership confront the agents and confirm no warrant exists, they are ordered to leave. Days later, DHS retaliates: on January 8, it [subpoenas I-9 employment records](/entry/2026-01-08-hennepin-healthcare-i9-subpoena) for more than 7,000 Hennepin Healthcare employees — home addresses, Social Security numbers, eligibility status. Commissioner Angela Conley calls it a "retaliatory move." In the weeks ahead, a [man is detained while driving his sick wife to the emergency room](/entry/2026-01-16-parral-ortiz-hospital-detention) and a [Libyan man seeking medical treatment is shackled despite a painful skin condition](/entry/2026-01-11-hani-duglof-medical). The actions break a long-standing precedent against immigration enforcement at hospitals.
+ICE agents enter Hennepin County Medical Center — Minnesota's largest Level One trauma center — without a judicial warrant and shackle a patient to his hospital bed for 28 hours. Six agents rotate in shifts, two at the bedside at all times. After county commissioners and hospital leadership confront the agents and confirm no warrant exists, they are ordered to leave. Days later, DHS retaliates: on January 8, it [subpoenas I-9 employment records](/entry/2026-01-08-hennepin-healthcare-i9-subpoena) for more than 7,000 Hennepin Healthcare employees — home addresses, Social Security numbers, eligibility status. Commissioner Angela Conley calls it a "retaliatory move." In the weeks ahead, a [man is detained while driving his sick wife to the emergency room](/entry/2026-01-16-parral-ortiz-hospital-detention) and a [Libyan man seeking medical treatment is shackled despite a painful skin condition](/entry/2026-01-11-hani-duglof-medical). The actions break a long-standing precedent against immigration enforcement at hospitals. [See all school and hospital incidents](/list/schools-hospitals).
 
 ---
 date: 2026-01-06
@@ -84,7 +84,7 @@ title: "Citizen Checks" Begin
 incident: 2026-01-07-ahmed-hassan-uber-driver
 source:
 ---
-In what would become a pattern of racially profiled "citizen checks," Somali-American U.S. citizen Ahmed Bin Hassan, an Uber driver, is confronted by over a dozen masked agents at the airport. An agent tells him: "I can hear you don't have the same accent as me." The viral video becomes a symbol of racial profiling — in the weeks that follow, dozens of U.S. citizens of color are stopped and ordered to prove their citizenship, including [Nimco Omar](/entry/2026-01-12-nimco-omar-citizen-check), a Somali-American woman surrounded by four masked agents who demanded her ID during what they called a "citizen check" while she was walking near a mall.
+In what would become a pattern of racially profiled "citizen checks," Somali-American U.S. citizen Ahmed Bin Hassan, an Uber driver, is confronted by over a dozen masked agents at the airport. An agent tells him: "I can hear you don't have the same accent as me." The viral video becomes a symbol of racial profiling — in the weeks that follow, dozens of U.S. citizens of color are stopped and ordered to prove their citizenship, including [Nimco Omar](/entry/2026-01-12-nimco-omar-citizen-check), a Somali-American woman surrounded by four masked agents who demanded her ID during what they called a "citizen check" while she was walking near a mall. [See all incidents involving U.S. citizens and legal residents](/list/citizens).
 
 ---
 date: 2026-01-08
@@ -197,7 +197,7 @@ title: Federal Officials Insist Operation Targets "Criminals and Rapists"
 incident: 2026-01-18-noem-pepper-spray-denial-backtrack
 source:
 ---
-Part of a sustained federal messaging campaign to justify the operation. DHS Secretary Kristi Noem tells CBS's "Face the Nation" that agents are targeting "criminals and rapists," denies use of pepper spray — then backtracks when shown video evidence. President Trump echoes the theme on social media, claiming ICE is capturing "murderers & criminals" and that there are "thousands of vicious animals in MN alone." The claims are contradicted by the operation's own record: the majority of documented incidents involve U.S. citizens, legal residents, bystanders, and children.
+Part of a sustained federal messaging campaign to justify the operation. DHS Secretary Kristi Noem tells CBS's "Face the Nation" that agents are targeting "criminals and rapists," denies use of pepper spray — then backtracks when shown video evidence. President Trump echoes the theme on social media, claiming ICE is capturing "murderers & criminals" and that there are "thousands of vicious animals in MN alone." The claims are contradicted by the operation's own record: the majority of documented incidents involve U.S. citizens, legal residents, bystanders, and children. [See all official statements and responses](/list/response).
 
 ---
 date: 2026-01-20
