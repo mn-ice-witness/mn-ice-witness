@@ -620,13 +620,18 @@
       "lastUpdated": "2026-02-07T14:12:42",
       "mediaCount": 0,
       "notable": false,
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
+      "hasLocalMedia": true,
+      "localMediaType": "image",
+      "localMediaPath": "media/2026-01/14/2026-01-14-julio-sosa-celis-shooting.jpg",
       "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
+      "localMediaFiles": [
+        {
+          "type": "image",
+          "path": "media/2026-01/14/2026-01-14-julio-sosa-celis-shooting.jpg"
+        }
+      ],
+      "aspectRatio": 1.3921113689095128,
+      "mediaVersion": 1770497344
     },
     {
       "filePath": "incidents/2026-01/14/2026-01-14-oglala-sioux-still-detained.md",
@@ -1377,13 +1382,18 @@
       "lastUpdated": "2026-02-07T14:12:42",
       "mediaCount": 0,
       "notable": false,
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
+      "hasLocalMedia": true,
+      "localMediaType": "image",
+      "localMediaPath": "media/2025-12/02/2025-12-02-ali-dahir-citizen-check.jpg",
       "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
+      "localMediaFiles": [
+        {
+          "type": "image",
+          "path": "media/2025-12/02/2025-12-02-ali-dahir-citizen-check.jpg"
+        }
+      ],
+      "aspectRatio": 1.935483870967742,
+      "mediaVersion": 1770497269
     }
   ]
 }
