@@ -121,7 +121,7 @@ Federal officials block congressional oversight. Representatives Ilhan Omar, Ang
 
 ---
 date: 2026-01-11
-title: A KARE 11 Special Report Marks Increasing Mainstream Media Coverage
+title: Increasing Coverage of Observer Detentions
 incident: 2026-01-11-siguenza-okeefe-detained
 source:
 ---
