@@ -85,6 +85,7 @@ incident: 2026-01-07-ahmed-hassan-uber-driver
 source:
 ---
 In what would become a pattern of racially profiled "citizen checks," Somali-American U.S. citizen Ahmed Bin Hassan, an Uber driver, is confronted by over a dozen masked agents at the airport. An agent tells him: "I can hear you don't have the same accent as me." The viral video becomes a symbol of racial profiling — in the weeks that follow, dozens of U.S. citizens of color are stopped and ordered to prove their citizenship, including [Nimco Omar](/entry/2026-01-12-nimco-omar-citizen-check), a Somali-American woman surrounded by four masked agents who demanded her ID during what they called a "citizen check" while she was walking near a mall.
+
 ---
 date: 2026-01-08
 title: U.S. Citizen Target Employees Detained and Injured
