@@ -49,6 +49,9 @@ Aliya Rahman, a 43-year-old U.S. citizen and software engineer, was dragged from
 25. Facebook Video (Jan 15, 2026): [Video coverage](https://www.facebook.com/reel/1298284502358086/)
 26. CNN Video (Jan 20, 2026): [Rahman's first on-camera interview after the assault](https://www.cnn.com/2026/01/20/us/video/woman-dragged-from-car-by-ice-ldn-digvid-vrtc)
 27. PBS NewsHour Video (Feb 3, 2026): [House and Senate Democrats Examine DHS Immigration and Enforcement Tactics](https://www.youtube.com/watch?v=zrcW8SZtYpI)
+28. Sen. Blumenthal (Feb 3, 2026): [Written Statement of Aliya Rahman](https://www.blumenthal.senate.gov/download/2026-2-3_aliya_rahman_statement)
+29. CNN (Feb 4, 2026): ['I am not afraid': Disabled woman violently detained by ICE vows to keep speaking out](https://www.cnn.com/2026/02/04/politics/video/i-am-not-afriad-disabled-woman-violently-detained-by-ice-vows-to-keep-speaking-out-lcl)
+30. FOX 9 (Feb 4, 2026): [Testimony: Minnesota woman with disabilities detained during ICE surge](https://www.fox9.com/news/testimony-minnesota-woman-disabilities-detained-during-ice-surge)
 
 ## Affected Individual(s)
 - **Name:** Aliya Rahman
@@ -89,6 +92,23 @@ The incident occurred as 2,400+ DHS agents deployed to Minnesota, with DHS Secre
 ## Attorney's Statement
 Alexa Van Brunt, Rahman's attorney and director of the MacArthur Justice Center:
 > "Her only options were to move her car forward in the direction of ICE officers and risk being accused of trying to harm them—which led to Renee Good's death—or stay stationary, which in the end led to physical violence and abuse."
+
+## Congressional Testimony (February 3, 2026)
+
+Rahman testified at a bicameral forum on DHS use of force hosted by Sen. Richard Blumenthal and Rep. Robert Garcia. Sen. Amy Klobuchar also participated. Brothers of Renee Good testified at the same hearing.
+
+Key details from Rahman's [written statement](https://www.blumenthal.senate.gov/download/2026-2-3_aliya_rahman_statement):
+
+- When agents grabbed her, she yelled "I'm disabled!" An agent responded: "TOO LATE."
+- An agent pulled "a large combat knife" in front of her face to cut her seatbelt.
+- She was "carried face down through the street by my cuffed arms and legs." Agents laughed as she attempted to immobilize her own neck.
+- She was denied her cane and prodded forward in leg irons. One agent taunted: "You were driving right? So your legs do work."
+- At the Whipple Federal Building, she witnessed "Black and brown bodies shackled together, chained together, being marched by yelling agents outdoors."
+- When she requested medical care, a voice outside said: "We don't want to step on ICE's toes."
+- She was never asked for ID, never told she was under arrest, never read her rights, and never charged with a crime.
+- She stated she can no longer lift her arms normally.
+
+> "I am not afraid, and I'm not afraid to keep working on this problem even after ICE is gone."
 
 ## DHS Response
 A DHS spokesperson disputed Rahman's account, claiming she was an "agitator" who "ignored multiple commands by an officer to move her vehicle away from the scene." DHS said she was arrested along with six other people they called agitators. DHS did not respond to questions about denying her medical treatment.

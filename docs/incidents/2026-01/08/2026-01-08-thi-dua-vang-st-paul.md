@@ -9,10 +9,13 @@ affected_individual_citizenship: asylum-seeker
 injuries: none
 trustworthiness: medium
 created: 2026-02-03T14:02:17
-last_updated: 2026-02-03T14:02:17
+last_updated: 2026-02-07T14:50:30
 ---
 
 # Christian Refugee Detained Despite Legal Status, ICE Keeps Returning to Home After Release
+
+## Updates
+- **Feb 7** - [MPR News reports](https://www.mprnews.org/story/2026/02/07/i-felt-hopeless-hmong-refugee-stranded-in-texas-after-release-from-ice-detention) Vang was forced outside after release from the Houston processing center. Agents refused to let her wait inside for her family: "They forced me outside and told me they didn't care if I lived or died." ICE had not returned her documents (Social Security card, state ID), preventing her from flying home.
 
 ## Summary
 
@@ -24,6 +27,7 @@ Thi Dua Vang, a Hmong refugee who fled Vietnam after decades of persecution for 
 
 1. KARE 11 (Feb 2, 2026): [After ICE release St. Paul woman, she says agents keep returning to her home](https://www.kare11.com/article/news/local/ice-in-minnesota/after-ice-release-st-paul-woman-she-says-agents-keep-returning-to-her-home/89-17f46bf2-9d68-4988-86c6-ba5109ef510f)
 2. Sahan Journal (Feb 3, 2026): [ICE detainees stranded after release](https://sahanjournal.com/immigration/ice-detainees-stranded-after-release/)
+3. MPR News (Feb 7, 2026): ['I felt hopeless': Hmong refugee stranded in Texas after release from ICE detention](https://www.mprnews.org/story/2026/02/07/i-felt-hopeless-hmong-refugee-stranded-in-texas-after-release-from-ice-detention)
 
 ## Affected Individual(s)
 
@@ -41,7 +45,7 @@ Thi Dua Vang, a Hmong refugee who fled Vietnam after decades of persecution for 
 - **Jan 14** - Family learns she has been transferred to Houston Processing Center.
 - **Date unknown** - While on a plane on the runway, Vang is pulled off at the last moment—she believed she was being deported to Vietnam.
 - **Jan 20** - Immigration judge orders release on bond. DHS representative unable to give any reason for her detention.
-- **Jan 23** - Released onto streets of Houston around 8:00 PM. Waits nearly three hours alone in unfamiliar city before brother and husband arrive around 11:00 PM.
+- **Jan 23** - Released onto streets of Houston around 8:00 PM. Agents refused to let her wait inside the facility. Waits nearly three hours alone in unfamiliar city before brother and husband arrive around 11:00 PM. ICE had not returned her identification documents, preventing her from flying home.
 - **Five days after return** - Required check-in with ICE; released after.
 - **Since release** - Family reports ICE has returned to their home three times attempting to make contact.
 

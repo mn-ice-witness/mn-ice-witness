@@ -9,12 +9,13 @@ affected_individual_citizenship: asylum-seeker
 injuries: none
 trustworthiness: high
 created: 2026-01-22T12:00:00
-last_updated: 2026-02-06T16:30:31
+last_updated: 2026-02-07T14:50:30
 ---
 
 # Five-Year-Old Liam Ramos Detained in Driveway, Allegedly Used as "Bait"
 
 ## Updates
+- **Feb 7** - [Immigration judge grants continuance](https://us.cnn.com/2026/02/07/us/liam-conejo-ramos-family-asylum-continuance), postponing the family's asylum hearing and preventing swift deportation.
 - **Feb 6** - [DHS filed to deport Liam and his father](https://www.mprnews.org/story/2026/02/05/liam-conejo-ramos-dhs-requests-expedited-deportation-proceedings-for-family) through removal proceedings. Attorney Danielle Molliver called the move "extraordinary" and possibly "retaliatory." DHS spokesperson Tricia McLaughlin called it "standard procedure." The father told NBC News Liam has nightmares and wakes up crying since detention.
 - **Feb 1** - [Liam and his father returned home](https://www.cbsnews.com/news/liam-conejo-ramos-released-ice-custody/) to Minneapolis after being released from the Dilley, Texas detention center. Rep. Joaquin Castro escorted them on the flight home.
 - **Jan 31** - [Federal judge orders release](https://www.sacurrent.com/news/texas-news/federal-judge-orders-release-of-liam-ramos/) of Liam and his father by Tuesday. Judge Fred Biery accused the government of "ill-conceived and incompetently implemented pursuit of daily deportation quotas."
@@ -49,6 +50,7 @@ Liam Conejo Ramos, a 5-year-old kindergartner, was detained by ICE with his fath
 22. NBC News (Feb 6, 2026): [Father says 5-year-old son has nightmares and wakes up crying since immigration detention](https://www.nbcnews.com/news/us-news/father-says-5-year-old-son-nightmares-wakes-crying-immigration-detenti-rcna257718)
 23. Scripps News (Feb 6, 2026): [DHS fast-tracks 5-year-old Liam Ramos and his father for deportation](https://www.nbc26.com/politics/immigration/dhs-fast-tracks-5-year-old-liam-ramos-and-his-father-for-deportation)
 24. NOTUS (Feb 6, 2026): [Democratic Lawmaker Says Trump Administration Is 'Trying to Take' Liam Conejo Ramos Again](https://www.notus.org/immigration/trump-administration-liam-conejo-ramos-deportation)
+25. CNN (Feb 7, 2026): [Judge grants continuance in the asylum case of Liam Conejo Ramos and his family](https://us.cnn.com/2026/02/07/us/liam-conejo-ramos-family-asylum-continuance)
 
 ## Related Incidents
 - [DHS Response: "Child Was ABANDONED," Father "Fled on Foot"](#2026-01-21-dhs-response-5-year-old-bait)
@@ -87,6 +89,7 @@ Liam Conejo Ramos, a 5-year-old kindergartner, was detained by ICE with his fath
 - **January 31, 2026** - Judge Biery orders release of Liam and his father by Tuesday, accusing government of "ill-conceived and incompetently implemented pursuit of daily deportation quotas."
 - **February 1, 2026** - Liam and his father released from Dilley. Rep. Joaquin Castro escorts them on flight home to Minneapolis.
 - **February 5-6, 2026** - DHS files removal proceedings against Liam and his father. Attorney Danielle Molliver calls the move "extraordinary" and possibly "retaliatory." DHS calls it "standard procedure."
+- **February 7, 2026** - Immigration judge grants continuance, postponing the family's asylum hearing.
 
 ## Official Accounts
 

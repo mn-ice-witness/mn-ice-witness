@@ -9,10 +9,13 @@ affected_individual_citizenship: us-citizen
 injuries: fatal
 trustworthiness: high
 created: 2026-01-24T13:40:15
-last_updated: 2026-01-24T16:54:42
+last_updated: 2026-02-07T14:50:30
 ---
 
 # DHS Response: Pretti "Violently Resisted"
+
+## Updates
+- **Feb 2** - [U.S. District Judge Eric Tostrud denied](https://www.bloomberg.com/news/articles/2026-02-02/minnesota-loses-bid-to-force-noem-to-preserve-shooting-evidence) the State of Minnesota's request to extend a temporary order requiring DHS Secretary Noem to preserve all evidence related to the fatal shooting.
 
 ## Summary
 Following the fatal shooting of Alex Pretti by federal agents, DHS Secretary Kristi Noem, White House advisor Stephen Miller, and other administration officials have consistently claimed Pretti approached officers with a handgun and "violently resisted" attempts to disarm him. Video from multiple angles shows Pretti was holding a phone, not a weapon, and that his gun was removed from its holster by an agent before he was shot. At a press conference, Border Patrol Commander Greg Bovino defended the shooting, claiming the officer fired "defensive shots" and that federal law enforcement had been "under attack" in Minneapolis. Bovino described the officer as "highly trained" with eight years of experience. Video shows multiple agents had Pretti on the ground when he was shot.
@@ -24,6 +27,7 @@ Following the fatal shooting of Alex Pretti by federal agents, DHS Secretary Kri
 4. The Blaze (Jan 24, 2026): [DHS: Armed suspect fatally shot, "violently resisted" disarming attempt](https://www.theblaze.com/news/dhs-armed-suspect-fatally-shot-by-federal-agent-in-minneapolis-suspect-violently-resisted-disarming-attempt)
 5. CBS Minnesota (Jan 24, 2026): [Federal agents fatally shoot another Minneapolis resident](https://www.cbsnews.com/minnesota/live-updates/reported-shooting-south-minneapolis-federal-agents-protesters/)
 6. X/Twitter (Jan 24, 2026): [@Sec_Noem statement](https://x.com/Sec_Noem/status/2015202988923711951)
+7. Bloomberg (Feb 2, 2026): [Minnesota Loses Bid to Force Noem to Preserve Shooting Evidence](https://www.bloomberg.com/news/articles/2026-02-02/minnesota-loses-bid-to-force-noem-to-preserve-shooting-evidence)
 
 ## Related Incident
 See full incident details: [Alex Pretti Shot and Killed by Federal Agents](#2026-01-24-alex-pretti-shooting)
