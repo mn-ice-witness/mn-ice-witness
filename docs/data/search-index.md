@@ -162,7 +162,6 @@ Published incidents visible on the main site.
 - incidents/2026-01/09/2026-01-09-hopkins-bryam-escobar.md | 2026-01-09 | Hopkins | immigrants | Hopkins Father Detained Going to Work; Later Released by Court Order
 - incidents/2026-01/09/2026-01-09-fridley-schools-closure.md | 2026-01-09 | Fridley | schools-hospitals | Fridley Public Schools Closes Twice Due to ICE Activity
 - incidents/2026-01/09/2026-01-09-juan-carlos-brutality.md | 2026-01-09 | Minneapolis | observers | Border Patrol Agent Knees Man in Face While Pinned Down
-- incidents/2026-01/08/2026-01-08-ahmed-hassan-uber-driver.md | 2026-01-08 | Minneapolis | citizens | U.S. Citizen Uber Driver Confronted by Agents: "I can hear you don't have the same accent"
 - incidents/2026-01/08/2026-01-08-alberto-castaneda-mondragon-head-injury.md | 2026-01-08 | St. Paul | citizens | Legal Visa Holder Hospitalized With Skull Fractures; ICE Claims He "Purposely Ran Headfirst Into a Brick Wall"
 - incidents/2026-01/08/2026-01-08-rochester-gates-complex.md | 2026-01-08 | Rochester | immigrants | Multiple ICE Arrests in Rochester; Activist Documents Agent Using Hammer on Car Window
 - incidents/2026-01/08/2026-01-08-thi-dua-vang-st-paul.md | 2026-01-08 | St. Paul | citizens | Christian Refugee Detained Despite Legal Status, ICE Keeps Returning to Home After Release
@@ -175,6 +174,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/08/2026-01-08-jose-ramirez-native-american.md | 2026-01-08 | Robbinsdale | citizens | Native American U.S. Citizen Punched and Detained by ICE
 - incidents/2026-01/07/2026-01-07-doctor-blocked-renee-good.md | 2026-01-07 | Minneapolis | observers | ICE Blocks Physician From Helping Shooting Victim
 - incidents/2026-01/07/2026-01-07-pastor-callaghan-detained.md | 2026-01-07 | Minneapolis | observers | White Pastor Detained, Told He Was Released Because "You're White. You Wouldn't Be Fun Anyway"
+- incidents/2026-01/07/2026-01-07-ahmed-hassan-uber-driver.md | 2026-01-07 | Minneapolis | citizens | U.S. Citizen Uber Driver Confronted by Agents: "I can hear you don't have the same accent"
 - incidents/2026-01/07/2026-01-07-jardin-daycare-teacher-detained.md | 2026-01-07 | Minneapolis | schools-hospitals, immigrants | Daycare Teacher with Work Permit Detained Outside Minneapolis Preschool
 - incidents/2026-01/07/2026-01-07-luis-ramirez-orozco-shakopee.md | 2026-01-07 | Shakopee | citizens | U.S. Citizen Tackled by ICE at Shakopee Construction Site, Hospitalized
 - incidents/2026-01/07/2026-01-07-renee-good-shooting.md | 2026-01-07 | Minneapolis | observers | Renee Nicole Good Shot and Killed by ICE Agent
