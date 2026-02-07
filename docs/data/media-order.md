@@ -25,6 +25,7 @@
 
 
 
+
 juan-carlos-brutality
 aliya-rahman-car-window-hospitalized
 speedway-st-paul
@@ -139,3 +140,4 @@ javier-abreu-rochester-kidney-transplant
 georgetown-park-pepper-spray
 ali-dahir-citizen-check
 julio-sosa-celis-shooting
+raul-aguirre-castrejon-monticello

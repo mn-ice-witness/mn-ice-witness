@@ -4,7 +4,7 @@
       "filePath": "incidents/2026-02/05/2026-02-05-javier-abreu-rochester-kidney-transplant.md",
       "title": "Kidney Transplant Recipient Arrested in Rochester Needs Anti-Rejection Medication",
       "summary": "Federal immigration agents arrested Javier Abreu, 38, on Civic Center Drive in Rochester on February 5 while he was delivering groceries for his church. Agents rammed his car and broke his window during the arrest. Abreu is a kidney transplant recipient who requires anti-rejection medication, and State Rep. Kim Hicks says his access to the medication has been inconsistent. He was transported to the Whipple Federal Building near Ft. Snelling and was scheduled to be flown to a facility in Texas on February 6.",
-      "latestUpdate": null,
+      "latestUpdate": "DHS spokesperson states [\"ICE is working with the family\"](https://www.mprnews.org/story/2026/02/06/transplant-recipient-arrested-by-federal-agents-in-rochester-needs-medicine-live) to ensure Abreu gets his medications. Family and attorney have not independently confirmed this. Abreu was scheduled to be flown to a Texas facility at 1:00 PM.",
       "date": "2026-02-05",
       "time": "unknown",
       "location": "Civic Center Drive and Broadway Avenue",
@@ -15,7 +15,7 @@
       "injuries": "none",
       "trustworthiness": "high",
       "created": "2026-02-06T15:56:25",
-      "lastUpdated": "2026-02-06T15:56:25",
+      "lastUpdated": "2026-02-07T14:50:30",
       "mediaCount": 0,
       "notable": false,
       "hasLocalMedia": true,
@@ -923,13 +923,18 @@
       "lastUpdated": "2026-02-07T14:12:42",
       "mediaCount": 0,
       "notable": false,
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
+      "hasLocalMedia": true,
+      "localMediaType": "image",
+      "localMediaPath": "media/2026-01/10/2026-01-10-raul-aguirre-castrejon-monticello.jpg",
       "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
+      "localMediaFiles": [
+        {
+          "type": "image",
+          "path": "media/2026-01/10/2026-01-10-raul-aguirre-castrejon-monticello.jpg"
+        }
+      ],
+      "aspectRatio": 0.9630818619582665,
+      "mediaVersion": 1770497651
     },
     {
       "filePath": "incidents/2026-01/10/2026-01-10-msp-airport-employees.md",
@@ -987,7 +992,7 @@
       "filePath": "incidents/2026-01/08/2026-01-08-thi-dua-vang-st-paul.md",
       "title": "Christian Refugee Detained Despite Legal Status, ICE Keeps Returning to Home After Release",
       "summary": "Thi Dua Vang, a Hmong refugee who fled Vietnam after decades of persecution for being Christian, was detained by ICE at her St. Paul home despite having legal status and a pending green card application. After nearly two weeks in detention\u2014including being transferred to Texas and nearly deported before being pulled off a plane on the runway\u2014an immigration judge ordered her release on bond. Since returning home, the family reports ICE agents have come back to their home three times.",
-      "latestUpdate": null,
+      "latestUpdate": "[MPR News reports](https://www.mprnews.org/story/2026/02/07/i-felt-hopeless-hmong-refugee-stranded-in-texas-after-release-from-ice-detention) Vang was forced outside after release from the Houston processing center. Agents refused to let her wait inside for her family: \"They forced me outside and told me they didn't care if I lived or died.\" ICE had not returned her documents (Social Security card, state ID), preventing her from flying home.",
       "date": "2026-01-08",
       "time": "morning",
       "location": "Family home, St. Paul",
@@ -998,7 +1003,7 @@
       "injuries": "none",
       "trustworthiness": "medium",
       "created": "2026-02-03T14:02:17",
-      "lastUpdated": "2026-02-03T14:02:17",
+      "lastUpdated": "2026-02-07T14:50:30",
       "mediaCount": 0,
       "notable": false,
       "hasLocalMedia": true,
