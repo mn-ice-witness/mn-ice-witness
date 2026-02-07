@@ -1300,12 +1300,17 @@
       "mediaCount": 0,
       "notable": false,
       "hasLocalMedia": true,
-      "localMediaType": "image",
-      "localMediaPath": "media/2025-12/09/2025-12-09-mubashir-wrongful-detention-og-custom.jpg",
-      "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
+      "localMediaType": "video",
+      "localMediaPath": "media/2025-12/09/2025-12-09-mubashir-wrongful-detention.mp4",
+      "localMediaOgPath": "media/2025-12/09/2025-12-09-mubashir-wrongful-detention-og-custom.jpg",
+      "localMediaFiles": [
+        {
+          "type": "video",
+          "path": "media/2025-12/09/2025-12-09-mubashir-wrongful-detention.mp4"
+        }
+      ],
+      "aspectRatio": 1.6083333333333334,
+      "mediaVersion": 1770438022
     },
     {
       "filePath": "incidents/2025-12/07/2025-12-07-rochester-tps-holder-detained.md",
