@@ -12,7 +12,7 @@ title: U.S. Citizen Tackled for "Looking Somali"
 incident: 2025-12-09-mubashir-wrongful-detention
 source:
 ---
-The first major wrongful detention of a U.S. citizen. Five days after Trump [called Somali immigrants "garbage"](https://abcnews.go.com/Politics/trump-describes-somali-immigrants-garbage-amid-feud-minnesota/story?id=128069199) during a Cabinet meeting, 20-year-old Mubashir Hussen — a Somali-American born in the United States — is tackled and placed in a chokehold by ICE agents in the Cedar-Riverside neighborhood despite offering to show his passport. He is detained for hours. Minneapolis Mayor Jacob Frey condemns the arrest, establishing the pattern of racial profiling that would define the operation. [For a list of all U.S. citizen and legal resident incidents, see here](/list/citizens).
+The first major wrongful detention of a U.S. citizen. Five days after Trump [called Somali immigrants "garbage"](https://abcnews.go.com/Politics/trump-describes-somali-immigrants-garbage-amid-feud-minnesota/story?id=128069199) during a Cabinet meeting, 20-year-old Mubashir Hussen — a Somali-American born in the United States — is tackled and placed in a chokehold by ICE agents in the Cedar-Riverside neighborhood despite offering to show his passport. He is detained for hours. Minneapolis Mayor Jacob Frey condemns the arrest, establishing the pattern of racial profiling that would define the operation. [For a list of all U.S. citizen and legal resident incidents, see list/citizens](/list/citizens).
 
 ---
 date: 2025-12-07
@@ -20,7 +20,7 @@ title: Guns Pointed at Elderly Couple Observing ICE
 incident: 2025-12-07-biestman-lee-guns-pointed
 source:
 ---
-In an early sign of how the operation would treat those who watched, John Biestman and Janet Lee, a married couple in their late 60s from Linden Hills, follow an ICE vehicle after witnessing a raid at Church of the Assumption in Richfield. Agents box in their car and point guns at them. The couple later become named plaintiffs in the ACLU of Minnesota's federal lawsuit challenging ICE's treatment of observers — the first legal action to establish that watching federal agents is a constitutionally protected activity. It would not be the last: in the weeks ahead, agents [followed observers home](/entry/2026-01-06-levy-observers-followed-home); [told one "did you not learn from what just happened?"](/entry/2026-01-12-phil-maddox-did-you-not-learn); [snatched phones from people recording](/entry/2026-01-11-observer-phone-snatched); [pepper-sprayed women in Mankato](/entry/2026-01-13-mankato-women-sprayed) — [among others](/list/observers).
+In an early sign of how the operation would treat those who watched, John Biestman and Janet Lee, a married couple in their late 60s from Linden Hills, follow an ICE vehicle after witnessing a raid at Church of the Assumption in Richfield. Agents box in their car and point guns at them. The couple later become named plaintiffs in the ACLU of Minnesota's federal lawsuit challenging ICE's treatment of observers — the first legal action to establish that watching federal agents is a constitutionally protected activity. It would not be the last — [for a list of all observer incidents, see list/observers](/list/observers).
 
 ---
 date: 2025-12-15
@@ -44,7 +44,7 @@ title: Patient Shackled to Hospital Bed; DHS Retaliates Against Hospital
 incident: 2025-12-31-hcmc-patient-shackled
 source:
 ---
-ICE agents enter Hennepin County Medical Center — Minnesota's largest Level One trauma center — without a judicial warrant and shackle a patient to his hospital bed for 28 hours. Six agents rotate in shifts, two at the bedside at all times. After county commissioners and hospital leadership confront the agents and confirm no warrant exists, they are ordered to leave. Days later, DHS retaliates: on January 8, it [subpoenas I-9 employment records](/entry/2026-01-08-hennepin-healthcare-i9-subpoena) for more than 7,000 Hennepin Healthcare employees — home addresses, Social Security numbers, eligibility status. Commissioner Angela Conley calls it a "retaliatory move." In the weeks ahead, a [man is detained while driving his sick wife to the emergency room](/entry/2026-01-16-parral-ortiz-hospital-detention) and a [Libyan man seeking medical treatment is shackled despite a painful skin condition](/entry/2026-01-11-hani-duglof-medical). The actions break a long-standing precedent against immigration enforcement at hospitals. [See all hospital and school incidents](/list/schools-hospitals).
+ICE agents enter Hennepin County Medical Center — Minnesota's largest Level One trauma center — without a judicial warrant and shackle a patient to his hospital bed for 28 hours. Six agents rotate in shifts, two at the bedside at all times. After county commissioners and hospital leadership confront the agents and confirm no warrant exists, they are ordered to leave. Days later, DHS retaliates: on January 8, it [subpoenas I-9 employment records](/entry/2026-01-08-hennepin-healthcare-i9-subpoena) for more than 7,000 Hennepin Healthcare employees — home addresses, Social Security numbers, eligibility status. Commissioner Angela Conley calls it a "retaliatory move." In the weeks ahead, a [man is detained while driving his sick wife to the emergency room](/entry/2026-01-16-parral-ortiz-hospital-detention) and a [Libyan man seeking medical treatment is shackled despite a painful skin condition](/entry/2026-01-11-hani-duglof-medical). The actions break a long-standing precedent against immigration enforcement at hospitals. [For a list of all hospital and school incidents, see list/schools-hospitals](/list/schools-hospitals).
 
 ---
 date: 2026-01-06
@@ -76,7 +76,7 @@ title: Border Patrol Raids Roosevelt High School
 incident: 2026-01-07-roosevelt-high-school
 source:
 ---
-Border Patrol agents descend on Roosevelt High School during dismissal, tackle people on school grounds, and deploy chemical irritants. A special education assistant — a U.S. citizen — is detained. Minneapolis Public Schools cancels classes for the rest of the week. Former Governor Jesse Ventura, a Roosevelt graduate, [visits the next day](/entry/2026-01-08-jesse-ventura-roosevelt) and calls ICE "the draft-dodging coward's Gestapo," comparing the administration's tactics to 1930s Germany. [See all school and hospital incidents](/list/schools-hospitals).
+Border Patrol agents descend on Roosevelt High School during dismissal, tackle people on school grounds, and deploy chemical irritants. A special education assistant — a U.S. citizen — is detained. Minneapolis Public Schools cancels classes for the rest of the week. Former Governor Jesse Ventura, a Roosevelt graduate, [visits the next day](/entry/2026-01-08-jesse-ventura-roosevelt) and calls ICE "the draft-dodging coward's Gestapo," comparing the administration's tactics to 1930s Germany. [For a list of all school and hospital incidents, see list/schools-hospitals](/list/schools-hospitals).
 
 ---
 date: 2026-01-07
@@ -121,7 +121,7 @@ Federal officials block congressional oversight. Representatives Ilhan Omar, Ang
 
 ---
 date: 2026-01-11
-title: Observer Detentions Break Into Evening News
+title: A KARE 11 Special Report Marks Increasing Mainstream Media Coverage
 incident: 2026-01-11-siguenza-okeefe-detained
 source:
 ---
@@ -165,7 +165,7 @@ title: "Dine and Detain": Agents Eat at Restaurant, Then Arrest Workers
 incident: 2026-01-15-el-tapatio-willmar
 source:
 ---
-In a widely publicized story, four ICE agents eat lunch at El Tapatio, a family-owned Mexican restaurant in Willmar. That evening, they follow the workers after closing and detain the owners — who have lived in the United States since 1989 — and their dishwasher near a Lutheran church. But the pattern it exposed was already widespread: across Minnesota, agents were arresting cooks, dishwashers, meatpackers, and farm workers — people with no criminal records who had built lives, raised families, and kept local economies running for decades. They were pulled from restaurants, food plants, and farms from Brainerd to Pelican Rapids, leaving businesses short-staffed and communities hollowed out. [See all immigrant detention incidents](/list/immigrants).
+In a widely publicized story, four ICE agents eat lunch at El Tapatio, a family-owned Mexican restaurant in Willmar. That evening, they follow the workers after closing and detain the owners — who have lived in the United States since 1989 — and their dishwasher near a Lutheran church. But the pattern it exposed was already widespread: across Minnesota, agents were arresting cooks, dishwashers, meatpackers, and farm workers — people with no criminal records who had built lives, raised families, and kept local economies running for decades. They were pulled from restaurants, food plants, and farms from Brainerd to Pelican Rapids, leaving businesses short-staffed and communities hollowed out. [For a list of all immigrant detention incidents, see list/immigrants](/list/immigrants).
 
 ---
 date: 2026-01-16
@@ -197,7 +197,7 @@ title: Federal Officials Insist Operation Targets "Criminals and Rapists"
 incident: 2026-01-18-noem-pepper-spray-denial-backtrack
 source:
 ---
-Part of a sustained federal messaging campaign to justify the operation. DHS Secretary Kristi Noem tells CBS's "Face the Nation" that agents are targeting "criminals and rapists," denies use of pepper spray — then backtracks when shown video evidence. President Trump echoes the theme on social media, claiming ICE is capturing "murderers & criminals" and that there are "thousands of vicious animals in MN alone." The claims are contradicted by the operation's own record: the majority of documented incidents involve U.S. citizens, legal residents, bystanders, and children. [See all official statements and responses](/list/response).
+Part of a sustained federal messaging campaign to justify the operation. DHS Secretary Kristi Noem tells CBS's "Face the Nation" that agents are targeting "criminals and rapists," denies use of pepper spray — then backtracks when shown video evidence. President Trump echoes the theme on social media, claiming ICE is capturing "murderers & criminals" and that there are "thousands of vicious animals in MN alone." The claims are contradicted by the operation's own record: the majority of documented incidents involve U.S. citizens, legal residents, bystanders, and children. [For a list of all official statements and responses, see list/response](/list/response).
 
 ---
 date: 2026-01-20
