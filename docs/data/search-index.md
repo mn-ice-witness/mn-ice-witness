@@ -15,11 +15,14 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (203 incidents)
+## CURRENT (209 incidents)
 
 Published incidents visible on the main site.
 
+- incidents/2026-02/06/2026-02-06-brasel-right-to-counsel-whipple.md | 2026-02-06 | Minneapolis | background | Judge Brasel Orders Government to Reach Right-to-Counsel Agreement at Whipple ICE Facility
 - incidents/2026-02/06/2026-02-06-georgetown-park-pepper-spray.md | 2026-02-06 | Bloomington | observers | Federal Agents Pepper Spray Relatives During Arrest at Georgetown Park Apartments
+- incidents/2026-02/06/2026-02-06-honduran-mother-attorney-denied-access.md | 2026-02-06 | Minneapolis | immigrants | Honduran Mother with Brain Surgery History Held Extra Days After Judge Orders Release; Attorney Cannot Find Her
+- incidents/2026-02/06/2026-02-06-missing-5th-grader-dilley.md | 2026-02-06 | Columbia Heights | schools-hospitals, immigrants | Missing Columbia Heights Fifth Grader Spotted Inside Texas Detention Center by Classmates
 - incidents/2026-02/05/2026-02-05-javier-abreu-rochester-kidney-transplant.md | 2026-02-05 | Rochester | citizens | Kidney Transplant Recipient Arrested in Rochester Needs Anti-Rejection Medication
 - incidents/2026-02/05/2026-02-05-hennepin-courthouse-detentions.md | 2026-02-05 | Minneapolis | immigrants | Two Detained by ICE Inside Hennepin County Courthouse After Hearing
 - incidents/2026-02/04/2026-02-04-trump-softer-touch-interview.md | 2026-02-04 | Washington D.C. | response | Trump Says Administration Will Use "Softer Touch" After Minneapolis Shootings
@@ -108,6 +111,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/14/2026-01-14-circle-pines-restaurant-worker.md | 2026-01-14 | Circle Pines | immigrants | Restaurant Worker with Legal Visa Detained by Plain-Clothed Agents
 - incidents/2026-01/14/2026-01-14-st-paul-public-works-snowplow-driver.md | 2026-01-14 | St. Paul | immigrants | St. Paul Snowplow Driver with Legal Work Status Detained by ICE
 - incidents/2026-01/14/2026-01-14-nasra-ahmed-st-paul-citizen.md | 2026-01-14 | St. Paul | citizens | U.S. Citizen Born in Minnesota Detained by ICE for Two Days
+- incidents/2026-01/14/2026-01-14-julio-sosa-celis-shooting.md | 2026-01-14 | Minneapolis | citizens | ICE Agent Shoots Man Through Closed Door in North Minneapolis; Bullet Enters Apartment with Four Children
 - incidents/2026-01/14/2026-01-14-agriculture-press-conference.md | 2026-01-14 | St. Paul | background | State Lawmakers and Farmers Union Hold Press Conference on ICE Impact to Agriculture
 - incidents/2026-01/14/2026-01-14-dhs-response-frey-sanctuary.md | 2026-01-14 | Minneapolis | response | DHS Blames Mayor Frey's Sanctuary Policies for Criminal Release
 - incidents/2026-01/14/2026-01-14-aquila-elementary-ice-presence.md | 2026-01-14 | St. Louis Park | schools-hospitals | ICE Conducts Operation Across Street From Aquila Elementary During Dismissal
@@ -155,6 +159,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/2026-01-second-week-general-mills-chanhassen.md | 2026-01-10 | Chanhassen | immigrants | Contractor Detained at General Mills Chanhassen Facility
 - incidents/2026-01/10/2026-01-10-nicole-cleland-global-entry-revoked.md | 2026-01-10 | Richfield | observers | Observer's Global Entry and TSA PreCheck Revoked After CBP Agent Uses Facial Recognition
 - incidents/2026-01/10/2026-01-10-bloomington-ave-bus-stop.md | 2026-01-10 | Minneapolis | immigrants | ICE Agents "Ripping People From Cars" at Bus Stop; Union Marks Site as "Abduction" Location
+- incidents/2026-01/10/2026-01-10-raul-aguirre-castrejon-monticello.md | 2026-01-10 | Monticello | citizens | Legal Permanent Resident Boxed In on Road, Handcuffed at Gunpoint; Agents Take Cash from Wallet
 - incidents/2026-01/10/2026-01-10-maple-grove-walmart.md | 2026-01-10 | Maple Grove | immigrants | Man Pinned and Arrested Inside Maple Grove Walmart
 - incidents/2026-01/10/2026-01-10-congressional-access-denied.md | 2026-01-10 | Minneapolis | background | Congressional Representatives Denied Access to Whipple ICE Facility
 - incidents/2026-01/10/2026-01-10-msp-airport-employees.md | 2026-01-10 | Minneapolis | citizens | Multiple Airport Employees Detained by ICE at MSP
@@ -216,6 +221,7 @@ Published incidents visible on the main site.
 - incidents/2025-12/04/2025-12-04-dhs-response-abdulkadir-abdi.md | 2025-12-04 | Minneapolis | response | DHS Response: Abdulkadir Abdi "Gang Member"
 - incidents/2025-12/04/2025-12-04-abdulkadir-abdi-detained.md | 2025-12-04 | Minneapolis | immigrants | Addiction Recovery Leader Detained, Labeled "Gang Member"
 - incidents/2025-12/03/2025-12-03-hola-arepa-warrantless-entry.md | 2025-12-03 | Minneapolis | immigrants | Hola Arepa Staff Refuses ICE Entry Without Warrant
+- incidents/2025-12/02/2025-12-02-ali-dahir-citizen-check.md | 2025-12-02 | Minneapolis | citizens | Citizen Check: U.S. Citizen Detained 30 Minutes Outside Apartment Despite Showing Passport
 - incidents/2025-12/02/2025-12-02-metro-transit-driver-detained.md | 2025-12-02 | Minneapolis | immigrants | Somali-American Metro Transit Bus Driver Detained Over a Month
 - incidents/2025-12/2025-12-early-lomabonita-jose.md | 2025-12-01 | St. Paul (East Side) | immigrants | Man With Legal Protection Status Detained at Restaurant; Vehicle Abandoned
 - incidents/2025-12/01/2025-12-01-operation-metro-surge-launched.md | 2025-12-01 | Minneapolis | background | DHS Launches Operation Metro Surge
@@ -225,7 +231,7 @@ Published incidents visible on the main site.
 
 ---
 
-## NO-ADD (138 entries)
+## NO-ADD (137 entries)
 
 Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 
@@ -275,7 +281,6 @@ Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 - dev-docs/not_use.md | Jan 23 | Mayo Clinic Healthcare Workers Walkout
 - dev-docs/not_use.md | Jan 21 | Fong Khang Pardoned Then Detained
 - dev-docs/not_use.md | Jan 22 | Nekima Levy Armstrong, Chauntyll Allen, William Kelly Arrests
-- dev-docs/not_use.md | Jan 14 | ICE Agent Shoots Venezuelan Man in North Minneapolis
 - dev-docs/not_use.md | n/a | Over 100 Faribault High School Students Walk Out to Protest ICE
 - dev-docs/not_use.md | Jan 10 | Fort Snelling Historical Site Closure
 - dev-docs/not_use.md | n/a | MSP Airport Deportation Flights Increasing

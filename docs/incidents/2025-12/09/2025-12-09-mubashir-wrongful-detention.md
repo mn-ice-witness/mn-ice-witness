@@ -30,6 +30,10 @@ Mubashir, a 20-year-old U.S. citizen and Somali American, was tackled, placed in
 10. CBS News (Dec 12, 2025): [ICE agents wrongfully detained U.S. citizen in Minneapolis for looking Somali, city leaders say](https://www.cbsnews.com/minnesota/news/minneapolis-leaders-say-us-citizen-was-wrongfully-arrested-by-ice-agents/)
 11. CNN (Dec 13, 2025): [ICE detains US citizen in Minneapolis: He went on his lunch break and ended up in a chokehold](https://www.cnn.com/2025/12/13/us/ice-minneapolis-us-citizen)
 12. Newsweek (Dec 13, 2025): [US Citizen Arrested by ICE After Offering to Show Passport Sparks Backlash](https://www.newsweek.com/us-citizen-arrested-by-ice-after-offering-to-show-passport-sparks-backlash-11191525)
+13. JustSecurity (Jan 16, 2026): [Declaration of Mubashir Khalif Hussen, Case 26-cv-00324](https://www.justsecurity.org/pdfs/mn-ice-enforcement/12%20MUBASHIR%20KHALIF%20HUSSEN.pdf)
+14. Court Filing (Jan 9, 2026): [Hussen v. Noem, Case 26-cv-00324 — Original Complaint](https://storage.courtlistener.com/recap/gov.uscourts.mnd.230424/gov.uscourts.mnd.230424.2.0.pdf)
+15. NBC News (Jan 9, 2026): [Lawsuit accuses federal agents of racial profiling in Minneapolis immigration operation](https://www.nbcnews.com/news/us-news/lawsuit-accuses-federal-agents-racial-profiling-minneapolis-immigratio-rcna254245)
+16. NPR (Jan 9, 2026): [Federal agents racial profiling lawsuit transcript](https://www.npr.org/transcripts/nx-s1-5689031)
 
 ## Affected Individual(s)
 - **Name:** Mubashir (requested first name only)

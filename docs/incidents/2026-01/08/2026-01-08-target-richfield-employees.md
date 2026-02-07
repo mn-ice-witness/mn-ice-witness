@@ -35,6 +35,7 @@ Two Target drive-up employees, both U.S. citizens, were aggressively detained by
 15. ACLU Press Release (Jan 15, 2026): [ACLU sues federal government](https://www.aclu.org/press-releases/aclu-sues-federal-government-to-end-ice-cbps-practice-of-suspicionless-stops-warrantless-arrests-and-racial-profiling-of-minnesotans)
 16. Instagram Video (Jan 8, 2026): ["Target employee detained by ICE"](https://www.instagram.com/reel/DTY9Em3ASMU/)
 17. Instagram Video (Jan 8, 2026): ["A viral video reporting ICE arresting two US citizens"](https://www.instagram.com/reel/DTRPG3rjert/)
+18. Court Filing (Jan 9, 2026): [Hussen v. Noem, Case 26-cv-00324 — Complaint including Javier Doe declaration](https://storage.courtlistener.com/recap/gov.uscourts.mnd.230424/gov.uscourts.mnd.230424.2.0.pdf)
 
 ## Affected Individual(s)
 
@@ -43,7 +44,7 @@ Two Target drive-up employees, both U.S. citizens, were aggressively detained by
 - **Age:** 22
 - **Residence:** Richfield, MN
 - **Occupation:** Target drive-up employee
-- **Citizenship:** U.S. Citizen
+- **Citizenship:** U.S. Citizen (born in Minnesota, lived in Minnesota his entire life)
 - **Ethnicity:** Latino/Hispanic
 - **Injuries:** Head injury from being slammed into SUV; required emergency medical care
 

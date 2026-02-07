@@ -25,6 +25,8 @@ ICE agents followed and rammed into the car of Christian Molina, a 40-year-old L
 5. NPR (Jan 16, 2026): [ICE surge sparks fear and resistance in Minneapolis](https://www.npr.org/2026/01/16/nx-s1-5677712/ice-surge-sparks-fear-and-resistance-in-minneapolis)
 6. MS NOW (Jan 13, 2026): [Clashes escalate between protesters, immigration officers in Minneapolis](https://www.ms.now/news/clashes-escalate-between-protesters-immigration-officers-in-minneapolis)
 7. Star Tribune (Jan 18, 2026): [Allegations of racial profiling of U.S. citizens on the rise as ICE surge expands in Minnesota](https://www.startribune.com/allegations-of-racial-profiling-of-us-citizens-on-the-rise-as-ice-surge-expands-in-minnesota/601564653)
+8. Court Filing (Jan 16, 2026): [Declaration re: Molina incident, Hussen v. Noem Case 26-cv-00324](https://www.justsecurity.org/pdfs/mn-ice-enforcement/Hussen%20Doc%2092-4.pdf)
+9. Instagram Reel (Jan 12, 2026): [Witness footage of ICE ramming Molina's car](https://www.instagram.com/reel/DTbubTvgFBi/)
 
 ## Affected Individual(s)
 - **Name:** Christian Molina
@@ -58,6 +60,11 @@ Minneapolis City Council Member Jason Chavez arrived at the scene. A crowd of ap
 
 ## Location Context
 The incident occurred two blocks from where Renee Nicole Good was killed by an ICE agent on January 7.
+
+## DHS Response
+DHS claimed ICE pulled over someone they suspected was in the country illegally and that "an agitator's reckless driving caused the accident."
+
+**Contradicted by Molina**, who stated he was targeted based on his appearance and that ICE agents deliberately rammed into his car from behind.
 
 ## Editorial Assessment
 **HIGH** - Detailed reporting from Sahan Journal with named affected individual, witness accounts, and city council member present. Clear documentation of racial profiling.

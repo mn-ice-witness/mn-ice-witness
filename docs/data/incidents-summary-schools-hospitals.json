@@ -1,6 +1,35 @@
 {
   "incidents": [
     {
+      "filePath": "incidents/2026-02/06/2026-02-06-missing-5th-grader-dilley.md",
+      "title": "Missing Columbia Heights Fifth Grader Spotted Inside Texas Detention Center by Classmates",
+      "summary": "Nearly a month after a Valley View Elementary fifth grader stopped showing up for class with no word from her family, the missing girl was spotted inside the Dilley Immigration Processing Center in Texas. Two of her schoolmates \u2014 brothers in second and fifth grade \u2014 recognized her after being released from the same facility. At least seven students from Columbia Heights Public Schools have been detained by ICE, ranging in age from five to seventeen.",
+      "latestUpdate": null,
+      "date": "2026-02-06",
+      "time": "unknown",
+      "location": "Valley View Elementary School / Dilley Immigration Processing Center",
+      "city": "Columbia Heights",
+      "type": [
+        "schools-hospitals",
+        "immigrants"
+      ],
+      "status": "ongoing",
+      "affectedIndividualCitizenship": "unknown",
+      "injuries": "none",
+      "trustworthiness": "high",
+      "created": "2026-02-07T14:12:42",
+      "lastUpdated": "2026-02-07T14:12:42",
+      "mediaCount": 0,
+      "notable": false,
+      "hasLocalMedia": false,
+      "localMediaType": null,
+      "localMediaPath": null,
+      "localMediaOgPath": null,
+      "localMediaFiles": [],
+      "aspectRatio": null,
+      "mediaVersion": null
+    },
+    {
       "filePath": "incidents/2026-02/03/2026-02-03-fraser-school-cleaner-detained.md",
       "title": "Contract Cleaner Detained by Armed Agents in Fraser School Parking Lot (NO NEWS MEDIA)",
       "summary": "Federal agents detained a woman working as a contract cleaner in the parking lot of Fraser School, an inclusive preschool for children with disabilities in Richfield. At least three officers in three unmarked vehicles with tinted windows took the woman from her car, restrained her hands, and drove away.",

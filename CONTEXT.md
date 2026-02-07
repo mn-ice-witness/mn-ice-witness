@@ -207,6 +207,8 @@ When user says **"review the timeline"** or **"check the timeline"**:
 2. Ask: "Please paste the text so I can verify it covers this incident."
 3. Do this one URL at a time — don't dump a list of URLs
 
+**⚠️ "Sibling tool call errored":** When parallel WebFetch calls fail with this error, it means one failure cascaded to the others. **STOP immediately** — do not retry or launch more fetches. Ask the user for content of the failed URLs one at a time.
+
 ### Before Adding Any Incident
 Read `adding-incidents.md` first. Check `not_use.md` for rejected stories.
 
