@@ -226,22 +226,22 @@ const MediaGallery = {
             videoControls = `
                 <div class="media-controls">
                     <button class="media-control-btn play-pause-btn" aria-label="Play/Pause">
-                        <svg class="media-icon-pause" viewBox="0 0 24 24" width="24" height="24"><use href="#icon-pause"/></svg>
-                        <svg class="media-icon-play" viewBox="0 0 24 24" width="24" height="24" style="display:none"><use href="#icon-play"/></svg>
+                        <svg class="media-icon-pause" viewBox="0 0 24 24" width="28" height="28"><use href="#icon-pause"/></svg>
+                        <svg class="media-icon-play" viewBox="0 0 24 24" width="28" height="28" style="display:none"><use href="#icon-play"/></svg>
                     </button>
                     <div class="time-slider-container">
                         <input type="range" class="time-slider" min="0" max="100" value="0" step="0.1" aria-label="Video progress">
                     </div>
                     <button class="media-control-btn restart-btn" aria-label="Restart">
-                        <svg viewBox="0 0 24 24" width="24" height="24"><use href="#icon-restart"/></svg>
+                        <svg viewBox="0 0 24 24" width="28" height="28"><use href="#icon-restart"/></svg>
                     </button>
                     <button class="media-control-btn audio-toggle muted" aria-label="Toggle sound">
-                        <svg class="speaker-icon" viewBox="0 0 24 24" width="24" height="24"><use href="#icon-speaker"/></svg>
-                        <svg class="mute-x" viewBox="0 0 24 24" width="24" height="24"><use href="#icon-mute-x"/></svg>
+                        <svg class="icon-unmuted" viewBox="0 0 24 24" width="28" height="28" style="display:none"><use href="#icon-speaker"/></svg>
+                        <svg class="icon-muted" viewBox="0 0 24 24" width="28" height="28"><use href="#icon-speaker-muted"/></svg>
                     </button>
                     <button class="media-control-btn fullscreen-btn" aria-label="Fullscreen">
-                        <svg class="fullscreen-enter" viewBox="0 0 24 24" width="24" height="24"><use href="#icon-fullscreen-enter"/></svg>
-                        <svg class="fullscreen-exit" viewBox="0 0 24 24" width="24" height="24" style="display:none"><use href="#icon-fullscreen-exit"/></svg>
+                        <svg class="fullscreen-enter" viewBox="0 0 24 24" width="28" height="28"><use href="#icon-fullscreen-enter"/></svg>
+                        <svg class="fullscreen-exit" viewBox="0 0 24 24" width="28" height="28" style="display:none"><use href="#icon-fullscreen-exit"/></svg>
                     </button>
                 </div>
             `;
@@ -250,8 +250,8 @@ const MediaGallery = {
             videoControls = `
                 <div class="media-controls">
                     <button class="media-control-btn fullscreen-btn" aria-label="Fullscreen">
-                        <svg class="fullscreen-enter" viewBox="0 0 24 24" width="24" height="24"><use href="#icon-fullscreen-enter"/></svg>
-                        <svg class="fullscreen-exit" viewBox="0 0 24 24" width="24" height="24" style="display:none"><use href="#icon-fullscreen-exit"/></svg>
+                        <svg class="fullscreen-enter" viewBox="0 0 24 24" width="28" height="28"><use href="#icon-fullscreen-enter"/></svg>
+                        <svg class="fullscreen-exit" viewBox="0 0 24 24" width="28" height="28" style="display:none"><use href="#icon-fullscreen-exit"/></svg>
                     </button>
                 </div>
             `;
@@ -342,6 +342,10 @@ const MediaGallery = {
         });
         document.querySelectorAll('.media-card .audio-toggle').forEach(btn => {
             btn.classList.add('muted');
+            const unmutedIcon = btn.querySelector('.icon-unmuted');
+            const mutedIcon = btn.querySelector('.icon-muted');
+            if (unmutedIcon) unmutedIcon.style.display = 'none';
+            if (mutedIcon) mutedIcon.style.display = '';
         });
     }
 };
