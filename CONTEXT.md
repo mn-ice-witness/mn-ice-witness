@@ -71,6 +71,7 @@ This is not optional. Do not type `2026-01-22T12:00:00` or any other time from m
 - `docs/data/incidents-summary-observers.json`
 - `docs/data/incidents-summary-schools-hospitals.json`
 - `docs/data/incidents-summary-response.json`
+- `docs/data/incidents-summary-background.json`
 - `docs/data/search-index.md`
 
 Only edit the markdown incident files in `docs/incidents/`.
@@ -97,12 +98,13 @@ Format: `path | date | city | category | title`. One file replaces reading multi
 **NO compound values** like "medium-high" or "low-medium". Pick one.
 
 ### Incident Types (Categories)
-**Exactly 5 types exist — these are the ONLY categories shown in UI:**
+**Exactly 6 types exist — these are the ONLY categories shown in UI:**
 - `citizens` - U.S. citizens **OR anyone with valid legal status** (green cards, work visas, work permits, refugees with authorization)
 - `observers` - People targeted for filming/observing/protesting ICE
 - `immigrants` - People **without legal status** (undocumented, pending asylum, removal orders)
 - `schools-hospitals` - Actions at/near schools or hospitals — **includes ICE presence that intimidates or disrupts, even without arrest**
 - `response` - DHS/ICE official statements
+- `background` - Contextual/background events (marches, lawsuits, policy changes, deployments)
 
 **⚠️ CRITICAL: citizens vs immigrants distinction:**
 | `citizens` | Has legal right to be here | US citizens, green card, valid work visa/permit, authorized refugees |
@@ -308,7 +310,7 @@ GIT_MN_ICE_FILES/
     │       └── ...
     ├── media/           # Processed video/images (also uses YYYY-MM/DD structure)
     └── data/
-        ├── incidents-summary-*.json  # 5 category files (auto-generated)
+        ├── incidents-summary-*.json  # 6 category files (auto-generated)
         ├── search-index.md           # LLM search index with 4 sections (auto-generated)
         ├── timeline-moments.md        # Curated timeline highlight cards (manually edited)
         ├── media-order.md            # Controls gallery ordering

@@ -12,7 +12,7 @@ The status line appears at the top of incident cards:
 
 **Example:** `Citizen, South Minneapolis`
 
-**NOT:** `Citizen/Resident, South Minneapolis (exact address unknown)`
+**NOT:** `Citizen/Legal Resident, South Minneapolis (exact address unknown)`
 
 ## Status Categories (Exactly 5)
 
