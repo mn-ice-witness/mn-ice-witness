@@ -16,7 +16,7 @@ last_updated: 2026-02-06T23:06:33
 
 ## Summary
 
-Video shared to People Over Papers on February 6 shows federal agents arresting a person outside Georgetown Park Apartments in Bloomington. After the arrest, an agent pepper sprayed two people who were reportedly relatives of the detained individual. No names have been publicly identified.
+Video shared to People Over Papers on February 6 shows federal agents arresting a person outside Georgetown Park Apartments in Bloomington. After the arrest, an agent pepper sprayed two people who were reportedly relatives of the detained individual. In the video, the two individuals appear to be at a legal distance from the agents and are backing away when an officer deploys pepper spray. No names have been publicly identified.
 
 ## Sources
 
@@ -34,7 +34,7 @@ Video shared to People Over Papers on February 6 shows federal agents arresting 
 
 ## Evidence
 
-Video and photos of the incident were shared to People Over Papers, an organization that tracks ICE activity in Minnesota.
+Video and photos of the incident were shared to People Over Papers, an organization that tracks ICE activity in Minnesota. In the video, the two relatives appear to be at a legal distance from agents and are backing up at the time they are pepper sprayed.
 
 ## Editorial Assessment
 
