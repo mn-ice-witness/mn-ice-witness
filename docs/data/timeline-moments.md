@@ -121,7 +121,7 @@ Federal officials block congressional oversight. Representatives Ilhan Omar, Ang
 
 ---
 date: 2026-01-11
-title: Increasing Coverage of Observer Detentions
+title: A Special Report Marks Increasing Coverage of Observer Detentions
 incident: 2026-01-11-siguenza-okeefe-detained
 source:
 ---

@@ -1116,6 +1116,37 @@
       "mediaVersion": null
     },
     {
+      "filePath": "incidents/2026-01/08/2026-01-08-alberto-castaneda-mondragon-head-injury.md",
+      "title": "Immigrant Hospitalized With Skull Fractures After ICE Arrest; Says Beating Was Unprovoked",
+      "summary": "Alberto Casta\u00f1eda Mondrag\u00f3n, a Mexican national who entered the U.S. on a temporary work visa in March 2022 and later overstayed, was detained in St. Paul on January 8, 2026 during Operation Metro Surge. He sustained eight skull fractures and five life-threatening brain hemorrhages while in ICE custody. In his first interview, Casta\u00f1eda Mondrag\u00f3n told AP that agents pulled him from a friend's car, threw him to the ground, handcuffed him, then punched him and struck his head with a telescoping steel baton (ASP). He says the beating continued at the Ft. Snelling detention facility, where officers \"laughed at me and hit me again.\" ICE officers told hospital staff he \"purposefully ran headfirst into a brick wall.\" A CT scan showed fractures to the front, back, and both sides of his skull \u2014 injuries doctors told AP were inconsistent with a fall. A federal judge ruled his arrest was unlawful and ordered his release. He was discharged from HCMC on January 27 with significant memory loss, balance problems, and inability to work.",
+      "latestUpdate": "[AP investigation](https://abcnews.go.com/US/wireStory/immigrant-skull-broken-places-ice-arrest-beating-unprovoked-129942949): Casta\u00f1eda Mondrag\u00f3n recounts being beaten with a telescoping baton during arrest and again at Ft. Snelling. ICE court filing reveals he overstayed his visa. Minnesota leaders call for investigation.",
+      "date": "2026-01-08",
+      "time": "unknown",
+      "location": "St. Paul (arrest), Whipple Federal Building (processing), HCMC (hospitalized)",
+      "city": "St. Paul",
+      "type": "immigrants",
+      "status": "ongoing",
+      "affectedIndividualCitizenship": "undocumented",
+      "injuries": "serious",
+      "trustworthiness": "high",
+      "created": "2026-01-26T15:10:02",
+      "lastUpdated": "2026-02-07T13:43:22",
+      "mediaCount": 0,
+      "notable": false,
+      "hasLocalMedia": true,
+      "localMediaType": "image",
+      "localMediaPath": "media/2026-01/08/2026-01-08-alberto-castaneda-mondragon-head-injury.jpg",
+      "localMediaOgPath": null,
+      "localMediaFiles": [
+        {
+          "type": "image",
+          "path": "media/2026-01/08/2026-01-08-alberto-castaneda-mondragon-head-injury.jpg"
+        }
+      ],
+      "aspectRatio": 1.593625498007968,
+      "mediaVersion": 1769912968
+    },
+    {
       "filePath": "incidents/2026-01/08/2026-01-08-rochester-gates-complex.md",
       "title": "Multiple ICE Arrests in Rochester; Activist Documents Agent Using Hammer on Car Window",
       "summary": "ICE conducted enforcement operations across Rochester on January 8-9, 2026, with at least 5 confirmed arrests (27 total arrests in Rochester according to DHS). Activists witnessed concerning tactics including an agent using a hammer to try to open a car window during a warrantless detention. Mayor Kim Norton said the city did not ask for or want ICE presence.",
