@@ -305,8 +305,8 @@ Two days after Trump promises a "softer touch," DHS files removal proceedings ag
 
 ---
 date: 2026-02-06
-title: Judge Orders Government to Address Right to Counsel at Whipple
+title: Top ICE Lawyer Departs; Judge Orders Right to Counsel at Whipple
 incident: 2026-02-06-brasel-right-to-counsel-whipple
 source:
 ---
-U.S. District Judge Nancy Brasel gives the government until February 12 to ensure detained people can speak with attorneys at the Whipple Federal Building. Brasel tells the government's attorney there is a "very wide factual disconnect" between evidence and claims — "a tough sell." The DOJ attorney concedes she has never visited the facility. Immigration attorneys have filed 691 habeas corpus petitions since January 1 — five times the total for all of 2025.
+Jim Stolley, the chief counsel for ICE in Minnesota — a 31-year veteran of the agency — retires as the crush of litigation from Operation Metro Surge overwhelms the federal court system. His departure comes days after ICE attorney Julie T. Le told a federal judge: "The system sucks. This job sucks. I wish you could hold me in contempt so I could get 24 hours of sleep." She was removed from her detail the next day. On the same day, U.S. District Judge Nancy Brasel gives the government until February 12 to ensure detained people can speak with attorneys at the [Whipple Federal Building](/entry/2026-02-06-brasel-right-to-counsel-whipple), calling the gap between evidence and government claims "so enormous I don't know how you're going to close it." U.S. Attorney Daniel Rosen reports that 427 immigration lawsuits were filed in January alone; immigration attorneys have filed 691 habeas corpus petitions since January 1 — five times the total for all of 2025.

@@ -19,7 +19,7 @@ When searching for incidents or checking if something already exists:
 
 Published incidents visible on the main site.
 
-- incidents/2026-02/06/2026-02-06-brasel-right-to-counsel-whipple.md | 2026-02-06 | Minneapolis | background | Judge Brasel Orders Government to Reach Right-to-Counsel Agreement at Whipple ICE Facility
+- incidents/2026-02/06/2026-02-06-brasel-right-to-counsel-whipple.md | 2026-02-06 | Minneapolis | background | Minnesota Courts Buckle as Immigration Litigation Overwhelms Federal System; Top ICE Lawyer Departs
 - incidents/2026-02/06/2026-02-06-georgetown-park-pepper-spray.md | 2026-02-06 | Bloomington | observers | Federal Agents Pepper Spray Relatives During Arrest at Georgetown Park Apartments
 - incidents/2026-02/06/2026-02-06-honduran-mother-attorney-denied-access.md | 2026-02-06 | Minneapolis | immigrants | Honduran Mother with Brain Surgery History Held Extra Days After Judge Orders Release; Attorney Cannot Find Her
 - incidents/2026-02/06/2026-02-06-missing-5th-grader-dilley.md | 2026-02-06 | Columbia Heights | schools-hospitals, immigrants | Missing Columbia Heights Fifth Grader Spotted Inside Texas Detention Center by Classmates

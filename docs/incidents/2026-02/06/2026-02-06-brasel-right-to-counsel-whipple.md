@@ -9,15 +9,13 @@ affected_individual_citizenship: various
 injuries: none
 trustworthiness: high
 created: 2026-02-07T14:24:24
-last_updated: 2026-02-07T14:24:24
+last_updated: 2026-02-07T15:35:44
 ---
 
-# Judge Brasel Orders Government to Reach Right-to-Counsel Agreement at Whipple ICE Facility
+# Minnesota Courts Buckle as Immigration Litigation Overwhelms Federal System; Top ICE Lawyer Departs
 
 ## Summary
-U.S. District Judge Nancy Brasel gave the federal government until 5 p.m. on February 12 to reach an agreement with human rights lawyers on ensuring the right to counsel for people detained at the Bishop Henry Whipple Federal Building, the ICE facility at the edge of Minneapolis that has served as the hub of Operation Metro Surge. The ruling came during a hearing on a class action lawsuit filed by The Advocates for Human Rights, in which Brasel told the government's attorney there was a "very wide factual disconnect" between the plaintiffs' evidence and the government's claims. The judge called the government's position "a tough sell" and said "the gap here is so enormous I don't know how you're going to close it." Government attorney Christina Parascandola conceded she had never visited the facility.
-
-The case is the latest legal action stemming from documented conditions at Whipple, where detainees report sleeping on concrete floors without beds or blankets, constant leg shackling, overflowing toilets, no medical care, and systematic denial of access to attorneys. Congressional visitors, attorneys, and released detainees have all described conditions that U.S. Rep. Kelly Morrison called "unacceptable" and senators called "shocking and inhumane."
+The legal infrastructure around Operation Metro Surge began visibly collapsing in early February 2026. Jim Stolley, the chief counsel for ICE in Minnesota and a 31-year veteran of the agency, retired — his government email generating an automated reply that he had "retired from public service." His departure came days after ICE attorney Julie T. Le, on detail to the U.S. Attorney's Office, told U.S. District Judge Jerry Blackwell that the flood of cases had become unmanageable: "The system sucks. This job sucks." She was removed from her detail the next day. U.S. Attorney Daniel Rosen reported that 427 immigration lawsuits were filed in January alone, forcing his office to set aside much of its conventional work, with his civil division understaffed by roughly 50 percent. On February 6, U.S. District Judge Nancy Brasel gave the government until February 12 to reach agreement on ensuring the right to counsel for detainees at the Bishop Henry Whipple Federal Building, calling the gap between evidence and government claims "so enormous I don't know how you're going to close it." Immigration attorneys had filed 691 habeas corpus petitions since January 1 — five times the total for all of 2025.
 
 ## Sources
 1. Chicago Tribune / AP (Feb 6, 2026): [Government must reach agreement on right to counsel for people at Minnesota ICE facility, judge says](https://www.chicagotribune.com/2026/02/06/government-agreement-right-to-counsel-minnesota-ice-facility/)
@@ -37,12 +35,42 @@ The case is the latest legal action stemming from documented conditions at Whipp
 15. MinnPost (Feb 2026): ['Cruel, unsafe, unlawful' conditions reported at Whipple](https://www.minnpost.com/glean/2026/02/cruel-unsafe-unlawful-conditions-reported-at-whipple/)
 16. Minnesota Reformer (Feb 2026): [DHS again denies Minnesota members of Congress access to Whipple building](https://minnesotareformer.com/briefs/dhs-again-denies-minnesota-members-of-congress-access-to-whipple-building/)
 17. Racket (Feb 2026): [How DHS Turned the Whipple Federal Building Into a House of Horrors](https://racketmn.com/how-dhs-turned-the-whipple-federal-building-into-a-house-of-horrors)
+18. New York Times (Feb 7, 2026): [Top ICE Lawyer in Minnesota Departs as Immigration Lawsuits Overwhelm Courts](https://www.nytimes.com/2026/02/07/us/ice-lawyer-quits-minnesota.html)
+19. NBC News (Feb 4, 2026): [Government attorney who told judge in ICE case, 'This job sucks,' removed from detail](https://www.nbcnews.com/politics/justice-department/attorney-government-tells-judge-ice-case-job-sucks-rcna257349)
+20. CNN (Feb 4, 2026): [Trump admin attorney leaves Minnesota after telling judge her job 'sucks' amid crush of immigration cases](https://www.cnn.com/2026/02/04/politics/prosecutor-job-sucks-minnesota-hold-me-in-contempt)
+21. CBS Minnesota (Feb 4, 2026): [ICE lawyer removed from Minnesota immigration detail after telling judge 'this job sucks'](https://www.cbsnews.com/minnesota/news/ice-lawyer-julie-le-this-job-sucks-minneapolis/)
+22. FOX 9 (Feb 7, 2026): [ICE is frustrating judges and exhausting DOJ attorneys](https://www.fox9.com/news/ice-is-frustrating-judges-exhausting-its-own-attorneys)
+23. NPR (Feb 5, 2026): [More frustrated prosecutors at the U.S Attorney's office in Minnesota call it quits](https://www.npr.org/2026/02/05/nx-s1-5702356/more-frustrated-prosecutors-at-the-u-s-attorneys-office-in-minnesota-call-it-quits)
+24. ABC News (Feb 4, 2026): ['This job sucks,' overwhelmed DHS lawyer says in court hearing over ICE's response to court orders](https://abcnews.go.com/US/job-sucks-dhs-lawyer-court-hearing-ices-response/story?id=129855783)
+25. Star Tribune (Feb 2, 2026): [Another wave of departures in Minnesota's U.S. Attorney's Office](https://www.startribune.com/another-wave-of-departures-in-minnesotas-us-attorneys-office/601575569)
 
 ## Related Incidents
+- [Judge Orders ICE Director to Appear for Contempt; 96 Court Orders Violated](#2026-01-27-tobay-robles-lyons-contempt)
 - [Attorneys Denied Access to Detained Clients at Whipple Building](#2026-01-15-whipple-lawyers-denied-access)
 - [Congressional Representatives Denied Access to Whipple ICE Facility](#2026-01-10-congressional-access-denied)
 - [Protester Wes Prince Detained 9 Hours at Whipple Building](#2026-01-08-wes-prince-detained)
 - [Patient Shackled to Hospital Bed by ICE for 28 Hours Without Warrant](#2025-12-31-hcmc-patient-shackled)
+
+## The Legal System Collapses
+
+### ICE Chief Counsel Retires
+Jim Stolley, the chief counsel for ICE in Minnesota, left the agency in early February 2026 after 31 years of federal service. Emails sent to his government account generated an automated response noting that he had "retired from public service." Stolley oversaw a team of government lawyers who appear before immigration judges in Minnesota, where the surge of enforcement actions had generated an enormous caseload. DHS spokeswoman Tricia McLaughlin confirmed his retirement.
+
+Former senior immigration judge Ryan Wood, who worked closely with Stolley for years, described him as "extremely bright" and indefatigable, known for keeping his desk immaculate and responding quickly to correspondence even as the caseload grew. "Those are going to be big shoes to fill because he had a lot of autonomy," Wood said.
+
+Immigration law professor Linus Chan of the University of Minnesota called the departure a troubling sign: "It is never a good sign when experienced lawyers who have weathered several different presidential administrations decide to leave."
+
+### "The System Sucks. This Job Sucks."
+Days before Stolley's departure, ICE attorney Julie T. Le — a DHS lawyer on detail to the U.S. Attorney's Office since January 5 — told U.S. District Judge Jerry Blackwell during a February 4 hearing that the number of lawsuits filed by recently detained immigrants had become unmanageable. Le had been assigned 91 cases in under a month.
+
+"What do you want me to do? The system sucks. This job sucks," Le told the judge after he expressed frustration over the government's failure to abide by court orders related to immigrants seeking release from custody. She sardonically suggested the judge hold her in contempt "so that I could get 24 hours of sleep." Le described getting ICE to follow court orders as "like pulling teeth," saying it took "10 emails from me for a release condition to be corrected."
+
+Judge Blackwell responded that a court order is "not advisory, and it is not conditional," and that detention without legal authority constitutes "a constitutional injury." Le's detail to the U.S. Attorney's Office was terminated the next day. DHS Assistant Secretary Tricia McLaughlin characterized her courtroom statements as "unprofessional and unbecoming."
+
+### U.S. Attorney's Office Overwhelmed
+U.S. Attorney Daniel Rosen submitted a declaration as part of ongoing immigration litigation saying his office was struggling to cope with a "flood" of immigration cases. In January alone, more than 427 immigration lawsuits were filed, forcing the office to put aside much of its conventional work. The civil division, which handles those cases, was understaffed by roughly 50 percent. "Paralegals are continuously working overtime," Rosen wrote. "Lawyers are continuously working overtime."
+
+The Minnesota U.S. Attorney's Office experienced a broader exodus of attorneys, dropping from approximately 70 assistant attorneys during the Biden administration to as few as 17. The departures were driven by frustration with the volume and nature of immigration enforcement operations stemming from Operation Metro Surge.
 
 ## The Lawsuit: Advocates for Human Rights v. DHS
 
@@ -185,4 +213,4 @@ Reported to Rep. Morrison that they were sleeping on cold floors. "They're not t
 "I saw Black and brown bodies shackled together, chained together, being marched by yelling agents outdoors." Noted agents refer to detainees as "bodies."
 
 ## Editorial Assessment
-**HIGH** - AP/national wire service coverage of the February 6 court hearing with direct quotes from Judge Brasel. Courthouse News Service court reporting. Class action lawsuit filed with extensive documentation (Democracy Forward press release with case details). Multiple independent sources documenting conditions (Star Tribune investigation with approximately 30 interviews and 200 court records reviewed, CBS Minnesota, FOX 9, KSTP, MinnPost, Minnesota Reformer, Racket). Congressional firsthand observations from Rep. Morrison (a medical doctor) and other lawmakers. ABC News investigation into attorney access denial with named attorney Robert Sicoli. DHS official responses included.
+**HIGH** - New York Times reporting on Stolley departure with named sources including former immigration judge Ryan Wood and law professor Linus Chan. DHS confirmation of retirement via spokeswoman Tricia McLaughlin. Julie Le hearing covered by NBC News, CNN, CBS Minnesota, ABC News, FOX 9, and NPR with direct transcript quotes. AP/national wire coverage of the Brasel hearing. Courthouse News Service court reporting. Star Tribune investigation of attorney exodus. Class action lawsuit filed with extensive documentation (Democracy Forward). Multiple independent sources documenting Whipple conditions (Star Tribune, CBS Minnesota, FOX 9, KSTP, MinnPost, Minnesota Reformer, Racket). Congressional firsthand observations. DHS official responses included.
