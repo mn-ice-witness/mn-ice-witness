@@ -1244,12 +1244,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://mn-ice-witness.org/entry/2025-12-04-operation-metro-surge-launched</loc>
-    <lastmod>2026-02-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://mn-ice-witness.org/entry/2025-12-04-dhs-response-abdulkadir-abdi</loc>
     <lastmod>2026-01-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -1276,6 +1270,12 @@
   <url>
     <loc>https://mn-ice-witness.org/entry/2025-12-early-lomabonita-jose</loc>
     <lastmod>2026-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://mn-ice-witness.org/entry/2025-12-01-operation-metro-surge-launched</loc>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
