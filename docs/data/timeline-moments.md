@@ -8,7 +8,7 @@ DHS announces what it calls the "largest immigration enforcement operation ever 
 
 ---
 date: 2025-12-09
-title: U.S. Citizen Tackled for "Looking Somali"
+title: U.S. Citizen Tackled, Detained for "Looking Somali"
 incident: 2025-12-09-mubashir-wrongful-detention
 source:
 ---
