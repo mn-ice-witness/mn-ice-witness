@@ -67,11 +67,12 @@ const IncidentParser = {
 
     formatTypeLabel(type) {
         const labels = {
-            'citizens': 'Citizen/Resident',
+            'citizens': 'Citizen/Legal Resident',
             'observers': 'Observer/Protester',
             'immigrants': 'Immigrant',
             'schools-hospitals': 'Schools/Hospitals',
-            'response': 'Official Response'
+            'response': 'Official Response',
+            'background': 'Background'
         };
         return labels[type] || type;
     },
