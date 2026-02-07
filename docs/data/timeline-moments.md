@@ -12,7 +12,7 @@ title: U.S. Citizen Tackled for "Looking Somali"
 incident: 2025-12-09-mubashir-wrongful-detention
 source:
 ---
-The first major wrongful detention of a U.S. citizen. Five days after Trump [called Somali immigrants "garbage"](https://abcnews.go.com/Politics/trump-describes-somali-immigrants-garbage-amid-feud-minnesota/story?id=128069199) during a Cabinet meeting, 20-year-old Mubashir Hussen — a Somali-American born in the United States — is tackled and placed in a chokehold by ICE agents in the Cedar-Riverside neighborhood despite offering to show his passport. He is detained for hours. Minneapolis Mayor Jacob Frey condemns the arrest, establishing the pattern of racial profiling that would define the operation.
+The first major wrongful detention of a U.S. citizen. Five days after Trump [called Somali immigrants "garbage"](https://abcnews.go.com/Politics/trump-describes-somali-immigrants-garbage-amid-feud-minnesota/story?id=128069199) during a Cabinet meeting, 20-year-old Mubashir Hussen — a Somali-American born in the United States — is tackled and placed in a chokehold by ICE agents in the Cedar-Riverside neighborhood despite offering to show his passport. He is detained for hours. Minneapolis Mayor Jacob Frey condemns the arrest, establishing the pattern of racial profiling that would define the operation. [For a list of all U.S. citizen and legal resident incidents, see here](/list/citizens).
 
 ---
 date: 2025-12-07
@@ -84,8 +84,7 @@ title: "Citizen Checks" Begin
 incident: 2026-01-07-ahmed-hassan-uber-driver
 source:
 ---
-In what would become a pattern of racially profiled "citizen checks," Somali-American U.S. citizen Ahmed Bin Hassan, an Uber driver, is confronted by over a dozen masked agents at the airport. An agent tells him: "I can hear you don't have the same accent as me." The viral video becomes a symbol of racial profiling — in the weeks that follow, dozens of U.S. citizens of color are stopped and ordered to prove their citizenship, including [Nimco Omar](/entry/2026-01-12-nimco-omar-citizen-check), a Somali-American woman surrounded by four masked agents who demanded her ID during what they called a "citizen check" while she was walking near a mall. [See all incidents involving U.S. citizens and legal residents](/list/citizens).
-
+In what would become a pattern of racially profiled "citizen checks," Somali-American U.S. citizen Ahmed Bin Hassan, an Uber driver, is confronted by over a dozen masked agents at the airport. An agent tells him: "I can hear you don't have the same accent as me." The viral video becomes a symbol of racial profiling — in the weeks that follow, dozens of U.S. citizens of color are stopped and ordered to prove their citizenship, including [Nimco Omar](/entry/2026-01-12-nimco-omar-citizen-check), a Somali-American woman surrounded by four masked agents who demanded her ID during what they called a "citizen check" while she was walking near a mall.
 ---
 date: 2026-01-08
 title: U.S. Citizen Target Employees Detained and Injured
