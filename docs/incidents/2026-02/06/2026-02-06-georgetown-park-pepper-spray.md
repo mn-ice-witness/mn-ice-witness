@@ -7,7 +7,7 @@ type: immigrants
 status: resolved
 affected_individual_citizenship: unknown
 injuries: minor
-trustworthiness: medium
+trustworthiness: low
 created: 2026-02-06T23:06:33
 last_updated: 2026-02-06T23:06:33
 ---
@@ -38,4 +38,4 @@ Video and photos of the incident were shared to People Over Papers, an organizat
 
 ## Editorial Assessment
 
-**MEDIUM** - One news outlet (Bring Me The News) reported the incident as part of their daily ICE activity roundup, sourced from social media video shared to People Over Papers. No named individuals and no in-depth independent reporting.
+**LOW** - Single news source (Bring Me The News daily roundup), sourced from social media video shared to People Over Papers. No named individuals and no in-depth independent reporting.
