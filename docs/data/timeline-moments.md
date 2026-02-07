@@ -44,7 +44,7 @@ title: Patient Shackled to Hospital Bed; DHS Retaliates Against Hospital
 incident: 2025-12-31-hcmc-patient-shackled
 source:
 ---
-ICE agents enter Hennepin County Medical Center — Minnesota's largest Level One trauma center — without a judicial warrant and shackle a patient to his hospital bed for 28 hours. Six agents rotate in shifts, two at the bedside at all times. After county commissioners and hospital leadership confront the agents and confirm no warrant exists, they are ordered to leave. Days later, DHS retaliates: on January 8, it [subpoenas I-9 employment records](/entry/2026-01-08-hennepin-healthcare-i9-subpoena) for more than 7,000 Hennepin Healthcare employees — home addresses, Social Security numbers, eligibility status. Commissioner Angela Conley calls it a "retaliatory move." In the weeks ahead, a [man is detained while driving his sick wife to the emergency room](/entry/2026-01-16-parral-ortiz-hospital-detention) and a [Libyan man seeking medical treatment is shackled despite a painful skin condition](/entry/2026-01-11-hani-duglof-medical). The actions break a long-standing precedent against immigration enforcement at hospitals. [See all school and hospital incidents](/list/schools-hospitals).
+ICE agents enter Hennepin County Medical Center — Minnesota's largest Level One trauma center — without a judicial warrant and shackle a patient to his hospital bed for 28 hours. Six agents rotate in shifts, two at the bedside at all times. After county commissioners and hospital leadership confront the agents and confirm no warrant exists, they are ordered to leave. Days later, DHS retaliates: on January 8, it [subpoenas I-9 employment records](/entry/2026-01-08-hennepin-healthcare-i9-subpoena) for more than 7,000 Hennepin Healthcare employees — home addresses, Social Security numbers, eligibility status. Commissioner Angela Conley calls it a "retaliatory move." In the weeks ahead, a [man is detained while driving his sick wife to the emergency room](/entry/2026-01-16-parral-ortiz-hospital-detention) and a [Libyan man seeking medical treatment is shackled despite a painful skin condition](/entry/2026-01-11-hani-duglof-medical). The actions break a long-standing precedent against immigration enforcement at hospitals. [See all hospital and school incidents](/list/schools-hospitals).
 
 ---
 date: 2026-01-06
@@ -76,7 +76,7 @@ title: Border Patrol Raids Roosevelt High School
 incident: 2026-01-07-roosevelt-high-school
 source:
 ---
-Border Patrol agents descend on Roosevelt High School during dismissal, tackle people on school grounds, and deploy chemical irritants. A special education assistant — a U.S. citizen — is detained. Minneapolis Public Schools cancels classes for the rest of the week. Former Governor Jesse Ventura, a Roosevelt graduate, [visits the next day](/entry/2026-01-08-jesse-ventura-roosevelt) and calls ICE "the draft-dodging coward's Gestapo," comparing the administration's tactics to 1930s Germany.
+Border Patrol agents descend on Roosevelt High School during dismissal, tackle people on school grounds, and deploy chemical irritants. A special education assistant — a U.S. citizen — is detained. Minneapolis Public Schools cancels classes for the rest of the week. Former Governor Jesse Ventura, a Roosevelt graduate, [visits the next day](/entry/2026-01-08-jesse-ventura-roosevelt) and calls ICE "the draft-dodging coward's Gestapo," comparing the administration's tactics to 1930s Germany. [See all school and hospital incidents](/list/schools-hospitals).
 
 ---
 date: 2026-01-07
