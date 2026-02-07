@@ -163,7 +163,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/09/2026-01-09-hopkins-bryam-escobar.md | 2026-01-09 | Hopkins | immigrants | Hopkins Father Detained Going to Work; Later Released by Court Order
 - incidents/2026-01/09/2026-01-09-fridley-schools-closure.md | 2026-01-09 | Fridley | schools-hospitals | Fridley Public Schools Closes Twice Due to ICE Activity
 - incidents/2026-01/09/2026-01-09-juan-carlos-brutality.md | 2026-01-09 | Minneapolis | observers | Border Patrol Agent Knees Man in Face While Pinned Down
-- incidents/2026-01/08/2026-01-08-alberto-castaneda-mondragon-head-injury.md | 2026-01-08 | St. Paul | citizens | Legal Visa Holder Hospitalized With Skull Fractures; ICE Claims He "Purposely Ran Headfirst Into a Brick Wall"
+- incidents/2026-01/08/2026-01-08-alberto-castaneda-mondragon-head-injury.md | 2026-01-08 | St. Paul | immigrants | Immigrant Hospitalized With Skull Fractures After ICE Arrest; Says Beating Was Unprovoked
 - incidents/2026-01/08/2026-01-08-rochester-gates-complex.md | 2026-01-08 | Rochester | immigrants | Multiple ICE Arrests in Rochester; Activist Documents Agent Using Hammer on Car Window
 - incidents/2026-01/08/2026-01-08-thi-dua-vang-st-paul.md | 2026-01-08 | St. Paul | citizens | Christian Refugee Detained Despite Legal Status, ICE Keeps Returning to Home After Release
 - incidents/2026-01/08/2026-01-08-hennepin-healthcare-i9-subpoena.md | 2026-01-08 | Minneapolis | schools-hospitals | DHS Subpoenas Hennepin Healthcare Employee Records for 7,000+ Workers
