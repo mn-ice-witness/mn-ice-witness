@@ -15,7 +15,7 @@ last_updated: 2026-02-07T14:12:42
 # Legal Permanent Resident Boxed In on Road, Handcuffed at Gunpoint; Agents Take Cash from Wallet
 
 ## Summary
-Raul Aguirre Castrejon, a lawful permanent resident, was followed by two unmarked SUVs after leaving a Walmart in Monticello with his niece, a U.S. citizen who was driving. Agents boxed them in on the road, nearly running them off it, then pulled Castrejon from the car, handcuffed him at gunpoint, turned off his phone to stop his recording, and took $180 in cash and his insurance card from his wallet. Despite carrying proof of legal status, agents told him "you're not from here." He was released after a few minutes when someone told the agents to let him go.
+Raul Aguirre Castrejon, a lawful permanent resident, was followed by two unmarked SUVs after leaving a Walmart in Monticello with his niece, a U.S. citizen who was driving. Agents boxed them in on the road, nearly running them off it, then pulled Castrejon from the car, handcuffed him at gunpoint, turned off his phone to stop his recording, and took $180 in cash and his insurance card from his wallet. Despite carrying proof of legal status, agents told him "you're not from here." He was released after a few minutes when someone told the agents to let him go. Castrejon filed a sworn declaration in **Hussen v. Noem**, the ACLU class-action lawsuit challenging racial profiling during Operation Metro Surge.
 
 ## Sources
 1. Court Filing (Jan 16, 2026): [Declaration of Raul Aguirre Castrejon, Hussen v. Noem Case 26-cv-00324](https://www.justsecurity.org/pdfs/mn-ice-enforcement/14%20RAUL%20AGUIRRE%20CASTREJON.pdf)
