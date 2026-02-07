@@ -15,12 +15,11 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (204 incidents)
+## CURRENT (203 incidents)
 
 Published incidents visible on the main site.
 
 - incidents/2026-02/06/2026-02-06-georgetown-park-pepper-spray.md | 2026-02-06 | Bloomington | immigrants | Federal Agents Pepper Spray Relatives During Arrest at Georgetown Park Apartments
-- incidents/2026-02/05/2026-02-05-robbinsdale-city-hall-ice-pursuit-crash.md | 2026-02-05 | Robbinsdale | immigrants | Vehicle Crashes Near Robbinsdale City Hall During ICE Pursuit
 - incidents/2026-02/05/2026-02-05-javier-abreu-rochester-kidney-transplant.md | 2026-02-05 | Rochester | citizens | Kidney Transplant Recipient Arrested in Rochester Needs Anti-Rejection Medication
 - incidents/2026-02/05/2026-02-05-hennepin-courthouse-detentions.md | 2026-02-05 | Minneapolis | immigrants | Two Detained by ICE Inside Hennepin County Courthouse After Hearing
 - incidents/2026-02/04/2026-02-04-trump-softer-touch-interview.md | 2026-02-04 | Washington D.C. | response | Trump Says Administration Will Use "Softer Touch" After Minneapolis Shootings
@@ -226,7 +225,7 @@ Published incidents visible on the main site.
 
 ---
 
-## NO-ADD (137 entries)
+## NO-ADD (138 entries)
 
 Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 
@@ -324,6 +323,7 @@ Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 - dev-docs/not_use.md | Jan 16 | Virginia/Cazadores Restaurant ICE Arrest
 - dev-docs/not_use.md | Jan 2026 | St. Cloud "14 Criminals Arrested" DHS Claims
 - dev-docs/not_use.md | Jan 10 | Heather Lane Rooftop Workers Mankato
+- dev-docs/not_use.md | Feb 5, 2026 | Robbinsdale City Hall ICE Pursuit Crash
 - dev-docs/not_use.md | Jan 16 & Jan 22, 2026 | Winona Two Hmong Men Arrested
 - dev-docs/not_use.md | Jan 28, 2026 | Abdirahman Hassan Yusuf Grand Forks ND
 - dev-docs/not_use.md | Dec 22, 2025 | West Central Turkeys Pelican Rapids
