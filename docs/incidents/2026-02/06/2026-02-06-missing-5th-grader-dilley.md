@@ -1,0 +1,75 @@
+---
+date: 2026-02-06
+time: unknown
+location: Valley View Elementary School / Dilley Immigration Processing Center
+city: Columbia Heights
+type: schools-hospitals, immigrants
+status: ongoing
+affected_individual_citizenship: unknown
+injuries: none
+trustworthiness: high
+created: 2026-02-07T14:12:42
+last_updated: 2026-02-07T14:12:42
+---
+
+# Missing Columbia Heights Fifth Grader Spotted Inside Texas Detention Center by Classmates
+
+## Summary
+Nearly a month after a Valley View Elementary fifth grader stopped showing up for class with no word from her family, the missing girl was spotted inside the Dilley Immigration Processing Center in Texas. Two of her schoolmates — brothers in second and fifth grade — recognized her after being released from the same facility. At least seven students from Columbia Heights Public Schools have been detained by ICE, ranging in age from five to seventeen.
+
+## Sources
+1. Washington Post (Feb 5, 2026): [School officials say missing Minneapolis girl seen in ICE detention in Texas](https://www.washingtonpost.com/immigration/2026/02/05/ice-children-detained-texas/)
+2. Independent (Feb 6, 2026): [Fifth grade student who went missing in Minnesota was spotted at ICE center in Texas, school claims](https://www.independent.co.uk/news/world/americas/us-politics/missing-minnesota-student-ice-detention-center-b2915549.html)
+
+## Related Incidents
+- [Ten-Year-Old Elizabeth Caisaguano Detained with Mother](#2026-01-06-elizabeth-caisaguano-detained) - Same school district, detained Jan 6, released Feb 3-4.
+- [Five-Year-Old Liam Ramos Detained in Driveway](#2026-01-20-liam-ramos-detained) - Same school district.
+- [2-Year-Old and Father Detained Near Powderhorn](#2026-01-22-tipan-toddler-father-detained) - Also held at Dilley.
+
+## Affected Individual(s)
+
+### Missing Fifth Grader
+- **Age:** ~10-11 (fifth grader)
+- **School:** Valley View Elementary, Columbia Heights
+- **Status:** Detained inside Dilley Immigration Processing Center, Texas
+- **Name:** Not publicly disclosed
+
+### Brothers Who Identified Her
+- **Grades:** Second and fifth grade at same school
+- **Status:** Released from Dilley this week with their mother
+
+## Timeline
+- **Early January 2026** - Fifth grader stops showing up at Valley View Elementary. School-issued laptop sits untouched in her classroom.
+- **Following weeks** - School officials attempt to contact the family. No response to calls.
+- **Early February** - Two brothers (classmates from same school) released from Dilley with their mother.
+- **Upon release** - Brothers report to school that they saw the missing girl inside the detention center.
+
+## Witness Accounts
+
+### Principal Jason Kuhlman (Valley View Elementary)
+On learning the missing student was in Dilley:
+> "It was surreal. It was like, 'Are you kidding me?' I wonder ... how many kids are MIA?"
+
+On ICE impact on education:
+> "This is not political. This is about little humans wanting to come to school."
+
+> "Education is being interfered with — kids can't learn. Racial profiling, terrorizing families and children, pulling Black and Brown people out of cars: I call it a snatch and grab."
+
+### Superintendent Zena Stenvik (Columbia Heights Public Schools)
+On the scale of detentions:
+> "We have had several ICE agents driving up and down, and around our schools, circling throughout the day over the last few weeks. We feel under siege."
+
+On detained students: At least seven students from the district detained by federal agents in recent weeks, ranging in age from five to seventeen. Staff are stationed at every corner of the school during arrival and dismissal. Teachers walk children from at-risk communities to school. Dozens of students now learning online because they are too afraid to leave their homes.
+
+> "We seek the full release of all children and unjustly detained parents from detention centers across our country. We seek a diplomatic and peaceful solution to end this terror that the enhanced immigration enforcement is causing in our community, our state and our county."
+
+## Official Accounts
+
+### DHS Response
+DHS assistant secretary Tricia McLaughlin: "No one in ICE custody is missing" as detainees are searchable online and can contact their families by phone. "Parents are asked if they want to be removed with their children or ICE will place the children with a safe person the parent designates. This is consistent with past administration's immigration enforcement."
+
+## Context
+The Dilley Immigration Processing Center reportedly holds more than 1,000 families, including young children, according to lawyers and advocates. The facility was locked down over the weekend after at least two measles cases were discovered among detainees, with ICE ceasing "all movement" inside. An 11-year-old girl from Columbia Heights (Elizabeth Caisaguano) was released from Dilley earlier this week after nearly one month in custody.
+
+## Editorial Assessment
+**HIGH** - Washington Post and Independent reporting based on school officials including named principal (Jason Kuhlman) and superintendent (Zena Stenvik). First-person identification by released classmates. Part of documented pattern of Columbia Heights student detentions.
