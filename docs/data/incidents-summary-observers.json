@@ -1,6 +1,32 @@
 {
   "incidents": [
     {
+      "filePath": "incidents/2026-02/06/2026-02-06-georgetown-park-pepper-spray.md",
+      "title": "Federal Agents Pepper Spray Relatives During Arrest at Georgetown Park Apartments",
+      "summary": "Video shared to People Over Papers on February 6 shows federal agents arresting a person outside Georgetown Park Apartments in Bloomington. After the arrest, an agent pepper sprayed two people who were reportedly relatives of the detained individual. In the video, the two individuals appear to be at a legal distance from the agents and are backing away when an officer deploys pepper spray. No names have been publicly identified.",
+      "latestUpdate": null,
+      "date": "2026-02-06",
+      "time": "14:50",
+      "location": "Georgetown Park Apartments",
+      "city": "Bloomington",
+      "type": "observers",
+      "status": "resolved",
+      "affectedIndividualCitizenship": "unknown",
+      "injuries": "minor",
+      "trustworthiness": "low",
+      "created": "2026-02-06T23:06:33",
+      "lastUpdated": "2026-02-06T23:06:33",
+      "mediaCount": 0,
+      "notable": false,
+      "hasLocalMedia": false,
+      "localMediaType": null,
+      "localMediaPath": null,
+      "localMediaOgPath": null,
+      "localMediaFiles": [],
+      "aspectRatio": null,
+      "mediaVersion": null
+    },
+    {
       "filePath": "incidents/2026-02/03/2026-02-03-observers-detained-gunpoint-midtown-phillips.md",
       "title": "Observers Detained at Gunpoint in Midtown Phillips",
       "summary": "At least two observers were detained at gunpoint by ICE agents in the Midtown Phillips neighborhood of south Minneapolis. When confronted about drawing weapons, an agent claimed the observers had been making threatening hand symbols\u2014specifically \"finger guns\"\u2014not actual firearms.",

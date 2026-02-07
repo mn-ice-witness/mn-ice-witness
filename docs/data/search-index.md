@@ -19,7 +19,7 @@ When searching for incidents or checking if something already exists:
 
 Published incidents visible on the main site.
 
-- incidents/2026-02/06/2026-02-06-georgetown-park-pepper-spray.md | 2026-02-06 | Bloomington | immigrants | Federal Agents Pepper Spray Relatives During Arrest at Georgetown Park Apartments
+- incidents/2026-02/06/2026-02-06-georgetown-park-pepper-spray.md | 2026-02-06 | Bloomington | observers | Federal Agents Pepper Spray Relatives During Arrest at Georgetown Park Apartments
 - incidents/2026-02/05/2026-02-05-javier-abreu-rochester-kidney-transplant.md | 2026-02-05 | Rochester | citizens | Kidney Transplant Recipient Arrested in Rochester Needs Anti-Rejection Medication
 - incidents/2026-02/05/2026-02-05-hennepin-courthouse-detentions.md | 2026-02-05 | Minneapolis | immigrants | Two Detained by ICE Inside Hennepin County Courthouse After Hearing
 - incidents/2026-02/04/2026-02-04-trump-softer-touch-interview.md | 2026-02-04 | Washington D.C. | response | Trump Says Administration Will Use "Softer Touch" After Minneapolis Shootings
