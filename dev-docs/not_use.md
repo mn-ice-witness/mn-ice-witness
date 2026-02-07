@@ -678,6 +678,13 @@ Stories are excluded when they don't meet the project's core focus:
 
 ### February 2026
 
+**Robbinsdale City Hall ICE Pursuit Crash (Feb 5, 2026)**
+- Sources: [Hometownsource / Sun Post](https://www.hometownsource.com/county_news_review/sun_post/free/robbinsdale-police-woman-crashed-car-near-city-hall-after-ice-pursuit/article_52389281-0aac-4ae5-9c68-26b158396203.html), [CCX Media](https://ccxmedia.org/news/crash-near-robbinsdale-city-hall-traced-to-apparent-ice-incident/), [Bring Me The News](https://bringmethenews.com/minnesota-news/robbinsdale-woman-crashed-car-entered-city-hall-after-pursuit-by-ice)
+- Date: February 5, 2026
+- Details: Federal agents pursued a vehicle near Robbinsdale City Hall to arrest a passenger. The 36-year-old male driver crashed into a retaining wall. A 36-year-old woman passenger was found in City Hall with anxiety and minor injuries. Robbinsdale PD said they had no prior knowledge and do not cooperate with ICE.
+- Reason: **Insufficient context** - no information about the driver or passenger (names, citizenship, criminal history). No evidence the pursuit or crash was disproportionate. The driver may have caused the situation by fleeing.
+- Date evaluated: 2026-02-06
+
 **Winona Two Hmong Men Arrested (Jan 16 & Jan 22, 2026)**
 - Sources: [Winona Post](https://www.winonapost.com/news/ice-arrested-two-winona-residents-volunteers-say/article_7f71e362-4de0-48d6-8d8e-3a81ae947750.html)
 - Dates: January 16 and January 22, 2026
