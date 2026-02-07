@@ -3,7 +3,7 @@ date: 2026-02-06
 time: 14:50
 location: Georgetown Park Apartments
 city: Bloomington
-type: immigrants
+type: observers
 status: resolved
 affected_individual_citizenship: unknown
 injuries: minor
