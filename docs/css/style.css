@@ -1683,56 +1683,33 @@ body {
 
 .media-controls {
     position: absolute;
-    bottom: 8px;
-    right: 8px;
+    bottom: 6px;
+    right: 6px;
     display: flex;
-    gap: 2px;
+    gap: 0px;
     z-index: 10;
-    background: rgba(0, 0, 0, 0.25);
-    border-radius: 4px;
-    padding: 2px;
+    background: rgba(0, 0, 0, 0.45);
+    border-radius: 6px;
+    padding: 0.5px;
 }
 
 .media-control-btn {
-    width: 36px;
-    height: 36px;
+    width: 44px;
+    height: 44px;
     background: transparent;
     border: none;
     cursor: pointer;
     display: flex;
     align-items: center;
     justify-content: center;
-    color: rgba(255, 255, 255, 0.4);
+    color: rgba(255, 255, 255, 0.7);
     transition: color 0.15s;
     position: relative;
     -webkit-tap-highlight-color: transparent;
 }
 
 .media-control-btn:hover {
-    color: rgba(255, 255, 255, 0.7);
-}
-
-.media-control-btn .speaker-icon,
-.media-control-btn .mute-x {
-    position: absolute;
-}
-
-.media-control-btn.muted .mute-x {
-    opacity: 1;
-}
-
-.media-control-btn .mute-x {
-    opacity: 0;
-    transition: opacity 0.15s;
-}
-
-.media-control-btn .speaker-waves {
-    opacity: 1;
-    transition: opacity 0.15s;
-}
-
-.media-control-btn.muted .speaker-waves {
-    opacity: 0.3;
+    color: rgba(255, 255, 255, 0.95);
 }
 
 /* Time Slider - hidden by default, shown in fullscreen */
@@ -1814,11 +1791,12 @@ body {
 /* Fullscreen controls positioning - centered at bottom */
 .local-media-container:fullscreen .media-controls,
 .local-media-container:-webkit-full-screen .media-controls {
-    bottom: 8px;
+    bottom: 12px;
     right: auto;
     left: 50%;
     transform: translateX(-50%);
     padding: 8px 12px;
+    gap: 6px;
     border-radius: 8px;
 }
 
