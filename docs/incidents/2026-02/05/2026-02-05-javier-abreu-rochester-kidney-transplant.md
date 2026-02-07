@@ -9,10 +9,13 @@ affected_individual_citizenship: unknown
 injuries: none
 trustworthiness: high
 created: 2026-02-06T15:56:25
-last_updated: 2026-02-06T15:56:25
+last_updated: 2026-02-07T14:50:30
 ---
 
 # Kidney Transplant Recipient Arrested in Rochester Needs Anti-Rejection Medication
+
+## Updates
+- **Feb 6** - DHS spokesperson states ["ICE is working with the family"](https://www.mprnews.org/story/2026/02/06/transplant-recipient-arrested-by-federal-agents-in-rochester-needs-medicine-live) to ensure Abreu gets his medications. Family and attorney have not independently confirmed this. Abreu was scheduled to be flown to a Texas facility at 1:00 PM.
 
 ## Summary
 Federal immigration agents arrested Javier Abreu, 38, on Civic Center Drive in Rochester on February 5 while he was delivering groceries for his church. Agents rammed his car and broke his window during the arrest. Abreu is a kidney transplant recipient who requires anti-rejection medication, and State Rep. Kim Hicks says his access to the medication has been inconsistent. He was transported to the Whipple Federal Building near Ft. Snelling and was scheduled to be flown to a facility in Texas on February 6.
@@ -20,6 +23,7 @@ Federal immigration agents arrested Javier Abreu, 38, on Civic Center Drive in R
 ## Sources
 1. MPR News (Feb 6, 2026): [Kidney recipient arrested by federal agents in Rochester needs medicine, state representative says](https://www.mprnews.org/story/2026/02/06/transplant-recipient-arrested-by-federal-agents-in-rochester-minnesota-needs-medicine)
 2. Rochester Post-Bulletin (Feb 6, 2026): [Rochester man and recent organ donation recipient detained by ICE](https://www.postbulletin.com/news/local/rochester-man-and-recent-organ-donation-recipent-detained-by-ice)
+3. MPR News (Feb 6, 2026): [DHS: Kidney recipient has access to needed medications](https://www.mprnews.org/story/2026/02/06/transplant-recipient-arrested-by-federal-agents-in-rochester-needs-medicine-live)
 
 ## Affected Individual(s)
 - **Name:** Javier Abreu

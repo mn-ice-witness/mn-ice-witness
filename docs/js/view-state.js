@@ -134,7 +134,9 @@ const ViewState = {
             const order = mode === 'tl-newest' ? 'newest' : 'oldest';
             if (typeof Timeline !== 'undefined' && Timeline.sortOrder !== order) {
                 Timeline.sortOrder = order;
+                history.replaceState(null, '', '/timeline');
                 Timeline.render();
+                window.scrollTo({ top: 0, behavior: 'instant' });
             }
             // Update active state
             const menu = document.getElementById('sort-menu');

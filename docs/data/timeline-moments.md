@@ -302,3 +302,11 @@ incident: 2026-01-20-liam-ramos-detained
 source:
 ---
 Two days after Trump promises a "softer touch," DHS files removal proceedings against 5-year-old Liam Conejo Ramos and his father — the same family whose detention in Columbia Heights drew international condemnation. Attorney Danielle Molliver calls the move "extraordinary" and possibly "retaliatory." DHS spokesperson Tricia McLaughlin calls it "standard procedure." Liam's father tells NBC News the boy has nightmares and wakes up crying since their 12 days in the Dilley detention facility. The family remains in hiding in Minneapolis.
+
+---
+date: 2026-02-06
+title: Judge Orders Government to Address Right to Counsel at Whipple
+incident: 2026-02-06-brasel-right-to-counsel-whipple
+source:
+---
+U.S. District Judge Nancy Brasel gives the government until February 12 to reach agreement with human rights lawyers on ensuring detained people can speak with attorneys at the Whipple Federal Building — the ICE facility at the edge of Minneapolis that has served as the hub of Operation Metro Surge. Brasel tells the government's attorney there is a "very wide factual disconnect" between evidence and claims, calling the position "a tough sell." The DOJ attorney concedes she has never visited the facility. By this point, the documented conditions at Whipple have been extensively reported: detainees sleeping on concrete floors without beds, constant leg shackling, overcrowded cells, no medical care, and [systematic denial of access to attorneys](/entry/2026-01-15-whipple-lawyers-denied-access). [Congressional representatives](/entry/2026-01-10-congressional-access-denied) have been repeatedly denied access. Rep. Kelly Morrison, a medical doctor who toured the facility three times, calls for it to be "shut down." Immigration attorneys have filed 691 habeas corpus petitions since January 1 — five times the total for all of 2025.
