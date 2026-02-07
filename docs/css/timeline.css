@@ -309,7 +309,7 @@
 }
 
 .tl-day-incident {
-    font-size: 0.93rem;
+    font-size: 0.84rem;
     font-weight: 500;
     color: #4a7a9e;
     padding: 3px 0;
@@ -322,7 +322,7 @@
 }
 
 .tl-cat-tag {
-    font-size: 0.77rem;
+    font-size: 0.69rem;
     font-weight: 700;
     letter-spacing: 0.04em;
     color: var(--color-text-secondary);
@@ -425,7 +425,7 @@
     } */
 
     .tl-day-incident {
-        font-size: 0.99rem;
+        font-size: 0.89rem;
     }
 }
 
