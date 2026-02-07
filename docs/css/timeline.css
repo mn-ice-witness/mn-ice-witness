@@ -309,8 +309,9 @@
 }
 
 .tl-day-incident {
-    font-size: 0.85rem;
-    color: #6a8fad;
+    font-size: 0.93rem;
+    font-weight: 500;
+    color: #4a7a9e;
     padding: 3px 0;
     cursor: pointer;
     line-height: 1.35;
@@ -424,7 +425,7 @@
     } */
 
     .tl-day-incident {
-        font-size: 0.9rem;
+        font-size: 0.99rem;
     }
 }
 
