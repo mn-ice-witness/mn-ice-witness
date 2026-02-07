@@ -901,37 +901,6 @@
       "mediaVersion": null
     },
     {
-      "filePath": "incidents/2026-01/08/2026-01-08-ahmed-hassan-uber-driver.md",
-      "title": "U.S. Citizen Uber Driver Confronted by Agents: \"I can hear you don't have the same accent\"",
-      "summary": "Ahmed Bin Hassan, 38, Somali American U.S. citizen and Uber driver, was confronted by over a dozen masked ICE/CBP agents at the airport. An agent stated: \"I can hear you don't have the same accent as me.\" Hassan refused to show ID and challenged their authority.",
-      "latestUpdate": null,
-      "date": "2026-01-08",
-      "time": "unknown",
-      "location": "Minneapolis-St. Paul Airport parking lot",
-      "city": "Minneapolis",
-      "type": "citizens",
-      "status": "resolved",
-      "affectedIndividualCitizenship": "us-citizen",
-      "injuries": "none",
-      "trustworthiness": "high",
-      "created": "2026-01-14T08:01:12",
-      "lastUpdated": "2026-01-14T08:01:12",
-      "mediaCount": 0,
-      "notable": false,
-      "hasLocalMedia": true,
-      "localMediaType": "video",
-      "localMediaPath": "media/2026-01/08/2026-01-08-ahmed-hassan-uber-driver.mp4",
-      "localMediaOgPath": "media/2026-01/08/2026-01-08-ahmed-hassan-uber-driver-og-1s.jpg",
-      "localMediaFiles": [
-        {
-          "type": "video",
-          "path": "media/2026-01/08/2026-01-08-ahmed-hassan-uber-driver.mp4"
-        }
-      ],
-      "aspectRatio": 0.5888888888888889,
-      "mediaVersion": 1769912968
-    },
-    {
       "filePath": "incidents/2026-01/08/2026-01-08-alberto-castaneda-mondragon-head-injury.md",
       "title": "Legal Visa Holder Hospitalized With Skull Fractures; ICE Claims He \"Purposely Ran Headfirst Into a Brick Wall\"",
       "summary": "Alberto Castaneda Mondragon, who entered the U.S. legally on a temporary worker visa in 2022, was detained in St. Paul on January 8, 2026 during Operation Metro Surge. He sustained catastrophic head injuries including skull fractures and brain hemorrhages while in ICE custody. ICE claims he \"purposely ran headfirst into a brick wall\" while handcuffed. Hospital records show Alberto told staff he was \"dragged and mistreated by federal agents.\" He has been hospitalized at Hennepin County Medical Center for nearly two weeks, is \"only minimally responsive,\" and his condition is declining. Attorneys allege ICE has interfered with his medical care by shackling his legs to the hospital bed despite warnings from medical staff. A federal judge ordered his immediate release on January 24, 2026, noting he \"was in the wrong place at the wrong time.\"",
@@ -1083,6 +1052,37 @@
         }
       ],
       "aspectRatio": 0.6361111111111111,
+      "mediaVersion": 1769912968
+    },
+    {
+      "filePath": "incidents/2026-01/07/2026-01-07-ahmed-hassan-uber-driver.md",
+      "title": "U.S. Citizen Uber Driver Confronted by Agents: \"I can hear you don't have the same accent\"",
+      "summary": "Ahmed Bin Hassan, 38, Somali American U.S. citizen and Uber driver, was confronted by over a dozen masked ICE/CBP agents at the airport. An agent stated: \"I can hear you don't have the same accent as me.\" Hassan refused to show ID and challenged their authority.",
+      "latestUpdate": null,
+      "date": "2026-01-07",
+      "time": "unknown",
+      "location": "Minneapolis-St. Paul Airport parking lot",
+      "city": "Minneapolis",
+      "type": "citizens",
+      "status": "resolved",
+      "affectedIndividualCitizenship": "us-citizen",
+      "injuries": "none",
+      "trustworthiness": "high",
+      "created": "2026-01-14T08:01:12",
+      "lastUpdated": "2026-01-14T08:01:12",
+      "mediaCount": 0,
+      "notable": false,
+      "hasLocalMedia": true,
+      "localMediaType": "video",
+      "localMediaPath": "media/2026-01/07/2026-01-07-ahmed-hassan-uber-driver.mp4",
+      "localMediaOgPath": "media/2026-01/07/2026-01-07-ahmed-hassan-uber-driver-og-1s.jpg",
+      "localMediaFiles": [
+        {
+          "type": "video",
+          "path": "media/2026-01/07/2026-01-07-ahmed-hassan-uber-driver.mp4"
+        }
+      ],
+      "aspectRatio": 0.5888888888888889,
       "mediaVersion": 1769912968
     },
     {

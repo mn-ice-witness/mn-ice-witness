@@ -79,9 +79,9 @@ source:
 Border Patrol agents descend on Roosevelt High School during dismissal, tackle people on school grounds, and deploy chemical irritants. A special education assistant — a U.S. citizen — is detained. Minneapolis Public Schools cancels classes for the rest of the week. Former Governor Jesse Ventura, a Roosevelt graduate, [visits the next day](/entry/2026-01-08-jesse-ventura-roosevelt) and calls ICE "the draft-dodging coward's Gestapo," comparing the administration's tactics to 1930s Germany.
 
 ---
-date: 2026-01-08
+date: 2026-01-07
 title: "Citizen Checks" Begin
-incident: 2026-01-08-ahmed-hassan-uber-driver
+incident: 2026-01-07-ahmed-hassan-uber-driver
 source:
 ---
 In what would become a pattern of racially profiled "citizen checks," Somali-American U.S. citizen Ahmed Bin Hassan, an Uber driver, is confronted by over a dozen masked agents at the airport. An agent tells him: "I can hear you don't have the same accent as me." The viral video becomes a symbol of racial profiling — in the weeks that follow, dozens of U.S. citizens of color are stopped and ordered to prove their citizenship, including [Nimco Omar](/entry/2026-01-12-nimco-omar-citizen-check), a Somali-American woman surrounded by four masked agents who demanded her ID during what they called a "citizen check" while she was walking near a mall.
