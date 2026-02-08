@@ -28,6 +28,10 @@ Sue Tincher, a 55-year-old Minneapolis resident and U.S. citizen, was detained f
 8. Newsweek (Dec 10, 2025): [US Citizen Speaks Out After She Was Detained by ICE](https://www.newsweek.com/us-citizen-speaks-out-after-she-was-detained-by-ice-11189654)
 9. X Post (Dec 9, 2025): [@LittleCongress post](https://x.com/LittleCongress/status/1999500734174278013)
 10. X Post (Dec 10, 2025): [@snopes confirmation post](https://x.com/snopes/status/2002529506620309718)
+11. Star Tribune (Jan 13, 2026): [Federal judge considers arguments in Twin Cities residents' lawsuit alleging mistreatment by ICE](https://www.startribune.com/federal-judge-considers-arguments-in-twin-cities-residents-lawsuit-alleging-mistreatment-by-ice/601562654)
+12. Governor Walz letter to DHS (Dec 10, 2025): [Letter demanding review of U.S. citizen arrests](https://content.govdelivery.com/attachments/MNGOV/2025/12/10/file_attachments/3490044/12.10.2025_DHSLetter_U.S.CitizensArrests.pdf)
+13. ACLU of Minnesota (Dec 17, 2025): [Tincher v. Noem complaint](https://www.aclu-mn.org/app/uploads/2025/12/Tincher-v.-Noem-File-Stamped-Complaint.pdf)
+14. Court filing (Dec 10, 2025): [Declaration of Susan Tincher](https://storage.courtlistener.com/recap/gov.uscourts.mnd.229758/gov.uscourts.mnd.229758.1.1_4.pdf)
 
 ## Affected Individual(s)
 - **Name:** Sue Tincher
@@ -37,17 +41,20 @@ Sue Tincher, a 55-year-old Minneapolis resident and U.S. citizen, was detained f
 
 ## Timeline
 - **~6:20 AM** - Tincher responds to neighborhood alert about ICE activity on Oliver Avenue N.
-- **Arrival** - Federal agents tell her to move back.
-- **15 seconds later** - After refusing and questioning if they were ICE, officers "knocked me to the ground."
-- **Detention** - Handcuffed and placed in van
-- **Transport** - Taken to Bishop Henry Whipple Federal Building at Fort Snelling
-- **Interrogation** - Read Miranda rights, interviewed; declined to answer without counsel
-- **Shortly after noon** - Released after attorneys contacted the facility
+- **Arrival** - Standing on public sidewalk about 6 feet from agents on the perimeter, she asked one question: "Are you ICE?" A female agent walked toward her and said "get back." Other agents nearby said "Get back!" and "Take her down!"
+- **~15 seconds later** - Several agents grabbed her and pulled her to the ground facedown in the snow. Handcuffed while on the ground. She had not taken out her phone to record.
+- **Transport** - Placed in a truck with three agents. One, a woman called "Daisy," wore a medic patch with a Texas flag. Another wore a "HOU 16" patch. Agents pulled on her jacket hard enough to leave a red mark on her neck.
+- **Whipple Building** - Entered through garage Bay 2. Patted down extensively, sweater removed, bra cut off after agents felt the underwire. Purse cut free from her body. Boot laces ordered removed. Wedding ring cut off her finger. Placed in leg shackles and held in a cell.
+- **In the cell** - Passed the time humming spirituals and Christmas songs. "The Storm Is Passing Over" carried her.
+- **HSI interview** - Officers April Ehmke and Justin Peterson read her Miranda rights. She declined to speak without a lawyer.
+- **~Noon** - Released after more than five hours. Told she would be charged with obstructing a federal officer. No charges were ever filed.
 
 ## Injuries
-- Wedding ring cut off by officers
-- Hand bruising from tight handcuffing
-- No serious injuries
+- Wedding ring cut off — her original band from 32 years of marriage
+- Bruising from handcuffs
+- Swelling on neck from agents pulling her jacket
+- Bruising on finger from being pinched by the cut ring
+- Gloves, hat, and headband never returned
 
 ## Affected Individual Statement
 
@@ -62,7 +69,12 @@ On the experience: Within 15 seconds of arriving, she was "on the ground in hand
 Sent letter to Homeland Security Secretary Kristi Noem demanding review of the arrest and calling the agents' conduct "unlawful."
 
 ## Legal Action
-Tincher is a named plaintiff in ACLU of Minnesota lawsuit (Tincher v. Noem) challenging ICE violence and misconduct towards Minnesotans exercising First Amendment rights.
+
+### Tincher v. Noem (Case 0:25-cv-04669-KMM-DTS)
+Tincher is a named plaintiff in ACLU of Minnesota lawsuit filed December 17, 2025, challenging ICE violence and misconduct towards Minnesotans exercising First Amendment rights. The suit names six plaintiffs — including Tincher, Janet Lee, John Biestman, Lucia Webb, Alan Crenshaw, and Abdikadir Noor — and seeks a preliminary injunction limiting agents' use of firearms, chemical irritants, and arrests of citizens not resisting dispersal orders.
+
+### January 13 Hearing
+U.S. District Judge Katherine Menendez heard arguments on the preliminary injunction. DOJ attorney Jeremy Newman argued drivers were "chasing" ICE vehicles to draw crowds, but Menendez pressed him, saying she had seen no evidence drivers were breaking traffic laws. Plaintiffs' attorney Kyle Wislocky argued following ICE vehicles is protected First Amendment activity. DOJ argued an injunction would amount to "micromanaging DHS officers' conduct throughout Minnesota." No ruling was issued at the hearing.
 
 ## Editorial Assessment
 **HIGH** - Named affected individual with detailed first-person account. ACLU lawsuit plaintiff. Governor Walz response. Multiple news sources and legal documentation.
