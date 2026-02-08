@@ -9,7 +9,7 @@ affected_individual_citizenship: undocumented
 injuries: none
 trustworthiness: high
 created: 2026-01-14T08:33:42
-last_updated: 2026-01-14T08:33:42
+last_updated: 2026-02-08T15:36:25
 ---
 
 # Church Employee Deported, Parish Later Surveilled by ICE
@@ -21,6 +21,8 @@ Francisco Paredes, a 46-year-old church maintenance worker and choir member who 
 1. Catholic News Agency (Jan 9, 2026): [ICE deported Minnesota church employee, mayor says](https://www.catholicnewsagency.com/news/268977/minnesota-ICE-catholic-church)
 2. Catholic World Report (Jan 9, 2026): [ICE deported Minnesota church employee, surveilled parish](https://www.catholicworldreport.com/2026/01/09/minnesota-ice-catholic-church/)
 3. Star Tribune (Jan 10, 2026): [A day in the life of a Hispanic pastor during Minnesota's ICE surge](https://www.startribune.com/mn-hispanic-community-reaction-ice-arrests-deportation/601563257)
+4. Maryknoll Magazine / OSV News (Jan 13, 2026): [ICE Deported Minnesota Church Employee, Surveilled Parish During Mass](https://www.maryknollmagazine.org/2026/01/ice-deported-minnesota-church-employee-surveilled-parish-during-mass/)
+5. OSV News (Jan 2026): [Minneapolis Catholics wrestle with sorrow, anger, faith amid immigration operations](https://www.osvnews.com/minneapolis-catholics-wrestle-with-sorrow-anger-faith-amid-immigration-operations/)
 
 ## Affected Individual(s)
 - **Name:** Francisco Paredes

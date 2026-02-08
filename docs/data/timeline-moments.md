@@ -31,6 +31,14 @@ source:
 The first nationally viral moment of the operation. ICE agents swarm Karmel Mall — the nation's first Somali shopping center — and detain at least four people. A pregnant Somali woman is grabbed and dragged through the snow as bystanders scream. Video goes viral on TMZ and national outlets; the Minneapolis Police Chief condemns the agents' actions. During the same confrontation, [Abdikadir Noor](/entry/2025-12-16-abdikadir-noor-karmel-mall), a 43-year-old U.S. citizen who had been trying to calm the crowd, is tackled and arrested. At the Whipple Building, an agent tells him "Somalis should go back home." The mall falls silent in the weeks that follow — the first of many community gathering places emptied by the operation.
 
 ---
+date: 2025-12-17
+title: ACLU Files First Lawsuit Challenging Treatment of Observers
+incident: 2025-12-17-tincher-v-noem-aclu-lawsuit
+source:
+---
+The ACLU of Minnesota files [Tincher v. Noem](/entry/2025-12-17-tincher-v-noem-aclu-lawsuit), a federal lawsuit on behalf of six observers. It produces the only preliminary injunction against any aspect of Operation Metro Surge — barring agents from retaliating against, pepper spraying, or stopping people for watching them. The Eighth Circuit stays the order 10 days later, but the case's evidentiary record — more than 30 sworn declarations documenting a pattern of violence against observers — exists permanently.
+
+---
 date: 2025-12-21
 title: First Shooting by Federal Agent
 incident: 2025-12-21-st-paul-westminster-shooting
