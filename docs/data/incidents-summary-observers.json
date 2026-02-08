@@ -1286,13 +1286,18 @@
       "lastUpdated": "2026-02-07T17:57:07",
       "mediaCount": 0,
       "notable": false,
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
+      "hasLocalMedia": true,
+      "localMediaType": "image",
+      "localMediaPath": "media/2026-01/06/2026-01-06-mubashir-pepper-sprayed-filming.jpg",
       "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
+      "localMediaFiles": [
+        {
+          "type": "image",
+          "path": "media/2026-01/06/2026-01-06-mubashir-pepper-sprayed-filming.jpg"
+        }
+      ],
+      "aspectRatio": 1.3729977116704806,
+      "mediaVersion": 1770510182
     },
     {
       "filePath": "incidents/2026-01/2026-01-unknown-rosemount-gun-threat.md",
