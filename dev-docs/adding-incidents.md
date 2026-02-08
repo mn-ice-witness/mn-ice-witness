@@ -206,6 +206,7 @@ If the incident involves a refugee or immigrant with **pending legal status** (I
 - Business homepages or general profile pages
 - Social media profile pages (only specific posts about the incident count)
 - Pages that don't mention the incident
+- Social media content (Facebook, Instagram, TikTok, etc.) where you know the video/post exists but cannot find the direct URL — do not add a linkless entry as a source
 
 ### Needs Corroboration
 - Facebook posts
