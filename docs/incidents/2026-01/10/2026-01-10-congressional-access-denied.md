@@ -9,10 +9,13 @@ affected_individual_citizenship: unknown
 injuries: none
 trustworthiness: high
 created: 2026-01-19T09:57:48
-last_updated: 2026-01-19T09:57:48
+last_updated: 2026-02-08T09:53:06
 ---
 
 # Congressional Representatives Denied Access to Whipple ICE Facility
+
+## Updates
+- **Feb 6** - [DHS again denied](https://minnesotareformer.com/briefs/dhs-again-denies-minnesota-members-of-congress-access-to-whipple-building/) Reps. Angie Craig and Betty McCollum access to the Whipple facility, citing a cap of 13 visitors. Rep. Kelly Morrison was allowed inside. A federal judge had ruled earlier that week that DHS likely broke the law by requiring advance notice and granted a temporary restraining order. Craig said officials made her sit in a waiting room each time, raising questions about what staff do to prepare the facility before oversight visits. See also: [courts and conditions at Whipple](/entry/2026-02-06-brasel-right-to-counsel-whipple).
 
 ## Summary
 Three Minnesota Democratic representatives—Ilhan Omar, Angie Craig, and Kelly Morrison—were ordered to leave the Whipple Federal Building ICE facility approximately 10 minutes after being granted entry. Officials cited funding from the "One Big Beautiful Bill" and claimed lawmakers failed to provide mandatory seven-day advance notice. The representatives had briefly observed approximately 20 detainees, describing young men sitting with their heads in their hands.
@@ -23,6 +26,12 @@ Three Minnesota Democratic representatives—Ilhan Omar, Angie Craig, and Kelly 
 3. KSTP (Jan 10, 2026): [Minnesota congressional representatives forced out of Whipple Federal Building](https://kstp.com/kstp-news/top-news/minnesota-congressional-representatives-forced-out-of-whipple-federal-building/)
 4. Twin Cities Pioneer Press (Jan 10, 2026): [Minnesota lawmakers denied access to view conditions at ICE detention center Saturday](https://www.twincities.com/2026/01/10/minnesota-lawmakers-denied-access-to-view-conditions-at-ice-detention-center-saturday/)
 5. InForum (Jan 10, 2026): [Minnesota lawmakers denied access to ICE detention center Saturday](https://www.inforum.com/news/minnesota/minnesota-lawmakers-denied-access-to-ice-detention-center-saturday)
+6. Minnesota Reformer (Feb 6, 2026): [DHS again denies Minnesota members of Congress access to Whipple building](https://minnesotareformer.com/briefs/dhs-again-denies-minnesota-members-of-congress-access-to-whipple-building/)
+7. KSTP (Feb 6, 2026): [Rep. Morrison calls for Whipple detention center to be 'shut down' as peers are denied access](https://kstp.com/kstp-news/top-news/rep-morrison-calls-for-whipple-detention-center-to-be-shut-down-as-peers-are-denied-access/)
+
+## Related Incidents
+- [DHS Response: Claims of "Subprime Conditions" at Whipple Are "FALSE"](#2026-02-07-dhs-response-whipple-conditions-false)
+- [Courts and Conditions at Whipple](#2026-02-06-brasel-right-to-counsel-whipple)
 
 ## Lawmakers Involved
 - **Rep. Ilhan Omar** (DFL-5th District)

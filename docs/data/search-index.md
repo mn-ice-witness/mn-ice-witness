@@ -15,10 +15,11 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (215 incidents)
+## CURRENT (222 incidents)
 
 Published incidents visible on the main site.
 
+- incidents/2026-02/07/2026-02-07-dhs-response-whipple-conditions-false.md | 2026-02-07 | Minneapolis | response | DHS Statement: Claims of "Subprime Conditions" at Whipple Are "FALSE"
 - incidents/2026-02/06/2026-02-06-brasel-right-to-counsel-whipple.md | 2026-02-06 | Minneapolis | background | Minnesota Courts Buckle as Immigration Litigation Overwhelms Federal System; Top ICE Lawyer Departs
 - incidents/2026-02/06/2026-02-06-dhs-response-agitators-shielded.md | 2026-02-06 | Minneapolis | response | DHS Response: "Agitators" Shield Child Rapists, Sex Offenders, and Gang Members From Arrest
 - incidents/2026-02/06/2026-02-06-georgetown-park-pepper-spray.md | 2026-02-06 | Bloomington | observers | Federal Agents Pepper Spray Relatives During Arrest at Georgetown Park Apartments
@@ -93,6 +94,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/18/2026-01-18-dhs-response-juan-carlos.md | 2026-01-18 | Minneapolis | response | DHS Response: Kneeing Victim is "Criminal Alien from Ecuador"
 - incidents/2026-01/18/2026-01-18-perla-ocampo-willmar-citizen.md | 2026-01-18 | Willmar | citizens | U.S. Citizen College Student Restrained by ICE, Released After Showing Birth Certificate
 - incidents/2026-01/18/2026-01-18-dhs-response-accent-detention.md | 2026-01-18 | Minneapolis | response | DHS Statement: Defends Accent-Based Detention
+- incidents/2026-01/17/2026-01-17-elizabeth-jackson-observer-arrested.md | 2026-01-17 | St. Paul | observers | Observer Arrested by ICE After Being Threatened at Staging Area Ten Days Earlier
 - incidents/2026-01/17/2026-01-17-st-louis-park-daycare.md | 2026-01-17 | St. Louis Park | schools-hospitals | ICE Agents Near St. Louis Park Daycare Threaten Parent with Pepper Spray
 - incidents/2026-01/17/2026-01-17-mischief-toy-store-ice-inspection.md | 2026-01-17 | St. Paul | observers | Toy Store Receives ICE Inspection Notice Hours After ABC News Interview
 - incidents/2026-01/16/2026-01-16-parral-ortiz-hospital-detention.md | 2026-01-16 | Mounds View | immigrants, schools-hospitals | Man Detained While Driving Sick Wife to Emergency Room
@@ -172,9 +174,11 @@ Published incidents visible on the main site.
 - incidents/2026-01/09/2026-01-09-hopkins-bryam-escobar.md | 2026-01-09 | Hopkins | immigrants | Hopkins Father Detained Going to Work; Later Released by Court Order
 - incidents/2026-01/09/2026-01-09-fridley-schools-closure.md | 2026-01-09 | Fridley | schools-hospitals | Fridley Public Schools Closes Twice Due to ICE Activity
 - incidents/2026-01/09/2026-01-09-juan-carlos-brutality.md | 2026-01-09 | Minneapolis | observers | Border Patrol Agent Knees Man in Face While Pinned Down
+- incidents/2026-01/09/2026-01-09-troy-carrillo-pepper-sprayed.md | 2026-01-09 | Bloomington | observers | Observer Pepper Sprayed in Face by Agent from Same Vehicle That Threatened Him Two Days Earlier
 - incidents/2026-01/08/2026-01-08-alberto-castaneda-mondragon-head-injury.md | 2026-01-08 | St. Paul | immigrants | Immigrant Hospitalized With Skull Fractures After ICE Arrest; Says Beating Was Unprovoked
 - incidents/2026-01/08/2026-01-08-dhs-response-radical-rhetoric.md | 2026-01-08 | Minneapolis | response | DHS Response: "Radical Rhetoric" From "Sanctuary Politicians" Causes 1,300% Increase in Assaults
 - incidents/2026-01/08/2026-01-08-rochester-gates-complex.md | 2026-01-08 | Rochester | immigrants | Multiple ICE Arrests in Rochester; Activist Documents Agent Using Hammer on Car Window
+- incidents/2026-01/08/2026-01-08-whipple-tear-gas-renee-good-protest.md | 2026-01-08 | Minneapolis | observers | Border Patrol Chief Bovino and Agents Tear Gas Peaceful Protesters at Whipple Building Morning After Renee Good's Killing
 - incidents/2026-01/08/2026-01-08-thi-dua-vang-st-paul.md | 2026-01-08 | St. Paul | citizens | Christian Refugee Detained Despite Legal Status, ICE Keeps Returning to Home After Release
 - incidents/2026-01/08/2026-01-08-hennepin-healthcare-i9-subpoena.md | 2026-01-08 | Minneapolis | schools-hospitals | DHS Subpoenas Hennepin Healthcare Employee Records for 7,000+ Workers
 - incidents/2026-01/08/2026-01-08-jesse-ventura-roosevelt.md | 2026-01-08 | Minneapolis | schools-hospitals | Jesse Ventura Visits Roosevelt High School, Condemns ICE Actions
@@ -200,16 +204,17 @@ Published incidents visible on the main site.
 - incidents/2026-01/06/2026-01-06-levy-observers-followed-home.md | 2026-01-06 | St. Paul | observers | ICE Agent Calls Observer "Judith" by Name After Running Plates; Agents Then Drive to Couple's Home
 - incidents/2026-01/06/2026-01-06-elizabeth-caisaguano-detained.md | 2026-01-06 | Columbia Heights | schools-hospitals, immigrants | Ten-Year-Old Elizabeth Caisaguano Detained with Mother, Held Nearly One Month in Texas
 - incidents/2026-01/06/2026-01-06-emmanuel-sackie-brooklyn-park.md | 2026-01-06 | Brooklyn Park | citizens | Naturalized U.S. Citizen Hospitalized After ICE Encounter
-- incidents/2026-01/06/2026-01-06-bloomington-wilderness-inquiry.md | 2026-01-06 | Bloomington | immigrants | Man Seeks Refuge in Bloomington Office During 2-Hour ICE Standoff
+- incidents/2026-01/06/2026-01-06-bloomington-wilderness-inquiry.md | 2026-01-06 | Bloomington | immigrants | Man Seeks Refuge in Bloomington Office During 6-Hour ICE Standoff
 - incidents/2026-01/06/2026-01-06-mubashir-pepper-sprayed-filming.md | 2026-01-06 | Minneapolis | observers | U.S. Citizen Pepper-Sprayed by Federal Agent While Filming ICE Operations
 - incidents/2026-01/06/2026-01-06-el-fresco-restaurant-owner.md | 2026-01-06 | Bloomington | immigrants | Restaurant Owner Reported Missing, Confirmed Detained by ICE
 - incidents/2026-01/2026-01-early-wampash-tuntuam-10-children.md | 2026-01-05 | Minneapolis | immigrants | Indigenous Ecuadorian Mother Detained, Leaving 10 Children Including 5-Month-Old Infant
 - incidents/2026-01/02/2026-01-02-trunorth-solar-arden-hills.md | 2026-01-02 | Arden Hills | immigrants | ICE Raids TruNorth Solar Factory in Arden Hills - "First Big One of 2026"
 - incidents/2026-01/2026-01-unknown-rosemount-gun-threat.md | 2026-01-01 | Rosemount | observers | ICE Agent Waves Gun at Motorist in Rosemount
 - incidents/2025-12/31/2025-12-31-hcmc-patient-shackled.md | 2025-12-31 | Minneapolis | immigrants, schools-hospitals | Patient Shackled to Hospital Bed by ICE for 28 Hours Without Warrant
+- incidents/2025-12/29/2025-12-29-ridgedale-courthouse-arrests.md | 2025-12-29 | Minnetonka | observers | Dozens of Armed ICE Agents Arrest Two Men at Ridgedale Library and Courthouse; Observer Shoved Twice
 - incidents/2025-12/26/2025-12-26-joseph-boman-observer.md | 2025-12-26 | Richfield | observers | U.S. Citizen Observer Photographed, Followed, and Arrested
 - incidents/2025-12/21/2025-12-21-st-paul-westminster-shooting.md | 2025-12-21 | St. Paul | immigrants | ICE Agent Fires Shots During St. Paul Arrest After Being Struck by Vehicle
-- incidents/2025-12/16/2025-12-16-abdikadir-noor-karmel-mall.md | 2025-12-16 | Minneapolis | citizens | 20-Year U.S. Citizen Arrested at Karmel Mall, Subjected to Racist Statements by ICE Agent
+- incidents/2025-12/16/2025-12-16-abdikadir-noor-karmel-mall.md | 2025-12-15 | Minneapolis | citizens | 20-Year U.S. Citizen Arrested Near Karmel Mall, Subjected to Racist Statements by ICE Agent
 - incidents/2025-12/15/2025-12-15-karmel-mall-pregnant-woman.md | 2025-12-15 | Minneapolis | citizens | Pregnant Somali Woman Dragged Through Snow at Karmel Mall
 - incidents/2025-12/14/2025-12-14-adnan-hisri-omars-son.md | 2025-12-14 | Minneapolis | citizens | U.S. Citizen Son of Rep. Ilhan Omar Stopped by ICE, Released After Showing Passport
 - incidents/2025-12/13/2025-12-13-chanhassen-rooftop-standoff.md | 2025-12-13 | Chanhassen | immigrants | Construction Workers Take Refuge on Roof During Hours-Long ICE Standoff
@@ -218,6 +223,7 @@ Published incidents visible on the main site.
 - incidents/2025-12/10/2025-12-10-mahamed-eydarus-citizen-check.md | 2025-12-10 | Fridley | citizens | U.S. Citizen Questioned for Speaking Somali While Shoveling Snow with Mother
 - incidents/2025-12/09/2025-12-09-ice-vehicle-strikes-protester.md | 2025-12-09 | Minneapolis | observers | ICE Vehicle Strikes Protester; Agent Laughs "Wipe Out!"
 - incidents/2025-12/09/2025-12-09-sue-tincher-detained.md | 2025-12-09 | Minneapolis | observers | U.S. Citizen Observer Detained 5 Hours, Wedding Ring Cut Off
+- incidents/2025-12/09/2025-12-09-cedar-riverside-pepper-spray.md | 2025-12-09 | Minneapolis | observers | ICE Agents Pepper Spray Observers and Protesters at Cedar-Riverside
 - incidents/2025-12/09/2025-12-09-mubashir-wrongful-detention.md | 2025-12-09 | Minneapolis | citizens | U.S. Citizen Tackled, Detained by ICE During Lunch Break
 - incidents/2025-12/07/2025-12-07-rochester-tps-holder-detained.md | 2025-12-07 | Rochester | citizens | Somali Man with Temporary Protected Status Detained in Rochester
 - incidents/2025-12/07/2025-12-07-biestman-lee-guns-pointed.md | 2025-12-07 | Richfield | observers | Elderly Couple Has Guns Pointed at Them After Following ICE Vehicle
@@ -226,6 +232,7 @@ Published incidents visible on the main site.
 - incidents/2025-12/04/2025-12-04-francisco-paredes-church.md | 2025-12-04 | Hopkins | immigrants | Church Employee Deported, Parish Later Surveilled by ICE
 - incidents/2025-12/04/2025-12-04-dhs-response-abdulkadir-abdi.md | 2025-12-04 | Minneapolis | response | DHS Response: Abdulkadir Abdi "Gang Member"
 - incidents/2025-12/04/2025-12-04-abdulkadir-abdi-detained.md | 2025-12-04 | Minneapolis | immigrants | Addiction Recovery Leader Detained, Labeled "Gang Member"
+- incidents/2025-12/03/2025-12-03-lucia-webb-boxed-in.md | 2025-12-03 | Minneapolis | observers | ICE Observer Boxed In by Four Vehicles, Threatened with Arrest
 - incidents/2025-12/03/2025-12-03-hola-arepa-warrantless-entry.md | 2025-12-03 | Minneapolis | immigrants | Hola Arepa Staff Refuses ICE Entry Without Warrant
 - incidents/2025-12/02/2025-12-02-ali-dahir-citizen-check.md | 2025-12-02 | Minneapolis | citizens | Citizen Check: U.S. Citizen Detained 30 Minutes Outside Apartment Despite Showing Passport
 - incidents/2025-12/02/2025-12-02-metro-transit-driver-detained.md | 2025-12-02 | Minneapolis | immigrants | Somali-American Metro Transit Bus Driver Detained Over a Month

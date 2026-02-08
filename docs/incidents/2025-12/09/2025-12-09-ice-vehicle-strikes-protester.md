@@ -26,7 +26,8 @@ An ICE vehicle struck a protester in Minneapolis' Cedar-Riverside neighborhood d
 6. Bring Me The News (Dec 9, 2025): [ICE arrests US citizen, clashes with protesters in Minneapolis' Cedar-Riverside neighborhood](https://bringmethenews.com/minnesota-news/ice-arrests-us-citizen-clashes-with-protesters-in-minneapolis-cedar-riverside-neighborhood)
 
 ## Related Incidents
-- [U.S. Citizen Tackled, Detained by ICE During Lunch Break](#2025-12-09-mubashir-wrongful-detention)
+- [U.S. Citizen Tackled, Detained by ICE During Lunch Break](/entry/2025-12-09-mubashir-wrongful-detention)
+- [ICE Agents Pepper Spray Observers and Protesters at Cedar-Riverside](/entry/2025-12-09-cedar-riverside-pepper-spray)
 
 ## Affected Individual(s)
 - **Name:** Not publicly identified

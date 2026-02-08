@@ -1,6 +1,32 @@
 {
   "incidents": [
     {
+      "filePath": "incidents/2026-02/07/2026-02-07-dhs-response-whipple-conditions-false.md",
+      "title": "DHS Statement: Claims of \"Subprime Conditions\" at Whipple Are \"FALSE\"",
+      "summary": "On February 7, 2026, DHS issued a statement pushing back on Rep. Kelly Morrison's documented observations of poor conditions at the Bishop Henry Whipple Federal Building, declaring: \"Any claim that there are subprime conditions at ICE facilities are FALSE.\" The statement came one day after Morrison \u2014 a physician with over 20 years of medical experience \u2014 toured the facility and reported detainees in leg shackles on concrete floors with no beds, thin foil blankets, no posted medical protocols, and minimal food. DHS described the facility as a temporary processing space \"operated strictly in accordance with all federal regulations and policies.\" DHS spokesperson Tricia McLaughlin called Morrison's characterization \"categorically false.\"",
+      "latestUpdate": null,
+      "date": "2026-02-07",
+      "time": "unknown",
+      "location": "DHS Statement",
+      "city": "Minneapolis",
+      "type": "response",
+      "status": "resolved",
+      "affectedIndividualCitizenship": "n/a",
+      "injuries": "none",
+      "trustworthiness": "high",
+      "created": "2026-02-08T14:25:59",
+      "lastUpdated": "2026-02-08T14:25:59",
+      "mediaCount": 0,
+      "notable": false,
+      "hasLocalMedia": false,
+      "localMediaType": null,
+      "localMediaPath": null,
+      "localMediaOgPath": null,
+      "localMediaFiles": [],
+      "aspectRatio": null,
+      "mediaVersion": null
+    },
+    {
       "filePath": "incidents/2026-02/06/2026-02-06-dhs-response-agitators-shielded.md",
       "title": "DHS Response: \"Agitators\" Shield Child Rapists, Sex Offenders, and Gang Members From Arrest",
       "summary": "On February 6, 2026, DHS issued a press release naming specific individuals with criminal records \u2014 including child sex offenders, domestic abusers, and an alleged gang member \u2014 and accusing \"agitators and sanctuary politicians\" of shielding them from arrest. The release named two Minnesota cases and three from other states. DHS warned that \"obstructing law enforcement is a felony and a federal crime.\" The release was accompanied by Fox News coverage including a viral video of an ICE agent in St. Paul telling community members they were disrupting the arrest of a child sex offender.",

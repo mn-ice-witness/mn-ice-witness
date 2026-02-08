@@ -48,6 +48,7 @@ The legal infrastructure around Operation Metro Surge began visibly collapsing i
 - [Judge Orders ICE Director to Appear for Contempt; 96 Court Orders Violated](#2026-01-27-tobay-robles-lyons-contempt)
 - [Attorneys Denied Access to Detained Clients at Whipple Building](#2026-01-15-whipple-lawyers-denied-access)
 - [Congressional Representatives Denied Access to Whipple ICE Facility](#2026-01-10-congressional-access-denied)
+- [DHS Response: Claims of "Subprime Conditions" at Whipple Are "FALSE"](#2026-02-07-dhs-response-whipple-conditions-false)
 - [Protester Wes Prince Detained 9 Hours at Whipple Building](#2026-01-08-wes-prince-detained)
 - [Patient Shackled to Hospital Bed by ICE for 28 Hours Without Warrant](#2025-12-31-hcmc-patient-shackled)
 

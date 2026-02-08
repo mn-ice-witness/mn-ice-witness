@@ -20,7 +20,7 @@ title: Guns Pointed at Elderly Couple Observing ICE
 incident: 2025-12-07-biestman-lee-guns-pointed
 source:
 ---
-In an early sign of how the operation would treat those who watched, John Biestman and Janet Lee, a married couple in their late 60s from Linden Hills, follow an ICE vehicle after witnessing a raid at Church of the Assumption in Richfield. Agents box in their car and point guns at them. The couple later become named plaintiffs in the ACLU of Minnesota's federal lawsuit challenging ICE's treatment of observers — the first legal action to establish that watching federal agents is a constitutionally protected activity. It would not be the last — for a list of all observer incidents, see [list/observers](/list/observers).
+In an early sign of how the operation would treat those who watched, John Biestman and Janet Lee — a married couple, he a 69-year-old retired banker — drive to Church of the Assumption in Richfield after hearing ICE vehicles were circling Sunday morning services. They follow one of the vehicles. Four unmarked cars box them in at Roosevelt Park; masked agents point semiautomatic weapons in their faces. Biestman tells them: "This is like Germany 1938." An agent reaches through the window, points at Janet: "We're going to arrest her too." Another warns: "We have your license plate, we now know where to find you." When Biestman calls Richfield police to file a report, they refuse, citing "federal pre-emption." A 25-year-old witness photographing from across the street also has AR-15s pointed at her; when a Richfield officer arrives and agents holster their weapons, one walks back to tell her: "See what happens when you call the police? Nothing. They can't do shit to us." The couple later become named plaintiffs in the ACLU of Minnesota's federal lawsuit challenging ICE's treatment of observers — the first legal action to establish that watching federal agents is a constitutionally protected activity. It would not be the last — for a list of all observer incidents, see [list/observers](/list/observers).
 
 ---
 date: 2025-12-15
@@ -28,7 +28,7 @@ title: Pregnant Somali Woman Dragged Through Snow at Karmel Mall
 incident: 2025-12-15-karmel-mall-pregnant-woman
 source:
 ---
-The first nationally viral moment of the operation. ICE agents swarm Karmel Mall — the nation's first Somali shopping center — and detain at least four people. A pregnant Somali woman is grabbed and dragged through the snow as bystanders scream. Video goes viral on TMZ and national outlets; the Minneapolis Police Chief condemns the agents' actions. The next day, [Abdikadir Noor](/entry/2025-12-16-abdikadir-noor-karmel-mall), a 45-year-old who has been a U.S. citizen for 20 years, is arrested at the same mall while getting coffee. During processing, an ICE agent tells him "Somalis should go back home." The mall falls silent in the weeks that follow — the first of many community gathering places emptied by the operation.
+The first nationally viral moment of the operation. ICE agents swarm Karmel Mall — the nation's first Somali shopping center — and detain at least four people. A pregnant Somali woman is grabbed and dragged through the snow as bystanders scream. Video goes viral on TMZ and national outlets; the Minneapolis Police Chief condemns the agents' actions. During the same confrontation, [Abdikadir Noor](/entry/2025-12-16-abdikadir-noor-karmel-mall), a 43-year-old U.S. citizen who had been trying to calm the crowd, is tackled and arrested. At the Whipple Building, an agent tells him "Somalis should go back home." The mall falls silent in the weeks that follow — the first of many community gathering places emptied by the operation.
 
 ---
 date: 2025-12-21
@@ -310,3 +310,11 @@ incident: 2026-02-06-brasel-right-to-counsel-whipple
 source:
 ---
 Jim Stolley, the chief counsel for ICE in Minnesota — a 31-year veteran of the agency — retires as the crush of litigation from Operation Metro Surge overwhelms the federal court system. On the same day, U.S. District Judge Nancy Brasel gives the government until February 12 to ensure detained people can speak with attorneys at the [Whipple Federal Building](/entry/2026-02-06-brasel-right-to-counsel-whipple), calling the gap between evidence and government claims "so enormous I don't know how you're going to close it." U.S. Attorney Daniel Rosen reports that 427 immigration lawsuits were filed in January alone; immigration attorneys have filed 691 habeas corpus petitions since January 1 — five times the total for all of 2025.
+
+---
+date: 2026-02-06
+title: Congress Again Blocked from Whipple Oversight
+incident: 2026-01-10-congressional-access-denied
+source:
+---
+For the second time since the operation began, DHS blocks members of Congress from conducting oversight at the Whipple detention facility. Reps. Angie Craig and Betty McCollum are denied entry despite a federal judge having ruled days earlier that the advance-notice requirement likely violated the law. Only Rep. Kelly Morrison is allowed inside, where she documents detainees in leg shackles on concrete floors with no medical protocols. Officials cite a cap of 13 visitors — a rule McCollum calls illegal. Craig notes that each time she attempts entry, officials make her wait in a room for an extended period, raising questions about what is being done to prepare the facility before scrutiny. The first denial was on [January 10](/entry/2026-01-10-congressional-access-denied), when Reps. Omar, Craig, and Morrison were ordered to leave after just 10 minutes. The next day, DHS [declared Morrison's findings "FALSE"](/entry/2026-02-07-dhs-response-whipple-conditions-false), claiming all detainees receive "proper meals, quality water, blankets, medical treatment" — contradicting what a physician with 20 years of experience had observed firsthand.
