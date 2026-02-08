@@ -454,6 +454,7 @@ A U.S. citizen filming an ICE arrest was tackled and detained despite complying 
 - General social media profile pages (e.g., @francisburgerjoint Instagram profile)
 - Pages that don't mention the incident
 - Dead links
+- Social media content (Facebook, Instagram, TikTok, etc.) without a direct URL — if you cannot link to the specific post, do not list it as a source. Knowing a video exists is not enough; you need the actual link.
 
 **Valid sources include:**
 - News articles about the incident
