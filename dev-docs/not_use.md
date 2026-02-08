@@ -668,6 +668,41 @@ Stories are excluded when they don't meet the project's core focus:
 - Reason: **Insufficient details** - single source, no affected individual names, limited corroboration. May revisit if affected individuals come forward.
 - Date evaluated: 2026-02-02
 
+**"Mr. Osman" Karmel Mall Area Mosque (Jan 8)**
+- Sources: ACLU Hussen v. Noem complaint (Case 26-cv-00324)
+- Date: January 8, 2026
+- Details: A man identified as "Mr. Osman" reported being detained near the Karmel Mall mosque area in Minneapolis during ICE operations.
+- Reason: **Insufficient details.** Known only from ACLU complaint; no standalone news media coverage, no full name, limited corroboration.
+- Date evaluated: 2026-02-07
+
+**Columbia Heights 17-Year-Old Girl and Mother (~Jan 15)**
+- Sources: Aggregate community reports
+- Date: Approximately January 15, 2026
+- Details: A 17-year-old girl and her mother were reportedly detained in Columbia Heights during ICE enforcement operations.
+- Reason: **Insufficient details.** No name disclosed, no exact date, no standalone news coverage. Covered only in aggregate reporting.
+- Date evaluated: 2026-02-07
+
+**Freeborn County 287(g) ACLU Lawsuit (Dec 18 / Jan 16)**
+- Sources: ACLU litigation documents
+- Date: December 18, 2025 / January 16, 2026
+- Details: ACLU challenged Freeborn County's 287(g) agreement allowing local law enforcement to perform immigration enforcement functions.
+- Reason: **Not a separate incident.** Legal challenge to a county policy, not a civil rights incident involving ICE enforcement against an individual. Not significant enough for standalone background entry.
+- Date evaluated: 2026-02-07
+
+**Anpetu Teca Education Center ICE Staging Area (Jan 20-21)**
+- Sources: [Star Tribune](https://www.startribune.com/preschooler-and-three-other-students-detained-by-ice-school-district-leader-says/601568045)
+- Date: January 20-21, 2026
+- Details: ICE agents used the Anpetu Teca Education Center parking lot in Roseville as a staging area for enforcement operations on consecutive days.
+- Reason: **Staging area only.** No enforcement action against students or staff at the school. ICE used school property for staging, not for detaining individuals at the school. Related school enforcement actions documented separately.
+- Date evaluated: 2026-02-07
+
+**Anonymous Refugee Detentions From NPR (Late Jan)**
+- Sources: [NPR](https://www.npr.org/2026/02/01/nx-s1-5689031/minnesota-citizens-detained-ice)
+- Date: Late January 2026
+- Details: NPR reported two anonymous refugee detentions in the Twin Cities area.
+- Reason: **Insufficient details.** No names, no exact dates, anonymous sources only.
+- Date evaluated: 2026-02-07
+
 ### February 2026
 
 **Robbinsdale City Hall ICE Pursuit Crash (Feb 5, 2026)**
@@ -943,6 +978,48 @@ Stories are excluded when they don't meet the project's core focus:
 - Reason: **Insufficient details.** Anonymous source, no name, single article. May revisit if more coverage or corroboration emerges.
 - Date evaluated: 2026-02-06
 
+**Whipple Federal Building One-Month Anniversary Protest (Feb 7)**
+- Sources: Multiple outlets
+- Date: February 7, 2026
+- Details: Approximately 42 people arrested at a protest marking the one-month anniversary of the Renee Good shooting outside the Whipple Federal Building near Ft. Snelling.
+- Reason: **Protest-only coverage.** Same pattern as other excluded protest arrests. No ICE enforcement incident.
+- Date evaluated: 2026-02-07
+
+**U of M Morrill Hall Sanctuary Campus Protest (Feb 6)**
+- Sources: Multiple outlets
+- Date: February 6, 2026
+- Details: Approximately 11 people arrested at University of Minnesota Morrill Hall during a "sanctuary campus" protest demanding the university refuse cooperation with ICE.
+- Reason: **Protest-only coverage.** Student protest about university policy, not an ICE enforcement incident.
+- Date evaluated: 2026-02-07
+
+**South Minneapolis Pop-Up Street Blockades (Feb 5)**
+- Sources: Social media, BMTN roundups
+- Date: February 5, 2026
+- Details: Residents in south Minneapolis erected pop-up street blockades to impede ICE vehicle movement through neighborhoods.
+- Reason: **Community response only.** No enforcement incident documented.
+- Date evaluated: 2026-02-07
+
+**Star Tribune License Plate Investigation (Feb 6)**
+- Sources: Star Tribune investigative report
+- Date: February 6, 2026
+- Details: Star Tribune investigative report on ICE's use of license plate reader data and surveillance technology in Minnesota operations.
+- Reason: **Investigative reporting/feature.** Documents surveillance methods but not a specific civil rights incident.
+- Date evaluated: 2026-02-07
+
+**DHS "4,000 Arrests" Milestone Announcement (Feb 4)**
+- Sources: [DHS Press Release](https://www.dhs.gov/news/2026/02/04/dhs-reaches-more-4000-arrests-illegal-aliens-including-murderers-sex-offenders-gang)
+- Date: February 4, 2026
+- Details: DHS announced reaching 4,000 arrests during Operation Metro Surge in Minnesota, describing those arrested as "including murderers, sex offenders, gang members."
+- Reason: **Statistics/milestone announcement.** Not a specific civil rights incident.
+- Date evaluated: 2026-02-07
+
+**Coon Rapids Federal Agent Political Statement (Feb 4)**
+- Sources: Unicorn Riot video
+- Date: February 4, 2026
+- Details: A federal agent in Coon Rapids was recorded on video stating that the deportation operations serve a partisan political purpose rather than public safety goals.
+- Reason: **Does not fit project categories.** Agent's personal political statement, not an enforcement incident or government response.
+- Date evaluated: 2026-02-07
+
 ### December 2025
 
 **Loc Vinh Truong Rochester (Dec 13, 2025)**
@@ -965,6 +1042,13 @@ Stories are excluded when they don't meet the project's core focus:
 - Details: Rekeya Frazier (23, U.S. citizen, sister of Darnella Frazier who filmed George Floyd's murder) and boyfriend Oluwadamilola Bamigboye (24, Nigerian national with expired student visa) arrested after HSI agents approached their SUV. Frazier drove away with an agent inside who had entered to prevent departure; drove to New Hope Police Department. Bamigboye fled to Hy-Vee and was tackled. Both charged with interfering with federal agent with intent to commit felony (federal assault). Judge released both pending trial Dec 17. Defense disputes 95% of government's narrative; says agent entered vehicle uninvited with drawn weapon. Hennepin County Attorney declined state charges.
 - Reason: **Criminal case, not civil rights incident** - This is primarily a criminal prosecution for alleged assault on federal agents. Frazier (U.S. citizen) was not targeted for immigration enforcement - she was arrested for her conduct during her boyfriend's immigration arrest. Similar to excluded "Feng/Baierl Federal Assault Charges" pattern. The core legal question is whether defendants committed a crime by driving with an agent in the vehicle, not whether ICE violated their civil rights.
 - Date evaluated: 2026-02-05
+
+**Lucia Webb Observer Boxed In Near Whipple (Dec 5)**
+- Sources: ACLU Hussen v. Noem complaint (Case 26-cv-00324)
+- Date: December 5, 2025
+- Details: Lucia Webb, a legal observer, was reportedly boxed in by federal agents near the Whipple Federal Building while documenting ICE operations. She was threatened but not arrested. Webb is named as a plaintiff in the ACLU class action.
+- Reason: **Insufficient details for standalone incident.** Known only from ACLU complaint; no standalone news media coverage. While the affected individual is named, there is no independent reporting to corroborate the account.
+- Date evaluated: 2026-02-07
 
 ### November 2025
 

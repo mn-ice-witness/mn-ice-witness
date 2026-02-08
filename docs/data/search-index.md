@@ -15,11 +15,12 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (209 incidents)
+## CURRENT (215 incidents)
 
 Published incidents visible on the main site.
 
 - incidents/2026-02/06/2026-02-06-brasel-right-to-counsel-whipple.md | 2026-02-06 | Minneapolis | background | Minnesota Courts Buckle as Immigration Litigation Overwhelms Federal System; Top ICE Lawyer Departs
+- incidents/2026-02/06/2026-02-06-dhs-response-agitators-shielded.md | 2026-02-06 | Minneapolis | response | DHS Response: "Agitators" Shield Child Rapists, Sex Offenders, and Gang Members From Arrest
 - incidents/2026-02/06/2026-02-06-georgetown-park-pepper-spray.md | 2026-02-06 | Bloomington | observers | Federal Agents Pepper Spray Relatives During Arrest at Georgetown Park Apartments
 - incidents/2026-02/06/2026-02-06-honduran-mother-attorney-denied-access.md | 2026-02-06 | Minneapolis | immigrants | Honduran Mother with Brain Surgery History Held Extra Days After Judge Orders Release; Attorney Cannot Find Her
 - incidents/2026-02/06/2026-02-06-missing-5th-grader-dilley.md | 2026-02-06 | Columbia Heights | schools-hospitals, immigrants | Missing Columbia Heights Fifth Grader Spotted Inside Texas Detention Center by Classmates
@@ -52,6 +53,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/27/2026-01-27-tobay-robles-lyons-contempt.md | 2026-01-27 | Minneapolis | immigrants | Ecuadorean Man Held 3 Weeks Despite Court Order; Judge Orders ICE Director to Appear for Contempt
 - incidents/2026-01/26/2026-01-26-christian-salamanca-ice-chase-crash.md | 2026-01-26 | St. Paul | citizens | Asylum Seeker Hospitalized After Wife Says ICE Rammed His Car Into Telephone Pole
 - incidents/2026-01/26/2026-01-26-el-potro-brainerd.md | 2026-01-26 | Brainerd | immigrants | Four Restaurant Workers Detained at El Potro in Brainerd
+- incidents/2026-01/26/2026-01-26-dhs-response-death-threats.md | 2026-01-26 | Minneapolis | response | DHS Response: ICE Officers Face "8,000% Increase in Death Threats"; Publishes Minnesota Voicemail
 - incidents/2026-01/26/2026-01-26-bovino-agents-are-victims.md | 2026-01-26 | Washington, D.C. | response | Bovino Tells CNN Agents Are "The Victims" in Pretti Shooting; Says Second Amendment Rights "Don't Count"
 - incidents/2026-01/25/2026-01-25-bovino-pretti-had-gun-response.md | 2026-01-25 | Minneapolis | response | Bovino on Pretti: "Let's Take a Look at the Gun"; Second Amendment Groups Raise Concerns
 - incidents/2026-01/25/2026-01-25-bovino-vilify-law-enforcement.md | 2026-01-25 | Minneapolis | response | Bovino Blames Politicians, Community Leaders, and Journalists for "Tragic Consequences"
@@ -66,6 +68,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/23/2026-01-23-bowlocity-us-citizen-detained.md | 2026-01-23 | Rochester | citizens | U.S. Citizen Detained Outside Rochester Bowling Alley, Released After Rep. Kim Hicks Intervenes
 - incidents/2026-01/23/2026-01-23-bovino-experts-dealing-children.md | 2026-01-23 | Minneapolis | response | Bovino: "We Are Experts in Dealing With Children"
 - incidents/2026-01/23/2026-01-23-oak-terraces-obstruction-arrest.md | 2026-01-23 | Rochester | observers | Woman Arrested at Oak Terraces After Challenging ICE Presence on Private Property
+- incidents/2026-01/23/2026-01-23-tique-marin-church-volunteer-burnsville.md | 2026-01-23 | Minneapolis | immigrants | Church Food Distribution Volunteer Detained at Routine Immigration Check-In
 - incidents/2026-01/23/2026-01-23-50k-march.md | 2026-01-23 | Minneapolis | background | 50,000 March in Subzero Temperatures in Largest Minnesota Protest
 - incidents/2026-01/22/2026-01-22-little-canada-elementary-secure-protocol.md | 2026-01-22 | Little Canada | schools-hospitals | Little Canada Elementary Goes to Secure Protocol Due to ICE in Parking Lot
 - incidents/2026-01/22/2026-01-22-tipan-toddler-father-detained.md | 2026-01-22 | Minneapolis | immigrants | 2-Year-Old and Father Detained Near Powderhorn; Flown to Texas Despite Court Order
@@ -80,6 +83,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/20/2026-01-20-liam-ramos-detained.md | 2026-01-20 | Columbia Heights | schools-hospitals, immigrants | Five-Year-Old Liam Ramos Detained in Driveway, Allegedly Used as "Bait"
 - incidents/2026-01/20/2026-01-20-trump-mistakes-happen.md | 2026-01-20 | Washington D.C. | response | Trump on ICE Violence: "Mistakes Happen" While Focusing on "Murders and Criminals"
 - incidents/2026-01/20/2026-01-20-brooklyn-park-officer-citizen-check.md | 2026-01-20 | St. Paul | citizens | Metro Police Chiefs Call for End to Civil Rights Violations / Racially Discriminatory Citizen Checks; Off-Duty Brooklyn Park Police Officer Stopped at Gunpoint, Asked for Papers
+- incidents/2026-01/20/2026-01-20-anoka-hennepin-school-vans.md | 2026-01-20 | Dayton | schools-hospitals | Federal Agents Pull Over Two Anoka-Hennepin School Vans Carrying Students Near Dayton
 - incidents/2026-01/20/2026-01-20-trump-vicious-animals-statement.md | 2026-01-20 | n/a | response | Trump Claims ICE Operation is About Removing "Murderers & Criminals" from Minnesota, Calls Protesters "Highly Paid Troublemakers"
 - incidents/2026-01/20/2026-01-20-mohamed-jama-st-cloud.md | 2026-01-20 | St. Cloud | citizens | U.S. Citizen Arrested Twice by ICE in St. Cloud After Mistaken Identity
 - incidents/2026-01/19/2026-01-19-hilton-hotel-worker-arrested-by-guests.md | 2026-01-19 | St. Louis Park | citizens | ICE Agents Staying at Hotel Arrest One of Its Employees
@@ -169,6 +173,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/09/2026-01-09-fridley-schools-closure.md | 2026-01-09 | Fridley | schools-hospitals | Fridley Public Schools Closes Twice Due to ICE Activity
 - incidents/2026-01/09/2026-01-09-juan-carlos-brutality.md | 2026-01-09 | Minneapolis | observers | Border Patrol Agent Knees Man in Face While Pinned Down
 - incidents/2026-01/08/2026-01-08-alberto-castaneda-mondragon-head-injury.md | 2026-01-08 | St. Paul | immigrants | Immigrant Hospitalized With Skull Fractures After ICE Arrest; Says Beating Was Unprovoked
+- incidents/2026-01/08/2026-01-08-dhs-response-radical-rhetoric.md | 2026-01-08 | Minneapolis | response | DHS Response: "Radical Rhetoric" From "Sanctuary Politicians" Causes 1,300% Increase in Assaults
 - incidents/2026-01/08/2026-01-08-rochester-gates-complex.md | 2026-01-08 | Rochester | immigrants | Multiple ICE Arrests in Rochester; Activist Documents Agent Using Hammer on Car Window
 - incidents/2026-01/08/2026-01-08-thi-dua-vang-st-paul.md | 2026-01-08 | St. Paul | citizens | Christian Refugee Detained Despite Legal Status, ICE Keeps Returning to Home After Release
 - incidents/2026-01/08/2026-01-08-hennepin-healthcare-i9-subpoena.md | 2026-01-08 | Minneapolis | schools-hospitals | DHS Subpoenas Hennepin Healthcare Employee Records for 7,000+ Workers
@@ -196,6 +201,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/06/2026-01-06-elizabeth-caisaguano-detained.md | 2026-01-06 | Columbia Heights | schools-hospitals, immigrants | Ten-Year-Old Elizabeth Caisaguano Detained with Mother, Held Nearly One Month in Texas
 - incidents/2026-01/06/2026-01-06-emmanuel-sackie-brooklyn-park.md | 2026-01-06 | Brooklyn Park | citizens | Naturalized U.S. Citizen Hospitalized After ICE Encounter
 - incidents/2026-01/06/2026-01-06-bloomington-wilderness-inquiry.md | 2026-01-06 | Bloomington | immigrants | Man Seeks Refuge in Bloomington Office During 2-Hour ICE Standoff
+- incidents/2026-01/06/2026-01-06-mubashir-pepper-sprayed-filming.md | 2026-01-06 | Minneapolis | observers | U.S. Citizen Pepper-Sprayed by Federal Agent While Filming ICE Operations
 - incidents/2026-01/06/2026-01-06-el-fresco-restaurant-owner.md | 2026-01-06 | Bloomington | immigrants | Restaurant Owner Reported Missing, Confirmed Detained by ICE
 - incidents/2026-01/2026-01-early-wampash-tuntuam-10-children.md | 2026-01-05 | Minneapolis | immigrants | Indigenous Ecuadorian Mother Detained, Leaving 10 Children Including 5-Month-Old Infant
 - incidents/2026-01/02/2026-01-02-trunorth-solar-arden-hills.md | 2026-01-02 | Arden Hills | immigrants | ICE Raids TruNorth Solar Factory in Arden Hills - "First Big One of 2026"
@@ -231,7 +237,7 @@ Published incidents visible on the main site.
 
 ---
 
-## NO-ADD (137 entries)
+## NO-ADD (149 entries)
 
 Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 
@@ -328,6 +334,11 @@ Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 - dev-docs/not_use.md | Jan 16 | Virginia/Cazadores Restaurant ICE Arrest
 - dev-docs/not_use.md | Jan 2026 | St. Cloud "14 Criminals Arrested" DHS Claims
 - dev-docs/not_use.md | Jan 10 | Heather Lane Rooftop Workers Mankato
+- dev-docs/not_use.md | Jan 8 | "Mr. Osman" Karmel Mall Area Mosque
+- dev-docs/not_use.md | ~Jan 15 | Columbia Heights 17-Year-Old Girl and Mother
+- dev-docs/not_use.md | Dec 18 / Jan 16 | Freeborn County 287(g) ACLU Lawsuit
+- dev-docs/not_use.md | Jan 20-21 | Anpetu Teca Education Center ICE Staging Area
+- dev-docs/not_use.md | n/a | Anonymous Refugee Detentions From NPR
 - dev-docs/not_use.md | Feb 5, 2026 | Robbinsdale City Hall ICE Pursuit Crash
 - dev-docs/not_use.md | Jan 16 & Jan 22, 2026 | Winona Two Hmong Men Arrested
 - dev-docs/not_use.md | Jan 28, 2026 | Abdirahman Hassan Yusuf Grand Forks ND
@@ -367,9 +378,16 @@ Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 - dev-docs/not_use.md | Feb 5 | Litchfield Near-School Operation
 - dev-docs/not_use.md | Nov 2025 | Operation Creep ICE Employee Sex Sting
 - dev-docs/not_use.md | Feb 2 | Faribault Citizen Stopped / "Database" Mention
+- dev-docs/not_use.md | Feb 7 | Whipple Federal Building One-Month Anniversary Protest
+- dev-docs/not_use.md | Feb 6 | U of M Morrill Hall Sanctuary Campus Protest
+- dev-docs/not_use.md | Feb 5 | South Minneapolis Pop-Up Street Blockades
+- dev-docs/not_use.md | Feb 6 | Star Tribune License Plate Investigation
+- dev-docs/not_use.md | Feb 4 | DHS "4,000 Arrests" Milestone Announcement
+- dev-docs/not_use.md | Feb 4 | Coon Rapids Federal Agent Political Statement
 - dev-docs/not_use.md | Dec 13, 2025 | Loc Vinh Truong Rochester
 - dev-docs/not_use.md | Dec 13-14, 2025 | Willmar December 13-14 HSI Arrests
 - dev-docs/not_use.md | Dec 10-11, 2025 | Rekeya Frazier / Oluwadamilola Bamigboye Plymouth
+- dev-docs/not_use.md | Dec 5 | Lucia Webb Observer Boxed In Near Whipple
 - dev-docs/not_use.md | n/a | ICE Raids Two Hibbing Mexican Restaurants
 - dev-docs/not_use.md | n/a | Federal Agents Raid St. Paul Roofing Crew
 

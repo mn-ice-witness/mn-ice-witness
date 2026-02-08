@@ -100,6 +100,8 @@ Mubashir stated he was also denied water and medical assistance during detention
 - Person brought copy of Mubashir's passport to the scene
 
 ## Related Incidents
+- [U.S. Citizen Pepper-Sprayed by Federal Agent While Filming ICE Operations](#2026-01-06-mubashir-pepper-sprayed-filming) - Second incident against Hussen, January 6, 2026
+
 At least two other Somali U.S. citizens were arrested by ICE and released the same day, according to CAIR-MN Executive Director Jaylani Hussein.
 
 **Jaylani Hussein statement:**
