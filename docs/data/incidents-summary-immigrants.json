@@ -296,13 +296,18 @@
       "lastUpdated": "2026-02-07T17:57:07",
       "mediaCount": 0,
       "notable": false,
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
+      "hasLocalMedia": true,
+      "localMediaType": "image",
+      "localMediaPath": "media/2026-01/23/2026-01-23-tique-marin-church-volunteer-burnsville.jpg",
       "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
+      "localMediaFiles": [
+        {
+          "type": "image",
+          "path": "media/2026-01/23/2026-01-23-tique-marin-church-volunteer-burnsville.jpg"
+        }
+      ],
+      "aspectRatio": 1.2987012987012987,
+      "mediaVersion": 1770510068
     },
     {
       "filePath": "incidents/2026-01/22/2026-01-22-tipan-toddler-father-detained.md",
