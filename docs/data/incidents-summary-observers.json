@@ -475,7 +475,7 @@
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/17/2026-01-17-elizabeth-jackson-observer-arrested.mp4",
-      "localMediaOgPath": "media/2026-01/17/2026-01-17-elizabeth-jackson-observer-arrested-og-2s-1770593490.jpg",
+      "localMediaOgPath": "media/2026-01/17/2026-01-17-elizabeth-jackson-observer-arrested-og-2s-1770593864.jpg",
       "localMediaFiles": [
         {
           "type": "video",
@@ -483,7 +483,7 @@
         }
       ],
       "aspectRatio": 1.7638888888888888,
-      "mediaVersion": 1770593490
+      "mediaVersion": 1770593864
     },
     {
       "filePath": "incidents/2026-01/17/2026-01-17-mischief-toy-store-ice-inspection.md",

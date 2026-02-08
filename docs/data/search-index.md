@@ -15,7 +15,7 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (226 incidents)
+## CURRENT (227 incidents)
 
 Published incidents visible on the main site.
 
@@ -116,6 +116,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/15/2026-01-15-ramon-menera-accent-detained.md | 2026-01-15 | Minneapolis | citizens | U.S. Citizen Detained Because of "Accent"
 - incidents/2026-01/15/2026-01-15-st-paul-school-vans-pulled-over.md | 2026-01-15 | St. Paul | schools-hospitals | Two St. Paul School Vans Pulled Over by ICE With Students and Teachers Aboard
 - incidents/2026-01/14/2026-01-14-shawn-jackson-children-tear-gas.md | 2026-01-14 | Minneapolis | observers | Six Children Hospitalized After ICE Deploys Flashbangs and Tear Gas on Family SUV
+- incidents/2026-01/14/2026-01-14-agents-invoke-good-killing.md | 2026-01-14 | Minneapolis | background | "Have You Not Learned?": Agents Repeatedly Invoke Renee Good's Killing to Threaten Observers
 - incidents/2026-01/14/2026-01-14-circle-pines-restaurant-worker.md | 2026-01-14 | Circle Pines | immigrants | Restaurant Worker with Legal Visa Detained by Plain-Clothed Agents
 - incidents/2026-01/14/2026-01-14-st-paul-public-works-snowplow-driver.md | 2026-01-14 | St. Paul | immigrants | St. Paul Snowplow Driver with Legal Work Status Detained by ICE
 - incidents/2026-01/14/2026-01-14-nasra-ahmed-st-paul-citizen.md | 2026-01-14 | St. Paul | citizens | U.S. Citizen Born in Minnesota Detained by ICE for Two Days

@@ -161,6 +161,14 @@ In a video viewed millions of times worldwide, ICE agents smash the car window o
 
 ---
 date: 2026-01-14
+title: "Have You Not Learned?": Agents Invoke Good's Killing as Threat
+incident: 2026-01-14-agents-invoke-good-killing
+source:
+---
+In at least four separate encounters over three days, ICE agents invoke the [killing of Renee Good](/entry/2026-01-07-renee-good-shooting) to threaten observers. "Have y'all not learned from the last couple of days?" an agent asks [Abigail Salm](/entry/2026-01-09-abigail-salm-observer-detained) before threatening her with "a bullet in your skull." "Did you not learn from what just happened?" they ask [Phil Maddox](/entry/2026-01-12-phil-maddox-did-you-not-learn). At the Whipple Federal Building, an agent tells a [detained Marine veteran](/entry/2026-01-11-skye-elizabeth-marine-veteran-detained): "This is why we killed that lesbian bitch." The consistency across different agents and locations points to a culture in which Good's death was openly used as a tool of intimidation.
+
+---
+date: 2026-01-14
 title: North Minneapolis Erupts; Six Children Hospitalized After Flashbangs Hit Family SUV
 incident: 2026-01-14-shawn-jackson-children-tear-gas
 source:
