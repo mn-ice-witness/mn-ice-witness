@@ -9,7 +9,7 @@ affected_individual_citizenship: us-citizen
 injuries: none
 trustworthiness: high
 created: 2026-01-15T20:00:44
-last_updated: 2026-01-15T20:00:44
+last_updated: 2026-02-08T15:36:25
 ---
 
 # U.S. Citizen Questioned for Speaking Somali While Shoveling Snow with Mother
@@ -53,6 +53,9 @@ According to the ACLU lawsuit filed January 15, 2026:
 6. Agents ordered his mother to remove her niqab (a religious and cultural face covering)
 7. Agents separated Eydarus from his mother
 8. Both were detained "for a lengthy period" before being released after showing ID
+
+### Right-Wing Influencer Filming
+Adding to Eydarus's fears was a man with the agents using a phone on an extended mount to film him. Per the Minnesota Daily, this man was Ben Bergquam, an influencer from right-wing television network Real America's Voice. Eydarus said he was uncomfortable providing identification while being filmed by someone who was clearly not law enforcement. "It felt like a reality show," he said. Bergquam's role in the operations is unclear, and neither Bergquam nor Real America's Voice responded to the Minnesota Daily's request for comment.
 
 ## Constitutional Violations Alleged
 - **Fourth Amendment:** Unreasonable seizure without probable cause
