@@ -45,6 +45,10 @@ From ACLU complaint:
 From congressional testimony:
 > "My US citizenship did not protect me from being physically detained and hurt by ICE agents."
 
+## Class Action Lawsuit
+
+Both the December 9 detention and the January 6 pepper-spray incident are documented in **Hussen v. Noem** (Case 0:26-cv-00324, D. Minn.), a class action filed by the ACLU, ACLU of Minnesota, Covington & Burling LLP, Greene Espel PLLP, and Robins Kaplan LLP on January 15, 2026. The suit challenges racial profiling and constitutional violations during Operation Metro Surge. Hussen is the lead named plaintiff alongside Mahamed Eydarus and Javier Doe. A federal judge issued a preliminary injunction ordering agents to stop pepper-spraying and retaliating against peaceful observers.
+
 ## Related Incidents
 - [U.S. Citizen Tackled, Detained by ICE During Lunch Break](#2025-12-09-mubashir-wrongful-detention) - First incident, December 9, 2025
 
