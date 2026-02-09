@@ -21,15 +21,11 @@
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-02/08/2026-02-08-ice-deceptive-tactics.mp4",
-      "localMediaOgPath": "media/2026-02/08/2026-02-08-ice-deceptive-tactics-og-2s-1770662477.jpg",
+      "localMediaOgPath": "media/2026-02/08/2026-02-08-ice-deceptive-tactics-og-custom-1770664267.jpg",
       "localMediaFiles": [
         {
           "type": "video",
           "path": "media/2026-02/08/2026-02-08-ice-deceptive-tactics.mp4"
-        },
-        {
-          "type": "image",
-          "path": "media/2026-02/08/2026-02-08-ice-deceptive-tactics.jpg"
         }
       ],
       "aspectRatio": 0.6722222222222223,
