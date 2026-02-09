@@ -258,7 +258,7 @@ Published incidents visible on the main site.
 
 ---
 
-## NO-ADD (160 entries)
+## NO-ADD (169 entries)
 
 Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 
@@ -414,6 +414,15 @@ Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 - dev-docs/not_use.md | Feb 4 | Pentagon Cancels 11th Airborne Deployment to Minnesota
 - dev-docs/not_use.md | Feb 6 | ND Judge Traynor Denies Emergency Petitions
 - dev-docs/not_use.md | Feb 4 | Coon Rapids Federal Agent Political Statement
+- dev-docs/not_use.md | Jan 2026 | Eden Prairie Asia Mall Parking Lot Detentions
+- dev-docs/not_use.md | Jan 2026 | Eden Prairie H-1B Visa Holder at Costco
+- dev-docs/not_use.md | Jan 2026 | Eden Prairie Atwood Apartments Allegations
+- dev-docs/not_use.md | ~Jan 19-20 | Brooklyn Park Police Lobby Chase
+- dev-docs/not_use.md | Jan 13 | St. Cloud SUV Collision Near North Junior High
+- dev-docs/not_use.md | Jan 15-16 | Albert Lea Stoney Creek Estates Knock-and-Talk
+- dev-docs/not_use.md | Jan 11 | D. Doe PARRIS Plaintiff Lured Outside
+- dev-docs/not_use.md | Jan 2026 | Stewartville Parents Taken While Baby at Babysitter
+- dev-docs/not_use.md | Jan 9 | Rochester Groome Transportation Cuff-and-Release
 - dev-docs/not_use.md | Jan 15 | Best Boy Farms Owatonna Workplace Raid
 - dev-docs/not_use.md | Dec 22 | Thomas Edwin Edwards Gun Confrontation West St. Paul
 - dev-docs/not_use.md | Dec 13, 2025 | Loc Vinh Truong Rochester

@@ -1083,6 +1083,76 @@ Stories are excluded when they don't meet the project's core focus:
 - Reason: **Does not fit project categories.** Agent's personal political statement, not an enforcement incident or government response.
 - Date evaluated: 2026-02-07
 
+**Eden Prairie Asia Mall Parking Lot Detentions (Jan 2026)**
+- Sources: [Hometown Source](https://www.hometownsource.com/sun_sailor/free/eden-prairie-officials-concerned-over-local-ice-activity-demand-lawful-enforcement/article_0cf4c5de-f02b-4392-b337-2f9ed9f29a03.html), [EP Local News](https://www.eplocalnews.org/2026/01/09/ice-activity-prompts-police-calls-in-eden-prairie/)
+- Date: January 2026 (exact date unknown)
+- Details: Federal agents detained several people in Asia Mall parking lot, including employees and customers. Those detained described as "largely Latino."
+- Reason: **Insufficient details** - no names, no exact date, no citizenship/status information.
+- Date evaluated: 2026-02-08
+
+**Eden Prairie H-1B Visa Holder at Costco (Jan 2026)**
+- Sources: [EP Local News](https://www.eplocalnews.org/2026/01/28/eden-prairie-immigration-attorney-describes-surge-in-ice-detentions/)
+- Date: January 2026 (exact date unknown)
+- Details: H-1B visa holder detained at Costco gas station. Immigration attorney Nadezda Roife encountered him at Fort Snelling, informed agents of legal status, agent acknowledged mistake, released.
+- Reason: **Insufficient details** - no name, no exact date. Secondhand account via attorney.
+- Date evaluated: 2026-02-08
+
+**Eden Prairie Atwood Apartments Allegations (Jan 2026)**
+- Sources: [Hometown Source](https://www.hometownsource.com/sun_sailor/free/eden-prairie-officials-concerned-over-local-ice-activity-demand-lawful-enforcement/article_0cf4c5de-f02b-4392-b337-2f9ed9f29a03.html)
+- Date: January 2026
+- Details: Resident Kathryn Keeler claimed agents pulled fire alarms to draw residents out of buildings, deployed chemical agents, and aimed firearms at community members at Atwood Apartments.
+- Reason: **Unverified** - resident's public meeting testimony only, no independent verification, no police confirmation, no names of affected individuals.
+- Date evaluated: 2026-02-08
+
+**Brooklyn Park Police Lobby Chase (~Jan 19-20)**
+- Sources: [CCX Media](https://ccxmedia.org/news/beyond-frustrating-and-absolutely-despicable-brooklyn-park-police-chief-decries-ice-tactics/), [Hometown Source](https://www.hometownsource.com/sun_post/news/local/brooklyn-park-police-chief-says-his-criticism-of-federal-agents-caused-targeted-ice-influx/article_c908219e-df5e-419d-a43e-712434f26ecf.html)
+- Date: Approximately January 19-20, 2026
+- Details: ICE agents chased a person into Brooklyn Park PD front lobby. Person ran inside "begging" for help. Agents followed and detained the person inside. Known only through Police Chief Bruley's statements.
+- Reason: **Insufficient details** - no name of detained person, secondhand account via police chief, no independent reporting of the actual incident.
+- Date evaluated: 2026-02-08
+
+**St. Cloud SUV Collision Near North Junior High (Jan 13)**
+- Sources: [St. Cloud LIVE](https://www.stcloudlive.com/news/local/ice-activity-simmers-again-in-st-cloud-central-minnesota)
+- Date: January 13, 2026
+- Details: SUV driven by a Somali woman collided with an ICE vehicle on 25th Avenue North near North Junior High. Agents banged on driver's window. Driver proved legal residency; all detainees released.
+- Reason: **Insufficient details** - no name, thin single-source coverage. Outcome was release, no civil rights violation documented.
+- Date evaluated: 2026-02-08
+
+**Albert Lea Stoney Creek Estates Knock-and-Talk (Jan 15-16)**
+- Sources: [KTTC](https://www.kttc.com/2026/01/17/albert-lea-residents-report-suspicious-activity-police-find-ice-conducting-operations/), [KAAL](https://www.kaaltv.com/news/ice-agents-claimed-to-be-police-in-albert-lea-trailer-park-thursday/)
+- Date: January 15-16, 2026
+- Details: Federal agents conducted "knock and talk" at Stoney Creek Estates mobile home community in Albert Lea. Agents identified themselves as police (but were not ALPD). No arrests confirmed.
+- Reason: **No confirmed arrest** - ICE presence only, no detention documented, no affected individual identified.
+- Date evaluated: 2026-02-08
+
+**D. Doe PARRIS Plaintiff Lured Outside (Jan 11)**
+- Sources: [CNN](https://edition.cnn.com/2026/01/30/us/refugees-asylum-seekers-minnesota-detained-ice), [NPR](https://www.npr.org/2026/02/02/nx-s1-5686396/ice-arrest-refugees-legal-minneapolis-minnesota-immigration)
+- Date: January 11, 2026
+- Details: Anonymized plaintiff ("D. Doe") in Operation PARRIS class action. Lured from home by agents claiming they hit his car. Arrested, flown to Texas in shackles, kept in chains 16 hours, released without documents. Admitted as refugee in 2024.
+- Reason: **Anonymized** - pseudonymous plaintiff, cannot independently verify. Compelling account but no real name for corroboration. Part of broader PARRIS pattern already documented via Rosa/Whipple entry.
+- Date evaluated: 2026-02-08
+
+**Stewartville Parents Taken While Baby at Babysitter (Jan 2026)**
+- Sources: [Post Bulletin](https://www.postbulletin.com/news/local/olmsted-county-officials-respond-to-residents-ice-concerns)
+- Date: Disclosed at January 20, 2026 county meeting (exact arrest date unknown)
+- Details: Resident Diane O'Mara told Olmsted County commissioners that parents in Stewartville were taken into ICE custody while their child was with a babysitter. Sheriff said it was the first time he heard about it.
+- Reason: **Insufficient details** - secondhand account at public meeting, anonymous, no names, no date, sheriff unaware, no independent verification.
+- Date evaluated: 2026-02-08
+
+**Rochester Groome Transportation Cuff-and-Release (Jan 9)**
+- Sources: [KAAL](https://www.kaaltv.com/news/ice-agents-cuff-release-man-in-rochester-friday/)
+- Date: January 9, 2026
+- Details: ICE agents handcuffed a man outside Groome Transportation on Civic Center Drive at ~10:45 AM, placed him in a vehicle, spoke with him, then released him. Witnessed by ABC 6 News reporter.
+- Reason: **Insufficient details** - no name, no identity or status details. Outcome was release.
+- Date evaluated: 2026-02-08
+
+**Best Boy Farms Owatonna Workplace Raid (Jan 15)**
+- Sources: [Southernminn.com / Owatonna People's Press](https://www.southernminn.com/owatonna_peoples_press/news/witnesses-accuse-ice-of-pepper-spraying-a-minor-as-videos-emerge-of-raids-in-owatonna/article_333509da-58bf-415c-b2f5-ab64cdbb21de.html), [Bring Me The News](https://bringmethenews.com/minnesota-news/list-of-major-ice-raids-updates-in-minnesota-on-friday-jan-16)
+- Date: January 15, 2026
+- Details: ICE agents in tactical gear raided Best Boy Farms (formerly Bushel Boy Farms) tomato greenhouse on 32nd Avenue NW. ~5-6 workers detained with zip-tied hands, led into unmarked vehicles with Iowa plates. Hour-long video posted online. Company phone disconnected when reporters called.
+- Reason: **Insufficient details** - no affected individual names, no citizenship/status information. Already referenced in Context section of existing Owatonna pepper spray incident (`2026-01-16-owatonna-15-year-old-pepper-sprayed.md`).
+- Date evaluated: 2026-02-08
+
 **Thomas Edwin Edwards Gun Confrontation West St. Paul (Dec 22)**
 - Sources: [CBS Minnesota](https://www.cbsnews.com/minnesota/news/west-st-paul-pointing-gun-ice-agent-charges/), [Star Tribune](https://www.startribune.com/police-man-arrested-accused-of-trailing-federal-agents-and-brandishing-gun-in-west-st-paul/601551509/), [FOX 9](https://www.fox9.com/news/west-st-paul-police-arrest-man-gun-ice-agents-dec-26), [KSTP](https://kstp.com/kstp-news/top-news/charges-man-followed-ice-agents-pulled-gun-on-them-says-they-pointed-gun-at-him/), [Bring Me The News](https://bringmethenews.com/minnesota-news/charges-ice-agents-accuse-west-st-paul-man-of-following-them-pulling-gun)
 - Date: December 22, 2025
