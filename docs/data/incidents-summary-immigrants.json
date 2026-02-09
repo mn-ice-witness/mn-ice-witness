@@ -47,13 +47,18 @@
       "lastUpdated": "2026-02-07T14:12:42",
       "mediaCount": 0,
       "notable": false,
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
+      "hasLocalMedia": true,
+      "localMediaType": "image",
+      "localMediaPath": "media/2026-02/06/2026-02-06-missing-5th-grader-dilley.jpg",
       "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
+      "localMediaFiles": [
+        {
+          "type": "image",
+          "path": "media/2026-02/06/2026-02-06-missing-5th-grader-dilley.jpg"
+        }
+      ],
+      "aspectRatio": 1.6,
+      "mediaVersion": 1770613391
     },
     {
       "filePath": "incidents/2026-02/05/2026-02-05-hennepin-courthouse-detentions.md",
@@ -922,6 +927,32 @@
       ],
       "aspectRatio": 1.7718120805369129,
       "mediaVersion": 1769912968
+    },
+    {
+      "filePath": "incidents/2026-01/12/2026-01-12-jairo-pitalasig-north-high.md",
+      "title": "North High School Senior Detained at Construction Job, Deported to Ecuador",
+      "summary": "Jairo Pitalasig, an 18-year-old senior at North High School in Minneapolis, was detained by ICE at his construction job on January 12. He had been working full-time to support his Ecuadorian family while they sought asylum. His father \u2014 who was in remission from cancer \u2014 had been detained the day before and sent to El Paso. Both were transferred to Texas. Jairo had missed one routine immigration court date, resulting in an in-absentia removal order. He ultimately accepted deportation to Ecuador.",
+      "latestUpdate": null,
+      "date": "2026-01-12",
+      "time": "unknown",
+      "location": "Construction job site, Minneapolis",
+      "city": "Minneapolis",
+      "type": "immigrants",
+      "status": "resolved",
+      "affectedIndividualCitizenship": "asylum-seeker",
+      "injuries": "none",
+      "trustworthiness": "medium",
+      "created": "2026-02-08T22:52:19",
+      "lastUpdated": "2026-02-08T22:52:19",
+      "mediaCount": 0,
+      "notable": false,
+      "hasLocalMedia": false,
+      "localMediaType": null,
+      "localMediaPath": null,
+      "localMediaOgPath": null,
+      "localMediaFiles": [],
+      "aspectRatio": null,
+      "mediaVersion": null
     },
     {
       "filePath": "incidents/2026-01/12/2026-01-12-st-cloud-star-city-mall.md",

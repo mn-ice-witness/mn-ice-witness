@@ -16,7 +16,7 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (230 incidents)
+## CURRENT (232 incidents)
 
 Published incidents visible on the main site.
 
@@ -149,6 +149,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/12/2026-01-12-phil-maddox-did-you-not-learn.md | 2026-01-12 | Minneapolis | observers | "Did You Not Learn From What Just Happened?" - ICE Agents Threaten Observer
 - incidents/2026-01/12/2026-01-12-irma-escoto-citizen-check.md | 2026-01-12 | West St. Paul | citizens | Citizen Check: U.S. Citizen Surrounded by ICE Agents at West St. Paul Restaurant
 - incidents/2026-01/12/2026-01-12-silva-sosa-inver-grove-heights.md | 2026-01-12 | Inver Grove Heights | immigrants | Silva Sosa Parents Detained Days After I-130 Approval
+- incidents/2026-01/12/2026-01-12-jairo-pitalasig-north-high.md | 2026-01-12 | Minneapolis | immigrants | North High School Senior Detained at Construction Job, Deported to Ecuador
 - incidents/2026-01/12/2026-01-12-st-cloud-star-city-mall.md | 2026-01-12 | St. Cloud | immigrants, observers | 50+ ICE Agents Swarm Somali Mall in St. Cloud; Chemical Irritants Used on Protesters
 - incidents/2026-01/12/2026-01-12-detroit-lakes-china-buffet.md | 2026-01-12 | Detroit Lakes | immigrants | Honduran Man Arrested at Detroit Lakes Restaurant; Partner Documents on Video
 - incidents/2026-01/12/2026-01-12-christina-rank-teacher.md | 2026-01-12 | Inver Grove Heights | citizens, schools-hospitals | U.S. Citizen Special Education Teacher Detained for Nearly 12 Hours
@@ -172,6 +173,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/10/2026-01-10-nicole-cleland-global-entry-revoked.md | 2026-01-10 | Richfield | observers | Observer's Global Entry and TSA PreCheck Revoked After CBP Agent Uses Facial Recognition
 - incidents/2026-01/10/2026-01-10-bloomington-ave-bus-stop.md | 2026-01-10 | Minneapolis | immigrants | ICE Agents "Ripping People From Cars" at Bus Stop; Union Marks Site as "Abduction" Location
 - incidents/2026-01/10/2026-01-10-raul-aguirre-castrejon-monticello.md | 2026-01-10 | Monticello | citizens | Legal Permanent Resident Boxed In on Road, Handcuffed at Gunpoint; Agents Take Cash from Wallet
+- incidents/2026-01/10/2026-01-10-dionne-thunder-powwow-grounds.md | 2026-01-10 | Minneapolis | observers | ICE Agents Attempt to Detain Indigenous Observer Near Powwow Grounds; Community Forces Retreat
 - incidents/2026-01/10/2026-01-10-maple-grove-walmart.md | 2026-01-10 | Maple Grove | immigrants | Man Pinned and Arrested Inside Maple Grove Walmart
 - incidents/2026-01/10/2026-01-10-congressional-access-denied.md | 2026-01-10 | Minneapolis | background | Congressional Representatives Denied Access to Whipple ICE Facility
 - incidents/2026-01/10/2026-01-10-msp-airport-employees.md | 2026-01-10 | Minneapolis | citizens | Multiple Airport Employees Detained by ICE at MSP

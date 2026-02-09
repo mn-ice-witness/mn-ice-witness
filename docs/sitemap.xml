@@ -853,6 +853,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://mn-ice-witness.org/entry/2026-01-12-jairo-pitalasig-north-high</loc>
+    <lastmod>2026-02-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://mn-ice-witness.org/entry/2026-01-12-st-cloud-star-city-mall</loc>
     <lastmod>2026-01-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -987,6 +993,12 @@
   <url>
     <loc>https://mn-ice-witness.org/entry/2026-01-10-raul-aguirre-castrejon-monticello</loc>
     <lastmod>2026-02-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://mn-ice-witness.org/entry/2026-01-10-dionne-thunder-powwow-grounds</loc>
+    <lastmod>2026-02-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
