@@ -3,7 +3,7 @@
     {
       "filePath": "incidents/2026-02/08/2026-02-08-ice-deceptive-tactics.md",
       "title": "Reports of ICE Agents Using Disguises, Fake License Plates, and Ruse Tactics Across Minnesota",
-      "summary": "An Associated Press investigation published February 8 documented a pattern of deceptive tactics used by federal agents during Operation Metro Surge, including disguising themselves as construction workers, using fake business decals on rental vehicles, swapping or obscuring license plates, and impersonating delivery drivers and anti-ICE observers. A separate Star Tribune investigation of 100+ license plates on ICE vehicles found nearly 60% were not registered with the state of Minnesota. Governor Walz called the plate-swapping \"criminal activity\" that violates Minnesota law. These revelations formalized what communities, observers, and legal advocates had been reporting for weeks \u2014 that agents were using an escalating range of ruse tactics to avoid the citizen observer networks that had become a defining feature of Operation Metro Surge.",
+      "summary": "An Associated Press investigation published February 8 documented a pattern of deceptive tactics used by federal agents during Operation Metro Surge, including disguising themselves as construction workers, using fake business decals on rental vehicles, swapping or obscuring license plates, and impersonating delivery drivers and anti-ICE observers. A separate Star Tribune investigation of 100+ license plates on ICE vehicles found nearly 60% were not registered with the state of Minnesota. These revelations formalized what communities, observers, and legal advocates had been reporting for weeks \u2014 that agents were using an escalating range of ruse tactics to avoid the citizen observer networks that had become a defining feature of Operation Metro Surge.",
       "latestUpdate": null,
       "date": "2026-02-08",
       "time": "unknown",
@@ -18,13 +18,18 @@
       "lastUpdated": "2026-02-09T11:52:25",
       "mediaCount": 0,
       "notable": false,
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
-      "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
+      "hasLocalMedia": true,
+      "localMediaType": "video",
+      "localMediaPath": "media/2026-02/08/2026-02-08-ice-deceptive-tactics.mp4",
+      "localMediaOgPath": "media/2026-02/08/2026-02-08-ice-deceptive-tactics-og-2s-1770662477.jpg",
+      "localMediaFiles": [
+        {
+          "type": "video",
+          "path": "media/2026-02/08/2026-02-08-ice-deceptive-tactics.mp4"
+        }
+      ],
+      "aspectRatio": 0.6722222222222223,
+      "mediaVersion": 1770662477
     },
     {
       "filePath": "incidents/2026-02/06/2026-02-06-brasel-right-to-counsel-whipple.md",
@@ -42,6 +47,32 @@
       "trustworthiness": "high",
       "created": "2026-02-07T14:24:24",
       "lastUpdated": "2026-02-07T15:35:44",
+      "mediaCount": 0,
+      "notable": false,
+      "hasLocalMedia": false,
+      "localMediaType": null,
+      "localMediaPath": null,
+      "localMediaOgPath": null,
+      "localMediaFiles": [],
+      "aspectRatio": null,
+      "mediaVersion": null
+    },
+    {
+      "filePath": "incidents/2026-02/06/2026-02-06-ice-facial-recognition-surveillance-program.md",
+      "title": "ICE Deploys Facial Recognition Surveillance Program Against Citizen Observers in Minnesota",
+      "summary": "Federal agents conducting Operation Metro Surge deployed a smartphone-based facial recognition application called Mobile Fortify to scan the faces of targets, bystanders, and citizen observers \u2014 connecting to federal databases containing more than 200 million photographs. A federal court filing, sworn declarations, and multiple investigations revealed that the technology was used not only to identify immigration targets but to build what border czar Tom Homan called a database to \"make them famous\" \u2014 a registry of U.S. citizens who observed, filmed, or protested ICE operations. At least seven named citizens were subjected to warrantless biometric scans or facial recognition-enabled retaliation. The ACLU filed a class-action lawsuit alleging forced facial scans had \"become routine,\" and Congress introduced legislation to ban ICE and CBP from using the technology entirely.",
+      "latestUpdate": null,
+      "date": "2026-02-06",
+      "time": "unknown",
+      "location": "Statewide",
+      "city": "Minneapolis",
+      "type": "background",
+      "status": "ongoing",
+      "affectedIndividualCitizenship": "n/a",
+      "injuries": "none",
+      "trustworthiness": "high",
+      "created": "2026-02-09T12:28:18",
+      "lastUpdated": "2026-02-09T12:28:18",
       "mediaCount": 0,
       "notable": false,
       "hasLocalMedia": false,
