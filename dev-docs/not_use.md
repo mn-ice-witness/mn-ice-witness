@@ -705,6 +705,13 @@ Stories are excluded when they don't meet the project's core focus:
 
 ### February 2026
 
+**Daily Deportation Flights from MSP (Jan-Feb 2026)**
+- Sources: [MPR News](https://www.mprnews.org/story/2026/01/14/ice-deportation-flights-msp), multiple outlets
+- Date: January-February 2026 (ongoing)
+- Details: Increased deportation flights leaving MSP airport, with reports of daily charter and commercial flights transporting detainees to Texas and other states. Flight tracking groups documented patterns.
+- Reason: **Trend/policy story** - documents deportation logistics but no specific civil rights incident with identifiable affected individual. Individual deportation cases documented separately where details are available. Already partially covered by existing MSP Airport Deportation Flights entry (Jan 14).
+- Date evaluated: 2026-02-09
+
 **Robbinsdale City Hall ICE Pursuit Crash (Feb 5, 2026)**
 - Sources: [Hometownsource / Sun Post](https://www.hometownsource.com/county_news_review/sun_post/free/robbinsdale-police-woman-crashed-car-near-city-hall-after-ice-pursuit/article_52389281-0aac-4ae5-9c68-26b158396203.html), [CCX Media](https://ccxmedia.org/news/crash-near-robbinsdale-city-hall-traced-to-apparent-ice-incident/), [Bring Me The News](https://bringmethenews.com/minnesota-news/robbinsdale-woman-crashed-car-entered-city-hall-after-pursuit-by-ice)
 - Date: February 5, 2026

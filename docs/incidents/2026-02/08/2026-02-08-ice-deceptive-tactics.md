@@ -16,7 +16,7 @@ last_updated: 2026-02-09T11:52:25
 
 ## Summary
 
-An Associated Press investigation published February 8 documented a pattern of deceptive tactics used by federal agents during Operation Metro Surge, including disguising themselves as construction workers, using fake business decals on rental vehicles, swapping or obscuring license plates, and impersonating delivery drivers and anti-ICE observers. A separate Star Tribune investigation of 100+ license plates on ICE vehicles found nearly 60% were not registered with the state of Minnesota. Governor Walz called the plate-swapping "criminal activity" that violates Minnesota law. These revelations formalized what communities, observers, and legal advocates had been reporting for weeks — that agents were using an escalating range of ruse tactics to avoid the citizen observer networks that had become a defining feature of Operation Metro Surge.
+An Associated Press investigation published February 8 documented a pattern of deceptive tactics used by federal agents during Operation Metro Surge, including disguising themselves as construction workers, using fake business decals on rental vehicles, swapping or obscuring license plates, and impersonating delivery drivers and anti-ICE observers. A separate Star Tribune investigation of 100+ license plates on ICE vehicles found nearly 60% were not registered with the state of Minnesota. These revelations formalized what communities, observers, and legal advocates had been reporting for weeks — that agents were using an escalating range of ruse tactics to avoid the citizen observer networks that had become a defining feature of Operation Metro Surge.
 
 ## Sources
 
@@ -25,6 +25,9 @@ An Associated Press investigation published February 8 documented a pattern of d
 3. CBS Minnesota (Feb 8, 2026): [Community members fear ICE agents are now disguising themselves in Minnesota](https://www.cbsnews.com/minnesota/news/community-members-fear-ice-agents-disguising-themselves/)
 4. Star Tribune (Feb 6, 2026): [ICE agents swap and cover license plates in Minnesota](https://www.startribune.com/swapped-covered-and-removed-the-license-plate-tactics-ice-is-using-in-minnesota/601573065)
 5. MPR News (Dec 24, 2025): [ICE agents in Minnesota are violating state law by switching license plates](https://www.mprnews.org/story/2025/12/24/ice-agents-in-minnesota-are-violating-state-law-by-switching-license-plates)
+6. MPR News (Feb 8, 2026): [Hard hats and dummy plates: Reports of ICE ruses add to fears in Minnesota](https://www.mprnews.org/story/2026/02/08/hard-hats-and-dummy-plates-reports-of-ice-ruses-add-to-fears-in-minnesota)
+7. Fortune / AP (Feb 8, 2026): [Minnesotans say immigration agents are impersonating construction workers, delivery drivers and anti-ICE activists](https://fortune.com/2026/02/08/minnesota-immigration-agents-disguises-construction-workers-delivery-drivers-anti-ice-activists/)
+8. Instagram (2026): [Business owner confronts two ICE agents disguised as construction workers in vehicle](https://www.instagram.com/reels/DUUKVj4gSjo/)
 
 ## Disguises and Impersonation
 
@@ -71,7 +74,7 @@ Governor Walz called the plate-swapping "criminal activity," stating: "These guy
 Federal agents also employed ruse tactics to lure individuals out of safe locations:
 
 - **Fake car accident:** On January 7, a teacher at Un Mundo Nuevo daycare in Burnsville was [tricked by agents who falsely claimed someone had hit her car](#2026-01-07-un-mundo-nuevo-teacher-tricked). When she stepped outside, ICE detained her for 10 minutes.
-- **Fake food flyers:** On January 22, Anne Sullivan STEAM School in Minneapolis [warned families](#2026-01-22-sullivan-elementary-ice-food-flyers) that ICE was "sending out flyers offering food support to families" and urged parents not to respond. The school's warning was confirmed as authentic, but no actual flyer has been produced or independently verified as coming from ICE.
+- **Fake food flyers:** On January 22, Anne Sullivan STEAM School in Minneapolis [warned families](#2026-01-22-sullivan-elementary-ice-food-flyers) that ICE was "sending out flyers offering food support to families" and urged parents not to respond. (The school's warning was confirmed as authentic, but no actual flyer has been produced or independently verified as coming from ICE.)
 - **Child used as leverage:** On January 20, five-year-old [Liam Ramos was detained](#2026-01-20-liam-ramos-detained) in his driveway returning from preschool. School officials and witnesses said agents refused to leave the child with another adult, using him to lure his father. DHS disputed this characterization.
 - **False pretense for arrest:** ICE agents told a Venezuelan refugee family "they just needed to verify the fingerprints for our oldest son, but he would not be detained." The son was then arrested and driven away.
 

@@ -38,7 +38,7 @@ The primary goal of daily searches. Look for stories we haven't documented yet.
 - Add these quietly to incident files — no need to report unless they contain new information
 - Do NOT update `last_updated` for new sources alone
 
-**Workflow:** Present new incidents first. After user confirms which to add, THEN present updates and status changes.
+**Workflow:** Present new incidents ONE AT A TIME interactively. After all are reviewed, present all updates at once. Then present all other items (no-adds, etc.) at once.
 
 ---
 
@@ -134,25 +134,36 @@ Each agent should:
    - **Already documented** (incident matched existing file)
    - **Add to not_use.md** (evaluated and rejected, with reason)
 
-### Phase 4: Output — NEW INCIDENTS FIRST
+### Phase 4: Interactive Output — ONE NEW INCIDENT AT A TIME
 
-**Critical: Present new incidents first.** After the user reviews and we add them, then present updates.
+**Critical: Do NOT dump all results at once.** Present findings in three sequential rounds:
 
-**Step 1: Report New Incidents**
+**Round 1: New Incidents — ONE AT A TIME (Interactive)**
+
+For each new incident found, present it individually and wait for user response before moving to the next:
+
 ```markdown
-## Daily Search Results - [Date] - Scope: [metro/outstate/full] - [last 2 days / broader]
+## New Incident 1 of N
 
-### New Incidents Found
-| Date | Location | Description | Video? | Sources | Action |
-|------|----------|-------------|--------|---------|--------|
+**Date:** Jan 30, 2026
+**Location:** Rochester, MN
+**Description:** Brief description of what happened
+**Video/Photo?:** Yes/No
+**Sources found:** [list URLs]
+**Suggested category:** citizens / immigrants / observers / schools-hospitals
 
-### Added to not_use.md
-| Story | Reason |
-|-------|--------|
+→ Should I add this? (add / skip / add to not_use / need more info)
 ```
 
-**Step 2: After Adding New Incidents, Report Updates**
+After the user responds (add, skip, not_use, etc.), present the next new incident. Continue until all new incidents have been reviewed.
+
+**Round 2: Updates to Existing Incidents — ALL AT ONCE**
+
+After all new incidents are reviewed, present all updates together:
+
 ```markdown
+## Updates Found
+
 ### Status Changes (no-add/no-news-media → real incident)
 | Incident | Previous Status | New Status | Evidence |
 |----------|-----------------|------------|----------|
@@ -163,6 +174,24 @@ Each agent should:
 
 ### New Sources Added (no report needed, just document)
 [Added to N incident files — no last_updated changes]
+```
+
+**Round 3: Other Items — ALL AT ONCE**
+
+Finally, present all non-incident items together:
+
+```markdown
+## Other Items
+
+### Added to not_use.md
+| Story | Reason |
+|-------|--------|
+
+### Already Documented (confirmed coverage exists)
+- List of stories that matched existing incidents
+
+### Needs More Research
+- Stories needing additional verification
 ```
 
 ### Phase 5: Rarely — Incident Removal
@@ -221,8 +250,9 @@ This procedure is designed to be run **1-2 times daily**. For efficient recurrin
 3. Search BMTN for "List of major ICE raids" + [dates]
 4. Run 4-5 parallel web searches for recent incidents
 5. Cross-reference results against existing files
-6. REPORT NEW INCIDENTS FIRST
-7. After adding, report updates and new sources
+6. ROUND 1: Present new incidents ONE AT A TIME (wait for user on each)
+7. ROUND 2: Present all updates at once
+8. ROUND 3: Present all other items (no-adds, etc.) at once
 ```
 
 ## Before You Start

@@ -16,7 +16,7 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (236 incidents)
+## CURRENT (237 incidents)
 
 Published incidents visible on the main site.
 
@@ -25,6 +25,7 @@ Published incidents visible on the main site.
 - incidents/2026-02/06/2026-02-06-brasel-right-to-counsel-whipple.md | 2026-02-06 | Minneapolis | background | Minnesota Courts Buckle as Immigration Litigation Overwhelms Federal System; Top ICE Lawyer Departs
 - incidents/2026-02/06/2026-02-06-dhs-response-agitators-shielded.md | 2026-02-06 | Minneapolis | response | DHS Response: "Agitators" Shield Child Rapists, Sex Offenders, and Gang Members From Arrest
 - incidents/2026-02/06/2026-02-06-georgetown-park-pepper-spray.md | 2026-02-06 | Bloomington | observers | Federal Agents Pepper Spray Relatives During Arrest at Georgetown Park Apartments
+- incidents/2026-02/06/2026-02-06-ice-facial-recognition-surveillance-program.md | 2026-02-06 | Minneapolis | background | ICE Deploys Facial Recognition Surveillance Program Against Citizen Observers in Minnesota
 - incidents/2026-02/06/2026-02-06-honduran-mother-attorney-denied-access.md | 2026-02-06 | Minneapolis | immigrants | Honduran Mother with Brain Surgery History Held Extra Days After Judge Orders Release; Attorney Cannot Find Her
 - incidents/2026-02/06/2026-02-06-missing-5th-grader-dilley.md | 2026-02-06 | Columbia Heights | schools-hospitals, immigrants | Missing Columbia Heights Fifth Grader Spotted Inside Texas Detention Center by Classmates
 - incidents/2026-02/05/2026-02-05-kyle-wagner-eat-street-flats-raid.md | 2026-02-05 | Minneapolis | citizens | 11 Federal Agents Smash Into Apartment Building at 6 a.m. to Arrest Man for Anti-ICE Social Media Posts
@@ -259,7 +260,7 @@ Published incidents visible on the main site.
 
 ---
 
-## NO-ADD (169 entries)
+## NO-ADD (170 entries)
 
 Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 
@@ -361,6 +362,7 @@ Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 - dev-docs/not_use.md | Dec 18 / Jan 16 | Freeborn County 287(g) ACLU Lawsuit
 - dev-docs/not_use.md | Jan 20-21 | Anpetu Teca Education Center ICE Staging Area
 - dev-docs/not_use.md | n/a | Anonymous Refugee Detentions From NPR
+- dev-docs/not_use.md | Jan-Feb 2026 | Daily Deportation Flights from MSP
 - dev-docs/not_use.md | Feb 5, 2026 | Robbinsdale City Hall ICE Pursuit Crash
 - dev-docs/not_use.md | Jan 16 & Jan 22, 2026 | Winona Two Hmong Men Arrested
 - dev-docs/not_use.md | Jan 28, 2026 | Abdirahman Hassan Yusuf Grand Forks ND

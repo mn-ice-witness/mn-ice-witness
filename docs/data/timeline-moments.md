@@ -328,9 +328,17 @@ source:
 For the second time since the operation began, DHS blocks members of Congress from the Whipple detention facility — despite a federal judge having ruled the advance-notice requirement likely violated the law. Only Rep. Kelly Morrison is allowed inside, where she documents detainees in leg shackles on concrete floors with no medical protocols. The next day, DHS [declared her findings "FALSE"](/entry/2026-02-07-dhs-response-whipple-conditions-false). The [first denial](/entry/2026-01-10-congressional-access-denied) was January 10.
 
 ---
+date: 2026-02-06
+title: Facial Recognition Surveillance Program Revealed
+incident: 2026-02-06-ice-facial-recognition-surveillance-program
+source:
+---
+An NBC News investigation revealed the scope of ICE's facial recognition program in Minnesota. Agents used the Mobile Fortify smartphone app — connected to databases of 200+ million photos — to scan observers, bystanders, and targets. Border czar Tom Homan had vowed to "make them famous." The ACLU alleged forced facial scans had "become routine"; Congress introduced legislation to ban the technology.
+
+---
 date: 2026-02-08
 title: Hard Hats and Dummy Plates
 incident: 2026-02-08-ice-deceptive-tactics
 source:
 ---
-An AP investigation documented what communities had been reporting for weeks: federal agents were disguising themselves as construction workers, putting fake business decals on rental vehicles, and swapping license plates to evade Minnesota's 30,000-strong citizen observer network. A Star Tribune investigation of 100+ plates found a Jeep with Porsche plates, another with Ferrari plates, and one plate used on four different vehicles. The tactics extended beyond disguises. Agents [tricked a daycare teacher](/entry/2026-01-07-un-mundo-nuevo-teacher-tricked) outside with a fake car accident claim, used [facial recognition](/entry/2026-01-10-nicole-cleland-global-entry-revoked) to identify and retaliate against observers, and [followed watchers to their homes](/entry/2026-01-06-levy-observers-followed-home). A school [warned families](/entry/2026-01-22-sullivan-elementary-ice-food-flyers) that ICE was distributing food support flyers to lure immigrants — though no flyer was ever produced. Governor Walz called the plate-swapping "criminal activity"; the ACLU said the tactics were "what you do if you're trying to control a populace."
+An AP investigation documented what communities had been reporting for weeks: federal agents were disguising themselves as construction workers, putting fake business decals on rental vehicles, and swapping license plates to evade Minnesota's 30,000-strong citizen observer network. A Star Tribune investigation of 100+ plates found a Jeep with Porsche plates, another with Ferrari plates, and one plate used on four different vehicles. The tactics extended beyond disguises. Agents [tricked a daycare teacher](/entry/2026-01-07-un-mundo-nuevo-teacher-tricked) outside with a fake car accident claim, used [facial recognition](/entry/2026-01-10-nicole-cleland-global-entry-revoked) to identify and retaliate against observers, and [followed watchers to their homes](/entry/2026-01-06-levy-observers-followed-home). 

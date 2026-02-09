@@ -171,18 +171,17 @@ Then follow `dev-docs/daily-search-procedure.md`:
 1. Read `docs/data/search-index.md` (has CURRENT, NO-ADD, REMOVED, NO-NEWS-MEDIA)
 2. Launch 4-6 parallel search agents
 3. Cross-reference findings against existing files
-4. **Report NEW INCIDENTS FIRST** — after adding, report updates and status changes
+4. **Present results in 3 interactive rounds** (see below)
 
 **Search scope commands:**
 - **"do our daily search"** / **"do a metro search"** = Twin Cities sources only
 - **"do an outstate search"** = Greater MN: Rochester, Duluth, Mankato, St. Cloud, Moorhead, Brainerd
 - **"do a full search"** = Both metro + outstate
 
-**Output priority:**
-1. New incidents (present first, add before anything else)
-2. Status changes (no-add/no-news-media → real incident)
-3. Updates to existing (require `## Updates` entry)
-4. New sources (add silently, don't update `last_updated`)
+**Output — 3 rounds, never dump everything at once:**
+1. **Round 1: New incidents — ONE AT A TIME.** Present each new incident individually, wait for user response (add / skip / not_use / need more info) before showing the next
+2. **Round 2: Updates — ALL AT ONCE.** After all new incidents reviewed, present status changes, updates to existing incidents, and new sources together
+3. **Round 3: Other items — ALL AT ONCE.** No-adds, already-documented confirmations, needs-more-research
 
 ### Timeline Review Command
 When user says **"review the timeline"** or **"check the timeline"**:
