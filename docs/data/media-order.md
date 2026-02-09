@@ -43,7 +43,6 @@ brooklyn-park-officer-citizen-check
 observer-shoved-into-traffic
 teenager-tackled-snow
 mankato-women-sprayed
-bovino-smoke-canister-playground
 raise-voice-erase-voice
 silva-sosa-inver-grove-heights
 siguenza-okeefe-detained
@@ -153,3 +152,4 @@ kyle-wagner-eat-street-flats-raid
 elizabeth-jackson-observer-arrested
 tincher-v-noem-aclu-lawsuit
 agents-invoke-good-killing
+bovino-smoke-canister-playground

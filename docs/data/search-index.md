@@ -16,7 +16,7 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (227 incidents)
+## CURRENT (229 incidents)
 
 Published incidents visible on the main site.
 
@@ -81,6 +81,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/22/2026-01-22-south-mpls-teenagers-detained.md | 2026-01-22 | Minneapolis | citizens | CBP Detains Two Teenagers (One Confirmed U.S. Citizen) After Rear-Ending Their Vehicle, Deploys Tear Gas on Bystanders
 - incidents/2026-01/22/2026-01-22-velasco-family-hopkins.md | 2026-01-22 | Hopkins | immigrants | Hopkins Family of Four Detained; Returned After ICE Violates Court Order
 - incidents/2026-01/21/2026-01-21-bovino-smoke-canister-playground.md | 2026-01-21 | Minneapolis | schools-hospitals | Border Patrol Commander Greg Bovino Deploys Smoke Canister Near School at Dismissal (CORRECTED)
+- incidents/2026-01/21/2026-01-21-parris-venezuelan-refugee-whipple.md | 2026-01-21 | Minneapolis | citizens | Venezuelan Refugee Detained at Whipple Check-In, Flown to Texas with 60 Minnesota Women; Green Card Approved While in Custody
 - incidents/2026-01/21/2026-01-21-observer-pinned-pepper-sprayed-face.md | 2026-01-21 | Minneapolis | observers | Observer Pinned to Ground, Chemical Irritant Sprayed Directly Into Face
 - incidents/2026-01/21/2026-01-21-dhs-response-5-year-old-bait.md | 2026-01-21 | Columbia Heights | response | DHS Response: "Child Was ABANDONED," Father "Fled on Foot"
 - incidents/2026-01/21/2026-01-21-dhs-response-crowd-control.md | 2026-01-21 | Minneapolis | response | DHS Response: Agents "Harassed" at Gas Stations, Used "Crowd Control Measures"
@@ -208,6 +209,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/06/2026-01-06-2000-agents-deployed.md | 2026-01-06 | Minneapolis | background | DHS Deploys 2,000 Additional Agents to Minnesota
 - incidents/2026-01/06/2026-01-06-levy-observers-followed-home.md | 2026-01-06 | St. Paul | observers | ICE Agent Calls Observer "Judith" by Name After Running Plates; Agents Then Drive to Couple's Home
 - incidents/2026-01/06/2026-01-06-elizabeth-caisaguano-detained.md | 2026-01-06 | Columbia Heights | schools-hospitals, immigrants | Ten-Year-Old Elizabeth Caisaguano Detained with Mother, Held Nearly One Month in Texas
+- incidents/2026-01/06/2026-01-06-gonzalo-torres-burnsville.md | 2026-01-06 | Burnsville | immigrants | Chilean Man Agrees to Voluntary Departure, Offers to Pay Own Airfare — Still Stuck in Louisiana Jail Five Weeks Later
 - incidents/2026-01/06/2026-01-06-emmanuel-sackie-brooklyn-park.md | 2026-01-06 | Brooklyn Park | citizens | Naturalized U.S. Citizen Hospitalized After ICE Encounter
 - incidents/2026-01/06/2026-01-06-bloomington-wilderness-inquiry.md | 2026-01-06 | Bloomington | immigrants | Man Seeks Refuge in Bloomington Office During 6-Hour ICE Standoff
 - incidents/2026-01/06/2026-01-06-mubashir-pepper-sprayed-filming.md | 2026-01-06 | Minneapolis | observers | U.S. Citizen Pepper-Sprayed by Federal Agent While Filming ICE Operations
