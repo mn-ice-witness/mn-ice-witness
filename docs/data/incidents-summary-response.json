@@ -18,13 +18,18 @@
       "lastUpdated": "2026-02-08T14:25:59",
       "mediaCount": 0,
       "notable": false,
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
+      "hasLocalMedia": true,
+      "localMediaType": "image",
+      "localMediaPath": "media/2026-02/07/2026-02-07-dhs-response-whipple-conditions-false.jpg",
       "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
+      "localMediaFiles": [
+        {
+          "type": "image",
+          "path": "media/2026-02/07/2026-02-07-dhs-response-whipple-conditions-false.jpg"
+        }
+      ],
+      "aspectRatio": 1.5,
+      "mediaVersion": 1770612676
     },
     {
       "filePath": "incidents/2026-02/06/2026-02-06-dhs-response-agitators-shielded.md",
