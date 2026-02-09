@@ -35,6 +35,7 @@
 
 
 
+
 juan-carlos-brutality
 aliya-rahman-car-window-hospitalized
 speedway-st-paul
@@ -159,3 +160,4 @@ bovino-smoke-canister-playground
 dhs-response-whipple-conditions-false
 missing-5th-grader-dilley
 ice-deceptive-tactics
+ice-facial-recognition-surveillance-program

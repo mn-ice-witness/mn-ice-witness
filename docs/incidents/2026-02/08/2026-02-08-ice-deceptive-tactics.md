@@ -28,6 +28,7 @@ An Associated Press investigation published February 8 documented a pattern of d
 6. MPR News (Feb 8, 2026): [Hard hats and dummy plates: Reports of ICE ruses add to fears in Minnesota](https://www.mprnews.org/story/2026/02/08/hard-hats-and-dummy-plates-reports-of-ice-ruses-add-to-fears-in-minnesota)
 7. Fortune / AP (Feb 8, 2026): [Minnesotans say immigration agents are impersonating construction workers, delivery drivers and anti-ICE activists](https://fortune.com/2026/02/08/minnesota-immigration-agents-disguises-construction-workers-delivery-drivers-anti-ice-activists/)
 8. Instagram (2026): [Business owner confronts two ICE agents disguised as construction workers in vehicle](https://www.instagram.com/reels/DUUKVj4gSjo/)
+9. The Intercept (Aug 11, 2025): [ICE Agent Caught on Camera Disguised as a Construction Worker](https://theintercept.com/2025/08/11/ice-agent-caught-on-camera-disguised-as-a-construction-worker/)
 
 ## Disguises and Impersonation
 
