@@ -16,10 +16,11 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (235 incidents)
+## CURRENT (236 incidents)
 
 Published incidents visible on the main site.
 
+- incidents/2026-02/08/2026-02-08-ice-deceptive-tactics.md | 2026-02-08 | Minneapolis | background | Reports of ICE Agents Using Disguises, Fake License Plates, and Ruse Tactics Across Minnesota
 - incidents/2026-02/07/2026-02-07-dhs-response-whipple-conditions-false.md | 2026-02-07 | Minneapolis | response | DHS Statement: Claims of "Subprime Conditions" at Whipple Are "FALSE"
 - incidents/2026-02/06/2026-02-06-brasel-right-to-counsel-whipple.md | 2026-02-06 | Minneapolis | background | Minnesota Courts Buckle as Immigration Litigation Overwhelms Federal System; Top ICE Lawyer Departs
 - incidents/2026-02/06/2026-02-06-dhs-response-agitators-shielded.md | 2026-02-06 | Minneapolis | response | DHS Response: "Agitators" Shield Child Rapists, Sex Offenders, and Gang Members From Arrest
@@ -451,10 +452,11 @@ Published with significant factual errors that have been corrected. Visible at /
 
 ---
 
-## NO-NEWS-MEDIA (3 incidents)
+## NO-NEWS-MEDIA (4 incidents)
 
 Incidents without news media verification. Visible only at /no-news-media.
 
+- incidents/2026-02/06/2026-02-06-columbia-heights-officer-threatens-observer.md | 2026-02-06 | Columbia Heights | observers | ICE Officer Threatens to "Put Hands On" Person for Following (NO NEWS MEDIA)
 - incidents/2026-02/03/2026-02-03-fraser-school-cleaner-detained.md | 2026-02-03 | Richfield | schools-hospitals | Contract Cleaner Detained by Armed Agents in Fraser School Parking Lot (NO NEWS MEDIA)
 - incidents/2026-01/22/2026-01-22-sullivan-elementary-ice-food-flyers.md | 2026-01-22 | Minneapolis | schools-hospitals | School Warns ICE Distributing Food Support Flyers (NO NEWS MEDIA)
 - incidents/2026-01/17/2026-01-17-nadya-moldovan-refugee.md | 2026-01-17 | Unknown | immigrants | Moldovan Refugee Nadya Detained While Driving to Church with Family (NO NEWS MEDIA)

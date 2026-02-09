@@ -1,6 +1,37 @@
 {
   "incidents": [
     {
+      "filePath": "incidents/2026-02/06/2026-02-06-columbia-heights-officer-threatens-observer.md",
+      "title": "ICE Officer Threatens to \"Put Hands On\" Person for Following (NO NEWS MEDIA)",
+      "summary": "An ICE officer in Columbia Heights threatened a person who was following and recording the officer's activities, telling them he would \"put hands on\" them if they continued following. The officer also challenged the person to \"test me.\" Following and recording law enforcement in public is protected by the First Amendment. Estimated date; exact date unconfirmed.",
+      "latestUpdate": null,
+      "date": "2026-02-06",
+      "time": "unknown",
+      "location": "Columbia Heights",
+      "city": "Columbia Heights",
+      "type": "observers",
+      "status": "resolved",
+      "affectedIndividualCitizenship": "unknown",
+      "injuries": "none",
+      "trustworthiness": "no-news-media",
+      "created": "2026-02-09T12:00:21",
+      "lastUpdated": "2026-02-09T12:00:21",
+      "mediaCount": 0,
+      "notable": false,
+      "hasLocalMedia": true,
+      "localMediaType": "video",
+      "localMediaPath": "media/2026-02/06/2026-02-06-columbia-heights-officer-threatens-observer.mp4",
+      "localMediaOgPath": "media/2026-02/06/2026-02-06-columbia-heights-officer-threatens-observer-og-2s-1770660230.jpg",
+      "localMediaFiles": [
+        {
+          "type": "video",
+          "path": "media/2026-02/06/2026-02-06-columbia-heights-officer-threatens-observer.mp4"
+        }
+      ],
+      "aspectRatio": 1.0722222222222222,
+      "mediaVersion": 1770660230
+    },
+    {
       "filePath": "incidents/2026-02/06/2026-02-06-georgetown-park-pepper-spray.md",
       "title": "Federal Agents Pepper Spray Relatives During Arrest at Georgetown Park Apartments",
       "summary": "Video shared to People Over Papers on February 6 shows federal agents arresting a person outside Georgetown Park Apartments in Bloomington. After the arrest, an agent pepper sprayed two people who were reportedly relatives of the detained individual. In the video, the two individuals appear to be at a legal distance from the agents and are backing away when an officer deploys pepper spray. No names have been publicly identified.",
