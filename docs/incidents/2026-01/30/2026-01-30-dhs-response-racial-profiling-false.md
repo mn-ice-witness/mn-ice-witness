@@ -62,7 +62,6 @@ Citizens detained who contradict this statement:
 - [Irma Escoto Citizenship Check](2026-01-12-irma-escoto-citizen-check.md)
 - [Nimco Omar Citizenship Check](2026-01-12-nimco-omar-citizen-check.md)
 - [Target Richfield Employees](2026-01-08-target-richfield-employees.md)
-- [Little Earth Native Americans](2026-01-08-little-earth-native-americans.md)
 
 ## Editorial Assessment
 

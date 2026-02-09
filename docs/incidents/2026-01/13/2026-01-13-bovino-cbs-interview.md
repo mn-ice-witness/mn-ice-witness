@@ -59,8 +59,6 @@ U.S. Border Patrol Commander Gregory Bovino sat down with WCCO's Esme Murphy for
 | **Abdikadir Noor** | Dec 16, 2025 | Citizen detained at Karmel Mall; agent made racist statements |
 | **Adnan Hisri** | Dec 14, 2025 | Rep. Omar's son stopped leaving Target; released after showing passport |
 | **Mahamed Eydarus** | Dec 10, 2025 | Citizen detained; repeatedly told agents he was citizen |
-| **Four Oglala Sioux members** | Jan 10, 2026 | U.S. citizens detained from homeless encampment; tribal president called it "treaty violation" |
-
 ### Claim: De-escalation efforts underway
 > "Every day we de-escalate."
 

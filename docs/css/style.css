@@ -1373,6 +1373,39 @@ body {
     font-weight: 600;
 }
 
+.lightbox-body table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 12px 0 16px;
+    font-size: 0.85rem;
+    line-height: 1.4;
+}
+
+.lightbox-body thead th {
+    text-align: left;
+    font-weight: 600;
+    padding: 8px 10px;
+    border-bottom: 2px solid var(--color-border-dark);
+    color: var(--color-text-secondary);
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+}
+
+.lightbox-body tbody td {
+    padding: 6px 10px;
+    border-bottom: 1px solid var(--color-border);
+    vertical-align: top;
+}
+
+.lightbox-body tbody tr:last-child td {
+    border-bottom: none;
+}
+
+.lightbox-body table a {
+    color: #5a7a9e;
+}
+
 .lightbox-header {
     display: flex;
     justify-content: flex-start;

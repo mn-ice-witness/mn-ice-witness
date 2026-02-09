@@ -23,7 +23,7 @@ After four Oglala Sioux Tribe members (U.S. citizens) were detained near Little 
 3. ICT News (Jan 13, 2026): [Four Oglala detainees located, three still in ICE custody](https://ictnews.org/news/north-central-bureau/four-oglala-detainees-located-three-still-in-ice-custody/)
 
 ## Related Incident
-See full incident details: [Four Homeless Oglala Sioux Citizens Detained Near Little Earth](#2026-01-08-little-earth-native-americans)
+See: [Four Homeless Oglala Sioux Citizens Detained Near Little Earth](/corrections) (removed — tribe could not confirm membership claims)
 
 ## Official Response (or Lack Thereof)
 
