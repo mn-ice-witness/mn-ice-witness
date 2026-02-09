@@ -12,7 +12,7 @@ created: 2026-01-21T17:37:01
 last_updated: 2026-02-08T21:53:22
 ---
 
-# Border Patrol Commander Greg Bovino Deploys Smoke Canister Near School at Dismissal (CORRECTED)
+# Border Patrol Commander Greg Bovino Deploys Smoke Canister Near School at Dismissal
 
 ***This incident has been corrected. The canister was originally identified as hexachloroethane (HC), a chemical weapon. Expert analysis has since determined it was a colored smoke grenade. See Correction Note below.***
 

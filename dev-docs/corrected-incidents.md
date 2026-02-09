@@ -34,10 +34,12 @@ Update `last_updated` with a fresh timestamp:
 
 ### 2. Add Correction Note After Title
 
-Add `(CORRECTED)` to the title and insert a correction disclaimer and note:
+**Do NOT add "(CORRECTED)" to the title.** The title stays clean — the Correction Note at the top and the incident's appearance on the `/corrections` page are sufficient to signal the correction. This is consistent with how Updates work: we don't add "(UPDATED)" to titles either.
+
+Insert a correction disclaimer and a `## Correction Note` section after the title:
 
 ```markdown
-# Original Title Here (CORRECTED)
+# Original Title Here
 
 ***This incident has been corrected. [Brief description of what was wrong]. See Correction Note below.***
 

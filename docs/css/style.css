@@ -2187,6 +2187,18 @@ body {
     margin-bottom: 0.3em;
 }
 
+.about-transparency-links {
+    list-style: none;
+    padding: 0;
+    margin: 1em 0 1.5em 0;
+    font-size: 0.95em;
+    color: #444;
+}
+
+.about-transparency-links li {
+    margin-bottom: 0.4em;
+}
+
 /* About page "Follow Us:" label */
 .about-follow-label {
     color: #666;
