@@ -31,6 +31,9 @@ Alberto Castañeda Mondragón, a Mexican national who entered the U.S. on a temp
 6. ABC7 Los Angeles (Jan 31, 2026): [ICE claim that a man shattered his skull running into wall triggers tension at a Minnesota hospital](https://abc7.com/post/ice-minneapolis-news-agents-claim-alberto-castaeda-mondragn-hit-wall-shattered-skull-triggers-tension-hospital/18514566/)
 7. AP/ABC News (Feb 6, 2026): [Immigrant whose skull was broken in eight places during ICE arrest says beating was unprovoked](https://abcnews.go.com/US/wireStory/immigrant-skull-broken-places-ice-arrest-beating-unprovoked-129942949)
 8. Pioneer Press (Feb 6, 2026): [Immigrant whose skull was broken in 8 places during ICE arrest in St. Paul says beating was unprovoked](https://www.twincities.com/2026/02/06/immigrant-whose-skull-was-broken-in-eight-places-during-ice-arrest-says-beating-was-unprovoked/)
+9. NPR (Feb 7, 2026): [Immigrant whose skull was broken in 8 places during ICE arrest says beating was unprovoked](https://www.npr.org/2026/02/07/g-s1-109219/immigrant-ice-arrest-beating)
+10. AP News (Feb 7, 2026): [Takeaways from AP report on immigrant who says ICE officers beat him during Minnesota arrest](https://apnews.com/article/immigration-enforcement-minneapolis-hospital-ice-beating-assault-529f0a080d5de5c35382c540d1c2124e)
+11. Common Dreams (Feb 7, 2026): ['There Was Never a Wall': Man beaten nearly to death by ICE refutes self-harm claim](https://www.commondreams.org/news/alberto-castaneda-mondragon)
 
 ## Affected Individual(s)
 - **Name:** Alberto Castañeda Mondragón (referred to as "Alberto C.M." in court documents)
