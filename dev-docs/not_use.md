@@ -1083,6 +1083,13 @@ Stories are excluded when they don't meet the project's core focus:
 - Reason: **Does not fit project categories.** Agent's personal political statement, not an enforcement incident or government response.
 - Date evaluated: 2026-02-07
 
+**Thomas Edwin Edwards Gun Confrontation West St. Paul (Dec 22)**
+- Sources: [CBS Minnesota](https://www.cbsnews.com/minnesota/news/west-st-paul-pointing-gun-ice-agent-charges/), [Star Tribune](https://www.startribune.com/police-man-arrested-accused-of-trailing-federal-agents-and-brandishing-gun-in-west-st-paul/601551509/), [FOX 9](https://www.fox9.com/news/west-st-paul-police-arrest-man-gun-ice-agents-dec-26), [KSTP](https://kstp.com/kstp-news/top-news/charges-man-followed-ice-agents-pulled-gun-on-them-says-they-pointed-gun-at-him/), [Bring Me The News](https://bringmethenews.com/minnesota-news/charges-ice-agents-accuse-west-st-paul-man-of-following-them-pulling-gun)
+- Date: December 22, 2025
+- Details: Thomas Edwin Edwards, 63, had confrontations with ICE agents at Home Depot and Charlton Street in West St. Paul. Agents say he followed them and pulled a gun. Edwards says agents pointed weapons at him first and he responded in self-defense. Charged with obstructing legal process (gross misdemeanor) and four misdemeanor assault counts.
+- Reason: **Unclear who escalated; civilian was criminally charged.** Both sides claim the other brandished weapons first. Edwards was charged with assault and obstruction, making this a criminal case rather than a clear civil rights incident. No evidence agents initiated the gun confrontation.
+- Date evaluated: 2026-02-08
+
 ### December 2025
 
 **Loc Vinh Truong Rochester (Dec 13, 2025)**

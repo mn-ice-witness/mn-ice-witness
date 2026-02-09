@@ -16,7 +16,7 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (234 incidents)
+## CURRENT (235 incidents)
 
 Published incidents visible on the main site.
 
@@ -72,6 +72,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/23/2026-01-23-bovino-experts-dealing-children.md | 2026-01-23 | Minneapolis | response | Bovino: "We Are Experts in Dealing With Children"
 - incidents/2026-01/23/2026-01-23-oak-terraces-obstruction-arrest.md | 2026-01-23 | Rochester | observers | Woman Arrested at Oak Terraces After Challenging ICE Presence on Private Property
 - incidents/2026-01/23/2026-01-23-tique-marin-church-volunteer-burnsville.md | 2026-01-23 | Minneapolis | immigrants | Church Food Distribution Volunteer Detained at Routine Immigration Check-In
+- incidents/2026-01/23/2026-01-23-mirkkovitch-plymouth-gun-brandished.md | 2026-01-23 | Plymouth | observers | Plainclothes Federal Agent Brandishes Gun at Resident Recording ICE Vehicles at Plymouth Hotel
 - incidents/2026-01/23/2026-01-23-50k-march.md | 2026-01-23 | Minneapolis | background | 50,000 March in Subzero Temperatures in Largest Minnesota Protest
 - incidents/2026-01/22/2026-01-22-little-canada-elementary-secure-protocol.md | 2026-01-22 | Little Canada | schools-hospitals | Little Canada Elementary Goes to Secure Protocol Due to ICE in Parking Lot
 - incidents/2026-01/22/2026-01-22-tipan-toddler-father-detained.md | 2026-01-22 | Minneapolis | immigrants | 2-Year-Old and Father Detained Near Powderhorn; Flown to Texas Despite Court Order
@@ -257,7 +258,7 @@ Published incidents visible on the main site.
 
 ---
 
-## NO-ADD (158 entries)
+## NO-ADD (159 entries)
 
 Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 
@@ -413,6 +414,7 @@ Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 - dev-docs/not_use.md | Feb 4 | Pentagon Cancels 11th Airborne Deployment to Minnesota
 - dev-docs/not_use.md | Feb 6 | ND Judge Traynor Denies Emergency Petitions
 - dev-docs/not_use.md | Feb 4 | Coon Rapids Federal Agent Political Statement
+- dev-docs/not_use.md | Dec 22 | Thomas Edwin Edwards Gun Confrontation West St. Paul
 - dev-docs/not_use.md | Dec 13, 2025 | Loc Vinh Truong Rochester
 - dev-docs/not_use.md | Dec 13-14, 2025 | Willmar December 13-14 HSI Arrests
 - dev-docs/not_use.md | Dec 10-11, 2025 | Rekeya Frazier / Oluwadamilola Bamigboye Plymouth
