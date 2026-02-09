@@ -2220,9 +2220,9 @@ body {
     margin-bottom: 0.3em;
 }
 
-.about-transparency-links {
+.about-content .about-transparency-links {
     list-style: none;
-    padding: 0;
+    padding-left: 0;
     margin: 1em 0 1.5em 0;
     font-size: 0.95em;
     color: #444;
@@ -2230,6 +2230,10 @@ body {
 
 .about-transparency-links li {
     margin-bottom: 0.4em;
+}
+
+.about-transparency-links a {
+    font-weight: 700;
 }
 
 /* About page "Follow Us:" label */
