@@ -16,7 +16,7 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (229 incidents)
+## CURRENT (230 incidents)
 
 Published incidents visible on the main site.
 
@@ -164,6 +164,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/11/2026-01-11-speedway-st-paul.md | 2026-01-11 | St. Paul | observers | Agents Smash Car Window, Pin Man Until Unconscious at Speedway; Bystander Filming Tackled and Detained
 - incidents/2026-01/11/2026-01-11-observer-phone-snatched.md | 2026-01-11 | Minneapolis | observers | "Have You All Not Learned Over the Last Couple of Days": Agent Snatches Phone from Observer
 - incidents/2026-01/11/2026-01-11-hani-duglof-medical.md | 2026-01-11 | Woodbury | immigrants | Libyan Man Seeking Medical Treatment Detained, Shackled Despite Skin Condition
+- incidents/2026-01/11/2026-01-11-forward-madison-player-mother-detained.md | 2026-01-11 | Minneapolis | immigrants | Soccer Academy Player's Mother Detained at Minneapolis Hotel During Tournament
 - incidents/2026-01/11/2026-01-11-pelican-rapids-residential-arrest.md | 2026-01-11 | Pelican Rapids | immigrants | ICE Conducts Door-to-Door Operations in Pelican Rapids
 - incidents/2026-01/11/2026-01-11-siguenza-okeefe-detained.md | 2026-01-11 | Minneapolis | observers | Two ICE Observers Detained 8 Hours, Pressured to Name Organizers
 - incidents/2026-01/11/2026-01-11-rogelio-jimenez-brooklyn-park.md | 2026-01-11 | Brooklyn Park | citizens | U.S. Citizen Detained by ICE in Brooklyn Park, Told to "Prove" Citizenship
