@@ -2193,6 +2193,17 @@ body {
     font-weight: bold;
 }
 
+.about-intro-links {
+    font-size: 0.9em;
+    color: #444;
+    margin: 0.5em 0 0.8em 1.5em;
+    padding: 0;
+}
+
+.about-intro-links li {
+    margin-bottom: 0.3em;
+}
+
 /* About page "Follow Us:" label */
 .about-follow-label {
     color: #666;

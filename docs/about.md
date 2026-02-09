@@ -1,6 +1,14 @@
 # About This Site
 
-<p class="about-intro">A free, fact-based documentation of ICE enforcement and its impact on Minnesota communities, maintained by community volunteers. If you find this site useful, please help share. To report an incident (must be sourced by a reputable media outlet), submit a correction, or share additional media for a listed incident, contact us at <a href="mailto:mnicewitness@gmail.com">mnicewitness@gmail.com</a> — please include compelling social media links as it's often hard to track those down. Help us find news coverage for <a href="/no-news-media">incidents documented only by social media</a>. View <a href="/removed">removed incidents</a> for entries that were listed but later removed based on new information. View <a href="/corrections">corrections</a> for entries with significant factual errors that have been corrected. <span class="about-last-updated">Last updated: February 8, 2026</span></p>
+<p class="about-intro">A free, fact-based documentation of ICE enforcement and its impact on Minnesota communities, maintained by community volunteers. If you find this site useful, please help share. To report an incident (must be sourced by a reputable media outlet), submit a correction, or share additional media for a listed incident, contact us at <a href="mailto:mnicewitness@gmail.com">mnicewitness@gmail.com</a> — please include compelling social media links as it's often hard to track those down.</p>
+
+<ul class="about-intro-links">
+<li><a href="/no-news-media">No News Media</a> — Help us find news coverage for incidents documented only by social media</li>
+<li><a href="/removed">Removed Incidents</a> — Entries that were listed but later removed based on new information</li>
+<li><a href="/corrections">Corrections</a> — Entries with significant factual errors that have been corrected</li>
+</ul>
+
+<p class="about-intro"><span class="about-last-updated">Last updated: February 8, 2026</span></p>
 
 <p class="about-social"><span class="about-follow-label">Follow Us:</span>
 <a href="https://www.facebook.com/profile.php?id=61586835122502" target="_blank" title="Follow on Facebook"><svg width="17" height="17"><use href="#icon-facebook"/></svg></a>
