@@ -8,17 +8,17 @@
 <li><a href="/corrections">Corrections</a> — Entries with significant factual errors that have been corrected</li>
 </ul>
 
-<p class="about-intro"><span class="about-last-updated">Last updated: February 8, 2026</span></p>
+<p class="about-intro"><span class="about-last-updated">Last updated: February 9, 2026</span></p>
 
 <p class="about-social"><span class="about-follow-label">Follow Us:</span>
-<a href="https://www.facebook.com/profile.php?id=61586835122502" target="_blank" title="Follow on Facebook"><svg width="17" height="17"><use href="#icon-facebook"/></svg></a>
+<a href="https://www.facebook.com/profile.php?id=61586835122502" target="_blank" title="Follow on Facebook"><svg width="22" height="22"><use href="#icon-facebook"/></svg></a>
 <!-- Temporarily disabled - accounts under appeal
 <a href="https://x.com/mn_ice_witness" target="_blank" title="Follow on X (@mn_ice_witness)"><svg width="15" height="15"><use href="#icon-x"/></svg></a>
 <a href="https://instagram.com/mn_ice_witness" target="_blank" title="Follow on Instagram (@mn_ice_witness)"><svg width="17" height="17"><use href="#icon-instagram"/></svg></a>
 <a href="https://threads.net/@mn_ice_witness" target="_blank" title="Follow on Threads (@mn_ice_witness)"><svg width="17" height="17"><use href="#icon-threads"/></svg></a>
 -->
-<a href="https://www.threads.net/@mnicewitness" target="_blank" title="Follow on Threads (@mnicewitness)"><svg width="17" height="17"><use href="#icon-threads"/></svg></a>
-<a href="https://bsky.app/profile/mnicewitness.bsky.social" target="_blank" title="Follow on Bluesky (@mnicewitness.bsky.social)"><svg width="17" height="17"><use href="#icon-bluesky"/></svg></a>
+<a href="https://www.threads.net/@mnicewitness" target="_blank" title="Follow on Threads (@mnicewitness)"><svg width="22" height="22"><use href="#icon-threads"/></svg></a>
+<a href="https://bsky.app/profile/mnicewitness.bsky.social" target="_blank" title="Follow on Bluesky (@mnicewitness.bsky.social)"><svg width="22" height="22"><use href="#icon-bluesky"/></svg></a>
 </p>
 
 <h2 id="background">Background <a href="#background" class="header-link" title="Copy link"><svg width="16" height="16"><use href="#icon-link"/></svg></a></h2>
