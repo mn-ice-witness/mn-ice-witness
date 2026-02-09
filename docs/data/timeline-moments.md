@@ -184,6 +184,14 @@ source:
 In a widely publicized story, four ICE agents eat lunch at El Tapatio, a family-owned Mexican restaurant in Willmar. That evening, they follow the workers after closing and detain the owners — who have lived in the United States since 1989 — and their dishwasher near a Lutheran church. But the pattern it exposed was already widespread: across Minnesota, agents were arresting cooks, dishwashers, meatpackers, and farm workers — people with no criminal records who had built lives, raised families, and kept local economies running for decades. They were pulled from restaurants, food plants, and farms from Brainerd to Pelican Rapids, leaving businesses short-staffed and communities hollowed out. For a list of all immigrant detention incidents, see [list/immigrants](/list/immigrants).
 
 ---
+date: 2026-01-15
+title: ACLU Files Racial Profiling Class Action
+incident: 2026-01-15-hussen-v-noem-racial-profiling-lawsuit
+source:
+---
+The ACLU files [Hussen v. Noem](/entry/2026-01-15-hussen-v-noem-racial-profiling-lawsuit), a class action on behalf of three U.S. citizens and a proposed class of people racially profiled during Operation Metro Surge. With more than 40 sworn declarations and amicus briefs from ten bar associations and the City of Minneapolis, the case produces the most comprehensive evidentiary record of the operation's impact on Somali and Latino communities.
+
+---
 date: 2026-01-16
 title: "An Economic Crisis of Catastrophic Proportions"
 incident: 2026-01-16-business-disruption-economic-crisis
