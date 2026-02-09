@@ -10,9 +10,10 @@ Remove an incident when:
 - The affected individual's status/citizenship cannot be verified as originally claimed
 - The incident no longer fits the project's documentation criteria based on new facts
 
-**Key distinction from "no-news-media":**
+**Key distinctions between removed, corrected, and no-news-media:**
 - **No-news-media** = We never had news coverage to confirm the story
-- **Removed** = We DID list the story based on initial reporting, but later information invalidated the core claims
+- **Removed** = The incident itself is invalid — core claims were disproven, the incident didn't happen as reported, or it doesn't belong on this site. Hidden from main listing, shown only at `/removed`
+- **Corrected** = The incident is real and stays on the main listing, but significant factual claims within the entry were wrong and have been corrected. Shown on main page AND at `/corrections` for transparency
 
 ## How to Remove an Incident
 

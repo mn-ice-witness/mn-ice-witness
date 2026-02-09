@@ -16,7 +16,7 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (226 incidents)
+## CURRENT (227 incidents)
 
 Published incidents visible on the main site.
 
@@ -80,6 +80,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/22/2026-01-22-cunningham-public-health-declaration.md | 2026-01-22 | St. Paul | schools-hospitals | Minnesota Health Commissioner: Operation Metro Surge Causing Measurable Public Health Damage Statewide
 - incidents/2026-01/22/2026-01-22-south-mpls-teenagers-detained.md | 2026-01-22 | Minneapolis | citizens | CBP Detains Two Teenagers (One Confirmed U.S. Citizen) After Rear-Ending Their Vehicle, Deploys Tear Gas on Bystanders
 - incidents/2026-01/22/2026-01-22-velasco-family-hopkins.md | 2026-01-22 | Hopkins | immigrants | Hopkins Family of Four Detained; Returned After ICE Violates Court Order
+- incidents/2026-01/21/2026-01-21-bovino-smoke-canister-playground.md | 2026-01-21 | Minneapolis | schools-hospitals | Border Patrol Commander Greg Bovino Deploys Smoke Canister Near School at Dismissal (CORRECTED)
 - incidents/2026-01/21/2026-01-21-observer-pinned-pepper-sprayed-face.md | 2026-01-21 | Minneapolis | observers | Observer Pinned to Ground, Chemical Irritant Sprayed Directly Into Face
 - incidents/2026-01/21/2026-01-21-dhs-response-5-year-old-bait.md | 2026-01-21 | Columbia Heights | response | DHS Response: "Child Was ABANDONED," Father "Fled on Foot"
 - incidents/2026-01/21/2026-01-21-dhs-response-crowd-control.md | 2026-01-21 | Minneapolis | response | DHS Response: Agents "Harassed" at Gas Stations, Used "Crowd Control Measures"

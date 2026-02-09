@@ -508,6 +508,7 @@ def generate_search_index(incidents, data_dir, project_root):
             removed.append(incident)
         elif trust == "corrected":
             corrected.append(incident)
+            current.append(incident)
         else:
             current.append(incident)
 

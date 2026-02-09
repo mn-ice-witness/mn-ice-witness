@@ -253,7 +253,8 @@ Read `adding-incidents.md` first. Check `not_use.md` for rejected stories.
 | **Searching for new incidents** | `daily-search-procedure.md`, `research-sources.md`, `not_use.md` |
 | **Assessing source credibility** | `source-tiers.md`, `adding-incidents.md` |
 | **Handling no-news-media incidents** | `no-news-media-incidents.md` |
-| **Removing incidents (corrections)** | `removed-incidents.md` |
+| **Removing incidents (retracted)** | `removed-incidents.md` |
+| **Correcting incidents (factual errors)** | `corrected-incidents.md` |
 | **Status/citizenship values** | `status-categories.md` |
 | **Modifying JavaScript** | `architecture.md` (JS module reference) |
 | **Modifying CSS** | `architecture.md` (CSS structure section) |
