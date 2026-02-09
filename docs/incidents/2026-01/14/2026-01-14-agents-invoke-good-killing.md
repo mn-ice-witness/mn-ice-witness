@@ -20,7 +20,7 @@ Between January 9 and January 12, 2026 — beginning 48 hours after ICE agent Jo
 ## Sources
 1. The Intercept (Jan 14, 2026): [Federal Agents Keep Invoking Killing of Renee Good to Threaten Protesters in Minnesota](https://theintercept.com/2026/01/14/ice-minneapolis-protests-renee-good/)
 2. Star Tribune (Jan 15, 2026): [Have y'all not learned? Agents accused of getting more aggressive as ICE pushback grows](https://www.startribune.com/have-yall-not-learned-federal-agents-target-legal-observers-in-the-aftermath-of-good-shooting/601562804)
-3. FOX 9 (Jan 15, 2026): [ICE agents caught on video asking if people have 'learned their lesson'](https://www.fox9.com/video/fmc-6wm2af9jx0lcu2hj)
+3. FOX 9 / YouTube (Jan 15, 2026): [ICE agents caught on video asking if people have 'learned their lesson'](https://www.youtube.com/watch?v=YpLT2RQc0lA)
 4. Raw Story (Jan 12, 2026): ['Did you not just learn?' ICE agents threaten MN churchgoer with Renee Good lesson](https://www.rawstory.com/renee-good-2674874951/)
 
 ## Documented Incidents
