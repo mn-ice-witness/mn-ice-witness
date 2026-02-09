@@ -16,7 +16,7 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (237 incidents)
+## CURRENT (238 incidents)
 
 Published incidents visible on the main site.
 
@@ -118,6 +118,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/15/2026-01-15-vine-faith-mankato-workers.md | 2026-01-15 | Mankato | immigrants | Two Subcontractors Detained at VINE Faith in Action Senior Center
 - incidents/2026-01/15/2026-01-15-cottage-grove-food-shelf-volunteer.md | 2026-01-15 | Cottage Grove | immigrants | Food Shelf Volunteer Detained at Basic Needs in Cottage Grove
 - incidents/2026-01/15/2026-01-15-hiawatha-student-bus-stop.md | 2026-01-15 | Minneapolis | schools-hospitals | Hiawatha Academies Student Detained at Bus Stop
+- incidents/2026-01/15/2026-01-15-hussen-v-noem-racial-profiling-lawsuit.md | 2026-01-15 | Minneapolis | background | ACLU Files Class Action Challenging Racial Profiling During Operation Metro Surge
 - incidents/2026-01/15/2026-01-15-ramon-menera-accent-detained.md | 2026-01-15 | Minneapolis | citizens | U.S. Citizen Detained Because of "Accent"
 - incidents/2026-01/15/2026-01-15-st-paul-school-vans-pulled-over.md | 2026-01-15 | St. Paul | schools-hospitals | Two St. Paul School Vans Pulled Over by ICE With Students and Teachers Aboard
 - incidents/2026-01/14/2026-01-14-shawn-jackson-children-tear-gas.md | 2026-01-14 | Minneapolis | observers | Six Children Hospitalized After ICE Deploys Flashbangs and Tear Gas on Family SUV

@@ -9,13 +9,13 @@ affected_individual_citizenship: us-citizen
 injuries: none
 trustworthiness: high
 created: 2026-02-08T14:47:35
-last_updated: 2026-02-08T14:47:35
+last_updated: 2026-02-09T14:54:03
 ---
 
 # ACLU Sues to Protect Observers: The Only Injunction Issued Against Operation Metro Surge
 
 ## Summary
-On December 17, 2025, the ACLU of Minnesota and three pro bono law firms filed Tincher v. Noem — a 63-page federal lawsuit on behalf of six Minnesota residents whose constitutional rights were violated while they peacefully observed ICE operations. The case produced the only preliminary injunction successfully issued against any aspect of Operation Metro Surge: on January 16, 2026, U.S. District Judge Katherine Menendez barred federal agents from retaliating against peaceful observers, using pepper spray on protesters, or stopping vehicles for safely following agents — ruling that observation of law enforcement is constitutionally protected activity. The Department of Justice appealed, and on January 26 the Eighth Circuit Court of Appeals stayed the injunction after just 10 days, finding the class-wide protection was "just a universal injunction by another name." During those 10 days, agents violated the order — a Star Tribune photographer captured an agent spraying chemical irritant directly into a pinned observer's face on January 21. The case remains active in both courts. Regardless of the appellate outcome, the litigation produced an extraordinary evidentiary record: more than 30 sworn declarations filed under penalty of perjury documenting federal agent conduct against observers across dozens of incidents spanning December 2025 through January 2026.
+On December 17, 2025, the ACLU of Minnesota filed Tincher v. Noem on behalf of six residents whose rights were violated while observing ICE operations. On January 16, Judge Katherine Menendez issued the only preliminary injunction against any aspect of Operation Metro Surge, barring agents from retaliating against observers, using pepper spray on protesters, or stopping vehicles for safely following agents. The Eighth Circuit stayed the injunction on January 26 after just 10 days. The case produced more than 30 sworn declarations documenting agent conduct against observers.
 
 ## Sources
 1. Minnesota Reformer (Dec 17, 2025): [ACLU sues ICE, alleging agency violates constitutional rights of observers and protesters](https://minnesotareformer.com/2025/12/17/aclu-sues-ice-alleging-agency-violates-constitutional-rights-of-observers-and-protesters/)
@@ -37,126 +37,108 @@ On December 17, 2025, the ACLU of Minnesota and three pro bono law firms filed T
 ## Case Information
 - **Case:** Tincher v. Noem, Case No. 0:25-cv-04669-KMM-DTS
 - **Court:** U.S. District Court for the District of Minnesota
-- **Judge:** Katherine M. Menendez (District Judge); David T. Schultz (Magistrate)
+- **Judge:** Katherine M. Menendez; Magistrate David T. Schultz
 - **Filed:** December 17, 2025
-- **Plaintiffs' counsel:** ACLU of Minnesota (Alicia Granse, staff attorney; Deepinder Mayell, executive director), Ciresi Conlin LLP, Forsgren Fisher McCalmont DeMarea & Nielsen, Riach Law (Kyle Wislocky argued preliminary injunction)
+- **Plaintiffs' counsel:** ACLU of Minnesota (Alicia Granse, Deepinder Mayell), Ciresi Conlin LLP, Forsgren Fisher McCalmont DeMarea & Nielsen, Riach Law (Kyle Wislocky)
 - **Defendants:** DHS Secretary Kristi Noem, Acting ICE Director Todd Lyons, Acting ERO Executive Associate Director Marcos Charles, CBP Commissioner Rodney Scott, Border Patrol Commander Gregory Bovino, Acting St. Paul Field Office Director David Easterwood
-- **Appeal:** Case No. 26-1105, Eighth Circuit Court of Appeals (filed Jan 19, 2026)
+- **Appeal:** Case No. 26-1105, Eighth Circuit (filed Jan 19, 2026)
 - **Status:** Active in both courts. Preliminary injunction stayed by Eighth Circuit.
 
 ## The Six Named Plaintiffs
 
-All six were U.S. citizens engaged in lawful observation of federal agents when their rights were violated.
+All six were U.S. citizens engaged in lawful observation when their rights were violated.
 
 ### Susan Tincher (Lead Plaintiff)
-55-year-old Minneapolis resident, Northside Rotary president. On December 9, she stood on a public sidewalk and asked "Are you ICE?" Within 15 seconds, agents knocked her to the ground, handcuffed her, and detained her for five hours at the Whipple Building. Her wedding ring of 32 years was cut off. Never charged.
+55-year-old Minneapolis Rotary president. On December 9, agents knocked her to the ground, handcuffed her, and detained her for five hours after she asked "Are you ICE?" on a public sidewalk. Her wedding ring was cut off.
 See: [U.S. Citizen Observer Detained 5 Hours, Wedding Ring Cut Off](/entry/2025-12-09-sue-tincher-detained)
 
 ### John Biestman and Janet Lee
-Married couple in their late 60s from Linden Hills — he a retired banker, she a 39-year speech-language pathologist. On December 7, after following an ICE vehicle from a church raid, four unmarked cars boxed them in. Masked agents pointed semiautomatic weapons in their faces. "We have your license plate, we now know where to find you."
+Married couple, late 60s. On December 7, after following an ICE vehicle from a church raid, four unmarked cars boxed them in and masked agents pointed semiautomatic weapons in their faces.
 See: [Elderly Couple Has Guns Pointed at Them After Following ICE Vehicle](/entry/2025-12-07-biestman-lee-guns-pointed)
 
 ### Lucia Webb
-31-year-old Powderhorn resident and nonprofit operations director. On December 3, her second day as an observer, she was boxed in by four ICE vehicles and surrounded by masked, armed agents. They threatened her with arrest and told her she should "go to the gym."
+31-year-old observer. On December 3, boxed in by four ICE vehicles, surrounded by masked agents, and threatened with arrest.
 See: [ICE Observer Boxed In by Four Vehicles, Threatened with Arrest](/entry/2025-12-03-lucia-webb-boxed-in)
 
 ### Alan Crenshaw
-35-year-old University of Minnesota urban studies student. On December 9, while standing in a crosswalk in Cedar-Riverside, an ICE car drove past and an agent leaned out the window to pepper spray him directly in the face.
+35-year-old U of M student. On December 9, an agent leaned out of a passing ICE vehicle in Cedar-Riverside and pepper sprayed him directly in the face.
 See: [ICE Agents Pepper Spray Observers and Protesters at Cedar-Riverside](/entry/2025-12-09-cedar-riverside-pepper-spray)
 
 ### Abdikadir Abdi Noor
-43-year-old Fridley resident, U.S. citizen for approximately 20 years. On December 15, while trying to calm a crowd near Karmel Mall, agents tackled and arrested him. At the Whipple Building, an agent told him "Somalis should go back home." He was later arrested again and federally charged.
+43-year-old Fridley resident, U.S. citizen for ~20 years. On December 15, tackled and arrested near Karmel Mall while calming a crowd. An agent told him "Somalis should go back home." Later arrested again and federally charged.
 See: [20-Year U.S. Citizen Arrested Near Karmel Mall, Subjected to Racist Statements](/entry/2025-12-16-abdikadir-noor-karmel-mall)
 
 ## Legal Claims
-1. **First Amendment** — Free speech, press, and assembly rights suppressed through violence and intimidation against observers
-2. **First Amendment retaliation** — Agents targeted people specifically because they were observing, recording, or protesting
-3. **Fourth Amendment unlawful seizure** — Arrests and detentions without probable cause
-4. **Fourth Amendment excessive force** — Pepper spray, pointed firearms, and physical violence against people posing no threat
-5. **Civil conspiracy** — Federal agents conspired to violate observers' constitutional rights
+1. **First Amendment** — Suppression of speech, press, and assembly through violence and intimidation against observers
+2. **First Amendment retaliation** — Targeting people for observing, recording, or protesting
+3. **Fourth Amendment unlawful seizure** — Arrests without probable cause
+4. **Fourth Amendment excessive force** — Pepper spray, pointed firearms, and violence against non-threatening people
+5. **Civil conspiracy** — Coordinated violation of observers' constitutional rights
 
 ## Timeline of the Litigation
 
 ### December 17, 2025 — Complaint Filed
-The ACLU filed the 63-page complaint with a motion for a Temporary Restraining Order. The complaint was a putative class action seeking to represent all persons who observe, record, or protest ICE operations in Minnesota. At a press conference, Tincher said: "I was genuinely afraid I was being kidnapped." ACLU Staff Attorney Alicia Granse stated: "Minnesotans can exercise their constitutional rights and make their voices heard without fear."
+63-page complaint with motion for TRO, seeking class representation for all persons who observe, record, or protest ICE operations in Minnesota.
 
 ### Late December 2025 — Additional Declarations
-As incidents continued, additional sworn declarations were filed, including from [Carla Hennes](/entry/2025-12-29-ridgedale-courthouse-arrests) (Doc. 33, Dec 31), documenting her being grabbed by the back of the head and shoved at the Ridgedale courthouse. The court converted the TRO motion to a motion for preliminary injunction.
+Additional declarations filed as incidents continued, including from [Carla Hennes](/entry/2025-12-29-ridgedale-courthouse-arrests) (Doc. 33). TRO motion converted to preliminary injunction motion.
 
 ### January 7-12, 2026 — Crisis Escalation
-After ICE agent Jonathan Ross fatally shot Renee Good on January 7, protests escalated dramatically. Declarations poured in:
-- [Troy Carrillo](/entry/2026-01-09-troy-carrillo-pepper-sprayed) (Doc. 60) — Pepper sprayed twice in the face by the same vehicle that had threatened him two days earlier
-- [Theresa del Rosario](/entry/2026-01-08-whipple-tear-gas-renee-good-protest) (Doc. 61) — 63-year-old woman with a cane shoved by agent standing next to Border Patrol Chief Bovino
-- [Thomas Ett](/entry/2026-01-08-whipple-tear-gas-renee-good-protest) (Doc. 62) — Del Rosario's husband, corroborating her account of tear gas deployed without warning
-- [Elizabeth Jackson](/entry/2026-01-17-elizabeth-jackson-observer-arrested) (Doc. 63) — Trained observer threatened by agent who said he knew her home address and had visited her home the previous night; arrested ten days later
+After ICE agent Jonathan Ross fatally shot Renee Good on January 7, protests escalated and declarations poured in from [Troy Carrillo](/entry/2026-01-09-troy-carrillo-pepper-sprayed) (Doc. 60), [Theresa del Rosario](/entry/2026-01-08-whipple-tear-gas-renee-good-protest) (Doc. 61), [Thomas Ett](/entry/2026-01-08-whipple-tear-gas-renee-good-protest) (Doc. 62), and [Elizabeth Jackson](/entry/2026-01-17-elizabeth-jackson-observer-arrested) (Doc. 63).
 
 ### January 13, 2026 — Preliminary Injunction Hearing
-Judge Menendez heard oral arguments. DOJ attorney Jeremy Newman argued drivers were "chasing" ICE vehicles to draw crowds. Menendez pressed him, saying she had seen no evidence drivers were breaking traffic laws. Plaintiffs' attorney Kyle Wislocky argued: "The fact that individuals are protesting in a new way does not remove that activity from its First Amendment protected character." The DOJ argued an injunction would put the court "in the business of micromanaging DHS officers' conduct throughout Minnesota."
+Judge Menendez heard oral arguments. The DOJ argued drivers were "chasing" ICE vehicles; Menendez noted she had seen no evidence drivers were breaking traffic laws.
 
 ### January 16, 2026 — Partial Preliminary Injunction Granted (Doc. 85)
-Judge Menendez issued the only preliminary injunction successfully obtained against any aspect of Operation Metro Surge. The order:
+The only injunction obtained against any aspect of Operation Metro Surge. The order barred agents from:
+- Retaliating against peaceful observers through arrest or detention without probable cause
+- Using pepper spray or chemical irritants against people engaged in protected conduct
+- Stopping vehicles absent reasonable suspicion of forcible obstruction — "safely following Covered Federal Agents at an appropriate distance" cannot justify a stop
 
-**Barred federal agents from:**
-- Retaliating against persons engaging in peaceful and unobstructive protest activity — including observation — through arrest or detention without probable cause
-- Using pepper spray, chemical irritants, or similar nonlethal munitions against people engaged in protected conduct
-- Stopping or detaining vehicles absent reasonable suspicion of forcible obstruction — the court specifically held that "safely following Covered Federal Agents at an appropriate distance" cannot justify a vehicle stop
-
-**Key findings:**
-- Chemical agents had been used against protesters on at least four separate occasions
-- "Protected conduct — including peaceful protesting and observation — had motivated the agents' actions"
-- Plaintiffs were likely to succeed on the merits of their First Amendment claims
-
-**Required:** Distribution of the injunction to all agents participating in Operation Metro Surge within 72 hours.
+Distribution to all agents required within 72 hours.
 
 ### January 19, 2026 — DOJ Appeals
-The Department of Justice filed a notice of appeal to the Eighth Circuit Court of Appeals (Case No. 26-1105).
+Notice of appeal to the Eighth Circuit (Case No. 26-1105).
 
 ### January 21, 2026 — Injunction Violated
-Four days after the order, a Star Tribune photographer captured an ICE agent spraying chemical irritant directly into the face of an [observer pinned to the ground](/entry/2026-01-21-observer-pinned-pepper-sprayed-face) by multiple agents at 28th and Blaisdell. The image ran on the Star Tribune's front page and was picked up by the New York Times and media worldwide.
+A Star Tribune photographer captured an agent spraying chemical irritant into the face of an [observer pinned to the ground](/entry/2026-01-21-observer-pinned-pepper-sprayed-face) at 28th and Blaisdell. The image ran on the Star Tribune's front page and was picked up nationally.
 
 ### January 26, 2026 — Eighth Circuit Stays the Injunction
-After just 10 days, the Eighth Circuit granted the government's emergency motion and stayed the preliminary injunction. The court found:
-- The government made "a strong showing" its challenge was "likely to succeed on the merits"
-- The class-wide protection was "just a universal injunction by another name"
-- Concerns about the injunction's "breadth and workability"
-
-One panel member partially dissented.
-
-ACLU-MN Executive Director Deepinder Mayell responded: "As federal agents claim they can act with impunity and kill people in our streets, this ruling is incredibly disappointing."
+After 10 days, the Eighth Circuit stayed the injunction, finding the government made "a strong showing" it was "likely to succeed on the merits" and that the class-wide protection was "just a universal injunction by another name." One panel member partially dissented.
 
 ### February 2, 2026 — Next Steps
-The district court ordered the parties to meet and confer about next steps, with a joint letter due February 9.
+Court ordered parties to meet and confer; joint letter due February 9.
 
 ## The Evidentiary Record
 
-The case produced an extraordinary body of sworn declarations documenting federal agent conduct. At least 30 declarations were filed under penalty of perjury, including testimony from the six named plaintiffs as well as:
+More than 30 declarations filed under penalty of perjury, including from the six named plaintiffs and:
 
 **Observers assaulted or pepper sprayed:**
-- Carla Hennes (Doc. 33) — Grabbed by the head, shoved; glasses knocked off
-- Troy Carrillo (Doc. 60) — Pepper sprayed twice by same vehicle from prior encounter
-- Theresa del Rosario (Doc. 61) — Shoved while using cane; agent: "Yeah, if she didn't listen to me"
-- Thomas Ett (Doc. 62) — Shoved in crosswalk while trying to leave as instructed
-- Elizabeth Jackson (Doc. 63) — Threatened, then arrested 10 days later; TSA precheck threatened
+- Carla Hennes (Doc. 33) — Grabbed by the head, shoved
+- Troy Carrillo (Doc. 60) — Pepper sprayed twice by same vehicle
+- Theresa del Rosario (Doc. 61) — Shoved while using cane
+- Thomas Ett (Doc. 62) — Shoved in crosswalk
+- Elizabeth Jackson (Doc. 63) — Threatened with home address; arrested 10 days later
 
 **Witnesses to use of force:**
-- Joe Mitchell (Doc. 1.14) — Witnessed agents exit vehicle to pepper spray non-impeding protesters
+- Joe Mitchell (Doc. 1.14) — Witnessed agents pepper spray non-impeding protesters
 - Mary Hackman (Doc. 37) — Witnessed Cedar-Riverside pepper spray
 - Katherine Rollins (Doc. 1.10) — Attorney who witnessed Tincher's arrest
 - Nicole Sorensen (Doc. 1.12) — Witnessed Tincher's arrest
 
 **Additional observer incidents:**
-- Dan Engelhart (Doc. 1.7) — Agent asked "Are you getting raped right now? Is that a rape whistle?"
+- Dan Engelhart (Doc. 1.7) — Agent: "Are you getting raped right now? Is that a rape whistle?"
 - Flannery Clark (Doc. 1.8) — Brake-checked, surrounded by agents with hands on guns
-- Imogen Page (Doc. 1.9) — Boxed in by agents who pulled diagonally in front of her vehicle
+- Imogen Page (Doc. 1.9) — Boxed in by agents
 - Riley Kellermeyer (Doc. 1.11) — Followed to her home by ICE agents
-- Beatriz Rudolph Leon (Doc. 14) — Agent pointed assault rifle at her and said "Hit me and see what happens"
-- Luke Mielke (Doc. 36) — Followed from Whipple, surrounded by convoy, threatened with prosecution
-- Claire Smith (Doc. 34) — Observed ICE at Karmel Mall area with film crew
+- Beatriz Rudolph Leon (Doc. 14) — Agent pointed assault rifle, said "Hit me and see what happens"
+- Luke Mielke (Doc. 36) — Followed from Whipple, surrounded, threatened with prosecution
+- Claire Smith (Doc. 34) — Observed ICE at Karmel Mall with film crew
 - Wesley Burdine (Doc. 59) — Observer intimidated
-- Christopher Juhn (Doc. 64) — Photographer intimidated despite showing press credentials
+- Christopher Juhn (Doc. 64) — Photographer intimidated despite press credentials
 - [Abigail Salm](/entry/2026-01-09-abigail-salm-observer-detained) (Doc. 69) — Detained, death threat, phone stolen
-- Zoe Cantu (Doc. 97) — Agent revved engine toward her in crosswalk; munitions fired at observers
-- Nicole Cleland (Doc. 98) — TSA PreCheck revoked after being identified by facial recognition while observing
+- Zoe Cantu (Doc. 97) — Agent revved engine toward her; munitions fired at observers
+- Nicole Cleland (Doc. 98) — TSA PreCheck revoked via facial recognition
 
 **Witnesses to other incidents:**
 - Christopher Lee (Doc. 58) — Roosevelt High School
@@ -167,13 +149,11 @@ The case produced an extraordinary body of sworn declarations documenting federa
 
 ## Related Cases
 
-Tincher v. Noem exists within a constellation of three major lawsuits challenging Operation Metro Surge:
-
 | Case | Filed | Focus | Injunction |
 |---|---|---|---|
 | **Tincher v. Noem** (0:25-cv-04669) | Dec 17, 2025 | Observer First Amendment rights | Granted Jan 16; stayed by 8th Circuit Jan 26 |
-| **State of Minnesota v. Noem** (0:26-cv-00190) | Jan 12, 2026 | State sovereignty, political retaliation | [Denied Jan 31](/entry/2026-01-12-minnesota-sues-to-halt-operation) |
-| **Hussen v. Noem** | Jan 15, 2026 | Racial profiling, Equal Protection | Pending |
+| **[State of Minnesota v. Noem](/entry/2026-01-12-minnesota-sues-to-halt-operation)** (0:26-cv-00190) | Jan 12, 2026 | State sovereignty, political retaliation | Denied Jan 31 |
+| **[Hussen v. Noem](/entry/2026-01-15-hussen-v-noem-racial-profiling-lawsuit)** (0:26-cv-00324) | Jan 15, 2026 | Racial profiling, Equal Protection | Evidentiary hearing Feb 17 |
 
 Tincher was the first filed and the only one to achieve a preliminary injunction, however briefly.
 
@@ -194,10 +174,5 @@ The following entries on this site are sourced in part from declarations filed i
 - [Abigail Salm detained, death threat, Jan 9](/entry/2026-01-09-abigail-salm-observer-detained) — Doc. 69
 - [Elizabeth Jackson arrested, Jan 17](/entry/2026-01-17-elizabeth-jackson-observer-arrested) — Doc. 63
 
-## Context
-Tincher v. Noem became the legal anchor of the civilian resistance to Operation Metro Surge. It was the vehicle through which ordinary Minnesotans — a Rotary president, a retired banker, a student, a nonprofit director, a trucking company owner — turned their experiences of intimidation and violence into a permanent federal court record. The lawsuit also exposed specific tactics: agents using license plate databases to identify observers and drive to their homes, agents following observers home, agents revoking TSA PreCheck and Global Entry as retaliation, and agents deploying film crews alongside enforcement to provoke confrontations. The Minnesota Reformer reported that agents' use of law enforcement databases to scan plates and retrieve home addresses was "straight out of organized crime."
-
-The case's legal significance extends beyond its specific facts. The district court's ruling — that peacefully following federal agents is constitutionally protected activity — was the first federal court opinion to address observer rights in the context of immigration enforcement. The Eighth Circuit's stay, framing the class-wide protection as an impermissible "universal injunction," adds to an ongoing national debate about the scope of federal court injunctions. Regardless of the appellate outcome, the evidentiary record — dozens of sworn declarations documenting a pattern of retaliation against observers across weeks of operations — exists permanently.
-
 ## Editorial Assessment
-**HIGH** - Case is extensively documented through court filings (63-page complaint, 30+ sworn declarations, judicial orders) and received sustained national and local press coverage from the New York Times, Washington Post, NPR, PBS, AP, Star Tribune, Minnesota Reformer, MPR News, Sahan Journal, KARE 11, FOX 9, and dozens of other outlets. The preliminary injunction order (Doc. 85) and Eighth Circuit stay order are public court records. Fox News noted that the New York Post, Wall Street Journal, New York Times, and Washington Post all aligned against the Trump administration over the ICE operations in Minneapolis — a rare convergence of editorial opinion across ideological lines.
+**HIGH** - Documented through court filings (63-page complaint, 30+ sworn declarations, judicial orders), with sustained coverage from the Star Tribune, Minnesota Reformer, MPR News, NYT, Washington Post, NPR, and AP. The injunction order (Doc. 85) and Eighth Circuit stay are public court records available through PACER, CourtListener, and Justia.
