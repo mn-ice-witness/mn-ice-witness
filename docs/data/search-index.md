@@ -252,7 +252,7 @@ Published incidents visible on the main site.
 
 ---
 
-## NO-ADD (149 entries)
+## NO-ADD (158 entries)
 
 Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 
@@ -398,6 +398,15 @@ Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 - dev-docs/not_use.md | Feb 5 | South Minneapolis Pop-Up Street Blockades
 - dev-docs/not_use.md | Feb 6 | Star Tribune License Plate Investigation
 - dev-docs/not_use.md | Feb 4 | DHS "4,000 Arrests" Milestone Announcement
+- dev-docs/not_use.md | Feb 7 | Jake Lang U-Haul Paintball/Mace Attack at Whipple
+- dev-docs/not_use.md | Feb 5 | Fox 9 Fact Check: ICE Detainer Numbers Don't Add Up
+- dev-docs/not_use.md | Feb 6-7 | Immigration Lawyer Scam Targeting ICE Families
+- dev-docs/not_use.md | Feb 8 | MinnMax/Giant Bomb Gaming Livestream Raises $250K
+- dev-docs/not_use.md | Feb 7 | Indigenous Symbolic Eviction Notice at Whipple
+- dev-docs/not_use.md | Feb 8 | Minnesota Physician Groups Call for Health Care Protections
+- dev-docs/not_use.md | Feb 6 | Greater MN Sheriffs Plan Continued ICE Cooperation
+- dev-docs/not_use.md | Feb 4 | Pentagon Cancels 11th Airborne Deployment to Minnesota
+- dev-docs/not_use.md | Feb 6 | ND Judge Traynor Denies Emergency Petitions
 - dev-docs/not_use.md | Feb 4 | Coon Rapids Federal Agent Political Statement
 - dev-docs/not_use.md | Dec 13, 2025 | Loc Vinh Truong Rochester
 - dev-docs/not_use.md | Dec 13-14, 2025 | Willmar December 13-14 HSI Arrests

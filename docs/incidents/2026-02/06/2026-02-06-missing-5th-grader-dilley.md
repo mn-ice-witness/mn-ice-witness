@@ -20,6 +20,7 @@ Nearly a month after a Valley View Elementary fifth grader stopped showing up fo
 ## Sources
 1. Washington Post (Feb 5, 2026): [School officials say missing Minneapolis girl seen in ICE detention in Texas](https://www.washingtonpost.com/immigration/2026/02/05/ice-children-detained-texas/)
 2. Independent (Feb 6, 2026): [Fifth grade student who went missing in Minnesota was spotted at ICE center in Texas, school claims](https://www.independent.co.uk/news/world/americas/us-politics/missing-minnesota-student-ice-detention-center-b2915549.html)
+3. CNN (Feb 6, 2026): [She thought ICE agents were taking her to school](https://www.cnn.com/2026/02/06/us/minnesota-children-detained-immigration)
 
 ## Related Incidents
 - [Ten-Year-Old Elizabeth Caisaguano Detained with Mother](#2026-01-06-elizabeth-caisaguano-detained) - Same school district, detained Jan 6, released Feb 3-4.

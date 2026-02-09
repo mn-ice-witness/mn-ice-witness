@@ -1013,6 +1013,69 @@ Stories are excluded when they don't meet the project's core focus:
 - Reason: **Statistics/milestone announcement.** Not a specific civil rights incident.
 - Date evaluated: 2026-02-07
 
+**Jake Lang U-Haul Paintball/Mace Attack at Whipple (Feb 7)**
+- Sources: [Bring Me The News](https://bringmethenews.com/minnesota-news/dildos-fly-at-minneapolis-ice-protest-as-jake-lang-group-fires-paintball-gun-at-crowd), [Unicorn Riot](https://unicornriot.ninja/2026/ice-in-minnesota-day-68-day-of-protests-one-month-since-feds-killed-renee-good/)
+- Date: February 7, 2026
+- Details: Pardoned Jan 6 rioter Jake Lang and masked supporters drove a U-Haul truck past anti-ICE protesters at the Whipple Federal Building. Supporters fired paintball guns and sprayed mace/chemical irritants at the crowd.
+- Reason: **Counter-protester attacking protesters, not ICE enforcement.** Jake Lang is a private citizen, not a federal agent. No ICE enforcement action involved.
+- Date evaluated: 2026-02-08
+
+**Fox 9 Fact Check: ICE Detainer Numbers Don't Add Up (Feb 5)**
+- Sources: [FOX 9](https://www.fox9.com/news/surge-fact-check-ice-detainer-numbers-minnesota-dont-add-up)
+- Date: February 5, 2026
+- Details: Fox 9 fact-checked DHS claims of 1,360+ active ICE detainers for Minnesota inmates. Investigation found actual number of noncitizens in jails closer to 300; only 36 detainers found across five large counties.
+- Reason: **Investigative/fact-check reporting.** No specific civil rights incident.
+- Date evaluated: 2026-02-08
+
+**Immigration Lawyer Scam Targeting ICE Families (Feb 6-7)**
+- Sources: [CBS Minnesota](https://www.cbsnews.com/minnesota/news/immigration-lawyer-scam-ice-minnesota/)
+- Date: February 6-7, 2026
+- Details: Ecuadorian women scammed by fake attorney service "Inmigrate & Asociados L.L.C." targeting families with loved ones in ICE custody. Demanded $1,500 upfront, sent documents full of typos.
+- Reason: **Scam story, not ICE enforcement action.** Private fraud, not government conduct.
+- Date evaluated: 2026-02-08
+
+**MinnMax/Giant Bomb Gaming Livestream Raises $250K (Feb 8)**
+- Sources: [MPR News](https://www.mprnews.org/story/2026/02/08/minneapolis-gaming-livestream-raises-250k-for-rent-aid-amid-ice-surge)
+- Date: February 8, 2026
+- Details: Content creators played video games for 8 hours and raised $250,000 for rent assistance for families affected by Operation Metro Surge.
+- Reason: **Community fundraiser.** No enforcement incident.
+- Date evaluated: 2026-02-08
+
+**Indigenous Symbolic Eviction Notice at Whipple (Feb 7)**
+- Sources: [MPR News](https://www.mprnews.org/story/2026/02/07/indigenousled-organizations-serve-ice-symbolic-eviction-notice)
+- Date: February 7, 2026
+- Details: Indigenous-led organizations served ICE a symbolic eviction notice near the Whipple Federal Building.
+- Reason: **Symbolic protest only.** No enforcement incident.
+- Date evaluated: 2026-02-08
+
+**Minnesota Physician Groups Call for Health Care Protections (Feb 8)**
+- Sources: [MPR News](https://www.mprnews.org/story/2026/02/08/minnesota-physician-groups-call-for-health-care-protections-as-condition-of-dhs-funding)
+- Date: February 8, 2026
+- Details: Physician groups raising concerns over unsanitary conditions and lack of medical care for detainees, calling for health care protections as condition of DHS funding.
+- Reason: **Policy/institutional story.** Medical advocacy, not a specific incident.
+- Date evaluated: 2026-02-08
+
+**Greater MN Sheriffs Plan Continued ICE Cooperation (Feb 6)**
+- Sources: [MPR News](https://www.mprnews.org/story/2026/02/06/amid-surge-some-greater-minnesota-sheriffs-plan-to-continue-cooperation-with-ice), [Sahan Journal](https://sahanjournal.com/public-safety/ice-minnesota-county-sheriffs-jail-access-agreements/)
+- Date: February 6, 2026
+- Details: More than half a dozen greater Minnesota counties signing agreements to continue cooperation with ICE, giving agents more access to county jails.
+- Reason: **Policy/institutional story.** Sheriff cooperation agreements, not a specific civil rights incident.
+- Date evaluated: 2026-02-08
+
+**Pentagon Cancels 11th Airborne Deployment to Minnesota (Feb 4)**
+- Sources: [KUAC/NYT](https://fm.kuac.org/sustainability/2026-02-04/ny-times-pentagon-cancels-11th-airborne-deployment-to-minnesota)
+- Date: February 4, 2026
+- Details: U.S. Northern Command ordered 1,500+ soldiers from the 11th Airborne Division to stand down after being on heightened alert since mid-January. Effectively ends the Insurrection Act threat.
+- Reason: **Policy/military decision.** No enforcement incident. The original standby (Jan 20) was already in not_use.
+- Date evaluated: 2026-02-08
+
+**ND Judge Traynor Denies Emergency Petitions (Feb 6)**
+- Sources: [Pioneer Press](https://www.twincities.com/2026/02/06/ruling-against-the-tide-a-north-dakota-judge-denies-emergency-petitions-for-minnesota-ice-detainees/)
+- Date: February 6, 2026
+- Details: Trump-appointed Judge Daniel Traynor in Bismarck volunteered to handle 22 MN habeas cases, denied 7 of 9 petitions. Acknowledged his rulings "buck both the national trend and judicial precedent."
+- Reason: **Legal/judicial story.** Court rulings on habeas petitions, not a specific civil rights incident.
+- Date evaluated: 2026-02-08
+
 **Coon Rapids Federal Agent Political Statement (Feb 4)**
 - Sources: Unicorn Riot video
 - Date: February 4, 2026
