@@ -456,7 +456,7 @@ Published with significant factual errors that have been corrected. Visible at /
 
 Incidents without news media verification. Visible only at /no-news-media.
 
-- incidents/2026-02/06/2026-02-06-columbia-heights-officer-threatens-observer.md | 2026-02-06 | Columbia Heights | observers | ICE Officer Threatens to "Put Hands On" Person for Following (NO NEWS MEDIA)
+- incidents/2026-02/06/2026-02-06-columbia-heights-officer-threatens-observer.md | 2026-02-06 | Columbia Heights | observers | ICE Officer Threatens to "Put Hands On" U.S. Citizen for Filming (NO NEWS MEDIA)
 - incidents/2026-02/03/2026-02-03-fraser-school-cleaner-detained.md | 2026-02-03 | Richfield | schools-hospitals | Contract Cleaner Detained by Armed Agents in Fraser School Parking Lot (NO NEWS MEDIA)
 - incidents/2026-01/22/2026-01-22-sullivan-elementary-ice-food-flyers.md | 2026-01-22 | Minneapolis | schools-hospitals | School Warns ICE Distributing Food Support Flyers (NO NEWS MEDIA)
 - incidents/2026-01/17/2026-01-17-nadya-moldovan-refugee.md | 2026-01-17 | Unknown | immigrants | Moldovan Refugee Nadya Detained While Driving to Church with Family (NO NEWS MEDIA)

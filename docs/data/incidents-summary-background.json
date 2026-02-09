@@ -1,6 +1,32 @@
 {
   "incidents": [
     {
+      "filePath": "incidents/2026-02/08/2026-02-08-ice-deceptive-tactics.md",
+      "title": "Reports of ICE Agents Using Disguises, Fake License Plates, and Ruse Tactics Across Minnesota",
+      "summary": "An Associated Press investigation published February 8 documented a pattern of deceptive tactics used by federal agents during Operation Metro Surge, including disguising themselves as construction workers, using fake business decals on rental vehicles, swapping or obscuring license plates, and impersonating delivery drivers and anti-ICE observers. A separate Star Tribune investigation of 100+ license plates on ICE vehicles found nearly 60% were not registered with the state of Minnesota. Governor Walz called the plate-swapping \"criminal activity\" that violates Minnesota law. These revelations formalized what communities, observers, and legal advocates had been reporting for weeks \u2014 that agents were using an escalating range of ruse tactics to avoid the citizen observer networks that had become a defining feature of Operation Metro Surge.",
+      "latestUpdate": null,
+      "date": "2026-02-08",
+      "time": "unknown",
+      "location": "Statewide",
+      "city": "Minneapolis",
+      "type": "background",
+      "status": "ongoing",
+      "affectedIndividualCitizenship": "n/a",
+      "injuries": "none",
+      "trustworthiness": "high",
+      "created": "2026-02-09T11:52:25",
+      "lastUpdated": "2026-02-09T11:52:25",
+      "mediaCount": 0,
+      "notable": false,
+      "hasLocalMedia": false,
+      "localMediaType": null,
+      "localMediaPath": null,
+      "localMediaOgPath": null,
+      "localMediaFiles": [],
+      "aspectRatio": null,
+      "mediaVersion": null
+    },
+    {
       "filePath": "incidents/2026-02/06/2026-02-06-brasel-right-to-counsel-whipple.md",
       "title": "Minnesota Courts Buckle as Immigration Litigation Overwhelms Federal System; Top ICE Lawyer Departs",
       "summary": "The legal infrastructure around Operation Metro Surge began visibly collapsing in early February 2026. Jim Stolley, the chief counsel for ICE in Minnesota and a 31-year veteran of the agency, retired \u2014 his government email generating an automated reply that he had \"retired from public service.\" His departure came days after ICE attorney Julie T. Le, on detail to the U.S. Attorney's Office, told U.S. District Judge Jerry Blackwell that the flood of cases had become unmanageable: \"The system sucks. This job sucks.\" She was removed from her detail the next day. U.S. Attorney Daniel Rosen reported that 427 immigration lawsuits were filed in January alone, forcing his office to set aside much of its conventional work, with his civil division understaffed by roughly 50 percent. On February 6, U.S. District Judge Nancy Brasel gave the government until February 12 to reach agreement on ensuring the right to counsel for detainees at the Bishop Henry Whipple Federal Building, calling the gap between evidence and government claims \"so enormous I don't know how you're going to close it.\" Immigration attorneys had filed 691 habeas corpus petitions since January 1 \u2014 five times the total for all of 2025.",

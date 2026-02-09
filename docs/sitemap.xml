@@ -61,8 +61,20 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://mn-ice-witness.org/entry/2026-02-08-ice-deceptive-tactics</loc>
+    <lastmod>2026-02-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://mn-ice-witness.org/entry/2026-02-07-dhs-response-whipple-conditions-false</loc>
     <lastmod>2026-02-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://mn-ice-witness.org/entry/2026-02-06-columbia-heights-officer-threatens-observer</loc>
+    <lastmod>2026-02-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
