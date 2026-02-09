@@ -857,13 +857,18 @@
       "lastUpdated": "2026-01-14T08:27:46",
       "mediaCount": 0,
       "notable": false,
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
+      "hasLocalMedia": true,
+      "localMediaType": "image",
+      "localMediaPath": "media/2025-12/31/2025-12-31-hcmc-patient-shackled.jpg",
       "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
+      "localMediaFiles": [
+        {
+          "type": "image",
+          "path": "media/2025-12/31/2025-12-31-hcmc-patient-shackled.jpg"
+        }
+      ],
+      "aspectRatio": 1.593625498007968,
+      "mediaVersion": 1770676167
     },
     {
       "filePath": "incidents/2025-12/06/2025-12-06-augsburg-student-detained.md",
