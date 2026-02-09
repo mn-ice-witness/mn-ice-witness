@@ -17,6 +17,7 @@
 <a href="https://instagram.com/mn_ice_witness" target="_blank" title="Follow on Instagram (@mn_ice_witness)"><svg width="17" height="17"><use href="#icon-instagram"/></svg></a>
 <a href="https://threads.net/@mn_ice_witness" target="_blank" title="Follow on Threads (@mn_ice_witness)"><svg width="17" height="17"><use href="#icon-threads"/></svg></a>
 -->
+<a href="https://www.threads.net/@mnicewitness" target="_blank" title="Follow on Threads (@mnicewitness)"><svg width="17" height="17"><use href="#icon-threads"/></svg></a>
 <a href="https://bsky.app/profile/mnicewitness.bsky.social" target="_blank" title="Follow on Bluesky (@mnicewitness.bsky.social)"><svg width="17" height="17"><use href="#icon-bluesky"/></svg></a>
 </p>
 

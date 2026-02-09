@@ -16,7 +16,7 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (232 incidents)
+## CURRENT (234 incidents)
 
 Published incidents visible on the main site.
 
@@ -129,6 +129,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/14/2026-01-14-transition-plus-school-bus-rubber-bullets.md | 2026-01-14 | Minneapolis | schools-hospitals | Students on Transition Plus Bus Witness ICE Fire Rubber Bullets at Man
 - incidents/2026-01/14/2026-01-14-victor-diaz-custody-death.md | 2026-01-14 | Coon Rapids | immigrants | Victor Manuel Díaz Dies in ICE Custody at Camp East Montana After Coon Rapids Arrest
 - incidents/2026-01/14/2026-01-14-crystal-bus-stop-parent.md | 2026-01-14 | Crystal | schools-hospitals | Parent Detained by ICE at School Bus Stop While Waiting with Child
+- incidents/2026-01/2026-01-mid-willmar-goodwill-arrest.md | 2026-01-13 | Willmar | immigrants | Man and Wife Arrested by 12 ICE Agents in Willmar Goodwill Parking Lot; 15-Year-Old Threatened for Filming
 - incidents/2026-01/13/2026-01-13-bovino-cbs-interview.md | 2026-01-13 | Minneapolis | response | Border Patrol Commander Bovino CBS Interview
 - incidents/2026-01/13/2026-01-13-mankato-women-sprayed.md | 2026-01-13 | Mankato | observers | Two Young Women Sprayed Directly in Face with Chemical Irritant by ICE Agent in Mankato
 - incidents/2026-01/13/2026-01-13-la-mexicana-st-peter.md | 2026-01-13 | St. Peter | immigrants | Customer Arrested While Buying Drink at St. Peter Grocery Store
@@ -146,6 +147,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/13/2026-01-13-kong-vang-frogtown.md | 2026-01-13 | St. Paul | citizens | Hmong U.S. Citizen Refuses to Open Door for Federal Agents
 - incidents/2026-01/13/2026-01-13-aliya-rahman-car-window-hospitalized.md | 2026-01-13 | Minneapolis | citizens | U.S. Citizen Aliya Rahman Dragged From Car, Hospitalized After ICE Assault
 - incidents/2026-01/13/2026-01-13-lyn-lake-tear-gas.md | 2026-01-13 | Minneapolis | observers | Federal Agents Deploy Tear Gas at Wrecktangle Pizza
+- incidents/2026-01/13/2026-01-13-alex-vasquez-willmar-citizen.md | 2026-01-13 | Willmar | citizens | U.S. Citizen Handcuffed at Willmar Convenience Store, Driven Away, Released in Parking Lot
 - incidents/2026-01/12/2026-01-12-phil-maddox-did-you-not-learn.md | 2026-01-12 | Minneapolis | observers | "Did You Not Learn From What Just Happened?" - ICE Agents Threaten Observer
 - incidents/2026-01/12/2026-01-12-irma-escoto-citizen-check.md | 2026-01-12 | West St. Paul | citizens | Citizen Check: U.S. Citizen Surrounded by ICE Agents at West St. Paul Restaurant
 - incidents/2026-01/12/2026-01-12-silva-sosa-inver-grove-heights.md | 2026-01-12 | Inver Grove Heights | immigrants | Silva Sosa Parents Detained Days After I-130 Approval

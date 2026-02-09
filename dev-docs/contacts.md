@@ -17,7 +17,7 @@ Use these exact URLs and handles in all outreach, templates, and generated conte
 | Facebook | — | https://www.facebook.com/profile.php?id=61586835122502 |
 | X/Twitter | @mn_ice_witness | https://x.com/mn_ice_witness |
 | Instagram | @mn_ice_witness | https://instagram.com/mn_ice_witness |
-| Threads | @mn_ice_witness | https://threads.net/@mn_ice_witness |
+| Threads | @mnicewitness | https://www.threads.net/@mnicewitness |
 | Bluesky | @mnicewitness.bsky.social | https://bsky.app/profile/mnicewitness.bsky.social |
 
 ## Quick Copy-Paste
@@ -31,6 +31,6 @@ Follow us:
 - Bluesky: @mnicewitness.bsky.social
 - X: @mn_ice_witness
 - Instagram: @mn_ice_witness
-- Threads: @mn_ice_witness
+- Threads: @mnicewitness
 - Facebook: https://www.facebook.com/profile.php?id=61586835122502
 ```
