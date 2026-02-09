@@ -39,6 +39,8 @@ const Router = {
                 return '/no-news-media';
             case 'removed':
                 return '/removed';
+            case 'corrections':
+                return '/corrections';
             case 'home':
             default:
                 return '/';
@@ -91,6 +93,9 @@ const Router = {
         }
         if (path === '/removed') {
             return { type: 'removed', filter };
+        }
+        if (path === '/corrections') {
+            return { type: 'corrections', filter };
         }
 
         // Fall back to hash-based routes for backwards compatibility

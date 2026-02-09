@@ -94,6 +94,7 @@ Format: `path | date | city | category | title`. One file replaces reading multi
 - `medium`
 - `low`
 - `no-news-media`
+- `corrected`
 
 **NO compound values** like "medium-high" or "low-medium". Pick one.
 

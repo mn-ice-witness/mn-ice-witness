@@ -240,14 +240,6 @@ source:
 An iconic photo shared widely across social media and news outlets. Star Tribune photographer Richard Tsong-Taatarii captures the moment an ICE agent sprays chemical irritant directly into the face of an observer pinned to the ground by multiple agents at 28th and Blaisdell in south Minneapolis. The image runs on the Star Tribune's front page two days later alongside coverage of 5-year-old Liam Ramos's detention, and is picked up by the New York Times and media worldwide. The incident occurred four days after a federal judge had explicitly barred agents from using pepper spray on observers and protesters.
 
 ---
-date: 2026-01-21
-title: Banned Chemical Weapon Deployed Near School
-incident: 2026-01-21-bovino-hexachloroethane-playground
-source:
----
-Border Patrol Commander Greg Bovino personally throws hexachloroethane canisters — classified as a chemical weapon banned in international warfare — at Mueller Park near Ella Baker school just after dismissal. A school bus carrying students is forced to drive through the gas cloud. Bovino is later removed from Minnesota operations.
-
----
 date: 2026-01-22
 title: 2-Year-Old Flown to Texas Despite Court Order
 incident: 2026-01-22-tipan-toddler-father-detained
@@ -277,7 +269,7 @@ title: Drawdown Begins
 incident: 2026-01-27-homan-draw-down-minneapolis
 source:
 ---
-Border czar Tom Homan meets with Governor Tim Walz. Border Patrol Commander Greg Bovino — responsible for the hexachloroethane deployment near Ella Baker school, among other incidents — is removed from Minnesota operations. Both sides agree to ongoing dialogue. However, Homan conditions any further drawdown on what he calls an end to "aggression" from community members, and blames local leaders' rhetoric for the escalation and reaffirms that enforcement actions will continue.
+Border czar Tom Homan meets with Governor Tim Walz. Border Patrol Commander Greg Bovino — responsible for deploying smoke canisters near Ella Baker school, among other incidents — is removed from Minnesota operations. Both sides agree to ongoing dialogue. However, Homan conditions any further drawdown on what he calls an end to "aggression" from community members, and blames local leaders' rhetoric for the escalation and reaffirms that enforcement actions will continue.
 
 ---
 date: 2026-01-28

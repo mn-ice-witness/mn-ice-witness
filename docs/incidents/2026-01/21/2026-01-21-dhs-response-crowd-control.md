@@ -30,7 +30,7 @@ DHS posted on X claiming Border Patrol agents were "repeatedly harassed and bloc
 ## Related Incidents
 
 - [Observer Pinned to Ground, Chemical Irritant Sprayed Directly Into Face](#2026-01-21-observer-pinned-pepper-sprayed-face)
-- [Border Patrol Commander Greg Bovino Deploys Hexachloroethane Gas Near School at Dismissal](#2026-01-21-bovino-hexachloroethane-playground)
+- [Border Patrol Commander Greg Bovino Deploys Smoke Canister Near School at Dismissal](#2026-01-21-bovino-smoke-canister-playground)
 
 ## Official Statement
 
@@ -44,7 +44,7 @@ Posted on X (@DHSgov):
 
 ## Context
 
-This statement was posted after videos circulated showing Border Patrol Commander Greg Bovino deploying hexachloroethane gas at Mueller Park near Ella Baker Global Studies & Humanities Magnet School during school dismissal, and agents pinning an observer to the ground and spraying chemical irritant directly into his face.
+This statement was posted after videos circulated showing Border Patrol Commander Greg Bovino deploying a smoke canister at Mueller Park near Ella Baker Global Studies & Humanities Magnet School during school dismissal, and agents pinning an observer to the ground and spraying chemical irritant directly into his face.
 
 The incident occurred four days after U.S. District Judge Katherine Menendez issued a preliminary injunction barring federal agents from using pepper spray on peaceful protesters and observers.
 

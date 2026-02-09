@@ -52,6 +52,8 @@ const Lightbox = {
         if (e.state && e.state.lightbox) {
             if (e.state.slug === 'no-news-media') {
                 this.showNoNewsMedia();
+            } else if (e.state.slug === 'corrections') {
+                this.showCorrections();
             } else if (e.state.slug === 'about' || Router.aboutSections.includes(e.state.slug)) {
                 this.showAbout(e.state.slug === 'about' ? null : e.state.slug);
             } else if (e.state.slug && e.state.slug.startsWith('new-updated-')) {
@@ -72,6 +74,10 @@ const Lightbox = {
             }
             if (route.type === 'no-news-media') {
                 this.showNoNewsMedia();
+                return;
+            }
+            if (route.type === 'corrections') {
+                this.showCorrections();
                 return;
             }
             this.closeLightbox();
@@ -366,6 +372,81 @@ const Lightbox = {
     },
 
     /**
+     * Open corrections page
+     */
+    openCorrections() {
+        this.element.setAttribute('aria-hidden', 'false');
+        document.body.style.overflow = 'hidden';
+
+        this.currentSlug = 'corrections';
+        const targetPath = Router.buildUrl('corrections');
+
+        if (window.location.pathname !== targetPath) {
+            history.pushState({ lightbox: true, slug: 'corrections' }, '', targetPath);
+            this.openedViaPushState = true;
+        } else {
+            history.replaceState({ lightbox: true, slug: 'corrections' }, '', targetPath);
+            this.openedViaPushState = false;
+        }
+
+        const correctionsIncidents = App.getCorrectionsIncidents();
+        this.bodyElement.innerHTML = this.renderCorrectionsContent(correctionsIncidents);
+        this.bodyElement.querySelector('.share-btn')?.addEventListener('click', () => this.copyShareLink());
+        this.setupCorrectionsLinks();
+    },
+
+    /**
+     * Render corrections page content
+     */
+    renderCorrectionsContent(incidents) {
+        const shareButton = LightboxContent.renderShareButton();
+
+        let html = `
+            ${shareButton}
+            <div class="no-news-media-content">
+                <h1>Corrections</h1>
+                <p class="no-news-media-plea">These incidents were published with significant factual errors that have since been identified and corrected. The original reporting contained claims that were later disproven by expert analysis, official records, or independent verification. We keep them here for transparency. Click any incident to see the full details and correction notes.</p>
+        `;
+
+        if (incidents.length === 0) {
+            html += '<p class="no-news-media-empty">No corrected incidents at this time.</p>';
+        } else {
+            html += '<ul class="no-news-media-list">';
+            for (const incident of incidents) {
+                const slug = App.getIncidentId(incident);
+                const type = Array.isArray(incident.type) ? incident.type[0] : incident.type;
+                const label = App.categoryLabels[type] || type.toUpperCase();
+                const date = new Date(incident.date + 'T12:00:00');
+                const dateStr = date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+                html += `<li>
+                    <a href="#${slug}" class="corrections-link" data-slug="${slug}">
+                        <span class="category-label">${label}:</span> ${incident.title}
+                    </a>
+                    <p class="no-news-media-meta">${incident.location} &middot; ${dateStr}</p>
+                    ${incident.summary ? `<p class="no-news-media-summary">${incident.summary}</p>` : ''}
+                </li>`;
+            }
+            html += '</ul>';
+        }
+
+        html += '</div>';
+        return html;
+    },
+
+    /**
+     * Setup click handlers for corrections incident links
+     */
+    setupCorrectionsLinks() {
+        this.bodyElement.querySelectorAll('.corrections-link').forEach(link => {
+            link.addEventListener('click', (e) => {
+                e.preventDefault();
+                const slug = link.dataset.slug;
+                this.openIncidentBySlug(slug);
+            });
+        });
+    },
+
+    /**
      * Open invalid date error
      */
     open404InvalidDate(dateStr) {
@@ -531,6 +612,26 @@ const Lightbox = {
         if (this.savedScrollPositions['no-news-media']) {
             this.bodyElement.scrollTop = this.savedScrollPositions['no-news-media'];
             delete this.savedScrollPositions['no-news-media'];
+        }
+    },
+
+    /**
+     * Show corrections page (for popstate)
+     */
+    showCorrections() {
+        this.element.setAttribute('aria-hidden', 'false');
+        document.body.style.overflow = 'hidden';
+
+        this.currentSlug = 'corrections';
+
+        const correctionsIncidents = App.getCorrectionsIncidents();
+        this.bodyElement.innerHTML = this.renderCorrectionsContent(correctionsIncidents);
+        this.bodyElement.querySelector('.share-btn')?.addEventListener('click', () => this.copyShareLink());
+        this.setupCorrectionsLinks();
+
+        if (this.savedScrollPositions['corrections']) {
+            this.bodyElement.scrollTop = this.savedScrollPositions['corrections'];
+            delete this.savedScrollPositions['corrections'];
         }
     },
 

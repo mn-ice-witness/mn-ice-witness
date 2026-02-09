@@ -2266,6 +2266,10 @@ body {
     background: #b35900;
 }
 
+.about-badge-corrected {
+    background: #2563eb;
+}
+
 /* Incident inline notes (e.g., Operation PARRIS pattern) */
 .incident-note {
     color: #888;

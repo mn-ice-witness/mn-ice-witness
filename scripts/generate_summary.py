@@ -235,8 +235,22 @@ DATETIME_PATTERN = re.compile(
 
 VALID_STATUS = {"ongoing", "resolved", "under-investigation"}
 VALID_INJURIES = {"none", "minor", "serious", "fatal"}
-VALID_TRUSTWORTHINESS = {"high", "medium", "low", "no-news-media", "removed"}
-VALID_TYPES = {"citizens", "observers", "immigrants", "schools-hospitals", "response", "background"}
+VALID_TRUSTWORTHINESS = {
+    "high",
+    "medium",
+    "low",
+    "no-news-media",
+    "removed",
+    "corrected",
+}
+VALID_TYPES = {
+    "citizens",
+    "observers",
+    "immigrants",
+    "schools-hospitals",
+    "response",
+    "background",
+}
 VALID_CITIZENSHIP = {
     "us-citizen",
     "legal-resident",
@@ -400,7 +414,14 @@ def update_media_order(incidents_with_media, data_dir):
         order_file.write_text(content)
 
 
-CATEGORIES = ["citizens", "immigrants", "observers", "schools-hospitals", "response", "background"]
+CATEGORIES = [
+    "citizens",
+    "immigrants",
+    "observers",
+    "schools-hospitals",
+    "response",
+    "background",
+]
 
 
 def get_incident_categories(incident):
@@ -441,9 +462,7 @@ def parse_not_use_entries(project_root):
 
     # Pattern to match story headers like **Story Name (Date)**
     # Look for lines starting with ** that have a date in parentheses
-    pattern = re.compile(
-        r"^\*\*([^*]+?)(?:\s*\(([^)]+)\))?\*\*\s*$", re.MULTILINE
-    )
+    pattern = re.compile(r"^\*\*([^*]+?)(?:\s*\(([^)]+)\))?\*\*\s*$", re.MULTILINE)
 
     for match in pattern.finditer(content):
         title = match.group(1).strip()
@@ -453,15 +472,21 @@ def parse_not_use_entries(project_root):
         date = "n/a"
         if date_info:
             # Try to extract just month/day from formats like "Jan 30" or "January 30, 2026"
-            date_match = re.search(r"(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\w*\s+\d+", date_info, re.IGNORECASE)
+            date_match = re.search(
+                r"(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\w*\s+\d+",
+                date_info,
+                re.IGNORECASE,
+            )
             if date_match:
                 date = date_info
 
-        entries.append({
-            "title": title,
-            "date": date,
-            "file": "dev-docs/not_use.md",
-        })
+        entries.append(
+            {
+                "title": title,
+                "date": date,
+                "file": "dev-docs/not_use.md",
+            }
+        )
 
     return entries
 
@@ -473,6 +498,7 @@ def generate_search_index(incidents, data_dir, project_root):
     current = []
     no_news_media = []
     removed = []
+    corrected = []
 
     for incident in incidents:
         trust = incident.get("trustworthiness", "").lower()
@@ -480,6 +506,8 @@ def generate_search_index(incidents, data_dir, project_root):
             no_news_media.append(incident)
         elif trust == "removed":
             removed.append(incident)
+        elif trust == "corrected":
+            corrected.append(incident)
         else:
             current.append(incident)
 
@@ -498,7 +526,8 @@ def generate_search_index(incidents, data_dir, project_root):
         "1. **Search CURRENT first** - These are published incidents on the main site",
         "2. **Check NO-ADD** - These were evaluated and rejected (see reason in not_use.md)",
         "3. **Check REMOVED** - These were published but later retracted due to new information",
-        "4. **Check NO-NEWS-MEDIA** - These lack news coverage, shown only at /no-news-media",
+        "4. **Check CORRECTIONS** - These were published with significant factual errors that have been corrected",
+        "5. **Check NO-NEWS-MEDIA** - These lack news coverage, shown only at /no-news-media",
         "",
         "**Format:** `path | date | city | category | title`",
         "",
@@ -531,7 +560,9 @@ def generate_search_index(incidents, data_dir, project_root):
     # Section 2: No-Add entries
     lines.append(f"## NO-ADD ({len(no_add)} entries)")
     lines.append("")
-    lines.append("Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.")
+    lines.append(
+        "Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons."
+    )
     lines.append("")
 
     for entry in no_add:
@@ -544,7 +575,9 @@ def generate_search_index(incidents, data_dir, project_root):
     # Section 3: Removed incidents
     lines.append(f"## REMOVED ({len(removed)} incidents)")
     lines.append("")
-    lines.append("Previously published but retracted due to contradicting information. See incident file for correction notes.")
+    lines.append(
+        "Previously published but retracted due to contradicting information. See incident file for correction notes."
+    )
     lines.append("")
 
     for incident in removed:
@@ -563,10 +596,36 @@ def generate_search_index(incidents, data_dir, project_root):
     lines.append("---")
     lines.append("")
 
-    # Section 4: No-News-Media incidents
+    # Section 4: Corrected incidents
+    lines.append(f"## CORRECTIONS ({len(corrected)} incidents)")
+    lines.append("")
+    lines.append(
+        "Published with significant factual errors that have been corrected. Visible at /corrections."
+    )
+    lines.append("")
+
+    for incident in corrected:
+        path = incident["filePath"]
+        date = incident["date"]
+        city = incident["city"]
+        title = incident["title"]
+        cat = (
+            incident["type"]
+            if isinstance(incident["type"], str)
+            else ", ".join(incident["type"])
+        )
+        lines.append(f"- {path} | {date} | {city} | {cat} | {title}")
+
+    lines.append("")
+    lines.append("---")
+    lines.append("")
+
+    # Section 5: No-News-Media incidents
     lines.append(f"## NO-NEWS-MEDIA ({len(no_news_media)} incidents)")
     lines.append("")
-    lines.append("Incidents without news media verification. Visible only at /no-news-media.")
+    lines.append(
+        "Incidents without news media verification. Visible only at /no-news-media."
+    )
     lines.append("")
 
     for incident in no_news_media:
@@ -588,6 +647,7 @@ def generate_search_index(incidents, data_dir, project_root):
         "current": len(current),
         "no_add": len(no_add),
         "removed": len(removed),
+        "corrected": len(corrected),
         "no_news_media": len(no_news_media),
     }
 
@@ -599,47 +659,68 @@ def generate_sitemap(incidents, docs_dir):
     urls = []
 
     # Homepage
-    urls.append({
-        "loc": f"{base_url}/",
-        "changefreq": "daily",
-        "priority": "1.0",
-    })
+    urls.append(
+        {
+            "loc": f"{base_url}/",
+            "changefreq": "daily",
+            "priority": "1.0",
+        }
+    )
 
     # About page
-    urls.append({
-        "loc": f"{base_url}/about",
-        "changefreq": "weekly",
-        "priority": "0.8",
-    })
+    urls.append(
+        {
+            "loc": f"{base_url}/about",
+            "changefreq": "weekly",
+            "priority": "0.8",
+        }
+    )
 
     # Category list pages
     for cat in CATEGORIES:
-        urls.append({
-            "loc": f"{base_url}/list/{cat}",
-            "changefreq": "daily",
-            "priority": "0.8",
-        })
+        urls.append(
+            {
+                "loc": f"{base_url}/list/{cat}",
+                "changefreq": "daily",
+                "priority": "0.8",
+            }
+        )
 
     # Media gallery
-    urls.append({
-        "loc": f"{base_url}/media",
-        "changefreq": "daily",
-        "priority": "0.7",
-    })
+    urls.append(
+        {
+            "loc": f"{base_url}/media",
+            "changefreq": "daily",
+            "priority": "0.7",
+        }
+    )
 
     # Timeline
-    urls.append({
-        "loc": f"{base_url}/timeline",
-        "changefreq": "daily",
-        "priority": "0.7",
-    })
+    urls.append(
+        {
+            "loc": f"{base_url}/timeline",
+            "changefreq": "daily",
+            "priority": "0.7",
+        }
+    )
 
     # No-news-media page
-    urls.append({
-        "loc": f"{base_url}/no-news-media",
-        "changefreq": "weekly",
-        "priority": "0.5",
-    })
+    urls.append(
+        {
+            "loc": f"{base_url}/no-news-media",
+            "changefreq": "weekly",
+            "priority": "0.5",
+        }
+    )
+
+    # Corrections page
+    urls.append(
+        {
+            "loc": f"{base_url}/corrections",
+            "changefreq": "weekly",
+            "priority": "0.5",
+        }
+    )
 
     # Individual incident pages (only verified/published ones)
     for incident in incidents:
@@ -649,12 +730,14 @@ def generate_sitemap(incidents, docs_dir):
         slug = Path(incident["filePath"]).stem
         last_updated = incident.get("lastUpdated", "")
         lastmod = last_updated[:10] if last_updated else incident.get("date", "")
-        urls.append({
-            "loc": f"{base_url}/entry/{slug}",
-            "lastmod": lastmod,
-            "changefreq": "weekly",
-            "priority": "0.6",
-        })
+        urls.append(
+            {
+                "loc": f"{base_url}/entry/{slug}",
+                "lastmod": lastmod,
+                "changefreq": "weekly",
+                "priority": "0.6",
+            }
+        )
 
     # Build XML
     xml_lines = [
@@ -714,7 +797,9 @@ def main():
 
     print(f"Generated {len(incidents)} incidents ({media_count} with media)")
     print(f"  Category files: {category_counts}")
-    print(f"  Search index: {search_counts['current']} current, {search_counts['no_add']} no-add, {search_counts['removed']} removed, {search_counts['no_news_media']} no-news-media")
+    print(
+        f"  Search index: {search_counts['current']} current, {search_counts['no_add']} no-add, {search_counts['removed']} removed, {search_counts['corrected']} corrected, {search_counts['no_news_media']} no-news-media"
+    )
     print(f"  Sitemap: {sitemap_count} URLs")
 
 

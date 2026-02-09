@@ -43,7 +43,7 @@ brooklyn-park-officer-citizen-check
 observer-shoved-into-traffic
 teenager-tackled-snow
 mankato-women-sprayed
-bovino-hexachloroethane-playground
+bovino-smoke-canister-playground
 raise-voice-erase-voice
 silva-sosa-inver-grove-heights
 siguenza-okeefe-detained

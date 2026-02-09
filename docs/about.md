@@ -1,6 +1,6 @@
 # About This Site
 
-<p class="about-intro">A free, fact-based documentation of ICE enforcement and its impact on Minnesota communities, maintained by community volunteers. If you find this site useful, please help share. To report an incident (must be sourced by a reputable media outlet), submit a correction, or share additional media for a listed incident, contact us at <a href="mailto:mnicewitness@gmail.com">mnicewitness@gmail.com</a> — please include compelling social media links as it's often hard to track those down. Help us find news coverage for <a href="/no-news-media">incidents documented only by social media</a>. View <a href="/removed">removed incidents</a> for entries that were listed but later removed based on new information. <span class="about-last-updated">Last updated: February 8, 2026</span></p>
+<p class="about-intro">A free, fact-based documentation of ICE enforcement and its impact on Minnesota communities, maintained by community volunteers. If you find this site useful, please help share. To report an incident (must be sourced by a reputable media outlet), submit a correction, or share additional media for a listed incident, contact us at <a href="mailto:mnicewitness@gmail.com">mnicewitness@gmail.com</a> — please include compelling social media links as it's often hard to track those down. Help us find news coverage for <a href="/no-news-media">incidents documented only by social media</a>. View <a href="/removed">removed incidents</a> for entries that were listed but later removed based on new information. View <a href="/corrections">corrections</a> for entries with significant factual errors that have been corrected. <span class="about-last-updated">Last updated: February 8, 2026</span></p>
 
 <p class="about-social"><span class="about-follow-label">Follow Us:</span>
 <a href="https://www.facebook.com/profile.php?id=61586835122502" target="_blank" title="Follow on Facebook"><svg width="17" height="17"><use href="#icon-facebook"/></svg></a>
@@ -96,11 +96,20 @@ Each incident is rated for trustworthiness based on source quality and corrobora
 - <span class="about-badge about-badge-medium">MEDIUM</span> — 2 sources, official statements, or single established source
 - <span class="about-badge about-badge-low">LOW</span> — Single smaller source, needs corroboration
 - <a href="/no-news-media">No news media coverage</a> — documented by social media only
+- <span class="about-badge about-badge-corrected">CORRECTED</span> — Published with significant factual errors that have since been corrected
 - <span class="about-badge about-badge-removed">REMOVED</span> — Previously listed but removed after new information contradicted original reporting
 
 The trustworthiness rating appears at the bottom of each incident page.
 
+### No News Media
+
+- Incidents documented only by social media, without news coverage from established outlets. These are shown on a separate <a href="/no-news-media">No News Media</a> page, not the main listing. If you can help find news coverage for any of these, please <a href="mailto:mnicewitness@gmail.com">contact us</a>.
+
 ### Removed Incidents
 
-Incidents may be removed when new information emerges that contradicts the original reporting. These entries are moved to the <a href="/removed">Removed Incidents</a> page with correction notes explaining what changed and why.
+- Incidents that were previously listed but removed after new information emerged that contradicted the original reporting. These are moved to the <a href="/removed">Removed Incidents</a> page with correction notes explaining what changed and why.
+
+### Corrections
+
+- Incidents that were published with significant factual errors that have since been identified and corrected through expert analysis, official records, or independent verification. The core incident may still be valid, but key claims were wrong. These are moved to the <a href="/corrections">Corrections</a> page with detailed correction notes.
 

@@ -56,6 +56,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://mn-ice-witness.org/corrections</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://mn-ice-witness.org/entry/2026-02-07-dhs-response-whipple-conditions-false</loc>
     <lastmod>2026-02-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -428,6 +433,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://mn-ice-witness.org/entry/2026-01-21-bovino-smoke-canister-playground</loc>
+    <lastmod>2026-02-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://mn-ice-witness.org/entry/2026-01-21-observer-pinned-pepper-sprayed-face</loc>
     <lastmod>2026-01-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -436,12 +447,6 @@
   <url>
     <loc>https://mn-ice-witness.org/entry/2026-01-21-dhs-response-5-year-old-bait</loc>
     <lastmod>2026-01-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://mn-ice-witness.org/entry/2026-01-21-bovino-hexachloroethane-playground</loc>
-    <lastmod>2026-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

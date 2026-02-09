@@ -64,7 +64,7 @@ type: enum                    # Required. See types below
 status: enum                  # Required. ongoing | resolved | under-investigation
 affected_individual_citizenship: enum  # Required. See values below
 injuries: enum                # Required. none | minor | serious | fatal
-trustworthiness: enum         # Required. EXACTLY ONE OF: high | medium | low | no-news-media (no compound values like "medium-high")
+trustworthiness: enum         # Required. EXACTLY ONE OF: high | medium | low | no-news-media | corrected (no compound values like "medium-high")
 created: YYYY-MM-DDTHH:MM:SS  # Required. When incident was first added to site
 last_updated: YYYY-MM-DDTHH:MM:SS  # Required. When last MAJOR update occurred (see rules)
 ---

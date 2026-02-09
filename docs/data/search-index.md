@@ -9,13 +9,14 @@ When searching for incidents or checking if something already exists:
 1. **Search CURRENT first** - These are published incidents on the main site
 2. **Check NO-ADD** - These were evaluated and rejected (see reason in not_use.md)
 3. **Check REMOVED** - These were published but later retracted due to new information
-4. **Check NO-NEWS-MEDIA** - These lack news coverage, shown only at /no-news-media
+4. **Check CORRECTIONS** - These were published with significant factual errors that have been corrected
+5. **Check NO-NEWS-MEDIA** - These lack news coverage, shown only at /no-news-media
 
 **Format:** `path | date | city | category | title`
 
 ---
 
-## CURRENT (227 incidents)
+## CURRENT (226 incidents)
 
 Published incidents visible on the main site.
 
@@ -81,7 +82,6 @@ Published incidents visible on the main site.
 - incidents/2026-01/22/2026-01-22-velasco-family-hopkins.md | 2026-01-22 | Hopkins | immigrants | Hopkins Family of Four Detained; Returned After ICE Violates Court Order
 - incidents/2026-01/21/2026-01-21-observer-pinned-pepper-sprayed-face.md | 2026-01-21 | Minneapolis | observers | Observer Pinned to Ground, Chemical Irritant Sprayed Directly Into Face
 - incidents/2026-01/21/2026-01-21-dhs-response-5-year-old-bait.md | 2026-01-21 | Columbia Heights | response | DHS Response: "Child Was ABANDONED," Father "Fled on Foot"
-- incidents/2026-01/21/2026-01-21-bovino-hexachloroethane-playground.md | 2026-01-21 | Minneapolis | schools-hospitals | Border Patrol Commander Greg Bovino Deploys Hexachloroethane Gas Near School at Dismissal
 - incidents/2026-01/21/2026-01-21-dhs-response-crowd-control.md | 2026-01-21 | Minneapolis | response | DHS Response: Agents "Harassed" at Gas Stations, Used "Crowd Control Measures"
 - incidents/2026-01/20/2026-01-20-liam-ramos-detained.md | 2026-01-20 | Columbia Heights | schools-hospitals, immigrants | Five-Year-Old Liam Ramos Detained in Driveway, Allegedly Used as "Bait"
 - incidents/2026-01/20/2026-01-20-trump-mistakes-happen.md | 2026-01-20 | Washington D.C. | response | Trump on ICE Violence: "Mistakes Happen" While Focusing on "Murders and Criminals"
@@ -411,6 +411,14 @@ Previously published but retracted due to contradicting information. See inciden
 
 - incidents/2026-01/14/2026-01-14-oglala-sioux-still-detained.md | 2026-01-14 | Minneapolis | citizens | Three Oglala Sioux U.S. Citizens Still Detained at Fort Snelling (REMOVED)
 - incidents/2026-01/08/2026-01-08-little-earth-native-americans.md | 2026-01-08 | Minneapolis | citizens | Four Homeless Oglala Sioux Citizens Detained Near Little Earth (REMOVED)
+
+---
+
+## CORRECTIONS (1 incidents)
+
+Published with significant factual errors that have been corrected. Visible at /corrections.
+
+- incidents/2026-01/21/2026-01-21-bovino-smoke-canister-playground.md | 2026-01-21 | Minneapolis | schools-hospitals | Border Patrol Commander Greg Bovino Deploys Smoke Canister Near School at Dismissal (CORRECTED)
 
 ---
 

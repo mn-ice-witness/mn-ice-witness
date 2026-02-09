@@ -225,10 +225,10 @@
       "mediaVersion": 1769985955
     },
     {
-      "filePath": "incidents/2026-01/21/2026-01-21-bovino-hexachloroethane-playground.md",
-      "title": "Border Patrol Commander Greg Bovino Deploys Hexachloroethane Gas Near School at Dismissal",
-      "summary": "Border Patrol Commander Greg Bovino deployed gas canisters at Mueller Park, near Ella Baker Global Studies & Humanities Magnet School, just after school dismissal. Video shows Bovino personally throwing the canister. A school bus was forced to drive through the gas while transporting students home.",
-      "latestUpdate": null,
+      "filePath": "incidents/2026-01/21/2026-01-21-bovino-smoke-canister-playground.md",
+      "title": "Border Patrol Commander Greg Bovino Deploys Smoke Canister Near School at Dismissal (CORRECTED)",
+      "summary": "",
+      "latestUpdate": "**CORRECTED** \u2014 Canister identified by munitions experts as Defense Technology \"Pocket Tactical Green Smoke,\" not hexachloroethane. See Correction Note above.",
       "date": "2026-01-21",
       "time": "afternoon",
       "location": "Mueller Park, near Ella Baker Global Studies & Humanities Magnet School",
@@ -237,19 +237,19 @@
       "status": "under-investigation",
       "affectedIndividualCitizenship": "unknown",
       "injuries": "none",
-      "trustworthiness": "high",
+      "trustworthiness": "corrected",
       "created": "2026-01-21T17:37:01",
-      "lastUpdated": "2026-01-21T18:01:29",
+      "lastUpdated": "2026-02-08T21:53:22",
       "mediaCount": 0,
       "notable": false,
       "hasLocalMedia": true,
       "localMediaType": "video",
-      "localMediaPath": "media/2026-01/21/2026-01-21-bovino-hexachloroethane-playground.mp4",
-      "localMediaOgPath": "media/2026-01/21/2026-01-21-bovino-hexachloroethane-playground-og-custom.jpg",
+      "localMediaPath": "media/2026-01/21/2026-01-21-bovino-smoke-canister-playground.mp4",
+      "localMediaOgPath": "media/2026-01/21/2026-01-21-bovino-smoke-canister-playground-og-custom.jpg",
       "localMediaFiles": [
         {
           "type": "video",
-          "path": "media/2026-01/21/2026-01-21-bovino-hexachloroethane-playground.mp4"
+          "path": "media/2026-01/21/2026-01-21-bovino-smoke-canister-playground.mp4"
         }
       ],
       "aspectRatio": 1.8815331010452963,

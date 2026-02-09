@@ -211,6 +211,10 @@ const App = {
                 Lightbox.openRemoved();
                 break;
 
+            case 'corrections':
+                Lightbox.openCorrections();
+                break;
+
             case 'list':
                 ViewState.switchView('list', true);
                 if (route.category) {
@@ -305,7 +309,7 @@ const App = {
         const query = (typeof Search !== 'undefined' && Search.query) ? Search.query.toLowerCase().trim() : '';
         // Filter out no-news-media, removed, and background incidents from main display
         const verified = this.incidents.filter(i => {
-            if (i.trustworthiness === 'no-news-media' || i.trustworthiness === 'removed') return false;
+            if (i.trustworthiness === 'no-news-media' || i.trustworthiness === 'removed' || i.trustworthiness === 'corrected') return false;
             const types = Array.isArray(i.type) ? i.type : [i.type];
             if (types.length === 1 && types[0] === 'background') return false;
             return true;
@@ -349,6 +353,19 @@ const App = {
     getRemovedIncidents() {
         return this.incidents
             .filter(i => i.trustworthiness === 'removed')
+            .sort((a, b) => {
+                const dateA = a.lastUpdated || a.created || a.date;
+                const dateB = b.lastUpdated || b.created || b.date;
+                return dateB.localeCompare(dateA);
+            });
+    },
+
+    /**
+     * Get corrected incidents sorted by update date
+     */
+    getCorrectionsIncidents() {
+        return this.incidents
+            .filter(i => i.trustworthiness === 'corrected')
             .sort((a, b) => {
                 const dateA = a.lastUpdated || a.created || a.date;
                 const dateB = b.lastUpdated || b.created || b.date;
