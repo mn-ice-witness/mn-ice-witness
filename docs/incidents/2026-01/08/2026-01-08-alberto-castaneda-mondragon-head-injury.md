@@ -34,6 +34,10 @@ Alberto Castañeda Mondragón, a Mexican national who entered the U.S. on a temp
 9. NPR (Feb 7, 2026): [Immigrant whose skull was broken in 8 places during ICE arrest says beating was unprovoked](https://www.npr.org/2026/02/07/g-s1-109219/immigrant-ice-arrest-beating)
 10. AP News (Feb 7, 2026): [Takeaways from AP report on immigrant who says ICE officers beat him during Minnesota arrest](https://apnews.com/article/immigration-enforcement-minneapolis-hospital-ice-beating-assault-529f0a080d5de5c35382c540d1c2124e)
 11. Common Dreams (Feb 7, 2026): ['There Was Never a Wall': Man beaten nearly to death by ICE refutes self-harm claim](https://www.commondreams.org/news/alberto-castaneda-mondragon)
+12. CBS Minnesota (Feb 2, 2026): [ICE claims that a man shattered his skull running into wall; Hennepin Healthcare doctors express skepticism](https://www.cbsnews.com/minnesota/news/ice-claim-that-a-man-shattered-his-skull-running-into-wall-triggers-tension-at-a-minnesota-hospital/)
+13. MPR News (Feb 7, 2026): [Minnesota immigrant says ICE arrest beating caused skull fractures](https://www.mprnews.org/story/2026/02/07/minnesota-immigrant-says-ice-arrest-beating-caused-skull-fractures)
+14. CBS Minnesota (Feb 7, 2026): [Immigrant whose skull was broken in eight places during ICE arrest says beating was unprovoked](https://www.cbsnews.com/minnesota/news/immigrant-whose-skull-was-broken-in-eight-places-during-ice-arrest-says-beating-was-unprovoked/)
+15. Bring Me The News (Feb 7, 2026): [Man who suffered skull fractures during arrest by ICE is seeking help for medical bills](https://bringmethenews.com/minnesota-news/man-who-suffered-skull-fractures-during-arrest-by-ice-is-seeking-help-for-medical-bills)
 
 ## Affected Individual(s)
 - **Name:** Alberto Castañeda Mondragón (referred to as "Alberto C.M." in court documents)

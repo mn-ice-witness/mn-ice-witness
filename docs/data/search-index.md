@@ -16,12 +16,13 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (238 incidents)
+## CURRENT (239 incidents)
 
 Published incidents visible on the main site.
 
 - incidents/2026-02/08/2026-02-08-ice-deceptive-tactics.md | 2026-02-08 | Minneapolis | background | Reports of ICE Agents Using Disguises, Fake License Plates, and Ruse Tactics Across Minnesota
 - incidents/2026-02/07/2026-02-07-dhs-response-whipple-conditions-false.md | 2026-02-07 | Minneapolis | response | DHS Statement: Claims of "Subprime Conditions" at Whipple Are "FALSE"
+- incidents/2026-02/07/2026-02-07-observers-one-warning-abductions.md | 2026-02-07 | Minneapolis | observers | Three Legal Observers Arrested in 30 Minutes as ICE Implements "One Warning" Policy
 - incidents/2026-02/06/2026-02-06-brasel-right-to-counsel-whipple.md | 2026-02-06 | Minneapolis | background | Minnesota Courts Buckle as Immigration Litigation Overwhelms Federal System; Top ICE Lawyer Departs
 - incidents/2026-02/06/2026-02-06-dhs-response-agitators-shielded.md | 2026-02-06 | Minneapolis | response | DHS Response: "Agitators" Shield Child Rapists, Sex Offenders, and Gang Members From Arrest
 - incidents/2026-02/06/2026-02-06-georgetown-park-pepper-spray.md | 2026-02-06 | Bloomington | observers | Federal Agents Pepper Spray Relatives During Arrest at Georgetown Park Apartments
@@ -261,7 +262,7 @@ Published incidents visible on the main site.
 
 ---
 
-## NO-ADD (170 entries)
+## NO-ADD (188 entries)
 
 Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 
@@ -364,6 +365,24 @@ Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 - dev-docs/not_use.md | Jan 20-21 | Anpetu Teca Education Center ICE Staging Area
 - dev-docs/not_use.md | n/a | Anonymous Refugee Detentions From NPR
 - dev-docs/not_use.md | Jan-Feb 2026 | Daily Deportation Flights from MSP
+- dev-docs/not_use.md | Feb 8 | Roseville Teenagers Detained
+- dev-docs/not_use.md | Feb 8 | Albert Lea ATM Arrest
+- dev-docs/not_use.md | Feb 8 | Minneapolis 24th Ave Arrest
+- dev-docs/not_use.md | Feb 8 | Chaska Arrest
+- dev-docs/not_use.md | Feb 8 | St. Paul Cretin/Berkeley Arrest
+- dev-docs/not_use.md | Feb 8 | Bloomington Door-to-Door
+- dev-docs/not_use.md | Feb 7 | Brooklyn Center/New Hope/Crystal/Brooklyn Park Arrests
+- dev-docs/not_use.md | Feb 7 | Burnsville Roof Crew Arrest
+- dev-docs/not_use.md | Feb 7 | Little Canada Apartment Arrest
+- dev-docs/not_use.md | Feb 9 | Eden Prairie Chestnut Dr Arrest
+- dev-docs/not_use.md | Feb 9 | Mendota Heights I-494 Arrest
+- dev-docs/not_use.md | Feb 9 | Brooklyn Park Eden Park Apts Arrest
+- dev-docs/not_use.md | Feb 9 | Robbinsdale Bottineau Blvd Arrest
+- dev-docs/not_use.md | Feb 9 | North Minneapolis Family Dollar Sighting
+- dev-docs/not_use.md | Feb 7 | Jake Lang and Jayden Scott U-Haul at Whipple
+- dev-docs/not_use.md | Feb 8 | Ryan Winkler Alleges ICE Parked Outside Home
+- dev-docs/not_use.md | Feb 8-9 | Lyndale Avenue Barricade Clearing
+- dev-docs/not_use.md | Feb 8 | Jordan Chiles Solidarity Statement
 - dev-docs/not_use.md | Feb 5, 2026 | Robbinsdale City Hall ICE Pursuit Crash
 - dev-docs/not_use.md | Jan 16 & Jan 22, 2026 | Winona Two Hmong Men Arrested
 - dev-docs/not_use.md | Jan 28, 2026 | Abdirahman Hassan Yusuf Grand Forks ND

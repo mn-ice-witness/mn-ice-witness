@@ -448,8 +448,26 @@ These provide incontrovertible evidence and should be documented with HIGH trust
 - Single social media posts without news coverage
 - Rumors without any news pickup
 - **Incidents where we can't determine the detained person's status** — If we don't know whether someone is a citizen, legal resident, or undocumented immigrant, we can't categorize the incident. Skip it unless more information emerges.
+- **Incidents that lack minimum detail** — see Minimum Detail Standard below.
 
 **Key principle:** Every incident must clearly fit into one of our categories (citizens, immigrants, observers, schools-hospitals, response). If you can't determine the category, don't add it.
+
+### Minimum Detail Standard
+
+**An incident needs more than just "someone was detained at [location]."** Reports that only provide a location and the fact of an arrest — with no name, no age, no immigration status, and no independent news coverage — are insufficient for documentation.
+
+At minimum, an incident must have **at least two** of the following:
+1. **Name** of the affected individual (even first name only)
+2. **Age or identifying details** (occupation, family situation, school)
+3. **Immigration/citizenship status** (citizen, legal resident, undocumented, asylum-seeker)
+4. **Independent news coverage** beyond community observer reports (news outlet with original reporting)
+5. **Video or photo evidence** of the incident
+
+**Why this matters:** Community observer networks like People Over Papers log dozens of ICE sightings and arrests daily via BMTN roundups. These are valuable for tracking ICE activity patterns but typically contain only "[location] — [someone detained]" with no further detail. These go straight to not_use.md with reason "Insufficient details" unless they later get independent news coverage or more identifying information emerges.
+
+**Example of what fails the standard:** "Report of someone detained at an ATM in Albert Lea" (People Over Papers via BMTN) — no name, no age, no status, no independent coverage. → not_use.md
+
+**Example of what passes:** "Kevin, a restaurant worker at Pancho's Taqueria in Circle Pines with a valid work visa, detained by plainclothes agents; surveillance video captured arrest; employer confirmed legal status" — named individual, status confirmed, video evidence, multiple news outlets. → document as incident
 
 **PROMOTING from not_use.md:** If new information upgrades a rejected story into a valid incident, create the incident file and **remove the entry from not_use.md entirely**. Don't mark it or leave a stub — the incident file is the record.
 

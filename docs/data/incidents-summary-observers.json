@@ -1,6 +1,32 @@
 {
   "incidents": [
     {
+      "filePath": "incidents/2026-02/07/2026-02-07-observers-one-warning-abductions.md",
+      "title": "Three Legal Observers Arrested in 30 Minutes as ICE Implements \"One Warning\" Policy",
+      "summary": "On February 7, at least four legal observers \u2014 known locally as \"commuters\" \u2014 were arrested by federal agents in south Minneapolis over the course of an afternoon, with three taken within a 30-minute span. One female observer was on an encrypted group call with fellow commuters, pleading for help after being boxed in by agents while following a vehicle that had loaded her friend. Her pleas stopped mid-call; by the time support arrived, she was gone and her SUV sat empty in the street with the engine running. Video shot the same day by observer Kaegan Recher captured a deportation officer stating that agents have been ordered to give commuters a single warning before taking them into custody: \"You just got one warning, that's it. What we're told, that's all you need.\" The community group Defrost MN, which uses crowdsourced data to track federal immigration operations, warned of an \"uptick in abductions\" following Tom Homan's takeover of Operation Metro Surge. Despite Homan's announced drawdown of 700 officers, approximately 2,000 federal personnel remain on the ground \u2014 13 times the agencies' normal footprint and three times the size of the Minneapolis Police Department. During a press conference the same week, Homan disclosed that 158 people had been arrested for interfering with federal law enforcement in the past month, with 85 cases accepted for prosecution.",
+      "latestUpdate": null,
+      "date": "2026-02-07",
+      "time": "afternoon",
+      "location": "Multiple locations, south Minneapolis",
+      "city": "Minneapolis",
+      "type": "observers",
+      "status": "resolved",
+      "affectedIndividualCitizenship": "us-citizen",
+      "injuries": "none",
+      "trustworthiness": "high",
+      "created": "2026-02-09T14:00:00",
+      "lastUpdated": "2026-02-09T14:00:00",
+      "mediaCount": 0,
+      "notable": false,
+      "hasLocalMedia": false,
+      "localMediaType": null,
+      "localMediaPath": null,
+      "localMediaOgPath": null,
+      "localMediaFiles": [],
+      "aspectRatio": null,
+      "mediaVersion": null
+    },
+    {
       "filePath": "incidents/2026-02/06/2026-02-06-columbia-heights-officer-threatens-observer.md",
       "title": "ICE Officer Threatens to \"Put Hands On\" U.S. Citizen for Filming (NO NEWS MEDIA)",
       "summary": "Video circulated widely on social media showing an ICE agent in Columbia Heights threatening a U.S. citizen who was recording the agent's activities. The officer told the person he would \"put hands on\" them if they continued following, and challenged them to \"test me.\" Recording law enforcement in public is protected by the First Amendment. Estimated date; exact date unconfirmed.",

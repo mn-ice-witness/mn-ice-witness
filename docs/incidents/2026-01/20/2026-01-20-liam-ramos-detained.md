@@ -9,12 +9,13 @@ affected_individual_citizenship: asylum-seeker
 injuries: none
 trustworthiness: high
 created: 2026-01-22T12:00:00
-last_updated: 2026-02-07T14:50:30
+last_updated: 2026-02-09T12:00:00
 ---
 
 # Five-Year-Old Liam Ramos Detained in Driveway, Allegedly Used as "Bait"
 
 ## Updates
+- **Feb 9** - Next court date set for [February 13](https://bringmethenews.com/minnesota-news/list-of-ice-raids-major-updates-in-minnesota-on-monday-feb-9); family could face deportation by end of that week. DHS [denies seeking quick end](https://www.bostonglobe.com/2026/02/09/nation/minnesota-immigration-liam-conejo-ramos/) to asylum claims.
 - **Feb 7** - [Immigration judge grants continuance](https://us.cnn.com/2026/02/07/us/liam-conejo-ramos-family-asylum-continuance), postponing the family's asylum hearing and preventing swift deportation.
 - **Feb 6** - [DHS filed to deport Liam and his father](https://www.mprnews.org/story/2026/02/05/liam-conejo-ramos-dhs-requests-expedited-deportation-proceedings-for-family) through removal proceedings. Attorney Danielle Molliver called the move "extraordinary" and possibly "retaliatory." DHS spokesperson Tricia McLaughlin called it "standard procedure." The father told NBC News Liam has nightmares and wakes up crying since detention.
 - **Feb 1** - [Liam and his father returned home](https://www.cbsnews.com/news/liam-conejo-ramos-released-ice-custody/) to Minneapolis after being released from the Dilley, Texas detention center. Rep. Joaquin Castro escorted them on the flight home.
@@ -51,6 +52,12 @@ Liam Conejo Ramos, a 5-year-old kindergartner, was detained by ICE with his fath
 23. Scripps News (Feb 6, 2026): [DHS fast-tracks 5-year-old Liam Ramos and his father for deportation](https://www.nbc26.com/politics/immigration/dhs-fast-tracks-5-year-old-liam-ramos-and-his-father-for-deportation)
 24. NOTUS (Feb 6, 2026): [Democratic Lawmaker Says Trump Administration Is 'Trying to Take' Liam Conejo Ramos Again](https://www.notus.org/immigration/trump-administration-liam-conejo-ramos-deportation)
 25. CNN (Feb 7, 2026): [Judge grants continuance in the asylum case of Liam Conejo Ramos and his family](https://us.cnn.com/2026/02/07/us/liam-conejo-ramos-family-asylum-continuance)
+26. Common Dreams (Feb 7, 2026): [Judge denies DHS bid to quickly deport family of 5-year-old Liam Conejo Ramos](https://www.commondreams.org/news/liam-conejo-ramos-continuance)
+27. KSTP (Feb 7, 2026): [Columbia Heights 5-year-old Liam Ramos and family granted continuance at asylum hearing](https://kstp.com/kstp-news/top-news/columbia-heights-5-year-old-liam-ramos-and-family-granted-continuance-at-asylum-hearing/)
+28. KARE 11 (Feb 7, 2026): [5-year-old Liam Ramos's family granted continuance at asylum hearing](https://www.kare11.com/article/news/local/ice-in-minnesota/after-leaving-detention-facility-5-year-old-liam-ramos-now-faces-dhs-request-to-expedite-deportation-proceedings/89-0f1f48f9-54eb-48c7-aecd-eb437253125f)
+29. CBS Minnesota (Feb 9, 2026): [Judge grants continuance on asylum proceedings for Liam Ramos and his father](https://www.cbsnews.com/minnesota/news/liam-ramos-judge-asylum-proceeding-continuance/)
+30. Boston Globe / AP (Feb 9, 2026): [Officials deny seeking quick end to asylum claims for the Minneapolis family of 5-year-old](https://www.bostonglobe.com/2026/02/09/nation/minnesota-immigration-liam-conejo-ramos/)
+31. Bring Me The News (Feb 9, 2026): [List of ICE raids, major updates in Minnesota on Monday, Feb. 9](https://bringmethenews.com/minnesota-news/list-of-ice-raids-major-updates-in-minnesota-on-monday-feb-9)
 
 ## Related Incidents
 - [DHS Response: "Child Was ABANDONED," Father "Fled on Foot"](#2026-01-21-dhs-response-5-year-old-bait)
@@ -90,6 +97,7 @@ Liam Conejo Ramos, a 5-year-old kindergartner, was detained by ICE with his fath
 - **February 1, 2026** - Liam and his father released from Dilley. Rep. Joaquin Castro escorts them on flight home to Minneapolis.
 - **February 5-6, 2026** - DHS files removal proceedings against Liam and his father. Attorney Danielle Molliver calls the move "extraordinary" and possibly "retaliatory." DHS calls it "standard procedure."
 - **February 7, 2026** - Immigration judge grants continuance, postponing the family's asylum hearing.
+- **February 9, 2026** - Next court date set for February 13. DHS denies seeking expedited end to asylum claims.
 
 ## Official Accounts
 

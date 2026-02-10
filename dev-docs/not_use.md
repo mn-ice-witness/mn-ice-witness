@@ -712,6 +712,132 @@ Stories are excluded when they don't meet the project's core focus:
 - Reason: **Trend/policy story** - documents deportation logistics but no specific civil rights incident with identifiable affected individual. Individual deportation cases documented separately where details are available. Already partially covered by existing MSP Airport Deportation Flights entry (Jan 14).
 - Date evaluated: 2026-02-09
 
+**Roseville Teenagers Detained (Feb 8)**
+- Sources: [Bring Me The News](https://bringmethenews.com/minnesota-news/list-of-ice-raids-updates-in-minnesota-on-saturday-feb-8) via People Over Papers
+- Date: February 8, 2026
+- Details: Report of teenagers detained in Roseville. No further details.
+- Reason: **Insufficient details** - no names, ages, status, or independent reporting. Observer-sourced only.
+- Date evaluated: 2026-02-09
+
+**Albert Lea ATM Arrest (Feb 8)**
+- Sources: [Bring Me The News](https://bringmethenews.com/minnesota-news/list-of-ice-raids-updates-in-minnesota-on-saturday-feb-8) via People Over Papers
+- Date: February 8, 2026
+- Details: Report of someone detained at an ATM in Albert Lea. No further details.
+- Reason: **Insufficient details** - no name, status, or independent reporting. Observer-sourced only.
+- Date evaluated: 2026-02-09
+
+**Minneapolis 24th Ave Arrest (Feb 8)**
+- Sources: [Bring Me The News](https://bringmethenews.com/minnesota-news/list-of-ice-raids-updates-in-minnesota-on-saturday-feb-8) via People Over Papers
+- Date: February 8, 2026
+- Details: Report of someone detained near 24th Avenue in Minneapolis. No further details.
+- Reason: **Insufficient details** - no name, status, or independent reporting. Observer-sourced only.
+- Date evaluated: 2026-02-09
+
+**Chaska Arrest (Feb 8)**
+- Sources: [Bring Me The News](https://bringmethenews.com/minnesota-news/list-of-ice-raids-updates-in-minnesota-on-saturday-feb-8) via People Over Papers
+- Date: February 8, 2026
+- Details: Report of someone detained in Chaska. No further details.
+- Reason: **Insufficient details** - no name, status, or independent reporting. Observer-sourced only.
+- Date evaluated: 2026-02-09
+
+**St. Paul Cretin/Berkeley Arrest (Feb 8)**
+- Sources: [Bring Me The News](https://bringmethenews.com/minnesota-news/list-of-ice-raids-updates-in-minnesota-on-saturday-feb-8) via People Over Papers
+- Date: February 8, 2026
+- Details: Report of someone detained near Cretin and Berkeley in St. Paul. No further details.
+- Reason: **Insufficient details** - no name, status, or independent reporting. Observer-sourced only.
+- Date evaluated: 2026-02-09
+
+**Bloomington Door-to-Door (Feb 8)**
+- Sources: [Bring Me The News](https://bringmethenews.com/minnesota-news/list-of-ice-raids-updates-in-minnesota-on-saturday-feb-8) via People Over Papers
+- Date: February 8, 2026
+- Details: Report of ICE conducting door-to-door operations in Bloomington. No confirmed arrests.
+- Reason: **Insufficient details** - no confirmed detention, no names, observer-sourced only.
+- Date evaluated: 2026-02-09
+
+**Brooklyn Center/New Hope/Crystal/Brooklyn Park Arrests (Feb 7)**
+- Sources: [Bring Me The News](https://bringmethenews.com/minnesota-news/list-of-ice-raids-updates-in-minnesota-on-friday-feb-7) via People Over Papers
+- Date: February 7, 2026
+- Details: Reports of ICE activity and detentions across Brooklyn Center, New Hope, Crystal, and Brooklyn Park. No specific details on any individual arrest.
+- Reason: **Insufficient details** - no names, status, or independent reporting. Observer-sourced only.
+- Date evaluated: 2026-02-09
+
+**Burnsville Roof Crew Arrest (Feb 7)**
+- Sources: [Bring Me The News](https://bringmethenews.com/minnesota-news/list-of-ice-raids-updates-in-minnesota-on-friday-feb-7) via People Over Papers
+- Date: February 7, 2026
+- Details: Report of roofing crew members detained in Burnsville. No further details.
+- Reason: **Insufficient details** - no names, status, or independent reporting. Observer-sourced only.
+- Date evaluated: 2026-02-09
+
+**Little Canada Apartment Arrest (Feb 7)**
+- Sources: [Bring Me The News](https://bringmethenews.com/minnesota-news/list-of-ice-raids-updates-in-minnesota-on-friday-feb-7) via People Over Papers
+- Date: February 7, 2026
+- Details: Report of someone detained at an apartment complex in Little Canada. No further details.
+- Reason: **Insufficient details** - no name, status, or independent reporting. Observer-sourced only.
+- Date evaluated: 2026-02-09
+
+**Eden Prairie Chestnut Dr Arrest (Feb 9)**
+- Sources: [Bring Me The News](https://bringmethenews.com/minnesota-news/list-of-ice-raids-updates-in-minnesota-on-sunday-feb-9) via People Over Papers
+- Date: February 9, 2026
+- Details: Report of someone detained on Chestnut Drive in Eden Prairie. No further details.
+- Reason: **Insufficient details** - no name, status, or independent reporting. Observer-sourced only.
+- Date evaluated: 2026-02-09
+
+**Mendota Heights I-494 Arrest (Feb 9)**
+- Sources: [Bring Me The News](https://bringmethenews.com/minnesota-news/list-of-ice-raids-updates-in-minnesota-on-sunday-feb-9) via People Over Papers
+- Date: February 9, 2026
+- Details: Report of someone detained near I-494 in Mendota Heights. No further details.
+- Reason: **Insufficient details** - no name, status, or independent reporting. Observer-sourced only.
+- Date evaluated: 2026-02-09
+
+**Brooklyn Park Eden Park Apts Arrest (Feb 9)**
+- Sources: [Bring Me The News](https://bringmethenews.com/minnesota-news/list-of-ice-raids-updates-in-minnesota-on-sunday-feb-9) via People Over Papers
+- Date: February 9, 2026
+- Details: Report of someone detained at Eden Park Apartments in Brooklyn Park. No further details.
+- Reason: **Insufficient details** - no name, status, or independent reporting. Observer-sourced only.
+- Date evaluated: 2026-02-09
+
+**Robbinsdale Bottineau Blvd Arrest (Feb 9)**
+- Sources: [Bring Me The News](https://bringmethenews.com/minnesota-news/list-of-ice-raids-updates-in-minnesota-on-sunday-feb-9) via People Over Papers
+- Date: February 9, 2026
+- Details: Report of someone detained on Bottineau Boulevard in Robbinsdale. No further details.
+- Reason: **Insufficient details** - no name, status, or independent reporting. Observer-sourced only.
+- Date evaluated: 2026-02-09
+
+**North Minneapolis Family Dollar Sighting (Feb 9)**
+- Sources: [Bring Me The News](https://bringmethenews.com/minnesota-news/list-of-ice-raids-updates-in-minnesota-on-sunday-feb-9) via People Over Papers
+- Date: February 9, 2026
+- Details: ICE agents spotted near Family Dollar in North Minneapolis. No confirmed arrest.
+- Reason: **Sighting only** - no confirmed detention, no names, observer-sourced only.
+- Date evaluated: 2026-02-09
+
+**Jake Lang and Jayden Scott U-Haul at Whipple (Feb 7)**
+- Sources: Social media, [BMTN](https://bringmethenews.com/minnesota-news/list-of-ice-raids-updates-in-minnesota-on-friday-feb-7)
+- Date: February 7, 2026
+- Details: Former Jan 6 defendant Jake Lang and associate Jayden Scott showed up at Whipple anniversary protest with a U-Haul.
+- Reason: **Counter-protest/political event** - not an ICE enforcement incident.
+- Date evaluated: 2026-02-09
+
+**Ryan Winkler Alleges ICE Parked Outside Home (Feb 8)**
+- Sources: Social media
+- Date: February 8, 2026
+- Details: Former state legislator Ryan Winkler posted that ICE vehicles were parked outside his home.
+- Reason: **Sighting only** - no enforcement action, no detention.
+- Date evaluated: 2026-02-09
+
+**Lyndale Avenue Barricade Clearing (Feb 8-9)**
+- Sources: BMTN roundups, social media
+- Date: February 8-9, 2026
+- Details: City crews cleared protest barricades on Lyndale Avenue.
+- Reason: **Community response/cleanup** - not an ICE enforcement incident.
+- Date evaluated: 2026-02-09
+
+**Jordan Chiles Solidarity Statement (Feb 8)**
+- Sources: Social media, sports outlets
+- Date: February 8, 2026
+- Details: Olympic gymnast Jordan Chiles made a solidarity statement about ICE operations in Minnesota.
+- Reason: **Celebrity statement** - not an ICE enforcement incident.
+- Date evaluated: 2026-02-09
+
 **Robbinsdale City Hall ICE Pursuit Crash (Feb 5, 2026)**
 - Sources: [Hometownsource / Sun Post](https://www.hometownsource.com/county_news_review/sun_post/free/robbinsdale-police-woman-crashed-car-near-city-hall-after-ice-pursuit/article_52389281-0aac-4ae5-9c68-26b158396203.html), [CCX Media](https://ccxmedia.org/news/crash-near-robbinsdale-city-hall-traced-to-apparent-ice-incident/), [Bring Me The News](https://bringmethenews.com/minnesota-news/robbinsdale-woman-crashed-car-entered-city-hall-after-pursuit-by-ice)
 - Date: February 5, 2026

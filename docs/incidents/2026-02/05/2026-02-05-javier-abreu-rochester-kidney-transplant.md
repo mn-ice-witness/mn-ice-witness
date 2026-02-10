@@ -9,12 +9,14 @@ affected_individual_citizenship: unknown
 injuries: none
 trustworthiness: high
 created: 2026-02-06T15:56:25
-last_updated: 2026-02-07T14:50:30
+last_updated: 2026-02-09T12:00:00
 ---
 
 # Kidney Transplant Recipient Arrested in Rochester Needs Anti-Rejection Medication
 
 ## Updates
+- **Feb 9** - Wife and attorney [confirm Abreu is finally receiving](https://www.mprnews.org/story/2026/02/09/kidney-transplant-recipient-in-ice-custody-is-finally-getting-meds-wife-and-attorney-say) his anti-rejection medications.
+- **Feb 8** - MPR reports Abreu [still has not received life-saving anti-rejection medications](https://www.mprnews.org/story/2026/02/08/kidney-recipient-detained-by-ice-in-rochester-still-hasnt-received-lifesaving-medications) four days after arrest, despite earlier DHS claims of access.
 - **Feb 6** - DHS spokesperson states ["ICE is working with the family"](https://www.mprnews.org/story/2026/02/06/transplant-recipient-arrested-by-federal-agents-in-rochester-needs-medicine-live) to ensure Abreu gets his medications. Family and attorney have not independently confirmed this. Abreu was scheduled to be flown to a Texas facility at 1:00 PM.
 
 ## Summary
@@ -24,6 +26,11 @@ Federal immigration agents arrested Javier Abreu, 38, on Civic Center Drive in R
 1. MPR News (Feb 6, 2026): [Kidney recipient arrested by federal agents in Rochester needs medicine, state representative says](https://www.mprnews.org/story/2026/02/06/transplant-recipient-arrested-by-federal-agents-in-rochester-minnesota-needs-medicine)
 2. Rochester Post-Bulletin (Feb 6, 2026): [Rochester man and recent organ donation recipient detained by ICE](https://www.postbulletin.com/news/local/rochester-man-and-recent-organ-donation-recipent-detained-by-ice)
 3. MPR News (Feb 6, 2026): [DHS: Kidney recipient has access to needed medications](https://www.mprnews.org/story/2026/02/06/transplant-recipient-arrested-by-federal-agents-in-rochester-needs-medicine-live)
+4. KTTC (Feb 7, 2026): [ICE detains transplant recipient without medication, agency says he now has access](https://www.kttc.com/2026/02/07/ice-detains-transplant-recipient-without-medication-agency-says-he-now-has-access/)
+5. MPR News (Feb 8, 2026): [Kidney recipient detained by ICE in Rochester still hasn't received life-saving medications](https://www.mprnews.org/story/2026/02/08/kidney-recipient-detained-by-ice-in-rochester-still-hasnt-received-lifesaving-medications)
+6. People Magazine (Feb 8, 2026): [Man, detained by ICE while out delivering groceries, was reportedly denied medication following a kidney transplant](https://ca.news.yahoo.com/man-detained-ice-while-delivering-192004071.html)
+7. MPR News (Feb 9, 2026): [Kidney transplant recipient in ICE custody is finally getting meds, wife and attorney say](https://www.mprnews.org/story/2026/02/09/kidney-transplant-recipient-in-ice-custody-is-finally-getting-meds-wife-and-attorney-say)
+8. The Daily Beast (Feb 9, 2026): [ICE arrests transplant patient and cuts off life-saving meds](https://www.thedailybeast.com/ice-arrests-transplant-patient-and-cuts-off-life-saving-meds/)
 
 ## Affected Individual(s)
 - **Name:** Javier Abreu
