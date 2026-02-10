@@ -15,12 +15,11 @@ last_updated: 2026-02-09T21:32:32
 # Citing Safety Concerns, Ecuadorian Family Self-Deports Despite Pending Asylum Case
 
 ## Summary
-Carlos Albuja and his family loaded everything they owned into a friend's minivan at 2:45 a.m. on January 30, 2026, and left for Minneapolis-St. Paul International Airport with five one-way tickets to Ecuador. The family had pending asylum cases, had no criminal record, and had fled gang violence and extortion in Ecuador. A turning point came when Albuja was blocked by federal agents near the scene of Renee Good's shooting while driving to work. He purchased his own tickets without using the government's CBP Home app. KSTP's 5 INVESTIGATES traveled with the family from Minneapolis to the airport and documented the departure.
+Carlos Albuja, his wife Esther, and their daughters packed everything they owned from their basement apartment in Minneapolis into a friend's minivan at 2:45 a.m. on January 30, 2026, and left for Minneapolis-St. Paul International Airport with five one-way tickets to Ecuador. The family had no criminal record, had pending asylum cases, and had fled gang violence and extortion in their hometown of Guayaquil. A turning point came when Albuja was blocked by federal agents near the scene of Renee Good's shooting while driving to work in south Minneapolis — an encounter he recorded on his cell phone that lasted 25 minutes. Albuja tried to use the government's CBP Home app but said he became afraid they would separate him from his wife and daughters. He purchased his own tickets instead. They left in the middle of the night to improve their chances of not being stopped. KSTP's 5 INVESTIGATES traveled with the family from Minneapolis to the airport and documented the departure.
 
 ## Sources
 1. KSTP 5 INVESTIGATES (Feb 9, 2026): [As more immigrants choose self-deportation, questions about government incentives remain](https://kstp.com/kstp-news/top-news/immigrants-choose-self-deportation-questions-about-us-government-incentives-remain/)
 2. Hoodline (Feb 2026): [Minnesota midnight exit: Minneapolis family takes federal deal to fly back to Ecuador](https://hoodline.com/2026/02/minnesota-midnight-exit-minneapolis-family-takes-federal-deal-to-fly-back-to-ecuador/)
-3. Star Tribune (Feb 3, 2026): [Tired of living in fear, this family decided to deport themselves](https://www.startribune.com/tired-of-living-in-fear-this-family-decided-to-deport-themselves/601569249)
 
 ## Affected Individual(s)
 - **Name:** Carlos Albuja
@@ -47,6 +46,10 @@ Albuja purchased his own plane tickets without using the government's CBP Home a
 **Carlos Albuja:**
 > "I have mixed feelings because I'm leaving this great country. I will keep many people here in Minnesota in my heart forever."
 
+> "I can tell you that I tried to communicate with them, to talk to them, send an email. But I became afraid again that they were going to take me away from my wife and daughters."
+
+> "This is very painful for everyone this is happening to… but we're here. My family, my wife, my daughters give me strength."
+
 > "I love you, Minnesota."
 
 **Esther (wife):**
@@ -61,7 +64,8 @@ However, immigration attorneys describe the program as "hit or miss." Lisa Salaz
 When KSTP's 5 INVESTIGATES asked DHS for state-by-state data on app usage, the agency said it did not have "any specifics for Minnesota." DHS has not responded with a total number of people who have received exit bonuses.
 
 ## Related Incidents
+- [Ecuadorian Roofer and Family Self-Deport After Five Years](#2026-01-23-segundo-family-self-deports-ecuador) — Segundo's family departed one week earlier under similar circumstances
 - [Renee Good Shot and Killed by ICE Agent](#2026-01-07-renee-good-shooting) — Albuja was near the scene; a turning point in his decision to leave
 
 ## Editorial Assessment
-**HIGH** — KSTP 5 INVESTIGATES (Tier 1 local news) traveled with the family and documented the departure on camera. Named family members on record. Star Tribune independently reported on the self-deportation trend with a different family. Named immigration attorney provides context. DHS on record.
+**HIGH** — KSTP 5 INVESTIGATES (Tier 1 local news) traveled with the family and documented the departure on camera. Named family members on record. Named immigration attorney provides context. DHS on record.

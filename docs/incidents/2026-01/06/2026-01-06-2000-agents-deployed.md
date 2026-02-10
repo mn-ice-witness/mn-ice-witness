@@ -35,3 +35,4 @@ The Department of Homeland Security announced a massive escalation of Operation 
 - 150 arrests reported on the first day of the escalation alone
 - Governor Tim Walz characterized the surge as "a war that's being waged against Minnesota"
 - Operations expanded from the Twin Cities metro to all of Minnesota
+- A [leaked CBP inventory](/entry/2026-02-04-dhs-munitions-inventory-35000) later revealed that 35,765 munitions — primarily crowd-control weapons — were stockpiled on-site alongside the personnel deployment

@@ -801,13 +801,18 @@
       "lastUpdated": "2026-02-08T22:53:33",
       "mediaCount": 0,
       "notable": false,
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
+      "hasLocalMedia": true,
+      "localMediaType": "image",
+      "localMediaPath": "media/2026-01/13/2026-01-13-alex-vasquez-willmar-citizen.jpg",
       "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
+      "localMediaFiles": [
+        {
+          "type": "image",
+          "path": "media/2026-01/13/2026-01-13-alex-vasquez-willmar-citizen.jpg"
+        }
+      ],
+      "aspectRatio": 0.9785407725321889,
+      "mediaVersion": 1770697591
     },
     {
       "filePath": "incidents/2026-01/12/2026-01-12-irma-escoto-citizen-check.md",

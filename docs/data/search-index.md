@@ -16,7 +16,7 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (244 incidents)
+## CURRENT (245 incidents)
 
 Published incidents visible on the main site.
 
@@ -78,6 +78,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/23/2026-01-23-bowlocity-us-citizen-detained.md | 2026-01-23 | Rochester | citizens | U.S. Citizen Detained Outside Rochester Bowling Alley, Released After Rep. Kim Hicks Intervenes
 - incidents/2026-01/23/2026-01-23-bovino-experts-dealing-children.md | 2026-01-23 | Minneapolis | response | Bovino: "We Are Experts in Dealing With Children"
 - incidents/2026-01/23/2026-01-23-oak-terraces-obstruction-arrest.md | 2026-01-23 | Rochester | observers | Woman Arrested at Oak Terraces After Challenging ICE Presence on Private Property
+- incidents/2026-01/23/2026-01-23-segundo-family-self-deports-ecuador.md | 2026-01-23 | Minneapolis | immigrants | Ecuadorian Roofer, Wife, and 14-Year-Old Son Self-Deport After Five Years in Minnesota; Leave Three Adult Children Behind
 - incidents/2026-01/23/2026-01-23-tique-marin-church-volunteer-burnsville.md | 2026-01-23 | Minneapolis | immigrants | Church Food Distribution Volunteer Detained at Routine Immigration Check-In
 - incidents/2026-01/23/2026-01-23-mirkkovitch-plymouth-gun-brandished.md | 2026-01-23 | Plymouth | observers | Plainclothes Federal Agent Brandishes Gun at Resident Recording ICE Vehicles at Plymouth Hotel
 - incidents/2026-01/23/2026-01-23-50k-march.md | 2026-01-23 | Minneapolis | background | 50,000 March in Subzero Temperatures in Largest Minnesota Protest

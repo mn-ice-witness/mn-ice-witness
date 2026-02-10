@@ -60,7 +60,7 @@ title: 2,000 Additional Officers Deployed
 incident: 2026-01-06-2000-agents-deployed
 source:
 ---
-DHS deploys 2,000 additional immigration officers to the Twin Cities and extends operations across all of Minnesota — more federal agents than any domestic law enforcement operation since the Civil Rights era.
+DHS deploys 2,000 additional immigration officers to the Twin Cities and extends operations across all of Minnesota — more federal agents than any domestic law enforcement operation since the Civil Rights era. A [leaked CBP inventory](/entry/2026-02-04-dhs-munitions-inventory-35000) later revealed 35,765 munitions stockpiled on-site, the majority for crowd control.
 
 ---
 date: 2026-01-06
