@@ -9,7 +9,7 @@ affected_individual_citizenship: undocumented
 injuries: none
 trustworthiness: high
 created: 2026-01-29T21:13:04
-last_updated: 2026-01-29T21:13:04
+last_updated: 2026-02-09T21:12:05
 ---
 
 # Food Shelf Volunteer Thao Xiong Detained at Hallie Q. Brown Community Center
@@ -21,7 +21,8 @@ Thao Xiong, a Hmong community activist and food shelf volunteer, was detained by
 ## Sources
 
 1. Yahoo News (Jan 29, 2026): [St. Paul activist Thao Xiong taken by ICE at Hallie Q. Brown Center](https://www.yahoo.com/news/articles/st-paul-activist-thao-xiong-005200644.html)
-2. Twin Cities Pioneer Press (Jan 28, 2026): [St. Paul activist Thao Xiong taken by ICE at Hallie Q. Brown Center](https://www.twincities.com/2026/01/28/st-paul-activist-thao-xiong-taken-by-ice-at-hallie-q-brown-center/) 
+2. Twin Cities Pioneer Press (Jan 28, 2026): [St. Paul activist Thao Xiong taken by ICE at Hallie Q. Brown Center](https://www.twincities.com/2026/01/28/st-paul-activist-thao-xiong-taken-by-ice-at-hallie-q-brown-center/)
+3. Hoodline (Jan 2026): [ICE snatches St. Paul activist outside Hallie Q. Brown Center](https://hoodline.com/2026/01/ice-snatches-st-paul-activist-outside-hallie-q-brown-center/)
 ## Affected Individual(s)
 
 - **Name:** Thao Xiong

@@ -9,7 +9,7 @@ affected_individual_citizenship: legal-resident
 injuries: minor
 trustworthiness: medium
 created: 2026-02-06T12:50:46
-last_updated: 2026-02-06T12:50:46
+last_updated: 2026-02-09T21:12:05
 ---
 
 # Green Card Holder Roughed Up by Agents, Held Over 10 Hours, Offered Money to Identify Immigrants
@@ -20,6 +20,7 @@ Dennis Hernandez Ramirez, a 32-year-old Green Card holder who has lived in the U
 ## Sources
 1. Sahan Journal (Jan 14, 2026): [U.S. citizens in Minnesota share disturbing encounters with ICE agents](https://sahanjournal.com/immigration/ice-racial-profiling-minnesota-citizens-detained/)
 2. Star Tribune (Jan 31, 2026): ['No humanity': Detainees describe conditions inside Whipple Federal Building](https://www.startribune.com/no-humanity-detainees-describe-conditions-inside-whipple-federal-building/601566788)
+3. YouTube Video (Jan 2026): [Video of arrest](https://www.youtube.com/watch?v=ofwkjyEEcW4)
 
 ## Affected Individual(s)
 - **Name:** Dennis Hernandez Ramirez

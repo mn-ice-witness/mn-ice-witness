@@ -9,7 +9,7 @@ affected_individual_citizenship: unknown
 injuries: none
 trustworthiness: high
 created: 2026-01-28T21:20:51
-last_updated: 2026-02-02T20:33:00
+last_updated: 2026-02-09T21:12:05
 ---
 
 # Four Restaurant Workers Detained at El Potro in Brainerd
@@ -26,6 +26,7 @@ Four employees were detained by Homeland Security Investigation agents at El Pot
 3. Brainerd Dispatch (Jan 28, 2026): [Dozens gather at Brainerd restaurant for vigil of support](https://www.brainerddispatch.com/news/local/dozens-gather-at-brainerd-restaurant-for-vigil-of-support-for-workers-detained-by-federal-agents)
 4. KAXE (Jan 28, 2026): [ICE arrests at Brainerd restaurant prompts vigil with faith leaders](https://www.kaxe.org/local-news/2026-01-28/ice-arrests-brainerd-restaurant-support-faith-leaders-community-members)
 5. KAXE (Jan 30, 2026): [Two arraigned in Brainerd restaurant ICE arrests](https://www.kaxe.org/local-news/2026-01-30/ice-arrests-brainerd-restaurant-court-appearances)
+6. Star Tribune (Feb 2026): [In rare move, this northern Minnesota county is working with the feds to make arrests amid ICE surge](https://www.startribune.com/in-rare-move-this-northern-minnesota-county-is-working-with-the-feds-to-make-arrests-amid-ice-surge/601575555)
 
 ## Affected Individual(s)
 - **Francisco Javier Montoya-Barboza**, 35, Mexican national - charged with improper entry (misdemeanor), pleaded not guilty
@@ -45,7 +46,13 @@ Four employees were detained by Homeland Security Investigation agents at El Pot
 ### Crow Wing County Sheriff's Office
 Chief Deputy Andy Bradley: "We had two people with felony arrest warrants in the building, so we went in with Homeland Security and did that."
 
+Two sheriff deputies were present during the operation.
+
 The sheriff's office press release stated deputies "were asked to assist a Homeland Security Investigation team with executing two federal arrest warrants" but provided "no clarity about why four people were arrested, if there were just two arrest warrants."
+
+**Note:** Crow Wing County Sheriff Scott Klang told the Minnesota Star Tribune in October that, as part of the county's 287(g) agreement with ICE signed the previous March, his deputies were "not going to be going into meatpacking plants or Mexican restaurants or anything like that." Two deputies went to El Potro Mexican Restaurant on Jan. 26.
+
+El Potro's owner told the Star Tribune that his restaurant has remained closed and the employees had worked there for less than a year. He declined to comment further.
 
 ### ICE/DHS
 ICE did not respond to requests for comment.

@@ -9,7 +9,7 @@ affected_individual_citizenship: us-citizen
 injuries: minor
 trustworthiness: high
 created: 2026-01-16T22:28:22
-last_updated: 2026-01-19T23:30:00
+last_updated: 2026-02-09T21:12:05
 ---
 
 # U.S. Citizen Born in Minnesota Detained by ICE for Two Days
@@ -31,6 +31,8 @@ Nasra Mohamed Ahmed, a 23-year-old U.S. citizen born in Hennepin County, was det
 8. The Mirror US (Jan 18, 2026): [US citizen scarred and bruised after she was shoved to the ground and detained by ICE for 2 days](https://www.themirror.com/news/us-news/citizen-scarred-bruised-detained-ice-1626179)
 9. Complex (Jan 18, 2026): [Woman Injured, Detained, and Released by ICE Despite Being U.S. Citizen](https://www.complex.com/life/a/backwoodsaltar/us-citizen-st-paul-woman-nasra-ahmed-detained-by-ice)
 10. Inquisitr (Jan 18, 2026): [ICE Agents Pulled 23-Year-Old in a Surprise Raid, Then Left Her Scarred and Bruised](https://www.inquisitr.com/ice-agents-pulled-23-year-old-in-a-surprise-raid-then-left-her-scarred-and-bruised-they-had-a-padlock-on-me)
+11. Sahan Journal (Jan 2026): [ICE citizen detained: St. Paul woman](https://sahanjournal.com/immigration/ice-citizen-detained-st-paul-woman/)
+12. CBS Minnesota (Jan 2026): [Woman, American citizen, describes being held by ICE for two days](https://www.cbsnews.com/minnesota/news/woman-american-citizen-describes-being-held-by-ice-for-two-days/)
 
 ## Affected Individual(s)
 - **Name:** Nasra Mohamed Ahmed
@@ -80,7 +82,7 @@ She also described the initial encounter: agents allegedly called her a racial s
 In videos recorded by neighbors, a dozen masked agents can be seen surrounding her, forcing her to the ground and then into a car.
 
 ## Medical Treatment
-During detention, Ahmed suffered a stress-induced seizure. She was transported to the hospital in arm and leg restraints, where she received an MRI and stayed overnight.
+During detention, Ahmed suffered a concussion and a stress-induced seizure. She was transported to the hospital in arm and leg restraints, where she received an MRI and stayed overnight. According to her press conference as reported by Sahan Journal, she also suffered a concussion from the initial encounter, and agents called her a racial slur as they handcuffed her.
 
 ## Release and Aftermath
 Nasra Ahmed was released to her family around 7:45 p.m. Friday (January 17, 2026) without charges after more than two days in detention.

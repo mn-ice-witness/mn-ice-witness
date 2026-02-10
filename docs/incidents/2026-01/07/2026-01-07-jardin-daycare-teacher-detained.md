@@ -9,7 +9,7 @@ affected_individual_citizenship: legal-resident
 injuries: none
 trustworthiness: medium
 created: 2026-01-25T21:18:19
-last_updated: 2026-01-25T21:18:19
+last_updated: 2026-02-09T21:12:05
 ---
 
 # Daycare Teacher with Work Permit Detained Outside Minneapolis Preschool
@@ -20,6 +20,7 @@ A teacher at Jardin Spanish Immersion Academy was detained by ICE agents in tact
 ## Sources
 1. Star Tribune (Jan 16, 2026): [Minnesota daycares say ICE is targeting its workers](https://www.startribune.com/minnesota-daycares-say-ice-is-targeting-its-workers/601560204)
 2. KARE 11 (Jan 10, 2026): [Local child care centers report ICE detentions, federal visits amid rising concerns](https://www.kare11.com/article/news/politics/immigration-news/local-child-care-centers-report-ice-detentions-federal-visits/89-2dc1ce9e-8b8a-4964-81c0-b52715e98b8e)
+3. Court Filing (Jan 2026): [Declaration of Crisareli Castillo, Hussen v. Noem](https://www.justsecurity.org/pdfs/mn-ice-enforcement/4%20CRISARELI%20CASTILLO%20.pdf)
 
 ## Affected Individual(s)
 - **Occupation:** Teacher at Jardin Spanish Immersion Academy

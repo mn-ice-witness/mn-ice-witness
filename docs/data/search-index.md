@@ -195,7 +195,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/08/2026-01-08-dhs-response-radical-rhetoric.md | 2026-01-08 | Minneapolis | response | DHS Response: "Radical Rhetoric" From "Sanctuary Politicians" Causes 1,300% Increase in Assaults
 - incidents/2026-01/08/2026-01-08-rochester-gates-complex.md | 2026-01-08 | Rochester | immigrants | Multiple ICE Arrests in Rochester; Activist Documents Agent Using Hammer on Car Window
 - incidents/2026-01/08/2026-01-08-whipple-tear-gas-renee-good-protest.md | 2026-01-08 | Minneapolis | observers | Border Patrol Chief Bovino and Agents Tear Gas Peaceful Protesters at Whipple Building Morning After Renee Good's Killing
-- incidents/2026-01/08/2026-01-08-thi-dua-vang-st-paul.md | 2026-01-08 | St. Paul | citizens | Christian Refugee Detained Despite Legal Status, ICE Keeps Returning to Home After Release
+- incidents/2026-01/08/2026-01-08-thi-dua-vang-st-paul.md | 2026-01-08 | St. Paul | citizens | Christian Refugee Detained, Shipped to Texas, and Dumped in Houston With No Way Home
 - incidents/2026-01/08/2026-01-08-hennepin-healthcare-i9-subpoena.md | 2026-01-08 | Minneapolis | schools-hospitals | DHS Subpoenas Hennepin Healthcare Employee Records for 7,000+ Workers
 - incidents/2026-01/08/2026-01-08-jesse-ventura-roosevelt.md | 2026-01-08 | Minneapolis | schools-hospitals | Jesse Ventura Visits Roosevelt High School, Condemns ICE Actions
 - incidents/2026-01/08/2026-01-08-ice-gun-pointed-at-protester.md | 2026-01-08 | Minneapolis | observers | ICE Agent Points Gun at Protester's Face at Point-Blank Range

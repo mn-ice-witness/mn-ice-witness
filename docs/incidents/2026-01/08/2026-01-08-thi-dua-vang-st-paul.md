@@ -9,10 +9,10 @@ affected_individual_citizenship: asylum-seeker
 injuries: none
 trustworthiness: medium
 created: 2026-02-03T14:02:17
-last_updated: 2026-02-07T14:50:30
+last_updated: 2026-02-09T21:12:05
 ---
 
-# Christian Refugee Detained Despite Legal Status, ICE Keeps Returning to Home After Release
+# Christian Refugee Detained, Shipped to Texas, and Dumped in Houston With No Way Home
 
 ## Updates
 - **Feb 7** - [MPR News reports](https://www.mprnews.org/story/2026/02/07/i-felt-hopeless-hmong-refugee-stranded-in-texas-after-release-from-ice-detention) Vang was forced outside after release from the Houston processing center. Agents refused to let her wait inside for her family: "They forced me outside and told me they didn't care if I lived or died." ICE had not returned her documents (Social Security card, state ID), preventing her from flying home.
@@ -28,6 +28,8 @@ Thi Dua Vang, a Hmong refugee who fled Vietnam after decades of persecution for 
 1. KARE 11 (Feb 2, 2026): [After ICE release St. Paul woman, she says agents keep returning to her home](https://www.kare11.com/article/news/local/ice-in-minnesota/after-ice-release-st-paul-woman-she-says-agents-keep-returning-to-her-home/89-17f46bf2-9d68-4988-86c6-ba5109ef510f)
 2. Sahan Journal (Feb 3, 2026): [ICE detainees stranded after release](https://sahanjournal.com/immigration/ice-detainees-stranded-after-release/)
 3. MPR News (Feb 7, 2026): ['I felt hopeless': Hmong refugee stranded in Texas after release from ICE detention](https://www.mprnews.org/story/2026/02/07/i-felt-hopeless-hmong-refugee-stranded-in-texas-after-release-from-ice-detention)
+4. GoFundMe (2026): [Standing with Thi Dua for Justice and Healing](https://www.gofundme.com/f/standing-with-thi-dua-for-justice-and-healing)
+5. Daily Kos (Feb 8, 2026): [ICE is cracking the Republican stranglehold on Evangelical Christians](https://www.dailykos.com/stories/2026/2/8/2367770/-ICE-is-cracking-the-Republican-stranglehold-on-Evangelical-Christians)
 
 ## Affected Individual(s)
 
@@ -64,9 +66,11 @@ Thi Dua Vang, a Hmong refugee who fled Vietnam after decades of persecution for 
 ## Impact
 
 - Vang lost her job due to the detention.
+- Family had to hire legal counsel to fight for her freedom, placing a heavy financial burden on them.
 - Family's youngest son now attends school online because they do not feel safe.
 - Daily tasks like grocery shopping have come to a standstill—community members now drop off food for the family.
 - Family afraid to go outside.
+- Family is now trying to rebuild emotionally, financially, and physically.
 
 ## Context: Operation PARRIS
 

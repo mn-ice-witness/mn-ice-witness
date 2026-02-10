@@ -9,7 +9,7 @@ affected_individual_citizenship: us-citizen
 injuries: minor
 trustworthiness: high
 created: 2026-01-14T20:05:01
-last_updated: 2026-01-14T20:05:01
+last_updated: 2026-02-09T21:12:05
 ---
 
 # U.S. Citizen Detained by ICE in Brooklyn Park, Told to "Prove" Citizenship
@@ -20,6 +20,7 @@ Rogelio Jimenez, a U.S. citizen, was forcibly removed from his car by masked ICE
 ## Sources
 1. CBS Video (Jan 13, 2026): [During Minneapolis operation, ICE has repeatedly arrested U.S. citizens](https://www.cbsnews.com/minnesota/video/during-minneapolis-operation-ice-has-repeatedly-arrested-u-s-citizens/)
 2. CBS News (Jan 13, 2026): [U.S. citizens recount being detained by ICE during Minnesota operation](https://www.cbsnews.com/minnesota/news/us-citizens-arrested-by-ice-minneapolis/)
+3. CBS Minnesota (Jan 2026): [Woman, American citizen, describes being held by ICE for two days](https://www.cbsnews.com/minnesota/news/woman-american-citizen-describes-being-held-by-ice-for-two-days/)
 
 ## Affected Individual(s)
 - **Name:** Rogelio Jimenez

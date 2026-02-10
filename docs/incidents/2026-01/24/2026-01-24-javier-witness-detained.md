@@ -9,7 +9,7 @@ affected_individual_citizenship: us-citizen
 injuries: none
 trustworthiness: high
 created: 2026-01-26T11:42:27
-last_updated: 2026-01-26T11:42:27
+last_updated: 2026-02-09T21:12:05
 ---
 
 # Minneapolis Man Detained for Hours After Witnessing Pretti Shooting
@@ -54,6 +54,8 @@ Federal court records show no formal charges have been filed against Javier.
 
 ## Context
 New affidavits filed in court detail how witnesses were arrested immediately after the shooting of Alex Pretti. Javier was among dozens of people agents referred to as "USCs" — United States citizens in custody.
+
+A face painter who was also present at the scene has stated that agents appeared to be specifically looking for her, suggesting the detentions of observers may have been targeted rather than incidental.
 
 This detention is part of a pattern documented by the ACLU of Minnesota, which filed a lawsuit (Tincher v. Noem) on behalf of six Minnesotans who allege ICE agents detained or arrested them for observing or recording enforcement actions.
 

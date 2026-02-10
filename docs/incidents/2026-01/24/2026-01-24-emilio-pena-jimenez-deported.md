@@ -9,7 +9,7 @@ affected_individual_citizenship: undocumented
 injuries: none
 trustworthiness: high
 created: 2026-02-06T10:31:55
-last_updated: 2026-02-06T10:31:55
+last_updated: 2026-02-09T21:12:05
 ---
 
 # Lakeville Business Owner Deported to Mexico Despite Two Court Orders
@@ -22,6 +22,7 @@ Emilio Pena Jimenez, a tile installation business owner who has lived in the U.S
 
 1. Star Tribune (Feb 5, 2026): [Despite judge's order, ICE sent an immigrant to Mexico instead of back to Minnesota](https://www.startribune.com/judge-orders-detainee-returned-minnesota-sent-to-mexico-ice/601577033)
 2. Spokesman-Review (Feb 5, 2026): [Despite judge's order, ICE sent an immigrant to Mexico instead of back to Minnesota](https://www.spokesman.com/stories/2026/feb/05/despite-judges-order-ice-sent-an-immigrant-to-mexi/)
+3. Hoodline (Feb 2026): [Judge ordered Minnesota man freed, ICE left him across the border in Mexico](https://hoodline.com/2026/02/judge-ordered-minnesota-man-freed-ice-left-him-across-the-border-in-mexico/)
 
 ## Affected Individual(s)
 

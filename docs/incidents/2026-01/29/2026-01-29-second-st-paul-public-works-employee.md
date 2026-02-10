@@ -9,7 +9,7 @@ affected_individual_citizenship: legal-resident
 injuries: none
 trustworthiness: high
 created: 2026-01-30T14:27:01
-last_updated: 2026-01-30T14:27:01
+last_updated: 2026-02-09T21:12:05
 ---
 
 # Second St. Paul Public Works Employee with Legal Work Status Detained
@@ -20,6 +20,7 @@ A second St. Paul Public Works employee was detained by ICE during the week of J
 ## Sources
 1. Bring Me The News (Jan 29, 2026): [List of ICE raids, major updates in Minnesota on Thursday, Jan. 29](https://bringmethenews.com/minnesota-news/list-of-ice-raids-major-updates-in-minnesota-on-thursday-jan-29)
 2. KARE 11 (Jan 29, 2026): [St. Paul Department of Public Works employee detained by ICE](https://www.kare11.com/article/news/local/ice-in-minnesota/st-paul-department-of-public-works-employee-detained-ice/89-cbac1979-6c38-46d5-9adb-0cb62b2692e6)
+3. Court Filing (Jan 2026): [Timothy Sexton Declaration, Hussen v. Noem](https://storage.courtlistener.com/recap/gov.uscourts.mnd.230268/gov.uscourts.mnd.230268.13.0.pdf)
 
 ## Related Incidents
 - [St. Paul Snowplow Driver Detained (Jan 14)](#2026-01-14-st-paul-public-works-snowplow-driver)
@@ -38,6 +39,10 @@ A second St. Paul Public Works employee was detained by ICE during the week of J
 > "He was in the U.S. legally" and "had full legal right to work."
 
 Kershaw stated the worker was detained "based purely on their country of origin."
+
+## Context: Racial Profiling of City Workers
+
+A court declaration filed by Timothy Sexton, Director of Minneapolis Public Works, in the Hussen v. Noem lawsuit documents that on January 6, ICE agents asked nonwhite city workers for their citizenship status and to provide ID, while not asking white members of the same crew for identification.
 
 ## Editorial Assessment
 **HIGH** - Multiple independent news sources (BMTN, KARE 11, Fox 9). Direct statements from named city official (Public Works Director Sean Kershaw). Official confirmation that the worker had valid federal work authorization. This is the second Public Works employee detained under similar circumstances.

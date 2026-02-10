@@ -9,7 +9,7 @@ affected_individual_citizenship: us-citizen
 injuries: none
 trustworthiness: high
 created: 2026-01-18T01:02:13
-last_updated: 2026-01-18T01:02:13
+last_updated: 2026-02-09T21:12:05
 ---
 
 # U.S. Citizen Detained Because of "Accent"
@@ -21,6 +21,8 @@ Ramon Menera, a U.S. citizen, was detained by Border Patrol agents outside his h
 1. CNN Video (Jan 17, 2026): [Border Patrol agent questions if man is US citizen 'because of your accent'](https://www.cnn.com/2026/01/17/us/video/border-patrol-detain-citizen-accent-vrtc)
 2. Threads Video (Jan 15, 2026): [Video of Ramon Menera detention](https://www.threads.com/@cnn/post/DTn1FDrCmbM/)
 3. TikTok Video (Jan 15, 2026): [Video coverage](https://www.tiktok.com/@cnn/video/7596362207516953911)
+4. Star Tribune (Jan 2026): [Columbia Heights resident, U.S. citizen, detained for accent](https://www.startribune.com/columbia-heights-resident-us-citizen-detained-for-accent/601568069)
+5. KPTV (Jan 18, 2026): [Border Patrol agent detains U.S. citizen, tells him it's because 'your accent'](https://www.kptv.com/2026/01/18/border-patrol-agent-detains-us-citizen-tells-him-its-because-your-accent/)
 
 ## Affected Individual(s)
 - **Name:** Ramon Menera

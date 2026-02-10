@@ -9,7 +9,7 @@ affected_individual_citizenship: asylum-seeker
 injuries: serious
 trustworthiness: medium
 created: 2026-01-31T08:29:19
-last_updated: 2026-01-31T08:29:19
+last_updated: 2026-02-09T21:12:05
 ---
 
 # Asylum Seeker Hospitalized After Wife Says ICE Rammed His Car Into Telephone Pole
@@ -19,6 +19,8 @@ Christian Salamanca, a Colombian asylum seeker with a valid visa and work permit
 
 ## Sources
 1. KARE 11 (Jan 2026): [Wife says ICE chase led to crash that sent St. Paul man to hospital](https://www.kare11.com/article/news/local/ice-in-minnesota/ice-chase-crash-st-paul-minnesota/89-3f7f1ddb-27cd-4809-8b74-4c6819746101)
+2. Hoodline (Jan 2026): [St. Paul wife says ICE chase sent husband into pole outside rec center](https://hoodline.com/2026/01/st-paul-wife-says-ice-chase-sent-husband-into-pole-outside-rec-center/)
+3. The New Yorker (Jan 2026): [A Minneapolis Winter Like No Other](https://www.newyorker.com/culture/photo-booth/a-minneapolis-winter-like-no-other) - Photograph of Salamanca's wrecked car
 
 ## Affected Individual(s)
 - **Name:** Christian Salamanca

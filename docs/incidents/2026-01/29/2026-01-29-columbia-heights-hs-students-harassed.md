@@ -9,7 +9,7 @@ affected_individual_citizenship: unknown
 injuries: none
 trustworthiness: high
 created: 2026-01-30T22:14:31
-last_updated: 2026-01-30T22:14:31
+last_updated: 2026-02-09T21:12:05
 ---
 
 # Columbia Heights High School Students Harassed by ICE Agents
@@ -19,6 +19,8 @@ Three Columbia Heights High School students had their cars surrounded by ICE veh
 
 ## Sources
 1. WBUR/NPR Here & Now (Jan 29, 2026): [ICE Minnesota Schools - Superintendent Stenvik interview](https://www.wbur.org/hereandnow/2026/01/29/ice-minnesota-schools)
+2. KARE 11 (Feb 2, 2026): [Columbia Heights Public Schools closes due to credible threat](https://www.kare11.com/article/news/local/ice-in-minnesota/columbia-heights-public-schools-closes-due-to-credible-threat/89-972233be-ac10-445e-935f-a342349ffbdc)
+3. The New Yorker (Jan 31, 2026): [ICE's Assault on a Minnesota School District](https://www.newyorker.com/news/the-lede/ices-assault-on-a-minnesota-school-district)
 
 ## Related Incidents
 
@@ -47,9 +49,13 @@ Three high school students in total had their vehicles surrounded by ICE while d
 
 Columbia Heights schools have been heavily impacted by ICE activity:
 - **Jan 20:** Four students detained, including 5-year-old Liam Conejo Ramos, while walking home from Valley View Elementary
+- **Jan 24:** Three ICE vehicles descended upon the Columbia Heights high school during a volleyball tournament. "So, apparently, we can't just have a good old volleyball tournament without harassment," Superintendent Stenvik said.
 - **Jan 29:** Mother of two Valley View students detained during immigration check-in; principal drove children to Whipple Building
 - **Jan 29:** Two more children from Valley View Elementary reported in ICE custody
 - At least 6 Columbia Heights students now confirmed detained or in ICE custody
+- **Feb 2:** A bomb threat closed Columbia Heights schools on Monday, February 2, further escalating anxiety for students and families already under stress from ongoing ICE presence.
+
+One parent described the daily fear: "When I come to school in the morning, I take a lap around my block with my truck first to see who is there, sitting there. When we go to dismiss kids, we look up and down the block."
 
 ## Editorial Assessment
 **HIGH** - Named school official (Superintendent Stenvik), NPR national interview, specific details about three students and ICE positioning around schools. Part of documented pattern of ICE activity targeting Columbia Heights school community.

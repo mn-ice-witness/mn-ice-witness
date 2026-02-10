@@ -9,7 +9,7 @@ affected_individual_citizenship: us-citizen
 injuries: minor
 trustworthiness: high
 created: 2026-01-14T08:01:12
-last_updated: 2026-01-14T08:01:12
+last_updated: 2026-02-09T21:12:05
 ---
 
 # Musicians and Fans Pepper Sprayed Outside NE Minneapolis Venue
@@ -19,6 +19,7 @@ Musicians and concert attendees were pepper-sprayed and hit with batons by ICE a
 
 ## Sources
 1. Star Tribune (Jan 12, 2026): [Music fans say ICE agents pepper-sprayed them outside all-ages Minneapolis rock venue](https://www.startribune.com/fans-scuffle-ice-agents-minneapolis-all-ages-venue-pilllar-forum-northeast-central-pepper-spray/601562747)
+2. Bring Me The News (Jan 12, 2026): [Concert canceled after attendees confront ICE agents](https://bringmethenews.com/minnesota-lifestyle/concert-canceled-after-attendees-confront-ice-agents)
 
 ## Affected Individual(s)
 - **Names:** Multiple unnamed musicians and concert-goers

@@ -9,7 +9,7 @@ affected_individual_citizenship: us-citizen
 injuries: fatal
 trustworthiness: high
 created: 2026-01-24T13:40:15
-last_updated: 2026-02-02T21:10:32
+last_updated: 2026-02-09T21:12:05
 ---
 
 # Alex Pretti Shot and Killed by Federal Agents
@@ -86,6 +86,7 @@ Federal agents fatally shot Alex Jeffrey Pretti, a 37-year-old U.S. citizen, lic
 - **Jan 24, ~9:05 AM** - Federal agents conducting a targeted operation encounter Pretti near 26th Street and Nicollet Avenue (near Glam Doll Donuts).
 - **During encounter** - Video shows multiple agents wrestling Pretti to the ground.
 - **Shooting** - Agent fires multiple shots into Pretti's chest while agents have him on the ground.
+- **Medical care blocked** - A doctor on the scene attempted to provide medical care but ICE agents initially refused to let them through, repeatedly asking for a physician's license. Per the doctor's affidavit: "At first, the ICE agents wouldn't let me through. They repeatedly asked me for my physician's license, which I obviously didn't have. But none of the ICE agents who were near the victim were performing CPR."
 - **Aftermath** - Pretti pronounced dead; over 100 protesters assemble at scene.
 - **Later** - Federal agents deploy tear gas and stun grenades against protesters; two protesters arrested.
 - **Later** - Three FBI armored vehicles arrive at scene; federal officials block local police from accessing the scene.
