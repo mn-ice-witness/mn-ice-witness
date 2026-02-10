@@ -583,15 +583,15 @@
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/16/2026-01-16-two-year-old-parents-detained-dopa.mp4",
-      "localMediaOgPath": "media/2026-01/16/2026-01-16-two-year-old-parents-detained-dopa-og-2s-1770696034.jpg",
+      "localMediaOgPath": "media/2026-01/16/2026-01-16-two-year-old-parents-detained-dopa-og-2s-1770696649.jpg",
       "localMediaFiles": [
         {
           "type": "video",
           "path": "media/2026-01/16/2026-01-16-two-year-old-parents-detained-dopa.mp4"
         }
       ],
-      "aspectRatio": 1.8027777777777778,
-      "mediaVersion": 1770696034
+      "aspectRatio": 1.77007299270073,
+      "mediaVersion": 1770696649
     },
     {
       "filePath": "incidents/2026-01/16/2026-01-16-newsguild-member-el-paso.md",
