@@ -4,7 +4,7 @@
 
 <p class="about-intro">If you find this site useful, please help share. To report an incident (must be sourced by a reputable media outlet), submit a correction, or share additional media for a listed incident, contact us at <a href="mailto:mnicewitness@gmail.com">mnicewitness@gmail.com</a> — please include compelling social media links as it's often hard to track those down.</p>
 
-<p class="about-intro"><span class="about-last-updated">Last updated: February 9, 2026</span></p>
+<p class="about-intro"><span class="about-last-updated">Last updated: February 10, 2026</span></p>
 
 <p class="about-social"><span class="about-follow-label">Follow Us:</span>
 <a href="https://www.facebook.com/profile.php?id=61586835122502" target="_blank" title="Follow on Facebook"><svg width="22" height="22"><use href="#icon-facebook"/></svg></a>
@@ -13,7 +13,7 @@
 <a href="https://instagram.com/mn_ice_witness" target="_blank" title="Follow on Instagram (@mn_ice_witness)"><svg width="17" height="17"><use href="#icon-instagram"/></svg></a>
 <a href="https://threads.net/@mn_ice_witness" target="_blank" title="Follow on Threads (@mn_ice_witness)"><svg width="17" height="17"><use href="#icon-threads"/></svg></a>
 -->
-<a href="https://www.threads.net/@mnicewitness" target="_blank" title="Follow on Threads (@mnicewitness)"><svg width="22" height="22"><use href="#icon-threads"/></svg></a>
+<!-- <a href="https://www.threads.net/@mnicewitness" target="_blank" title="Follow on Threads (@mnicewitness)"><svg width="22" height="22"><use href="#icon-threads"/></svg></a> -->
 <a href="https://bsky.app/profile/mnicewitness.bsky.social" target="_blank" title="Follow on Bluesky (@mnicewitness.bsky.social)"><svg width="22" height="22"><use href="#icon-bluesky"/></svg></a>
 </p>
 
