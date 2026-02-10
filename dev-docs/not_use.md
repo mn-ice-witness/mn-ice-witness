@@ -705,13 +705,6 @@ Stories are excluded when they don't meet the project's core focus:
 
 ### February 2026
 
-**Daily Deportation Flights from MSP (Jan-Feb 2026)**
-- Sources: [MPR News](https://www.mprnews.org/story/2026/01/14/ice-deportation-flights-msp), multiple outlets
-- Date: January-February 2026 (ongoing)
-- Details: Increased deportation flights leaving MSP airport, with reports of daily charter and commercial flights transporting detainees to Texas and other states. Flight tracking groups documented patterns.
-- Reason: **Trend/policy story** - documents deportation logistics but no specific civil rights incident with identifiable affected individual. Individual deportation cases documented separately where details are available. Already partially covered by existing MSP Airport Deportation Flights entry (Jan 14).
-- Date evaluated: 2026-02-09
-
 **Roseville Teenagers Detained (Feb 8)**
 - Sources: [Bring Me The News](https://bringmethenews.com/minnesota-news/list-of-ice-raids-updates-in-minnesota-on-saturday-feb-8) via People Over Papers
 - Date: February 8, 2026
@@ -836,6 +829,20 @@ Stories are excluded when they don't meet the project's core focus:
 - Date: February 8, 2026
 - Details: Olympic gymnast Jordan Chiles made a solidarity statement about ICE operations in Minnesota.
 - Reason: **Celebrity statement** - not an ICE enforcement incident.
+- Date evaluated: 2026-02-09
+
+**ICE Purposefully Crashes Into Car Outside Target (Jan 14)**
+- Sources: [Reddit r/minnesota](https://www.reddit.com/r/minnesota/comments/1qct33h/ice_just_purposefully_crashed_into_a_car_at_a/)
+- Date: January 14, 2026
+- Details: Reddit post claims ICE agents purposefully crashed into a car at a Target parking lot. No corroborating news coverage found. Reached out to Ford Fischer for additional information.
+- Reason: **No corroboration** - Reddit post only, no news media coverage. No names, no location details beyond "Target."
+- Date evaluated: 2026-02-09
+
+**ICE Agents Try Opening Locked Door (Feb 7)**
+- Sources: [Instagram reel](https://www.instagram.com/reels/DUeKAC4ksWJ/?hl=en)
+- Date: February 7, 2026
+- Details: Video on Instagram shows what appears to be ICE agents attempting to open a locked door. No additional context provided.
+- Reason: **No corroboration** - Instagram video only, no news media coverage. No names, no address, no outcome documented. Reached out to Instagram account for additional details.
 - Date evaluated: 2026-02-09
 
 **Robbinsdale City Hall ICE Pursuit Crash (Feb 5, 2026)**

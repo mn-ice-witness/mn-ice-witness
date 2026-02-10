@@ -16,13 +16,14 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (239 incidents)
+## CURRENT (244 incidents)
 
 Published incidents visible on the main site.
 
 - incidents/2026-02/08/2026-02-08-ice-deceptive-tactics.md | 2026-02-08 | Minneapolis | background | Reports of ICE Agents Using Disguises, Fake License Plates, and Ruse Tactics Across Minnesota
 - incidents/2026-02/07/2026-02-07-dhs-response-whipple-conditions-false.md | 2026-02-07 | Minneapolis | response | DHS Statement: Claims of "Subprime Conditions" at Whipple Are "FALSE"
 - incidents/2026-02/07/2026-02-07-observers-one-warning-abductions.md | 2026-02-07 | Minneapolis | observers | Three Legal Observers Arrested in 30 Minutes as ICE Implements "One Warning" Policy
+- incidents/2026-02/06/2026-02-06-nick-benson-deportation-flights-msp.md | 2026-02-06 | Minneapolis | background | Volunteer Documents 42 Deportation Flights in January, Estimates 2,339 People Flown From Minnesota
 - incidents/2026-02/06/2026-02-06-brasel-right-to-counsel-whipple.md | 2026-02-06 | Minneapolis | background | Minnesota Courts Buckle as Immigration Litigation Overwhelms Federal System; Top ICE Lawyer Departs
 - incidents/2026-02/06/2026-02-06-dhs-response-agitators-shielded.md | 2026-02-06 | Minneapolis | response | DHS Response: "Agitators" Shield Child Rapists, Sex Offenders, and Gang Members From Arrest
 - incidents/2026-02/06/2026-02-06-georgetown-park-pepper-spray.md | 2026-02-06 | Bloomington | observers | Federal Agents Pepper Spray Relatives During Arrest at Georgetown Park Apartments
@@ -32,6 +33,8 @@ Published incidents visible on the main site.
 - incidents/2026-02/05/2026-02-05-kyle-wagner-eat-street-flats-raid.md | 2026-02-05 | Minneapolis | citizens | 11 Federal Agents Smash Into Apartment Building at 6 a.m. to Arrest Man for Anti-ICE Social Media Posts
 - incidents/2026-02/05/2026-02-05-javier-abreu-rochester-kidney-transplant.md | 2026-02-05 | Rochester | citizens | Kidney Transplant Recipient Arrested in Rochester Needs Anti-Rejection Medication
 - incidents/2026-02/05/2026-02-05-hennepin-courthouse-detentions.md | 2026-02-05 | Minneapolis | immigrants | Two Detained by ICE Inside Hennepin County Courthouse After Hearing
+- incidents/2026-02/04/2026-02-04-dhs-munitions-inventory-35000.md | 2026-02-04 | Minneapolis | background | Leaked CBP Inventory Reveals 35,765 Munitions Stockpiled for Operation Metro Surge
+- incidents/2026-02/04/2026-02-04-school-districts-sue-ice-near-schools.md | 2026-02-04 | Minneapolis | background | Minnesota School Districts and Teachers Union Sue to Restore Schools as Protected Areas
 - incidents/2026-02/04/2026-02-04-trump-softer-touch-interview.md | 2026-02-04 | Washington D.C. | response | Trump Says Administration Will Use "Softer Touch" After Minneapolis Shootings
 - incidents/2026-02/03/2026-02-03-observers-detained-gunpoint-midtown-phillips.md | 2026-02-03 | Minneapolis | observers | Observers Detained at Gunpoint in Midtown Phillips
 - incidents/2026-02/01/2026-02-01-jose-lozano-worthington.md | 2026-02-01 | Worthington | citizens | Jose Lozano Detained Despite Valid Asylum Permit in Worthington
@@ -42,6 +45,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/30/2026-01-30-natifs-employee-detained.md | 2026-01-30 | Minneapolis | citizens | NATIFS Restaurant Employee Detained at Gunpoint, Flown to Texas
 - incidents/2026-01/30/2026-01-30-richfield-middle-school-bus-route.md | 2026-01-30 | Richfield | schools-hospitals | Federal Agents Present on Richfield Middle School Bus Route
 - incidents/2026-01/30/2026-01-30-st-peter-police-chief-intervenes.md | 2026-01-30 | St. Peter | observers | St. Peter Police Chief Retrieves U.S. Citizen From ICE Custody Mid-Transport
+- incidents/2026-01/30/2026-01-30-ecuadorian-family-self-deports.md | 2026-01-30 | Minneapolis | immigrants | Citing Safety Concerns, Ecuadorian Family Self-Deports Despite Pending Asylum Case
 - incidents/2026-01/29/2026-01-29-columbia-heights-hs-students-harassed.md | 2026-01-29 | Columbia Heights | citizens, schools-hospitals | Columbia Heights High School Students Harassed by ICE Agents
 - incidents/2026-01/29/2026-01-29-valley-view-mother-checkin-detained.md | 2026-01-29 | Columbia Heights | immigrants | Asylum-Seeking Mother Detained at Check-In; Principal Brings Her Children to Whipple
 - incidents/2026-01/29/2026-01-29-noem-best-information-defense.md | 2026-01-29 | Minneapolis | response | Noem Defends "Domestic Terrorist" Claim: "Best Information We Had at the Time"
@@ -107,6 +111,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/17/2026-01-17-mischief-toy-store-ice-inspection.md | 2026-01-17 | St. Paul | observers | Toy Store Receives ICE Inspection Notice Hours After ABC News Interview
 - incidents/2026-01/16/2026-01-16-parral-ortiz-hospital-detention.md | 2026-01-16 | Mounds View | immigrants, schools-hospitals | Man Detained While Driving Sick Wife to Emergency Room
 - incidents/2026-01/16/2026-01-16-nevada-avenue-12-year-old-deported.md | 2026-01-16 | St. Paul | immigrants | Venezuelan Family Detained, Including 12-Year-Old Sent to Texas
+- incidents/2026-01/16/2026-01-16-two-year-old-parents-detained-dopa.md | 2026-01-16 | Minneapolis | immigrants | Two-Year-Old Left Without Parents After ICE Detains Both; DOPA Form Prevents Foster Care
 - incidents/2026-01/16/2026-01-16-business-disruption-economic-crisis.md | 2026-01-16 | Minneapolis | background | Immigrant-Run Businesses Devastated as Operation Metro Surge Empties Cultural Corridors
 - incidents/2026-01/16/2026-01-16-newsguild-member-el-paso.md | 2026-01-16 | Minneapolis | immigrants | NewsGuild Union Member Detained and Transferred to Texas
 - incidents/2026-01/16/2026-01-16-owatonna-15-year-old-pepper-sprayed.md | 2026-01-16 | Owatonna | observers | 15-Year-Old Girl Pepper Sprayed While Observing ICE Operation
@@ -262,7 +267,7 @@ Published incidents visible on the main site.
 
 ---
 
-## NO-ADD (188 entries)
+## NO-ADD (189 entries)
 
 Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 
@@ -364,7 +369,6 @@ Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 - dev-docs/not_use.md | Dec 18 / Jan 16 | Freeborn County 287(g) ACLU Lawsuit
 - dev-docs/not_use.md | Jan 20-21 | Anpetu Teca Education Center ICE Staging Area
 - dev-docs/not_use.md | n/a | Anonymous Refugee Detentions From NPR
-- dev-docs/not_use.md | Jan-Feb 2026 | Daily Deportation Flights from MSP
 - dev-docs/not_use.md | Feb 8 | Roseville Teenagers Detained
 - dev-docs/not_use.md | Feb 8 | Albert Lea ATM Arrest
 - dev-docs/not_use.md | Feb 8 | Minneapolis 24th Ave Arrest
@@ -383,6 +387,8 @@ Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 - dev-docs/not_use.md | Feb 8 | Ryan Winkler Alleges ICE Parked Outside Home
 - dev-docs/not_use.md | Feb 8-9 | Lyndale Avenue Barricade Clearing
 - dev-docs/not_use.md | Feb 8 | Jordan Chiles Solidarity Statement
+- dev-docs/not_use.md | Jan 14 | ICE Purposefully Crashes Into Car Outside Target
+- dev-docs/not_use.md | Feb 7 | ICE Agents Try Opening Locked Door
 - dev-docs/not_use.md | Feb 5, 2026 | Robbinsdale City Hall ICE Pursuit Crash
 - dev-docs/not_use.md | Jan 16 & Jan 22, 2026 | Winona Two Hmong Men Arrested
 - dev-docs/not_use.md | Jan 28, 2026 | Abdirahman Hassan Yusuf Grand Forks ND

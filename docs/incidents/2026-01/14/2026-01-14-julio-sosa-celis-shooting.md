@@ -9,12 +9,13 @@ affected_individual_citizenship: asylum-seeker
 injuries: serious
 trustworthiness: high
 created: 2026-02-07T14:12:42
-last_updated: 2026-02-07T14:12:42
+last_updated: 2026-02-09T21:32:32
 ---
 
 # ICE Agent Shoots Man Through Closed Door in North Minneapolis; Bullet Enters Apartment with Four Children
 
 ## Updates
+- **Feb 5** - Federal judge [halts deportation of Valentina Moreno](https://www.fox9.com/news/judge-halts-deportation-ice-shooting-witness-minneapolis), Aljorna's partner and key witness. Court records state Moreno can testify Aljorna never hit the ICE agent. Government had accelerated her immigration hearing to Friday, six months earlier than scheduled. Judge warned of consequences if Moreno is deported.
 - **Feb 5** - Partner Indriany Mendoza Camacho [speaks to MPR News](https://www.mprnews.org/story/2026/02/05/indriany-mendoza-camacho-speaks-out-about-ice-shooting-her-partner-julio-sosacelis), disputing government's account. Says Sosa-Celis never grabbed anything to hit the officer. Agent shot through the closed front door; bullet traveled through wall into downstairs apartment near a child's playpen where four children and an adult were present.
 - **Feb 5** - Sosa-Celis and Aljorna [re-detained by ICE at courthouse](https://minnesotareformer.com/2026/02/05/two-men-charged-with-assaulting-agents-in-ice-shooting-released-by-a-judge-re-detained-by-ice/) despite judge ordering their release.
 - **Jan 22** - [FBI affidavit reveals](https://www.startribune.com/fbi-reveals-how-mistaken-identity-by-ice-led-to-chase-shooting-of-venezuelan-immigrant-in-north-minneapolis/601567978) ICE originally targeted someone else — the shooting resulted from mistaken identity. Federal judge orders both men released on own recognizance.
@@ -33,6 +34,7 @@ On January 14, 2026, an ICE agent shot Julio Cesar Sosa-Celis, 24, in the leg du
 8. Sahan Journal (Jan 22, 2026): [ICE north Minneapolis shooting detainees released](https://sahanjournal.com/immigration/ice-north-minneapolis-shooting-detainees-released/)
 9. Minnesota Reformer (Feb 5, 2026): [Two men charged with assaulting agents in ICE shooting released by a judge, re-detained by ICE](https://minnesotareformer.com/2026/02/05/two-men-charged-with-assaulting-agents-in-ice-shooting-released-by-a-judge-re-detained-by-ice/)
 10. Star Tribune (Feb 5, 2026): [Two Venezuelans, charged with assaulting agents in ICE shooting, re-detained despite judge's orders](https://www.startribune.com/mn-venezuelans-released-ice-shooting/601576035)
+11. Fox 9 (Feb 5, 2026): [Judge halts deportation of ICE shooting witness in Minneapolis](https://www.fox9.com/news/judge-halts-deportation-ice-shooting-witness-minneapolis)
 
 ## Related Incidents
 - [Six Children Hospitalized After ICE Deploys Flashbangs and Tear Gas on Family SUV](#2026-01-14-shawn-jackson-children-tear-gas) - Same day, connected protest response.
@@ -64,7 +66,10 @@ On January 14, 2026, an ICE agent shot Julio Cesar Sosa-Celis, 24, in the leg du
 ### Valentina de Los Angeles Moreno (partner of Aljorna)
 - **Nationality:** Venezuelan
 - **Status:** Entered U.S. as unaccompanied child at age 17; released to legal guardian in Minnesota. No arrests or convictions.
-- **Detained:** Flown to Texas detention center
+- **Detained:** Flown to Texas detention center; subsequently transferred to New Mexico detention center
+- **Witness role:** Named in court records as witness who can testify Aljorna never hit the ICE agent
+- **Immigration hearing:** Government accelerated hearing to Friday (approximately Feb 7), six months ahead of original schedule
+- **Deportation status:** Federal judge ordered government not to deport her; warned of consequences if deported
 
 ## Timeline
 - **Jan 14 (evening)** - ICE agents attempt a traffic stop. FBI later reveals the target was someone else — mistaken identity.
@@ -79,6 +84,7 @@ On January 14, 2026, an ICE agent shot Julio Cesar Sosa-Celis, 24, in the leg du
 - **Jan 22** - FBI affidavit reveals mistaken identity. Federal judge orders both men released on their own recognizance.
 - **Jan 28** - Mendoza Camacho released, returns home to her son.
 - **Feb 3-5** - Both men re-detained by ICE at courthouse despite judge's release order.
+- **Feb 5** - Federal judge halts deportation of Valentina Moreno, citing her role as a material witness. Government had accelerated her immigration hearing six months ahead of schedule. Judge extends deportation protection to all witnesses including both partners.
 
 ## Affected Individual Statement
 
@@ -105,6 +111,14 @@ The FBI affidavit revealed ICE originally targeted someone else entirely. The sh
 
 ### Defense Account
 Both Aljorna and Sosa-Celis maintain the gunshot came after they had gone inside the duplex and closed the front door. This is corroborated by the bullet hole in the front door and the bullet's trajectory through interior walls.
+
+## Context: ICE Interference with State Criminal Cases
+
+A court filing in the Hussen v. Noem case includes a statement from John Choi, Ramsey County Attorney, documenting that ICE has removed defendants of criminal cases — involving criminal sexual conduct and child solicitation — before the perpetrators could be convicted.
+
+> "In one case, RCAO received information that a crime victim for an ongoing case who is understood to have legal status and documentation was picked up by DHS and transported to Texas immediately; it is unclear whether that crime victim will be available to provide their testimony."
+
+The accelerated deportation of Valentina Moreno — a witness whose testimony contradicts the government's account of this shooting — follows the same pattern of removing individuals critical to legal proceedings.
 
 ## Endangerment of Children
 The bullet fired by the ICE agent traveled through the closed front door, through Sosa-Celis' leg, through another wall, and into a first-floor apartment where it lodged in the wall near a child's playpen used as a crib. Four children and one adult were present in the room at the time. A tear gas canister was also fired through an apartment window.

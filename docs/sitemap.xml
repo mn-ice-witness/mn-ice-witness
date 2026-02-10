@@ -85,6 +85,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://mn-ice-witness.org/entry/2026-02-06-nick-benson-deportation-flights-msp</loc>
+    <lastmod>2026-02-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://mn-ice-witness.org/entry/2026-02-06-brasel-right-to-counsel-whipple</loc>
     <lastmod>2026-02-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -135,6 +141,18 @@
   <url>
     <loc>https://mn-ice-witness.org/entry/2026-02-05-hennepin-courthouse-detentions</loc>
     <lastmod>2026-02-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://mn-ice-witness.org/entry/2026-02-04-dhs-munitions-inventory-35000</loc>
+    <lastmod>2026-02-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://mn-ice-witness.org/entry/2026-02-04-school-districts-sue-ice-near-schools</loc>
+    <lastmod>2026-02-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -200,6 +218,12 @@
   </url>
   <url>
     <loc>https://mn-ice-witness.org/entry/2026-01-30-st-peter-police-chief-intervenes</loc>
+    <lastmod>2026-02-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://mn-ice-witness.org/entry/2026-01-30-ecuadorian-family-self-deports</loc>
     <lastmod>2026-02-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -607,6 +631,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://mn-ice-witness.org/entry/2026-01-16-two-year-old-parents-detained-dopa</loc>
+    <lastmod>2026-02-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://mn-ice-witness.org/entry/2026-01-16-business-disruption-economic-crisis</loc>
     <lastmod>2026-02-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -728,7 +758,7 @@
   </url>
   <url>
     <loc>https://mn-ice-witness.org/entry/2026-01-14-julio-sosa-celis-shooting</loc>
-    <lastmod>2026-02-07</lastmod>
+    <lastmod>2026-02-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

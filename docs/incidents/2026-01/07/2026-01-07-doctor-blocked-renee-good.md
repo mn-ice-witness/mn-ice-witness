@@ -43,11 +43,15 @@ After ICE agent Jonathan Ross shot Renee Good, a bystander who identified himsel
 - **Role:** Attempted to provide emergency medical care
 
 ## The Exchange (from video)
-- **Physician:** "Can I check a pulse?"
-- **Agent:** "No, back up now!"
+- **Physician:** "Can I go check a pulse?"
+- **Agent 1:** "No! Back up! Now!"
 - **Physician:** "I'm a physician!"
-- **Agent:** "I don't care."
-- **Other agents:** Claimed EMS was on the way and they had their own medics
+- **Agent 1:** "I don't care."
+- **Agent 2:** "Listen, we understand, we got EMS coming, alright?"
+- **Agent (unclear which):** "We have medics on scene, we have our own medics."
+- **Bystander:** "WHERE ARE THEY?"
+- **Agent:** "Relax."
+- **Bystander:** "How can I relax you just killed my fucking neighbor! You shot her in the fucking face! You killed my fucking neighbor! How do you show up to work every day?"
 
 ## Witness Account
 
