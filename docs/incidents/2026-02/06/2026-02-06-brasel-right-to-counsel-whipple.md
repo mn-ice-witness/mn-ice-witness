@@ -9,10 +9,13 @@ affected_individual_citizenship: various
 injuries: none
 trustworthiness: high
 created: 2026-02-07T14:24:24
-last_updated: 2026-02-07T15:35:44
+last_updated: 2026-02-09T18:19:41
 ---
 
 # Minnesota Courts Buckle as Immigration Litigation Overwhelms Federal System; Top ICE Lawyer Departs
+
+## Updates
+- **Feb 8** - Judge Brasel [ordered immigration attorneys be allowed inside](https://www.fox9.com/news/immigration-advocates-set-inspect-ice-headquarters-whipple-building-monday) the Whipple Building on Monday to visit clients and inspect conditions. The government argued detainees have no right to "unfettered" attorney access; attorneys requested permission to speak with detainees and bring recording equipment, which officials denied.
 
 ## Summary
 The legal infrastructure around Operation Metro Surge began visibly collapsing in early February 2026. Jim Stolley, the chief counsel for ICE in Minnesota and a 31-year veteran of the agency, retired — his government email generating an automated reply that he had "retired from public service." His departure came days after ICE attorney Julie T. Le, on detail to the U.S. Attorney's Office, told U.S. District Judge Jerry Blackwell that the flood of cases had become unmanageable: "The system sucks. This job sucks." She was removed from her detail the next day. U.S. Attorney Daniel Rosen reported that 427 immigration lawsuits were filed in January alone, forcing his office to set aside much of its conventional work, with his civil division understaffed by roughly 50 percent. On February 6, U.S. District Judge Nancy Brasel gave the government until February 12 to reach agreement on ensuring the right to counsel for detainees at the Bishop Henry Whipple Federal Building, calling the gap between evidence and government claims "so enormous I don't know how you're going to close it." Immigration attorneys had filed 691 habeas corpus petitions since January 1 — five times the total for all of 2025.

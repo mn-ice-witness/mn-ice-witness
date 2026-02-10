@@ -309,7 +309,7 @@ title: Top ICE Lawyer Departs; Judge Orders Right to Counsel at Whipple
 incident: 2026-02-06-brasel-right-to-counsel-whipple
 source:
 ---
-Jim Stolley, chief ICE counsel in Minnesota (31-year veteran), retires as Operation Metro Surge litigation overwhelms the courts. Judge Nancy Brasel orders the government to ensure detained people can speak with attorneys at the [Whipple Federal Building](/entry/2026-02-06-brasel-right-to-counsel-whipple) by February 12, calling the gap between evidence and government claims "so enormous I don't know how you're going to close it." Immigration attorneys have filed 691 habeas corpus petitions since January 1 — five times the total for all of 2025.
+Jim Stolley, chief ICE counsel in Minnesota (31-year veteran), retires as Operation Metro Surge litigation overwhelms the courts. Judge Nancy Brasel orders the government to ensure detained people can speak with attorneys at the [Whipple Federal Building](/entry/2026-02-06-brasel-right-to-counsel-whipple) by February 12, calling the gap between evidence and government claims "so enormous I don't know how you're going to close it." Two days later, Brasel orders immigration attorneys be allowed inside to visit clients and inspect conditions. Immigration attorneys have filed 691 habeas corpus petitions since January 1 — five times the total for all of 2025.
 
 ---
 date: 2026-02-06
