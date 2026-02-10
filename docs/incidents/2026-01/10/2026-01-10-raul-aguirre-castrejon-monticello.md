@@ -15,7 +15,7 @@ last_updated: 2026-02-07T14:12:42
 # Legal Permanent Resident Boxed In on Road, Handcuffed at Gunpoint; Agents Take Cash from Wallet
 
 ## Summary
-Raul Aguirre Castrejon, a lawful permanent resident, was followed by two unmarked SUVs after leaving a Walmart in Monticello with his niece, a U.S. citizen who was driving. Agents boxed them in on the road, nearly running them off it, then pulled Castrejon from the car, handcuffed him at gunpoint, turned off his phone to stop his recording, and took $180 in cash and his insurance card from his wallet. Despite carrying proof of legal status, agents told him "you're not from here." He was released after a few minutes when someone told the agents to let him go. Castrejon filed a sworn declaration in **Hussen v. Noem**, the ACLU class-action lawsuit challenging racial profiling during Operation Metro Surge.
+Raul Aguirre Castrejon, a lawful permanent resident, was followed by two unmarked SUVs after leaving a Walmart in Monticello with his niece, a U.S. citizen who was driving. Agents boxed them in on the road, nearly running them off it, then pulled Castrejon from the car, handcuffed him at gunpoint, turned off his phone to stop his recording, and took $130 in cash and his insurance card from his wallet. Despite carrying proof of legal status, agents told him "you're not from here." He was released after a few minutes when someone told the agents to let him go. Castrejon filed a sworn declaration in **Hussen v. Noem**, the ACLU class-action lawsuit challenging racial profiling during Operation Metro Surge.
 
 ## Sources
 1. Court Filing (Jan 16, 2026): [Declaration of Raul Aguirre Castrejon, Hussen v. Noem Case 26-cv-00324](https://www.justsecurity.org/pdfs/mn-ice-enforcement/14%20RAUL%20AGUIRRE%20CASTREJON.pdf)
@@ -42,7 +42,7 @@ Raul Aguirre Castrejon, a lawful permanent resident, was followed by two unmarke
 - **Recording stopped** - Agents grab his wallet and phone, turn off the phone to stop his recording.
 - **Weapons pointed** - Agents point weapons at him and yell at him to shut up. Handcuffs are very tight, aggravating his recent back surgery.
 - **Released** - After a few minutes, someone tells the agents to let him go.
-- **Money taken** - Wallet originally contained $285 ($100, 2×$50, $20, $10, $5). Agents kept $180 (the two $50s, $20, $10). Also took his insurance policy card.
+- **Money taken** - Wallet originally contained $235 ($100, 2×$50, $20, $10, $5). Agents kept $130 (the two $50s, $20, $10). Also took his insurance policy card.
 - **Excuse given** - Agents said they stopped the car because it was being driven by a woman but registered to a man.
 
 ## Affected Individual Statement

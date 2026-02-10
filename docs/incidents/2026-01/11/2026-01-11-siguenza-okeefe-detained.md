@@ -29,6 +29,7 @@ Brandon Sigüenza (32) and Patty O'Keefe (36), both U.S. citizens monitoring ICE
 9. ABC News/AP (Jan 13, 2026): [Minneapolis duo details their ICE detention, including pressure to rat on protest organizers](https://abcnews.go.com/US/wireStory/minneapolis-duo-details-ice-detention-including-pressure-rat-129185120)
 10. USA Today Opinion (Jan 26, 2026): [ICE arrested me without cause. What I saw will haunt me forever.](https://www.usatoday.com/story/opinion/voices/2026/01/26/ice-detained-us-citizens-minnesota-arrests/88304880007/) | [Archive](https://archive.ph/sVibz)
 11. Yahoo News Canada (Jan 26, 2026): [ICE arrested me without cause. What I saw will haunt me forever.](https://ca.news.yahoo.com/ice-arrested-without-cause-saw-164506774.html)
+12. Slate (Jan 15, 2026): [I Was Legally Observing ICE Agents When They Turned Their Ire on Me](https://slate.com/news-and-politics/2026/01/arrested-for-observing-ice-minnesota-lesson.html)
 
 ## Affected Individual(s)
 - **Patty O'Keefe:** 36, U.S. Citizen

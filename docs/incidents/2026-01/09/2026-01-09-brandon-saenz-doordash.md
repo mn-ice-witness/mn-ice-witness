@@ -29,7 +29,6 @@ Brandon Steven Saenz was arrested by ICE agents when he and his wife arrived at 
 9. Inkl (Jan 15, 2026): ['I Ordered DoorDash and ICE Showed Up'](https://www.inkl.com/news/i-ordered-doordash-and-ice-showed-up-delivery-driver-seeks-safety-inside-customer-s-home)
 10. MundoNow (Jan 15, 2026): [Delivery Driver Flees ICE and Takes Refuge in a Customer's Home](https://mundonow.com/en/ice-chase-of-immigrant-delivery-driver/)
 11. The Nerd Stash (Jan 15, 2026): [Brave Minnesota Woman Stands Up to ICE Agents](https://thenerdstash.com/brave-minnesota-woman-stands-up-to-ice-agents-after-female-doordasher-takes-shelter-in-her-home-its-time-we-rise-up/)
-12. Slate (Jan 15, 2026): [I Was Legally Observing ICE Agents When They Turned Their Ire on Me](https://slate.com/news-and-politics/2026/01/arrested-for-observing-ice-minnesota-lesson.html)
 
 ## Affected Individual(s)
 - **Name:** Brandon Steven Saenz

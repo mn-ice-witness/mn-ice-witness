@@ -18,7 +18,7 @@ last_updated: 2026-01-18T22:49:05
 Kong Vang, a U.S. citizen working from home in St. Paul's Frogtown neighborhood, recorded federal agents at his door and refused to let them in. The agents never explained why they were there and left after approximately 90 seconds. Vang's video went viral with over 400,000 views on Facebook.
 
 ## Sources
-1. Facebook Video (Jan 13, 2026): [Kong Vang door encounter](https://www.facebook.com/) - 400,000+ views
+1. Instagram Video (Jan 13, 2026): [Kong Vang door encounter](https://www.instagram.com/reels/DTf44WriQem/) - 400,000+ views
 2. FOX 9 (Jan 14, 2026): [Video of St. Paul man refusing to open door for federal agents goes viral](https://www.fox9.com/news/video-st-paul-man-refusing-open-door-federal-agents-goes-viral)
 3. Yahoo News (Jan 14, 2026): [St. Paul Man Refuses to Open Door for Federal Agents in Viral Video](https://www.yahoo.com/news/articles/st-paul-man-refuses-open-211750001.html)
 4. Angry Asian Man (Jan 16, 2026): [Coverage of Kong Vang encounter](https://blog.angryasianman.com/)
