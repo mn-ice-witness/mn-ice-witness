@@ -117,7 +117,7 @@ incident: 2026-01-09-fridley-schools-closure
 source:
 image: false
 ---
-The first district-wide school closures. Fridley and Columbia Heights cancel all classes as one-third of students are absent due to fear of ICE activity. Multiple other districts follow suit in the days ahead.
+The first district-wide school closures. Fridley and Columbia Heights cancel all classes as one-third of students are absent due to fear of ICE activity. Multiple other districts follow suit in the days ahead. On February 4, three school districts — [Fridley, Duluth, and Education Minnesota](/entry/2026-02-04-school-districts-sue-ice-near-schools) — file a federal lawsuit seeking a 1,000-foot enforcement buffer around schools, citing a 20% attendance drop and more than $5 million in lost state funding.
 
 ---
 date: 2026-01-10

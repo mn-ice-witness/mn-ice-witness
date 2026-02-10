@@ -104,13 +104,22 @@
       "lastUpdated": "2026-02-09T21:32:32",
       "mediaCount": 0,
       "notable": false,
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
-      "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
+      "hasLocalMedia": true,
+      "localMediaType": "video",
+      "localMediaPath": "media/2026-01/30/2026-01-30-ecuadorian-family-self-deports.mp4",
+      "localMediaOgPath": "media/2026-01/30/2026-01-30-ecuadorian-family-self-deports-og-custom-1770695941.jpg",
+      "localMediaFiles": [
+        {
+          "type": "video",
+          "path": "media/2026-01/30/2026-01-30-ecuadorian-family-self-deports.mp4"
+        },
+        {
+          "type": "image",
+          "path": "media/2026-01/30/2026-01-30-ecuadorian-family-self-deports.jpg"
+        }
+      ],
+      "aspectRatio": 1.8027777777777778,
+      "mediaVersion": 1770695972
     },
     {
       "filePath": "incidents/2026-01/29/2026-01-29-valley-view-mother-checkin-detained.md",
@@ -571,13 +580,18 @@
       "lastUpdated": "2026-02-09T21:32:32",
       "mediaCount": 0,
       "notable": false,
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
-      "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
+      "hasLocalMedia": true,
+      "localMediaType": "video",
+      "localMediaPath": "media/2026-01/16/2026-01-16-two-year-old-parents-detained-dopa.mp4",
+      "localMediaOgPath": "media/2026-01/16/2026-01-16-two-year-old-parents-detained-dopa-og-2s-1770696034.jpg",
+      "localMediaFiles": [
+        {
+          "type": "video",
+          "path": "media/2026-01/16/2026-01-16-two-year-old-parents-detained-dopa.mp4"
+        }
+      ],
+      "aspectRatio": 1.8027777777777778,
+      "mediaVersion": 1770696034
     },
     {
       "filePath": "incidents/2026-01/16/2026-01-16-newsguild-member-el-paso.md",

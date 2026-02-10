@@ -37,6 +37,8 @@
 
 
 
+
+
 juan-carlos-brutality
 aliya-rahman-car-window-hospitalized
 speedway-st-paul
@@ -163,3 +165,5 @@ missing-5th-grader-dilley
 ice-deceptive-tactics
 ice-facial-recognition-surveillance-program
 hcmc-patient-shackled
+ecuadorian-family-self-deports
+two-year-old-parents-detained-dopa

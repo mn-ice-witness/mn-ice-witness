@@ -82,6 +82,15 @@ Add a moment when an incident or event:
 
 Not every notable incident needs a moment card. The `notable: true` flag on incidents (see `notable-incidents.md`) is for highlighting important cases in the list view. Timeline moments are for the narrative arc — the story of how the operation unfolded.
 
+### Background Entries and Timeline Visibility
+
+Entries with `type: background` (lawsuits, federal announcements, surveillance programs, etc.) appear in the `/list/background` list view and as small day-cluster dots on the timeline — but **they do not get curated moment cards unless explicitly added to `timeline-moments.md`**. Because background entries lack the visual prominence of moment cards, they are easy for readers to miss on the timeline.
+
+When creating a new background entry, decide whether it warrants a timeline moment:
+- **If it relates to an existing moment** — fold a reference into that moment's body text (e.g., a school lawsuit folded into the school closures moment). This is preferred.
+- **If it's a standalone turning point** — give it its own moment card (e.g., the state suing to halt the operation).
+- **If it's important context but not a narrative beat** — leave it as a background entry only. It will still appear in the list view and as a timeline dot.
+
 ### One Moment Per Topic
 
 **Each timeline highlight should cover a single topic/incident.** When a story develops over time (e.g., a child is detained, then released, then faces deportation proceedings), fold the updates into the original moment's body text rather than creating separate moments for each development.
