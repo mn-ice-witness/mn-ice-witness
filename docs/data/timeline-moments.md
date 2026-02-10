@@ -125,7 +125,7 @@ title: Congress Members Denied Access to Detention Facility
 incident: 2026-01-10-congressional-access-denied
 source:
 ---
-Representatives Ilhan Omar, Angie Craig, and Kelly Morrison are ordered to leave the Whipple Federal Building ICE facility after 10 minutes. They briefly observe detainees — young men sitting with their heads in their hands.
+Representatives Ilhan Omar, Angie Craig, and Kelly Morrison are ordered to leave the Whipple Federal Building ICE facility after 10 minutes. They briefly observe detainees — young men sitting with their heads in their hands. On February 6, DHS again blocks congressional oversight — despite a judge ruling the advance-notice requirement likely violated the law. Rep. Morrison is allowed inside and documents detainees in leg shackles on concrete floors; DHS [declared her findings "FALSE"](/entry/2026-02-07-dhs-response-whipple-conditions-false). Three days later, a [federal judge orders](https://www.fox9.com/news/immigration-advocates-set-inspect-ice-headquarters-whipple-building-monday) immigration attorneys be allowed inside to visit clients and inspect conditions.
 
 ---
 date: 2026-01-11
@@ -197,7 +197,7 @@ title: "An Economic Crisis of Catastrophic Proportions"
 incident: 2026-01-16-business-disruption-economic-crisis
 source:
 ---
-Immigrant workers stopped showing up for shifts. Half of Lake Street's immigrant-owned businesses closed on any given day. The Lake Street Council estimated $46 million in cumulative losses; the city reported $10–20 million in weekly losses. Owners drove workers under blankets, posted volunteers at locked doors, and applied for temporary guardianship of employees' children. 80% of all Minneapolis businesses reported reduced sales.
+Immigrant workers stopped showing up for shifts. Half of Lake Street's immigrant-owned businesses closed on any given day. The Lake Street Council estimated $46 million in cumulative losses; the city reported $10–20 million in weekly losses. Owners drove workers under blankets, posted volunteers at locked doors, and applied for temporary guardianship of employees' children. 80% of all Minneapolis businesses reported reduced sales. By February, the crisis spread to construction and real estate — home builders sent delay letters to customers as roofers and drywall workers disappeared, and Twin Cities pending home sales [dropped 19.2%](https://www.startribune.com/ice-immigration-crackdown-minneapolis-delaying-construction-new-home-builders-real-estate/601575566) vs. 1.6% nationally.
 
 ---
 date: 2026-01-16
@@ -237,7 +237,7 @@ title: 5-Year-Old Liam Ramos Detained
 incident: 2026-01-20-liam-ramos-detained
 source:
 ---
-Five-year-old Liam Conejo Ramos and his father are detained by ICE in Columbia Heights and flown to Dilley, Texas — where [Elizabeth Caisaguano](/entry/2026-01-06-elizabeth-caisaguano-detained) has been held for two weeks. Liam becomes the youngest known detainee and the most widely covered story of the operation.
+Five-year-old Liam Conejo Ramos and his father are detained by ICE in Columbia Heights and flown to Dilley, Texas — where [Elizabeth Caisaguano](/entry/2026-01-06-elizabeth-caisaguano-detained) has been held for two weeks. Liam becomes the youngest known detainee and the most widely covered story of the operation. On February 1, Judge Fred Biery orders their release after 12 days, citing the government's "ill-conceived and incompetently implemented pursuit of daily deportation quotas." Three days later, [Elizabeth Caisaguano](/entry/2026-01-06-elizabeth-caisaguano-detained) is also released. On February 6, DHS files removal proceedings against the 5-year-old and his father; attorney Danielle Molliver calls the move "extraordinary" and possibly "retaliatory."
 
 ---
 date: 2026-01-21
@@ -296,14 +296,6 @@ source:
 A U.S. citizen woman is detained for recording ICE agents and transported toward federal detention. Her husband contacts St. Peter Police Chief Matt Grochow, who secures her return — telling him: "I got her. I'm bringing her home." The City of St. Peter later denies the department "participated in, coordinated with or intervened in any federal enforcement activity."
 
 ---
-date: 2026-02-01
-title: Liam Ramos Released from Detention
-incident: 2026-01-20-liam-ramos-detained
-source:
----
-Judge Fred Biery orders release of 5-year-old Liam Ramos and his father from Dilley after 12 days, citing the government's "ill-conceived and incompetently implemented pursuit of daily deportation quotas." Three days later, [Elizabeth Caisaguano](/entry/2026-01-06-elizabeth-caisaguano-detained) is also released.
-
----
 date: 2026-02-04
 title: Trump Promises a "Softer Touch"
 incident: 2026-02-04-trump-softer-touch-interview
@@ -313,27 +305,11 @@ President Trump tells NBC he has learned to use "a little bit of a softer touch,
 
 ---
 date: 2026-02-06
-title: DHS Moves to Deport 5-Year-Old Liam Ramos
-incident: 2026-01-20-liam-ramos-detained
-source:
----
-DHS files removal proceedings against 5-year-old Liam Conejo Ramos and his father. Attorney Danielle Molliver calls the move "extraordinary" and possibly "retaliatory." Liam's father reports the boy has nightmares and wakes up crying since detention.
-
----
-date: 2026-02-06
 title: Top ICE Lawyer Departs; Judge Orders Right to Counsel at Whipple
 incident: 2026-02-06-brasel-right-to-counsel-whipple
 source:
 ---
 Jim Stolley, chief ICE counsel in Minnesota (31-year veteran), retires as Operation Metro Surge litigation overwhelms the courts. Judge Nancy Brasel orders the government to ensure detained people can speak with attorneys at the [Whipple Federal Building](/entry/2026-02-06-brasel-right-to-counsel-whipple) by February 12, calling the gap between evidence and government claims "so enormous I don't know how you're going to close it." Immigration attorneys have filed 691 habeas corpus petitions since January 1 — five times the total for all of 2025.
-
----
-date: 2026-02-06
-title: Congress Again Blocked from Whipple Oversight
-incident: 2026-01-10-congressional-access-denied
-source:
----
-For the second time, DHS blocks members of Congress from the Whipple facility — despite a judge ruling the advance-notice requirement likely violated the law. Rep. Kelly Morrison is allowed inside and documents detainees in leg shackles on concrete floors. DHS [declared her findings "FALSE"](/entry/2026-02-07-dhs-response-whipple-conditions-false).
 
 ---
 date: 2026-02-06

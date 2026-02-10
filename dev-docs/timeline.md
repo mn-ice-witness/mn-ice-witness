@@ -82,6 +82,14 @@ Add a moment when an incident or event:
 
 Not every notable incident needs a moment card. The `notable: true` flag on incidents (see `notable-incidents.md`) is for highlighting important cases in the list view. Timeline moments are for the narrative arc — the story of how the operation unfolded.
 
+### One Moment Per Topic
+
+**Each timeline highlight should cover a single topic/incident.** When a story develops over time (e.g., a child is detained, then released, then faces deportation proceedings), fold the updates into the original moment's body text rather than creating separate moments for each development.
+
+This keeps the timeline from being cluttered with multiple cards about the same story. Write updates chronologically within the body: "On February 1, Judge Biery orders their release... On February 6, DHS files removal proceedings..."
+
+**Exceptions exist** — distinct legal actions (e.g., two separate ACLU lawsuits with different plaintiffs and claims) warrant their own moments even if they involve related themes. Use judgment: if it's a genuinely new incident or legal filing, it gets its own card. If it's a development in an existing story, fold it in.
+
 ## Reviewing the Timeline
 
 When asked to **"review the timeline"** or **"check the timeline for gaps"**:

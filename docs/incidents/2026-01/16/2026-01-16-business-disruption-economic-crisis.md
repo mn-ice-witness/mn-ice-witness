@@ -9,10 +9,13 @@ affected_individual_citizenship: various
 injuries: none
 trustworthiness: high
 created: 2026-02-06T12:04:35
-last_updated: 2026-02-06T12:04:35
+last_updated: 2026-02-09T18:04:31
 ---
 
 # Immigrant-Run Businesses Devastated as Operation Metro Surge Empties Cultural Corridors
+
+## Updates
+- **Feb 9** - [Star Tribune investigation](https://www.startribune.com/ice-immigration-crackdown-minneapolis-delaying-construction-new-home-builders-real-estate/601575566) reveals home builders falling behind schedule as roofing, drywall, and other construction workers disappear. Key Land Homes and Robert Thomas Homes sent letters to customers citing the crackdown as a cause for delays. Pending Twin Cities home sales dropped 19.2% in January vs. 1.6% nationally. ICE agents showed up "uninvited" to a Lakeville job site and demanded roofers answer questions. New-home closings delayed two weeks to four months.
 
 ## Summary
 Operation Metro Surge triggered an economic crisis across the Twin Cities as immigrant-run businesses lost between 50% and 100% of their revenue, workers stopped showing up for shifts out of fear of detention, and entire commercial corridors fell silent. By late January, the Lake Street Council estimated the corridor's more than 1,000 immigrant-owned businesses had lost a cumulative $46 million. Restaurant owners resorted to driving workers to and from shifts under blankets, locking front doors and posting volunteers as lookouts, and leasing apartments for vulnerable employees. The disruption extended to non-immigrant businesses citywide, with 80% of Minneapolis businesses reporting canceled or reduced sales and the city estimating losses of $10 million to $20 million per week.
@@ -28,6 +31,8 @@ Operation Metro Surge triggered an economic crisis across the Twin Cities as imm
 8. KARE 11 (Jan 23, 2026): [Hundreds of Minnesota businesses expected to close Friday in 'economic blackout'](https://www.kare11.com/article/news/local/ice-in-minnesota/minnesota-businesses-close-friday-economic-blackout-protest-ice/89-575669a5-ce7c-4a8c-9896-21406799341a)
 9. Bring Me The News (Jan 17, 2026): [List of Twin Cities businesses closed from Jan. 17-23 in response to ICE presence](https://bringmethenews.com/minnesota-lifestyle/list-of-twin-cities-businesses-closed-from-jan-17-23-in-response-to-ice-presence)
 10. Twin Cities Pioneer Press (Jan 28, 2026): [Restaurant industry leaders push for ICE reforms in letters to Congress](https://www.twincities.com/2026/01/28/restaurant-industry-leaders-push-for-ice-reforms-in-letters-to-congress/)
+11. Star Tribune (Feb 9, 2026): [Twin Cities immigration crackdown delays home construction, slows real estate market](https://www.startribune.com/ice-immigration-crackdown-minneapolis-delaying-construction-new-home-builders-real-estate/601575566)
+12. KSTP (Feb 2026): [ICE operations in Minnesota impacting the state's construction industry](https://kstp.com/kstp-news/top-news/ice-operations-in-minnesota-impacting-the-states-construction-industry/)
 
 ## Economic Impact
 
@@ -77,6 +82,21 @@ Multiple business owners compared conditions to the COVID-19 pandemic, but worse
 - Businesses coordinated grocery deliveries for customers unable to leave their homes.
 - Non-Latino customers at El Burrito Mercado began grocery shopping for their immigrant neighbors.
 - El Burrito Mercado sold thousands of dollars in gift cards distributed to families through Neighborhood House.
+
+## Construction and Housing Impact
+By February, the crisis spread to the construction and real estate industries. Home builders sent letters to customers citing the crackdown as a cause for construction delays. Key Land Homes (Prior Lake) warned customers of impacted build times due to decreased skilled laborers. Robert Thomas Homes reported ICE agents showed up "uninvited" to a Lakeville job site and demanded four roofers answer questions; the workers stayed on the roof until agents left after nightfall.
+
+### Housing Market
+- Twin Cities pending home sales dropped **19.2%** in January vs. 1.6% nationally (Redfin)
+- New-home closings delayed **two weeks to four months**
+- Buyers canceled plans to list existing homes because new-builds were not ready
+- Multifamily developers losing rental income because contractors could not finish rehab or maintenance work
+
+### Construction Workforce
+- CTUL reported ICE raids at suburban housing sites in Shakopee, Cottage Grove, Lakeville, Monticello, and Plymouth — developed by D.R. Horton, Capstone Homes, Lennar, and Roers Cos.
+- IBEW Local 292 reported Latino and Asian electricians and apprentices afraid to come to work or attend classes
+- Roofers hit hardest due to higher Latino workforce share
+- Property developer P.J. Hill lost over $10,000 in rent and event fees after ICE detained two of his U.S.-born Latino contractors and his site manager's wife
 
 ## Businesses and People Named in Coverage
 
