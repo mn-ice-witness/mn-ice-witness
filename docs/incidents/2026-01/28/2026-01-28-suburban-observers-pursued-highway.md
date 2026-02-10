@@ -28,29 +28,9 @@ ICE observers in the northern suburbs of Minneapolis were pursued for more than 
 - **Citizenship:** U.S. citizen
 - **Status:** Not detained; fled the scene
 
-## Incident Details
-Drae Solberg and another observer had been recording agents outside a nearby mobile home park when at least four federal SUVs began pursuing them through the northern suburbs.
+## Key Quotes
 
-- Agents rode their bumper and brake-checked them on suburban streets and highways.
-- On a four-lane highway, two federal SUVs pulled in front of the observers and abruptly hit their brakes, stopping traffic in both lanes.
-- One SUV turned on emergency lights.
-- Masked agents in tactical gear exited an SUV.
-- Another observer in a car behind witnessed the agents deploying.
-- When the emergency lights were turned off, other volunteers urged the observers to leave.
-
-Solberg told another observer on a Signal call during the pursuit: "I think they're trying to run me off the road."
-
-Solberg said: "We realized we could deal with a ticket, we could deal with going to jail at some point. But we could not deal with the very real risk and high probability of us being injured, us being detained or us being killed."
-
-After the agents stopped chasing them more than 20 minutes later, Solberg and Elizabeth pulled over in a parking lot.
-
-## Additional Context
-Elizabeth also reported that an unfamiliar SUV with South Dakota license plates appeared in her driveway at her townhome more than a week prior to the highway pursuit. The SUV left when she began recording. Police told her the plates belonged to a different model car. Swapping license plates has been reported as a tactic of federal agents during the immigration enforcement surge.
-
-## Official Accounts
-
-### ICE Response
-ICE did not respond to MPR News's request for comment on the incident.
+> "We realized we could deal with a ticket, we could deal with going to jail at some point. But we could not deal with the very real risk and high probability of us being injured, us being detained or us being killed." — Drae Solberg, MPR News
 
 ## Editorial Assessment
 **MEDIUM** - Single established source (MPR News), but with video evidence confirming the account and named affected individual (Drae Solberg). Second observer identified by first name only to avoid retaliation.

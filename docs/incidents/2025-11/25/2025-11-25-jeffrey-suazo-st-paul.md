@@ -25,16 +25,8 @@ Jeffrey Suazo, a 26-year-old house painter from Honduras, was arrested after a 5
 - **Name:** Jeffrey Suazo
 - **Age:** 26
 - **Origin:** Honduras
-- **Citizenship:** Undocumented (fled persecution in Honduras)
+- **Citizenship:** Undocumented
 - **Occupation:** House painter
-- **Time in U.S.:** 4 years
-- **Family describes him as:** "Hardworking and humble"
-
-## Family Members Affected
-- **Deylin:** Girlfriend
-- **Siamy (6):** Deylin's sister, present during raid
-- **Maria:** Deylin's mother
-- **Daniela:** Suazo's pregnant sister-in-law
 
 ## Timeline
 1. **Morning** - Suazo leaves home simultaneously with Victor Rodriguez (first-floor tenant from Honduras)
@@ -46,12 +38,6 @@ Jeffrey Suazo, a 26-year-old house painter from Honduras, was arrested after a 5
 7. **200+ protesters** - Crowd gathers; confrontations with agents and St. Paul police
 8. **Pepper spray deployed** - At least one photojournalist hospitalized
 9. **Surrender** - Suazo turns himself in after consulting legal advisors
-
-## What Family Reported
-- Agents entered the house **without presenting a warrant**.
-- Family members were **taunted and humiliated** during the 5-hour standoff.
-- Agents made **threats and used manipulation tactics**.
-- 6-year-old Siamy was present during the raid.
 
 ## Charges
 Suazo was charged federally with **assaulting a federal officer** (related to allegedly striking agent's vehicle during pursuit).

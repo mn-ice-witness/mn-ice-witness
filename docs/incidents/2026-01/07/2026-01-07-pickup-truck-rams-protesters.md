@@ -24,29 +24,11 @@ In the chaotic aftermath of the Renee Good shooting, federal agents drove a whit
 ## Affected Individual(s)
 - **Names:** Not disclosed
 - **Citizenship:** Unknown
-- **Injuries:** Unknown, but Em Cassel reported people were "knocked to the ground"
+- **Status:** Unknown
 
-## Context
-This incident occurred on January 7, 2026, in the hours following the fatal shooting of Renee Good by ICE agent Jonathan Ross at 34th Street and Portland Avenue. As federal agents attempted to leave the scene, protesters blocked their vehicles. Multiple confrontations ensued.
+## Key Quotes
 
-## Timeline
-- **Morning:** ICE agent shoots and kills Renee Good at 34th & Portland.
-- **Afternoon:** Large crowd gathers at the scene.
-- **During standoff:** Federal agents attempt to leave while protesters block vehicles.
-- **Alley incident:** Agents drive pickup truck into protesters while turning into alley off 34th.
-- **Same period:** Several rounds of chemical munitions fired at protesters and journalists.
-
-## Witness Accounts
-
-### Em Cassel (Racket co-owner/editor)
-Posted on Bluesky: "they gassed us, they knocked folks to the ground, and i watched agents ram a white pickup into a group of protesters, if you're wondering who was actually doing car violence."
-
-Posted video with caption: "interesting! here's a video i took yesterday of federal agents ramming community members with their car"
-
-The video post received approximately 9,655 likes, 209 replies, and 3,524 shares.
-
-### Racket Reporting
-From their on-scene coverage: "The situation occasionally escalated as federal agents attempted to drive away and onlookers blocked their vehicles. In one incident, we watched officers drive a pickup truck into protesters as they turned into an alley off of 34th."
+> "The situation occasionally escalated as federal agents attempted to drive away and onlookers blocked their vehicles. In one incident, we watched officers drive a pickup truck into protesters as they turned into an alley off of 34th." — Racket
 
 ## Related Incidents
 - [Renee Good shooting](#2026-01-07-renee-good-shooting) - The fatal shooting that preceded this incident

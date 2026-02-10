@@ -22,13 +22,6 @@ Federal agents detained a woman working as a contract cleaner in the parking lot
 ## Sources
 1. Reddit Post (Feb 3, 2026): [Armed Federal Agents Kidnap People in School Parking Lot](https://www.reddit.com/r/TwinCities/comments/1qv0p4e/armed_federal_agents_kidnap_people_in_school/)
 
-## Details
-- At least 2 armed agents and at least 3 officers total
-- Three vehicles with tinted windows: black Jeep Grand Wagoneer, silver Chrysler minivan, black Dodge Durango
-- Agents took one adult woman from her car, restrained her hands, and left with her
-- A note to families from the school indicated the person was a cleaner employed by a contractor
-- Fraser School is an inclusive daycare and preschool where one-third of students have disabilities including autism
-
 ## Affected Individual(s)
 - **Name:** Not disclosed
 - **Occupation:** Cleaner (employed by contractor)

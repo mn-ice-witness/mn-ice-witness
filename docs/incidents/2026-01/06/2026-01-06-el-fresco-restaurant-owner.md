@@ -24,34 +24,8 @@ Juan Manuel Arellano Zepeda, 48, owner of El Fresco restaurant in Bloomington, w
 ## Affected Individual(s)
 - **Name:** Juan Manuel Arellano Zepeda
 - **Age:** 48
-- **Occupation:** Restaurant owner (El Fresco, Bloomington)
-- **Citizenship:** Mexican national, undocumented
-- **Criminal Record:** None, according to family
-- **Family:** Children are U.S. citizens, born in Minnesota
-
-## Timeline
-- **~09:30** - Arellano Zepeda leaves Apple Valley home for work.
-- **Unknown** - Detained by ICE.
-- **Later** - Family cannot locate him, ICE declines to confirm detention.
-- **Later** - Entered into national missing-person database.
-- **Afternoon** - ICE tells police he was detained and released (untrue).
-- **Later** - Family sees him in DHS/ICE social media video.
-- **After verification** - Family notifies Apple Valley police he's in federal custody.
-- **Transfer** - Moved to facility near MSP Airport, then El Paso, Texas.
-
-## Official Accounts
-
-### ICE Response
-Initially declined to disclose whether Arellano Zepeda had been detained. Later told police he had been "detained and released" - which was false.
-
-### Family Statement
-Daughter Laura Janyra Arellano Molina confirmed her father has no prior criminal record and that she and her siblings are U.S. citizens born in Minnesota.
-
-## How Family Confirmed Detention
-Family received screenshots from a video posted on DHS and ICE social media accounts showing Arellano Zepeda seated inside an ICE facility.
-
-## Current Status
-Listed in ICE detainee database as being held at facility in El Paso, Texas. Was transferred there from Minnesota due to "space limitations."
+- **Nationality:** Mexican
+- **Immigration status:** Undocumented
 
 ## Editorial Assessment
 **HIGH** - Multiple news sources, family statements, ICE database confirmation. Demonstrates pattern of ICE not disclosing detentions and targeting community business owners with no criminal record.

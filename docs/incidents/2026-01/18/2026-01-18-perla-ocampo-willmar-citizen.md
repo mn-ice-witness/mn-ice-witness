@@ -16,31 +16,19 @@ last_updated: 2026-02-02T22:22:30
 
 ## Summary
 
-Perla Ocampo, an 18-year-old college student born in Willmar, Minnesota, was pulled from her vehicle by ICE agents, slammed against the car door, and restrained. She was released only after agents saw her birth certificate, at which point they untied her and said, "Have a good night." In the days before this incident, ICE agents had followed her home from work on multiple occasions, and she reported not going home one night because agents were circling the house where she was staying.
+Perla Ocampo, an 18-year-old college student born in Willmar, Minnesota, was pulled from her vehicle by ICE agents, slammed against the car door, and restrained. She was released only after agents saw her birth certificate. In the days before this incident, ICE agents had followed her home from work on multiple occasions.
 
 ## Sources
 
 1. Daily Yonder (Feb 2, 2026): [A Small Town Under ICE Occupation](https://dailyyonder.com/a-small-town-under-ice-occupation/2026/02/02/)
 2. West Central Tribune (Jan 20, 2026): [Willmar Council hears from community members regarding DHS activities](https://www.wctrib.com/news/local/willmar-council-hears-from-community-members-regarding-dhs-activities)
 
-## Details
+## Affected Individual(s)
 
-- **Affected individual:** Perla Ocampo, 18, college student
-- **Citizenship:** U.S. citizen (born in Willmar, MN)
-- **What happened:** Pulled from vehicle, slammed against car door, restrained
-- **Released:** After showing birth certificate
-- **Pattern:** Followed from work by ICE agents twice in one week prior to the vehicle incident
-- **Quote:** "I was born here in Willmar. But my color's brown, so they think, 'oh, she's illegal.'"
-
-## Context
-
-Ocampo spoke publicly about her experience at the Willmar City Council meeting on January 20, 2026. She also volunteers as a "lunch buddy" at a local elementary school, where she has heard children express fear about being taken by ICE. She said her six-year-old niece is afraid to go to school because her friends are missing.
-
-## Timeline
-
-- **Mid-January 2026** - ICE agents follow Ocampo home from work on multiple occasions.
-- **~January 18, 2026** - Ocampo is pulled from her vehicle, restrained, and released after showing birth certificate.
-- **January 20, 2026** - Ocampo addresses Willmar City Council about her experience.
+- **Name:** Perla Ocampo
+- **Age:** 18
+- **Nationality:** American (born in Willmar, MN)
+- **Status:** U.S. citizen
 
 ## Editorial Assessment
 

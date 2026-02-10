@@ -29,17 +29,6 @@ A video shows an ICE agent telling a legal observer "You raise your voice, I era
 - **Role:** Legal observer
 - **Name:** Not disclosed
 
-## What Happened
-
-The video, shared by journalist Prem Thakker and attributed to MinnMaxShow, shows an ICE agent speaking from his vehicle to a legal observer. The agent stated: "You raise your voice, I will erase your voice." When the observer sought clarification, the agent confirmed the threat.
-
-## Context
-
-This incident occurred amid heightened tensions following the fatal shooting of Alex Pretti on January 24, 2026. The New Republic reported this alongside other threatening incidents, including:
-- ICE agents in Maine visiting observer Liz Eisele McLellan's home saying "This is a warning. We know you live right here."
-- Federal agents threatening Minneapolis volunteers with inclusion in a "database" labeling them domestic terrorists
-- CBP agents mooning protesters from a hotel window in Maple Grove
-
 ## Editorial Assessment
 
 **LOW** - Video confirmed by two news outlets (Raw Story, The New Republic). Target identified as legal observer. Full exchange documented. However, observer's identity not disclosed and exact location within Minneapolis not specified.

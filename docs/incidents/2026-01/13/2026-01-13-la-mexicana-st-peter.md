@@ -21,29 +21,11 @@ ICE agents arrested a customer at La Mexicana Market and Restaurant in St. Peter
 1. St. Peter Herald (Jan 13, 2026): [Region responds as ICE activity surges in Southern Minnesota](https://www.southernminn.com/st_peter_herald/news/region-responds-as-ice-activity-surges-in-southern-minnesota/article_0feb9e76-16c4-4aa8-b4ef-853db9bf955c.html)
 
 ## Affected Individual(s)
-- **Description:** Local customer
-- **Transportation:** Had biked to the store
-- **Activity:** Paying for a drink at the time of arrest
+- **Name:** Not disclosed
+- **Status:** Unknown
 
-## What Happened
-According to staff member Zulma Sanchez, three ICE agents arrived at La Mexicana Market moments after a local customer had ridden his bike to the store. As the customer was paying for his drink, the agents prepared to detain him.
-
-When Sanchez's mother (the owner) asked the agents to produce a warrant, they responded that they did not need a warrant in a public area. The agents took the man outside, placed him under arrest, and drove off.
-
-## Witness Statement
-
-### Zulma Sanchez (Staff member)
-"It's just scary, you just freeze."
-
-"People don't want to go out because they also fear the same. They fear they are doing their normal day-to-day things and they don't feel safe."
-
-## Impact on Business
-- Dining area normally busy at lunch was nearly empty the next day.
-- "It's not as [usually] as quiet as it is," Sanchez noted.
-- Widespread fear among non-citizen neighbors regardless of legal status.
-
-## Context
-This arrest was part of "Operation Metro Surge" extending into Southern Minnesota. It demonstrates ICE enforcement reaching into small town businesses outside the Twin Cities metro, creating a chilling effect on immigrant communities.
+## Key Quote
+"It's just scary, you just freeze." — Zulma Sanchez, staff member
 
 ## Editorial Assessment
 **HIGH** - Local newspaper reporting with named witness (staff member Zulma Sanchez). Clear documentation of the arrest and its immediate impact on the community. Demonstrates pattern of warrantless arrests in public spaces.

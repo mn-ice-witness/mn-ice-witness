@@ -25,16 +25,6 @@ Jose, a Salvadoran immigrant with legal withholding-of-removal protection status
 - **Origin:** El Salvador
 - **Legal Status:** Withholding of removal protection (legal status meant to bar deportation)
 - **Occupation:** Construction worker
-- **Background:** Former cop who turned down offers to work with gangs inside El Salvador's corrupt police force
-
-## What Happened
-Federal agents detained Jose during his lunch break at Lomabonita restaurant on St. Paul's East Side. After his detention, agents abandoned his vehicle - which contained his construction tools - at Margaret Street and White Bear Avenue.
-
-## Legal Status Concern
-Jose had "withholding of removal" protection, a legal status that is supposed to prevent deportation. His detention despite this protection raises significant legal questions about whether ICE is detaining people with valid legal status.
-
-## Vehicle Abandonment
-The abandonment of Jose's vehicle with his construction tools inside is part of a pattern documented by Unicorn Riot, where ICE agents leave detainees' vehicles without calling responders or making arrangements for the property.
 
 ## Editorial Assessment
 **MEDIUM** - Single source (Unicorn Riot) but detailed account. The legal status claim (withholding of removal) is significant and verifiable through court records. Demonstrates pattern of detaining people with legal protections.

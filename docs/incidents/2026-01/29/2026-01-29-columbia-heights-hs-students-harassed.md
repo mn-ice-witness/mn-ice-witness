@@ -33,29 +33,11 @@ Three Columbia Heights High School students had their cars surrounded by ICE veh
 - **Student 3:** Third student whose car was surrounded (no additional details)
 - **Status:** All students released/allowed to proceed; none detained
 
-## What Happened
+## Key Quotes
 
-### Superintendent Stenvik's Account (NPR Interview)
+> "It's not my job to talk to a 16-year-old child like I had to do this morning and talk them down and listen to them about their experiences where they had to show their passport to masked agents." — Superintendent Zena Stenvik, NPR
 
-On the morning of Thursday, January 29, 2026, Superintendent Zena Stenvik described the situation to NPR:
-
-> "It's not my job to talk to a 16-year-old child like I had to do this morning and talk them down and listen to them about their experiences where they had to show their passport to masked agents. That should never be any superintendent or teacher or educator's job. This child was lawfully driving on their way to school."
-
-> "I know for a fact right now behind our high school in the park, there are ICE agents looming, and they've been circling my schools again this morning, parked outside of my middle school."
-
-Three high school students in total had their vehicles surrounded by ICE while driving to school that morning.
-
-## Context
-
-Columbia Heights schools have been heavily impacted by ICE activity:
-- **Jan 20:** Four students detained, including 5-year-old Liam Conejo Ramos, while walking home from Valley View Elementary
-- **Jan 24:** Three ICE vehicles descended upon the Columbia Heights high school during a volleyball tournament. "So, apparently, we can't just have a good old volleyball tournament without harassment," Superintendent Stenvik said.
-- **Jan 29:** Mother of two Valley View students detained during immigration check-in; principal drove children to Whipple Building
-- **Jan 29:** Two more children from Valley View Elementary reported in ICE custody
-- At least 6 Columbia Heights students now confirmed detained or in ICE custody
-- **Feb 2:** A bomb threat closed Columbia Heights schools on Monday, February 2, further escalating anxiety for students and families already under stress from ongoing ICE presence.
-
-One parent described the daily fear: "When I come to school in the morning, I take a lap around my block with my truck first to see who is there, sitting there. When we go to dismiss kids, we look up and down the block."
+> "When I come to school in the morning, I take a lap around my block with my truck first to see who is there, sitting there." — Parent, The New Yorker
 
 ## Editorial Assessment
 **HIGH** - Named school official (Superintendent Stenvik), NPR national interview, specific details about three students and ICE positioning around schools. Part of documented pattern of ICE activity targeting Columbia Heights school community.

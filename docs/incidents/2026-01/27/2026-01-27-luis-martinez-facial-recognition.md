@@ -25,14 +25,5 @@ Luis Martinez, a U.S. citizen, was boxed in by federal agents in a Minneapolis s
 - **Citizenship:** U.S. citizen
 - **Situation:** Stopped while driving to work
 
-## Timeline
-- **Jan 27, morning** - Martinez driving to work in Minneapolis suburb
-- **During stop** - Federal agents box in his vehicle, demand ID
-- **During stop** - Agent holds phone inches from his face, scans features using Mobile Fortify app
-- **After scan** - Released only after producing U.S. passport
-
-## Details
-Martinez was subjected to warrantless facial recognition scanning by federal agents during a traffic stop. The Mobile Fortify app is a biometric identification tool used by DHS. Despite being a U.S. citizen, Martinez was only released after providing his passport as proof of citizenship.
-
 ## Editorial Assessment
 **HIGH** - Named U.S. citizen with direct account published by MPR News. Documents use of facial recognition technology on citizens during Operation Metro Surge. Part of documented pattern of citizens being stopped and questioned during immigration enforcement operations.

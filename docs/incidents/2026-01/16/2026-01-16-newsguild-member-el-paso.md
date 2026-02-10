@@ -23,9 +23,8 @@ A member of the Minnesota Newspaper and Communications Guild was detained by ICE
 
 ## Affected Individual(s)
 - **Name:** Not disclosed
-- **Occupation:** Media worker, member of Minnesota Newspaper and Communications Guild (TNG-CWA)
-- **Citizenship:** Unknown
-- **Background:** Union member working in Minnesota media industry
+- **Nationality:** Unknown
+- **Status:** Unknown (member of Minnesota Newspaper and Communications Guild)
 
 ## Timeline
 - **2026-01-16** - Individual detained by ICE during Operation Metro Surge

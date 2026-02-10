@@ -38,11 +38,7 @@ The mother of a Forward Madison FC Academy player was detained by immigration au
 
 ## Witness Accounts
 Forward Madison Academy Director Aaron Hohlbein:
-> "That was a huge first step to have somebody right there who was willing and able to put their arm around (the player) while in the immediate aftermath."
-
 > "It's outrageous that kids and families are worrying about it to go play a soccer game, which is supposed to be about joy and enjoyment and passion."
-
-> "He's just a wonderful kid. He's somebody who has just been looking for an opportunity to continue to play at the highest level that he can."
 
 Forward Madison COO Conor Caloia:
 > "It has been touching to see the FMFC Academy family and the greater community rally around one of our members in a time of need."

@@ -378,6 +378,65 @@ docs/incidents/2026-01/2026-01-early-description-slug.md
 
 **If you want to include a detail:** Find a source that explicitly states it. If you can't find one, use the more general language from existing sources.
 
+### Fair Use and Summary Length
+
+**Our entries must not replace the original article.** This is both a legal requirement (copyright fair use) and an ethical one — we want to drive readers to the journalists who did the reporting, not substitute for them.
+
+**The core test:** After reading our entry, would a reasonable reader still need to visit the source to get the full story? If the answer is no, our entry is too detailed.
+
+**Why this matters legally:** Under *AP v. Meltwater* (2013) and *Advance Local Media v. Cohere* (2025), summaries detailed enough to replace the original article — even paraphrased ones that mirror the journalist's narrative structure — can constitute copyright infringement. The "market substitution" factor (does our summary reduce the need to read the original?) is what the Supreme Court calls "the single most important element of fair use." This risk is highest with paywalled sources like the Star Tribune, where our free summary directly competes with their subscription model.
+
+**What protects us:** Facts are not copyrightable. Names, dates, locations, outcomes, and government actions are free for anyone to report. Our cross-referencing, pattern analysis, and multi-source synthesis add genuinely new value. What IS protected: the journalist's specific word choices, narrative structure, and storytelling decisions.
+
+#### Single-source entries (especially paywalled sources)
+
+These carry the highest fair use risk. The entry must be a pointer to the source, not a retelling.
+
+| Element | Guideline |
+|---------|-----------|
+| **Summary** | 2-3 sentences of bare facts (who, what, where, when, outcome) |
+| **Narrative sections** | No "What Happened" section — retelling a single journalist's story is substitutive |
+| **Direct quotes** | Maximum 1 short quote, and only if essential to document the civil rights issue |
+| **Affected Individual(s)** | Name, age, nationality, immigration status — essentials only |
+| **Do not include** | Health details, family background stories, emotional scenes, departure narratives, or other details that constitute the journalist's storytelling |
+
+**The reader should want to click through** to the source for the full story.
+
+#### 2-3 source entries
+
+| Element | Guideline |
+|---------|-----------|
+| **Summary** | 3-4 sentences |
+| **Timeline** | Permitted if based on facts from multiple accounts |
+| **Direct quotes** | Maximum 2 short quotes from different sources |
+| **Affected Individual(s)** | Can include more detail when sourced from multiple outlets |
+
+#### 5+ source entries (synthesis)
+
+Combining many independent sources into a unified account is genuinely transformative and carries low fair use risk.
+
+| Element | Guideline |
+|---------|-----------|
+| **Narrative sections** | Justified when synthesizing many independent reports |
+| **Quotes** | From different sources — creates new context no single article provides |
+| **Pattern analysis** | Cross-referencing incidents adds original value |
+| **Detail level** | Can be higher because no single source is being substituted |
+
+#### Always safe to include (regardless of source count)
+
+- **Bare facts:** Names, dates, locations, agencies involved, outcomes (facts are not copyrightable)
+- **Our own cross-references:** Links to related incidents on our site
+- **Pattern context:** How this incident connects to broader enforcement trends
+- **Public records:** Court filings, government press releases, official statements
+- **Our editorial assessment:** Original analysis of source credibility
+
+#### Always avoid (regardless of source count)
+
+- **Reproducing a journalist's narrative structure** — if the article tells the story chronologically from dawn to departure, organize your summary differently
+- **Extensive direct quotes from a single article** — quotes are often "the heart of the work" (*Harper & Row v. Nation Enterprises*)
+- **Details that exist only to tell the human story** (farewell gatherings, weather descriptions, emotional scenes) — these are the journalist's creative work, not facts needed for civil rights documentation
+- **Paraphrasing that mirrors the original's storytelling choices** — even rewriting in your own words can infringe if you follow the same narrative arc (*Advance Local Media v. Cohere*)
+
 Use the schema from `incident-schema.md`. At minimum include:
 
 #### ⚠️ TIMESTAMP WARNING

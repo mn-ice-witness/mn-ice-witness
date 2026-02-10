@@ -15,7 +15,7 @@ last_updated: 2026-02-07T17:57:07
 # Church Food Distribution Volunteer Detained at Routine Immigration Check-In
 
 ## Summary
-Alexander William Tique-Marin, a 36-year-old Colombian asylum seeker, was detained on January 23 during a routine immigration check-in appointment related to his ongoing asylum case. Within hours, he was transferred out of Minnesota to Camp East Montana in Texas. Tique-Marin and his family had been dedicated volunteers at La Vina Comunidad Cristiana, a Spanish-speaking church in Burnsville, where they helped distribute food to thousands of families every Monday. He held a full-time job and had complied with every requirement of his immigration case. DHS stated he entered illegally in 2023, was removed, then re-entered in July 2024 and was released by the Biden administration.
+Alexander William Tique-Marin, a 36-year-old Colombian asylum seeker, was detained on January 23 during a routine immigration check-in appointment related to his ongoing asylum case. Within hours, he was transferred out of Minnesota to Camp East Montana in Texas. Tique-Marin had been a dedicated volunteer at La Vina Comunidad Cristiana in Burnsville, held a full-time job, and had complied with every requirement of his immigration case. DHS stated he entered illegally in 2023, was removed, then re-entered in July 2024.
 
 ## Sources
 1. Newsweek (Feb 4, 2026): [Minnesota Church Volunteer Detained By ICE At Immigration Appointment](https://www.newsweek.com/minnesota-church-volunteer-detained-by-ice-immigration-appointment-11465075)
@@ -49,11 +49,6 @@ DHS spokeswoman Tricia McLaughlin stated Tique-Marin "entered illegally in 2023 
 
 **Claudia Patricia Vasquez (partner):**
 > "We were doing everything they told us, everything."
-
-**Pastor Doug Pagitt (Executive Director, Vote Common Good):**
-> "ICE is no longer an apolitical department focused on immigration laws, rather it is an instrument of President Trump's agenda to sow chaos and carry out repression in Democratic states and cities."
-
-Church leaders stated Tique-Marin "complied with every requirement, showed up for his check-ins, held a full-time job, and served his community every week by helping feed people" but "was detained without warning and disappeared out of state within hours, leaving his family without answers."
 
 ## Editorial Assessment
 **HIGH** - Newsweek article with named affected individual, named partner, named pastors (Miguel Aviles, Doug Pagitt), DHS statement included. Detained at a routine check-in for a pending asylum case, not during an enforcement raid.

@@ -29,35 +29,10 @@ A Minneapolis man using the pseudonym "Javier" for safety reasons was among doze
 ## Affected Individual(s)
 - **Name:** "Javier" (pseudonym used for safety)
 - **Citizenship:** U.S. citizen
-- **Residence:** Lives a few blocks from the shooting scene
-- **Criminal charges:** None filed
-- **Status:** Released
+- **Status:** Released, no charges filed
 
-## What Happened
-Javier recalled arriving at the scene at 26th and Nicollet after neighbors alerted him to an ongoing ICE raid.
-
-**In his words:**
-> "At that point in time, it's not about me. It's about the cause — our people being protected. It's about these people coming here to better their lives."
-
-He witnessed the shooting of Alex Pretti:
-> "I watched the agent shoot him. Whether I knew him or not, he died for the cause."
-
-After the shooting, agents turned on Javier and others in the vicinity. They were taken to the Whipple Building and held for several hours.
-
-## Detention at Whipple Building
-Javier said he was held first by himself, then with almost two dozen others from the scene. Detainees were given water, food, and medical attention.
-
-**On the conditions:**
-> "It's just cold all around, bro. It just sucks the life out of you. You lose all hope."
-
-Federal court records show no formal charges have been filed against Javier.
-
-## Context
-New affidavits filed in court detail how witnesses were arrested immediately after the shooting of Alex Pretti. Javier was among dozens of people agents referred to as "USCs" — United States citizens in custody.
-
-A face painter who was also present at the scene has stated that agents appeared to be specifically looking for her, suggesting the detentions of observers may have been targeted rather than incidental.
-
-This detention is part of a pattern documented by the ACLU of Minnesota, which filed a lawsuit (Tincher v. Noem) on behalf of six Minnesotans who allege ICE agents detained or arrested them for observing or recording enforcement actions.
+## Key Quotes
+> "It's just cold all around, bro. It just sucks the life out of you. You lose all hope." — Javier, on detention conditions at Whipple Building
 
 ## Editorial Assessment
 **HIGH** - Named source (using pseudonym for safety), video interview with CBS Minnesota, court affidavits filed, professional journalism from CBS Minnesota with reporter Jonah Kaplan.

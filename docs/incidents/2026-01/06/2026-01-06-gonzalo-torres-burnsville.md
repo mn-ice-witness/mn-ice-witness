@@ -54,9 +54,5 @@ A USA Today / El Paso Times investigation published in October 2025 documented c
 **Constanza Palma:**
 > "Gonzalo doesn't deserve to be out of touch with his family, he doesn't deserve to be detained for so long."
 
-> "During our last call he was very anxious, very frustrated with the situation he's in."
-
-> "It's as if he were one of the worst criminals, the most wanted on the FBI's blacklist."
-
 ## Editorial Assessment
-**MEDIUM** - Single Tier 1 source (Sahan Journal) with named affected individual, named girlfriend providing corroboration, and specific factual details about arrest, timeline, and conditions.
+**MEDIUM** - Single source (Sahan Journal) with named affected individual, named girlfriend providing corroboration, and specific factual details about arrest, timeline, and conditions.

@@ -27,35 +27,19 @@ Thao Xiong, a Hmong community activist and food shelf volunteer, was detained by
 
 - **Name:** Thao Xiong
 - **Ethnicity:** Hmong
-- **Status:** Has removal order from February 23, 2010
-- **Family:** Father of a young daughter
-- **Background:** Released from prison in November 2016; became active with In Progress, a St. Paul-based arts nonprofit, around 2018; volunteered as food shelf delivery driver
+- **Status:** Has removal order from February 23, 2010; father of a young daughter
 
-## What Happened
+## Key Details
 
-Just before 7:30 a.m. on Wednesday, January 28, Xiong was among a group of volunteers arriving to unload a truck bringing the largest weekly delivery to the food shelf in St. Paul's Cathedral Hill neighborhood.
+Federal agents were waiting in the parking lot of the community center. According to video footage, agents approached Xiong, handcuffed him, and placed him into one of three black SUVs despite his attempts to show documentation. Benny Roberts, director of the Hallie Q. Brown Community Center, confirmed a volunteer had been detained.
 
-Federal agents were waiting in the parking lot. According to video footage, agents approached Xiong, handcuffed him, and forced him into one of three black SUVs despite his attempts to show documentation and objections from center staff.
+DHS stated that Xiong has a removal order dated February 23, 2010, and that he would remain in custody pending removal.
 
-"I showed them my documents already," Xiong can be heard on video explaining to a center staffer who recorded him being led away. "He volunteers here," the staffer told the agents.
+## Key Quotes
 
-St. Paul City Council Member Anika Bowie later shared news of the detention on Facebook.
+> "I showed them my documents already." — Thao Xiong, captured on video (Pioneer Press)
 
-Xiong had been volunteering at the food shelf since the summer. Food shelf manager Althea Lankford said he is an outgoing man who started volunteering while between jobs. He had found work recently, so he had less time to volunteer lately.
-
-Benny Roberts, director of the Hallie Q. Brown Community Center, confirmed a volunteer had been detained and said the center is "working to ensure the family receives all possible supports and resources."
-
-## Xiong's Rehabilitation
-
-In a 2018 video interview with a local nonprofit, Xiong admitted to selling drugs and stealing cars as a younger man but said he worked hard to turn his life around after his 2016 release from prison.
-
-"I wanted to be somebody that would change my community," he said in the video. "I wanted to be a leader."
-
-## DHS Response
-
-DHS stated that Xiong has a removal order dated February 23, 2010, and that he would remain in custody pending removal, being processed at the Whipple Building.
-
-According to DHS, his prior record includes carrying prohibited weapons, terroristic threats, domestic violence, burglary, vehicle theft, cocaine possession, and larceny.
+> "We are working to ensure the family receives all possible supports and resources." — Benny Roberts, Center Director (Pioneer Press)
 
 ## Editorial Assessment
 

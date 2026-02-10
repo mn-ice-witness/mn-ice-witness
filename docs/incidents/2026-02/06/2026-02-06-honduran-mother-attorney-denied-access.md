@@ -24,20 +24,6 @@ A Honduran mother of two with a pending asylum case, valid work permit, and rece
 - **Name:** Not disclosed
 - **Nationality:** Honduran
 - **Status:** Pending asylum case with valid work permit
-- **Medical:** Recent brain surgery
-- **Family:** Mother of two
-
-## Timeline
-- **Unknown date** - Woman taken into federal custody despite pending asylum case and valid work permit.
-- **After arrest** - Federal judge orders her release.
-- **Following days** - Attorney Danielle Robinson Briand repeatedly denied access to client. Unable to locate her in the immigration custody system for several days.
-- **Eventually** - Woman released, but ICE retains her work permit and social security card.
-
-## Affected Individual Statement
-Attorney Robinson Briand described the experience as "very traumatizing" and "horrifying" for her client.
-
-## Legal Representation
-- **Attorney:** Danielle Robinson Briand, owner of Justicias Law
 
 ## Editorial Assessment
 **MEDIUM** - Single source (CBS Minnesota) with named attorney providing account. Specific details about pending asylum case, work permit, brain surgery, and retained documents. No second source or independent corroboration yet.

@@ -45,8 +45,6 @@ Franklin sought information from DHS officials on Monday (February 2). DHS told 
 Smith shared video stating he personally verified the detained man's citizenship documents:
 > "I have personally seen their passport, they were born here in this country, in MN."
 
-> "The ICE agents involved were told this information multiple times by observers, including an elected official, and they still arrested this individual."
-
 ### Rochester City Council (Feb 2)
 Several council members and community speakers referenced this incident during a meeting where the council debated joining a lawsuit against the federal government over ICE enforcement. The council split on the issue.
 

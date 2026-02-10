@@ -39,20 +39,12 @@ Rachel Dionne-Thunder, vice president of the Indigenous Protector Movement and a
 ## Witness Accounts
 
 ### Rachel Dionne-Thunder
-On the community response:
 > She described experiencing "protection and power from our people" when the community intervened.
 
-On identification and safety:
 > "Carrying identification does not guarantee safety."
-
-On the land:
-> "This area that we're on, this land, is unceded Dakota territory. And that is backed by treaties signed by the federal government."
-
-On the broader pattern:
-> "It's not a surprise to me. Rights have always been violated for us as Native people."
 
 ## Context
 The confrontation occurred two days after ICE agent Jonathan Ross fatally shot Renee Good on January 8. The Many Shields Society and American Indian Movement's Grand Governing Council regularly patrol the Cultural Corridor, a tradition dating to AIM's founding in 1968. Following the incident, Minnesota tribal nations — including Leech Lake Band, Mille Lacs Band, White Earth Nation, and Bois Forte Band — began issuing identification cards to protect members.
 
 ## Editorial Assessment
-**MEDIUM** - Three Tier 2 sources (ICT News / Indian Country Today, CBS Minnesota, Buffalo's Fire). Named affected individual with video evidence (Facebook Live). Incident corroborated by community organization accounts and consistent with broader pattern of ICE targeting observers in Minneapolis.
+**MEDIUM** - Three sources (ICT News / Indian Country Today, CBS Minnesota, Buffalo's Fire). Named affected individual with video evidence (Facebook Live). Incident corroborated by community organization accounts and consistent with broader pattern of ICE targeting observers in Minneapolis.

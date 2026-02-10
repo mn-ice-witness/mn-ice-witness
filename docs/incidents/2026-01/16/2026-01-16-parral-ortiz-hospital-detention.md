@@ -15,18 +15,17 @@ last_updated: 2026-01-19T12:56:14
 # Man Detained While Driving Sick Wife to Emergency Room
 
 ## Summary
-Liborio Parral Ortiz was detained by ICE agents while driving his wife Bonfilia Sanchez Dominguez to the emergency room for severe back pain. Agents blocked their vehicle before they could reach Mercy Hospital Unity Campus in Fridley. Parral Ortiz was taken into custody and transported to El Paso, Texas within 20 hours—before his family could bring him his diabetes medication. His wife was taken to the hospital by ICE agents, but family members and her attorney were blocked from accessing her bedside.
+Liborio Parral Ortiz was detained by ICE agents while driving his wife Bonfilia Sanchez Dominguez to the emergency room for severe back pain. Agents blocked their vehicle before they could reach Mercy Hospital Unity Campus in Fridley. Parral Ortiz was transported to El Paso, Texas within 20 hours, before his family could bring his diabetes medication.
 
 ## Sources
 1. Sahan Journal (Jan 17, 2026): [Medical emergency turns into nightmare as ICE detains Mounds View couple en route to ER](https://sahanjournal.com/health/ice-detains-mounds-view-couple/)
 2. GoFundMe (Jan 17, 2026): [Liborio Parral & Bonfilia Sanchez](https://www.gofundme.com/f/LiborioParralBonfiliaSanchez)
 
 ## Affected Individual(s)
-- **Name:** Liborio Parral Ortiz (detained); Bonfilia Sanchez Dominguez (hospitalized, blocked from family)
+- **Name:** Liborio Parral Ortiz (detained); Bonfilia Sanchez Dominguez (hospitalized)
 - **Age:** Unknown
-- **Occupation:** Manufacturing worker (20 years at local company); restaurant owners (El Tapatio in Willmar)
-- **Citizenship:** Undocumented (in US since 1989)
-- **Background:** The couple has lived in the United States since 1989—more than 35 years. They moved to Minnesota 20 years ago for Parral Ortiz's manufacturing job and have lived in Mounds View. They are owners of El Tapatio restaurant in Willmar and are active members of their Seventh-day Adventist Church, serving in Pathfinders, children's ministry, and as deacon and deaconess.
+- **Nationality:** Mexican
+- **Status:** Undocumented (in US since 1989)
 
 ## Timeline
 - **~06:30** - Parral Ortiz is driving his wife, who is experiencing severe back pain, to Mercy Hospital Unity Campus in Fridley
@@ -48,11 +47,7 @@ No official statement specific to this detention has been released.
 No local official statements documented.
 
 ## Witness Accounts
-**Shelly (daughter):** "They got in front of their car and didn't let them go past. They started opening their doors and pulling them. They were not asking them any questions, they just started grabbing them."
-
-Shelly reported that when she and her brother arrived at the hospital, ICE agents were stationed outside their mother's room. Hospital staff warned them that if they left, they would not be allowed to return to see their mother.
-
-**Family attorney:** When the attorney attempted to speak with Sanchez Dominguez at the hospital, security staff threatened to arrest him.
+**Shelly (daughter):** "They got in front of their car and didn't let them go past. They were not asking them any questions, they just started grabbing them."
 
 ## Related Incidents
 This family was targeted in multiple ICE operations:

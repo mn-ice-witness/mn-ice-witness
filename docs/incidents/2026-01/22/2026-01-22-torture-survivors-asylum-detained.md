@@ -28,14 +28,5 @@ The Center for Victims of Torture, a St. Paul nonprofit, reported that four of t
 - **Work Authorization:** All have valid work permits
 - **Criminal History:** None
 
-## What Happened
-Four clients of the Center for Victims of Torture were detained by ICE despite having pending asylum cases and legal work authorization. At least one was tackled in the snow in front of coworkers while ICE agents reportedly laughed.
-
-## Center for Victims of Torture Statement
-The nonprofit reported that these individuals were in the United States legally with pending asylum cases and valid work permits. None had criminal records. The center warned that ICE enforcement is causing "isolation and suicidal ideation" among their clients.
-
-## Context
-The Center for Victims of Torture is a St. Paul-based nonprofit that provides services to survivors of torture and war trauma. Many of their clients are asylum seekers who fled persecution in their home countries.
-
 ## Editorial Assessment
 **HIGH** - Coverage from KARE 11 with statements from established nonprofit organization (Center for Victims of Torture). Documents detention of legally present asylum seekers with no criminal history. The detail about being "tackled in the snow while agents laughed" indicates potential excessive force.

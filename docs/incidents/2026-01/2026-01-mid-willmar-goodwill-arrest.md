@@ -51,14 +51,8 @@ Twelve ICE agents in six vehicles arrested a man and his wife in the Goodwill pa
 On agents not confirming identity:
 > "If you don't know their name, what makes you think they're the 'worst of the worst?'"
 
-On the wife's arrest:
-> "But they still cuffed her, and in the van she went."
-
 ### Adyssey Barrett (15 years old)
 Described the scene as dangerous. She left the car despite her mother's instructions and approached agents while recording. She asked to see a judicial warrant and was threatened with arrest.
-
-### Unnamed Witness (Gonzalez)
-> "It looked like it was an FBI raid."
 
 ## Editorial Assessment
 **MEDIUM** - Three sources (Mankato Free Press, Daily Yonder, In These Times) with named witnesses providing consistent accounts. Affected individuals not named, limiting independent verification. Specific operational details (12 agents, 6 vehicles, judicial warrant request, wife's confused detention) add credibility.

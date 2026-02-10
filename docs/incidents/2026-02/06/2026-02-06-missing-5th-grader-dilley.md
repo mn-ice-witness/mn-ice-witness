@@ -45,24 +45,13 @@ Nearly a month after a Valley View Elementary fifth grader stopped showing up fo
 - **Early February** - Two brothers (classmates from same school) released from Dilley with their mother.
 - **Upon release** - Brothers report to school that they saw the missing girl inside the detention center.
 
-## Witness Accounts
+## Key Quotes
 
-### Principal Jason Kuhlman (Valley View Elementary)
-On learning the missing student was in Dilley:
+**Principal Jason Kuhlman (Valley View Elementary):**
 > "It was surreal. It was like, 'Are you kidding me?' I wonder ... how many kids are MIA?"
 
-On ICE impact on education:
-> "This is not political. This is about little humans wanting to come to school."
-
-> "Education is being interfered with — kids can't learn. Racial profiling, terrorizing families and children, pulling Black and Brown people out of cars: I call it a snatch and grab."
-
-### Superintendent Zena Stenvik (Columbia Heights Public Schools)
-On the scale of detentions:
+**Superintendent Zena Stenvik (Columbia Heights Public Schools):**
 > "We have had several ICE agents driving up and down, and around our schools, circling throughout the day over the last few weeks. We feel under siege."
-
-On detained students: At least seven students from the district detained by federal agents in recent weeks, ranging in age from five to seventeen. Staff are stationed at every corner of the school during arrival and dismissal. Teachers walk children from at-risk communities to school. Dozens of students now learning online because they are too afraid to leave their homes.
-
-> "We seek the full release of all children and unjustly detained parents from detention centers across our country. We seek a diplomatic and peaceful solution to end this terror that the enhanced immigration enforcement is causing in our community, our state and our county."
 
 ## Official Accounts
 

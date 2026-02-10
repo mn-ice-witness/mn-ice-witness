@@ -24,33 +24,11 @@ Video circulating on social media shows an ICE agent approaching a woman who was
 
 ## Affected Individual(s)
 - **Name:** Unknown
-- **Citizenship:** Unknown
-- **Status:** Phone snatched while filming
+- **Nationality:** Unknown
+- **Status:** Unknown
 
-## Timeline
-- **Unknown time** - Woman films ICE operation from a distance
-- **During filming** - ICE agent walks approximately 17 steps toward her
-- **Confrontation** - Agent says "Have you all not learned over the last couple of days"
-- **Moments later** - Agent snatches phone from her hand
-
-## What the Video Shows
-The video shows an ICE agent deliberately walking toward a woman who was filming from a safe distance. The agent reportedly had to walk approximately 17 steps to reach her, indicating she was not blocking or interfering with the operation. The agent tells her "Have you all not learned over the last couple of days" and falsely claims that following federal agents is illegal before snatching her phone.
-
-## Legal Context
-Filming law enforcement in public spaces is legal and protected by the First Amendment. Following federal agents on public streets is not illegal.
-
-## Official Accounts
-
-### DHS/ICE Statement
-No official statement found on this specific incident.
-
-### Commentary
-Social media commenters noted: "He took 17 steps to approach her. She was nowhere near him while she was filming. Filming in public is legal."
-
-## Context
-This incident reportedly occurred during the same period as other documented observer confrontations in Minneapolis. Multiple videos from this time period show ICE agents physically confronting observers who were filming operations.
-
-**Note:** This is a separate incident from the [observer shoved into traffic](#2026-01-11-observer-shoved-into-traffic) on the same date, which involved a man standing in front of an ICE vehicle.
+## Related Incidents
+- [Observer Shoved Into Oncoming Traffic While Filming ICE](#2026-01-11-observer-shoved-into-traffic) — Separate incident on the same date
 
 ## Editorial Assessment
 **LOW** - Single social media source (Threads) but video appears to be from NBC Nightly News broadcast with chyron "NEW VIDEO SHOWS MINNEAPOLIS RESIDENTS CONFRONTING ICE AGENTS." Original NBC source not yet located.

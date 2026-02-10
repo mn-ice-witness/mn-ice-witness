@@ -15,7 +15,7 @@ last_updated: 2026-02-08T14:16:20
 # Observer Pepper Sprayed in Face by Agent from Same Vehicle That Threatened Him Two Days Earlier
 
 ## Summary
-Troy Carrillo, a 40-year-old Richfield resident and health insurance salesman, was pepper sprayed twice in the face by ICE agents while attempting to record them detaining an elderly woman in a Sam's Club parking lot in Bloomington on January 9, 2026. Carrillo recognized the vehicle — a maroon Dodge Ram with Iowa plates — as the same one whose occupants had circled his car, pointed mace at him, and photographed him and his vehicle two days earlier at a nearby Target parking lot. On January 9, an agent jumped out of the Ram, told Carrillo to "back the fuck up, you're impeding," and immediately sprayed him. When Carrillo looked up after the first spray, he was sprayed again. His wife was threatened with arrest for blowing a whistle. The elderly woman agents had been detaining was later released because she had lawful status and had been unlawfully detained.
+Troy Carrillo, a 40-year-old Richfield resident, was pepper sprayed twice in the face by ICE agents while attempting to record them detaining an elderly woman in a Sam's Club parking lot in Bloomington on January 9, 2026. Carrillo recognized the vehicle as the same maroon Dodge Ram that had circled his car and pointed mace at him two days earlier at a nearby Target lot. The elderly woman agents had been detaining was later released because she had lawful status and had been unlawfully detained.
 
 ## Sources
 1. Court filing (Jan 12, 2026): [Declaration of Troy Carrillo, Tincher v. Noem](https://storage.courtlistener.com/recap/gov.uscourts.mnd.229758/gov.uscourts.mnd.229758.60.0_1.pdf)

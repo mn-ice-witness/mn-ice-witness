@@ -36,13 +36,6 @@ A Somali-American Metro Transit bus operator was detained by ICE on December 2, 
 - **January 6, 2026** - Released without explanation, reunited with family
 - **January 14, 2026** - Union President David Stiggers speaks at press conference about case
 
-## Detention Details
-The driver was held for over a month across multiple states:
-- Initially detained in the Minneapolis area.
-- Transferred to Iowa detention facility.
-- Further transferred to Nebraska detention facility.
-- Released January 6, 2026.
-
 ## Official Accounts
 
 ### Union Statement

@@ -27,20 +27,9 @@ Jorge Vergara Rubio, an Ecuadorian cook, was arrested by ICE outside his employe
 - **Entry:** November 2023 (per ICE)
 - **Work Authorization:** Disputed (employer says authorized; ICE says application denied Sept 2025)
 
-## What Happened
-ICE agents arrested Rubio outside Crumbs and Coffee, his workplace in Brooklyn Park. The public nature of the arrest during work hours heightened community fears about ICE enforcement extending into Twin Cities suburbs.
-
 ## Disputed Work Authorization
 - **ICE claim:** Rubio "illegally entered the U.S. in Nov. 2023 and was RELEASED by the Biden administration." Employment authorization application denied September 2025.
 - **Employer claim:** Charles Spies, owner of Crumbs and Coffee, stated Rubio "was legally authorized to work" at the time of arrest.
-
-## Impact
-- Crumbs and Coffee restaurant forced to close
-- Community organizations including CAIR shared resources in response
-- Part of pattern showing Operation Metro Surge extending to suburbs
-
-## Context
-This arrest occurred during the early phase of "Operation Metro Surge," before the January 2026 escalation that brought 2,000+ agents to the Twin Cities. It demonstrated ICE enforcement reaching into suburban communities.
 
 ## Editorial Assessment
 **HIGH** - Local news coverage with named affected individual and employer statement. ICE confirmation of arrest. Demonstrates pattern of workplace enforcement and conflicting claims about legal work status.

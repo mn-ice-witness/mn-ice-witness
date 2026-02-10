@@ -21,25 +21,10 @@ A teacher at Un Mundo Nuevo Children's Academy was detained by ICE on January 7,
 1. Star Tribune (Jan 16, 2026): [Minnesota daycares say ICE is targeting its workers](https://www.startribune.com/minnesota-daycares-say-ice-is-targeting-its-workers/601560204)
 
 ## Affected Individual(s)
-- **Occupation:** Teacher at Un Mundo Nuevo Children's Academy
+- **Name:** Not disclosed
+- **Nationality:** Not disclosed
 - **Immigration status:** Legal resident
-- **Criminal record:** None indicated
-
-## What Happened
-- ICE agents or individuals working with them falsely claimed that someone had hit the teacher's car.
-- When the teacher went outside to investigate, ICE agents detained her.
-- She was released approximately 10 minutes later after her legal status was confirmed.
-- The daycare emailed parents about the incident.
-
-## Daycare Statement
-Un Mundo Nuevo sent an email to parents stating:
-
-> "We came to this country to work honestly, and we are grateful for the opportunities this country has given us. However, what we are experiencing is profoundly unjust."
-
-The daycare, which has branches in Burnsville and Apple Valley, asked supporters to send letters to city officials requesting protection of staff members' rights.
-
-## Context
-This "trick" tactic—using false pretenses to lure someone outside—represents a concerning pattern in ICE operations. The brief detention and quick release after legal status confirmation suggests ICE did not have specific intelligence on this individual.
+- **Status:** Released after approximately 10 minutes
 
 ## Editorial Assessment
 **MEDIUM** - Single source (Star Tribune) citing daycare's email to parents. Daycare did not respond to Star Tribune's requests for more information. Incident confirmed by daycare communication to families. Quick release supports account that she was a legal resident.

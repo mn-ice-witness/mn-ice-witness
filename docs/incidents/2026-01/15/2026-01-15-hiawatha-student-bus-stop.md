@@ -35,8 +35,6 @@ A 12th-grade student at Hiawatha Academies, a public charter school in Minneapol
 ### Hiawatha Academies Statement
 "We recognize that this news is concerning for families and that the disruption happening in our communities is alarming."
 
-"We want you to know that we are here to support our students and our community, and we will continue to communicate in a transparent manner while respecting student privacy."
-
 The school stated it remains open and fully operational, with security protocols including supervised entry and exit, visitor screening, and emergency response procedures. Before closing for the day, the school began providing dedicated yellow buses for any student afraid to ride public buses due to concerns about ICE agents boarding them.
 
 ## Context

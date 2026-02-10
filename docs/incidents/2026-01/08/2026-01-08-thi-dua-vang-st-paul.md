@@ -80,4 +80,4 @@ Thi Dua Vang's detention fits a documented pattern of ICE targeting refugees wit
 
 ## Editorial Assessment
 
-**MEDIUM** - Single Tier 1 source (KARE 11) with detailed reporting including direct interviews with affected individual and family members. Account relies primarily on affected individual's testimony; DHS has not responded to KARE 11's inquiry about why agents continue visiting the home.
+**MEDIUM** - Single major source (KARE 11) with detailed reporting including direct interviews with affected individual and family members. Account relies primarily on affected individual's testimony; DHS has not responded to KARE 11's inquiry about why agents continue visiting the home.

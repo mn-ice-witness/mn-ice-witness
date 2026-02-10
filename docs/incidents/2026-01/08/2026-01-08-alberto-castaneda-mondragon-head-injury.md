@@ -127,4 +127,4 @@ Following AP's initial Jan 31 report, HCMC administrators opened an internal inq
 - [HCMC Patient Shackled](#2025-12-31-hcmc-patient-shackled) - Same hospital, same pattern of shackling patients despite medical concerns
 
 ## Editorial Assessment
-**HIGH** - Multiple Tier 1 sources (AP, MPR News, Sahan Journal, Pioneer Press), federal court filings, named affected individual with detailed first-person account, use-of-force expert opinion, bystander video, specific timeline, hospital records cited as evidence. Federal judge found arrest was unlawful and ordered release.
+**HIGH** - Multiple major sources (AP, MPR News, Sahan Journal, Pioneer Press), federal court filings, named affected individual with detailed first-person account, use-of-force expert opinion, bystander video, specific timeline, hospital records cited as evidence. Federal judge found arrest was unlawful and ordered release.

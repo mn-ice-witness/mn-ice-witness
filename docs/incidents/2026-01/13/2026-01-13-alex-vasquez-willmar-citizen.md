@@ -25,23 +25,10 @@ Alex Vasquez, a 34-year-old U.S. citizen from Willmar, was approached by ICE age
 - [Willmar Student Arrested](#2026-01-13-willmar-student-arrested) - Same day, downtown Willmar.
 
 ## Affected Individual(s)
-
-### Alex Vasquez
+- **Name:** Alex Vasquez
 - **Age:** 34
-- **Citizenship:** U.S. citizen
-- **Residence:** Willmar
-
-## Timeline
-- **Monday afternoon, Jan 13** - Vasquez is at a convenience store on 1st Street in Willmar.
-- **ICE agents approach** - Agents request identification.
-- **Detained** - Agents handcuff Vasquez and place him in their vehicle.
-- **Driven away** - Vehicle drives approximately one mile from the convenience store.
-- **Released** - Vasquez is released in a fast food restaurant parking lot.
-
-## Witness Accounts
-
-### Alex Vasquez
-Vasquez said he knew he was a U.S. citizen and felt fortunate about his release. He noted that his employers planned to provide workers with background check paperwork for future ICE stops.
+- **Nationality:** American
+- **Status:** U.S. citizen
 
 ## Editorial Assessment
 **MEDIUM** - Single source (KWLM Willmar Radio). Named affected individual with specific details about location and sequence of events. Consistent with documented pattern of citizen checks in Willmar during same period.

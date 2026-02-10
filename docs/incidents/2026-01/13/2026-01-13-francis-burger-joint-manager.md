@@ -37,35 +37,14 @@ The kitchen manager at Francis Burger Joint's East Lake Street location in Minne
 - **Arrest** - Manager is tackled, punched repeatedly, and detained
 - **During arrest** - His kitchen shoes are knocked off
 
-## Witness Accounts
+## Key Quotes
 
-### Lindsey Johnston (Co-owner and Head Chef)
-> "His shoes fell off. He had his kitchen shoes on, and they knocked his shoes off. That was the part that kept haunting me—that he was detained and he didn't have shoes on."
+> "His shoes fell off. He had his kitchen shoes on, and they knocked his shoes off. That was the part that kept haunting me—that he was detained and he didn't have shoes on." — Lindsey Johnston, co-owner and head chef
 
-> "It doesn't matter if you're here legally. If you're brown, you're at risk."
-
-> "We learned some things as a result of [our employee] being detained. Now our whole staff knows. If they ask, Do you have a lawyer? you say yes. You assert that immediately. We've made sure everyone knows exactly what to say and who to call."
-
-Johnston noted that the kitchen manager is a white U.S. citizen, which has further increased fears among staff and customers that anyone can be detained, as violence against legal observers in Minnesota continues to escalate.
-
-## Official Accounts
-
-### DHS/ICE Statement
-No specific statement has been issued regarding this detention.
+> "In solidarity with our community, we are closing our East Lake for the night, effective immediately." — Francis Burger Joint social media post
 
 ## Aftermath
-
-### January 7 Closure (Prior Incident)
-Following the Renee Good shooting on January 7, Francis Burger Joint posted on Facebook:
-> "In solidarity with our community, we are closing our East Lake for the night, effective immediately. We are horrified at the events that have happened and are happening in our city and country. We are scared and saddened and furious. Fuck ICE."
-
-### Post-Detention Response
-Following the January 13 detention of their kitchen manager, Francis Burger Joint closed temporarily. When the East Lake Street location reopened, the restaurant offered a 10 percent discount to customers, though some refused the discount, saying they wanted to support the restaurant.
-
-The restaurant implemented new safety protocols:
-- All staff trained on asserting right to legal representation
-- Clear procedures established for ICE encounters
-- Staff know exactly what to say and who to call
+Following the January 13 detention of their kitchen manager, Francis Burger Joint closed temporarily. When the East Lake Street location reopened, the restaurant implemented new safety protocols including training all staff on asserting their right to legal representation.
 
 ## Editorial Assessment
 **HIGH** - Multiple sources including Mpls.St.Paul Magazine feature article and Yahoo News coverage. Named co-owner (Lindsey Johnston) provides direct, detailed account with multiple quotes. The affected individual's name is not disclosed but incident details are specific.

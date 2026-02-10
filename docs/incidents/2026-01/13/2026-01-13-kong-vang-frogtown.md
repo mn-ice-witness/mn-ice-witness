@@ -42,14 +42,11 @@ No official statement regarding this specific encounter.
 ### Local Officials
 No statements from local officials regarding this specific encounter.
 
-## Witness Accounts
-Kong Vang described his emotions: "I'm upset. Frustrated. Scared. All types of emotions."
+## Key Quotes
 
-On his decision not to open the door: "I was afraid they were going to take me away. Take my mom away. Just rush our house and do whatever it is they are trained to do with legal citizens who haven't done anything wrong."
+> "I was afraid they were going to take me away. Take my mom away. Just rush our house and do whatever it is they are trained to do with legal citizens who haven't done anything wrong." — Kong Vang
 
-On the agents' conduct: "They keep telling you they think they are doing the right thing, but they're not."
-
-On why he believes he was targeted: "I was really curious and wondering why they were here. I see they've been targeting people of color. That's the only reason I could think of why they were here."
+> "I see they've been targeting people of color. That's the only reason I could think of why they were here." — Kong Vang, FOX 9
 
 Vang said he posted the video to help others in his community know their rights during ICE encounters.
 

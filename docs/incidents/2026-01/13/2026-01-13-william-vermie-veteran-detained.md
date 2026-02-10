@@ -36,40 +36,11 @@ Combat-wounded Army veteran William Vermie was detained for approximately eight 
 - **Throughout detention** - Repeatedly asks for phone call, never receives one
 - **~8 hours later** - Released without charges, bruised but otherwise uninjured
 
-## What Happened
+## Key Quotes
 
-Vermie was standing on a public sidewalk observing agents arresting two people when officers began pushing bystanders back.
+> "I'd rather have a lawyer than a band-aid when I'm being detained." — William Vermie, KARE 11
 
-"They were bringing out those two young boys... then the ICE agents were moving down the sidewalk, shoving people and telling them to get off the sidewalk," Vermie said.
-
-"I tried to keep onto my feet and then eventually somebody grabbed one of my legs and then I went over and they all toppled on top of me and got me in cuffs."
-
-Agents transported him to the Whipple Building, a federal facility in Minneapolis.
-
-## Denied Attorney Access
-
-Once inside, Vermie repeatedly asked to make a phone call but never received one during his detention.
-
-"They did offer bathroom breaks and water breaks, and I did ask for a band-aid and they gave it to me," Vermie said. "But I'd rather have a lawyer than a band-aid when I'm being detained."
-
-Attorney John Chitwood, hired by Vermie's family, went to the Whipple Building and waited hours to speak with his client. Chitwood said he was told he could not meet with Vermie because Vermie had not requested him by name - something Vermie could not have known since he was denied contact with his family.
-
-## Witness Accounts
-
-### Attorney John Chitwood
-"I have represented people accused of the most horrific crimes, and I have never encountered the type of stonewalling, deliberate stonewalling and delay, that I experienced in trying to see Will."
-
-"He is a combat wounded Iraq War vet, and if someone who has honorably served their country is treated this way by the federal government, by these ICE agents, then how are they treating other people? It's shameful."
-
-### Heather Mains (Wife)
-"I'm worried about Will, but I also - I know he will be fine. He's a citizen. For the folks who don't have those privileges, I can't even imagine what they felt in this situation."
-
-## Official Accounts
-
-### DHS/ICE Statement
-DHS did not address Vermie's detention specifically but issued a general statement:
-
-> "Any claim that there are subprime conditions at ICE facilities are FALSE. All detainees are provided with proper meals, medical treatment, and have opportunities to communicate with their family members and lawyers. Ensuring the safety, security, and well-being of individuals in our custody is a top priority at ICE."
+> "I have represented people accused of the most horrific crimes, and I have never encountered the type of stonewalling, deliberate stonewalling and delay, that I experienced in trying to see Will." — Attorney John Chitwood, KARE 11
 
 ## Related Incidents
 - [Attorneys denied access at Whipple Building](#2026-01-15-whipple-lawyers-denied-access)
