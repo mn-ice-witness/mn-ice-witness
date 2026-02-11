@@ -10,7 +10,7 @@ injuries: minor
 trustworthiness: high
 created: 2026-01-16T22:28:22
 last_updated: 2026-02-09T21:12:05
-search_tags: us-citizen, excessive-force, src:pioneer-press, src:other-national, src:sahan-journal, src:wcco
+search_tags: us-citizen, citizen-check, excessive-force, src:pioneer-press, src:other-national, src:sahan-journal, src:wcco
 ---
 
 # U.S. Citizen Born in Minnesota Detained by ICE for Two Days

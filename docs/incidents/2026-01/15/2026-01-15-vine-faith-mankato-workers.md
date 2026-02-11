@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-02T20:32:49
 last_updated: 2026-02-02T20:40:51
-search_tags: src:other-local
+search_tags: workplace-raid, src:other-local
 ---
 
 # Two Subcontractors Detained at VINE Faith in Action Senior Center

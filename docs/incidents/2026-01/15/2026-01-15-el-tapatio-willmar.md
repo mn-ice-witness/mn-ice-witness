@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-16T21:33:51
 last_updated: 2026-01-16T21:33:51
-search_tags: deception, src:star-tribune, src:other-local, src:wcco, src:other-national
+search_tags: workplace-raid, deception, src:star-tribune, src:other-local, src:wcco, src:other-national
 ---
 
 # ICE Agents Dine at El Tapatio, Then Return to Detain Workers
