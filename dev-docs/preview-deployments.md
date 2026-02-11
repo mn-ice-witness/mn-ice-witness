@@ -4,25 +4,23 @@ This document explains how to test changes on feature branches without affecting
 
 ## Quick Reference: Preview URL Format
 
-**Pattern:** `<branch-name>.mn-ice-witness-github-io.pages.dev`
+**Pattern:** `<branch-name>.mn-ice-witness.pages.dev`
 
-Example: `feature/path-based-urls` → **https://feature-path-based-urls.mn-ice-witness-github-io.pages.dev**
-
-Note: The domain includes `-github-io` (not just `mn-ice-files`).
+Example: `feature/path-based-urls` → **https://feature-path-based-urls.mn-ice-witness.pages.dev**
 
 ## Cloudflare Pages Configuration
 
 | Setting | Value |
 |---------|-------|
-| **Project name** | `mn-ice-witness-github-io` |
-| **Pages.dev domain** | `mn-ice-witness-github-io.pages.dev` |
+| **Project name** | `mn-ice-witness` |
+| **Pages.dev domain** | `mn-ice-witness.pages.dev` |
 | **Custom domain** | `mn-ice-witness.org` |
-| **GitHub repo** | `mn-ice-witness/mn-ice-witness.github.io` |
+| **GitHub repo** | `mn-ice-witness/mn-ice-witness` |
 | **Production branch** | `main` |
 | **Build output directory** | `docs` |
 | **Build command** | (none - static site) |
 
-Access the project at: [Cloudflare Dashboard → Workers & Pages → mn-ice-witness-github-io](https://dash.cloudflare.com)
+Access the project at: [Cloudflare Dashboard → Workers & Pages → mn-ice-witness](https://dash.cloudflare.com)
 
 ## How It Works
 
@@ -31,8 +29,8 @@ Cloudflare Pages automatically creates **preview deployments** for every non-mai
 | Branch | URL |
 |--------|-----|
 | `main` | `mn-ice-witness.org` (production) |
-| `feature/path-based-urls` | `feature-path-based-urls.mn-ice-witness-github-io.pages.dev` |
-| `fix/video-player` | `fix-video-player.mn-ice-witness-github-io.pages.dev` |
+| `feature/path-based-urls` | `feature-path-based-urls.mn-ice-witness.pages.dev` |
+| `fix/video-player` | `fix-video-player.mn-ice-witness.pages.dev` |
 
 **Key points:**
 - Only `main` updates the production site
@@ -45,7 +43,7 @@ Cloudflare Pages automatically creates **preview deployments** for every non-mai
 ### Option 1: Check Cloudflare Dashboard
 
 1. Go to [Cloudflare Dashboard](https://dash.cloudflare.com)
-2. Navigate to **Workers & Pages** → **mn-ice-witness-github-io**
+2. Navigate to **Workers & Pages** → **mn-ice-witness**
 3. Click **Deployments** tab
 4. Find your branch - the preview URL is shown
 
@@ -65,7 +63,7 @@ Branch names become subdomains with:
 | `fix/video-player` | `fix-video-player` |
 | `my_feature` | `my-feature` |
 
-Full URL: `<subdomain>.mn-ice-witness-github-io.pages.dev`
+Full URL: `<subdomain>.mn-ice-witness.pages.dev`
 
 ## Workflow
 
@@ -83,7 +81,7 @@ git commit -m "Add feature"
 git push -u origin feature/my-feature
 
 # Wait ~1-2 minutes for Cloudflare to build
-# Then visit: feature-my-feature.mn-ice-witness-github-io.pages.dev
+# Then visit: feature-my-feature.mn-ice-witness.pages.dev
 ```
 
 ### Sharing Preview Links
@@ -166,7 +164,7 @@ If pushes don't trigger automatic deployments, GitHub integration may not be set
 3. Go to **Settings** → **Builds & deployments**
 4. Under **Source**, click **Connect to Git**
 5. Select **GitHub** and authorize Cloudflare
-6. Choose the `mn-ice-witness/mn-ice-witness.github.io` repository
+6. Choose the `mn-ice-witness/mn-ice-witness` repository
 7. Set:
    - **Production branch:** `main`
    - **Build command:** (leave empty - static site)

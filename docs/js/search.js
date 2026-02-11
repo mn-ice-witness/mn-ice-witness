@@ -43,10 +43,12 @@ const Search = {
     open() {
         this.isOpen = true;
         this.modal.setAttribute('aria-hidden', 'false');
-        setTimeout(() => {
-            this.input.focus();
-            this.input.select();
-        }, 50);
+        if (window.innerWidth > 768) {
+            setTimeout(() => {
+                this.input.focus();
+                this.input.select();
+            }, 50);
+        }
     },
 
     close() {

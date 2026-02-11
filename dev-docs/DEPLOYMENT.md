@@ -64,8 +64,8 @@ The domain `mn-ice-witness.org` is configured as follows:
 
 ```
 Type    Name    Target
-CNAME   @       mn-ice-witness-github-io.pages.dev
-CNAME   www     mn-ice-witness-github-io.pages.dev
+CNAME   @       mn-ice-witness.pages.dev
+CNAME   www     mn-ice-witness.pages.dev
 ```
 
 Note: Cloudflare uses "CNAME flattening" to allow CNAME at the root domain.
@@ -80,9 +80,9 @@ The domain's nameservers at Porkbun point to Cloudflare:
 
 ## Cloudflare Pages Project
 
-- **Project name**: `mn-ice-witness-github-io`
+- **Project name**: `mn-ice-witness`
 - **Production branch**: `main`
-- **Preview URL**: `mn-ice-witness-github-io.pages.dev`
+- **Preview URL**: `mn-ice-witness.pages.dev`
 - **Custom domain**: `mn-ice-witness.org`
 
 ## Verifying Deployment Source
@@ -195,7 +195,7 @@ Previous setup (deprecated):
 ### Cloudflare Dashboard
 
 - Domain zone: `mn-ice-witness.org`
-- Pages project: `mn-ice-witness-github-io`
+- Pages project: `mn-ice-witness`
 - DNS, SSL, caching settings managed here
 
 ### Porkbun
