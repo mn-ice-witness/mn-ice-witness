@@ -11,7 +11,7 @@ Regular incidents require no manual timeline work. Only the highlight moments ar
 
 ### Data Flow
 
-1. `timeline.js` fetches `docs/data/timeline-moments.md` and parses the moment blocks
+1. `timeline.js` fetches monthly moment files (`docs/data/timeline-moments-YYYY-MM.md`), loading the newest month first for fast initial render, then loading remaining months in the background
 2. `timeline.js` pulls all incidents from `App.getFilteredIncidents()` (the category JSON files)
 3. Both are merged into a single chronological timeline, grouped by month
 4. As the user scrolls, a sticky totals bar shows running category counts up to the current date
@@ -20,13 +20,13 @@ Regular incidents require no manual timeline work. Only the highlight moments ar
 
 | File | Purpose |
 |------|---------|
-| `docs/data/timeline-moments.md` | Curated highlight moment data |
+| `docs/data/timeline-moments-YYYY-MM.md` | Curated highlight moment data (one file per month) |
 | `docs/js/timeline.js` | Rendering, scroll behavior, click handlers |
 | `docs/css/timeline.css` | All timeline styles (isolated from main CSS) |
 
 ## Moment Format
 
-Each moment in `timeline-moments.md` is a YAML frontmatter block followed by a narrative body, separated by `---`:
+Each moment in the monthly files (`timeline-moments-YYYY-MM.md`) is a YAML frontmatter block followed by a narrative body, separated by `---`:
 
 ```markdown
 ---
@@ -65,8 +65,8 @@ The first fatal shooting. Renee Nicole Macklin Good, 37, a writer, poet, and mot
 
 ## Adding a Moment
 
-1. Open `docs/data/timeline-moments.md`
-2. Add a new block at the correct chronological position (moments should be in date order)
+1. Open the appropriate monthly file (e.g., `docs/data/timeline-moments-2026-01.md`)
+2. Add a new block at the correct chronological position (moments should be in date order within each file)
 3. Use `---` separators between blocks (blank line + `---` + newline before new block)
 4. Link to an incident slug if one exists, or provide an external `source` URL
 5. Write the narrative body
@@ -84,7 +84,7 @@ Not every notable incident needs a moment card. The `notable: true` flag on inci
 
 ### Background Entries and Timeline Visibility
 
-Entries with `type: background` (lawsuits, federal announcements, surveillance programs, etc.) appear in the `/list/background` list view and as small day-cluster dots on the timeline — but **they do not get curated moment cards unless explicitly added to `timeline-moments.md`**. Because background entries lack the visual prominence of moment cards, they are easy for readers to miss on the timeline.
+Entries with `type: background` (lawsuits, federal announcements, surveillance programs, etc.) appear in the `/list/background` list view and as small day-cluster dots on the timeline — but **they do not get curated moment cards unless explicitly added to the monthly moment files**. Because background entries lack the visual prominence of moment cards, they are easy for readers to miss on the timeline.
 
 When creating a new background entry, decide whether it warrants a timeline moment:
 - **If it relates to an existing moment** — fold a reference into that moment's body text (e.g., a school lawsuit folded into the school closures moment). This is preferred.
@@ -105,7 +105,7 @@ When asked to **"review the timeline"** or **"check the timeline for gaps"**:
 
 ### Step 1: Load Current State
 
-1. Read `docs/data/timeline-moments.md` to see existing moments (dates and titles)
+1. Read the monthly moment files (`docs/data/timeline-moments-*.md`) to see existing moments (dates and titles)
 2. Read `docs/data/search-index.md` to see all published incidents
 
 ### Step 2: Identify Gaps
@@ -141,7 +141,8 @@ Present findings as:
 | Method | Purpose |
 |--------|---------|
 | `render()` | Entry point. Initializes if needed, builds HTML, sets up handlers |
-| `loadMoments()` | Fetches and parses `timeline-moments.md` |
+| `init()` | Loads newest month's moments for fast initial render |
+| `loadRemainingMonths()` | Background-loads older months and re-renders |
 | `parseMoments(text)` | Regex parser for YAML frontmatter + body blocks |
 | `computeMonthData()` | Merges moments + incidents into month/day structure, precomputes cumulative totals |
 | `buildHTML()` | Generates full timeline HTML |

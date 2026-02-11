@@ -277,7 +277,7 @@ This section describes what each JavaScript file does. Read this before modifyin
 **Purpose:** Interactive timeline rendering with scroll-driven category counters.
 
 **Key Responsibilities:**
-- Loads curated narrative moments from `docs/data/timeline-moments.md`
+- Loads curated narrative moments from monthly files (`docs/data/timeline-moments-YYYY-MM.md`)
 - Merges moments with auto-generated incident day-clusters
 - Sticky totals bar with running category counts that update on scroll
 - Click handlers for opening incidents in lightbox or navigating to sources
@@ -288,7 +288,8 @@ This section describes what each JavaScript file does. Read this before modifyin
 | Method | Purpose |
 |--------|---------|
 | `render()` | Build and display the timeline |
-| `loadMoments()` | Fetch and parse `timeline-moments.md` |
+| `init()` | Load newest month's moments and compute month data |
+| `loadRemainingMonths()` | Background-load older months and re-render |
 | `computeMonthData()` | Merge moments + incidents, precompute cumulative totals |
 | `buildMomentHTML(moment)` | Render a narrative highlight card |
 | `buildDayHTML(day)` | Render an incident day-cluster |

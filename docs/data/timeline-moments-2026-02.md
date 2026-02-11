@@ -1,0 +1,39 @@
+---
+date: 2026-02-04
+title: Trump Promises a "Softer Touch"
+incident: 2026-02-04-trump-softer-touch-interview
+source:
+---
+President Trump tells NBC he has learned to use "a little bit of a softer touch," but calls the two U.S. citizens killed "not angels." Border czar Homan announces withdrawal of 700 agents, but approximately 2,000 remain — more than 13 times pre-surge levels. Homan: "We're not surrendering the president's mission on a mass-deportation operation."
+
+---
+date: 2026-02-06
+title: Top ICE Lawyer Departs; Judge Orders Right to Counsel at Whipple
+incident: 2026-02-06-brasel-right-to-counsel-whipple
+source:
+---
+Jim Stolley, chief ICE counsel in Minnesota (31-year veteran), retires as Operation Metro Surge litigation overwhelms the courts. Judge Nancy Brasel orders the government to ensure detained people can speak with attorneys at the [Whipple Federal Building](/entry/2026-02-06-brasel-right-to-counsel-whipple) by February 12, calling the gap between evidence and government claims "so enormous I don't know how you're going to close it." Two days later, Brasel orders immigration attorneys be allowed inside to visit clients and inspect conditions. Immigration attorneys have filed 691 habeas corpus petitions since January 1 — five times the total for all of 2025.
+
+---
+date: 2026-02-06
+title: Facial Recognition Surveillance Program Revealed
+incident: 2026-02-06-ice-facial-recognition-surveillance-program
+source:
+---
+NBC News investigation reveals ICE's use of the Mobile Fortify smartphone app — connected to databases of 200+ million photos — to scan observers, bystanders, and targets. Border czar Homan vowed to "make them famous." The ACLU alleged forced facial scans had "become routine"; Congress introduced legislation to ban the technology.
+
+---
+date: 2026-02-08
+title: Hard Hats and Dummy Plates
+incident: 2026-02-08-ice-deceptive-tactics
+source:
+---
+AP investigation documents federal agents disguising themselves as construction workers, using fake business decals on rental vehicles, and swapping license plates. A Star Tribune investigation of 100+ plates found a Jeep with Porsche plates, another with Ferrari plates, and one plate used on four different vehicles. Agents also [tricked a daycare teacher](/entry/2026-01-07-un-mundo-nuevo-teacher-tricked) outside with a fake accident claim and [followed watchers to their homes](/entry/2026-01-06-levy-observers-followed-home).
+
+---
+date: 2026-02-09
+title: ICE Cracks Down on People Who Follow Them — Courts Find "No Evidence of an Assault"
+incident: 2026-02-07-observers-one-warning-abductions
+source:
+---
+Border czar Tom Homan vowed to ["make them famous"](https://news.meaww.com/were-gonna-make-em-famous-tom-homan-announces-public-database-to-expose-ice-critics) and pushed for a database of observers' names, photos, and plates. The head of ICE's deportation branch [confirmed on CBS](https://www.cbsnews.com/news/minneapolis-police-chief-responds-to-ice-enforcement-60-minutes/) that agents were told to give one warning, then arrest. People were [detained at gunpoint for finger-gun gestures](/entry/2026-02-03-observers-detained-gunpoint-midtown-phillips), [snatched mid-call with cars left running](/entry/2026-02-07-observers-one-warning-abductions), and charged for filming, following, or giving the middle finger. DHS announced 158 arrests for "impeding" in the first month. But when independent prosecutors and judges reviewed the evidence, cases routinely collapsed. A Fox 9 investigation of 92 federal cases from a parallel ICE operation found zero convictions; grand juries returned "no bills" and judges dismissed charges. Federal Judge Gabriel Fuentes wrote that prosecutors had "swung and missed — multiple times."

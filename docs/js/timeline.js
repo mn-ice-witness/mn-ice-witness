@@ -14,8 +14,15 @@ const Timeline = {
     countedDays: new Set(),
     totals: { citizens: 0, observers: 0, immigrants: 0, 'schools-hospitals': 0 },
     initialized: false,
+    _allMonthsLoaded: false,
     observer: null,
     sortOrder: 'oldest',
+
+    monthFiles: [
+        '/data/timeline-moments-2025-12.md',
+        '/data/timeline-moments-2026-01.md',
+        '/data/timeline-moments-2026-02.md',
+    ],
 
     async render() {
         const container = document.getElementById('timeline-view');
@@ -40,18 +47,53 @@ const Timeline = {
         this.initScrollObserver();
         this.initClickHandlers();
         this.scrollToDate(targetDate);
+
+        if (!this._allMonthsLoaded) {
+            this.loadRemainingMonths();
+        }
     },
 
     async init() {
-        await this.loadMoments();
+        const firstFile = this.monthFiles[0];
+        const resp = await fetch(firstFile);
+        const text = await resp.text();
+        this.moments = this.parseMoments(text);
         this.computeMonthData();
         this.initialized = true;
     },
 
-    async loadMoments() {
-        const resp = await fetch('/data/timeline-moments.md');
-        const text = await resp.text();
-        this.moments = this.parseMoments(text);
+    async loadRemainingMonths() {
+        const remaining = this.monthFiles.slice(1);
+        const results = await Promise.all(
+            remaining.map(f => fetch(f).then(r => r.text()))
+        );
+
+        for (const text of results) {
+            this.moments.push(...this.parseMoments(text));
+        }
+
+        this.moments.sort((a, b) => a.date.localeCompare(b.date));
+        this._allMonthsLoaded = true;
+        this.computeMonthData();
+
+        const container = document.getElementById('timeline-view');
+        if (!container || container.style.display === 'none') return;
+
+        const currentDate = this._lastHashDate;
+        container.innerHTML = this.buildHTML();
+
+        const totalsBar = container.querySelector('.tl-totals-bar');
+        if (totalsBar) {
+            const clearance = 48 + totalsBar.offsetHeight + 12;
+            container.style.setProperty('--tl-scroll-clearance', clearance + 'px');
+        }
+
+        this.initScrollObserver();
+        this.initClickHandlers();
+
+        if (currentDate) {
+            this.scrollToDate(currentDate);
+        }
     },
 
     parseMoments(text) {

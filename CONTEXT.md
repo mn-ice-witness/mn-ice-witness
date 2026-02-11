@@ -198,7 +198,7 @@ Then follow `dev-docs/daily-search-procedure.md`:
 ### Timeline Review Command
 When user says **"review the timeline"** or **"check the timeline"**:
 
-1. Read `docs/data/timeline-moments.md` (existing highlight moments)
+1. Read the monthly moment files (`docs/data/timeline-moments-*.md`) for existing highlight moments
 2. Read `docs/data/search-index.md` (all published incidents)
 3. Compare incidents against moments — look for missing turning points, chronological gaps, and under-represented patterns
 4. Follow the full procedure in `dev-docs/timeline.md` → "Reviewing the Timeline"
@@ -328,7 +328,7 @@ GIT_MN_ICE_FILES/
         ├── incidents-summary-*.json  # 6 category files (AUTO-GENERATED)
         ├── search-index.md           # LLM search index (AUTO-GENERATED)
         ├── media-order.md            # Gallery ordering (auto-appends new, manual reorder)
-        ├── timeline-moments.md       # Curated timeline cards (MANUALLY EDITED)
+        ├── timeline-moments-*.md      # Curated timeline cards, per month (MANUALLY EDITED)
         ├── og-tweaks.md              # Custom OG image timestamps (MANUALLY EDITED)
         └── high-quality-videos.md    # Videos needing less compression (MANUALLY EDITED)
 ```

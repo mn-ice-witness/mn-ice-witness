@@ -1,6 +1,6 @@
 # Timeline Moments Maintenance Guide
 
-This file explains how to maintain `timeline-moments.md`, the configuration file that drives the narrative layer of the `/timeline` view.
+This file explains how to maintain the monthly moment files (`timeline-moments-YYYY-MM.md`), the configuration files that drive the narrative layer of the `/timeline` view.
 
 ## How It Works
 
@@ -8,7 +8,7 @@ The timeline view combines two data sources:
 
 1. **Incident data** (automatic) — Every incident markdown file in `docs/incidents/` is loaded by the app and displayed as a day-cluster on the timeline. These require no manual maintenance for the timeline.
 
-2. **Narrative moments** (manual, this file) — `timeline-moments.md` defines the major events, policy actions, and turning points that provide context between the day-to-day incidents. These are the large cards with descriptions that appear on the timeline.
+2. **Narrative moments** (manual) — The monthly files (`timeline-moments-YYYY-MM.md`) define the major events, policy actions, and turning points that provide context between the day-to-day incidents. These are the large cards with descriptions that appear on the timeline.
 
 All incidents appear on the timeline automatically. The moments file only controls the narrative highlights.
 
@@ -149,7 +149,7 @@ When updating the timeline:
 
 ## Technical Notes
 
-- The file is parsed by `docs/js/timeline.js` using regex on the `---` frontmatter blocks
+- The files are parsed by `docs/js/timeline.js` using regex on the `---` frontmatter blocks
 - The parser extracts: `date`, `title`, `incident`, `source`, `image`, and the body text
 - Moments are merged with incident data by date, then grouped into months
 - Running totals in the sticky bar count only incident categories (citizens, observers, immigrants, schools-hospitals) — moments themselves are not counted
