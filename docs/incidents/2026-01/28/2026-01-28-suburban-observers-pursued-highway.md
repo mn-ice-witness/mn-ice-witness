@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: medium
 created: 2026-02-04T16:11:03
 last_updated: 2026-02-04T16:11:03
-search_tags: us-citizen, observer-intimidated, src:mpr
+search_tags: us-citizen, observer-intimidated, vehicle-pursuit, src:mpr
 ---
 
 # ICE Observers Pursued in 20-Minute Highway Chase in Northern Suburbs

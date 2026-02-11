@@ -10,7 +10,7 @@ injuries: minor
 trustworthiness: high
 created: 2026-01-14T08:01:12
 last_updated: 2026-01-14T08:01:12
-search_tags: us-citizen, citizen-check, excessive-force, src:sahan-journal, src:nbc, src:npr, src:star-tribune, src:other-national
+search_tags: us-citizen, citizen-check, excessive-force, vehicle-pursuit, src:sahan-journal, src:nbc, src:npr, src:star-tribune, src:other-national
 ---
 
 # ICE Rams Latino U.S. Citizen's Car, Releases Him After Confirming Identity

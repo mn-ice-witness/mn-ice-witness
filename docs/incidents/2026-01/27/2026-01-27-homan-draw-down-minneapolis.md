@@ -10,13 +10,13 @@ injuries: none
 trustworthiness: high
 created: 2026-02-05T11:48:18
 last_updated: 2026-02-10T18:41:10
-search_tags: src:npr, src:wapo, src:nbc, src:pbs, src:mpr, src:abc, src:other-national, src:kstp, src:fox9
+search_tags: src:npr, src:wapo, src:nbc, src:pbs, src:mpr, src:abc, src:other-national
 ---
 
 # Homan Takes Command, Begins Operation Metro Surge Draw Down
 
 ## Updates
-- **Feb 10** - Governor Walz [says he expects drawdown](https://kstp.com/kstp-news/top-news/walz-says-he-anticipates-significant-reduction-in-ice-surge-in-minnesota-as-early-as-next-week/) in "days, not weeks and months" after conversations with Homan (Feb 9) and White House Chief of Staff Susie Wiles (Feb 10). City of Minneapolis estimates $100 million in cumulative economic losses.
+- **Feb 10** - Governor Walz [says he expects drawdown](#2026-02-10-walz-days-not-months-drawdown) in "days, not weeks and months" after conversations with Homan and White House Chief of Staff Susie Wiles.
 - **Feb 4** - [Homan announces](https://www.nbcnews.com/news/us-news/trump-administration-withdraw-700-immigration-agents-minnesota-rcna257397) 700 federal officers withdrawn "effective immediately," leaving ~2,000 agents.
 - **Jan 29** - [Homan holds first press conference](https://www.npr.org/2026/01/29/nx-s1-5693019/border-czar-plans-to-draw-down-ice-and-cbp-minnesota) in Minneapolis, announces draw down conditional on "cooperation."
 - **Jan 27** - Noem [meets with Trump](https://abcnews.go.com/Politics/kristi-noem-met-trump-amid-scrutiny-deadly-minneapolis/story?id=129603158) for two hours; Trump confirms she will keep her position.
@@ -37,8 +37,6 @@ Following two fatal shootings of U.S. citizens by federal agents, the Trump admi
 9. Salon (Jan 27, 2026): [Border Patrol commander Gregory Bovino demoted](https://www.salon.com/2026/01/27/border-patrol-commander-gregory-bovino-demoted/)
 10. CNBC (Feb 4, 2026): [Trump admin to withdraw 700 federal officers from Minnesota](https://www.cnbc.com/2026/02/04/trump-homan-minnesota-ice-immigration.html)
 11. YouTube Video (Jan 29, 2026): [Tom Homan Minneapolis press conference](https://www.youtube.com/watch?v=UcAz0EqlaFY)
-12. KSTP (Feb 10, 2026): [Walz says he anticipates significant reduction in ICE surge in Minnesota as early as next week](https://kstp.com/kstp-news/top-news/walz-says-he-anticipates-significant-reduction-in-ice-surge-in-minnesota-as-early-as-next-week/)
-13. FOX 9 (Feb 10, 2026): [Gov. Walz says ICE drawdown 'days, not weeks and months'](https://www.fox9.com/news/gov-walz-says-ice-drawndown-days-not-weeks-months-feb-10-2026)
 
 ## Background
 
@@ -142,6 +140,7 @@ DHS claimed 1,360+ "criminal illegal aliens" in Minnesota state custody with ICE
 - The Department stated it "has not found a single case where the state failed to honor an ICE detainer"
 
 ## Related Incidents
+- [Walz Says ICE Drawdown Coming in "Days, Not Weeks and Months"](#2026-02-10-walz-days-not-months-drawdown)
 - [Trump Threatens Military Deployment Under Insurrection Act](#2026-01-16-trump-insurrection-act-threat)
 
 ## Editorial Assessment

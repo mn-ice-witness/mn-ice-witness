@@ -1,6 +1,44 @@
 {
   "incidents": [
     {
+      "filePath": "incidents/2026-02/10/2026-02-10-walz-days-not-months-drawdown.md",
+      "title": "Walz Says ICE Drawdown Coming in \"Days, Not Weeks and Months\"",
+      "summary": "At a press conference highlighting small business devastation, Governor Walz said he expects the federal immigration surge to end within days after conversations with border czar Tom Homan (Feb 9) and White House Chief of Staff Susie Wiles (Feb 10). Walz said he hoped Homan would announce \"before Friday\" that the operation was done, while noting he was \"skeptical, but more hopeful than I have been.\" The city of Minneapolis estimated cumulative economic losses of $100 million from Operation Metro Surge.",
+      "latestUpdate": null,
+      "date": "2026-02-10",
+      "time": "unknown",
+      "location": "The Market at Malcolm Yards, Minneapolis",
+      "city": "Minneapolis",
+      "type": "background",
+      "status": "ongoing",
+      "affectedIndividualCitizenship": "n/a",
+      "injuries": "none",
+      "trustworthiness": "high",
+      "created": "2026-02-11T14:14:49",
+      "lastUpdated": "2026-02-11T14:14:49",
+      "mediaCount": 0,
+      "notable": false,
+      "searchTags": [
+        "src:kstp",
+        "src:fox9",
+        "src:star-tribune",
+        "src:pioneer-press",
+        "src:minnpost"
+      ],
+      "hasLocalMedia": true,
+      "localMediaType": "image",
+      "localMediaPath": "media/2026-02/10/2026-02-10-walz-days-not-months-drawdown.jpg",
+      "localMediaOgPath": null,
+      "localMediaFiles": [
+        {
+          "type": "image",
+          "path": "media/2026-02/10/2026-02-10-walz-days-not-months-drawdown.jpg"
+        }
+      ],
+      "aspectRatio": 1.7699115044247788,
+      "mediaVersion": 1770840957
+    },
+    {
       "filePath": "incidents/2026-02/09/2026-02-09-observer-arrests-impeding-charges-collapse.md",
       "title": "\"No Evidence of an Assault\": 158 Arrested for Impeding ICE, Cases Routinely Dismissed",
       "summary": "Federal authorities arrested 158 people in Minnesota for impeding or assaulting federal officers during Operation Metro Surge's first month, but when independent prosecutors and judges reviewed the evidence, the cases routinely collapsed. Of 85 cases accepted for prosecution, grand juries returned \"no bills,\" judges dismissed charges, and felonies were downgraded to misdemeanors. A Fox 9 investigation of 92 federal cases in Chicago found zero convictions, with 20 cases declined by prosecutors and 13 dismissed after filing. University of St. Thomas law professor Rachel Moran explained: \"When somebody other than the agents has to look at evidence and decide whether an assault happened, in the vast majority of situations, they're deciding, no, there's no evidence of an assault.\" Arrests targeted people filming from their cars, giving the middle finger, and walking with hands up \u2014 conduct protected by the First Amendment and by a federal court order barring agents from retaliating against observers.",
@@ -29,13 +67,18 @@
         "src:intercept",
         "src:other-national"
       ],
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
+      "hasLocalMedia": true,
+      "localMediaType": "image",
+      "localMediaPath": "media/2026-02/09/2026-02-09-observer-arrests-impeding-charges-collapse.jpg",
       "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
+      "localMediaFiles": [
+        {
+          "type": "image",
+          "path": "media/2026-02/09/2026-02-09-observer-arrests-impeding-charges-collapse.jpg"
+        }
+      ],
+      "aspectRatio": 1.3745704467353952,
+      "mediaVersion": 1770841431
     },
     {
       "filePath": "incidents/2026-02/08/2026-02-08-ice-deceptive-tactics.md",

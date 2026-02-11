@@ -10,7 +10,7 @@ injuries: minor
 trustworthiness: high
 created: 2026-02-05T14:55:45
 last_updated: 2026-02-05T14:55:45
-search_tags: observer-intimidated, excessive-force, chemical-agents, src:wapo, src:kstp, src:fox9, src:bring-me-the-news, src:other-national
+search_tags: observer-intimidated, excessive-force, vehicle-pursuit, chemical-agents, src:wapo, src:kstp, src:fox9, src:bring-me-the-news, src:other-national
 ---
 
 # ICE Vehicle Strikes Protester; Agent Laughs "Wipe Out!"

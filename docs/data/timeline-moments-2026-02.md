@@ -37,3 +37,11 @@ incident: 2026-02-07-observers-one-warning-abductions
 source:
 ---
 Border czar Tom Homan vowed to ["make them famous"](https://news.meaww.com/were-gonna-make-em-famous-tom-homan-announces-public-database-to-expose-ice-critics) and pushed for a database of observers' names, photos, and plates. The head of ICE's deportation branch [confirmed on CBS](https://www.cbsnews.com/news/minneapolis-police-chief-responds-to-ice-enforcement-60-minutes/) that agents were told to give one warning, then arrest. People were [detained at gunpoint for finger-gun gestures](/entry/2026-02-03-observers-detained-gunpoint-midtown-phillips), [snatched mid-call with cars left running](/entry/2026-02-07-observers-one-warning-abductions), and charged for filming, following, or giving the middle finger. DHS announced 158 arrests for "impeding" in the first month. But when independent prosecutors and judges reviewed the evidence, cases routinely collapsed. A Fox 9 investigation of 92 federal cases from a parallel ICE operation found zero convictions; grand juries returned "no bills" and judges dismissed charges. Federal Judge Gabriel Fuentes wrote that prosecutors had "swung and missed — multiple times."
+
+---
+date: 2026-02-10
+title: Walz: "Days, Not Weeks and Months"
+incident: 2026-02-10-walz-days-not-months-drawdown
+source:
+---
+After conversations with border czar Homan and White House Chief of Staff Susie Wiles, Governor Walz said he expected the federal occupation to end within days. The city of Minneapolis estimated cumulative economic losses of $100 million. Walz: "We're very much in a trust but verify mode."

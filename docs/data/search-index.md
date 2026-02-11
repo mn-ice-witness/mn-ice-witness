@@ -16,10 +16,12 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (248 incidents)
+## CURRENT (250 incidents)
 
 Published incidents visible on the main site.
 
+- incidents/2026-02/11/2026-02-11-ninas-coffee-ice-pursuit-crash.md | 2026-02-11 | St. Paul | immigrants | Multi-Car Crash Outside Nina's Coffee After Federal Agent Pursuit in St. Paul
+- incidents/2026-02/10/2026-02-10-walz-days-not-months-drawdown.md | 2026-02-10 | Minneapolis | background | Walz Says ICE Drawdown Coming in "Days, Not Weeks and Months"
 - incidents/2026-02/09/2026-02-09-observer-arrests-impeding-charges-collapse.md | 2026-02-09 | Minneapolis | background | "No Evidence of an Assault": 158 Arrested for Impeding ICE, Cases Routinely Dismissed
 - incidents/2026-02/08/2026-02-08-ice-deceptive-tactics.md | 2026-02-08 | Minneapolis | background | Reports of ICE Agents Using Disguises, Fake License Plates, and Ruse Tactics Across Minnesota
 - incidents/2026-02/07/2026-02-07-dhs-response-whipple-conditions-false.md | 2026-02-07 | Minneapolis | response | DHS Statement: Claims of "Subprime Conditions" at Whipple Are "FALSE"
@@ -63,7 +65,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/27/2026-01-27-homan-draw-down-minneapolis.md | 2026-01-27 | Minneapolis | response | Homan Takes Command, Begins Operation Metro Surge Draw Down
 - incidents/2026-01/27/2026-01-27-northeast-mpls-jenny-family-separated.md | 2026-01-27 | Minneapolis | immigrants | "I Was Yelling at Them to Take Me With Him": Mother Holds Daughter as Husband Detained in Northeast Minneapolis
 - incidents/2026-01/27/2026-01-27-tobay-robles-lyons-contempt.md | 2026-01-27 | Minneapolis | immigrants | Ecuadorean Man Held 3 Weeks Despite Court Order; Judge Orders ICE Director to Appear for Contempt
-- incidents/2026-01/26/2026-01-26-christian-salamanca-ice-chase-crash.md | 2026-01-26 | St. Paul | citizens | Asylum Seeker Hospitalized After Wife Says ICE Rammed His Car Into Telephone Pole
+- incidents/2026-01/26/2026-01-26-christian-salamanca-ice-chase-crash.md | 2026-01-26 | St. Paul | immigrants | Asylum Seeker Hospitalized After Wife Says ICE Rammed His Car Into Telephone Pole
 - incidents/2026-01/26/2026-01-26-el-potro-brainerd.md | 2026-01-26 | Brainerd | immigrants | Four Restaurant Workers Detained at El Potro in Brainerd
 - incidents/2026-01/26/2026-01-26-dhs-response-death-threats.md | 2026-01-26 | Minneapolis | response | DHS Response: ICE Officers Face "8,000% Increase in Death Threats"; Publishes Minnesota Voicemail
 - incidents/2026-01/26/2026-01-26-bovino-agents-are-victims.md | 2026-01-26 | Washington, D.C. | response | Bovino Tells CNN Agents Are "The Victims" in Pretti Shooting; Says Second Amendment Rights "Don't Count"

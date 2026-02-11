@@ -317,6 +317,7 @@
       "searchTags": [
         "us-citizen",
         "observer-intimidated",
+        "vehicle-pursuit",
         "src:mpr"
       ],
       "hasLocalMedia": true,
@@ -1825,6 +1826,7 @@
       "notable": false,
       "searchTags": [
         "excessive-force",
+        "vehicle-pursuit",
         "src:other-local"
       ],
       "hasLocalMedia": true,
@@ -2036,6 +2038,7 @@
       "searchTags": [
         "observer-intimidated",
         "excessive-force",
+        "vehicle-pursuit",
         "chemical-agents",
         "src:wapo",
         "src:kstp",
@@ -2195,6 +2198,7 @@
         "us-citizen",
         "observer-intimidated",
         "shooting",
+        "vehicle-pursuit",
         "src:mpr",
         "src:mn-reformer"
       ],

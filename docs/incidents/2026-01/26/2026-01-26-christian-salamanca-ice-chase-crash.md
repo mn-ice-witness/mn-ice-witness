@@ -3,14 +3,14 @@ date: 2026-01-26
 time: "11:15"
 location: McDonough Community Center, St. Paul
 city: St. Paul
-type: citizens
+type: immigrants
 status: ongoing
 affected_individual_citizenship: asylum-seeker
 injuries: serious
 trustworthiness: medium
 created: 2026-01-31T08:29:19
 last_updated: 2026-02-09T21:12:05
-search_tags: legal-resident, excessive-force, src:kare11, src:other-national
+search_tags: legal-resident, excessive-force, vehicle-pursuit, src:kare11, src:other-national
 ---
 
 # Asylum Seeker Hospitalized After Wife Says ICE Rammed His Car Into Telephone Pole

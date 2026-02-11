@@ -41,6 +41,7 @@ All topic tags are **cross-cutting** — they apply across every main category (
 | `deception` | Deception / Ruse | Agents used false pretenses: posed as police/delivery/social workers, lured someone out with a fake story, made false promises, or tricked employers/schools into providing access. |
 | `native-american` | Native American | Indigenous/Native American people affected, or enforcement actions on/near tribal land, reservations, or Native community spaces (e.g., Little Earth, powwow grounds). |
 | `shooting` | Shooting | Firearm discharged by agents or during an ICE operation. Includes fatal and non-fatal shootings. Also tag when guns are pointed at unarmed civilians. |
+| `vehicle-pursuit` | Vehicle Pursuit | Agents pursued, chased, rammed, boxed in, or struck someone with a vehicle, OR a vehicle chase/pursuit led to a crash or collision. Includes high-speed pursuits, agents ramming civilian vehicles, agents driving into protesters, and multi-vehicle boxing-in tactics on highways. |
 | `warrantless-entry` | Warrantless Entry | Agents entered a home, business, or vehicle without a judicial warrant. Includes forced entry (battering rams, breaking windows) and coerced consent. |
 
 ## Source Tags

@@ -3,6 +3,7 @@
 
 
 
+
 juan-carlos-brutality
 aliya-rahman-car-window-hospitalized
 speedway-st-paul
@@ -133,3 +134,5 @@ dhs-response-saly-detention
 fridley-schools-closure
 francis-burger-joint-manager
 pastor-callaghan-detained
+observer-arrests-impeding-charges-collapse
+walz-days-not-months-drawdown

@@ -10,7 +10,7 @@ injuries: minor
 trustworthiness: high
 created: 2026-01-14T08:01:12
 last_updated: 2026-02-08T15:36:25
-search_tags: shooting, src:sahan-journal, src:mpr, src:fox9, src:other-national
+search_tags: shooting, vehicle-pursuit, src:sahan-journal, src:mpr, src:fox9, src:other-national
 ---
 
 # ICE Agent Fires Shots at Man During St. Paul Arrest After Being Struck by Vehicle

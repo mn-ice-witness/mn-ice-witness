@@ -1,6 +1,42 @@
 {
   "incidents": [
     {
+      "filePath": "incidents/2026-02/11/2026-02-11-ninas-coffee-ice-pursuit-crash.md",
+      "title": "Multi-Car Crash Outside Nina's Coffee After Federal Agent Pursuit in St. Paul",
+      "summary": "A man in a red Toyota Prius crashed into two vehicles at the intersection of Selby and Western avenues in St. Paul around 9:30 a.m. on February 11 after being pursued by federal agents. The man and a woman in one of the struck vehicles were both hospitalized with non-life-threatening injuries. Three cars were damaged. The man escaped through his car window and fled on foot before being caught by agents. Competing accounts emerged immediately: a federal agent at the scene told bystanders the man had committed a hit-and-run a mile back, while social media accounts described an ICE agent causing the crash and leaving the scene. A large crowd gathered, yelling at the dozen-plus federal agents who responded.",
+      "latestUpdate": null,
+      "date": "2026-02-11",
+      "time": "\"09:30\"",
+      "location": "Selby Avenue and Western Avenue North",
+      "city": "St. Paul",
+      "type": "immigrants",
+      "status": "ongoing",
+      "affectedIndividualCitizenship": "unknown",
+      "injuries": "serious",
+      "trustworthiness": "medium",
+      "created": "2026-02-11T13:35:06",
+      "lastUpdated": "2026-02-11T13:35:06",
+      "mediaCount": 0,
+      "notable": false,
+      "searchTags": [
+        "vehicle-pursuit",
+        "excessive-force",
+        "src:mpr",
+        "src:fox9",
+        "src:kare11",
+        "src:bring-me-the-news",
+        "src:pioneer-press",
+        "src:other-national"
+      ],
+      "hasLocalMedia": false,
+      "localMediaType": null,
+      "localMediaPath": null,
+      "localMediaOgPath": null,
+      "localMediaFiles": [],
+      "aspectRatio": null,
+      "mediaVersion": null
+    },
+    {
       "filePath": "incidents/2026-02/07/2026-02-07-wilmer-andrade-work-permit-targeted.md",
       "title": "ICE Targets Man with Valid Work Permit and Pending Crime Victim Visa",
       "summary": "ICE agents knocked on Wilmer Andrade's door in the Twin Cities suburbs seeking his arrest, despite Andrade holding a valid work permit and a pending U visa application as a crime victim. Andrade, who was beaten and robbed in Minneapolis five years ago and has no criminal history in Minnesota, refused to open the door and was not taken into custody. The incident is part of a pattern of Operation Metro Surge increasingly targeting immigrants with active work authorization and pending legal cases.",
@@ -353,6 +389,44 @@
       "localMediaFiles": [],
       "aspectRatio": null,
       "mediaVersion": null
+    },
+    {
+      "filePath": "incidents/2026-01/26/2026-01-26-christian-salamanca-ice-chase-crash.md",
+      "title": "Asylum Seeker Hospitalized After Wife Says ICE Rammed His Car Into Telephone Pole",
+      "summary": "Christian Salamanca, a Colombian asylum seeker with a valid visa and work permit, was hospitalized with serious injuries after his wife says ICE agents chased him and rammed his car into a telephone pole at McDonough Community Center in St. Paul. Nicole Salamanca says her husband called her in a panic around 11:15 a.m. on January 26 while driving to work, saying someone was following him. At her suggestion, he drove to the community center hoping it would be a safer location. According to Nicole, as Christian turned into the parking lot, ICE agents rammed his car from behind, pushing it into a telephone pole. Photos show the vehicle crushed between the pole and signage. Christian managed to exit the car and ran inside the building to hide.",
+      "latestUpdate": null,
+      "date": "2026-01-26",
+      "time": "\"11:15\"",
+      "location": "McDonough Community Center, St. Paul",
+      "city": "St. Paul",
+      "type": "immigrants",
+      "status": "ongoing",
+      "affectedIndividualCitizenship": "asylum-seeker",
+      "injuries": "serious",
+      "trustworthiness": "medium",
+      "created": "2026-01-31T08:29:19",
+      "lastUpdated": "2026-02-09T21:12:05",
+      "mediaCount": 0,
+      "notable": false,
+      "searchTags": [
+        "legal-resident",
+        "excessive-force",
+        "vehicle-pursuit",
+        "src:kare11",
+        "src:other-national"
+      ],
+      "hasLocalMedia": true,
+      "localMediaType": "video",
+      "localMediaPath": "media/2026-01/26/2026-01-26-christian-salamanca-ice-chase-crash.mp4",
+      "localMediaOgPath": "media/2026-01/26/2026-01-26-christian-salamanca-ice-chase-crash-og-2s-1769878633.jpg",
+      "localMediaFiles": [
+        {
+          "type": "video",
+          "path": "media/2026-01/26/2026-01-26-christian-salamanca-ice-chase-crash.mp4"
+        }
+      ],
+      "aspectRatio": 1.8166666666666667,
+      "mediaVersion": 1769912968
     },
     {
       "filePath": "incidents/2026-01/26/2026-01-26-el-potro-brainerd.md",
@@ -2153,6 +2227,7 @@
       "notable": false,
       "searchTags": [
         "shooting",
+        "vehicle-pursuit",
         "src:sahan-journal",
         "src:mpr",
         "src:fox9",
