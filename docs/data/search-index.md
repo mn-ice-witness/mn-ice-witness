@@ -16,10 +16,11 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (245 incidents)
+## CURRENT (246 incidents)
 
 Published incidents visible on the main site.
 
+- incidents/2026-02/09/2026-02-09-observer-arrests-impeding-charges-collapse.md | 2026-02-09 | Minneapolis | background | "No Evidence of an Assault": 158 Arrested for Impeding ICE, Cases Routinely Dismissed
 - incidents/2026-02/08/2026-02-08-ice-deceptive-tactics.md | 2026-02-08 | Minneapolis | background | Reports of ICE Agents Using Disguises, Fake License Plates, and Ruse Tactics Across Minnesota
 - incidents/2026-02/07/2026-02-07-dhs-response-whipple-conditions-false.md | 2026-02-07 | Minneapolis | response | DHS Statement: Claims of "Subprime Conditions" at Whipple Are "FALSE"
 - incidents/2026-02/07/2026-02-07-observers-one-warning-abductions.md | 2026-02-07 | Minneapolis | observers | Three Legal Observers Arrested in 30 Minutes as ICE Implements "One Warning" Policy
@@ -268,7 +269,7 @@ Published incidents visible on the main site.
 
 ---
 
-## NO-ADD (189 entries)
+## NO-ADD (195 entries)
 
 Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 
@@ -455,6 +456,12 @@ Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 - dev-docs/not_use.md | Jan 9 | Rochester Groome Transportation Cuff-and-Release
 - dev-docs/not_use.md | Jan 15 | Best Boy Farms Owatonna Workplace Raid
 - dev-docs/not_use.md | Dec 22 | Thomas Edwin Edwards Gun Confrontation West St. Paul
+- dev-docs/not_use.md | Feb 10 | Todd Lyons / Rodney Scott Congressional Testimony
+- dev-docs/not_use.md | Feb 10 | Hennepin County Government Center Drug Case Arrest
+- dev-docs/not_use.md | Feb 9 | Hopkins Hiawatha Court Apartments / Knollwood Mall Confrontation
+- dev-docs/not_use.md | Feb 9 | Nikki Davidson ICE Arrest Map Investigation
+- dev-docs/not_use.md | Feb 10 | Lagoon Avenue / Uptown Window Smash
+- dev-docs/not_use.md | Feb 10 | Knollwood Mall Morning Arrest
 - dev-docs/not_use.md | Dec 13, 2025 | Loc Vinh Truong Rochester
 - dev-docs/not_use.md | Dec 13-14, 2025 | Willmar December 13-14 HSI Arrests
 - dev-docs/not_use.md | Dec 10-11, 2025 | Rekeya Frazier / Oluwadamilola Bamigboye Plymouth

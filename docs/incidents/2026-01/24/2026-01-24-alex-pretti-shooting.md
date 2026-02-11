@@ -9,12 +9,13 @@ affected_individual_citizenship: us-citizen
 injuries: fatal
 trustworthiness: high
 created: 2026-01-24T13:40:15
-last_updated: 2026-02-09T21:12:05
+last_updated: 2026-02-10T18:47:37
 ---
 
 # Alex Pretti Shot and Killed by Federal Agents
 
 ## Updates
+- **Feb 7** - Multiple sources report BCA and FBI are in [active discussions about a joint investigation](https://kstp.com/kstp-news/top-news/source-fbi-bca-to-announce-joint-investigation-into-shooting-of-alex-pretti/) into Pretti's killing. BCA described itself as "committed" to finding a path forward after being [blocked from the crime scene](https://www.startribune.com/pretti-investigation-mn-bca-fbi/601577509) on January 26.
 - **Feb 2** - Hennepin County Medical Examiner [ruled Pretti's death a homicide](https://www.cbsnews.com/minnesota/news/alex-pretti-death-ruled-homicide-hennepin-county-medical-examiner/) caused by "multiple gunshot wounds."
 - **Feb 2** - Judge Tostrud [lifted the evidence preservation order](https://krdo.com/news/2026/02/02/judge-wipes-away-order-requiring-feds-to-preserve-evidence-gathered-at-alex-pretti-shooting-scene/), stating federal officials provided assurances evidence would be properly maintained.
 - **Feb 1** - [ProPublica identifies](https://www.propublica.org/article/alex-pretti-shooting-cbp-agents-identified-jesus-ochoa-raymundo-gutierrez) the two agents who shot Pretti: Border Patrol agent **Jesus Ochoa**, 43, and CBP officer **Raymundo Gutierrez**, 35. Agents fired Glock pistols approximately 10 times. Video analysis suggests "a federal agent taking Pretti's gun from his hip before the first shots were fired."
@@ -65,6 +66,8 @@ Federal agents fatally shot Alex Jeffrey Pretti, a 37-year-old U.S. citizen, lic
 31. CNN (Jan 27, 2026): [Pretti suffered broken rib in prior confrontation](https://www.cnn.com/2026/01/27/us/alex-pretti-protesters-minneapolis-invs)
 32. NYT (Jan 28, 2026): [Federal claims about a Border Patrol target's criminal record are disputed](https://www.nytimes.com/live/2026/01/28/us/minneapolis-shooting-ice-minnesota)
 33. ProPublica (Feb 1, 2026): [Two CBP Agents Identified in Alex Pretti Shooting](https://www.propublica.org/article/alex-pretti-shooting-cbp-agents-identified-jesus-ochoa-raymundo-gutierrez)
+34. KSTP (Feb 6, 2026): [Source: FBI, BCA to announce joint investigation into shooting of Alex Pretti](https://kstp.com/kstp-news/top-news/source-fbi-bca-to-announce-joint-investigation-into-shooting-of-alex-pretti/)
+35. Star Tribune (Feb 7, 2026): [BCA pursuing 'path forward' for investigation with FBI into Alex Pretti shooting](https://www.startribune.com/pretti-investigation-mn-bca-fbi/601577509)
 
 ## Related Incidents
 

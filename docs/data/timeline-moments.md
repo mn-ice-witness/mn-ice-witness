@@ -326,3 +326,11 @@ incident: 2026-02-08-ice-deceptive-tactics
 source:
 ---
 AP investigation documents federal agents disguising themselves as construction workers, using fake business decals on rental vehicles, and swapping license plates. A Star Tribune investigation of 100+ plates found a Jeep with Porsche plates, another with Ferrari plates, and one plate used on four different vehicles. Agents also [tricked a daycare teacher](/entry/2026-01-07-un-mundo-nuevo-teacher-tricked) outside with a fake accident claim and [followed watchers to their homes](/entry/2026-01-06-levy-observers-followed-home).
+
+---
+date: 2026-02-09
+title: "No Evidence of an Assault"
+incident: 2026-02-09-observer-arrests-impeding-charges-collapse
+source:
+---
+Federal authorities arrested 158 people for impeding ICE in Minnesota's first month, but the cases routinely collapsed when prosecutors and judges reviewed the evidence. A Fox 9 investigation of 92 federal cases found zero convictions; grand juries returned "no bills," charges were dismissed, and felonies downgraded. People were arrested for [giving the middle finger](/entry/2026-02-09-observer-arrests-impeding-charges-collapse), walking with hands up, and following agents in cars — conduct protected by the First Amendment. Law professor Rachel Moran: "When somebody other than the agents has to look at evidence and decide whether an assault happened, in the vast majority of situations, they're deciding, no, there's no evidence of an assault."

@@ -1300,6 +1300,48 @@ Stories are excluded when they don't meet the project's core focus:
 - Reason: **Unclear who escalated; civilian was criminally charged.** Both sides claim the other brandished weapons first. Edwards was charged with assault and obstruction, making this a criminal case rather than a clear civil rights incident. No evidence agents initiated the gun confrontation.
 - Date evaluated: 2026-02-08
 
+**Todd Lyons / Rodney Scott Congressional Testimony (Feb 10)**
+- Sources: [MPR News](https://www.mprnews.org/story/2026/02/10/ice-chief-defends-his-officers-actions-before-congress-after-the-deaths-of-2-protesters), [Fox News](https://www.foxnews.com/politics/ice-director-says-minnesota-bodycam-footage-will-be-released-amid-transparency-push), [NPR](https://www.npr.org/2026/02/10/g-s1-109330/immigration-oversight-dhs-funding), [Washington Post](https://www.washingtonpost.com/immigration/2026/02/10/ice-cbp-congress-minneapolis/), [ABC News](https://abcnews.com/Politics/acting-ice-director-cbp-commissioner-testify-time-fatal/story?id=129996335)
+- Date: February 10, 2026
+- Details: Acting ICE Director Todd Lyons, CBP Commissioner Rodney Scott, and USCIS Director Joseph Edlow testified before the House Homeland Security Committee — first time ICE/CBP leadership testified since the Renee Good and Alex Pretti fatal shootings. Lyons promised body camera footage "will be released" and stated "the president tasked us with mass deportations."
+- Reason: **Political/institutional story.** Congressional hearing testimony, not a specific civil rights incident.
+- Date evaluated: 2026-02-10
+
+**Hennepin County Government Center Drug Case Arrest (Feb 10)**
+- Sources: [Bring Me The News](https://bringmethenews.com/minnesota-news/list-of-ice-raids-major-updates-in-minnesota-on-tuesday-feb-10)
+- Date: February 10, 2026
+- Details: Man arrested by ICE at Hennepin County Government Center while making a court appearance for first-degree drug possession involving more than 50 lbs. of meth.
+- Reason: **Criminal case.** Individual facing serious drug charges. Separate from Feb 5 courthouse detentions already documented.
+- Date evaluated: 2026-02-10
+
+**Hopkins Hiawatha Court Apartments / Knollwood Mall Confrontation (Feb 9)**
+- Sources: [Bring Me The News](https://bringmethenews.com/minnesota-news/ice-requests-police-aid-as-large-crowd-responds-in-hopkins-then-st-louis-park)
+- Date: February 9, 2026
+- Details: ICE agents at Hiawatha Court Apartments surrounded by large crowd. Tires slashed. Agents drove to Knollwood Mall where crowd followed. Hopkins PD and St. Louis Park PD responded.
+- Reason: **Community response/confrontation only.** No individual affected by ICE enforcement identified.
+- Date evaluated: 2026-02-10
+
+**Nikki Davidson ICE Arrest Map Investigation (Feb 9)**
+- Sources: [Northern News Now](https://www.northernnewsnow.com/2026/02/09/i-mapped-every-confirmed-ice-arrest-minnesota-heres-what-i-found/), [MinnPost](https://www.minnpost.com/glean/2026/02/what-mapping-every-confirmed-ice-arrest-reveals/)
+- Date: February 9, 2026
+- Details: Journalist mapped every confirmed ICE arrest in Minnesota. Only 335 names verified out of 3,000+ claimed arrests. Rural arrests largely administrative transfers from existing federal correctional facilities.
+- Reason: **Investigative reporting/feature.** Data journalism piece, not a specific civil rights incident.
+- Date evaluated: 2026-02-10
+
+**Lagoon Avenue / Uptown Window Smash (Feb 10)**
+- Sources: [Bring Me The News](https://bringmethenews.com/minnesota-news/list-of-ice-raids-major-updates-in-minnesota-on-tuesday-feb-10)
+- Date: February 10, 2026
+- Details: ICE agents reportedly smashed a vehicle window and pulled a man from a vehicle along Lagoon Avenue in Uptown Minneapolis.
+- Reason: **Insufficient details** - observer-reported only, no name, no citizenship/status information.
+- Date evaluated: 2026-02-10
+
+**Knollwood Mall Morning Arrest (Feb 10)**
+- Sources: [Bring Me The News](https://bringmethenews.com/minnesota-news/list-of-ice-raids-major-updates-in-minnesota-on-tuesday-feb-10)
+- Date: February 10, 2026
+- Details: ICE agents made an arrest near Knollwood Mall in Hopkins/St. Louis Park area.
+- Reason: **Insufficient details** - observer-reported only, no name, no details.
+- Date evaluated: 2026-02-10
+
 ### December 2025
 
 **Loc Vinh Truong Rochester (Dec 13, 2025)**

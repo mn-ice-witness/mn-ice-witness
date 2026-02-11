@@ -9,13 +9,14 @@ affected_individual_citizenship: various
 injuries: none
 trustworthiness: high
 created: 2026-02-07T14:24:24
-last_updated: 2026-02-09T18:19:41
+last_updated: 2026-02-10T13:53:29
 ---
 
 # Minnesota Courts Buckle as Immigration Litigation Overwhelms Federal System; Top ICE Lawyer Departs
 
 ## Updates
 - **Feb 8** - Judge Brasel [ordered immigration attorneys be allowed inside](https://www.fox9.com/news/immigration-advocates-set-inspect-ice-headquarters-whipple-building-monday) the Whipple Building on Monday to visit clients and inspect conditions. The government argued detainees have no right to "unfettered" attorney access; attorneys requested permission to speak with detainees and bring recording equipment, which officials denied.
+- **Feb 6** - Judge Blackwell [revealed that "the overwhelming majority of the hundreds seen by this court have been found to be lawfully present"](https://bringmethenews.com/minnesota-news/judge-says-most-cases-brought-to-him-by-ice-were-for-people-lawfully-in-minnesota) during a Feb 3 compliance hearing. He cited a specific case where a man arrested Jan 10 with no criminal history was ordered released Jan 15 but was not freed until Jan 28 — 13 days later — after being shuffled between detention centers in Texas and New Mexico. Le told the court she was instructed not to provide flight details because "the protesters will show up at the airport."
 
 ## Summary
 The legal infrastructure around Operation Metro Surge began visibly collapsing in early February 2026. Jim Stolley, the chief counsel for ICE in Minnesota and a 31-year veteran of the agency, retired — his government email generating an automated reply that he had "retired from public service." His departure came days after ICE attorney Julie T. Le, on detail to the U.S. Attorney's Office, told U.S. District Judge Jerry Blackwell that the flood of cases had become unmanageable: "The system sucks. This job sucks." She was removed from her detail the next day. U.S. Attorney Daniel Rosen reported that 427 immigration lawsuits were filed in January alone, forcing his office to set aside much of its conventional work, with his civil division understaffed by roughly 50 percent. On February 6, U.S. District Judge Nancy Brasel gave the government until February 12 to reach agreement on ensuring the right to counsel for detainees at the Bishop Henry Whipple Federal Building, calling the gap between evidence and government claims "so enormous I don't know how you're going to close it." Immigration attorneys had filed 691 habeas corpus petitions since January 1 — five times the total for all of 2025.
@@ -46,6 +47,7 @@ The legal infrastructure around Operation Metro Surge began visibly collapsing i
 23. NPR (Feb 5, 2026): [More frustrated prosecutors at the U.S Attorney's office in Minnesota call it quits](https://www.npr.org/2026/02/05/nx-s1-5702356/more-frustrated-prosecutors-at-the-u-s-attorneys-office-in-minnesota-call-it-quits)
 24. ABC News (Feb 4, 2026): ['This job sucks,' overwhelmed DHS lawyer says in court hearing over ICE's response to court orders](https://abcnews.go.com/US/job-sucks-dhs-lawyer-court-hearing-ices-response/story?id=129855783)
 25. Star Tribune (Feb 2, 2026): [Another wave of departures in Minnesota's U.S. Attorney's Office](https://www.startribune.com/another-wave-of-departures-in-minnesotas-us-attorneys-office/601575569)
+26. Bring Me The News (Feb 6, 2026): [Judge: 'Overwhelming majority' of cases brought to him by ICE were for people lawfully in Minnesota](https://bringmethenews.com/minnesota-news/judge-says-most-cases-brought-to-him-by-ice-were-for-people-lawfully-in-minnesota)
 
 ## Related Incidents
 - [Judge Orders ICE Director to Appear for Contempt; 96 Court Orders Violated](#2026-01-27-tobay-robles-lyons-contempt)
