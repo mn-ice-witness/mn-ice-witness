@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: medium
 created: 2026-01-16T21:36:57
 last_updated: 2026-01-16T21:36:57
-search_tags: observer-intimidated, excessive-force, src:other-national
+search_tags: observer-intimidated, excessive-force, shooting, src:other-national
 ---
 
 # ICE Agent Points Gun at Protester's Face at Point-Blank Range

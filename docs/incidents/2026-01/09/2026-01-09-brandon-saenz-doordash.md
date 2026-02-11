@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: medium
 created: 2026-01-21T16:38:05
 last_updated: 2026-01-21T16:38:05
-search_tags: family-separation, src:other-national
+search_tags: family-separation, children, native-american, src:other-national
 ---
 
 # DoorDash Driver Arrested by ICE; Wife Flees Into Customer's Home

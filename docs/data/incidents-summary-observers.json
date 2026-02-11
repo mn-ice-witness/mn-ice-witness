@@ -434,7 +434,6 @@
         "src:bring-me-the-news",
         "src:nyt",
         "src:fox-news",
-        "src:pbs",
         "src:other-national"
       ],
       "hasLocalMedia": true,
@@ -846,6 +845,7 @@
       "notable": false,
       "searchTags": [
         "chemical-agents",
+        "observer-intimidated",
         "src:star-tribune"
       ],
       "hasLocalMedia": true,
@@ -1416,7 +1416,6 @@
         "us-citizen",
         "native-american",
         "observer-intimidated",
-        "warrantless-entry",
         "src:wcco",
         "src:other-national"
       ],
@@ -1931,6 +1930,8 @@
       "notable": false,
       "searchTags": [
         "observer-intimidated",
+        "excessive-force",
+        "shooting",
         "src:other-local"
       ],
       "hasLocalMedia": false,

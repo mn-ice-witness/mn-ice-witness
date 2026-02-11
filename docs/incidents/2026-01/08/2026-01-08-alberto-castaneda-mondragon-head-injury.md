@@ -10,7 +10,7 @@ injuries: serious
 trustworthiness: high
 created: 2026-01-26T15:10:02
 last_updated: 2026-02-07T13:43:22
-search_tags: excessive-force, src:sahan-journal, src:mpr, src:ap, src:pioneer-press, src:npr, src:wcco, src:bring-me-the-news, src:other-local, src:other-national
+search_tags: excessive-force, src:sahan-journal, src:mpr, src:ap, src:abc, src:pioneer-press, src:npr, src:wcco, src:bring-me-the-news, src:other-national
 ---
 
 # Immigrant Hospitalized With Skull Fractures After ICE Arrest; Says Beating Was Unprovoked

@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-14T09:04:50
 last_updated: 2026-01-14T09:04:50
-search_tags: src:other-local
+search_tags: warrantless-entry, src:other-local
 ---
 
 # Multiple ICE Arrests in Rochester; Activist Documents Agent Using Hammer on Car Window
