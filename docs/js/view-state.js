@@ -174,10 +174,10 @@ const ViewState = {
             sectionNav.style.display = (mode !== 'all') ? 'none' : '';
         }
 
-        // Update sort button visual
+        // Update sort button visual — stay highlighted when non-default sort
         const sortBtn = document.getElementById('sort-btn');
         if (sortBtn) {
-            sortBtn.classList.toggle('active', false);
+            sortBtn.classList.toggle('active', mode !== 'all');
         }
 
         // Update URL
@@ -302,7 +302,6 @@ const ViewState = {
                         this.setSortMode(option.dataset.sort);
                         menu.classList.remove('open');
                         menu.setAttribute('aria-hidden', 'true');
-                        document.getElementById('sort-btn').classList.remove('active');
                     });
                 });
             }

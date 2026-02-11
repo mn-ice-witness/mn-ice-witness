@@ -10,7 +10,7 @@ injuries: serious
 trustworthiness: high
 created: 2026-01-15T15:19:43
 last_updated: 2026-01-15T15:19:43
-search_tags: children, tear-gas, excessive-force, src:fox9, src:bring-me-the-news, src:nyt, src:kare11, src:cbs-mn
+search_tags: children, chemical-agents, excessive-force, src:fox9, src:bring-me-the-news, src:nyt, src:kare11, src:cbs-mn
 ---
 
 # Six Children Hospitalized After ICE Deploys Flashbangs and Tear Gas on Family SUV

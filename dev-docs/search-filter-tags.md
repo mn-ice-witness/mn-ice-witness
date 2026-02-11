@@ -5,7 +5,7 @@ Tags are added to incident frontmatter via the `search_tags` field. They power t
 ## Frontmatter Format
 
 ```yaml
-search_tags: children, pepper-spray, us-citizen, src:fox9, src:star-tribune
+search_tags: children, chemical-agents, us-citizen, src:fox9, src:star-tribune
 ```
 
 Comma-separated list. Topic tags are plain values; source tags use the `src:` prefix.
@@ -20,12 +20,9 @@ Comma-separated list. Topic tags are plain values; source tags use the `src:` pr
 | `observer-intimidated` | Observer Intimidated | Bystander, protester, or clergy harassed, shoved, or sprayed for observing |
 | `observer-detained` | Observer Detained | Observer or bystander held, arrested, or transported by agents |
 | `children` | Children | Children present, affected, or separated from parents |
-| `pepper-spray` | Pepper Spray | Pepper spray or pepper rounds used |
-| `tear-gas` | Tear Gas | Tear gas, flashbangs, or chemical irritants deployed |
+| `chemical-agents` | Pepper Spray / Tear Gas | Pepper spray, pepper rounds, tear gas, flashbangs, or chemical irritants |
 | `shooting` | Shooting | Firearm discharged by agents |
 | `excessive-force` | Excessive Force | Force beyond what the situation warranted |
-| `wrong-person` | Wrong Person | Wrong address, wrong individual, or mistaken identity |
-| `journalist` | Journalist | Credentialed journalist targeted or harmed |
 
 ## Source Tags
 
@@ -58,9 +55,9 @@ Comma-separated list. Topic tags are plain values; source tags use the `src:` pr
 These 7 incidents have `search_tags` for the initial demo:
 
 - `2026-01-07-renee-good-shooting` — shooting, us-citizen, children
-- `2026-01-14-shawn-jackson-children-tear-gas` — children, tear-gas, excessive-force
+- `2026-01-14-shawn-jackson-children-tear-gas` — children, chemical-agents, excessive-force
 - `2026-01-13-ryan-ecklund-filming-detained` — observer-detained, us-citizen
-- `2026-01-24-jana-shortal-journalist-pepper-sprayed` — journalist, pepper-spray, observer-intimidated
+- `2026-01-24-jana-shortal-journalist-pepper-sprayed` — chemical-agents, observer-intimidated
 - `2026-01-12-nimco-omar-citizen-check` — citizen-check, us-citizen
-- `2026-01-07-clergy-pepper-sprayed` — pepper-spray, observer-intimidated
-- `2026-01-15-porter-wrong-address-raid` — wrong-person, us-citizen
+- `2026-01-07-clergy-pepper-sprayed` — chemical-agents, observer-intimidated
+- `2026-01-15-porter-wrong-address-raid` — us-citizen

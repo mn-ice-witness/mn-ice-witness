@@ -7,13 +7,13 @@ const Search = {
         this.btn = document.getElementById('search-btn');
         this.modal = document.getElementById('search-modal');
         this.input = document.getElementById('search-input');
-        this.clearBtn = document.getElementById('search-clear');
+        this.closeBtn = document.getElementById('search-close');
         this.backdrop = this.modal.querySelector('.search-modal-backdrop');
         this.checkboxes = this.modal.querySelectorAll('input[name="search-tag"]');
 
         this.btn.addEventListener('click', () => this.toggle());
         this.backdrop.addEventListener('click', () => this.close());
-        this.clearBtn.addEventListener('click', () => this.clear());
+        this.closeBtn.addEventListener('click', () => this.close());
         this.input.addEventListener('input', () => this.onInput());
         this.input.addEventListener('keydown', (e) => {
             if (e.key === 'Enter') {
@@ -52,6 +52,7 @@ const Search = {
     close() {
         this.isOpen = false;
         this.modal.setAttribute('aria-hidden', 'true');
+        this.query = this.input.value.trim();
         this.updateButtonState();
         this.applyFilter();
     },
@@ -64,8 +65,7 @@ const Search = {
             cb.checked = false;
             cb.closest('.filter-chip').classList.remove('active');
         });
-        this.btn.classList.remove('active');
-        this.close();
+        this.updateButtonState();
         this.applyFilter();
     },
 

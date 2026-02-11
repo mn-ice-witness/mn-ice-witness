@@ -10,7 +10,7 @@ injuries: minor
 trustworthiness: high
 created: 2026-01-14T08:41:37
 last_updated: 2026-01-14T08:41:37
-search_tags: pepper-spray, observer-intimidated
+search_tags: chemical-agents, observer-intimidated
 ---
 
 # Clergy Pepper Sprayed at Scene of Renee Good Shooting
