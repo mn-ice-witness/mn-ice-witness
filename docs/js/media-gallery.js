@@ -31,6 +31,15 @@ const MediaGallery = {
         const gallery = document.getElementById('media-gallery');
         let mediaIncidents = App.getFilteredIncidents().filter(i => i.hasLocalMedia);
 
+        // Include background incidents that have media (filtered out by getFilteredIncidents)
+        const backgroundWithMedia = App.incidents.filter(i => {
+            if (i.trustworthiness === 'no-news-media' || i.trustworthiness === 'removed') return false;
+            if (!i.hasLocalMedia) return false;
+            const types = Array.isArray(i.type) ? i.type : [i.type];
+            return types.length === 1 && types[0] === 'background';
+        });
+        mediaIncidents = [...mediaIncidents, ...backgroundWithMedia];
+
         if (mediaIncidents.length === 0) {
             const hasSearch = typeof Search !== 'undefined' && Search.query;
             const msg = hasSearch ? 'No media matches your search.' : 'No media available yet. Check back soon.';
@@ -123,6 +132,42 @@ const MediaGallery = {
         gallery.appendChild(mediaNote);
 
         columns.forEach(col => gallery.appendChild(col.element));
+
+        // No-news-media section at the bottom
+        const noNewsMediaIncidents = App.incidents.filter(i =>
+            i.trustworthiness === 'no-news-media' && i.hasLocalMedia
+        );
+        if (noNewsMediaIncidents.length > 0) {
+            const sectionHeader = document.createElement('div');
+            sectionHeader.className = 'media-gallery-section-header';
+            sectionHeader.innerHTML = '<h3>Unverified by News Media</h3><p>These incidents have video or photo evidence but have not yet been covered by news outlets.</p>';
+            gallery.appendChild(sectionHeader);
+
+            const noNewsCards = noNewsMediaIncidents.map(incident => {
+                const wrapper = document.createElement('div');
+                wrapper.innerHTML = this.renderCard(incident);
+                const cardEl = wrapper.firstElementChild;
+                this.setupCardControls(cardEl);
+                cardEl.addEventListener('click', () => Lightbox.open(incident));
+                const estimatedHeight = incident.aspectRatio ? (1 / incident.aspectRatio) : 1;
+                return { element: cardEl, height: estimatedHeight };
+            });
+
+            const noNewsColumns = [];
+            for (let i = 0; i < columnCount; i++) {
+                noNewsColumns.push({ element: document.createElement('div'), cards: [], height: 0 });
+                noNewsColumns[i].element.className = 'gallery-column';
+            }
+            noNewsCards.forEach((card, index) => {
+                const colIdx = index % columnCount;
+                noNewsColumns[colIdx].cards.push(card);
+                noNewsColumns[colIdx].height += card.height;
+            });
+            for (const col of noNewsColumns) {
+                for (const card of col.cards) col.element.appendChild(card.element);
+            }
+            noNewsColumns.forEach(col => gallery.appendChild(col.element));
+        }
 
         const footer = document.createElement('div');
         footer.className = 'media-gallery-footer';
