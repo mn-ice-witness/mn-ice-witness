@@ -114,15 +114,3 @@ Each incident is rated for trustworthiness based on source quality and corrobora
 
 The trustworthiness rating appears at the bottom of each incident page.
 
-### No News Media
-
-- Incidents documented only by social media, without news coverage from established outlets. These are shown on a separate <a href="/no-news-media">No News Media</a> page, not the main listing. If you can help find news coverage for any of these, please <a href="mailto:mnicewitness@gmail.com">contact us</a>.
-
-### Removed Incidents
-
-- Incidents that were previously listed but removed after new information emerged that contradicted the original reporting. These are moved to the <a href="/removed">Removed Incidents</a> page with correction notes explaining what changed and why.
-
-### Corrections
-
-- Incidents that were published with significant factual errors that have since been identified and corrected through expert analysis, official records, or independent verification. The core incident may still be valid, but key claims were wrong. These are moved to the <a href="/corrections">Corrections</a> page with detailed correction notes.
-

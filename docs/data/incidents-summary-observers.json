@@ -418,7 +418,9 @@
       "notable": false,
       "searchTags": [
         "us-citizen",
+        "shooting",
         "excessive-force",
+        "chemical-agents",
         "src:star-tribune",
         "src:fox9",
         "src:sahan-journal",
@@ -432,6 +434,7 @@
         "src:bring-me-the-news",
         "src:nyt",
         "src:fox-news",
+        "src:pbs",
         "src:other-national"
       ],
       "hasLocalMedia": true,
@@ -470,8 +473,9 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
-        "chemical-agents",
+        "us-citizen",
         "observer-intimidated",
+        "chemical-agents",
         "src:kare11",
         "src:fox9",
         "src:wcco",
@@ -581,6 +585,7 @@
       "notable": false,
       "searchTags": [
         "observer-intimidated",
+        "shooting",
         "src:other-local"
       ],
       "hasLocalMedia": false,
@@ -1035,7 +1040,8 @@
         "src:kare11",
         "src:wcco",
         "src:bring-me-the-news",
-        "src:other-local"
+        "src:other-local",
+        "src:other-national"
       ],
       "hasLocalMedia": true,
       "localMediaType": "video",
@@ -1411,6 +1417,7 @@
         "us-citizen",
         "native-american",
         "observer-intimidated",
+        "warrantless-entry",
         "src:wcco",
         "src:other-national"
       ],
@@ -1518,6 +1525,7 @@
         "observer-detained",
         "observer-intimidated",
         "excessive-force",
+        "shooting",
         "src:star-tribune",
         "src:intercept"
       ],
@@ -1583,6 +1591,7 @@
       "searchTags": [
         "observer-intimidated",
         "excessive-force",
+        "shooting",
         "src:other-national"
       ],
       "hasLocalMedia": true,
@@ -1648,8 +1657,7 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
-        "us-citizen",
-        "observer-intimidated",
+        "shooting",
         "src:mpr",
         "src:star-tribune",
         "src:cnn",
@@ -1691,6 +1699,7 @@
       "searchTags": [
         "us-citizen",
         "observer-detained",
+        "excessive-force",
         "src:kare11",
         "src:other-national"
       ],
@@ -1727,7 +1736,7 @@
       "notable": false,
       "searchTags": [
         "us-citizen",
-        "excessive-force",
+        "shooting",
         "src:star-tribune",
         "src:fox9",
         "src:nyt",
@@ -1774,9 +1783,7 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
-        "us-citizen",
         "observer-intimidated",
-        "excessive-force",
         "chemical-agents",
         "src:other-national"
       ],
@@ -1990,7 +1997,8 @@
       "searchTags": [
         "us-citizen",
         "observer-detained",
-        "src:other-local"
+        "src:other-local",
+        "src:other-national"
       ],
       "hasLocalMedia": false,
       "localMediaType": null,
@@ -2105,6 +2113,7 @@
         "src:mpr",
         "src:fox9",
         "src:ap",
+        "src:wcco",
         "src:sahan-journal",
         "src:nyt",
         "src:star-tribune",
@@ -2139,6 +2148,8 @@
       "searchTags": [
         "us-citizen",
         "observer-intimidated",
+        "excessive-force",
+        "shooting",
         "src:mn-reformer",
         "src:star-tribune"
       ],
@@ -2176,6 +2187,7 @@
       "searchTags": [
         "us-citizen",
         "observer-intimidated",
+        "shooting",
         "src:mpr",
         "src:mn-reformer"
       ],

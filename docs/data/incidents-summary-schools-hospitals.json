@@ -221,7 +221,9 @@
       "lastUpdated": "2026-02-08T14:30:13",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "citizen-check"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -289,7 +291,8 @@
         "children",
         "chemical-agents",
         "src:star-tribune",
-        "src:other-local"
+        "src:other-local",
+        "src:other-national"
       ],
       "hasLocalMedia": true,
       "localMediaType": "video",
@@ -346,7 +349,8 @@
         "src:cnn",
         "src:kstp",
         "src:kare11",
-        "src:ap"
+        "src:ap",
+        "src:npr"
       ],
       "hasLocalMedia": true,
       "localMediaType": "image",
@@ -381,8 +385,8 @@
       "notable": false,
       "searchTags": [
         "children",
-        "native-american",
         "citizen-check",
+        "native-american",
         "src:other-local",
         "src:mpr"
       ],
@@ -448,6 +452,7 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "family-separation",
         "src:sahan-journal"
       ],
       "hasLocalMedia": false,
@@ -890,6 +895,7 @@
       "notable": false,
       "searchTags": [
         "legal-resident",
+        "children",
         "src:star-tribune",
         "src:kare11"
       ],
@@ -970,6 +976,7 @@
       "searchTags": [
         "legal-resident",
         "deception",
+        "children",
         "src:star-tribune"
       ],
       "hasLocalMedia": false,
@@ -1004,7 +1011,6 @@
       "searchTags": [
         "children",
         "family-separation",
-        "deception",
         "src:sahan-journal",
         "src:cbs",
         "src:star-tribune",
@@ -1049,6 +1055,7 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "warrantless-entry",
         "src:wcco",
         "src:fox9",
         "src:sahan-journal",
@@ -1091,6 +1098,8 @@
       "notable": false,
       "searchTags": [
         "excessive-force",
+        "shooting",
+        "warrantless-entry",
         "src:mpr",
         "src:star-tribune",
         "src:kstp",

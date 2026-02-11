@@ -49,6 +49,7 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "legal-resident",
         "src:wcco"
       ],
       "hasLocalMedia": false,
@@ -373,8 +374,9 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
-        "src:other-local",
-        "src:star-tribune"
+        "workplace-raid",
+        "src:star-tribune",
+        "src:other-local"
       ],
       "hasLocalMedia": false,
       "localMediaType": null,
@@ -403,8 +405,8 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "warrantless-entry",
         "src:star-tribune",
-        "src:other-local",
         "src:other-national"
       ],
       "hasLocalMedia": false,
@@ -503,6 +505,7 @@
       "searchTags": [
         "children",
         "family-separation",
+        "chemical-agents",
         "src:nbc",
         "src:kare11",
         "src:bring-me-the-news",
@@ -541,7 +544,9 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "legal-resident",
         "excessive-force",
+        "workplace-raid",
         "src:kare11"
       ],
       "hasLocalMedia": true,
@@ -638,7 +643,8 @@
         "src:cnn",
         "src:kstp",
         "src:kare11",
-        "src:ap"
+        "src:ap",
+        "src:npr"
       ],
       "hasLocalMedia": true,
       "localMediaType": "image",
@@ -713,6 +719,7 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "family-separation",
         "src:sahan-journal"
       ],
       "hasLocalMedia": false,
@@ -745,6 +752,7 @@
         "children",
         "family-separation",
         "legal-resident",
+        "warrantless-entry",
         "src:fox9",
         "src:bring-me-the-news"
       ],
@@ -840,6 +848,7 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "workplace-raid",
         "deception",
         "src:star-tribune",
         "src:other-local",
@@ -944,6 +953,7 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "workplace-raid",
         "src:other-local"
       ],
       "hasLocalMedia": false,
@@ -1003,6 +1013,7 @@
       "notable": false,
       "searchTags": [
         "legal-resident",
+        "workplace-raid",
         "deception",
         "src:bring-me-the-news",
         "src:wcco",
@@ -1077,6 +1088,7 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "workplace-raid",
         "src:sahan-journal",
         "src:other-national",
         "src:abc",
@@ -1243,6 +1255,8 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "workplace-raid",
+        "warrantless-entry",
         "src:other-local"
       ],
       "hasLocalMedia": false,
@@ -1313,7 +1327,8 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
-        "children",
+        "workplace-raid",
+        "family-separation",
         "src:other-local",
         "src:sahan-journal"
       ],
@@ -1414,6 +1429,7 @@
       "notable": false,
       "searchTags": [
         "excessive-force",
+        "warrantless-entry",
         "children",
         "src:fox9",
         "src:kstp",
@@ -1456,6 +1472,7 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "legal-resident",
         "src:star-tribune",
         "src:fox9",
         "src:kstp",
@@ -1644,6 +1661,8 @@
       "notable": false,
       "searchTags": [
         "family-separation",
+        "children",
+        "native-american",
         "src:other-national"
       ],
       "hasLocalMedia": true,
@@ -1712,11 +1731,11 @@
         "src:sahan-journal",
         "src:mpr",
         "src:ap",
+        "src:abc",
         "src:pioneer-press",
         "src:npr",
         "src:wcco",
         "src:bring-me-the-news",
-        "src:other-local",
         "src:other-national"
       ],
       "hasLocalMedia": true,
@@ -1751,6 +1770,7 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "warrantless-entry",
         "src:other-local"
       ],
       "hasLocalMedia": false,
@@ -1784,6 +1804,7 @@
       "notable": false,
       "searchTags": [
         "legal-resident",
+        "children",
         "src:star-tribune",
         "src:kare11"
       ],
@@ -1817,6 +1838,7 @@
         "children",
         "excessive-force",
         "src:wcco",
+        "src:ap",
         "src:other-national"
       ],
       "hasLocalMedia": true,
@@ -1856,6 +1878,7 @@
       "searchTags": [
         "legal-resident",
         "deception",
+        "children",
         "src:star-tribune"
       ],
       "hasLocalMedia": false,
@@ -1890,7 +1913,6 @@
       "searchTags": [
         "children",
         "family-separation",
-        "deception",
         "src:sahan-journal",
         "src:cbs",
         "src:star-tribune",
@@ -1932,7 +1954,8 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
-        "src:sahan-journal"
+        "src:sahan-journal",
+        "src:other-national"
       ],
       "hasLocalMedia": false,
       "localMediaType": null,
@@ -1961,7 +1984,6 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
-        "children",
         "family-separation",
         "src:sahan-journal",
         "src:bring-me-the-news",
@@ -1994,7 +2016,6 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
-        "deception",
         "src:other-national"
       ],
       "hasLocalMedia": false,
@@ -2058,6 +2079,7 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "workplace-raid",
         "src:other-national"
       ],
       "hasLocalMedia": false,
@@ -2090,6 +2112,7 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "warrantless-entry",
         "src:wcco",
         "src:fox9",
         "src:sahan-journal",
@@ -2128,6 +2151,7 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "shooting",
         "src:sahan-journal",
         "src:mpr",
         "src:fox9",
@@ -2160,6 +2184,8 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "workplace-raid",
+        "warrantless-entry",
         "src:wcco",
         "src:sahan-journal",
         "src:fox9",
@@ -2193,6 +2219,7 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "workplace-raid",
         "src:other-local"
       ],
       "hasLocalMedia": false,
@@ -2267,6 +2294,7 @@
         "excessive-force",
         "family-separation",
         "citizen-check",
+        "warrantless-entry",
         "src:nbc",
         "src:kare11",
         "src:fox9",
@@ -2303,6 +2331,8 @@
       "notable": false,
       "searchTags": [
         "excessive-force",
+        "shooting",
+        "warrantless-entry",
         "src:mpr",
         "src:star-tribune",
         "src:kstp",
@@ -2403,6 +2433,8 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "warrantless-entry",
+        "workplace-raid",
         "src:bring-me-the-news",
         "src:wcco",
         "src:kare11",
@@ -2498,6 +2530,7 @@
       "searchTags": [
         "chemical-agents",
         "observer-intimidated",
+        "warrantless-entry",
         "src:sahan-journal",
         "src:star-tribune"
       ],
@@ -2528,8 +2561,9 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
-        "observer-intimidated",
+        "workplace-raid",
         "chemical-agents",
+        "observer-intimidated",
         "src:mpr",
         "src:sahan-journal",
         "src:pioneer-press",
@@ -2565,6 +2599,7 @@
         "excessive-force",
         "children",
         "family-separation",
+        "warrantless-entry",
         "src:sahan-journal",
         "src:mpr",
         "src:wcco",

@@ -84,6 +84,7 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "shooting",
         "src:nbc",
         "src:cbs",
         "src:fox-news",
@@ -254,6 +255,8 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "shooting",
+        "src:cnn",
         "src:fox-news",
         "src:other-national"
       ],
@@ -289,6 +292,7 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "shooting",
         "src:fox-news",
         "src:fox9",
         "src:other-national"
@@ -391,6 +395,7 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "shooting",
         "src:fox9",
         "src:fox-news",
         "src:npr",
@@ -501,7 +506,9 @@
       "lastUpdated": "2026-01-22T08:09:58",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "children"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -529,6 +536,7 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "chemical-agents",
         "src:fox-news",
         "src:other-national"
       ],
@@ -564,6 +572,7 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "shooting",
         "src:nbc",
         "src:other-national",
         "src:pbs"
@@ -631,7 +640,10 @@
       "lastUpdated": "2026-01-19T17:54:25",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "us-citizen",
+        "warrantless-entry"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "image",
       "localMediaPath": "media/2026-01/19/2026-01-19-dhs-response-saly-detention.jpg",
@@ -664,6 +676,7 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "chemical-agents",
         "src:cbs",
         "src:nyt",
         "src:nbc"
@@ -700,6 +713,7 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "excessive-force",
         "src:cnn",
         "src:other-national"
       ],
@@ -729,7 +743,10 @@
       "lastUpdated": "2026-01-19T15:27:01",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "us-citizen",
+        "citizen-check"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "image",
       "localMediaPath": "media/2026-01/18/2026-01-18-dhs-response-accent-detention.jpg",
@@ -957,7 +974,9 @@
       "lastUpdated": "2026-01-14T12:35:56",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "us-citizen"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -1043,6 +1062,7 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "shooting",
         "src:nbc",
         "src:cnn",
         "src:fox-news",

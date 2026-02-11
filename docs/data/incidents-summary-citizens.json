@@ -344,8 +344,8 @@
       "notable": false,
       "searchTags": [
         "legal-resident",
+        "excessive-force",
         "src:kare11",
-        "src:other-local",
         "src:other-national"
       ],
       "hasLocalMedia": true,
@@ -382,6 +382,7 @@
       "searchTags": [
         "us-citizen",
         "citizen-check",
+        "excessive-force",
         "src:other-local"
       ],
       "hasLocalMedia": true,
@@ -489,6 +490,7 @@
         "us-citizen",
         "citizen-check",
         "excessive-force",
+        "shooting",
         "src:kstp",
         "src:kare11",
         "src:other-national",
@@ -530,6 +532,7 @@
       "notable": false,
       "searchTags": [
         "us-citizen",
+        "citizen-check",
         "src:wcco",
         "src:other-local"
       ],
@@ -561,7 +564,7 @@
       "notable": false,
       "searchTags": [
         "legal-resident",
-        "deception",
+        "workplace-raid",
         "src:bring-me-the-news",
         "src:cnn",
         "src:mpr"
@@ -595,6 +598,8 @@
       "searchTags": [
         "us-citizen",
         "excessive-force",
+        "warrantless-entry",
+        "shooting",
         "src:star-tribune",
         "src:fox9",
         "src:wcco",
@@ -645,6 +650,7 @@
       "searchTags": [
         "us-citizen",
         "excessive-force",
+        "citizen-check",
         "src:other-national",
         "src:other-local"
       ],
@@ -720,6 +726,7 @@
       "notable": false,
       "searchTags": [
         "us-citizen",
+        "excessive-force",
         "src:wcco",
         "src:other-national"
       ],
@@ -760,7 +767,7 @@
         "children",
         "src:cnn",
         "src:star-tribune",
-        "src:other-local"
+        "src:other-national"
       ],
       "hasLocalMedia": true,
       "localMediaType": "video",
@@ -795,6 +802,7 @@
       "notable": false,
       "searchTags": [
         "us-citizen",
+        "citizen-check",
         "excessive-force",
         "src:pioneer-press",
         "src:other-national",
@@ -833,11 +841,13 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "legal-resident",
         "children",
+        "shooting",
         "excessive-force",
         "chemical-agents",
         "family-separation",
-        "deception",
+        "warrantless-entry",
         "src:mpr",
         "src:star-tribune",
         "src:sahan-journal",
@@ -1397,7 +1407,7 @@
       "searchTags": [
         "legal-resident",
         "family-separation",
-        "deception",
+        "children",
         "src:kare11",
         "src:sahan-journal",
         "src:mpr",
@@ -1438,6 +1448,7 @@
         "us-citizen",
         "citizen-check",
         "excessive-force",
+        "workplace-raid",
         "src:bring-me-the-news",
         "src:star-tribune",
         "src:kare11",
@@ -1566,6 +1577,7 @@
       "notable": false,
       "searchTags": [
         "us-citizen",
+        "citizen-check",
         "excessive-force",
         "src:sahan-journal"
       ],
@@ -1629,7 +1641,8 @@
         "us-citizen",
         "citizen-check",
         "excessive-force",
-        "src:wcco"
+        "src:wcco",
+        "src:other-national"
       ],
       "hasLocalMedia": true,
       "localMediaType": "video",
