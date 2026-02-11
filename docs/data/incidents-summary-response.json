@@ -330,6 +330,7 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "shooting",
         "src:other-national"
       ],
       "hasLocalMedia": true,
@@ -364,6 +365,7 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "shooting",
         "src:nbc",
         "src:abc",
         "src:wcco",
@@ -1099,7 +1101,9 @@
       "lastUpdated": "2026-01-14T13:25:50",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "legal-resident"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,

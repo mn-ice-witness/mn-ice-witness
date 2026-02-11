@@ -63,7 +63,8 @@
         "src:wcco",
         "src:star-tribune",
         "src:mpr",
-        "src:intercept"
+        "src:intercept",
+        "src:other-national"
       ],
       "hasLocalMedia": true,
       "localMediaType": "video",

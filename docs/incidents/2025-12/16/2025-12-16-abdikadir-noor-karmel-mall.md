@@ -10,7 +10,7 @@ injuries: minor
 trustworthiness: high
 created: 2026-01-14T08:43:07
 last_updated: 2026-02-08T10:22:20
-search_tags: us-citizen, observer-detained, excessive-force, src:sahan-journal, src:mn-reformer, src:other-local
+search_tags: us-citizen, observer-detained, observer-intimidated, excessive-force, src:sahan-journal, src:mn-reformer, src:other-local
 ---
 
 # 20-Year U.S. Citizen Arrested Near Karmel Mall, Subjected to Racist Statements by ICE Agent

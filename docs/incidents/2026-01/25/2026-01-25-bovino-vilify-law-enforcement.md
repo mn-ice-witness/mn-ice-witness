@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-27T10:15:00
 last_updated: 2026-01-27T10:15:00
-search_tags: src:other-national
+search_tags: shooting, src:other-national
 ---
 
 # Bovino Blames Politicians, Community Leaders, and Journalists for "Tragic Consequences"

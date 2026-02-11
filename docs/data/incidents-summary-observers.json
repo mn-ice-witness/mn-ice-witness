@@ -474,6 +474,7 @@
       "searchTags": [
         "us-citizen",
         "observer-intimidated",
+        "excessive-force",
         "chemical-agents",
         "src:kare11",
         "src:fox9",
@@ -882,6 +883,7 @@
       "searchTags": [
         "observer-detained",
         "us-citizen",
+        "excessive-force",
         "src:fox9",
         "src:bring-me-the-news",
         "src:wcco",
@@ -1075,6 +1077,7 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "us-citizen",
         "observer-intimidated",
         "src:intercept",
         "src:fox9",
@@ -1489,6 +1492,7 @@
       "searchTags": [
         "us-citizen",
         "observer-intimidated",
+        "excessive-force",
         "chemical-agents",
         "src:other-national"
       ],
@@ -1655,6 +1659,7 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "us-citizen",
         "shooting",
         "src:mpr",
         "src:star-tribune",
@@ -1697,6 +1702,7 @@
       "searchTags": [
         "us-citizen",
         "observer-detained",
+        "observer-intimidated",
         "excessive-force",
         "src:kare11",
         "src:other-national"
@@ -1782,6 +1788,7 @@
       "notable": false,
       "searchTags": [
         "observer-intimidated",
+        "excessive-force",
         "chemical-agents",
         "src:other-national"
       ],

@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-14T13:25:50
 last_updated: 2026-01-14T13:25:50
-search_tags:
+search_tags: legal-resident
 ---
 
 # DHS Response: Abdulkadir Abdi "Gang Member"
