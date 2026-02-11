@@ -63,6 +63,9 @@ const Timeline = {
     },
 
     async loadRemainingMonths() {
+        if (this._loadingRemaining) return;
+        this._loadingRemaining = true;
+
         const remaining = this.monthFiles.slice(1);
         const results = await Promise.all(
             remaining.map(f => fetch(f).then(r => r.text()))
