@@ -10,6 +10,7 @@ injuries: serious
 trustworthiness: high
 created: 2026-01-14T08:01:12
 last_updated: 2026-01-14T08:01:12
+search_tags: excessive-force, src:mn-reformer, src:cnn, src:other-national
 ---
 
 # Border Patrol Agent Knees Man in Face While Pinned Down

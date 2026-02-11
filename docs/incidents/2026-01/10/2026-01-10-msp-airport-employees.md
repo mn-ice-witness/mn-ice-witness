@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: medium
 created: 2026-01-14T08:01:12
 last_updated: 2026-01-14T08:01:12
+search_tags: legal-resident, src:bring-me-the-news, src:wcco
 ---
 
 # Multiple Airport Employees Detained by ICE at MSP

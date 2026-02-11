@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-14T08:33:42
 last_updated: 2026-02-08T14:30:13
+search_tags: children, family-separation, src:sahan-journal, src:bring-me-the-news, src:cnn
 ---
 
 # Man Seeks Refuge in Bloomington Office During 6-Hour ICE Standoff

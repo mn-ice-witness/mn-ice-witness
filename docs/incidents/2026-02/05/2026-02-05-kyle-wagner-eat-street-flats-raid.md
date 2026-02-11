@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-08T15:03:37
 last_updated: 2026-02-08T15:03:37
+search_tags: us-citizen, excessive-force, src:sahan-journal, src:cbs
 ---
 
 # 11 Federal Agents Smash Into Apartment Building at 6 a.m. to Arrest Man for Anti-ICE Social Media Posts

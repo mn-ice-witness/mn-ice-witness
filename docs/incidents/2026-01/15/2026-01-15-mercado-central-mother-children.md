@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: low
 created: 2026-01-18T13:33:29
 last_updated: 2026-01-18T13:33:29
+search_tags: children, family-separation, src:mn-reformer
 ---
 
 # Mother Arrested Near Mercado Central; Two Children Left Behind

@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-25T07:59:29
 last_updated: 2026-01-25T07:59:29
+search_tags: src:nbc, src:abc, src:wcco, src:npr
 ---
 
 # Vance on Pretti: "Engineered Chaos" Unique to Minneapolis

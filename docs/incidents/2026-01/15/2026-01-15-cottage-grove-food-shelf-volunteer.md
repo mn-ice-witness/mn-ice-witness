@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: medium
 created: 2026-01-29T20:59:28
 last_updated: 2026-01-29T20:59:28
+search_tags: src:pioneer-press
 ---
 
 # Food Shelf Volunteer Detained at Basic Needs in Cottage Grove

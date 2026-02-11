@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-10T21:01:30
 last_updated: 2026-02-10T21:01:30
+search_tags: legal-resident, src:sahan-journal
 ---
 
 # ICE Targets Man with Valid Work Permit and Pending Crime Victim Visa

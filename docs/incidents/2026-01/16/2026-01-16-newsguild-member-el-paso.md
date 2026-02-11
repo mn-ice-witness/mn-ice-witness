@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: medium
 created: 2026-01-17T16:15:46
 last_updated: 2026-01-17T16:15:46
+search_tags: src:other-national
 ---
 
 # NewsGuild Union Member Detained and Transferred to Texas

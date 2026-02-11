@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-09T21:32:32
 last_updated: 2026-02-09T21:32:32
+search_tags: children, src:kstp, src:other-national
 ---
 
 # Citing Safety Concerns, Ecuadorian Family Self-Deports Despite Pending Asylum Case

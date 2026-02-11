@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-06T12:04:35
 last_updated: 2026-02-09T18:04:31
+search_tags: src:sahan-journal, src:other-local, src:mpr, src:other-national, src:star-tribune, src:kare11, src:bring-me-the-news, src:pioneer-press, src:kstp
 ---
 
 # Immigrant-Run Businesses Devastated as Operation Metro Surge Empties Cultural Corridors

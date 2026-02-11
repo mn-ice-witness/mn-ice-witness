@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-08T17:38:40
 last_updated: 2026-02-08T17:38:40
+search_tags: observer-intimidated, src:intercept, src:star-tribune, src:fox9, src:other-national
 ---
 
 # "Have You Not Learned?": Agents Repeatedly Invoke Renee Good's Killing to Threaten Observers

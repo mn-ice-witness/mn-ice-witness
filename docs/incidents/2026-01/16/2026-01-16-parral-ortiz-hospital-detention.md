@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: medium
 created: 2026-01-19T12:56:14
 last_updated: 2026-01-19T12:56:14
+search_tags: src:sahan-journal
 ---
 
 # Man Detained While Driving Sick Wife to Emergency Room

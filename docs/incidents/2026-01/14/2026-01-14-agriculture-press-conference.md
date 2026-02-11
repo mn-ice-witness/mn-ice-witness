@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-19T10:42:44
 last_updated: 2026-01-19T10:42:44
+search_tags: legal-resident, src:pioneer-press, src:bring-me-the-news, src:other-local, src:other-national
 ---
 
 # State Lawmakers and Farmers Union Hold Press Conference on ICE Impact to Agriculture

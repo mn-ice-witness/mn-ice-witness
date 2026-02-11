@@ -10,6 +10,7 @@ injuries: minor
 trustworthiness: high
 created: 2026-01-20T10:03:17
 last_updated: 2026-01-20T10:03:17
+search_tags: observer-detained, us-citizen, src:abc, src:kare11
 ---
 
 # Army Veteran William Vermie Detained 8 Hours for Observing ICE Arrest

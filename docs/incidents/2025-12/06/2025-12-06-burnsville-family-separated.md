@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-14T08:38:51
 last_updated: 2026-01-14T08:38:51
+search_tags: us-citizen, legal-resident, children, excessive-force, family-separation, citizen-check, src:nbc, src:kare11, src:fox9, src:other-national
 ---
 
 # Parents Separated from 7-Year-Old in Burnsville Raid; Ring Camera Captures Forced Entry

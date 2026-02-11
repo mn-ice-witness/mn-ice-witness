@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: no-news-media
 created: 2026-02-09T12:00:21
 last_updated: 2026-02-09T12:00:21
+search_tags: observer-intimidated, us-citizen
 ---
 
 # ICE Officer Threatens to "Put Hands On" U.S. Citizen for Filming (NO NEWS MEDIA)

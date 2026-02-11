@@ -10,6 +10,7 @@ injuries: minor
 trustworthiness: high
 created: 2026-01-14T15:13:20
 last_updated: 2026-01-14T15:13:20
+search_tags: observer-intimidated, excessive-force, src:cnn, src:other-local, src:other-national
 ---
 
 # Observer Shoved Into Oncoming Traffic While Filming ICE

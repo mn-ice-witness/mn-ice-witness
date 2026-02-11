@@ -10,6 +10,7 @@ injuries: minor
 trustworthiness: high
 created: 2026-01-14T20:05:01
 last_updated: 2026-02-09T21:12:05
+search_tags: us-citizen, citizen-check, excessive-force, src:wcco
 ---
 
 # U.S. Citizen Detained by ICE in Brooklyn Park, Told to "Prove" Citizenship

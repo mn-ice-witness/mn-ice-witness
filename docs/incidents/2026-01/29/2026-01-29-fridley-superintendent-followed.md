@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: medium
 created: 2026-01-29T21:13:04
 last_updated: 2026-02-03T20:19:15
+search_tags: observer-intimidated, children, src:star-tribune, src:npr, src:other-national, src:fox9
 ---
 
 # Fridley Superintendent Says ICE Followed Her to Work; Board Members Report ICE Outside Homes

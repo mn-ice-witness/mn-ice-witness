@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-02T20:30:49
 last_updated: 2026-02-02T20:37:44
+search_tags: excessive-force, children, family-separation, src:sahan-journal, src:mpr, src:wcco, src:bring-me-the-news, src:other-local
 ---
 
 # Adán Núñez Gonzalez Forcibly Arrested in Northfield, Son Records

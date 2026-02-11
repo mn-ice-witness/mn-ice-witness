@@ -10,6 +10,7 @@ injuries: fatal
 trustworthiness: high
 created: 2026-01-24T13:40:15
 last_updated: 2026-02-10T18:47:37
+search_tags: us-citizen, excessive-force, src:star-tribune, src:fox9, src:sahan-journal, src:wcco, src:npr, src:nbc, src:kare11, src:cnn, src:wapo, src:kstp, src:bring-me-the-news, src:nyt, src:fox-news, src:other-national
 ---
 
 # Alex Pretti Shot and Killed by Federal Agents

@@ -10,6 +10,7 @@ injuries: minor
 trustworthiness: medium
 created: 2026-01-31T14:22:08
 last_updated: 2026-01-31T14:22:08
+search_tags: children, excessive-force, src:other-local
 ---
 
 # Students on Transition Plus Bus Witness ICE Fire Rubber Bullets at Man

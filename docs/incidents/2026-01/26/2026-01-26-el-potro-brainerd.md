@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-28T21:20:51
 last_updated: 2026-02-09T21:12:05
+search_tags: src:other-local, src:star-tribune
 ---
 
 # Four Restaurant Workers Detained at El Potro in Brainerd

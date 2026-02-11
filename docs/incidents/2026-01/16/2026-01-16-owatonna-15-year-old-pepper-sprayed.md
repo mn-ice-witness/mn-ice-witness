@@ -10,6 +10,7 @@ injuries: minor
 trustworthiness: medium
 created: 2026-01-26T15:10:02
 last_updated: 2026-01-26T15:10:02
+search_tags: observer-intimidated, children, chemical-agents, excessive-force, src:other-local
 ---
 
 # 15-Year-Old Girl Pepper Sprayed While Observing ICE Operation

@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-30T22:14:31
 last_updated: 2026-02-09T21:12:05
+search_tags: children, citizen-check, src:npr, src:kare11, src:other-national
 ---
 
 # Columbia Heights High School Students Harassed by ICE Agents

@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: medium
 created: 2026-02-01T15:36:48
 last_updated: 2026-02-01T15:36:48
+search_tags: observer-detained, chemical-agents, src:bring-me-the-news
 ---
 
 # Observer Arrested, Neighbors Hit with Chemical Irritants at 19th and Portland

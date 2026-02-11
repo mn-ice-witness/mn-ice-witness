@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-23T20:07:14
 last_updated: 2026-01-23T20:07:14
+search_tags: us-citizen, observer-detained, src:kare11, src:star-tribune, src:mpr, src:fox9, src:nbc
 ---
 
 # Two Detained Women Become First Responders After ICE Agent Has Seizure

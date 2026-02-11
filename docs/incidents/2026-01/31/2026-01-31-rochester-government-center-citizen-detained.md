@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: medium
 created: 2026-02-03T20:19:15
 last_updated: 2026-02-09T21:12:05
+search_tags: us-citizen, citizen-check, src:star-tribune, src:other-local
 ---
 
 # U.S. Citizen Detained at Olmsted County Government Center, Released After Identity Verified

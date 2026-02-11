@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-14T08:54:15
 last_updated: 2026-01-14T08:54:15
+search_tags: src:other-local
 ---
 
 # Brooklyn Park Cook Arrested Outside Workplace; Restaurant Forced to Close

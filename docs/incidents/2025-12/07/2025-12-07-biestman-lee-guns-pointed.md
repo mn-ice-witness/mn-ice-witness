@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-14T08:01:12
 last_updated: 2026-01-14T08:01:12
+search_tags: us-citizen, observer-intimidated, src:mn-reformer, src:star-tribune
 ---
 
 # Elderly Couple Has Guns Pointed at Them After Following ICE Vehicle

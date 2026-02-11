@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-09T14:00:00
 last_updated: 2026-02-09T14:00:00
+search_tags: observer-detained, observer-intimidated, us-citizen, src:intercept, src:mpr, src:wcco, src:star-tribune, src:bring-me-the-news, src:fox-news
 ---
 
 # Three Legal Observers Arrested in 30 Minutes as ICE Implements "One Warning" Policy

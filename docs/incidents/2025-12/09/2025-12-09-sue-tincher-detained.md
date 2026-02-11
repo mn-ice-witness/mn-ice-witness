@@ -10,6 +10,7 @@ injuries: minor
 trustworthiness: high
 created: 2026-01-14T08:01:12
 last_updated: 2026-01-14T08:01:12
+search_tags: us-citizen, observer-detained, excessive-force, src:sahan-journal, src:mn-reformer, src:mpr, src:kare11, src:star-tribune, src:other-local, src:other-national
 ---
 
 # U.S. Citizen Observer Detained 5 Hours, Wedding Ring Cut Off

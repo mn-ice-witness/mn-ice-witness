@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-14T08:41:37
 last_updated: 2026-01-14T08:41:37
+search_tags: us-citizen, observer-detained, src:kare11, src:other-national
 ---
 
 # White Pastor Detained, Told He Was Released Because "You're White. You Wouldn't Be Fun Anyway"

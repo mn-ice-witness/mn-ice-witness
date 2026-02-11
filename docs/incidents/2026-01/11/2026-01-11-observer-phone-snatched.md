@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: low
 created: 2026-01-20T13:41:49
 last_updated: 2026-01-20T13:41:49
+search_tags: observer-intimidated
 ---
 
 # "Have You All Not Learned Over the Last Couple of Days": Agent Snatches Phone from Observer

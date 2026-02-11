@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-19T11:13:23
 last_updated: 2026-01-19T11:13:23
+search_tags: observer-intimidated, src:intercept, src:fox9, src:other-national
 ---
 
 # "Did You Not Learn From What Just Happened?" - ICE Agents Threaten Observer

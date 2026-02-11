@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-10T14:11:08
 last_updated: 2026-02-10T14:11:08
+search_tags: observer-detained, observer-intimidated, us-citizen, chemical-agents, src:fox9, src:wcco, src:mpr, src:intercept, src:other-national
 ---
 
 # "No Evidence of an Assault": 158 Arrested for Impeding ICE, Cases Routinely Dismissed

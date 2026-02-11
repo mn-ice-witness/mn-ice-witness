@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: medium
 created: 2026-01-25T21:18:19
 last_updated: 2026-01-25T21:18:19
+search_tags: legal-resident, src:star-tribune
 ---
 
 # Daycare Worker with Legal Status Detained While Running Errands, Sent to Texas

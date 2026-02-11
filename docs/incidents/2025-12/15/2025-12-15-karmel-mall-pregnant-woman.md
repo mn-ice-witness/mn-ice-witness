@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-14T08:01:12
 last_updated: 2026-01-14T08:01:12
+search_tags: legal-resident, excessive-force, src:fox9, src:wcco, src:mn-reformer, src:star-tribune, src:fox-news, src:other-national
 ---
 
 # Pregnant Somali Woman Dragged Through Snow at Karmel Mall

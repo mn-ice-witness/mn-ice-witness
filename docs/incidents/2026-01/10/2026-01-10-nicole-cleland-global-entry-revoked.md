@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-03T16:00:00
 last_updated: 2026-02-03T16:00:00
+search_tags: us-citizen, observer-intimidated, src:mn-reformer, src:other-national
 ---
 
 # Observer's Global Entry and TSA PreCheck Revoked After CBP Agent Uses Facial Recognition

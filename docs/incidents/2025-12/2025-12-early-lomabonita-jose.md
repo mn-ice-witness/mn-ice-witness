@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: medium
 created: 2026-01-14T08:54:15
 last_updated: 2026-01-14T08:54:15
+search_tags: legal-resident, src:other-local
 ---
 
 # Man With Legal Protection Status Detained at Restaurant; Vehicle Abandoned

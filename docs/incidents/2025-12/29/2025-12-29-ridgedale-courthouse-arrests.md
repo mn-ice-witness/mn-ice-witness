@@ -10,6 +10,7 @@ injuries: minor
 trustworthiness: high
 created: 2026-02-08T14:08:09
 last_updated: 2026-02-08T14:08:09
+search_tags: us-citizen, observer-intimidated, excessive-force, src:kare11, src:bring-me-the-news, src:star-tribune
 ---
 
 # Dozens of Armed ICE Agents Arrest Two Men at Ridgedale Library and Courthouse; Observer Shoved Twice

@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-14T08:01:12
 last_updated: 2026-01-14T08:01:12
+search_tags: observer-intimidated, us-citizen, excessive-force, src:fox9, src:wcco, src:bring-me-the-news, src:cnn, src:other-national
 ---
 
 # City Council President Pushed by ICE Agent While Legally Observing

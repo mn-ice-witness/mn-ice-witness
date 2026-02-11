@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-14T08:38:51
 last_updated: 2026-01-14T08:38:51
+search_tags: family-separation, src:mpr
 ---
 
 # Hopkins Father Detained Going to Work; Later Released by Court Order

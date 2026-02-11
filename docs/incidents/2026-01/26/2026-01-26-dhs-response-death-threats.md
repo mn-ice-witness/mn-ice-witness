@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-07T17:57:07
 last_updated: 2026-02-07T17:57:07
+search_tags: src:fox-news
 ---
 
 # DHS Response: ICE Officers Face "8,000% Increase in Death Threats"; Publishes Minnesota Voicemail

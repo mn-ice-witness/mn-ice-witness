@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-30T14:27:01
 last_updated: 2026-01-30T14:27:01
+search_tags: us-citizen, citizen-check, src:mpr
 ---
 
 # U.S. Citizen Luis Martinez Subjected to Facial Recognition Scan

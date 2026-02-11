@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-05T20:39:31
 last_updated: 2026-02-05T20:39:31
+search_tags: src:sahan-journal, src:fox9, src:star-tribune, src:mpr, src:wcco
 ---
 
 # DHS Launches Operation Metro Surge

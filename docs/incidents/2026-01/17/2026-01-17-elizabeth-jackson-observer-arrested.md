@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-08T14:16:20
 last_updated: 2026-02-08T14:16:20
+search_tags: us-citizen, observer-detained, observer-intimidated, src:mpr
 ---
 
 # Observer Arrested by ICE After Being Threatened at Staging Area Ten Days Earlier

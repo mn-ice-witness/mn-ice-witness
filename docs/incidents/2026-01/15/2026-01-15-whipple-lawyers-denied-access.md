@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-19T09:50:58
 last_updated: 2026-01-19T09:50:58
+search_tags: src:abc, src:other-national
 ---
 
 # Attorneys Denied Access to Detained Clients at Whipple Building

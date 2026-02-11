@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-14T20:05:01
 last_updated: 2026-02-09T21:12:05
+search_tags: us-citizen, citizen-check, src:wcco, src:star-tribune, src:npr
 ---
 
 # Citizen Check: U.S. Citizen Surrounded by ICE Agents at West St. Paul Restaurant

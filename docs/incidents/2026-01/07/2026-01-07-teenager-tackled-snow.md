@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: medium
 created: 2026-01-23T13:00:29
 last_updated: 2026-01-23T13:00:29
+search_tags: children, excessive-force, src:wcco, src:other-national
 ---
 
 # Teenager Tackled in Snow by ICE Agent

@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-16T09:20:36
 last_updated: 2026-01-16T09:20:36
+search_tags: children, src:fox9, src:mpr, src:wcco
 ---
 
 # Two St. Paul School Vans Pulled Over by ICE With Students and Teachers Aboard

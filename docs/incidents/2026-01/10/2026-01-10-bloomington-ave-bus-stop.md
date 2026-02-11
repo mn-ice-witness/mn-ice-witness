@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-15T20:00:44
 last_updated: 2026-01-15T20:00:44
+search_tags: excessive-force, src:sahan-journal, src:other-national
 ---
 
 # ICE Agents "Ripping People From Cars" at Bus Stop; Union Marks Site as "Abduction" Location

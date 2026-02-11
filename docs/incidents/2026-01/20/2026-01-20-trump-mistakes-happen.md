@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-20T23:28:36
 last_updated: 2026-01-20T23:28:36
+search_tags: src:nbc, src:other-national, src:pbs
 ---
 
 # Trump on ICE Violence: "Mistakes Happen" While Focusing on "Murders and Criminals"

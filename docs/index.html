@@ -15,10 +15,10 @@
     <link rel="canonical" href="https://mn-ice-witness.org/">
 
     <!-- Favicon and App Icons -->
-    <link rel="icon" type="image/x-icon" href="/assets/favicon.ico?v=1770828216">
-    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png?v=1770828216">
-    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png?v=1770828216">
-    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png?v=1770828216">
+    <link rel="icon" type="image/x-icon" href="/assets/favicon.ico?v=1770832204">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png?v=1770832204">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png?v=1770832204">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png?v=1770832204">
     <link rel="manifest" href="/manifest.json">
     <meta name="theme-color" content="#121212">
 
@@ -48,8 +48,8 @@
     </script>
 
     <title>MN ICE Witness - A Sourced Listing of ICE Incidents in MN</title>
-    <link rel="stylesheet" href="/css/style.css?v=1770828216">
-    <link rel="stylesheet" href="/css/timeline.css?v=1770828216">
+    <link rel="stylesheet" href="/css/style.css?v=1770832204">
+    <link rel="stylesheet" href="/css/timeline.css?v=1770832204">
     <!-- SPLASH DISABLED
     <script>
         (function() {
@@ -303,21 +303,43 @@
                             <label class="filter-chip"><input type="checkbox" name="search-tag" value="observer-detained"> Observer Detained</label>
                             <label class="filter-chip"><input type="checkbox" name="search-tag" value="children"> Children</label>
                             <label class="filter-chip"><input type="checkbox" name="search-tag" value="chemical-agents"> Pepper Spray / Tear Gas</label>
-                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="shooting"> Shooting</label>
                             <label class="filter-chip"><input type="checkbox" name="search-tag" value="excessive-force"> Excessive Force</label>
+                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="family-separation"> Family Separation</label>
+                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="deception"> Deception / Ruse</label>
+                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="native-american"> Native American</label>
                         </div>
                     </div>
                     <div class="filter-group">
-                        <div class="filter-group-label">News Sources</div>
+                        <div class="filter-group-label">MN Local News</div>
                         <div class="filter-chips">
                             <label class="filter-chip"><input type="checkbox" name="search-tag" value="src:star-tribune"> Star Tribune</label>
-                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="src:bring-me-the-news"> Bring Me The News</label>
-                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="src:sahan-journal"> Sahan Journal</label>
+                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="src:mpr"> MPR News</label>
                             <label class="filter-chip"><input type="checkbox" name="search-tag" value="src:fox9"> FOX 9</label>
                             <label class="filter-chip"><input type="checkbox" name="search-tag" value="src:kare11"> KARE 11</label>
-                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="src:cbs-mn"> CBS Minnesota</label>
-                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="src:mpr"> MPR News</label>
+                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="src:wcco"> WCCO</label>
+                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="src:kstp"> KSTP</label>
+                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="src:sahan-journal"> Sahan Journal</label>
+                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="src:bring-me-the-news"> Bring Me The News</label>
                             <label class="filter-chip"><input type="checkbox" name="search-tag" value="src:pioneer-press"> Pioneer Press</label>
+                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="src:mn-reformer"> MN Reformer</label>
+                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="src:other-local"> Other Local</label>
+                        </div>
+                    </div>
+                    <div class="filter-group">
+                        <div class="filter-group-label">National News</div>
+                        <div class="filter-chips">
+                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="src:cnn"> CNN</label>
+                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="src:nyt"> New York Times</label>
+                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="src:wapo"> Washington Post</label>
+                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="src:npr"> NPR</label>
+                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="src:intercept"> The Intercept</label>
+                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="src:ap"> AP</label>
+                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="src:nbc"> NBC News</label>
+                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="src:cbs"> CBS News</label>
+                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="src:abc"> ABC News</label>
+                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="src:fox-news"> Fox News</label>
+                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="src:pbs"> PBS</label>
+                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="src:other-national"> Other National</label>
                         </div>
                     </div>
                 </div>
@@ -442,19 +464,19 @@
 
     <script src="/js/marked.min.js"></script>
     <!-- Core modules (no dependencies) -->
-    <script src="/js/parser.js?v=1770828216"></script>
-    <script src="/js/router.js?v=1770828216"></script>
-    <script src="/js/media-controls.js?v=1770828216"></script>
+    <script src="/js/parser.js?v=1770832204"></script>
+    <script src="/js/router.js?v=1770832204"></script>
+    <script src="/js/media-controls.js?v=1770832204"></script>
     <!-- Feature modules -->
-    <script src="/js/view-state.js?v=1770828216"></script>
-    <script src="/js/splash.js?v=1770828216"></script>
-    <script src="/js/lightbox-content.js?v=1770828216"></script>
-    <script src="/js/lightbox.js?v=1770828216"></script>
-    <script src="/js/media-gallery.js?v=1770828216"></script>
-    <script src="/js/search.js?v=1770828216"></script>
-    <script src="/js/timeline.js?v=1770828216"></script>
+    <script src="/js/view-state.js?v=1770832204"></script>
+    <script src="/js/splash.js?v=1770832204"></script>
+    <script src="/js/lightbox-content.js?v=1770832204"></script>
+    <script src="/js/lightbox.js?v=1770832204"></script>
+    <script src="/js/media-gallery.js?v=1770832204"></script>
+    <script src="/js/search.js?v=1770832204"></script>
+    <script src="/js/timeline.js?v=1770832204"></script>
     <!-- Main app (last, coordinates all modules) -->
-    <script src="/js/app.js?v=1770828216"></script>
+    <script src="/js/app.js?v=1770832204"></script>
 </body>
 </html>
 <!-- build test 1769912033 -->

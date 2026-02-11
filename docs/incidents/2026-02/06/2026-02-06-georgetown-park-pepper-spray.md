@@ -10,6 +10,7 @@ injuries: minor
 trustworthiness: low
 created: 2026-02-06T23:06:33
 last_updated: 2026-02-06T23:06:33
+search_tags: chemical-agents, excessive-force, src:bring-me-the-news
 ---
 
 # Federal Agents Pepper Spray Relatives During Arrest at Georgetown Park Apartments

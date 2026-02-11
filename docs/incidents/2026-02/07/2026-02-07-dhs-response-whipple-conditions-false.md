@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-08T14:25:59
 last_updated: 2026-02-08T14:25:59
+search_tags: src:star-tribune, src:bring-me-the-news, src:kstp
 ---
 
 # DHS Statement: Claims of "Subprime Conditions" at Whipple Are "FALSE"

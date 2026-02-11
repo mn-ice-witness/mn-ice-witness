@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-15T09:33:17
 last_updated: 2026-01-15T09:33:17
+search_tags: children, family-separation, src:kare11, src:bring-me-the-news, src:other-local, src:wcco, src:pioneer-press
 ---
 
 # Parent Detained by ICE at School Bus Stop While Waiting with Child

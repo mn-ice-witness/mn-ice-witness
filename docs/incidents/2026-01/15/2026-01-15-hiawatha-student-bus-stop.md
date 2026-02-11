@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: medium
 created: 2026-01-18T01:26:05
 last_updated: 2026-01-18T01:26:05
+search_tags: children, src:kare11, src:bring-me-the-news
 ---
 
 # Hiawatha Academies Student Detained at Bus Stop

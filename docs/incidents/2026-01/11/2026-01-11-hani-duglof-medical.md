@@ -10,6 +10,7 @@ injuries: serious
 trustworthiness: high
 created: 2026-01-14T08:01:12
 last_updated: 2026-02-09T21:12:05
+search_tags: src:star-tribune, src:fox9, src:kstp, src:pioneer-press
 ---
 
 # Libyan Man Seeking Medical Treatment Detained, Shackled Despite Skin Condition

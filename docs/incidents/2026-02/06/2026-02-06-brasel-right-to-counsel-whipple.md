@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-07T14:24:24
 last_updated: 2026-02-10T13:53:29
+search_tags: src:ap, src:kstp, src:wcco, src:fox9, src:abc, src:star-tribune, src:mn-reformer, src:nyt, src:nbc, src:cnn, src:npr, src:bring-me-the-news, src:other-national, src:other-local
 ---
 
 # Minnesota Courts Buckle as Immigration Litigation Overwhelms Federal System; Top ICE Lawyer Departs

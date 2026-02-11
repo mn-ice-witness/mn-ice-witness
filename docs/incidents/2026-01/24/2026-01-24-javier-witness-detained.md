@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-26T11:42:27
 last_updated: 2026-02-09T21:12:05
+search_tags: observer-detained, us-citizen, src:wcco
 ---
 
 # Minneapolis Man Detained for Hours After Witnessing Pretti Shooting

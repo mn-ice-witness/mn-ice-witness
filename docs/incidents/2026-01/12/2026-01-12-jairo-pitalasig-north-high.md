@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: medium
 created: 2026-02-08T22:52:19
 last_updated: 2026-02-08T22:52:19
+search_tags: children, src:other-local, src:sahan-journal
 ---
 
 # North High School Senior Detained at Construction Job, Deported to Ecuador

@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: medium
 created: 2026-01-19T19:14:34
 last_updated: 2026-01-19T19:14:34
+search_tags: excessive-force, src:other-local
 ---
 
 # Federal Agents Ram White Pickup Truck Into Protesters

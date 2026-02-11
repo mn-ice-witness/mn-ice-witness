@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-31T11:05:22
 last_updated: 2026-02-09T21:12:05
+search_tags: observer-detained, us-citizen, excessive-force, src:npr, src:mpr, src:other-national, src:other-local, src:bring-me-the-news
 ---
 
 # St. Peter Police Chief Retrieves U.S. Citizen From ICE Custody Mid-Transport

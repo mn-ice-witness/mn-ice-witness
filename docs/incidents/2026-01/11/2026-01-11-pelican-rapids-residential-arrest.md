@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-02T20:53:54
 last_updated: 2026-02-02T20:53:54
+search_tags: src:mpr, src:other-local
 ---
 
 # ICE Conducts Door-to-Door Operations in Pelican Rapids

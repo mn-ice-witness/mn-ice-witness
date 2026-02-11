@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-08T14:47:35
 last_updated: 2026-02-09T14:54:03
+search_tags: src:mn-reformer, src:sahan-journal, src:mpr, src:kare11, src:star-tribune, src:other-national
 ---
 
 # ACLU Sues to Protect Observers: The Only Injunction Issued Against Operation Metro Surge

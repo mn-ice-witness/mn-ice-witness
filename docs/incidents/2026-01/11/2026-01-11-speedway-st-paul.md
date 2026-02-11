@@ -10,6 +10,7 @@ injuries: serious
 trustworthiness: high
 created: 2026-01-14T08:01:12
 last_updated: 2026-02-08T14:30:13
+search_tags: us-citizen, observer-detained, excessive-force, src:fox9, src:bring-me-the-news, src:pioneer-press, src:cnn, src:nyt, src:other-national
 ---
 
 # Agents Smash Car Window, Pin Man Until Unconscious at Speedway; Bystander Filming Tackled and Detained

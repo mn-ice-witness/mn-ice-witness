@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-09T14:54:03
 last_updated: 2026-02-09T14:54:03
+search_tags: src:star-tribune, src:wcco, src:nbc, src:npr, src:other-national
 ---
 
 # ACLU Files Class Action Challenging Racial Profiling During Operation Metro Surge

@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-07T17:57:07
 last_updated: 2026-02-07T17:57:07
+search_tags: family-separation, children, src:other-national
 ---
 
 # Church Food Distribution Volunteer Detained at Routine Immigration Check-In

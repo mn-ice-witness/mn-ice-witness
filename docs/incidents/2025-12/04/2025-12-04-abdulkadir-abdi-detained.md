@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-14T08:01:12
 last_updated: 2026-02-08T15:36:25
+search_tags: legal-resident, src:wcco, src:kare11, src:star-tribune, src:other-local
 ---
 
 # Addiction Recovery Leader Detained, Labeled "Gang Member" — Later Released by Federal Judge

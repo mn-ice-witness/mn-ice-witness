@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: medium
 created: 2026-02-03T14:02:17
 last_updated: 2026-02-09T21:12:05
+search_tags: legal-resident, family-separation, deception, src:kare11, src:sahan-journal, src:mpr, src:other-national
 ---
 
 # Christian Refugee Detained, Shipped to Texas, and Dumped in Houston With No Way Home

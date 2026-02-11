@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-07T14:12:42
 last_updated: 2026-02-07T14:12:42
+search_tags: us-citizen, citizen-check
 ---
 
 # Citizen Check: U.S. Citizen Detained 30 Minutes Outside Apartment Despite Showing Passport

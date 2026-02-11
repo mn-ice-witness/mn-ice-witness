@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-06T10:31:55
 last_updated: 2026-02-06T10:31:55
+search_tags: us-citizen, src:wcco, src:other-local
 ---
 
 # U.S. Citizen Arrested Twice by ICE in St. Cloud After Mistaken Identity

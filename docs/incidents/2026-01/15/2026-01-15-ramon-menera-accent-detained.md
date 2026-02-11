@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-18T01:02:13
 last_updated: 2026-02-09T21:12:05
+search_tags: us-citizen, citizen-check, children, src:cnn, src:star-tribune, src:other-local
 ---
 
 # U.S. Citizen Detained Because of "Accent"

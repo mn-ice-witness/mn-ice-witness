@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-14T09:04:50
 last_updated: 2026-01-14T09:04:50
+search_tags: src:other-local
 ---
 
 # Honduran Man Arrested at Detroit Lakes Restaurant; Partner Documents on Video

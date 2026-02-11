@@ -10,6 +10,7 @@ injuries: minor
 trustworthiness: high
 created: 2026-02-06T12:50:46
 last_updated: 2026-02-06T12:50:46
+search_tags: us-citizen, observer-detained, observer-intimidated, excessive-force, src:other-national
 ---
 
 # Marine Veteran Dragged From Car, Ankle Twisted, Called "It" by ICE Agents

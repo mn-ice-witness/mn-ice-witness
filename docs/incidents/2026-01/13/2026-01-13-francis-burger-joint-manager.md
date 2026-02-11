@@ -10,6 +10,7 @@ injuries: minor
 trustworthiness: high
 created: 2026-01-18T00:00:00
 last_updated: 2026-01-18T00:00:00
+search_tags: observer-detained, us-citizen, excessive-force, src:other-local, src:other-national
 ---
 
 # Restaurant Kitchen Manager Tackled and Detained While Observing ICE

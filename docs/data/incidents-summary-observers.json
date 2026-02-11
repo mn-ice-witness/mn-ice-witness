@@ -18,7 +18,17 @@
       "lastUpdated": "2026-02-09T14:00:00",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "observer-detained",
+        "observer-intimidated",
+        "us-citizen",
+        "src:intercept",
+        "src:mpr",
+        "src:wcco",
+        "src:star-tribune",
+        "src:bring-me-the-news",
+        "src:fox-news"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -45,7 +55,10 @@
       "lastUpdated": "2026-02-09T12:00:21",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "observer-intimidated",
+        "us-citizen"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-02/06/2026-02-06-columbia-heights-officer-threatens-observer.mp4",
@@ -77,7 +90,11 @@
       "lastUpdated": "2026-02-06T23:06:33",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "chemical-agents",
+        "excessive-force",
+        "src:bring-me-the-news"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-02/06/2026-02-06-georgetown-park-pepper-spray.mp4",
@@ -109,7 +126,15 @@
       "lastUpdated": "2026-02-10T20:32:02",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "observer-detained",
+        "observer-intimidated",
+        "excessive-force",
+        "src:bring-me-the-news",
+        "src:other-national",
+        "src:star-tribune",
+        "src:fox9"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-02/03/2026-02-03-observers-detained-gunpoint-midtown-phillips.mp4",
@@ -141,7 +166,12 @@
       "lastUpdated": "2026-02-02T20:34:00",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "observer-detained",
+        "chemical-agents",
+        "excessive-force",
+        "src:mpr"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-02/01/2026-02-01-powderhorn-rec-center-observer-arrested.mp4",
@@ -173,7 +203,16 @@
       "lastUpdated": "2026-02-09T21:12:05",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "observer-detained",
+        "us-citizen",
+        "excessive-force",
+        "src:npr",
+        "src:mpr",
+        "src:other-national",
+        "src:other-local",
+        "src:bring-me-the-news"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/30/2026-01-30-st-peter-police-chief-intervenes.mp4",
@@ -205,7 +244,14 @@
       "lastUpdated": "2026-02-03T20:19:15",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "observer-intimidated",
+        "children",
+        "src:star-tribune",
+        "src:npr",
+        "src:other-national",
+        "src:fox9"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "image",
       "localMediaPath": "media/2026-01/29/2026-01-29-fridley-superintendent-followed.jpg",
@@ -237,7 +283,11 @@
       "lastUpdated": "2026-02-01T15:36:48",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "observer-detained",
+        "chemical-agents",
+        "src:bring-me-the-news"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -264,7 +314,11 @@
       "lastUpdated": "2026-02-04T16:11:03",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "us-citizen",
+        "observer-intimidated",
+        "src:mpr"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "image",
       "localMediaPath": "media/2026-01/28/2026-01-28-suburban-observers-pursued-highway.jpg",
@@ -296,7 +350,10 @@
       "lastUpdated": "2026-01-27T12:00:00",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "observer-intimidated",
+        "src:other-national"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/27/2026-01-27-raise-voice-erase-voice.mp4",
@@ -328,7 +385,11 @@
       "lastUpdated": "2026-02-09T21:12:05",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "observer-detained",
+        "us-citizen",
+        "src:wcco"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -355,7 +416,24 @@
       "lastUpdated": "2026-02-10T18:47:37",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "us-citizen",
+        "excessive-force",
+        "src:star-tribune",
+        "src:fox9",
+        "src:sahan-journal",
+        "src:wcco",
+        "src:npr",
+        "src:nbc",
+        "src:kare11",
+        "src:cnn",
+        "src:wapo",
+        "src:kstp",
+        "src:bring-me-the-news",
+        "src:nyt",
+        "src:fox-news",
+        "src:other-national"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/24/2026-01-24-alex-pretti-shooting.mp4",
@@ -396,7 +474,8 @@
         "observer-intimidated",
         "src:kare11",
         "src:fox9",
-        "src:cbs-mn"
+        "src:wcco",
+        "src:other-national"
       ],
       "hasLocalMedia": true,
       "localMediaType": "image",
@@ -429,7 +508,16 @@
       "lastUpdated": "2026-01-26T11:42:27",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "observer-detained",
+        "us-citizen",
+        "excessive-force",
+        "chemical-agents",
+        "src:bring-me-the-news",
+        "src:wcco",
+        "src:cnn",
+        "src:npr"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/24/2026-01-24-nur-d-rapper-detained.mp4",
@@ -461,7 +549,10 @@
       "lastUpdated": "2026-02-02T17:29:00",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "observer-detained",
+        "src:other-local"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -488,7 +579,10 @@
       "lastUpdated": "2026-02-08T22:53:33",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "observer-intimidated",
+        "src:other-local"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -515,7 +609,15 @@
       "lastUpdated": "2026-01-23T20:07:14",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "us-citizen",
+        "observer-detained",
+        "src:kare11",
+        "src:star-tribune",
+        "src:mpr",
+        "src:fox9",
+        "src:nbc"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/22/2026-01-22-amundson-zemien-seizure-first-responders.mp4",
@@ -547,7 +649,13 @@
       "lastUpdated": "2026-01-21T18:01:29",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "observer-intimidated",
+        "excessive-force",
+        "chemical-agents",
+        "src:star-tribune",
+        "src:nyt"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "image",
       "localMediaPath": "media/2026-01/21/2026-01-21-observer-pinned-pepper-sprayed-face.jpg",
@@ -579,7 +687,12 @@
       "lastUpdated": "2026-02-08T14:16:20",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "us-citizen",
+        "observer-detained",
+        "observer-intimidated",
+        "src:mpr"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/17/2026-01-17-elizabeth-jackson-observer-arrested.mp4",
@@ -611,7 +724,12 @@
       "lastUpdated": "2026-01-20T10:25:58",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "us-citizen",
+        "observer-intimidated",
+        "src:abc",
+        "src:pioneer-press"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -638,7 +756,13 @@
       "lastUpdated": "2026-01-26T15:10:02",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "observer-intimidated",
+        "children",
+        "chemical-agents",
+        "excessive-force",
+        "src:other-local"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/16/2026-01-16-owatonna-15-year-old-pepper-sprayed.mp4",
@@ -671,6 +795,7 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "us-citizen",
         "children",
         "chemical-agents",
         "excessive-force",
@@ -678,7 +803,10 @@
         "src:bring-me-the-news",
         "src:nyt",
         "src:kare11",
-        "src:cbs-mn"
+        "src:wcco",
+        "src:abc",
+        "src:sahan-journal",
+        "src:other-national"
       ],
       "hasLocalMedia": true,
       "localMediaType": "video",
@@ -711,7 +839,10 @@
       "lastUpdated": "2026-01-14T09:04:50",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "chemical-agents",
+        "src:star-tribune"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/13/2026-01-13-mankato-women-sprayed.mp4",
@@ -748,8 +879,9 @@
         "us-citizen",
         "src:fox9",
         "src:bring-me-the-news",
-        "src:cbs-mn",
-        "src:pioneer-press"
+        "src:wcco",
+        "src:pioneer-press",
+        "src:other-national"
       ],
       "hasLocalMedia": true,
       "localMediaType": "video",
@@ -782,7 +914,16 @@
       "lastUpdated": "2026-01-14T08:01:12",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "observer-intimidated",
+        "us-citizen",
+        "excessive-force",
+        "src:fox9",
+        "src:wcco",
+        "src:bring-me-the-news",
+        "src:cnn",
+        "src:other-national"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/13/2026-01-13-elliott-payne-pushed.mp4",
@@ -814,7 +955,13 @@
       "lastUpdated": "2026-01-18T00:00:00",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "observer-detained",
+        "us-citizen",
+        "excessive-force",
+        "src:other-local",
+        "src:other-national"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "image",
       "localMediaPath": "media/2026-01/13/2026-01-13-francis-burger-joint-manager.jpg",
@@ -846,7 +993,12 @@
       "lastUpdated": "2026-01-20T10:03:17",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "observer-detained",
+        "us-citizen",
+        "src:abc",
+        "src:kare11"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/13/2026-01-13-william-vermie-veteran-detained.mp4",
@@ -878,7 +1030,13 @@
       "lastUpdated": "2026-01-14T08:01:12",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "chemical-agents",
+        "src:kare11",
+        "src:wcco",
+        "src:bring-me-the-news",
+        "src:other-local"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/13/2026-01-13-lyn-lake-tear-gas.mp4",
@@ -910,7 +1068,12 @@
       "lastUpdated": "2026-01-19T11:13:23",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "observer-intimidated",
+        "src:intercept",
+        "src:fox9",
+        "src:other-national"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/12/2026-01-12-phil-maddox-did-you-not-learn.mp4",
@@ -945,7 +1108,17 @@
       "lastUpdated": "2026-01-14T08:38:51",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "observer-detained",
+        "chemical-agents",
+        "excessive-force",
+        "src:star-tribune",
+        "src:wcco",
+        "src:cnn",
+        "src:other-local",
+        "src:other-national",
+        "src:kstp"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -972,7 +1145,13 @@
       "lastUpdated": "2026-02-09T21:12:05",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "observer-intimidated",
+        "chemical-agents",
+        "excessive-force",
+        "src:star-tribune",
+        "src:bring-me-the-news"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -999,7 +1178,13 @@
       "lastUpdated": "2026-02-06T12:50:46",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "us-citizen",
+        "observer-detained",
+        "observer-intimidated",
+        "excessive-force",
+        "src:other-national"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/11/2026-01-11-skye-elizabeth-marine-veteran-detained.mp4",
@@ -1031,7 +1216,13 @@
       "lastUpdated": "2026-01-14T15:13:20",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "observer-intimidated",
+        "excessive-force",
+        "src:cnn",
+        "src:other-local",
+        "src:other-national"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/11/2026-01-11-observer-shoved-into-traffic.mp4",
@@ -1063,7 +1254,17 @@
       "lastUpdated": "2026-02-08T14:30:13",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "us-citizen",
+        "observer-detained",
+        "excessive-force",
+        "src:fox9",
+        "src:bring-me-the-news",
+        "src:pioneer-press",
+        "src:cnn",
+        "src:nyt",
+        "src:other-national"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/11/2026-01-11-speedway-st-paul.mp4",
@@ -1095,7 +1296,9 @@
       "lastUpdated": "2026-01-20T13:41:49",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "observer-intimidated"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/11/2026-01-11-observer-phone-snatched.mp4",
@@ -1127,7 +1330,20 @@
       "lastUpdated": "2026-01-14T08:01:12",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "us-citizen",
+        "observer-detained",
+        "observer-intimidated",
+        "excessive-force",
+        "chemical-agents",
+        "children",
+        "src:kare11",
+        "src:sahan-journal",
+        "src:mpr",
+        "src:abc",
+        "src:ap",
+        "src:other-national"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/11/2026-01-11-siguenza-okeefe-detained.mp4",
@@ -1159,7 +1375,12 @@
       "lastUpdated": "2026-02-03T16:00:00",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "us-citizen",
+        "observer-intimidated",
+        "src:mn-reformer",
+        "src:other-national"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -1186,7 +1407,13 @@
       "lastUpdated": "2026-02-08T22:53:33",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "us-citizen",
+        "native-american",
+        "observer-intimidated",
+        "src:wcco",
+        "src:other-national"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -1213,7 +1440,12 @@
       "lastUpdated": "2026-01-14T08:01:12",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "excessive-force",
+        "src:mn-reformer",
+        "src:cnn",
+        "src:other-national"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/09/2026-01-09-juan-carlos-brutality.mp4",
@@ -1249,7 +1481,12 @@
       "lastUpdated": "2026-02-08T14:16:20",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "us-citizen",
+        "observer-intimidated",
+        "chemical-agents",
+        "src:other-national"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -1276,7 +1513,14 @@
       "lastUpdated": "2026-02-08T15:36:25",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "us-citizen",
+        "observer-detained",
+        "observer-intimidated",
+        "excessive-force",
+        "src:star-tribune",
+        "src:intercept"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -1303,7 +1547,13 @@
       "lastUpdated": "2026-02-08T14:16:20",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "observer-intimidated",
+        "chemical-agents",
+        "excessive-force",
+        "src:bring-me-the-news",
+        "src:other-national"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -1330,7 +1580,11 @@
       "lastUpdated": "2026-01-16T21:36:57",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "observer-intimidated",
+        "excessive-force",
+        "src:other-national"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/08/2026-01-08-ice-gun-pointed-at-protester.mp4",
@@ -1362,7 +1616,11 @@
       "lastUpdated": "2026-01-14T21:52:26",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "us-citizen",
+        "observer-detained",
+        "src:kstp"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -1389,7 +1647,16 @@
       "lastUpdated": "2026-01-20T22:44:32",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "us-citizen",
+        "observer-intimidated",
+        "src:mpr",
+        "src:star-tribune",
+        "src:cnn",
+        "src:kare11",
+        "src:other-local",
+        "src:other-national"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/07/2026-01-07-doctor-blocked-renee-good.mp4",
@@ -1421,7 +1688,12 @@
       "lastUpdated": "2026-01-14T08:41:37",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "us-citizen",
+        "observer-detained",
+        "src:kare11",
+        "src:other-national"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/07/2026-01-07-pastor-callaghan-detained.mp4",
@@ -1454,14 +1726,21 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
-        "shooting",
         "us-citizen",
-        "children",
+        "excessive-force",
         "src:star-tribune",
         "src:fox9",
         "src:nyt",
-        "src:cbs-mn",
-        "src:wapo"
+        "src:wcco",
+        "src:wapo",
+        "src:cnn",
+        "src:npr",
+        "src:abc",
+        "src:intercept",
+        "src:pbs",
+        "src:nbc",
+        "src:mpr",
+        "src:other-national"
       ],
       "hasLocalMedia": true,
       "localMediaType": "video",
@@ -1495,8 +1774,11 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "us-citizen",
+        "observer-intimidated",
+        "excessive-force",
         "chemical-agents",
-        "observer-intimidated"
+        "src:other-national"
       ],
       "hasLocalMedia": true,
       "localMediaType": "video",
@@ -1529,7 +1811,10 @@
       "lastUpdated": "2026-01-19T19:14:34",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "excessive-force",
+        "src:other-local"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/07/2026-01-07-pickup-truck-rams-protesters.mp4",
@@ -1561,7 +1846,13 @@
       "lastUpdated": "2026-02-06T09:58:15",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "us-citizen",
+        "observer-intimidated",
+        "src:mpr",
+        "src:fox9",
+        "src:other-national"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/06/2026-01-06-levy-observers-followed-home.mp4",
@@ -1593,7 +1884,14 @@
       "lastUpdated": "2026-02-07T17:57:07",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "us-citizen",
+        "observer-intimidated",
+        "chemical-agents",
+        "src:wcco",
+        "src:sahan-journal",
+        "src:nbc"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "image",
       "localMediaPath": "media/2026-01/06/2026-01-06-mubashir-pepper-sprayed-filming.jpg",
@@ -1625,7 +1923,10 @@
       "lastUpdated": "2026-01-14T08:01:12",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "observer-intimidated",
+        "src:other-local"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -1652,7 +1953,14 @@
       "lastUpdated": "2026-02-08T14:08:09",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "us-citizen",
+        "observer-intimidated",
+        "excessive-force",
+        "src:kare11",
+        "src:bring-me-the-news",
+        "src:star-tribune"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -1679,7 +1987,11 @@
       "lastUpdated": "2026-01-14T08:54:15",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "us-citizen",
+        "observer-detained",
+        "src:other-local"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -1706,7 +2018,16 @@
       "lastUpdated": "2026-02-05T14:55:45",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "observer-intimidated",
+        "excessive-force",
+        "chemical-agents",
+        "src:wapo",
+        "src:kstp",
+        "src:fox9",
+        "src:bring-me-the-news",
+        "src:other-national"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -1733,7 +2054,18 @@
       "lastUpdated": "2026-01-14T08:01:12",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "us-citizen",
+        "observer-detained",
+        "excessive-force",
+        "src:sahan-journal",
+        "src:mn-reformer",
+        "src:mpr",
+        "src:kare11",
+        "src:star-tribune",
+        "src:other-local",
+        "src:other-national"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2025-12/09/2025-12-09-sue-tincher-detained.mp4",
@@ -1765,7 +2097,19 @@
       "lastUpdated": "2026-02-08T10:38:31",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "us-citizen",
+        "observer-intimidated",
+        "excessive-force",
+        "chemical-agents",
+        "src:mpr",
+        "src:fox9",
+        "src:ap",
+        "src:sahan-journal",
+        "src:nyt",
+        "src:star-tribune",
+        "src:other-national"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -1792,7 +2136,12 @@
       "lastUpdated": "2026-01-14T08:01:12",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "us-citizen",
+        "observer-intimidated",
+        "src:mn-reformer",
+        "src:star-tribune"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2025-12/07/2025-12-07-biestman-lee-guns-pointed.mp4",
@@ -1824,7 +2173,12 @@
       "lastUpdated": "2026-02-08T10:15:13",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "us-citizen",
+        "observer-intimidated",
+        "src:mpr",
+        "src:mn-reformer"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,

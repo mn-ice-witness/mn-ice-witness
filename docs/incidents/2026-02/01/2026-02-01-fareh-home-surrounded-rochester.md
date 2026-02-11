@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: medium
 created: 2026-02-04T16:11:03
 last_updated: 2026-02-04T16:11:03
+search_tags: us-citizen, citizen-check, children, src:other-local, src:star-tribune
 ---
 
 # Citizen Check: ICE Agents Surround U.S. Citizen Family Home in Rochester

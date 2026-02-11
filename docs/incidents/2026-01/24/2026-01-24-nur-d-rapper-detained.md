@@ -10,6 +10,7 @@ injuries: minor
 trustworthiness: high
 created: 2026-01-26T11:42:27
 last_updated: 2026-01-26T11:42:27
+search_tags: observer-detained, us-citizen, excessive-force, chemical-agents, src:bring-me-the-news, src:wcco, src:cnn, src:npr
 ---
 
 # Minneapolis Rapper Nur-D Detained at Pretti Scene: "You're Gonna Kill Me. That's What You Want?"

@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-21T21:54:31
 last_updated: 2026-01-21T21:54:31
+search_tags: src:fox-news, src:other-national
 ---
 
 # DHS Response: Agents "Harassed" at Gas Stations, Used "Crowd Control Measures"

@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-15T20:00:44
 last_updated: 2026-01-15T20:00:44
+search_tags: src:cnn, src:pioneer-press, src:fox9, src:bring-me-the-news
 ---
 
 # ICE Using El Burrito Mercado as "Hunting Ground" - 47-Year-Old Business Under Siege

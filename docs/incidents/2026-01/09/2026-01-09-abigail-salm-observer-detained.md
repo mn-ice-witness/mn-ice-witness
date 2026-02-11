@@ -10,6 +10,7 @@ injuries: minor
 trustworthiness: high
 created: 2026-02-08T15:36:25
 last_updated: 2026-02-08T15:36:25
+search_tags: us-citizen, observer-detained, observer-intimidated, excessive-force, src:star-tribune, src:intercept
 ---
 
 # "Is This How You Want to Die?" — Observer Detained, Threatened with Bullet, Phone Stolen by Agent

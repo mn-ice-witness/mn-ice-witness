@@ -10,6 +10,7 @@ injuries: serious
 trustworthiness: medium
 created: 2026-01-31T08:29:19
 last_updated: 2026-02-09T21:12:05
+search_tags: legal-resident, src:kare11, src:other-local, src:other-national
 ---
 
 # Asylum Seeker Hospitalized After Wife Says ICE Rammed His Car Into Telephone Pole

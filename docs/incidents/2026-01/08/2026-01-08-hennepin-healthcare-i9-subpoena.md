@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-15T22:45:52
 last_updated: 2026-01-15T22:45:52
+search_tags: src:kare11, src:mn-reformer, src:bring-me-the-news
 ---
 
 # DHS Subpoenas Hennepin Healthcare Employee Records for 7,000+ Workers

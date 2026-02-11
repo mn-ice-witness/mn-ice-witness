@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-14T13:25:50
 last_updated: 2026-01-14T13:25:50
+search_tags: src:fox9, src:star-tribune, src:wcco, src:other-national
 ---
 
 # Jesse Ventura Visits Roosevelt High School, Condemns ICE Actions

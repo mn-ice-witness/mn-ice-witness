@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-17T23:35:39
 last_updated: 2026-01-20T10:45:22
+search_tags: children, family-separation, legal-resident, src:fox9, src:bring-me-the-news
 ---
 
 # Venezuelan Family Detained, Including 12-Year-Old Sent to Texas

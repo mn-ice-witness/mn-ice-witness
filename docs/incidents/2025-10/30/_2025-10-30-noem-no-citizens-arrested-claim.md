@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-14T20:26:03
 last_updated: 2026-01-14T20:26:03
+search_tags: us-citizen, src:npr, src:other-national
 ---
 
 # DHS Secretary Noem: "No American Citizens Have Been Arrested or Detained"

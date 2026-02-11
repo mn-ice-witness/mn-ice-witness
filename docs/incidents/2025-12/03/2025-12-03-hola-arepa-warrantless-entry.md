@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-17T11:14:22
 last_updated: 2026-01-17T11:14:22
+search_tags: src:bring-me-the-news, src:wcco, src:kare11, src:fox9
 ---
 
 # Hola Arepa Staff Refuses ICE Entry Without Warrant

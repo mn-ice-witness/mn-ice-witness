@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-05T11:48:18
 last_updated: 2026-02-05T11:48:18
+search_tags: src:nbc, src:cbs, src:fox-news, src:star-tribune, src:other-national
 ---
 
 # Trump Says Administration Will Use "Softer Touch" After Minneapolis Shootings

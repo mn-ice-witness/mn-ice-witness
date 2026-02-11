@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: medium
 created: 2026-02-08T22:53:33
 last_updated: 2026-02-08T22:53:33
+search_tags: us-citizen, citizen-check, src:other-local
 ---
 
 # U.S. Citizen Handcuffed at Willmar Convenience Store, Driven Away, Released in Parking Lot

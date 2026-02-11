@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: medium
 created: 2026-02-09T21:32:32
 last_updated: 2026-02-09T21:32:32
+search_tags: src:other-national, src:other-local
 ---
 
 # Leaked CBP Inventory Reveals 35,765 Munitions Stockpiled for Operation Metro Surge

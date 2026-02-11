@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-19T18:00:00
 last_updated: 2026-01-19T21:41:00
+search_tags: family-separation, src:wcco, src:fox9, src:pioneer-press
 ---
 
 # Silva Sosa Parents Detained Days After I-130 Approval

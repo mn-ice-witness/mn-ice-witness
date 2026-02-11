@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: medium
 created: 2026-02-02T17:29:00
 last_updated: 2026-02-02T17:29:00
+search_tags: observer-detained, src:other-local
 ---
 
 # Woman Arrested at Oak Terraces After Challenging ICE Presence on Private Property

@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-23T20:50:18
 last_updated: 2026-01-23T20:50:18
+search_tags: children, src:nbc, src:abc, src:wcco, src:star-tribune, src:kare11, src:fox9, src:other-national
 ---
 
 # Vice President Vance Defends 5-Year-Old's Detention: "What Are They Supposed to Do?"

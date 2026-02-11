@@ -18,7 +18,10 @@
       "lastUpdated": "2026-02-10T21:01:30",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "legal-resident",
+        "src:sahan-journal"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -45,7 +48,9 @@
       "lastUpdated": "2026-02-07T14:12:42",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "src:wcco"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -75,7 +80,13 @@
       "lastUpdated": "2026-02-07T14:12:42",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "children",
+        "family-separation",
+        "src:wapo",
+        "src:cnn",
+        "src:other-national"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "image",
       "localMediaPath": "media/2026-02/06/2026-02-06-missing-5th-grader-dilley.jpg",
@@ -107,7 +118,12 @@
       "lastUpdated": "2026-02-06T10:31:55",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "src:star-tribune",
+        "src:kstp",
+        "src:sahan-journal",
+        "src:wcco"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -134,7 +150,11 @@
       "lastUpdated": "2026-02-09T21:32:32",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "children",
+        "src:kstp",
+        "src:other-national"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/30/2026-01-30-ecuadorian-family-self-deports.mp4",
@@ -170,7 +190,19 @@
       "lastUpdated": "2026-02-06T10:35:41",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "children",
+        "family-separation",
+        "deception",
+        "src:mpr",
+        "src:npr",
+        "src:cbs",
+        "src:fox9",
+        "src:kstp",
+        "src:sahan-journal",
+        "src:star-tribune",
+        "src:bring-me-the-news"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "image",
       "localMediaPath": "media/2026-01/29/2026-01-29-valley-view-mother-checkin-detained.jpg",
@@ -202,7 +234,11 @@
       "lastUpdated": "2026-01-31T14:22:08",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "family-separation",
+        "excessive-force",
+        "src:wcco"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/29/2026-01-29-columbia-heights-jessica-father-detained.mp4",
@@ -234,7 +270,11 @@
       "lastUpdated": "2026-02-09T21:12:05",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "src:other-national",
+        "src:pioneer-press",
+        "src:other-local"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -261,7 +301,10 @@
       "lastUpdated": "2026-01-28T21:12:14",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "family-separation",
+        "src:wcco"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/27/2026-01-27-northeast-mpls-jenny-family-separated.mp4",
@@ -293,7 +336,16 @@
       "lastUpdated": "2026-02-02T22:24:26",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "src:nyt",
+        "src:nbc",
+        "src:wapo",
+        "src:cbs",
+        "src:abc",
+        "src:pbs",
+        "src:other-national",
+        "src:kare11"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -320,7 +372,10 @@
       "lastUpdated": "2026-02-09T21:12:05",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "src:other-local",
+        "src:star-tribune"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -347,7 +402,11 @@
       "lastUpdated": "2026-02-09T21:12:05",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "src:star-tribune",
+        "src:other-local",
+        "src:other-national"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -374,7 +433,11 @@
       "lastUpdated": "2026-02-09T22:33:15",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "family-separation",
+        "children",
+        "src:star-tribune"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -401,7 +464,11 @@
       "lastUpdated": "2026-02-07T17:57:07",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "family-separation",
+        "children",
+        "src:other-national"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "image",
       "localMediaPath": "media/2026-01/23/2026-01-23-tique-marin-church-volunteer-burnsville.jpg",
@@ -433,7 +500,15 @@
       "lastUpdated": "2026-01-23T19:21:21",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "children",
+        "family-separation",
+        "src:nbc",
+        "src:kare11",
+        "src:bring-me-the-news",
+        "src:star-tribune",
+        "src:kstp"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "image",
       "localMediaPath": "media/2026-01/22/2026-01-22-tipan-toddler-father-detained.jpg",
@@ -465,7 +540,10 @@
       "lastUpdated": "2026-01-30T19:30:00",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "excessive-force",
+        "src:kare11"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/22/2026-01-22-torture-survivors-asylum-detained.mp4",
@@ -497,7 +575,14 @@
       "lastUpdated": "2026-01-26T21:16:54",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "children",
+        "family-separation",
+        "deception",
+        "src:fox9",
+        "src:mpr",
+        "src:other-local"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "image",
       "localMediaPath": "media/2026-01/22/2026-01-22-velasco-family-hopkins.jpg",
@@ -532,7 +617,29 @@
       "lastUpdated": "2026-02-09T12:00:00",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "children",
+        "family-separation",
+        "deception",
+        "src:wcco",
+        "src:sahan-journal",
+        "src:star-tribune",
+        "src:mpr",
+        "src:bring-me-the-news",
+        "src:nbc",
+        "src:wapo",
+        "src:nyt",
+        "src:cbs",
+        "src:other-national",
+        "src:abc",
+        "src:other-local",
+        "src:pbs",
+        "src:fox9",
+        "src:cnn",
+        "src:kstp",
+        "src:kare11",
+        "src:ap"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "image",
       "localMediaPath": "media/2026-01/20/2026-01-20-liam-ramos-detained.jpg",
@@ -564,7 +671,13 @@
       "lastUpdated": "2026-01-19T23:09:36",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "legal-resident",
+        "children",
+        "family-separation",
+        "src:fox9",
+        "src:pioneer-press"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "image",
       "localMediaPath": "media/2026-01/17/2026-01-17-nadya-moldovan-refugee.jpg",
@@ -599,7 +712,9 @@
       "lastUpdated": "2026-01-19T12:56:14",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "src:sahan-journal"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -626,7 +741,13 @@
       "lastUpdated": "2026-01-20T10:45:22",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "children",
+        "family-separation",
+        "legal-resident",
+        "src:fox9",
+        "src:bring-me-the-news"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -653,7 +774,11 @@
       "lastUpdated": "2026-02-09T21:32:32",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "children",
+        "family-separation",
+        "src:wcco"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/16/2026-01-16-two-year-old-parents-detained-dopa.mp4",
@@ -685,7 +810,9 @@
       "lastUpdated": "2026-01-17T16:15:46",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "src:other-national"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -712,7 +839,13 @@
       "lastUpdated": "2026-01-16T21:33:51",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "deception",
+        "src:star-tribune",
+        "src:other-local",
+        "src:wcco",
+        "src:other-national"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/15/2026-01-15-el-tapatio-willmar.mp4",
@@ -744,7 +877,11 @@
       "lastUpdated": "2026-01-18T13:33:29",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "children",
+        "family-separation",
+        "src:mn-reformer"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "image",
       "localMediaPath": "media/2026-01/15/2026-01-15-mercado-central-mother-children.jpg",
@@ -776,7 +913,10 @@
       "lastUpdated": "2026-01-19T09:50:58",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "src:abc",
+        "src:other-national"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -803,7 +943,9 @@
       "lastUpdated": "2026-02-02T20:40:51",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "src:other-local"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -830,7 +972,9 @@
       "lastUpdated": "2026-01-29T20:59:28",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "src:pioneer-press"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -857,7 +1001,13 @@
       "lastUpdated": "2026-01-15T09:33:17",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "legal-resident",
+        "deception",
+        "src:bring-me-the-news",
+        "src:wcco",
+        "src:other-national"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/14/2026-01-14-circle-pines-restaurant-worker.mp4",
@@ -889,7 +1039,12 @@
       "lastUpdated": "2026-01-18T22:24:48",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "legal-resident",
+        "src:fox9",
+        "src:pioneer-press",
+        "src:kare11"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/14/2026-01-14-st-paul-public-works-snowplow-driver.mp4",
@@ -921,7 +1076,14 @@
       "lastUpdated": "2026-02-06T12:47:33",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "src:sahan-journal",
+        "src:other-national",
+        "src:abc",
+        "src:other-local",
+        "src:mpr",
+        "src:kare11"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "image",
       "localMediaPath": "media/2026-01/14/2026-01-14-victor-diaz-custody-death.jpg",
@@ -953,7 +1115,11 @@
       "lastUpdated": "2026-02-08T22:53:33",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "observer-intimidated",
+        "src:other-local",
+        "src:other-national"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -980,7 +1146,9 @@
       "lastUpdated": "2026-01-14T09:04:50",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "src:other-local"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -1010,7 +1178,12 @@
       "lastUpdated": "2026-01-20T22:24:33",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "legal-resident",
+        "children",
+        "chemical-agents",
+        "src:other-local"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -1037,7 +1210,12 @@
       "lastUpdated": "2026-01-15T20:00:44",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "src:cnn",
+        "src:pioneer-press",
+        "src:fox9",
+        "src:bring-me-the-news"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -1064,7 +1242,9 @@
       "lastUpdated": "2026-02-09T21:12:05",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "src:other-local"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -1091,7 +1271,12 @@
       "lastUpdated": "2026-01-19T21:41:00",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "family-separation",
+        "src:wcco",
+        "src:fox9",
+        "src:pioneer-press"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/12/2026-01-12-silva-sosa-inver-grove-heights.mp4",
@@ -1127,7 +1312,11 @@
       "lastUpdated": "2026-02-08T22:52:19",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "children",
+        "src:other-local",
+        "src:sahan-journal"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -1157,7 +1346,17 @@
       "lastUpdated": "2026-01-14T08:38:51",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "observer-detained",
+        "chemical-agents",
+        "excessive-force",
+        "src:star-tribune",
+        "src:wcco",
+        "src:cnn",
+        "src:other-local",
+        "src:other-national",
+        "src:kstp"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -1184,7 +1383,9 @@
       "lastUpdated": "2026-01-14T09:04:50",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "src:other-local"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -1211,7 +1412,18 @@
       "lastUpdated": "2026-01-18T14:57:37",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "excessive-force",
+        "children",
+        "src:fox9",
+        "src:kstp",
+        "src:mpr",
+        "src:abc",
+        "src:other-local",
+        "src:other-national",
+        "src:pioneer-press",
+        "src:wcco"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/12/2026-01-12-garrison-gibson-battering-ram.mp4",
@@ -1243,7 +1455,12 @@
       "lastUpdated": "2026-02-09T21:12:05",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "src:star-tribune",
+        "src:fox9",
+        "src:kstp",
+        "src:pioneer-press"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "image",
       "localMediaPath": "media/2026-01/11/2026-01-11-hani-duglof-medical.jpg",
@@ -1275,7 +1492,11 @@
       "lastUpdated": "2026-02-08T22:40:43",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "family-separation",
+        "children",
+        "src:other-local"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -1302,7 +1523,10 @@
       "lastUpdated": "2026-02-02T20:53:54",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "src:mpr",
+        "src:other-local"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -1329,7 +1553,9 @@
       "lastUpdated": "2026-01-14T13:57:51",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "src:star-tribune"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -1356,7 +1582,11 @@
       "lastUpdated": "2026-01-15T20:00:44",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "excessive-force",
+        "src:sahan-journal",
+        "src:other-national"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -1383,7 +1613,9 @@
       "lastUpdated": "2026-01-14T08:01:12",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "src:bring-me-the-news"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -1410,7 +1642,10 @@
       "lastUpdated": "2026-01-21T16:38:05",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "family-separation",
+        "src:other-national"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/09/2026-01-09-brandon-saenz-doordash.mp4",
@@ -1442,7 +1677,10 @@
       "lastUpdated": "2026-01-14T08:38:51",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "family-separation",
+        "src:mpr"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -1469,7 +1707,18 @@
       "lastUpdated": "2026-02-07T13:43:22",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "excessive-force",
+        "src:sahan-journal",
+        "src:mpr",
+        "src:ap",
+        "src:pioneer-press",
+        "src:npr",
+        "src:wcco",
+        "src:bring-me-the-news",
+        "src:other-local",
+        "src:other-national"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "image",
       "localMediaPath": "media/2026-01/08/2026-01-08-alberto-castaneda-mondragon-head-injury.jpg",
@@ -1501,7 +1750,9 @@
       "lastUpdated": "2026-01-14T09:04:50",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "src:other-local"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -1531,7 +1782,11 @@
       "lastUpdated": "2026-02-09T21:12:05",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "legal-resident",
+        "src:star-tribune",
+        "src:kare11"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -1558,7 +1813,12 @@
       "lastUpdated": "2026-01-23T13:00:29",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "children",
+        "excessive-force",
+        "src:wcco",
+        "src:other-national"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/07/2026-01-07-teenager-tackled-snow.mp4",
@@ -1593,7 +1853,11 @@
       "lastUpdated": "2026-01-25T21:18:19",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "legal-resident",
+        "deception",
+        "src:star-tribune"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -1623,7 +1887,19 @@
       "lastUpdated": "2026-02-05T14:49:05",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "children",
+        "family-separation",
+        "deception",
+        "src:sahan-journal",
+        "src:cbs",
+        "src:star-tribune",
+        "src:kstp",
+        "src:mpr",
+        "src:wcco",
+        "src:nbc",
+        "src:other-national"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "image",
       "localMediaPath": "media/2026-01/06/2026-01-06-elizabeth-caisaguano-detained.jpg",
@@ -1655,7 +1931,9 @@
       "lastUpdated": "2026-02-08T22:06:14",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "src:sahan-journal"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -1682,7 +1960,13 @@
       "lastUpdated": "2026-02-08T14:30:13",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "children",
+        "family-separation",
+        "src:sahan-journal",
+        "src:bring-me-the-news",
+        "src:cnn"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -1709,7 +1993,10 @@
       "lastUpdated": "2026-01-14T08:01:12",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "deception",
+        "src:other-national"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -1736,7 +2023,14 @@
       "lastUpdated": "2026-01-30T18:45:00",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "children",
+        "family-separation",
+        "deception",
+        "src:abc",
+        "src:ap",
+        "src:wapo"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -1763,7 +2057,9 @@
       "lastUpdated": "2026-01-14T09:04:50",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "src:other-national"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -1793,7 +2089,13 @@
       "lastUpdated": "2026-01-14T08:27:46",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "src:wcco",
+        "src:fox9",
+        "src:sahan-journal",
+        "src:mpr",
+        "src:other-national"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "image",
       "localMediaPath": "media/2025-12/31/2025-12-31-hcmc-patient-shackled.jpg",
@@ -1825,7 +2127,12 @@
       "lastUpdated": "2026-02-08T15:36:25",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "src:sahan-journal",
+        "src:mpr",
+        "src:fox9",
+        "src:other-national"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -1852,7 +2159,13 @@
       "lastUpdated": "2026-02-08T14:03:16",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "src:wcco",
+        "src:sahan-journal",
+        "src:fox9",
+        "src:kstp",
+        "src:other-local"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -1879,7 +2192,9 @@
       "lastUpdated": "2026-01-14T08:54:15",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "src:other-local"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -1906,7 +2221,14 @@
       "lastUpdated": "2026-01-14T08:54:15",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "children",
+        "excessive-force",
+        "family-separation",
+        "src:wcco",
+        "src:other-local",
+        "src:other-national"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2025-12/11/2025-12-11-eden-prairie-13-year-old.mp4",
@@ -1938,7 +2260,18 @@
       "lastUpdated": "2026-01-14T08:38:51",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "us-citizen",
+        "legal-resident",
+        "children",
+        "excessive-force",
+        "family-separation",
+        "citizen-check",
+        "src:nbc",
+        "src:kare11",
+        "src:fox9",
+        "src:other-national"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -1968,7 +2301,17 @@
       "lastUpdated": "2026-02-05T14:55:45",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "excessive-force",
+        "src:mpr",
+        "src:star-tribune",
+        "src:kstp",
+        "src:fox9",
+        "src:bring-me-the-news",
+        "src:kare11",
+        "src:other-local",
+        "src:other-national"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -1995,7 +2338,11 @@
       "lastUpdated": "2026-02-08T15:36:25",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "family-separation",
+        "src:star-tribune",
+        "src:other-national"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -2022,7 +2369,13 @@
       "lastUpdated": "2026-02-08T15:36:25",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "legal-resident",
+        "src:wcco",
+        "src:kare11",
+        "src:star-tribune",
+        "src:other-local"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -2049,7 +2402,12 @@
       "lastUpdated": "2026-01-17T11:14:22",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "src:bring-me-the-news",
+        "src:wcco",
+        "src:kare11",
+        "src:fox9"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -2076,7 +2434,11 @@
       "lastUpdated": "2026-01-15T20:00:44",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "legal-resident",
+        "src:sahan-journal",
+        "src:other-local"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -2103,7 +2465,10 @@
       "lastUpdated": "2026-01-14T08:54:15",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "legal-resident",
+        "src:other-local"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -2130,7 +2495,12 @@
       "lastUpdated": "2026-01-14T08:38:51",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "chemical-agents",
+        "observer-intimidated",
+        "src:sahan-journal",
+        "src:star-tribune"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -2157,7 +2527,14 @@
       "lastUpdated": "2026-01-14T09:04:50",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "observer-intimidated",
+        "chemical-agents",
+        "src:mpr",
+        "src:sahan-journal",
+        "src:pioneer-press",
+        "src:mn-reformer"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -2184,7 +2561,16 @@
       "lastUpdated": "2026-02-02T20:37:44",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "excessive-force",
+        "children",
+        "family-separation",
+        "src:sahan-journal",
+        "src:mpr",
+        "src:wcco",
+        "src:bring-me-the-news",
+        "src:other-local"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2025-11/11/2025-11-11-northfield-nunez-gonzalez-arrest.mp4",

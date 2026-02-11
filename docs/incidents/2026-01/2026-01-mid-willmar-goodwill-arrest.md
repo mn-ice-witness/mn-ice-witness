@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: medium
 created: 2026-02-08T22:53:33
 last_updated: 2026-02-08T22:53:33
+search_tags: observer-intimidated, src:other-local, src:other-national
 ---
 
 # Man and Wife Arrested by 12 ICE Agents in Willmar Goodwill Parking Lot; 15-Year-Old Threatened for Filming

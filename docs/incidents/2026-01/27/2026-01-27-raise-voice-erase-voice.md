@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: low
 created: 2026-01-27T12:00:00
 last_updated: 2026-01-27T12:00:00
+search_tags: observer-intimidated, src:other-national
 ---
 
 # ICE Agent Tells Legal Observer "You Raise Your Voice, I Erase Your Voice"

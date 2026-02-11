@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-09T22:33:15
 last_updated: 2026-02-09T22:33:15
+search_tags: family-separation, children, src:star-tribune
 ---
 
 # Ecuadorian Roofer, Wife, and 14-Year-Old Son Self-Deport After Five Years in Minnesota; Leave Three Adult Children Behind

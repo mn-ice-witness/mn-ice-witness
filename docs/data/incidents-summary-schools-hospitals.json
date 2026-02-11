@@ -21,7 +21,13 @@
       "lastUpdated": "2026-02-07T14:12:42",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "children",
+        "family-separation",
+        "src:wapo",
+        "src:cnn",
+        "src:other-national"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "image",
       "localMediaPath": "media/2026-02/06/2026-02-06-missing-5th-grader-dilley.jpg",
@@ -53,7 +59,9 @@
       "lastUpdated": "2026-02-03T21:25:21",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "children"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -80,7 +88,11 @@
       "lastUpdated": "2026-02-09T21:12:05",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "children",
+        "src:kare11",
+        "src:other-national"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -110,7 +122,13 @@
       "lastUpdated": "2026-02-09T21:12:05",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "children",
+        "citizen-check",
+        "src:npr",
+        "src:kare11",
+        "src:other-national"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -137,7 +155,11 @@
       "lastUpdated": "2026-01-28T08:28:50",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "children",
+        "chemical-agents",
+        "src:other-national"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/28/2026-01-28-preschool-tear-gas.mp4",
@@ -169,7 +191,10 @@
       "lastUpdated": "2026-01-30T14:27:01",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "children",
+        "src:kare11"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -223,7 +248,12 @@
       "lastUpdated": "2026-01-23T23:22:42",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "children",
+        "deception",
+        "src:other-national",
+        "src:mpr"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "image",
       "localMediaPath": "media/2026-01/22/2026-01-22-sullivan-elementary-ice-food-flyers.jpg",
@@ -255,7 +285,12 @@
       "lastUpdated": "2026-02-08T21:53:22",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "children",
+        "chemical-agents",
+        "src:star-tribune",
+        "src:other-local"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/21/2026-01-21-bovino-smoke-canister-playground.mp4",
@@ -290,7 +325,29 @@
       "lastUpdated": "2026-02-09T12:00:00",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "children",
+        "family-separation",
+        "deception",
+        "src:wcco",
+        "src:sahan-journal",
+        "src:star-tribune",
+        "src:mpr",
+        "src:bring-me-the-news",
+        "src:nbc",
+        "src:wapo",
+        "src:nyt",
+        "src:cbs",
+        "src:other-national",
+        "src:abc",
+        "src:other-local",
+        "src:pbs",
+        "src:fox9",
+        "src:cnn",
+        "src:kstp",
+        "src:kare11",
+        "src:ap"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "image",
       "localMediaPath": "media/2026-01/20/2026-01-20-liam-ramos-detained.jpg",
@@ -322,7 +379,13 @@
       "lastUpdated": "2026-02-07T17:57:07",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "children",
+        "native-american",
+        "citizen-check",
+        "src:other-local",
+        "src:mpr"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -349,7 +412,12 @@
       "lastUpdated": "2026-01-17T11:14:22",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "children",
+        "chemical-agents",
+        "src:bring-me-the-news",
+        "src:other-national"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -379,7 +447,9 @@
       "lastUpdated": "2026-01-19T12:56:14",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "src:sahan-journal"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -406,7 +476,11 @@
       "lastUpdated": "2026-01-18T01:26:05",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "children",
+        "src:kare11",
+        "src:bring-me-the-news"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -433,7 +507,12 @@
       "lastUpdated": "2026-01-16T09:20:36",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "children",
+        "src:fox9",
+        "src:mpr",
+        "src:wcco"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -460,7 +539,14 @@
       "lastUpdated": "2026-01-31T11:10:42",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "children",
+        "src:sahan-journal",
+        "src:wcco",
+        "src:other-local",
+        "src:star-tribune",
+        "src:bring-me-the-news"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "image",
       "localMediaPath": "media/2026-01/14/2026-01-14-aquila-elementary-ice-presence.jpg",
@@ -492,7 +578,11 @@
       "lastUpdated": "2026-01-31T14:22:08",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "children",
+        "excessive-force",
+        "src:other-local"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -519,7 +609,15 @@
       "lastUpdated": "2026-01-15T09:33:17",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "children",
+        "family-separation",
+        "src:kare11",
+        "src:bring-me-the-news",
+        "src:other-local",
+        "src:wcco",
+        "src:pioneer-press"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -549,7 +647,12 @@
       "lastUpdated": "2026-01-20T22:24:33",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "legal-resident",
+        "children",
+        "chemical-agents",
+        "src:other-local"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -576,7 +679,11 @@
       "lastUpdated": "2026-01-15T09:33:17",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "children",
+        "src:mpr",
+        "src:bring-me-the-news"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -606,7 +713,11 @@
       "lastUpdated": "2026-01-14T08:01:12",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "us-citizen",
+        "src:pioneer-press",
+        "src:bring-me-the-news"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "image",
       "localMediaPath": "media/2026-01/12/2026-01-12-christina-rank-teacher.jpg",
@@ -638,7 +749,10 @@
       "lastUpdated": "2026-01-14T08:19:50",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "children",
+        "src:fox9"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -665,7 +779,13 @@
       "lastUpdated": "2026-01-19T11:33:24",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "children",
+        "src:fox9",
+        "src:kare11",
+        "src:bring-me-the-news",
+        "src:other-local"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "image",
       "localMediaPath": "media/2026-01/09/2026-01-09-fridley-schools-closure.jpg",
@@ -697,7 +817,11 @@
       "lastUpdated": "2026-01-15T22:45:52",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "src:kare11",
+        "src:mn-reformer",
+        "src:bring-me-the-news"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -724,7 +848,12 @@
       "lastUpdated": "2026-01-14T13:25:50",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "src:fox9",
+        "src:star-tribune",
+        "src:wcco",
+        "src:other-national"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/08/2026-01-08-jesse-ventura-roosevelt.mp4",
@@ -759,7 +888,11 @@
       "lastUpdated": "2026-02-09T21:12:05",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "legal-resident",
+        "src:star-tribune",
+        "src:kare11"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -786,7 +919,20 @@
       "lastUpdated": "2026-01-14T08:01:12",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "us-citizen",
+        "children",
+        "excessive-force",
+        "chemical-agents",
+        "src:star-tribune",
+        "src:mpr",
+        "src:kare11",
+        "src:wcco",
+        "src:kstp",
+        "src:sahan-journal",
+        "src:nbc",
+        "src:other-national"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "video",
       "localMediaPath": "media/2026-01/07/2026-01-07-roosevelt-high-school.mp4",
@@ -821,7 +967,11 @@
       "lastUpdated": "2026-01-25T21:18:19",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "legal-resident",
+        "deception",
+        "src:star-tribune"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -851,7 +1001,19 @@
       "lastUpdated": "2026-02-05T14:49:05",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "children",
+        "family-separation",
+        "deception",
+        "src:sahan-journal",
+        "src:cbs",
+        "src:star-tribune",
+        "src:kstp",
+        "src:mpr",
+        "src:wcco",
+        "src:nbc",
+        "src:other-national"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "image",
       "localMediaPath": "media/2026-01/06/2026-01-06-elizabeth-caisaguano-detained.jpg",
@@ -886,7 +1048,13 @@
       "lastUpdated": "2026-01-14T08:27:46",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "src:wcco",
+        "src:fox9",
+        "src:sahan-journal",
+        "src:mpr",
+        "src:other-national"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "image",
       "localMediaPath": "media/2025-12/31/2025-12-31-hcmc-patient-shackled.jpg",
@@ -921,7 +1089,17 @@
       "lastUpdated": "2026-02-05T14:55:45",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "excessive-force",
+        "src:mpr",
+        "src:star-tribune",
+        "src:kstp",
+        "src:fox9",
+        "src:bring-me-the-news",
+        "src:kare11",
+        "src:other-local",
+        "src:other-national"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,

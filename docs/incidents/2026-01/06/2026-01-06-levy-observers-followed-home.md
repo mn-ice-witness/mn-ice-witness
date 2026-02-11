@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-06T09:58:15
 last_updated: 2026-02-06T09:58:15
+search_tags: us-citizen, observer-intimidated, src:mpr, src:fox9, src:other-national
 ---
 
 # ICE Agent Calls Observer "Judith" by Name After Running Plates; Agents Then Drive to Couple's Home

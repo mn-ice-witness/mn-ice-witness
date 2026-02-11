@@ -10,6 +10,7 @@ injuries: minor
 trustworthiness: high
 created: 2026-01-14T08:01:12
 last_updated: 2026-01-14T08:01:12
+search_tags: us-citizen, children, excessive-force, chemical-agents, src:star-tribune, src:mpr, src:kare11, src:wcco, src:kstp, src:sahan-journal, src:nbc, src:other-national
 ---
 
 # Border Patrol Agents at Roosevelt High School, Staffer Detained

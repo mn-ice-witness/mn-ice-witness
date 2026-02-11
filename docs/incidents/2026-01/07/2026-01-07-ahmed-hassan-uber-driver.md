@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-14T08:01:12
 last_updated: 2026-01-14T08:01:12
+search_tags: us-citizen, citizen-check, src:intercept, src:mpr, src:other-national
 ---
 
 # U.S. Citizen Uber Driver Confronted by Agents: "I can hear you don't have the same accent"

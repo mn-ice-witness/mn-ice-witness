@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-05T11:48:18
 last_updated: 2026-02-10T18:41:10
+search_tags: src:npr, src:wapo, src:nbc, src:pbs, src:mpr, src:abc, src:other-national, src:kstp, src:fox9
 ---
 
 # Homan Takes Command, Begins Operation Metro Surge Draw Down

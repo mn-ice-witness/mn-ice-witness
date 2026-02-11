@@ -10,6 +10,7 @@ injuries: minor
 trustworthiness: medium
 created: 2026-02-01T16:41:47
 last_updated: 2026-02-02T20:34:00
+search_tags: observer-detained, chemical-agents, excessive-force, src:mpr
 ---
 
 # Observer Arrested, Concussion Grenades Deployed at Powderhorn Rec Center

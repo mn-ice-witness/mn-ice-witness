@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-05T20:39:31
 last_updated: 2026-02-05T20:39:31
+search_tags: src:pbs, src:npr, src:cbs, src:wcco, src:star-tribune, src:fox9, src:other-local
 ---
 
 # DHS Deploys 2,000 Additional Agents to Minnesota

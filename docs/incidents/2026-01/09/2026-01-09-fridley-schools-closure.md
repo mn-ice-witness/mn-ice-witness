@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-19T11:33:24
 last_updated: 2026-01-19T11:33:24
+search_tags: children, src:fox9, src:kare11, src:bring-me-the-news, src:other-local
 ---
 
 # Fridley Public Schools Closes Twice Due to ICE Activity

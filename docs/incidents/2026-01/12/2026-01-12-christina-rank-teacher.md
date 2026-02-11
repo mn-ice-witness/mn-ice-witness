@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-14T08:01:12
 last_updated: 2026-01-14T08:01:12
+search_tags: us-citizen, src:pioneer-press, src:bring-me-the-news
 ---
 
 # U.S. Citizen Special Education Teacher Detained for Nearly 12 Hours

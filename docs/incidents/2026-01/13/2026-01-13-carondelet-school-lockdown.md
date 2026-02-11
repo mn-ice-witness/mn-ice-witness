@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: medium
 created: 2026-01-15T09:33:17
 last_updated: 2026-01-15T09:33:17
+search_tags: children, src:mpr, src:bring-me-the-news
 ---
 
 # Carondelet Catholic School Lockdown During ICE Arrest Outside Building

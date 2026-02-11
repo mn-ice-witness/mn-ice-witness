@@ -10,6 +10,7 @@ injuries: minor
 trustworthiness: medium
 created: 2026-02-06T12:50:46
 last_updated: 2026-02-09T21:12:05
+search_tags: legal-resident, excessive-force, src:sahan-journal, src:star-tribune
 ---
 
 # Green Card Holder Roughed Up by Agents, Held Over 10 Hours, Offered Money to Identify Immigrants

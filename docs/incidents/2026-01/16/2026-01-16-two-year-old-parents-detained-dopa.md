@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: medium
 created: 2026-02-09T21:32:32
 last_updated: 2026-02-09T21:32:32
+search_tags: children, family-separation, src:wcco
 ---
 
 # Two-Year-Old Left Without Parents After ICE Detains Both; DOPA Form Prevents Foster Care

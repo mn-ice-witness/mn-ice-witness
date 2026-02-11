@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-24T15:08:42
 last_updated: 2026-01-24T15:08:42
+search_tags: children, src:nyt, src:abc, src:other-national
 ---
 
 # Bovino: "We Are Experts in Dealing With Children"

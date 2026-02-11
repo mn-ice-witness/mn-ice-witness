@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: medium
 created: 2026-01-31T11:01:37
 last_updated: 2026-02-09T21:12:05
+search_tags: children, src:kare11, src:other-national
 ---
 
 # Federal Agents Present on Richfield Middle School Bus Route

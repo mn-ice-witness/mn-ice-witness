@@ -10,6 +10,7 @@ injuries: minor
 trustworthiness: high
 created: 2026-01-14T08:01:12
 last_updated: 2026-01-14T08:01:12
+search_tags: us-citizen, observer-detained, observer-intimidated, excessive-force, chemical-agents, children, src:kare11, src:sahan-journal, src:mpr, src:abc, src:ap, src:other-national
 ---
 
 # Two ICE Observers Detained 8 Hours, Pressured to Name Organizers

@@ -10,6 +10,7 @@ injuries: minor
 trustworthiness: high
 created: 2026-02-08T14:16:20
 last_updated: 2026-02-08T14:16:20
+search_tags: us-citizen, observer-intimidated, chemical-agents, src:other-national
 ---
 
 # Observer Pepper Sprayed in Face by Agent from Same Vehicle That Threatened Him Two Days Earlier

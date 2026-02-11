@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: removed
 created: 2026-01-14T12:18:26
 last_updated: 2026-01-30T11:41:26
+search_tags: us-citizen, native-american, src:abc, src:cnn, src:mpr, src:other-national, src:wcco, src:wapo, src:other-local
 ---
 
 # Three Oglala Sioux U.S. Citizens Still Detained at Fort Snelling (REMOVED)

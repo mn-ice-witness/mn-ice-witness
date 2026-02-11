@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-09T21:32:32
 last_updated: 2026-02-09T21:32:32
+search_tags: src:npr, src:mpr, src:star-tribune, src:other-national, src:other-local
 ---
 
 # Volunteer Documents 42 Deportation Flights in January, Estimates 2,339 People Flown From Minnesota

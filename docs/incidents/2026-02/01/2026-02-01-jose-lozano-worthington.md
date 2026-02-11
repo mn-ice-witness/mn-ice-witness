@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-02T20:53:54
 last_updated: 2026-02-10T18:47:37
+search_tags: legal-resident, src:other-local
 ---
 
 # Jose Lozano Detained Despite Valid Asylum Permit in Worthington

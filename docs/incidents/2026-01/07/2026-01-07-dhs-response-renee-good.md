@@ -10,6 +10,7 @@ injuries: fatal
 trustworthiness: high
 created: 2026-01-14T12:35:56
 last_updated: 2026-02-07T14:50:30
+search_tags: src:nbc, src:cnn, src:fox-news, src:nyt, src:npr, src:star-tribune, src:other-national
 ---
 
 # DHS Response: Good "Weaponized Her Vehicle"

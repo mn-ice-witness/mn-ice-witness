@@ -10,6 +10,7 @@ injuries: serious
 trustworthiness: high
 created: 2026-01-14T08:01:12
 last_updated: 2026-01-14T08:01:12
+search_tags: us-citizen, citizen-check, excessive-force, src:bring-me-the-news, src:star-tribune, src:kare11, src:wcco, src:sahan-journal, src:cnn, src:nbc, src:other-national
 ---
 
 # Two U.S. Citizen Target Employees Detained and Injured

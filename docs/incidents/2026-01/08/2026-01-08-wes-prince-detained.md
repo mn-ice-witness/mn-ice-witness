@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-14T21:52:26
 last_updated: 2026-01-14T21:52:26
+search_tags: us-citizen, observer-detained, src:kstp
 ---
 
 # Protester Wes Prince Detained 9 Hours at Whipple Building
