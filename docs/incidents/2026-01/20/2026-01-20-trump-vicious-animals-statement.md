@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-20T12:00:00
 last_updated: 2026-01-20T12:00:00
+search_tags:
 ---
 
 # Trump Claims ICE Operation is About Removing "Murderers & Criminals" from Minnesota, Calls Protesters "Highly Paid Troublemakers"

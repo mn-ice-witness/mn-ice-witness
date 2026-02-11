@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: medium
 created: 2026-02-08T22:53:33
 last_updated: 2026-02-08T22:53:33
-search_tags: observer-intimidated, src:other-local
+search_tags: observer-intimidated, shooting, src:other-local
 ---
 
 # Plainclothes Federal Agent Brandishes Gun at Resident Recording ICE Vehicles at Plymouth Hotel

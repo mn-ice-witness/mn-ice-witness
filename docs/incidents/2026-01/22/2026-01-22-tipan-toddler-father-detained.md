@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-23T12:05:09
 last_updated: 2026-01-23T19:21:21
-search_tags: children, family-separation, src:nbc, src:kare11, src:bring-me-the-news, src:star-tribune, src:kstp
+search_tags: children, family-separation, chemical-agents, src:nbc, src:kare11, src:bring-me-the-news, src:star-tribune, src:kstp
 ---
 
 # 2-Year-Old and Father Detained Near Powderhorn; Flown to Texas Despite Court Order

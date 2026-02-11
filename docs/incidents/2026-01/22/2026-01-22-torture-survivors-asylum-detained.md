@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-30T19:30:00
 last_updated: 2026-01-30T19:30:00
-search_tags: excessive-force, src:kare11
+search_tags: legal-resident, excessive-force, workplace-raid, src:kare11
 ---
 
 # Four Torture Survivors with Pending Asylum Cases Detained by ICE

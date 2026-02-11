@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-19T10:14:30
 last_updated: 2026-01-22T15:40:03
-search_tags: us-citizen, excessive-force, src:star-tribune, src:fox9, src:wcco, src:nbc, src:other-local, src:other-national, src:bring-me-the-news, src:mpr, src:abc, src:pbs, src:kstp
+search_tags: us-citizen, excessive-force, warrantless-entry, shooting, src:star-tribune, src:fox9, src:wcco, src:nbc, src:other-local, src:other-national, src:bring-me-the-news, src:mpr, src:abc, src:pbs, src:kstp
 ---
 
 # Hmong U.S. Citizen Detained Shirtless in Freezing Weather, Then Released

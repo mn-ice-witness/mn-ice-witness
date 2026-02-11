@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: medium
 created: 2026-02-02T22:22:30
 last_updated: 2026-02-02T22:22:30
-search_tags: us-citizen, excessive-force, src:other-national, src:other-local
+search_tags: us-citizen, excessive-force, citizen-check, src:other-national, src:other-local
 ---
 
 # U.S. Citizen College Student Restrained by ICE, Released After Showing Birth Certificate

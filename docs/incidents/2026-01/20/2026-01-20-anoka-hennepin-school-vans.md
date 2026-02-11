@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-07T17:57:07
 last_updated: 2026-02-07T17:57:07
-search_tags: children, native-american, citizen-check, src:other-local, src:mpr
+search_tags: children, citizen-check, native-american, src:other-local, src:mpr
 ---
 
 # Federal Agents Pull Over Two Anoka-Hennepin School Vans Carrying Students Near Dayton

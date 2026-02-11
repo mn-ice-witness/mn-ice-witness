@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-18T22:01:07
 last_updated: 2026-01-18T23:55:30
-search_tags: src:cbs, src:nyt, src:nbc
+search_tags: chemical-agents, src:cbs, src:nyt, src:nbc
 ---
 
 # DHS Secretary Noem Defends Raids as Targeting 'Criminals and Rapists,' Denies Pepper Spray Use on CBS

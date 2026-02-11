@@ -10,7 +10,7 @@ injuries: serious
 trustworthiness: high
 created: 2026-01-23T10:33:25
 last_updated: 2026-01-23T10:33:25
-search_tags: src:cnn, src:other-national
+search_tags: excessive-force, src:cnn, src:other-national
 ---
 
 # DHS Response: Kneeing Victim is "Criminal Alien from Ecuador"

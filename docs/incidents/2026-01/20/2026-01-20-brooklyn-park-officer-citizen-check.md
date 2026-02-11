@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-20T13:39:51
 last_updated: 2026-01-20T13:39:51
-search_tags: us-citizen, citizen-check, excessive-force, src:kstp, src:kare11, src:other-national, src:wcco, src:fox-news, src:wapo, src:fox9
+search_tags: us-citizen, citizen-check, excessive-force, shooting, src:kstp, src:kare11, src:other-national, src:wcco, src:fox-news, src:wapo, src:fox9
 ---
 
 # Metro Police Chiefs Call for End to Civil Rights Violations / Racially Discriminatory Citizen Checks; Off-Duty Brooklyn Park Police Officer Stopped at Gunpoint, Asked for Papers
