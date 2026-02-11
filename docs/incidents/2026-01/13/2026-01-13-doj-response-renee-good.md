@@ -10,7 +10,7 @@ injuries: fatal
 trustworthiness: high
 created: 2026-01-14T13:25:50
 last_updated: 2026-01-14T13:25:50
-search_tags: src:cbs, src:nbc, src:fox-news
+search_tags: shooting, src:cbs, src:nbc, src:fox-news
 ---
 
 # DOJ Declines Civil Rights Investigation into Good Shooting

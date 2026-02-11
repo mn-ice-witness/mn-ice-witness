@@ -10,7 +10,7 @@ injuries: minor
 trustworthiness: medium
 created: 2026-01-14T09:04:50
 last_updated: 2026-01-14T09:04:50
-search_tags: chemical-agents, src:star-tribune
+search_tags: chemical-agents, observer-intimidated, src:star-tribune
 ---
 
 # Two Young Women Sprayed Directly in Face with Chemical Irritant by ICE Agent in Mankato
