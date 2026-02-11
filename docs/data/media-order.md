@@ -23,6 +23,7 @@ ahmed-hassan-uber-driver
 mubashir-wrongful-detention
 tipan-toddler-father-detained
 st-peter-police-chief-intervenes
+missing-5th-grader-dilley
 jose-ramirez-native-american
 emmanuel-sackie-brooklyn-park
 amundson-zemien-seizure-first-responders
@@ -64,7 +65,6 @@ nur-d-rapper-detained
 trump-mistakes-happen
 bovino-pretti-had-gun-response
 ice-facial-recognition-surveillance-program
-missing-5th-grader-dilley
 trump-vicious-animals-statement
 dhs-response-crowd-control
 bovino-agents-are-victims

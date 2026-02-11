@@ -16,7 +16,7 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (247 incidents)
+## CURRENT (248 incidents)
 
 Published incidents visible on the main site.
 
@@ -157,6 +157,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/13/2026-01-13-william-vermie-veteran-detained.md | 2026-01-13 | Minneapolis | observers | Army Veteran William Vermie Detained 8 Hours for Observing ICE Arrest
 - incidents/2026-01/13/2026-01-13-doj-response-renee-good.md | 2026-01-13 | Minneapolis | response | DOJ Declines Civil Rights Investigation into Good Shooting
 - incidents/2026-01/13/2026-01-13-carondelet-school-lockdown.md | 2026-01-13 | Minneapolis | schools-hospitals | Carondelet Catholic School Lockdown During ICE Arrest Outside Building
+- incidents/2026-01/13/2026-01-13-teen-refugee-hotel-detention.md | 2026-01-13 | St. Cloud | citizens | Teen Refugee Handcuffed Driving to School, Held Overnight in Hotel Room with Federal Agents
 - incidents/2026-01/13/2026-01-13-kong-vang-frogtown.md | 2026-01-13 | St. Paul | citizens | Hmong U.S. Citizen Refuses to Open Door for Federal Agents
 - incidents/2026-01/13/2026-01-13-aliya-rahman-car-window-hospitalized.md | 2026-01-13 | Minneapolis | citizens | U.S. Citizen Aliya Rahman Dragged From Car, Hospitalized After ICE Assault
 - incidents/2026-01/13/2026-01-13-lyn-lake-tear-gas.md | 2026-01-13 | Minneapolis | observers | Federal Agents Deploy Tear Gas at Wrecktangle Pizza
