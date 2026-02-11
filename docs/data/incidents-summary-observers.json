@@ -29,13 +29,18 @@
         "src:bring-me-the-news",
         "src:fox-news"
       ],
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
+      "hasLocalMedia": true,
+      "localMediaType": "image",
+      "localMediaPath": "media/2026-02/07/2026-02-07-observers-one-warning-abductions.jpg",
       "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
+      "localMediaFiles": [
+        {
+          "type": "image",
+          "path": "media/2026-02/07/2026-02-07-observers-one-warning-abductions.jpg"
+        }
+      ],
+      "aspectRatio": 1.3745704467353952,
+      "mediaVersion": 1770842763
     },
     {
       "filePath": "incidents/2026-02/06/2026-02-06-columbia-heights-officer-threatens-observer.md",
