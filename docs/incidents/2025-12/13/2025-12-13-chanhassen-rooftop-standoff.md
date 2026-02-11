@@ -10,7 +10,7 @@ injuries: minor
 trustworthiness: high
 created: 2026-01-14T08:54:15
 last_updated: 2026-02-08T14:03:16
-search_tags: src:wcco, src:sahan-journal, src:fox9, src:kstp, src:other-local
+search_tags: workplace-raid, warrantless-entry, src:wcco, src:sahan-journal, src:fox9, src:kstp, src:other-local
 ---
 
 # Construction Workers Take Refuge on Roof During Hours-Long ICE Standoff

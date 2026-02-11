@@ -349,8 +349,7 @@
         "src:cnn",
         "src:kstp",
         "src:kare11",
-        "src:ap",
-        "src:npr"
+        "src:ap"
       ],
       "hasLocalMedia": true,
       "localMediaType": "image",
@@ -419,6 +418,7 @@
       "searchTags": [
         "children",
         "chemical-agents",
+        "observer-intimidated",
         "src:bring-me-the-news",
         "src:other-national"
       ],

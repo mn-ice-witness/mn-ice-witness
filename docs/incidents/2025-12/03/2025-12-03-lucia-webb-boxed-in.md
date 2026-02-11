@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-08T10:15:13
 last_updated: 2026-02-08T10:15:13
-search_tags: us-citizen, observer-intimidated, src:mpr, src:mn-reformer
+search_tags: us-citizen, observer-intimidated, shooting, src:mpr, src:mn-reformer
 ---
 
 # ICE Observer Boxed In by Four Vehicles, Threatened with Arrest

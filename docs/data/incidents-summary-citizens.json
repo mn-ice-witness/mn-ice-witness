@@ -204,6 +204,8 @@
       "notable": false,
       "searchTags": [
         "legal-resident",
+        "workplace-raid",
+        "excessive-force",
         "src:bring-me-the-news",
         "src:other-national"
       ],
@@ -1302,7 +1304,7 @@
         "legal-resident",
         "excessive-force",
         "citizen-check",
-        "src:other-national"
+        "shooting"
       ],
       "hasLocalMedia": true,
       "localMediaType": "image",
@@ -1337,6 +1339,7 @@
       "notable": false,
       "searchTags": [
         "legal-resident",
+        "workplace-raid",
         "src:bring-me-the-news",
         "src:wcco"
       ],

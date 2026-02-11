@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-14T08:27:46
 last_updated: 2026-01-14T08:27:46
-search_tags: src:wcco, src:fox9, src:sahan-journal, src:mpr, src:other-national
+search_tags: warrantless-entry, src:wcco, src:fox9, src:sahan-journal, src:mpr, src:other-national
 ---
 
 # Patient Shackled to Hospital Bed by ICE for 28 Hours Without Warrant

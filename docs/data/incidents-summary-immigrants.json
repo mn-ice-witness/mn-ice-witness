@@ -272,9 +272,8 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
-        "src:other-national",
         "src:pioneer-press",
-        "src:other-local"
+        "src:other-national"
       ],
       "hasLocalMedia": false,
       "localMediaType": null,
@@ -643,8 +642,7 @@
         "src:cnn",
         "src:kstp",
         "src:kare11",
-        "src:ap",
-        "src:npr"
+        "src:ap"
       ],
       "hasLocalMedia": true,
       "localMediaType": "image",
@@ -1512,7 +1510,7 @@
       "searchTags": [
         "family-separation",
         "children",
-        "src:other-local"
+        "src:other-national"
       ],
       "hasLocalMedia": false,
       "localMediaType": null,

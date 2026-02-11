@@ -10,7 +10,7 @@ injuries: minor
 trustworthiness: high
 created: 2026-01-14T09:04:50
 last_updated: 2026-01-14T09:04:50
-search_tags: observer-intimidated, chemical-agents, src:mpr, src:sahan-journal, src:pioneer-press, src:mn-reformer
+search_tags: workplace-raid, chemical-agents, observer-intimidated, src:mpr, src:sahan-journal, src:pioneer-press, src:mn-reformer
 ---
 
 # 14 Workers Detained in Major ICE Workplace Raid at Bro-Tex

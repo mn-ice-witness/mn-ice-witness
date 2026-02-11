@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-14T08:38:51
 last_updated: 2026-01-14T08:38:51
-search_tags: chemical-agents, observer-intimidated, src:sahan-journal, src:star-tribune
+search_tags: chemical-agents, observer-intimidated, warrantless-entry, src:sahan-journal, src:star-tribune
 ---
 
 # House Painter Arrested After 5-Hour Standoff; Family Reports Humiliation, No Warrant Shown

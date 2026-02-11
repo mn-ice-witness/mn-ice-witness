@@ -10,7 +10,7 @@ injuries: minor
 trustworthiness: high
 created: 2026-02-08T10:38:31
 last_updated: 2026-02-08T10:38:31
-search_tags: us-citizen, observer-intimidated, excessive-force, chemical-agents, src:mpr, src:fox9, src:ap, src:sahan-journal, src:nyt, src:star-tribune, src:other-national
+search_tags: us-citizen, observer-intimidated, excessive-force, chemical-agents, src:mpr, src:fox9, src:ap, src:wcco, src:sahan-journal, src:nyt, src:star-tribune, src:other-national
 ---
 
 # ICE Agents Pepper Spray Observers and Protesters at Cedar-Riverside

@@ -153,6 +153,7 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "shooting",
         "src:abc",
         "src:nbc",
         "src:other-national"
@@ -641,8 +642,7 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
-        "us-citizen",
-        "warrantless-entry"
+        "us-citizen"
       ],
       "hasLocalMedia": true,
       "localMediaType": "image",
@@ -847,6 +847,7 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "shooting",
         "src:wcco",
         "src:other-national",
         "src:abc"
@@ -944,6 +945,7 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "shooting",
         "src:cbs",
         "src:nbc",
         "src:fox-news"

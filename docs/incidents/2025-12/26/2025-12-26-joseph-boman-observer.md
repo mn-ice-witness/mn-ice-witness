@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: medium
 created: 2026-01-14T08:54:15
 last_updated: 2026-01-14T08:54:15
-search_tags: us-citizen, observer-detained, src:other-local
+search_tags: us-citizen, observer-detained, src:other-local, src:other-national
 ---
 
 # U.S. Citizen Observer Photographed, Followed, and Arrested
