@@ -26,6 +26,9 @@ These rules apply to almost every task. Do not skip them.
 ### Abbreviations
 - **sm** = social media (see `dev-docs/social-media-listing-procedure.md`)
 
+### Clean Up Test Files
+**Delete test files when done.** Any temporary test files (screenshots, test images, scratch files) created during development must be removed before committing. Don't leave `*-test.*` or other temp files in the repo.
+
 ### Browser Testing
 **Do NOT use Playwright** for browser testing unless explicitly asked. The user will test manually.
 
