@@ -139,6 +139,23 @@ Use numbered suffixes:
 # Then manually rename to: 2026-01-24-incident-name:02.raw.mov
 ```
 
+### Custom OG Image from Screenshot
+
+When the user says "latest screenshot is the OG image for [INCIDENT]":
+
+1. Move the screenshot using the script, then rename to `.raw_og` pattern:
+```bash
+./scripts/move-screen-recording.sh --type png INCIDENT_ID
+mv raw_media/YYYY-MM/DD/INCIDENT_ID.raw.png raw_media/YYYY-MM/DD/INCIDENT_ID.raw_og.png
+```
+
+2. Run `python-main scripts/process_media.py` — it will:
+   - Detect the `.raw_og` file
+   - Delete any existing auto-generated OG image for that incident
+   - Create a custom OG image scaled to 1200x630
+
+See `custom-og-images.md` for full details on the `.raw_og` naming convention.
+
 ### Both Video and Image for Same Incident
 
 Run the script twice with different types:
@@ -177,6 +194,7 @@ Claude will automatically run the media pipeline when it sees any of these phras
 - "Latest screenshot in raw_media is for [INCIDENT]"
 - "Latest photo in raw_media is for [INCIDENT]"
 - "Latest mov in raw_media is for [INCIDENT]"
+- "Latest screenshot is the OG image for [INCIDENT]"
 - "Process the latest media file in raw_media for [INCIDENT]"
 
 Claude will:
@@ -184,6 +202,11 @@ Claude will:
 2. Run `rm raw_media/Screen*` — **ALWAYS delete ALL remaining Screen Recording files** (failed attempts)
 3. Run `python-main scripts/process_media.py`
 4. Run `python-main scripts/generate_summary.py`
+
+**For OG images**, Claude will:
+1. Run `./scripts/move-screen-recording.sh --type png INCIDENT_ID`
+2. Rename: `mv raw_media/.../INCIDENT_ID.raw.png raw_media/.../INCIDENT_ID.raw_og.png`
+3. Run `python-main scripts/process_media.py`
 
 **CRITICAL:**
 - The script automatically selects the **newest** Screen Recording file — never manually specify which one

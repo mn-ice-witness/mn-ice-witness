@@ -26,6 +26,7 @@ A man in a red Toyota Prius crashed into two vehicles at the intersection of Sel
 5. Bring Me The News (Feb 11, 2026): [Federal agent pursuit in St. Paul ends with multi-vehicle crash](https://bringmethenews.com/minnesota-news/federal-agents-believed-to-be-involved-in-crash-outside-st-paul-cafe)
 6. News From The States (Feb 11, 2026): [High-speed car chase involving federal agent ended with multi-car crash at Nina's in St. Paul](https://www.newsfromthestates.com/article/high-speed-car-chase-involving-federal-agent-ended-multi-car-crash-ninas-st-paul)
 7. Threads (Feb 11, 2026): [Aaron Rupar report from St. Paul](https://www.threads.com/@aaron.rupar/post/DUn47PFlXda/report-from-st-paul-very-bad-car-accident-involving-ice-agent-who-left-the-scene)
+8. Reddit Video (Feb 11, 2026): [Aftermath footage of ICE agents damage during a high speed chase in St. Paul](https://www.reddit.com/r/minnesota/comments/1r26uv1/aftermath_footage_of_ice_agents_damage_during_a/)
 
 ## Affected Individual(s)
 - **Name:** Not publicly identified

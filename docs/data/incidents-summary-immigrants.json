@@ -28,13 +28,18 @@
         "src:pioneer-press",
         "src:other-national"
       ],
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
-      "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
+      "hasLocalMedia": true,
+      "localMediaType": "video",
+      "localMediaPath": "media/2026-02/11/2026-02-11-ninas-coffee-ice-pursuit-crash.mp4",
+      "localMediaOgPath": "media/2026-02/11/2026-02-11-ninas-coffee-ice-pursuit-crash-og-custom-1770849308.jpg",
+      "localMediaFiles": [
+        {
+          "type": "video",
+          "path": "media/2026-02/11/2026-02-11-ninas-coffee-ice-pursuit-crash.mp4"
+        }
+      ],
+      "aspectRatio": 0.5805555555555556,
+      "mediaVersion": 1770849306
     },
     {
       "filePath": "incidents/2026-02/07/2026-02-07-wilmer-andrade-work-permit-targeted.md",
