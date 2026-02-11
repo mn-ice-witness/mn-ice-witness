@@ -10,6 +10,7 @@ injuries: minor
 trustworthiness: high
 created: 2026-01-24T13:43:05
 last_updated: 2026-01-24T13:43:05
+search_tags: journalist, pepper-spray, observer-intimidated, src:kare11, src:fox9, src:cbs-mn
 ---
 
 # KARE 11 Journalist Jana Shortal Pushed, Pepper Sprayed While Covering Fatal Shooting

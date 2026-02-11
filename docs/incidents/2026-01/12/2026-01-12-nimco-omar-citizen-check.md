@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-14T17:54:18
 last_updated: 2026-01-14T17:54:18
+search_tags: citizen-check, us-citizen, src:fox9
 ---
 
 # Citizen Check: U.S. Citizen Confronted by ICE Agents While Walking

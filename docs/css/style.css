@@ -703,19 +703,17 @@ body {
 .search-modal-content {
     position: relative;
     background: var(--color-surface);
-    border-radius: 8px;
-    box-shadow: var(--shadow-lg);
-    width: 90%;
-    max-width: 500px;
+    border-radius: 8px 8px 0 0;
     display: flex;
     align-items: center;
-    z-index: 1;
+    padding: 4px 0;
 }
 
 .search-input {
     flex: 1;
-    padding: 16px 20px;
-    font-size: 1.1rem;
+    padding: 14px 20px;
+    font-size: 1.15rem;
+    font-weight: 500;
     font-family: var(--font-sans);
     border: none;
     background: transparent;
@@ -725,6 +723,7 @@ body {
 
 .search-input::placeholder {
     color: var(--color-text-muted);
+    font-weight: 400;
 }
 
 .search-clear {
@@ -756,6 +755,78 @@ body {
     text-align: center;
     font-size: 0.85rem;
     color: rgba(255, 255, 255, 0.8);
+}
+
+.search-modal-panel {
+    position: relative;
+    width: 90%;
+    max-width: 500px;
+    z-index: 1;
+    box-shadow: var(--shadow-lg);
+    border-radius: 8px;
+}
+
+.search-filters {
+    background: #f3f3f1;
+    border-radius: 0 0 8px 8px;
+    padding: 14px 16px 16px;
+    max-height: 50vh;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    border-top: 1px solid var(--color-border);
+}
+
+.filter-group {
+    margin-bottom: 10px;
+}
+
+.filter-group:last-child {
+    margin-bottom: 0;
+}
+
+.filter-group-label {
+    font-size: 0.7rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--color-text-muted);
+    margin-bottom: 6px;
+}
+
+.filter-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+.filter-chip {
+    display: inline-flex;
+    align-items: center;
+    padding: 3px 9px;
+    font-size: 0.78rem;
+    font-family: var(--font-sans);
+    border: 1px solid var(--color-border-dark);
+    border-radius: 14px;
+    cursor: pointer;
+    user-select: none;
+    transition: all 0.15s;
+    color: var(--color-text-secondary);
+    background: var(--color-surface);
+}
+
+.filter-chip:hover {
+    border-color: var(--color-text-muted);
+    background: #eaeae8;
+}
+
+.filter-chip.active {
+    background: #2c2c2c;
+    color: var(--color-surface);
+    border-color: #2c2c2c;
+}
+
+.filter-chip input[type="checkbox"] {
+    display: none;
 }
 
 /* ==================== MEDIA GALLERY ==================== */

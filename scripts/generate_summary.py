@@ -342,6 +342,9 @@ def process_incident(file_path, docs_dir, media_dir):
     notable_value = meta.get("notable", "false").lower()
     is_notable = notable_value in ("true", "yes", "1")
 
+    search_tags_raw = meta.get("search_tags", "")
+    search_tags = [t.strip() for t in search_tags_raw.split(",") if t.strip()] if search_tags_raw else []
+
     # Check for local media
     local_media = get_local_media(slug, media_dir)
 
@@ -365,6 +368,7 @@ def process_incident(file_path, docs_dir, media_dir):
         "lastUpdated": meta["last_updated"],
         "mediaCount": count_media(content),
         "notable": is_notable,
+        "searchTags": search_tags,
         "hasLocalMedia": local_media["hasLocalMedia"],
         "localMediaType": local_media["localMediaType"],
         "localMediaPath": local_media["localMediaPath"],

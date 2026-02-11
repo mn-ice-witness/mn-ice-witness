@@ -10,6 +10,7 @@ injuries: fatal
 trustworthiness: high
 created: 2026-01-14T08:01:12
 last_updated: 2026-02-04T16:19:46
+search_tags: shooting, us-citizen, children, src:star-tribune, src:fox9, src:nyt, src:cbs-mn, src:wapo
 ---
 
 # Renee Nicole Good Shot and Killed by ICE Agent

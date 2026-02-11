@@ -21,6 +21,7 @@ At approximately 6 a.m. on February 5, 2026, at least 11 Homeland Security Inves
 1. Sahan Journal (Feb 5, 2026): [Man arrested in early-morning Minneapolis federal raid is charged with cyberstalking](https://sahanjournal.com/public-safety/federal-raid-kyle-wagner-detained-whittier-minneapolis/)
 2. CBS News (Feb 5, 2026): [Minnesota activist Kyle Wagner arrested and charged with threatening ICE agents](https://www.cbsnews.com/news/kyle-wagner-minnesota-arrested-ice-antifa/)
 3. Reddit / Video (Feb 5, 2026): [ICE busted out the giant front window of a security apartment building](https://www.reddit.com/r/minnesota/comments/1qwvsi4/ice_busted_out_the_giant_front_window_of_a/)
+4. Instagram / Reel (2026): [Video of agents breaking through security window](https://www.instagram.com/reels/DUZTyZkEoDB/)
 
 ## Affected Individual(s)
 

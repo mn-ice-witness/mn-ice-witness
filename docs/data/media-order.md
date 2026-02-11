@@ -2,6 +2,7 @@
 # List incident slugs in display order (one per line)
 
 
+
 juan-carlos-brutality
 aliya-rahman-car-window-hospitalized
 speedway-st-paul
@@ -131,3 +132,4 @@ hcmc-patient-shackled
 dhs-response-saly-detention
 fridley-schools-closure
 francis-burger-joint-manager
+pastor-callaghan-detained

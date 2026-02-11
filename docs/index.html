@@ -15,10 +15,10 @@
     <link rel="canonical" href="https://mn-ice-witness.org/">
 
     <!-- Favicon and App Icons -->
-    <link rel="icon" type="image/x-icon" href="/assets/favicon.ico?v=1770825468">
-    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png?v=1770825468">
-    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png?v=1770825468">
-    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png?v=1770825468">
+    <link rel="icon" type="image/x-icon" href="/assets/favicon.ico?v=1770826839">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png?v=1770826839">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png?v=1770826839">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png?v=1770826839">
     <link rel="manifest" href="/manifest.json">
     <meta name="theme-color" content="#121212">
 
@@ -48,8 +48,8 @@
     </script>
 
     <title>MN ICE Witness - A Sourced Listing of ICE Incidents in MN</title>
-    <link rel="stylesheet" href="/css/style.css?v=1770825468">
-    <link rel="stylesheet" href="/css/timeline.css?v=1770825468">
+    <link rel="stylesheet" href="/css/style.css?v=1770826839">
+    <link rel="stylesheet" href="/css/timeline.css?v=1770826839">
     <!-- SPLASH DISABLED
     <script>
         (function() {
@@ -287,9 +287,43 @@
         <!-- Search Modal -->
         <div class="search-modal" id="search-modal" aria-hidden="true">
             <div class="search-modal-backdrop"></div>
-            <div class="search-modal-content">
-                <input type="text" class="search-input" id="search-input" placeholder="Search incidents..." autocomplete="off" autocapitalize="off">
-                <button class="search-clear" id="search-clear" aria-label="Clear search">&times;</button>
+            <div class="search-modal-panel">
+                <div class="search-modal-content">
+                    <input type="text" class="search-input" id="search-input" placeholder="Search incidents..." autocomplete="off" autocapitalize="off">
+                    <button class="search-clear" id="search-clear" aria-label="Clear search">&times;</button>
+                </div>
+                <div class="search-filters" id="search-filters">
+                    <div class="filter-group">
+                        <div class="filter-group-label">Topics</div>
+                        <div class="filter-chips">
+                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="us-citizen"> U.S. Citizen</label>
+                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="legal-resident"> Legal Resident</label>
+                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="citizen-check"> Citizen Check</label>
+                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="observer-intimidated"> Observer Intimidated</label>
+                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="observer-detained"> Observer Detained</label>
+                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="children"> Children</label>
+                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="pepper-spray"> Pepper Spray</label>
+                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="tear-gas"> Tear Gas</label>
+                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="shooting"> Shooting</label>
+                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="excessive-force"> Excessive Force</label>
+                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="wrong-person"> Wrong Person</label>
+                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="journalist"> Journalist</label>
+                        </div>
+                    </div>
+                    <div class="filter-group">
+                        <div class="filter-group-label">News Sources</div>
+                        <div class="filter-chips">
+                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="src:star-tribune"> Star Tribune</label>
+                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="src:bring-me-the-news"> Bring Me The News</label>
+                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="src:sahan-journal"> Sahan Journal</label>
+                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="src:fox9"> FOX 9</label>
+                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="src:kare11"> KARE 11</label>
+                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="src:cbs-mn"> CBS Minnesota</label>
+                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="src:mpr"> MPR News</label>
+                            <label class="filter-chip"><input type="checkbox" name="search-tag" value="src:pioneer-press"> Pioneer Press</label>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
 
@@ -411,19 +445,19 @@
 
     <script src="/js/marked.min.js"></script>
     <!-- Core modules (no dependencies) -->
-    <script src="/js/parser.js?v=1770825468"></script>
-    <script src="/js/router.js?v=1770825468"></script>
-    <script src="/js/media-controls.js?v=1770825468"></script>
+    <script src="/js/parser.js?v=1770826839"></script>
+    <script src="/js/router.js?v=1770826839"></script>
+    <script src="/js/media-controls.js?v=1770826839"></script>
     <!-- Feature modules -->
-    <script src="/js/view-state.js?v=1770825468"></script>
-    <script src="/js/splash.js?v=1770825468"></script>
-    <script src="/js/lightbox-content.js?v=1770825468"></script>
-    <script src="/js/lightbox.js?v=1770825468"></script>
-    <script src="/js/media-gallery.js?v=1770825468"></script>
-    <script src="/js/search.js?v=1770825468"></script>
-    <script src="/js/timeline.js?v=1770825468"></script>
+    <script src="/js/view-state.js?v=1770826839"></script>
+    <script src="/js/splash.js?v=1770826839"></script>
+    <script src="/js/lightbox-content.js?v=1770826839"></script>
+    <script src="/js/lightbox.js?v=1770826839"></script>
+    <script src="/js/media-gallery.js?v=1770826839"></script>
+    <script src="/js/search.js?v=1770826839"></script>
+    <script src="/js/timeline.js?v=1770826839"></script>
     <!-- Main app (last, coordinates all modules) -->
-    <script src="/js/app.js?v=1770825468"></script>
+    <script src="/js/app.js?v=1770826839"></script>
 </body>
 </html>
 <!-- build test 1769912033 -->

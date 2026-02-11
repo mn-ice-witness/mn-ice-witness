@@ -303,10 +303,12 @@ const App = {
     },
 
     /**
-     * Get filtered incidents based on search query (excludes no-news-media)
+     * Get filtered incidents based on search query and tag filters (excludes no-news-media)
      */
     getFilteredIncidents() {
         const query = (typeof Search !== 'undefined' && Search.query) ? Search.query.toLowerCase().trim() : '';
+        const activeTags = (typeof Search !== 'undefined' && Search.activeTags) ? Search.activeTags : new Set();
+
         // Filter out no-news-media, removed, and background incidents from main display
         const verified = this.incidents.filter(i => {
             if (i.trustworthiness === 'no-news-media' || i.trustworthiness === 'removed') return false;
@@ -314,24 +316,43 @@ const App = {
             if (types.length === 1 && types[0] === 'background') return false;
             return true;
         });
-        if (!query) return verified;
 
-        const terms = query.split(/\s+/).filter(t => t.length > 0);
-        const stemmedTerms = terms.map(t => this.stem(t));
+        let filtered = verified;
 
-        return verified.filter(incident => {
-            const searchText = [
-                incident.title,
-                incident.summary,
-                incident.location,
-                incident.city
-            ].join(' ').toLowerCase();
+        // Apply tag filters if any are active
+        if (activeTags.size > 0) {
+            const topicTags = [...activeTags].filter(t => !t.startsWith('src:'));
+            const sourceTags = [...activeTags].filter(t => t.startsWith('src:'));
 
-            const words = searchText.match(/\b\w+\b/g) || [];
-            const stemmedWords = new Set(words.map(w => this.stem(w)));
+            filtered = filtered.filter(incident => {
+                const tags = incident.searchTags || [];
+                const topicMatch = topicTags.length === 0 || topicTags.some(t => tags.includes(t));
+                const sourceMatch = sourceTags.length === 0 || sourceTags.some(t => tags.includes(t));
+                return topicMatch && sourceMatch;
+            });
+        }
 
-            return stemmedTerms.every(stemmedTerm => stemmedWords.has(stemmedTerm));
-        });
+        // Apply text search if query exists
+        if (query) {
+            const terms = query.split(/\s+/).filter(t => t.length > 0);
+            const stemmedTerms = terms.map(t => this.stem(t));
+
+            filtered = filtered.filter(incident => {
+                const searchText = [
+                    incident.title,
+                    incident.summary,
+                    incident.location,
+                    incident.city
+                ].join(' ').toLowerCase();
+
+                const words = searchText.match(/\b\w+\b/g) || [];
+                const stemmedWords = new Set(words.map(w => this.stem(w)));
+
+                return stemmedTerms.every(stemmedTerm => stemmedWords.has(stemmedTerm));
+            });
+        }
+
+        return filtered;
     },
 
     /**
