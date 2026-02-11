@@ -10,7 +10,7 @@ injuries: serious
 trustworthiness: medium
 created: 2026-01-16T22:28:22
 last_updated: 2026-01-16T22:28:22
-search_tags: us-citizen, excessive-force, src:sahan-journal
+search_tags: us-citizen, citizen-check, excessive-force, src:sahan-journal
 ---
 
 # U.S. Citizen Tackled by ICE at Shakopee Construction Site, Hospitalized

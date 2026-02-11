@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-17T23:35:39
 last_updated: 2026-01-20T22:44:32
-search_tags: us-citizen, observer-intimidated, src:mpr, src:star-tribune, src:cnn, src:kare11, src:other-local, src:other-national
+search_tags: shooting, src:mpr, src:star-tribune, src:cnn, src:kare11, src:other-local, src:other-national
 ---
 
 # ICE Blocks Physician From Helping Shooting Victim

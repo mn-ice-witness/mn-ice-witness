@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: medium
 created: 2026-02-08T22:06:14
 last_updated: 2026-02-08T22:06:14
-search_tags: src:sahan-journal
+search_tags: src:sahan-journal, src:other-national
 ---
 
 # Chilean Man Agrees to Voluntary Departure, Offers to Pay Own Airfare — Still Stuck in Louisiana Jail Five Weeks Later

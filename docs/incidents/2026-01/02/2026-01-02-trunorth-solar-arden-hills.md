@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: medium
 created: 2026-01-14T09:04:50
 last_updated: 2026-01-14T09:04:50
-search_tags: src:other-national
+search_tags: workplace-raid, src:other-national
 ---
 
 # ICE Raids TruNorth Solar Factory in Arden Hills - "First Big One of 2026"

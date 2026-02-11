@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-05T14:49:05
 last_updated: 2026-02-05T14:49:05
-search_tags: children, family-separation, deception, src:sahan-journal, src:cbs, src:star-tribune, src:kstp, src:mpr, src:wcco, src:nbc, src:other-national
+search_tags: children, family-separation, src:sahan-journal, src:cbs, src:star-tribune, src:kstp, src:mpr, src:wcco, src:nbc, src:other-national
 ---
 
 # Ten-Year-Old Elizabeth Caisaguano Detained with Mother, Held Nearly One Month in Texas
