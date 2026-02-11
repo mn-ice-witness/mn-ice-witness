@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: medium
 created: 2026-02-05T09:12:00
 last_updated: 2026-02-05T09:12:00
-search_tags: legal-resident, src:bring-me-the-news, src:other-national
+search_tags: legal-resident, workplace-raid, excessive-force, src:bring-me-the-news, src:other-national
 ---
 
 # NATIFS Restaurant Employee Detained at Gunpoint, Flown to Texas

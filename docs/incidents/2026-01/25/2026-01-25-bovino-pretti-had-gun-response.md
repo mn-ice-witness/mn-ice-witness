@@ -10,7 +10,7 @@ injuries: fatal
 trustworthiness: high
 created: 2026-01-25T08:10:21
 last_updated: 2026-01-25T08:10:21
-search_tags: src:fox-news, src:fox9, src:other-national
+search_tags: shooting, src:fox-news, src:fox9, src:other-national
 ---
 
 # Bovino on Pretti: "Let's Take a Look at the Gun"; Second Amendment Groups Raise Concerns

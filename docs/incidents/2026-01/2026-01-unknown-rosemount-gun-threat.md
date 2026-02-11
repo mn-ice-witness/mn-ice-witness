@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: low
 created: 2026-01-14T08:01:12
 last_updated: 2026-01-14T08:01:12
-search_tags: observer-intimidated, src:other-local
+search_tags: observer-intimidated, excessive-force, shooting, src:other-local
 ---
 
 # ICE Agent Waves Gun at Motorist in Rosemount

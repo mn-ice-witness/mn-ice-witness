@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-14T13:57:51
 last_updated: 2026-01-14T13:57:51
-search_tags: src:star-tribune
+search_tags: workplace-raid, src:star-tribune
 ---
 
 # Contractor Detained at General Mills Chanhassen Facility

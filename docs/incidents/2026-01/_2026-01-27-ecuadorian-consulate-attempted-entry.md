@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-28T08:28:50
 last_updated: 2026-01-28T08:28:50
-search_tags: src:wapo, src:kare11, src:mpr, src:other-national
+search_tags: warrantless-entry, src:wapo, src:kare11, src:mpr, src:other-national
 ---
 
 # ICE Agents Attempt Unauthorized Entry into Ecuadorian Consulate; Ecuador Files Diplomatic Protest

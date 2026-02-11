@@ -10,7 +10,7 @@ injuries: fatal
 trustworthiness: high
 created: 2026-01-27T11:27:42
 last_updated: 2026-01-27T11:32:34
-search_tags: src:fox-news, src:other-national
+search_tags: shooting, src:cnn, src:fox-news, src:other-national
 ---
 
 # Bovino Tells CNN Agents Are "The Victims" in Pretti Shooting; Says Second Amendment Rights "Don't Count"
