@@ -1,6 +1,32 @@
 {
   "incidents": [
     {
+      "filePath": "incidents/2026-02/07/2026-02-07-wilmer-andrade-work-permit-targeted.md",
+      "title": "ICE Targets Man with Valid Work Permit and Pending Crime Victim Visa",
+      "summary": "ICE agents knocked on Wilmer Andrade's door in the Twin Cities suburbs seeking his arrest, despite Andrade holding a valid work permit and a pending U visa application as a crime victim. Andrade, who was beaten and robbed in Minneapolis five years ago and has no criminal history in Minnesota, refused to open the door and was not taken into custody. The incident is part of a pattern of Operation Metro Surge increasingly targeting immigrants with active work authorization and pending legal cases.",
+      "latestUpdate": null,
+      "date": "2026-02-07",
+      "time": "unknown",
+      "location": "Twin Cities suburbs",
+      "city": "Minneapolis",
+      "type": "immigrants",
+      "status": "resolved",
+      "affectedIndividualCitizenship": "legal-resident",
+      "injuries": "none",
+      "trustworthiness": "high",
+      "created": "2026-02-10T21:01:30",
+      "lastUpdated": "2026-02-10T21:01:30",
+      "mediaCount": 0,
+      "notable": false,
+      "hasLocalMedia": false,
+      "localMediaType": null,
+      "localMediaPath": null,
+      "localMediaOgPath": null,
+      "localMediaFiles": [],
+      "aspectRatio": null,
+      "mediaVersion": null
+    },
+    {
       "filePath": "incidents/2026-02/06/2026-02-06-honduran-mother-attorney-denied-access.md",
       "title": "Honduran Mother with Brain Surgery History Held Extra Days After Judge Orders Release; Attorney Cannot Find Her",
       "summary": "A Honduran mother of two with a pending asylum case, valid work permit, and recent brain surgery was taken into federal custody. After a judge ordered her release, attorney Danielle Robinson Briand of Justicias Law was repeatedly denied access to her client and could not locate her in the immigration custody system for several days. Upon eventual release, ICE retained the woman's work permit and social security card.",

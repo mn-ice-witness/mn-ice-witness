@@ -16,7 +16,7 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (246 incidents)
+## CURRENT (247 incidents)
 
 Published incidents visible on the main site.
 
@@ -24,6 +24,7 @@ Published incidents visible on the main site.
 - incidents/2026-02/08/2026-02-08-ice-deceptive-tactics.md | 2026-02-08 | Minneapolis | background | Reports of ICE Agents Using Disguises, Fake License Plates, and Ruse Tactics Across Minnesota
 - incidents/2026-02/07/2026-02-07-dhs-response-whipple-conditions-false.md | 2026-02-07 | Minneapolis | response | DHS Statement: Claims of "Subprime Conditions" at Whipple Are "FALSE"
 - incidents/2026-02/07/2026-02-07-observers-one-warning-abductions.md | 2026-02-07 | Minneapolis | observers | Three Legal Observers Arrested in 30 Minutes as ICE Implements "One Warning" Policy
+- incidents/2026-02/07/2026-02-07-wilmer-andrade-work-permit-targeted.md | 2026-02-07 | Minneapolis | immigrants | ICE Targets Man with Valid Work Permit and Pending Crime Victim Visa
 - incidents/2026-02/06/2026-02-06-nick-benson-deportation-flights-msp.md | 2026-02-06 | Minneapolis | background | Volunteer Documents 42 Deportation Flights in January, Estimates 2,339 People Flown From Minnesota
 - incidents/2026-02/06/2026-02-06-brasel-right-to-counsel-whipple.md | 2026-02-06 | Minneapolis | background | Minnesota Courts Buckle as Immigration Litigation Overwhelms Federal System; Top ICE Lawyer Departs
 - incidents/2026-02/06/2026-02-06-dhs-response-agitators-shielded.md | 2026-02-06 | Minneapolis | response | DHS Response: "Agitators" Shield Child Rapists, Sex Offenders, and Gang Members From Arrest
@@ -37,7 +38,7 @@ Published incidents visible on the main site.
 - incidents/2026-02/04/2026-02-04-dhs-munitions-inventory-35000.md | 2026-02-04 | Minneapolis | background | Leaked CBP Inventory Reveals 35,765 Munitions Stockpiled for Operation Metro Surge
 - incidents/2026-02/04/2026-02-04-school-districts-sue-ice-near-schools.md | 2026-02-04 | Minneapolis | background | Minnesota School Districts and Teachers Union Sue to Restore Schools as Protected Areas
 - incidents/2026-02/04/2026-02-04-trump-softer-touch-interview.md | 2026-02-04 | Washington D.C. | response | Trump Says Administration Will Use "Softer Touch" After Minneapolis Shootings
-- incidents/2026-02/03/2026-02-03-observers-detained-gunpoint-midtown-phillips.md | 2026-02-03 | Minneapolis | observers | Observers Detained at Gunpoint in Midtown Phillips
+- incidents/2026-02/03/2026-02-03-observers-detained-gunpoint-midtown-phillips.md | 2026-02-03 | Minneapolis | observers | Observers Detained at Gunpoint, Bystanders Tackled in Midtown Phillips
 - incidents/2026-02/01/2026-02-01-jose-lozano-worthington.md | 2026-02-01 | Worthington | citizens | Jose Lozano Detained Despite Valid Asylum Permit in Worthington
 - incidents/2026-02/01/2026-02-01-powderhorn-rec-center-observer-arrested.md | 2026-02-01 | Minneapolis | observers | Observer Arrested, Concussion Grenades Deployed at Powderhorn Rec Center
 - incidents/2026-02/01/2026-02-01-fareh-home-surrounded-rochester.md | 2026-02-01 | Rochester | citizens | Citizen Check: ICE Agents Surround U.S. Citizen Family Home in Rochester
