@@ -683,6 +683,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    overflow-y: auto;
+    overscroll-behavior: contain;
     opacity: 0;
     visibility: hidden;
     transition: opacity 0.2s, visibility 0.2s;
