@@ -329,8 +329,8 @@ AP investigation documents federal agents disguising themselves as construction 
 
 ---
 date: 2026-02-09
-title: "No Evidence of an Assault"
-incident: 2026-02-09-observer-arrests-impeding-charges-collapse
+title: ICE Cracks Down on People Who Follow Them — Courts Find "No Evidence of an Assault"
+incident: 2026-02-07-observers-one-warning-abductions
 source:
 ---
-Federal authorities arrested 158 people for impeding ICE in Minnesota's first month, but the cases routinely collapsed when prosecutors and judges reviewed the evidence. A Fox 9 investigation of 92 federal cases found zero convictions; grand juries returned "no bills," charges were dismissed, and felonies downgraded. People were arrested for [giving the middle finger](/entry/2026-02-09-observer-arrests-impeding-charges-collapse), walking with hands up, and following agents in cars — conduct protected by the First Amendment. Law professor Rachel Moran: "When somebody other than the agents has to look at evidence and decide whether an assault happened, in the vast majority of situations, they're deciding, no, there's no evidence of an assault."
+Border czar Tom Homan vowed to ["make them famous"](https://news.meaww.com/were-gonna-make-em-famous-tom-homan-announces-public-database-to-expose-ice-critics) and ordered a database of observers' names, photos, and plates. Agents implemented a ["one warning" policy](/entry/2026-02-07-observers-one-warning-abductions) — a single verbal warning, then arrest. People were [detained at gunpoint for finger-gun gestures](/entry/2026-02-03-observers-detained-gunpoint-midtown-phillips), [snatched mid-call with cars left running](/entry/2026-02-07-observers-one-warning-abductions), and charged for filming, following, or giving the middle finger. In the first month, 158 were arrested for "impeding" ICE. But a Fox 9 investigation of 92 federal cases found zero convictions. Grand juries returned "no bills"; judges dismissed charges. Federal Judge Gabriel Fuentes wrote that prosecutors had "swung and missed — multiple times."
