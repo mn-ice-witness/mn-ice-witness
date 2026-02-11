@@ -221,6 +221,36 @@ const MediaGallery = {
     },
 
     /**
+     * Pause all video downloads to free HTTP connections.
+     * Saves src to data-src so resumeDownloads() can restore them.
+     * Called when lightbox opens — needed because wrangler serves HTTP/1.1
+     * locally (6 connection limit), and video downloads block .md fetches.
+     */
+    pauseDownloads() {
+        if (this.scrollObserver) this.scrollObserver.disconnect();
+        document.querySelectorAll('.media-card-video').forEach(video => {
+            if (video.src) video.dataset.src = video.src;
+            video.pause();
+            video.removeAttribute('src');
+            video.load();
+        });
+    },
+
+    /**
+     * Restore video downloads after lightbox closes.
+     */
+    resumeDownloads() {
+        const gallery = document.querySelector('.media-gallery');
+        document.querySelectorAll('.media-card-video').forEach(video => {
+            if (video.dataset.src) {
+                video.src = video.dataset.src;
+                delete video.dataset.src;
+            }
+        });
+        if (gallery) this.setupScrollToPlay(gallery);
+    },
+
+    /**
      * Sort media by custom order from media-order.md
      */
     async sortByOrder(mediaIncidents) {

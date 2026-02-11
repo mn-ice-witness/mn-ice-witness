@@ -105,7 +105,7 @@ const Lightbox = {
      * Open incident detail view
      */
     async open(incident) {
-        App.muteAllGalleryVideos();
+        MediaGallery.pauseDownloads();
         this.bodyElement.innerHTML = '<div class="table-loading">Loading...</div>';
         this.element.setAttribute('aria-hidden', 'false');
         document.body.style.overflow = 'hidden';
@@ -512,6 +512,7 @@ const Lightbox = {
         });
 
         if (incident) {
+            MediaGallery.pauseDownloads();
             this.bodyElement.innerHTML = '<div class="table-loading">Loading...</div>';
             this.element.setAttribute('aria-hidden', 'false');
             document.body.style.overflow = 'hidden';
@@ -664,6 +665,7 @@ const Lightbox = {
 
         this.element.setAttribute('aria-hidden', 'true');
         document.body.style.overflow = '';
+        MediaGallery.resumeDownloads();
         this.currentSlug = null;
         this.currentIncidentData = null;
         this.savedScrollPositions = {};
@@ -847,6 +849,7 @@ const Lightbox = {
      */
     async openIncidentFromNewUpdated(slug) {
         this.savedScrollPositions[this.currentSlug] = this.bodyElement.scrollTop;
+        MediaGallery.pauseDownloads();
 
         const incident = App.incidents.find(i => App.getIncidentId(i) === slug);
         if (incident) {
