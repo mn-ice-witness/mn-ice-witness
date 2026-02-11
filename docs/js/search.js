@@ -43,6 +43,7 @@ const Search = {
     open() {
         this.isOpen = true;
         this.modal.setAttribute('aria-hidden', 'false');
+        document.body.style.overflow = 'hidden';
         if (window.innerWidth > 768) {
             setTimeout(() => {
                 this.input.focus();
@@ -54,6 +55,7 @@ const Search = {
     close() {
         this.isOpen = false;
         this.modal.setAttribute('aria-hidden', 'true');
+        document.body.style.overflow = '';
         this.query = this.input.value.trim();
         this.updateButtonState();
         this.applyFilter();
