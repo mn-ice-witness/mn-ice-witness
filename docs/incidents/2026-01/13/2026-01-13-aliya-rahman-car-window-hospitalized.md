@@ -9,13 +9,14 @@ affected_individual_citizenship: us-citizen
 injuries: serious
 trustworthiness: high
 created: 2026-01-15T23:23:27
-last_updated: 2026-02-03T19:44:05
+last_updated: 2026-02-12T14:39:36
 search_tags: us-citizen, excessive-force, src:sahan-journal, src:other-national, src:nbc, src:cbs, src:cnn, src:pbs, src:abc, src:fox9
 ---
 
 # U.S. Citizen Aliya Rahman Dragged From Car, Hospitalized After ICE Assault
 
 ## Updates
+- **Feb 9** - Rahman [appears on Democracy Now](https://www.democracynow.org/2026/2/9/minneapolis_ice), describing ongoing trauma and how her autism and traumatic brain injury made it difficult to process auditory commands from agents during the assault. She also suffered a concussion at the Whipple Building.
 - **Feb 3** - Rahman [testifies before Congress](https://www.youtube.com/watch?v=zrcW8SZtYpI) at a forum hosted by Sen. Blumenthal and Rep. Garcia on DHS use of force.
 - **Jan 20** - Aliya Rahman speaks exclusively to CNN in her first on-camera interview about the assault.
 
@@ -53,6 +54,7 @@ Aliya Rahman, a 43-year-old U.S. citizen and software engineer, was dragged from
 28. Sen. Blumenthal (Feb 3, 2026): [Written Statement of Aliya Rahman](https://www.blumenthal.senate.gov/download/2026-2-3_aliya_rahman_statement)
 29. CNN (Feb 4, 2026): ['I am not afraid': Disabled woman violently detained by ICE vows to keep speaking out](https://www.cnn.com/2026/02/04/politics/video/i-am-not-afriad-disabled-woman-violently-detained-by-ice-vows-to-keep-speaking-out-lcl)
 30. FOX 9 (Feb 4, 2026): [Testimony: Minnesota woman with disabilities detained during ICE surge](https://www.fox9.com/news/testimony-minnesota-woman-disabilities-detained-during-ice-surge)
+31. Democracy Now (Feb 9, 2026): [Meet Aliya Rahman, Disabled U.S. Citizen Assaulted, Jailed & Traumatized by ICE](https://www.democracynow.org/2026/2/9/minneapolis_ice)
 
 ## Affected Individual(s)
 - **Name:** Aliya Rahman
@@ -60,7 +62,7 @@ Aliya Rahman, a 43-year-old U.S. citizen and software engineer, was dragged from
 - **Citizenship:** U.S. citizen (born in U.S., raised in Bangladesh)
 - **Occupation:** Software engineer, community-focused security practitioner
 - **Background:** LGBT rights activist, former fellow at New America's Open Technology Institute
-- **Disability:** Has a traumatic brain injury (was en route to TBI Center appointment)
+- **Disability:** Autistic; has a traumatic brain injury (was en route to TBI Center appointment)
 - **Purpose:** Driving to appointment at Traumatic Brain Injury Center
 - **Legal:** Represented by Alexa Van Brunt, MacArthur Justice Center
 

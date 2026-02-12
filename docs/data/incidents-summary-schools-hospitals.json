@@ -1,6 +1,33 @@
 {
   "incidents": [
     {
+      "filePath": "incidents/2026-02/11/2026-02-11-ice-hospital-fear-lost-pregnancy.md",
+      "title": "ICE Fears Cause Lost Pregnancy, Home Birth Crisis as Clinic No-Show Rates Hit 60%",
+      "summary": "Multiple Tier 1 news outlets reported that ICE presence in Minnesota hospitals and clinics has caused measurable medical harm. A pregnant woman lost her pregnancy at 20 weeks after postponing a monitoring appointment due to fear of ICE. Another pregnant woman in her third trimester stopped attending visits entirely; a nurse found her at home 8 centimeters dilated, too terrified to seek help. Clinics across the metro report 50-60% no-show rates among immigrant patients. Health care facilities have begun setting up \"safe rooms\" for patients afraid of ICE encounters.",
+      "latestUpdate": null,
+      "date": "2026-02-11",
+      "time": "unknown",
+      "location": "Minneapolis area clinics and hospitals",
+      "city": "Minneapolis",
+      "type": "schools-hospitals",
+      "status": "ongoing",
+      "affectedIndividualCitizenship": "various",
+      "injuries": "serious",
+      "trustworthiness": "high",
+      "created": "2026-02-12T14:36:06",
+      "lastUpdated": "2026-02-12T14:36:06",
+      "mediaCount": 0,
+      "notable": false,
+      "searchTags": [],
+      "hasLocalMedia": false,
+      "localMediaType": null,
+      "localMediaPath": null,
+      "localMediaOgPath": null,
+      "localMediaFiles": [],
+      "aspectRatio": null,
+      "mediaVersion": null
+    },
+    {
       "filePath": "incidents/2026-02/06/2026-02-06-missing-5th-grader-dilley.md",
       "title": "Missing Columbia Heights Fifth Grader Spotted Inside Texas Detention Center by Classmates",
       "summary": "Nearly a month after a Valley View Elementary fifth grader stopped showing up for class with no word from her family, the missing girl was spotted inside the Dilley Immigration Processing Center in Texas. Two of her schoolmates \u2014 brothers in second and fifth grade \u2014 recognized her after being released from the same facility. At least seven students from Columbia Heights Public Schools have been detained by ICE, ranging in age from five to seventeen.",

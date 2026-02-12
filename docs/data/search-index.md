@@ -16,13 +16,14 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (255 incidents)
+## CURRENT (259 incidents)
 
 Published incidents visible on the main site.
 
 - incidents/2026-02/12/2026-02-12-homan-operation-metro-surge-conclusion.md | 2026-02-12 | Minneapolis | background | Homan Declares Operation Metro Surge Over
 - incidents/2026-02/11/2026-02-11-ninas-coffee-ice-pursuit-crash.md | 2026-02-11 | St. Paul | immigrants | ICE High-Speed Pursuit Causes Multi-Car Crash Outside Nina's Coffee in St. Paul
 - incidents/2026-02/11/2026-02-11-nupa-rochester-cooks-detained.md | 2026-02-11 | Rochester | immigrants | Two Cooks Detained in Nupa Restaurant Parking Lot; Rochester Location Forced to Close
+- incidents/2026-02/11/2026-02-11-ice-hospital-fear-lost-pregnancy.md | 2026-02-11 | Minneapolis | schools-hospitals | ICE Fears Cause Lost Pregnancy, Home Birth Crisis as Clinic No-Show Rates Hit 60%
 - incidents/2026-02/10/2026-02-10-walz-days-not-months-drawdown.md | 2026-02-10 | Minneapolis | background | Walz Says ICE Drawdown Coming in "Days, Not Weeks and Months"
 - incidents/2026-02/10/2026-02-10-flying-j-lonsdale-semi-truck.md | 2026-02-10 | Lonsdale | immigrants | Dozen Agents Shatter Semi Truck Window at Flying J Travel Center; At Least Two Arrested
 - incidents/2026-02/09/2026-02-09-faribault-observer-database-threat.md | 2026-02-09 | Faribault | observers | ICE Agents Tell Observer They Are Building "Database" of Those Documenting Operations
@@ -40,12 +41,14 @@ Published incidents visible on the main site.
 - incidents/2026-02/06/2026-02-06-honduran-mother-attorney-denied-access.md | 2026-02-06 | Minneapolis | immigrants | Honduran Mother with Brain Surgery History Held Extra Days After Judge Orders Release; Attorney Cannot Find Her
 - incidents/2026-02/06/2026-02-06-missing-5th-grader-dilley.md | 2026-02-06 | Columbia Heights | schools-hospitals, immigrants | Missing Columbia Heights Fifth Grader Spotted Inside Texas Detention Center by Classmates
 - incidents/2026-02/05/2026-02-05-kyle-wagner-eat-street-flats-raid.md | 2026-02-05 | Minneapolis | citizens | 11 Federal Agents Smash Into Apartment Building at 6 a.m. to Arrest Man for Anti-ICE Social Media Posts
+- incidents/2026-02/05/2026-02-05-albert-lea-woman-baby-car-chase.md | 2026-02-05 | Albert Lea | immigrants | ICE Agents Cut Seatbelt to Extract Woman From Car; Baby in Backseat
 - incidents/2026-02/05/2026-02-05-javier-abreu-rochester-kidney-transplant.md | 2026-02-05 | Rochester | citizens | Kidney Transplant Recipient Arrested in Rochester Needs Anti-Rejection Medication
 - incidents/2026-02/05/2026-02-05-hennepin-courthouse-detentions.md | 2026-02-05 | Minneapolis | immigrants | Two Detained by ICE Inside Hennepin County Courthouse After Hearing
 - incidents/2026-02/04/2026-02-04-dhs-munitions-inventory-35000.md | 2026-02-04 | Minneapolis | background | Leaked CBP Inventory Reveals 35,765 Munitions Stockpiled for Operation Metro Surge
 - incidents/2026-02/04/2026-02-04-school-districts-sue-ice-near-schools.md | 2026-02-04 | Minneapolis | background | Minnesota School Districts and Teachers Union Sue to Restore Schools as Protected Areas
 - incidents/2026-02/04/2026-02-04-trump-softer-touch-interview.md | 2026-02-04 | Washington D.C. | response | Trump Says Administration Will Use "Softer Touch" After Minneapolis Shootings
 - incidents/2026-02/03/2026-02-03-observers-detained-gunpoint-midtown-phillips.md | 2026-02-03 | Minneapolis | observers | Observers Detained at Gunpoint, Bystanders Tackled in Midtown Phillips
+- incidents/2026-02/03/2026-02-03-yolanda-whipple-ankle-monitor.md | 2026-02-03 | Minneapolis | immigrants | Asylum-Seeking Mother Arrested at Routine Check-In with Two Children; Released with Ankle Monitor
 - incidents/2026-02/01/2026-02-01-jose-lozano-worthington.md | 2026-02-01 | Worthington | citizens | Jose Lozano Detained Despite Valid Asylum Permit in Worthington
 - incidents/2026-02/01/2026-02-01-powderhorn-rec-center-observer-arrested.md | 2026-02-01 | Minneapolis | observers | Observer Arrested, Concussion Grenades Deployed at Powderhorn Rec Center
 - incidents/2026-02/01/2026-02-01-fareh-home-surrounded-rochester.md | 2026-02-01 | Rochester | citizens | Citizen Check: ICE Agents Surround U.S. Citizen Family Home in Rochester
@@ -79,6 +82,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/25/2026-01-25-vance-engineered-chaos-unique.md | 2026-01-25 | Minneapolis | response | Vance on Pretti: "Engineered Chaos" Unique to Minneapolis
 - incidents/2026-01/24/2026-01-24-javier-witness-detained.md | 2026-01-24 | Minneapolis | observers | Minneapolis Man Detained for Hours After Witnessing Pretti Shooting
 - incidents/2026-01/24/2026-01-24-alex-pretti-shooting.md | 2026-01-24 | Minneapolis | observers | Alex Pretti Shot and Killed by Federal Agents
+- incidents/2026-01/24/2026-01-24-gust-johnson-veteran-pepper-sprayed.md | 2026-01-24 | Minneapolis | observers | 76-Year-Old Marine Veteran Pepper Sprayed Three Times, Detained 10 Hours at Pretti Scene
 - incidents/2026-01/24/2026-01-24-jana-shortal-journalist-pepper-sprayed.md | 2026-01-24 | Minneapolis | observers | KARE 11 Journalist Jana Shortal Pushed, Pepper Sprayed While Covering Fatal Shooting
 - incidents/2026-01/24/2026-01-24-emilio-pena-jimenez-deported.md | 2026-01-24 | Apple Valley | immigrants | Lakeville Business Owner Deported to Mexico Despite Two Court Orders
 - incidents/2026-01/24/2026-01-24-nur-d-rapper-detained.md | 2026-01-24 | Minneapolis | observers | Minneapolis Rapper Nur-D Detained at Pretti Scene: "You're Gonna Kill Me. That's What You Want?"
@@ -278,7 +282,7 @@ Published incidents visible on the main site.
 
 ---
 
-## NO-ADD (201 entries)
+## NO-ADD (211 entries)
 
 Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 
@@ -477,6 +481,16 @@ Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 - dev-docs/not_use.md | Feb 2026 | Multi-State Amicus Brief Supporting Minnesota
 - dev-docs/not_use.md | Feb 11 | Healthcare Impact / Underground Medical Care
 - dev-docs/not_use.md | Feb 11 | Neighbor Camera Network / Community Surveillance
+- dev-docs/not_use.md | Feb 1-10 | Winona County ICE Arrests - Macuixtle-Sanchez + 2 Altura
+- dev-docs/not_use.md | Feb 4-10 | Brashad Johnson ICE Background Investigator Sex Sting
+- dev-docs/not_use.md | Feb 3 | CNN Rochester School Absences Story
+- dev-docs/not_use.md | Feb 4-11 | Nebraska Detainee Transfers / ACLU Suits
+- dev-docs/not_use.md | Jan 28 | Advocates for Human Rights Attorney Access Lawsuit
+- dev-docs/not_use.md | Feb 10-11 | MPS Virtual Learning Extension to April 6
+- dev-docs/not_use.md | Feb 6 | Child Care Enrollment Decline
+- dev-docs/not_use.md | through Jan 29 | Mille Lacs County 10 ICE Detentions Aggregate
+- dev-docs/not_use.md | Jan 31 | US53 High-Speed Chase / Cook, MN
+- dev-docs/not_use.md | Jan 13-27 | Duluth Observer Followed Home / Eleanor Dolan Testimony
 - dev-docs/not_use.md | Dec 13, 2025 | Loc Vinh Truong Rochester
 - dev-docs/not_use.md | Dec 13-14, 2025 | Willmar December 13-14 HSI Arrests
 - dev-docs/not_use.md | Dec 10-11, 2025 | Rekeya Frazier / Oluwadamilola Bamigboye Plymouth

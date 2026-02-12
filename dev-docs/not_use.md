@@ -1385,6 +1385,76 @@ Stories are excluded when they don't meet the project's core focus:
 - Reason: **Community organizing only.** No enforcement incident documented.
 - Date evaluated: 2026-02-12
 
+**Winona County ICE Arrests - Macuixtle-Sanchez + 2 Altura (Feb 1-10)**
+- Sources: [Winona Post (Feb 11, 2026)](https://www.winonapost.com/news/ice-arrests-three-more-in-winona-county/article_3ab06aea-192b-4a9f-9c74-49e090843f87.html)
+- Date: February 1-10, 2026
+- Details: Three more people arrested by ICE in Winona County: Jose Javier Macuixtle-Sanchez, 23, arrested by sheriff on Feb 1 for violating a domestic abuse no-contact order (DANCO); ICE agents waited in jail parking lot upon his release, chased him down. Two unnamed men in Altura arrested ~Feb 5 and subsequently released.
+- Reason: **Criminal arrest / insufficient details.** Macuixtle-Sanchez had active domestic abuse charges and sheriff cooperated with ICE detainer as standard procedure. Altura arrests lack names, details, and subjects were released.
+- Date evaluated: 2026-02-12
+
+**Brashad Johnson ICE Background Investigator Sex Sting (Feb 4-10)**
+- Sources: [Fox 9](https://www.fox9.com/news/man-who-does-ice-background-checks-arrested-bloomington-prostitution-sting), [Newsweek](https://www.newsweek.com/dhs-denies-ice-contractor-arrested-during-prostitution-sting-11506377), [KSTP](https://kstp.com/kstp-news/local-news/federal-employee-who-did-background-checks-for-ice-arrested-in-bloomington-sex-sting/), [Daily Beast](https://www.thedailybeast.com/ice-background-check-goon-busted-in-sex-trafficking-sting/)
+- Date: February 4-10, 2026
+- Details: Brashad Johnson, 36, of Maple Grove, arrested in Bloomington prostitution sting ("Operation Looking for Love in All the Wrong Places"). Possessed Department of Defense ID indicating he was a contractor conducting federal background investigations, reportedly for ICE/DHS. DHS denies he is an employee or contractor.
+- Reason: **Tangential.** Same category as Nov 2025 "Operation Creep" entry. ICE-adjacent person's personal criminal conduct, not an ICE enforcement action or civil rights incident.
+- Date evaluated: 2026-02-12
+
+**CNN Rochester School Absences Story (Feb 3)**
+- Sources: [CNN](https://us.cnn.com/2026/02/03/us/minnesota-ice-raids-impact-schools-children)
+- Date: February 3, 2026
+- Details: CNN comprehensive piece on 500+ absent students in Rochester, absences skyrocketing among non-English speakers and Latino students. Superintendent Kent Pekel describes "gigantic psychological weight."
+- Reason: **Background/systemic impact story.** Not a specific enforcement incident. School impact data already captured in existing school entries.
+- Date evaluated: 2026-02-12
+
+**Nebraska Detainee Transfers / ACLU Suits (Feb 4-11)**
+- Sources: [Flatwater Free Press](https://flatwaterfreepress.org/as-minnesota-ice-crackdown-continues-detainees-quietly-transferred-to-nebraska-jails/), [Nebraska Examiner (Feb 4)](https://nebraskaexaminer.com/2026/02/04/aclu-sues-on-behalf-of-mccook-ice-detainees-criticizes-attorney-client-access/), [Nebraska Examiner (Feb 6)](https://nebraskaexaminer.com/2026/02/06/daca-recipient-detained-denied-bond-hearing-by-ice-aclu-nebraska-files-suit/), [Nebraska Examiner (Feb 10)](https://nebraskaexaminer.com/2026/02/10/federal-judge-sides-with-mccook-migrant-detainee-in-aclu-nebraska-lawsuit/)
+- Date: February 4-11, 2026
+- Details: At least 20 Minnesota detainees transferred to Nebraska jails. ACLU filed suits on behalf of Semere Gherezgiher (Eritrean, arrested MN May 2025), Carlos Roldan Chang (judge ordered bond hearing), Joel Angel-Becerril (DACA recipient). Legal actions playing out in Nebraska courts.
+- Reason: **Systemic/legal story.** Nebraska-based legal challenges for MN detainees. Gherezgiher's arrest predates Operation Metro Surge. Individual cases lack specific Minnesota incident detail and actions are in Nebraska courts.
+- Date evaluated: 2026-02-12
+
+**Advocates for Human Rights Attorney Access Lawsuit (Jan 28)**
+- Sources: [Democracy Forward](https://democracyforward.org/news/press-releases/the-advocates-for-human-rights-individual-detained-in-minnesota-sue-u-s-department-of-homeland-security-over-denial-of-access-to-lawyers/), [Advocates for Human Rights](https://www.theadvocatesforhumanrights.org/News/A/Index?id=629), [Minnesota Reformer](https://minnesotareformer.com/2026/01/28/lawsuit-dhs-blocking-lawyers-from-meeting-with-detainees/), [Fox 9](https://www.fox9.com/news/claims-ice-blocking-immigration-attorneys-follows-dhs-playbook-jan-2026)
+- Date: January 28, 2026
+- Details: Advocates for Human Rights and unnamed detained individual filed class action lawsuit against DHS challenging blocking of attorney access at Whipple Building. Alleges violent arrests, overcrowding, constant shackling, denial of confidential legal communication.
+- Reason: **Legal/policy story.** Class action with anonymous plaintiff. Whipple conditions already documented in existing background entries. Lawsuit filing is institutional action, not a specific civil rights incident.
+- Date evaluated: 2026-02-12
+
+**MPS Virtual Learning Extension to April 6 (Feb 10-11)**
+- Sources: [Fox 9](https://www.fox9.com/news/minneapolis-public-schools-e-learning-ice-extension), [Sahan Journal](https://sahanjournal.com/education/minneapolis-schools-online-learning-ice-actions-schools/), [Bring Me The News](https://bringmethenews.com/minnesota-news/more-school-districts-including-st-paul-now-offering-virtual-learning-amid-ice-activity), [KSTP](https://kstp.com/inside-your-schools/several-school-districts-offering-online-learning-in-response-to-ice-activity/)
+- Date: February 10-11, 2026
+- Details: Minneapolis Public Schools extended optional online learning through April 6, originally set to end Feb 12. Multiple other districts also offering virtual options. Teachers simultaneously deliver lessons to in-person and remote students.
+- Reason: **Background/systemic impact story.** Not a specific enforcement incident. Partially covered by existing school entries.
+- Date evaluated: 2026-02-12
+
+**Child Care Enrollment Decline (Feb 6)**
+- Sources: [Minnesota Reformer](https://minnesotareformer.com/2026/02/06/minnesota-child-care-providers-try-to-make-ends-meet-as-immigrant-families-keep-kids-home/), [Axios](https://www.axios.com/local/twin-cities/2026/01/21/minnesota-child-care-ice-surge)
+- Date: February 6, 2026
+- Details: Child care providers struggling as immigrant families keep children home. School Readiness Learning Academy director reported 4 families withdrew. Centers ordering lockdowns due to nearby ICE. Staff shortages worsening.
+- Reason: **Background/systemic impact story.** Not a discrete enforcement incident.
+- Date evaluated: 2026-02-12
+
+**Mille Lacs County 10 ICE Detentions Aggregate (through Jan 29)**
+- Sources: [Mille Lacs Messenger](https://www.messagemedia.co/millelacs/ice-in-mille-lacs-sheriff-burton-provides-an-update/article_9062e40e-76fd-4e94-81f8-e662d4637cc4.html), [Hometown Source / Union Times](https://www.hometownsource.com/union_times/union_times/community/sheriff-provides-update-on-local-ice-activity/article_e1bf26f9-3527-4314-ba6e-c3226545811e.html)
+- Date: Through January 29, 2026
+- Details: Sheriff Kyle Burton reported 10 individuals detained for deportation in Mille Lacs County. Nine apprehended directly by ICE ERO; one after a traffic stop. All but one had prior removal orders. Six had prior criminal convictions.
+- Reason: **Aggregate sheriff's summary only.** No individual names, no specific locations, no indication any were citizens/legal residents, no school/hospital impact. Insufficient detail for incident entries.
+- Date evaluated: 2026-02-12
+
+**US53 High-Speed Chase / Cook, MN (Jan 31)**
+- Sources: [Fox21](https://www.fox21online.com/2026/02/02/man-leads-minnesota-state-patrol-on-high-speed-chase-thought-he-was-running-from-ice/)
+- Date: January 31, 2026
+- Details: Brandon Choo Atam, 27, from Bowie, MD, drove 108 mph on US-53 near Cook, MN fleeing a state trooper he believed was ICE. Charged with felony fleeing.
+- Reason: **Not an ICE action.** Driver was fleeing a state trooper, not ICE. Fear-based incident without ICE involvement.
+- Date evaluated: 2026-02-12
+
+**Duluth Observer Followed Home / Eleanor Dolan Testimony (Jan 13-27)**
+- Sources: [Northern News Now (Jan 13)](https://www.northernnewsnow.com/2026/01/13/tensions-flare-duluth-city-council-meeting-over-dpd-ice-relationship-question/), [Fox21 (Jan 27)](https://www.fox21online.com/2026/01/27/residents-pack-duluth-city-hall-surrounding-ice/)
+- Date: January 13 and 27, 2026 (testimony dates)
+- Details: Eleanor Dolan (Twin Ports DSA constitutional observer) testified at Duluth City Council that DPD officers interfered with her ICE observing and that agents "led observers straight to my home in an act of blatant intimidation." Police Chief Ceynowa disputed her account ("I have different facts").
+- Reason: **Unverified single-source testimony.** No news investigation corroborated the incidents. Police chief disputed the account. No arrest, no detention, no independent verification.
+- Date evaluated: 2026-02-12
+
 ### December 2025
 
 **Loc Vinh Truong Rochester (Dec 13, 2025)**

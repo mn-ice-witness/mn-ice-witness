@@ -11,3 +11,4 @@ raw_media/*
 raw_media.org/
 .playwright*/
 .wrangler/
+work-temp/
