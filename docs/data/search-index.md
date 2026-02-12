@@ -16,7 +16,7 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (254 incidents)
+## CURRENT (255 incidents)
 
 Published incidents visible on the main site.
 
@@ -27,6 +27,7 @@ Published incidents visible on the main site.
 - incidents/2026-02/10/2026-02-10-flying-j-lonsdale-semi-truck.md | 2026-02-10 | Lonsdale | immigrants | Dozen Agents Shatter Semi Truck Window at Flying J Travel Center; At Least Two Arrested
 - incidents/2026-02/09/2026-02-09-faribault-observer-database-threat.md | 2026-02-09 | Faribault | observers | ICE Agents Tell Observer They Are Building "Database" of Those Documenting Operations
 - incidents/2026-02/09/2026-02-09-observer-arrests-impeding-charges-collapse.md | 2026-02-09 | Minneapolis | background | "No Evidence of an Assault": 158 Arrested for Impeding ICE, Cases Routinely Dismissed
+- incidents/2026-02/09/2026-02-09-dhs-data-14-percent-violent-criminal-records.md | 2026-02-09 | Washington D.C. | background | Internal DHS Data: Less Than 14% of ICE Arrests Had Violent Criminal Records
 - incidents/2026-02/08/2026-02-08-ice-deceptive-tactics.md | 2026-02-08 | Minneapolis | background | Reports of ICE Agents Using Disguises, Fake License Plates, and Ruse Tactics Across Minnesota
 - incidents/2026-02/07/2026-02-07-dhs-response-whipple-conditions-false.md | 2026-02-07 | Minneapolis | response | DHS Statement: Claims of "Subprime Conditions" at Whipple Are "FALSE"
 - incidents/2026-02/07/2026-02-07-observers-one-warning-abductions.md | 2026-02-07 | Minneapolis | observers | Three Legal Observers Arrested in 30 Minutes as ICE Implements "One Warning" Policy
