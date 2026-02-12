@@ -359,7 +359,7 @@ body {
 }
 
 .site-tagline {
-    font-size: 0.8rem;
+    font-size: clamp(0.8rem, 2.5vw, 0.95rem);
     font-weight: 600;
     color: var(--color-text);
     max-width: 400px;
