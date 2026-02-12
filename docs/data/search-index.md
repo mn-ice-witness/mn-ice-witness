@@ -16,11 +16,12 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (250 incidents)
+## CURRENT (251 incidents)
 
 Published incidents visible on the main site.
 
-- incidents/2026-02/11/2026-02-11-ninas-coffee-ice-pursuit-crash.md | 2026-02-11 | St. Paul | immigrants | Multi-Car Crash Outside Nina's Coffee After Federal Agent Pursuit in St. Paul
+- incidents/2026-02/12/2026-02-12-homan-operation-metro-surge-conclusion.md | 2026-02-12 | Minneapolis | background | Homan Declares Operation Metro Surge Over
+- incidents/2026-02/11/2026-02-11-ninas-coffee-ice-pursuit-crash.md | 2026-02-11 | St. Paul | immigrants | ICE High-Speed Pursuit Causes Multi-Car Crash Outside Nina's Coffee in St. Paul
 - incidents/2026-02/10/2026-02-10-walz-days-not-months-drawdown.md | 2026-02-10 | Minneapolis | background | Walz Says ICE Drawdown Coming in "Days, Not Weeks and Months"
 - incidents/2026-02/09/2026-02-09-observer-arrests-impeding-charges-collapse.md | 2026-02-09 | Minneapolis | background | "No Evidence of an Assault": 158 Arrested for Impeding ICE, Cases Routinely Dismissed
 - incidents/2026-02/08/2026-02-08-ice-deceptive-tactics.md | 2026-02-08 | Minneapolis | background | Reports of ICE Agents Using Disguises, Fake License Plates, and Ruse Tactics Across Minnesota

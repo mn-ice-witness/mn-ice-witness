@@ -841,6 +841,13 @@ body {
     display: none;
 }
 
+.filter-disclaimer {
+    margin: 8px 0 0;
+    font-size: 0.75rem;
+    color: #888;
+    font-style: italic;
+}
+
 /* ==================== MEDIA GALLERY ==================== */
 
 .media-gallery {

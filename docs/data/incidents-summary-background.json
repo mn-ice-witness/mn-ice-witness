@@ -1,6 +1,46 @@
 {
   "incidents": [
     {
+      "filePath": "incidents/2026-02/12/2026-02-12-homan-operation-metro-surge-conclusion.md",
+      "title": "Homan Declares Operation Metro Surge Over",
+      "summary": "At a press conference at the Whipple Federal Building at Fort Snelling, border czar Tom Homan announced the conclusion of Operation Metro Surge, saying President Trump concurred with his proposal to end the 10-week operation. Homan declared Minnesota \"now less of a sanctuary state for criminals,\" cited over 4,000 arrests, and said a significant drawdown was already underway. He warned that mass deportations would continue nationwide and that churches and schools remained \"not off the table.\" A small contingent of personnel will remain to complete fraud investigations and criminal cases against \"agitators.\"",
+      "latestUpdate": null,
+      "date": "2026-02-12",
+      "time": "unknown",
+      "location": "Bishop Henry Whipple Federal Building, Fort Snelling",
+      "city": "Minneapolis",
+      "type": "background",
+      "status": "resolved",
+      "affectedIndividualCitizenship": "n/a",
+      "injuries": "none",
+      "trustworthiness": "high",
+      "created": "2026-02-12T09:32:12",
+      "lastUpdated": "2026-02-12T09:32:12",
+      "mediaCount": 0,
+      "notable": false,
+      "searchTags": [
+        "src:fox9",
+        "src:kstp",
+        "src:cbs",
+        "src:nbc",
+        "src:pbs",
+        "src:pioneer-press",
+        "src:kare11"
+      ],
+      "hasLocalMedia": true,
+      "localMediaType": "video",
+      "localMediaPath": "media/2026-02/12/2026-02-12-homan-operation-metro-surge-conclusion.mp4",
+      "localMediaOgPath": "media/2026-02/12/2026-02-12-homan-operation-metro-surge-conclusion-og-2s-1770910620.jpg",
+      "localMediaFiles": [
+        {
+          "type": "video",
+          "path": "media/2026-02/12/2026-02-12-homan-operation-metro-surge-conclusion.mp4"
+        }
+      ],
+      "aspectRatio": 1.8472222222222223,
+      "mediaVersion": 1770910620
+    },
+    {
       "filePath": "incidents/2026-02/10/2026-02-10-walz-days-not-months-drawdown.md",
       "title": "Walz Says ICE Drawdown Coming in \"Days, Not Weeks and Months\"",
       "summary": "At a press conference highlighting small business devastation, Governor Walz said he expects the federal immigration surge to end within days after conversations with border czar Tom Homan (Feb 9) and White House Chief of Staff Susie Wiles (Feb 10). Walz said he hoped Homan would announce \"before Friday\" that the operation was done, while noting he was \"skeptical, but more hopeful than I have been.\" The city of Minneapolis estimated cumulative economic losses of $100 million from Operation Metro Surge.",
