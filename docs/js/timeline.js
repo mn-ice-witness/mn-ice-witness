@@ -94,7 +94,7 @@ const Timeline = {
         this.initScrollObserver();
         this.initClickHandlers();
 
-        if (currentDate) {
+        if (currentDate && currentDate !== this.getFirstDate()) {
             this.scrollToDate(currentDate);
         }
     },
