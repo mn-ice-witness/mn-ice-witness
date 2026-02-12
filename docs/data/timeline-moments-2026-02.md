@@ -45,3 +45,11 @@ incident: 2026-02-10-walz-days-not-months-drawdown
 source:
 ---
 After conversations with border czar Homan and White House Chief of Staff Susie Wiles, Governor Walz said he expected the federal occupation to end within days. The city of Minneapolis estimated cumulative economic losses of $100 million. Walz: "We're very much in a trust but verify mode."
+
+---
+date: 2026-02-12
+title: Homan Declares Operation Metro Surge Over
+incident: 2026-02-12-homan-operation-metro-surge-conclusion
+source:
+---
+At the Whipple Federal Building, border czar Tom Homan announced that President Trump concurred with his proposal to end Operation Metro Surge after 10 weeks, 4,000+ arrests, and two U.S. citizens [killed](/entry/2026-01-07-renee-good-shooting) by [federal agents](/entry/2026-01-24-alex-pretti-shooting). Homan declared Minnesota "now less of a sanctuary state for criminals" and called it "a win for everybody" — but warned mass deportations would continue and that churches and schools remained "not off the table." A small contingent stays for fraud investigations and cases against "agitators." Mayor Frey: "They thought they could break us, but a love for our neighbors and a resolve to endure can outlast an occupation."

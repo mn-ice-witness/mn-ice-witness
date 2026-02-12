@@ -16,6 +16,7 @@ search_tags: src:npr, src:wapo, src:nbc, src:pbs, src:mpr, src:abc, src:other-na
 # Homan Takes Command, Begins Operation Metro Surge Draw Down
 
 ## Updates
+- **Feb 12** - [Homan declares Operation Metro Surge over](#2026-02-12-homan-operation-metro-surge-conclusion) at Fort Snelling press conference; Trump concurs with proposal to conclude the 10-week operation.
 - **Feb 10** - Governor Walz [says he expects drawdown](#2026-02-10-walz-days-not-months-drawdown) in "days, not weeks and months" after conversations with Homan and White House Chief of Staff Susie Wiles.
 - **Feb 4** - [Homan announces](https://www.nbcnews.com/news/us-news/trump-administration-withdraw-700-immigration-agents-minnesota-rcna257397) 700 federal officers withdrawn "effective immediately," leaving ~2,000 agents.
 - **Jan 29** - [Homan holds first press conference](https://www.npr.org/2026/01/29/nx-s1-5693019/border-czar-plans-to-draw-down-ice-and-cbp-minnesota) in Minneapolis, announces draw down conditional on "cooperation."
@@ -140,6 +141,7 @@ DHS claimed 1,360+ "criminal illegal aliens" in Minnesota state custody with ICE
 - The Department stated it "has not found a single case where the state failed to honor an ICE detainer"
 
 ## Related Incidents
+- [Homan Declares Operation Metro Surge Over](#2026-02-12-homan-operation-metro-surge-conclusion) — The conclusion
 - [Walz Says ICE Drawdown Coming in "Days, Not Weeks and Months"](#2026-02-10-walz-days-not-months-drawdown)
 - [Trump Threatens Military Deployment Under Insurrection Act](#2026-01-16-trump-insurrection-act-threat)
 
