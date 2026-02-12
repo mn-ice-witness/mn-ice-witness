@@ -519,10 +519,27 @@ const Timeline = {
         if (this._suppressHashUpdate) return;
         if (!date || date === this._lastHashDate) return;
         this._lastHashDate = date;
-        const hash = '#' + date;
-        if (window.location.hash !== hash) {
-            history.replaceState(null, '', '/timeline' + hash);
+        const firstDate = this.getFirstDate();
+        if (date === firstDate) {
+            if (window.location.hash) {
+                history.replaceState(null, '', '/timeline');
+            }
+        } else {
+            const hash = '#' + date;
+            if (window.location.hash !== hash) {
+                history.replaceState(null, '', '/timeline' + hash);
+            }
         }
+    },
+
+    getFirstDate() {
+        const firstMonth = this.sortOrder === 'oldest'
+            ? this.monthData[0]
+            : this.monthData[this.monthData.length - 1];
+        const firstDay = firstMonth && (this.sortOrder === 'oldest'
+            ? firstMonth.days[0]
+            : firstMonth.days[firstMonth.days.length - 1]);
+        return firstDay ? firstDay.date : null;
     },
 
     scrollToDate(dateId) {

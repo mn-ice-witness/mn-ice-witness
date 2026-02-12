@@ -334,6 +334,6 @@ const ViewState = {
     },
 
     getPreferredView() {
-        return 'list';
+        return 'timeline';
     }
 };
