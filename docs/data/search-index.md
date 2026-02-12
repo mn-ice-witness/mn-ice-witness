@@ -278,7 +278,7 @@ Published incidents visible on the main site.
 
 ---
 
-## NO-ADD (195 entries)
+## NO-ADD (201 entries)
 
 Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 
@@ -471,6 +471,12 @@ Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 - dev-docs/not_use.md | Feb 9 | Nikki Davidson ICE Arrest Map Investigation
 - dev-docs/not_use.md | Feb 10 | Lagoon Avenue / Uptown Window Smash
 - dev-docs/not_use.md | Feb 10 | Knollwood Mall Morning Arrest
+- dev-docs/not_use.md | Feb 12 | Richfield Target Protest Arrests
+- dev-docs/not_use.md | Feb 10 | Native Activists Prayer Camp
+- dev-docs/not_use.md | Feb 11-13 | DHS Funding Deadline / Government Shutdown Threat
+- dev-docs/not_use.md | Feb 2026 | Multi-State Amicus Brief Supporting Minnesota
+- dev-docs/not_use.md | Feb 11 | Healthcare Impact / Underground Medical Care
+- dev-docs/not_use.md | Feb 11 | Neighbor Camera Network / Community Surveillance
 - dev-docs/not_use.md | Dec 13, 2025 | Loc Vinh Truong Rochester
 - dev-docs/not_use.md | Dec 13-14, 2025 | Willmar December 13-14 HSI Arrests
 - dev-docs/not_use.md | Dec 10-11, 2025 | Rekeya Frazier / Oluwadamilola Bamigboye Plymouth

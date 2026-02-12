@@ -9,11 +9,14 @@ affected_individual_citizenship: n/a
 injuries: none
 trustworthiness: high
 created: 2026-02-09T21:32:32
-last_updated: 2026-02-09T21:32:32
+last_updated: 2026-02-12T10:32:32
 search_tags: children, src:mpr, src:sahan-journal, src:star-tribune, src:wcco, src:other-national, src:other-local, src:fox9
 ---
 
 # Minnesota School Districts and Teachers Union Sue to Restore Schools as Protected Areas
+
+## Updates
+- **Feb 11** - [Chalkbeat follow-up](https://www.chalkbeat.org/2026/02/11/minnesota-superintendents-sue-to-restore-sensitive-locations-protections/) reports Duluth Public Schools spending approximately **$573,000 per month** on emergency planning — 30-50% of administrative staff time diverted to family communications and ICE preparedness. Duluth parents stopped attending adult English classes; some families self-deported. Agents circled roundabout near Fridley school, refused to stop for crossing guards. One teacher lured outside with false claim about vehicle damage. Lewis says fear of retaliation is keeping other districts from joining the lawsuit.
 
 ## Summary
 Fridley Public Schools, Duluth Public Schools, and Education Minnesota (the statewide teachers union representing 84,000 educators) filed a federal lawsuit on February 4, 2026, seeking to bar DHS and ICE from conducting immigration enforcement near public schools. The complaint documents ICE staging operations in school parking lots, following superintendents and school board members, pulling over school transportation vans with students aboard, and causing attendance to drop by as much as one-third in affected districts. The suit argues DHS rescinded decades of "sensitive locations" protections without following required rulemaking procedures under the Administrative Procedure Act.
@@ -28,6 +31,7 @@ Fridley Public Schools, Duluth Public Schools, and Education Minnesota (the stat
 7. Fox 9 (Feb 4, 2026): [Minnesota educators lawsuit ICE enforcement near schools](https://www.fox9.com/news/minnesota-educators-lawsuit-ice-enforcement-near-schools-feb-2026)
 8. Court Complaint (Feb 4, 2026): [Fridley et al. v. Noem et al. — Filed Complaint](https://democracyforward.org/wp-content/uploads/2026/02/Fridley-et-al.-v.-Noem-et-al.-FILED-STAMPED-COMPLAINT-2-4-26.pdf)
 9. CourtListener: [Docket — Fridley Public School District v. Noem](https://www.courtlistener.com/docket/72229130/fridley-public-school-district-independent-school-district-14-v-noem/)
+10. Chalkbeat (Feb 11, 2026): [Congress could keep ICE away from schools. These superintendents aren't waiting to act.](https://www.chalkbeat.org/2026/02/11/minnesota-superintendents-sue-to-restore-sensitive-locations-protections/)
 
 ## Case Details
 

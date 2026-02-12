@@ -1343,6 +1343,48 @@ Stories are excluded when they don't meet the project's core focus:
 - Reason: **Insufficient details** - observer-reported only, no name, no details.
 - Date evaluated: 2026-02-10
 
+**Richfield Target Protest Arrests (Feb 12)**
+- Sources: BMTN, social media
+- Date: February 12, 2026
+- Details: Approximately 20 people arrested at a protest at the Target store in Richfield. Protesters blocked entrances and were arrested by local police.
+- Reason: **Protest-only coverage.** No ICE enforcement action. Local police arrests of protesters at a retail location.
+- Date evaluated: 2026-02-12
+
+**Native Activists Prayer Camp (Feb 10)**
+- Sources: Social media, local outlets
+- Date: February 10, 2026
+- Details: Native/Indigenous activists established a prayer camp near ICE operations in the Twin Cities area as a spiritual and community solidarity action.
+- Reason: **Community response only.** No enforcement incident documented.
+- Date evaluated: 2026-02-12
+
+**DHS Funding Deadline / Government Shutdown Threat (Feb 11-13)**
+- Sources: Multiple national outlets
+- Date: February 11-13, 2026
+- Details: Congressional debate over DHS funding deadline with potential government shutdown implications for ICE operations.
+- Reason: **Federal budget politics.** Not a Minnesota-specific enforcement incident or civil rights violation.
+- Date evaluated: 2026-02-12
+
+**Multi-State Amicus Brief Supporting Minnesota (Feb 2026)**
+- Sources: National outlets
+- Date: February 2026
+- Details: Attorneys general from approximately 20 states filed an amicus brief supporting Minnesota's legal challenges to ICE enforcement tactics.
+- Reason: **Legal/political action.** Multi-state political solidarity, not a specific civil rights incident.
+- Date evaluated: 2026-02-12
+
+**Healthcare Impact / Underground Medical Care (Feb 11)**
+- Sources: Multiple outlets
+- Date: February 11, 2026
+- Details: Reporting on immigrants avoiding healthcare facilities and emergence of underground medical care networks in the Twin Cities due to fear of ICE.
+- Reason: **Trend/feature coverage.** Healthcare impact findings already incorporated into business disruption story via HRW report update (Feb 11).
+- Date evaluated: 2026-02-12
+
+**Neighbor Camera Network / Community Surveillance (Feb 11)**
+- Sources: Local outlets, social media
+- Date: February 11, 2026
+- Details: Reporting on Twin Cities neighborhoods setting up shared camera networks and alert systems to monitor for ICE vehicles.
+- Reason: **Community organizing only.** No enforcement incident documented.
+- Date evaluated: 2026-02-12
+
 ### December 2025
 
 **Loc Vinh Truong Rochester (Dec 13, 2025)**

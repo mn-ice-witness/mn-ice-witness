@@ -9,13 +9,14 @@ affected_individual_citizenship: undocumented
 injuries: serious
 trustworthiness: high
 created: 2026-01-26T15:10:02
-last_updated: 2026-02-07T13:43:22
+last_updated: 2026-02-12T10:32:32
 search_tags: excessive-force, src:sahan-journal, src:mpr, src:ap, src:abc, src:pioneer-press, src:npr, src:wcco, src:bring-me-the-news, src:other-national
 ---
 
 # Immigrant Hospitalized With Skull Fractures After ICE Arrest; Says Beating Was Unprovoked
 
 ## Updates
+- **Feb 10** - DHS issues [new counter-statement via Fox News](https://www.foxnews.com/us/dhs-says-illegal-immigrant-injured-head-after-hitting-concrete-wall-while-fleeing-ice-denies-beating-claims) shifting its account: now claims Castañeda Mondragón attempted to escape, "ran toward a main highway," and "fell and hit his head against a concrete wall" — changing the earlier claim from "brick wall" to "concrete wall" and adding an escape attempt detail. Separately, a [GoFundMe campaign](https://www.gofundme.com/f/alberto-castaneda-mondragon) organized by Andy Dreyfuss has raised over $69,000 from ~1,230 donors toward a $100,000 goal for skull injury bills, memory care, and lost wages. Castañeda Mondragón has no health insurance.
 - **Feb 6** - [AP investigation](https://abcnews.go.com/US/wireStory/immigrant-skull-broken-places-ice-arrest-beating-unprovoked-129942949): Castañeda Mondragón recounts being beaten with a telescoping baton during arrest and again at Ft. Snelling. ICE court filing reveals he overstayed his visa. Minnesota leaders call for investigation.
 - **Jan 31** - [AP investigation](https://apnews.com/article/immigration-enforcement-minneapolis-hospitals-32cd5ca61d495e155d43b7cfd5e563b9) reveals HCMC medical staff believe his injuries are inconsistent with ICE's account. Discharged Jan 27; coworkers have taken him in. Significant memory loss, long recovery ahead.
 - **Jan 24** - Federal Judge Donovan Frank [orders immediate release](https://www.yahoo.com/news/articles/judge-orders-immediate-release-minnesota-014048216.html) from ICE custody. Unclear if ICE has complied.
@@ -39,6 +40,7 @@ Alberto Castañeda Mondragón, a Mexican national who entered the U.S. on a temp
 13. MPR News (Feb 7, 2026): [Minnesota immigrant says ICE arrest beating caused skull fractures](https://www.mprnews.org/story/2026/02/07/minnesota-immigrant-says-ice-arrest-beating-caused-skull-fractures)
 14. CBS Minnesota (Feb 7, 2026): [Immigrant whose skull was broken in eight places during ICE arrest says beating was unprovoked](https://www.cbsnews.com/minnesota/news/immigrant-whose-skull-was-broken-in-eight-places-during-ice-arrest-says-beating-was-unprovoked/)
 15. Bring Me The News (Feb 7, 2026): [Man who suffered skull fractures during arrest by ICE is seeking help for medical bills](https://bringmethenews.com/minnesota-news/man-who-suffered-skull-fractures-during-arrest-by-ice-is-seeking-help-for-medical-bills)
+16. Fox News (Feb 10, 2026): [DHS says illegal immigrant injured head after hitting concrete wall while fleeing ICE](https://www.foxnews.com/us/dhs-says-illegal-immigrant-injured-head-after-hitting-concrete-wall-while-fleeing-ice-denies-beating-claims)
 
 ## Affected Individual(s)
 - **Name:** Alberto Castañeda Mondragón (referred to as "Alberto C.M." in court documents)
