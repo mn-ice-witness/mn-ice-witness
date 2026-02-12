@@ -9,11 +9,14 @@ affected_individual_citizenship: n/a
 injuries: none
 trustworthiness: high
 created: 2026-02-10T14:11:08
-last_updated: 2026-02-10T14:11:08
+last_updated: 2026-02-12T10:12:33
 search_tags: observer-detained, observer-intimidated, us-citizen, chemical-agents, src:fox9, src:wcco, src:mpr, src:intercept, src:other-national
 ---
 
 # "No Evidence of an Assault": 158 Arrested for Impeding ICE, Cases Routinely Dismissed
+
+## Updates
+- **Feb 12** - Minnesota Reformer [investigation](https://minnesotareformer.com/2026/02/12/why-is-ice-seizing-peoples-phones-and-documents/) reveals ICE systematically seizing phones, IDs, cash, and keys from detained observers and immigrants. Attorneys report no warrants issued for seized phones. Federal government expressed interest in Signal group chats used to coordinate observer networks. 76-year-old Marine veteran Gust Johnson's phone was held at Whipple; location tracking showed someone charged it days later. Attorney Kevin Riach: "My suspicion is there are Fourth Amendment violations going on." Jennifer Scarborough called document seizures from immigrants "another form of cruelty" — replacing a work permit costs $500+ and can take a year. DHS did not respond to questions.
 
 ## Summary
 
@@ -27,6 +30,7 @@ Federal authorities arrested 158 people in Minnesota for impeding or assaulting 
 4. The Intercept (Feb 9, 2026): [ICE is disappearing legal observers off Minneapolis streets](https://theintercept.com/2026/02/09/ice-minneapolis-legal-observers-abduction/)
 5. Reuters (Feb 10, 2026): [ICE is cracking down on people who follow them in their cars](https://wmbdradio.com/2026/02/10/ice-is-cracking-down-on-people-who-follow-them-in-their-cars-2/)
 6. The Marshall Project (Feb 4, 2026): [ICE intimidation tactics against protesters and observers](https://www.themarshallproject.org/2026/02/04/ice-immigration-intimidation-tactics-protesters)
+7. Minnesota Reformer (Feb 12, 2026): [Why is ICE seizing people's phones and documents?](https://minnesotareformer.com/2026/02/12/why-is-ice-seizing-peoples-phones-and-documents/)
 
 ## The Numbers
 
@@ -113,6 +117,7 @@ Arrest was not the only tool used against observers. Documented retaliation tact
 - **Home Visits:** Agents followed [observers to their homes](/entry/2026-01-06-levy-observers-followed-home). In Maine, agents visited protesters' homes and told them: "This is a warning. We know where you live."
 - **Global Entry Revocation:** [Nicole Cleland's](/entry/2026-01-10-nicole-cleland-global-entry-revoked) Global Entry and TSA PreCheck were revoked days after she was identified by facial recognition while observing.
 - **Business Audits:** Mischief Toys, a St. Paul shop whose co-owner criticized ICE on ABC News, was targeted with an HSI investigation. Hennepin County Medical Center received a federal audit notice days after publicly criticizing warrantless entries.
+- **Phone and Document Seizure:** A Minnesota Reformer [investigation](https://minnesotareformer.com/2026/02/12/why-is-ice-seizing-peoples-phones-and-documents/) documented agents systematically confiscating phones, driver's licenses, cash, and keys from observers and immigrants. Attorneys said no warrants had been issued for seized phones. Marine veteran Gust Johnson, 76, had his phone held at Whipple after being detained at the Alex Pretti scene; his daughter tracked the phone moving around the building and someone charged it days later. Another observer's iPhone 16 was seized January 21 and held as "evidence." Attorney Joshua Preston noted the government expressed interest in encrypted Signal group chats used to coordinate observer networks. Attorney Kevin Riach called the seizures potential Fourth Amendment violations. Immigration attorney Jennifer Scarborough said document seizures from immigrants were "another form of cruelty" — replacing a work permit costs over $500 and takes up to a year.
 - **Rhetoric Escalation:** Federal officials progressively escalated their language about observers — from "agitators" to "insurrectionists" to, in at least one documented agent interaction, "domestic terrorists."
 
 ## Related Incidents

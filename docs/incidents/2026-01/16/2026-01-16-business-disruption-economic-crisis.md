@@ -9,13 +9,14 @@ affected_individual_citizenship: various
 injuries: none
 trustworthiness: high
 created: 2026-02-06T12:04:35
-last_updated: 2026-02-09T18:04:31
+last_updated: 2026-02-12T10:12:33
 search_tags: src:sahan-journal, src:other-local, src:mpr, src:other-national, src:star-tribune, src:kare11, src:bring-me-the-news, src:pioneer-press, src:kstp
 ---
 
 # Immigrant-Run Businesses Devastated as Operation Metro Surge Empties Cultural Corridors
 
 ## Updates
+- **Feb 11** - [Human Rights Watch](https://www.hrw.org/news/2026/02/11/state-violence-and-community-resistance-in-minnesota) published initial findings from over 100 interviews conducted in Minnesota in early February. Economic findings: businesses lost profits, reduced hours, or closed; church attendance dropped to "25 percent of what it normally is"; people "struggling to buy food and pay rent and other bills, as they no longer feel safe going to work." Healthcare: "alarming rates" of canceled medical appointments, missed procedures and vaccinations, providers stopped en route to work. One provider: "We all carry multiple IDs." Education: In Fridley, approximately 20% of students switched to online learning. East African-American business owner (U.S. citizen, 30+ year resident): "Where do I belong now in this world?" HRW called for Operation Metro Surge to "stop immediately."
 - **Feb 9** - [Star Tribune investigation](https://www.startribune.com/ice-immigration-crackdown-minneapolis-delaying-construction-new-home-builders-real-estate/601575566) reveals home builders falling behind schedule as roofing, drywall, and other construction workers disappear. Key Land Homes and Robert Thomas Homes sent letters to customers citing the crackdown as a cause for delays. Pending Twin Cities home sales dropped 19.2% in January vs. 1.6% nationally. ICE agents showed up "uninvited" to a Lakeville job site and demanded roofers answer questions. New-home closings delayed two weeks to four months.
 
 ## Summary
@@ -34,6 +35,7 @@ Operation Metro Surge triggered an economic crisis across the Twin Cities as imm
 10. Twin Cities Pioneer Press (Jan 28, 2026): [Restaurant industry leaders push for ICE reforms in letters to Congress](https://www.twincities.com/2026/01/28/restaurant-industry-leaders-push-for-ice-reforms-in-letters-to-congress/)
 11. Star Tribune (Feb 9, 2026): [Twin Cities immigration crackdown delays home construction, slows real estate market](https://www.startribune.com/ice-immigration-crackdown-minneapolis-delaying-construction-new-home-builders-real-estate/601575566)
 12. KSTP (Feb 2026): [ICE operations in Minnesota impacting the state's construction industry](https://kstp.com/kstp-news/top-news/ice-operations-in-minnesota-impacting-the-states-construction-industry/)
+13. Human Rights Watch (Feb 11, 2026): [State Violence and Community Resistance in Minnesota](https://www.hrw.org/news/2026/02/11/state-violence-and-community-resistance-in-minnesota)
 
 ## Economic Impact
 

@@ -1117,6 +1117,7 @@ Stories are excluded when they don't meet the project's core focus:
 - Details: Anonymous citizen reported being stopped by ICE in Faribault. Agents allegedly called her by name and mentioned "creating a database" of those documenting federal operations.
 - Reason: **Insufficient details.** Anonymous source, no name, single article. May revisit if more coverage or corroboration emerges.
 - Date evaluated: 2026-02-06
+- **PROMOTED** to incident on 2026-02-12: Combined with Gina Washburn account into `2026-02-09-faribault-observer-database-threat.md` (type: observers). Named corroborating source provided sufficient additional detail.
 
 **Whipple Federal Building One-Month Anniversary Protest (Feb 7)**
 - Sources: Multiple outlets
