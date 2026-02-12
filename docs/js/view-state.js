@@ -16,7 +16,7 @@ const ViewState = {
     sortMode: 'all',
     listSortMode: 'all',
     mediaSortMode: 'all',
-    currentView: 'list',
+    currentView: 'timeline',
 
     init() {
         this.loadViewedState();
