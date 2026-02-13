@@ -8,11 +8,11 @@ President Trump tells NBC he has learned to use "a little bit of a softer touch,
 
 ---
 date: 2026-02-06
-title: Top ICE Lawyer Departs; Judge Orders Right to Counsel at Whipple
+title: The Legal System Buckles
 incident: 2026-02-06-brasel-right-to-counsel-whipple
 source:
 ---
-Jim Stolley, chief ICE counsel in Minnesota (31-year veteran), retires as Operation Metro Surge litigation overwhelms the courts. Judge Nancy Brasel orders the government to ensure detained people can speak with attorneys at the [Whipple Federal Building](/entry/2026-02-06-brasel-right-to-counsel-whipple) by February 12, calling the gap between evidence and government claims "so enormous I don't know how you're going to close it." Two days later, Brasel orders immigration attorneys be allowed inside to visit clients and inspect conditions. Immigration attorneys have filed 691 habeas corpus petitions since January 1 — five times the total for all of 2025.
+The legal infrastructure around Operation Metro Surge [collapsed from both ends](/entry/2026-02-06-brasel-right-to-counsel-whipple). In Minnesota, ICE's chief counsel retired after 31 years and a government attorney told a judge "the system sucks, this job sucks" before being removed. Judge Brasel ordered the government to ensure detainees could speak with attorneys at the Whipple Building, calling the gap between evidence and government claims "so enormous I don't know how you're going to close it." The same day, the Fifth Circuit upheld mandatory detention without bond for anyone who entered the U.S. illegally — upending 30 years of precedent in the jurisdictions where Minnesota detainees were being sent. Over 300 federal judges had ruled the policy illegal; two said yes. Immigration attorneys filed more than 840 habeas corpus petitions in Minnesota by mid-February, with the matter expected to reach the Supreme Court.
 
 ---
 date: 2026-02-06

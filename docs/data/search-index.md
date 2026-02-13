@@ -33,7 +33,7 @@ Published incidents visible on the main site.
 - incidents/2026-02/07/2026-02-07-observers-one-warning-abductions.md | 2026-02-07 | Minneapolis | observers | Three Legal Observers Arrested in 30 Minutes as ICE Implements "One Warning" Policy
 - incidents/2026-02/07/2026-02-07-wilmer-andrade-work-permit-targeted.md | 2026-02-07 | Minneapolis | immigrants | ICE Targets Man with Valid Work Permit and Pending Crime Victim Visa
 - incidents/2026-02/06/2026-02-06-nick-benson-deportation-flights-msp.md | 2026-02-06 | Minneapolis | background | Volunteer Documents 42 Deportation Flights in January, Estimates 2,339 People Flown From Minnesota
-- incidents/2026-02/06/2026-02-06-brasel-right-to-counsel-whipple.md | 2026-02-06 | Minneapolis | background | Minnesota Courts Buckle as Immigration Litigation Overwhelms Federal System; Top ICE Lawyer Departs
+- incidents/2026-02/06/2026-02-06-brasel-right-to-counsel-whipple.md | 2026-02-06 | Minneapolis | background | Minnesota's Legal System Buckles Under Weight of Operation Metro Surge
 - incidents/2026-02/06/2026-02-06-dhs-response-agitators-shielded.md | 2026-02-06 | Minneapolis | response | DHS Response: "Agitators" Shield Child Rapists, Sex Offenders, and Gang Members From Arrest
 - incidents/2026-02/06/2026-02-06-georgetown-park-pepper-spray.md | 2026-02-06 | Bloomington | observers | Federal Agents Pepper Spray Relatives During Arrest at Georgetown Park Apartments
 - incidents/2026-02/06/2026-02-06-ice-facial-recognition-surveillance-program.md | 2026-02-06 | Minneapolis | background | ICE Deploys Facial Recognition Surveillance Program Against Citizen Observers in Minnesota

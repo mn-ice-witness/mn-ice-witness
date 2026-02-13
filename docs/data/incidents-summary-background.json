@@ -187,9 +187,9 @@
     },
     {
       "filePath": "incidents/2026-02/06/2026-02-06-brasel-right-to-counsel-whipple.md",
-      "title": "Minnesota Courts Buckle as Immigration Litigation Overwhelms Federal System; Top ICE Lawyer Departs",
+      "title": "Minnesota's Legal System Buckles Under Weight of Operation Metro Surge",
       "summary": "The legal infrastructure around Operation Metro Surge began visibly collapsing in early February 2026. Jim Stolley, the chief counsel for ICE in Minnesota and a 31-year veteran of the agency, retired \u2014 his government email generating an automated reply that he had \"retired from public service.\" His departure came days after ICE attorney Julie T. Le, on detail to the U.S. Attorney's Office, told U.S. District Judge Jerry Blackwell that the flood of cases had become unmanageable: \"The system sucks. This job sucks.\" She was removed from her detail the next day. U.S. Attorney Daniel Rosen reported that 427 immigration lawsuits were filed in January alone, forcing his office to set aside much of its conventional work, with his civil division understaffed by roughly 50 percent. On February 6, U.S. District Judge Nancy Brasel gave the government until February 12 to reach agreement on ensuring the right to counsel for detainees at the Bishop Henry Whipple Federal Building, calling the gap between evidence and government claims \"so enormous I don't know how you're going to close it.\" Immigration attorneys had filed 691 habeas corpus petitions since January 1 \u2014 five times the total for all of 2025.",
-      "latestUpdate": "Judge Brasel [issued a 41-page emergency restraining order](https://www.startribune.com/judge-rules-whipple-detainees-must-have-access-to-attorneys-private-calls/601581387) requiring DHS to provide detainees with free, private, unmonitored phone access within one hour of arrival, attorney visitation seven days per week in private rooms, written notice of legal services in five languages, and a 72-hour moratorium on out-of-state transfers. The order is temporary, effective until Feb 26.",
+      "latestUpdate": "Star Tribune [reports](https://www.startribune.com/court-ruling-means-minnesota-immigrants-sent-to-texas-may-have-little-chance-of-returning/601580036) that the Fifth Circuit's Feb 6 mandatory detention ruling means Minnesota immigrants sent to Texas won't be released on bond. Attorneys David Wilson and a nationwide group are requesting a rehearing before the full Fifth Circuit. Immigration attorneys have now filed more than 840 habeas corpus petitions in Minnesota in 2026. Flight trackers estimate 3,000 immigrants have been sent out of state since Jan 1.",
       "date": "2026-02-06",
       "time": "unknown",
       "location": "Bishop Henry Whipple Federal Building",
@@ -200,7 +200,7 @@
       "injuries": "none",
       "trustworthiness": "high",
       "created": "2026-02-07T14:24:24",
-      "lastUpdated": "2026-02-12T22:13:23",
+      "lastUpdated": "2026-02-13T13:43:32",
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
@@ -216,6 +216,7 @@
         "src:cnn",
         "src:npr",
         "src:bring-me-the-news",
+        "src:sahan-journal",
         "src:other-national",
         "src:other-local"
       ],

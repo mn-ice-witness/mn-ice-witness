@@ -9,13 +9,14 @@ affected_individual_citizenship: various
 injuries: none
 trustworthiness: high
 created: 2026-02-07T14:24:24
-last_updated: 2026-02-12T22:13:23
-search_tags: src:ap, src:kstp, src:wcco, src:fox9, src:abc, src:star-tribune, src:mn-reformer, src:nyt, src:nbc, src:cnn, src:npr, src:bring-me-the-news, src:other-national, src:other-local
+last_updated: 2026-02-13T13:43:32
+search_tags: src:ap, src:kstp, src:wcco, src:fox9, src:abc, src:star-tribune, src:mn-reformer, src:nyt, src:nbc, src:cnn, src:npr, src:bring-me-the-news, src:sahan-journal, src:other-national, src:other-local
 ---
 
-# Minnesota Courts Buckle as Immigration Litigation Overwhelms Federal System; Top ICE Lawyer Departs
+# Minnesota's Legal System Buckles Under Weight of Operation Metro Surge
 
 ## Updates
+- **Feb 13** - Star Tribune [reports](https://www.startribune.com/court-ruling-means-minnesota-immigrants-sent-to-texas-may-have-little-chance-of-returning/601580036) that the Fifth Circuit's Feb 6 mandatory detention ruling means Minnesota immigrants sent to Texas won't be released on bond. Attorneys David Wilson and a nationwide group are requesting a rehearing before the full Fifth Circuit. Immigration attorneys have now filed more than 840 habeas corpus petitions in Minnesota in 2026. Flight trackers estimate 3,000 immigrants have been sent out of state since Jan 1.
 - **Feb 12** - Judge Brasel [issued a 41-page emergency restraining order](https://www.startribune.com/judge-rules-whipple-detainees-must-have-access-to-attorneys-private-calls/601581387) requiring DHS to provide detainees with free, private, unmonitored phone access within one hour of arrival, attorney visitation seven days per week in private rooms, written notice of legal services in five languages, and a 72-hour moratorium on out-of-state transfers. The order is temporary, effective until Feb 26.
 - **Feb 9** - Attorneys Kim Boche and Hanne Sandison of the Advocates for Human Rights [conducted a court-authorized inspection of Whipple](https://www.fox9.com/news/whipple-building-visit-findings-immigration-attorneys-feb-20-2026), documenting approximately 40 detainees with no blankets, pillows, or cots, piles of trash including rotten food, and a confusing phone system with unclear instructions for contacting legal representatives. DHS staff cut the tour short.
 - **Feb 8** - Judge Brasel [ordered immigration attorneys be allowed inside](https://www.fox9.com/news/immigration-advocates-set-inspect-ice-headquarters-whipple-building-monday) the Whipple Building on Monday to visit clients and inspect conditions. The government argued detainees have no right to "unfettered" attorney access; attorneys requested permission to speak with detainees and bring recording equipment, which officials denied.
@@ -55,6 +56,11 @@ The legal infrastructure around Operation Metro Surge began visibly collapsing i
 28. AP (Feb 12, 2026): [A judge orders DHS to give Minnesota detainees swift access to lawyers before transfers](https://wtop.com/national/2026/02/a-judge-orders-dhs-to-give-minnesota-detainees-swift-access-to-lawyers-before-transfers/)
 29. FOX 9 (Feb 10, 2026): [Immigration attorneys detail Whipple Building visit in court filings](https://www.fox9.com/news/whipple-building-visit-findings-immigration-attorneys-feb-20-2026)
 30. CBS Minnesota (Feb 11, 2026): [Attorney who visited ICE holding facility says detainees need easier access to legal help](https://www.cbsnews.com/minnesota/news/whipple-building-conditions-lawsuit-inspection/)
+31. Star Tribune (Feb 13, 2026): [Court ruling means Minnesota immigrants sent to Texas may have little chance of returning](https://www.startribune.com/court-ruling-means-minnesota-immigrants-sent-to-texas-may-have-little-chance-of-returning/601580036)
+32. NBC News (Feb 9, 2026): [US appeals court upholds Trump administration's immigration detention policy](https://www.nbcnews.com/politics/immigration/us-appeals-court-upholds-trump-administrations-immigration-detention-p-rcna257883)
+33. CNN (Feb 6, 2026): [Appeals court greenlights Trump admin policy of detaining undocumented immigrants without opportunity to seek release](https://www.cnn.com/2026/02/06/politics/appeals-court-trump-immigration-detention-policy)
+34. CBS News (Feb 6, 2026): [Appeals court endorses Trump policy of holding many ICE detainees without bond hearings](https://www.cbsnews.com/news/appeals-court-endorses-trump-policy-of-holding-many-ice-detainees-without-bond-hearings/)
+35. Sahan Journal (Feb 2026): [Federal ruling allows immigrants to be held indefinitely in Texas](https://sahanjournal.com/immigration/texas-fifth-circuit-ruling-immigrants-indefinite-detention/)
 
 ## Related Incidents
 - [Judge Orders ICE Director to Appear for Contempt; 96 Court Orders Violated](#2026-01-27-tobay-robles-lyons-contempt)
@@ -243,13 +249,35 @@ Minnesota Senators Klobuchar and Smith stated that due process and counsel right
 ## Legal Context
 
 ### Habeas Corpus Filings
-Since January 1, immigration attorneys in Minnesota have filed 691 habeas corpus petitions seeking to have their clients released, compared to 128 total filings over the entire year of 2025 -- a five-fold increase.
+Since January 1, immigration attorneys in Minnesota have filed more than 840 habeas corpus petitions seeking to have their clients released, compared to 128 total filings over the entire year of 2025. Federal courts have been overwhelmed with wrongful detention petitions in recent weeks.
 
 ### ICE Detention Standards
 ICE's own National Detention Standards require legal visitation seven days per week for a minimum of eight hours on business days and four hours on weekends.
 
 ### Related Legal Proceedings
 Multiple federal judges have issued orders in related cases requiring DHS to return detainees who were transferred out of state in violation of court orders. The pattern of "repeated violations of court orders" has been documented across multiple cases in the District of Minnesota.
+
+### Fifth Circuit Upholds Mandatory Detention Without Bond
+On February 6, the Federal Court of Appeals for the Fifth Circuit in New Orleans upheld the Trump administration's policy that anyone who entered the U.S. without permission is not eligible for bond, in a 2-1 ruling. The decision covers Texas, Louisiana, and Mississippi — states that are home to some of ICE's largest detention facilities, including Camp East Montana at Fort Bliss in El Paso, where the vast majority of Minnesota detainees are sent.
+
+Judge Edith Jones, appointed by President Ronald Reagan, wrote the majority opinion, agreeing with the government's argument that past practice "has little to do with the statute's text." The majority held that noncitizens in the interior of the country are "seeking admission" and thus not entitled to bond hearings by statute. Judge Kyle Duncan, a Trump appointee, joined the opinion. Judge Dana Douglas, a Biden appointee, dissented, warning the ruling could result in mandatory detention without bond for two million noncitizens.
+
+The decision upends 30 years of legal precedent of allowing immigrants who were not deemed dangerous or a flight risk to remain free while their cases worked through court. Entering the U.S. without permission is a crime, but mandatory detention was previously reserved for immigrants caught crossing the border. That changed in July 2025 when immigration judges started denying bond hearings for anyone who had entered the country illegally, even if they had been living in the U.S. for years. The new policy helped drive nationwide detention numbers to 70,000 by the end of January 2026.
+
+Over 300 federal judges nationally have ruled that the administration's mandatory detention policy is illegal, with only a handful siding with the administration. The Fifth Circuit ruling was the first time an appeals court upheld the policy.
+
+Julia Decker, policy director for the Immigrant Law Center of Minnesota, said the administration's policies increasingly make it difficult for immigrants to pursue their legal cases. "We are really at a disadvantage when people are sent out of state and are in another jurisdiction," Decker said. "The odds stack up."
+
+David Wilson, a Minneapolis attorney who is part of a nationwide group challenging mandatory detention, said they are requesting a "rehearing before the full Fifth Circuit because the position taken in that case is inconsistent with almost the entirety of the federal judicial system." Attorneys also worry a similar legal action is headed to the Eighth Circuit, which includes Minnesota and six other states. They expect the matter to eventually reach the U.S. Supreme Court.
+
+### Texas Detention Conditions
+Thousands of immigrants detained during Operation Metro Surge have been sent to Texas detention facilities, primarily to El Paso. Flight trackers estimate 3,000 immigrants have been sent out of state since January 1. Nick Benson, an activist and professional flight tracker who monitors chartered jets leaving MSP, said detainees are "pretty much all going to El Paso."
+
+A young man from the Twin Cities in the process of applying for asylum told the Star Tribune he was held at a Texas detention facility in unsanitary conditions with no privacy to shower or use the bathroom. More than 60 people were crammed into a cell, toilets routinely overflowed, and he had to sleep curled up on the floor without a blanket. "The smell was intolerable," he said. "I felt embarrassed being there because of the way we were treated." Guards ignored detainees' requests for medical care.
+
+In a February 10 court filing, attorneys Kim Boche and Hanne Sandison of the Advocates for Human Rights said they visited the Whipple Building and saw a room labeled "flight" full of detainees heading to Texas. Boche said several detainees told her they had not been able to talk with an attorney.
+
+Three people, including one from Minnesota — [Victor Manuel Díaz](/entry/2026-01-14-victor-diaz-custody-death), arrested in Coon Rapids — have died in Texas detention facilities since December.
 
 ## Detainee Accounts
 
@@ -272,4 +300,4 @@ Reported to Rep. Morrison that they were sleeping on cold floors. "They're not t
 "I saw Black and brown bodies shackled together, chained together, being marched by yelling agents outdoors." Noted agents refer to detainees as "bodies."
 
 ## Editorial Assessment
-**HIGH** - New York Times reporting on Stolley departure with named sources including former immigration judge Ryan Wood and law professor Linus Chan. DHS confirmation of retirement via spokeswoman Tricia McLaughlin. Julie Le hearing covered by NBC News, CNN, CBS Minnesota, ABC News, FOX 9, and NPR with direct transcript quotes. AP/national wire coverage of the Brasel hearing. Courthouse News Service court reporting. Star Tribune investigation of attorney exodus. Class action lawsuit filed with extensive documentation (Democracy Forward). Multiple independent sources documenting Whipple conditions (Star Tribune, CBS Minnesota, FOX 9, KSTP, MinnPost, Minnesota Reformer, Racket). Congressional firsthand observations. DHS official responses included.
+**HIGH** - New York Times reporting on Stolley departure with named sources including former immigration judge Ryan Wood and law professor Linus Chan. DHS confirmation of retirement via spokeswoman Tricia McLaughlin. Julie Le hearing covered by NBC News, CNN, CBS Minnesota, ABC News, FOX 9, and NPR with direct transcript quotes. AP/national wire coverage of the Brasel hearing. Courthouse News Service court reporting. Star Tribune investigation of attorney exodus. Class action lawsuit filed with extensive documentation (Democracy Forward). Multiple independent sources documenting Whipple conditions (Star Tribune, CBS Minnesota, FOX 9, KSTP, MinnPost, Minnesota Reformer, Racket). Congressional firsthand observations. DHS official responses included. Fifth Circuit ruling covered by NBC News, CNN, CBS News, Sahan Journal, and Star Tribune. Named Minnesota attorneys (David Wilson, Julia Decker) quoted on impact.
