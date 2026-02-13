@@ -9,13 +9,14 @@ affected_individual_citizenship: asylum-seeker
 injuries: serious
 trustworthiness: high
 created: 2026-02-07T14:12:42
-last_updated: 2026-02-09T21:32:32
-search_tags: legal-resident, children, shooting, excessive-force, chemical-agents, family-separation, warrantless-entry, src:mpr, src:star-tribune, src:sahan-journal, src:wcco, src:other-national, src:mn-reformer, src:fox9
+last_updated: 2026-02-12T22:14:54
+search_tags: legal-resident, children, shooting, excessive-force, chemical-agents, family-separation, warrantless-entry, src:mpr, src:star-tribune, src:sahan-journal, src:wcco, src:other-national, src:mn-reformer, src:fox9, src:cbs-news
 ---
 
 # ICE Agent Shoots Man Through Closed Door in North Minneapolis; Bullet Enters Apartment with Four Children
 
 ## Updates
+- **Feb 12** - DOJ [moves to drop all charges with prejudice](https://www.startribune.com/doj-moves-to-drop-charges-against-men-arrested-after-north-minneapolis-ice-shooting/601581378) against Sosa-Celis and Aljorna, citing "newly discovered evidence" that is "materially inconsistent" with the complaint affidavit. [Video surveillance evidence](https://www.cbsnews.com/news/doj-drops-charges-assaulting-ice-officers-inconsistent-evidence/) did not back up the agent's claims of being assaulted. Attorney Brian Clark called the charges "based on lies by an ICE agent who recklessly shot into their home through a closed door." Family [demands the agent be identified and criminally charged](https://www.fox9.com/news/north-minneapolis-ice-shooting-doj-dismisses-charges-venezuelan-men-feb-12-2026).
 - **Feb 5** - Federal judge [halts deportation of Valentina Moreno](https://www.fox9.com/news/judge-halts-deportation-ice-shooting-witness-minneapolis), Aljorna's partner and key witness. Court records state Moreno can testify Aljorna never hit the ICE agent. Government had accelerated her immigration hearing to Friday, six months earlier than scheduled. Judge warned of consequences if Moreno is deported.
 - **Feb 5** - Partner Indriany Mendoza Camacho [speaks to MPR News](https://www.mprnews.org/story/2026/02/05/indriany-mendoza-camacho-speaks-out-about-ice-shooting-her-partner-julio-sosacelis), disputing government's account. Says Sosa-Celis never grabbed anything to hit the officer. Agent shot through the closed front door; bullet traveled through wall into downstairs apartment near a child's playpen where four children and an adult were present.
 - **Feb 5** - Sosa-Celis and Aljorna [re-detained by ICE at courthouse](https://minnesotareformer.com/2026/02/05/two-men-charged-with-assaulting-agents-in-ice-shooting-released-by-a-judge-re-detained-by-ice/) despite judge ordering their release.
@@ -36,6 +37,9 @@ On January 14, 2026, an ICE agent shot Julio Cesar Sosa-Celis, 24, in the leg du
 9. Minnesota Reformer (Feb 5, 2026): [Two men charged with assaulting agents in ICE shooting released by a judge, re-detained by ICE](https://minnesotareformer.com/2026/02/05/two-men-charged-with-assaulting-agents-in-ice-shooting-released-by-a-judge-re-detained-by-ice/)
 10. Star Tribune (Feb 5, 2026): [Two Venezuelans, charged with assaulting agents in ICE shooting, re-detained despite judge's orders](https://www.startribune.com/mn-venezuelans-released-ice-shooting/601576035)
 11. Fox 9 (Feb 5, 2026): [Judge halts deportation of ICE shooting witness in Minneapolis](https://www.fox9.com/news/judge-halts-deportation-ice-shooting-witness-minneapolis)
+12. Star Tribune (Feb 12, 2026): [DOJ moves to drop charges against men arrested after north Minneapolis ICE shooting](https://www.startribune.com/doj-moves-to-drop-charges-against-men-arrested-after-north-minneapolis-ice-shooting/601581378)
+13. CBS News (Feb 12, 2026): [DOJ drops charges against men accused of assaulting ICE officers, citing "inconsistent" evidence](https://www.cbsnews.com/news/doj-drops-charges-assaulting-ice-officers-inconsistent-evidence/)
+14. Fox 9 (Feb 12, 2026): [North Minneapolis ICE shooting: DOJ dismisses charges against Venezuelan men](https://www.fox9.com/news/north-minneapolis-ice-shooting-doj-dismisses-charges-venezuelan-men-feb-12-2026)
 
 ## Related Incidents
 - [Six Children Hospitalized After ICE Deploys Flashbangs and Tear Gas on Family SUV](#2026-01-14-shawn-jackson-children-tear-gas) - Same day, connected protest response.
@@ -48,14 +52,14 @@ On January 14, 2026, an ICE agent shot Julio Cesar Sosa-Celis, 24, in the leg du
 - **Status:** Granted Temporary Protected Status in 2024; seeking U Visa
 - **Entry:** Entered U.S. in 2023
 - **Injuries:** Shot in right thigh (bullet grazed leg)
-- **Current status:** In ICE custody awaiting trial on charges of assaulting a federal officer
+- **Current status:** Criminal charges dismissed with prejudice Feb 12; remains in ICE custody
 
 ### Alfredo Aljorna
 - **Age:** 25
 - **Nationality:** Venezuelan
 - **Status:** Granted Temporary Protected Status in 2024; seeking U Visa
 - **Entry:** Entered U.S. in 2021
-- **Current status:** In ICE custody awaiting trial on charges of assaulting a federal officer
+- **Current status:** Criminal charges dismissed with prejudice Feb 12; remains in ICE custody
 
 ### Indriany Mendoza Camacho (partner of Sosa-Celis, eyewitness)
 - **Age:** 19
@@ -86,6 +90,7 @@ On January 14, 2026, an ICE agent shot Julio Cesar Sosa-Celis, 24, in the leg du
 - **Jan 28** - Mendoza Camacho released, returns home to her son.
 - **Feb 3-5** - Both men re-detained by ICE at courthouse despite judge's release order.
 - **Feb 5** - Federal judge halts deportation of Valentina Moreno, citing her role as a material witness. Government had accelerated her immigration hearing six months ahead of schedule. Judge extends deportation protection to all witnesses including both partners.
+- **Feb 12** - U.S. Attorney Daniel Rosen files motion to dismiss all criminal charges with prejudice, citing "newly discovered evidence" materially inconsistent with the complaint affidavit. Video surveillance evidence contradicted the agent's claims of being assaulted. Attorney Frederick Goetz calls the dismissal "exceedingly rare."
 
 ## Affected Individual Statement
 
