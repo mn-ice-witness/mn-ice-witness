@@ -1190,7 +1190,9 @@
         "src:cnn",
         "src:other-local",
         "src:other-national",
-        "src:kstp"
+        "src:kstp",
+        "src:mn-reformer",
+        "src:sahan-journal"
       ],
       "hasLocalMedia": false,
       "localMediaType": null,
@@ -1818,7 +1820,8 @@
         "src:nbc",
         "src:mpr",
         "src:other-national",
-        "src:mother-jones"
+        "src:mother-jones",
+        "src:mn-reformer"
       ],
       "hasLocalMedia": true,
       "localMediaType": "video",

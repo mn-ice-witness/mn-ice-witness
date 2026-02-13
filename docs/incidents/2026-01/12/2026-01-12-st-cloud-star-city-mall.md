@@ -10,7 +10,7 @@ injuries: minor
 trustworthiness: high
 created: 2026-01-14T08:38:51
 last_updated: 2026-01-14T08:38:51
-search_tags: observer-detained, chemical-agents, excessive-force, src:star-tribune, src:wcco, src:cnn, src:other-local, src:other-national, src:kstp
+search_tags: observer-detained, chemical-agents, excessive-force, src:star-tribune, src:wcco, src:cnn, src:other-local, src:other-national, src:kstp, src:mn-reformer, src:sahan-journal
 ---
 
 # 50+ ICE Agents Swarm Somali Mall in St. Cloud; Chemical Irritants Used on Protesters
@@ -28,6 +28,8 @@ More than 50 ICE agents descended on Star City Mall, a strip mall with numerous 
 7. West Central Tribune (Jan 2026): [St. Cloud protesters arrested during ICE operation speak out](https://www.wctrib.com/news/minnesota/st-cloud-protesters-arrested-during-ice-operation-speak-out)
 8. The Advocate (Jan 2026): [Queer transgender woman recounts abuse, jailing by ICE](https://www.advocate.com/news/queer-transgender-woman-ice-abuse)
 9. KSTP (Jan 2026): [ICE enforcement impacting Minnesota communities outside Twin Cities](https://kstp.com/kstp-news/top-news/ice-enforcement-impacting-minnesota-communities-outside-twin-cities/)
+10. Sahan Journal (Jan 20, 2026): [St. Cloud residents report surge in ICE activity targeting Somali and Latino communities](https://sahanjournal.com/immigration/ice-st-cloud-minnesota-somali-mall/)
+11. Minnesota Reformer (Jan 20, 2026): [ICE terrorized a mall in St. Cloud, too](https://minnesotareformer.com/2026/01/20/ice-terrorized-a-mall-in-st-cloud-too/)
 
 ## What Happened
 

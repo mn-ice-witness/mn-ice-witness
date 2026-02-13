@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-09T21:32:32
 last_updated: 2026-02-09T21:32:32
-search_tags: src:npr, src:mpr, src:star-tribune, src:other-national, src:other-local
+search_tags: src:npr, src:mpr, src:star-tribune, src:other-national, src:other-local, src:sahan-journal
 ---
 
 # Volunteer Documents 42 Deportation Flights in January, Estimates 2,339 People Flown From Minnesota
@@ -24,6 +24,7 @@ Nick Benson, a 41-year-old Burnsville man who works in commercial flight data an
 3. MPR News (Jan 14, 2026): [ICE detainee flights leaving MSP increase as surge continues](https://www.mprnews.org/story/2026/01/14/ice-detainee-flights-leaving-msp-increase-as-surge-continues)
 4. Star Tribune (Jan 2026): [Under the radar: How charter airlines fly ICE deportees at MSP](https://www.startribune.com/under-the-radar-how-charter-airlines-fly-ice-deportees-at-msp/601540968)
 5. Hometown Source / Sun Thisweek (Jan 2026): [Observer: ICE detainee flights increase at MSP](https://www.hometownsource.com/sun_thisweek/free/observer-ice-detainee-flights-increase-at-msp-as-enforcement-action-ramps-up/article_75e941f0-d953-415e-9a03-41a7b22a392d.html)
+6. Sahan Journal (Feb 2026): [ICE enforcement prompts relocation of detainees outside Minnesota, worrying attorneys about access](https://sahanjournal.com/immigration/ice-enforcement-prompts-relocation-of-detainees-outside-of-minnesota-worrying-attorneys-about-access-rights/)
 
 ## By the Numbers
 

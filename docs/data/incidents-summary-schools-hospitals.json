@@ -18,7 +18,13 @@
       "lastUpdated": "2026-02-12T14:36:06",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "src:npr",
+        "src:mpr",
+        "src:pbs",
+        "src:other-national",
+        "src:sahan-journal"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -853,7 +859,8 @@
       "searchTags": [
         "src:kare11",
         "src:mn-reformer",
-        "src:bring-me-the-news"
+        "src:bring-me-the-news",
+        "src:sahan-journal"
       ],
       "hasLocalMedia": false,
       "localMediaType": null,
@@ -965,7 +972,8 @@
         "src:kstp",
         "src:sahan-journal",
         "src:nbc",
-        "src:other-national"
+        "src:other-national",
+        "src:mn-reformer"
       ],
       "hasLocalMedia": true,
       "localMediaType": "video",

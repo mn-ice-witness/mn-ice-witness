@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-14T08:27:46
 last_updated: 2026-01-18T14:57:37
-search_tags: excessive-force, warrantless-entry, children, family-separation, src:fox9, src:kstp, src:mpr, src:abc, src:other-local, src:other-national, src:pioneer-press, src:wcco
+search_tags: excessive-force, warrantless-entry, children, family-separation, src:fox9, src:kstp, src:mpr, src:abc, src:other-local, src:other-national, src:pioneer-press, src:wcco, src:sahan-journal
 ---
 
 # Liberian Man Arrested With Battering Ram, No Judicial Warrant
@@ -39,6 +39,8 @@ Garrison Gibson, a 38-year-old Liberian citizen who has lived in the U.S. for 17
 12. CBS Minnesota (Jan 17, 2026): [1 day after judge orders release, agents re-arrest him at immigration check-in](https://www.cbsnews.com/minnesota/news/judge-orders-release-of-liberian-man-arrested-by-ice-in-minneapolis-home-invasion/)
 13. MPR News (Jan 18, 2026): [Garrison Gibson says ICE agents took 'trophy' photos after Minneapolis arrest](https://www.mprnews.org/story/2026/01/18/garrison-gibson-says-ice-agents-took-trophy-photos-locked-in-overcrowded-cell)
 14. MPR News video (Jan 18, 2026): [Garrison Gibson full press conference](https://www.youtube.com/watch?v=UVYy57H30DU)
+15. Sahan Journal (Jan 16, 2026): [Minnesota Liberian immigrant released, then re-detained by ICE](https://sahanjournal.com/immigration/minnesota-liberian-immigrant-released-redetained/)
+16. Sahan Journal (Jan 13, 2026): [AP: Minneapolis man arrested in immigration raid was regularly checking in](https://sahanjournal.com/news-partners/ap-us-immigration-enforcement-minneapolis-arrest/)
 
 ## Affected Individual(s)
 - **Name:** Garrison Gibson

@@ -10,7 +10,7 @@ injuries: minor
 trustworthiness: high
 created: 2026-01-14T08:01:12
 last_updated: 2026-01-14T08:01:12
-search_tags: us-citizen, children, excessive-force, chemical-agents, src:star-tribune, src:mpr, src:kare11, src:wcco, src:kstp, src:sahan-journal, src:nbc, src:other-national
+search_tags: us-citizen, children, excessive-force, chemical-agents, src:star-tribune, src:mpr, src:kare11, src:wcco, src:kstp, src:sahan-journal, src:nbc, src:other-national, src:mn-reformer
 ---
 
 # Border Patrol Agents at Roosevelt High School, Staffer Detained
@@ -31,6 +31,7 @@ Federal agents descended on Roosevelt High School during dismissal, tackled seve
 10. Sahan Journal (Jan 8, 2026): [Border Patrol detains Roosevelt High staffer](https://sahanjournal.com/education/border-patrol-detains-minneapolis-roosevelt-high-staffer/)
 11. KARE 11 (Jan 8, 2026): [Witnesses say agents arrest staff, tear gas students](https://www.kare11.com/article/news/local/ice-agents-flood-into-roosevelt-high-school-in-minneapolis/89-e0d004b0-bb3d-41b7-949c-e4867f97f7c9)
 12. CBS Minnesota (Jan 8, 2026): [Feds descend on Roosevelt High School](https://www.cbsnews.com/minnesota/news/roosevelt-high-school-federal-clash-mps-cancels-classes/)
+13. Minnesota Reformer (Jan 8, 2026): [Minneapolis schools cancel class following ICE shooting, separate confrontation on campus](https://minnesotareformer.com/2026/01/08/minneapolis-schools-cancel-class-following-ice-shooting/)
 
 ## Affected Individual(s)
 - **Name:** Not publicly disclosed

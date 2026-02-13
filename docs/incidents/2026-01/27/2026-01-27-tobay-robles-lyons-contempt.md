@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-27T08:47:47
 last_updated: 2026-02-02T22:24:26
-search_tags: src:nyt, src:nbc, src:wapo, src:cbs, src:abc, src:pbs, src:other-national, src:kare11
+search_tags: src:nyt, src:nbc, src:wapo, src:cbs, src:abc, src:pbs, src:other-national, src:kare11, src:mn-reformer, src:sahan-journal
 ---
 
 # Ecuadorean Man Held 3 Weeks Despite Court Order; Judge Orders ICE Director to Appear for Contempt
@@ -36,6 +36,8 @@ Federal Judge Patrick Schiltz ordered ICE's acting director Todd Lyons to person
 8. Philadelphia Inquirer (Jan 27, 2026): [ICE chief must appear in court to explain why detainees have been denied due process](https://www.inquirer.com/news/nation-world/ice-immigration-enforcement-minnesota-due-process-20260127.html)
 9. KARE 11 (Jan 28, 2026): [Judge says ICE has violated nearly 100 court orders this month](https://www.kare11.com/article/news/local/ice-in-minnesota/judge-ice-violated-nearly-100-court-orders-this-month/89-3e95803b-952f-4383-b09d-fc289cd9c21b)
 10. CNBC (Jan 28, 2026): ['ICE is not a law unto itself,' Minnesota judge says](https://www.cnbc.com/2026/01/28/ice-immigrant-minnesota-contempt-released.html)
+11. Sahan Journal (Jan 2026): [Judge demands head of ICE appear at Minnesota court hearing](https://sahanjournal.com/immigration/judge-orders-ice-leader-todd-lyons-appear-court-minnesota/)
+12. Minnesota Reformer (Jan 27, 2026): [ICE releases detainee following slapdown from federal judge](https://minnesotareformer.com/2026/01/27/ice-releases-detainee-following-slapdown-from-federal-judge/)
 
 ## Affected Individual(s)
 

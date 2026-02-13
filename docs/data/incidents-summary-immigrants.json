@@ -500,7 +500,9 @@
         "src:abc",
         "src:pbs",
         "src:other-national",
-        "src:kare11"
+        "src:kare11",
+        "src:mn-reformer",
+        "src:sahan-journal"
       ],
       "hasLocalMedia": false,
       "localMediaType": null,
@@ -1563,7 +1565,9 @@
         "src:cnn",
         "src:other-local",
         "src:other-national",
-        "src:kstp"
+        "src:kstp",
+        "src:mn-reformer",
+        "src:sahan-journal"
       ],
       "hasLocalMedia": false,
       "localMediaType": null,
@@ -1632,7 +1636,8 @@
         "src:other-local",
         "src:other-national",
         "src:pioneer-press",
-        "src:wcco"
+        "src:wcco",
+        "src:sahan-journal"
       ],
       "hasLocalMedia": true,
       "localMediaType": "video",

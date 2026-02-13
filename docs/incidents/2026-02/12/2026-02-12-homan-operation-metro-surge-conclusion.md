@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-12T09:32:12
 last_updated: 2026-02-12T09:32:12
-search_tags: src:fox9, src:kstp, src:cbs, src:nbc, src:pbs, src:pioneer-press, src:kare11
+search_tags: src:fox9, src:kstp, src:cbs, src:nbc, src:pbs, src:pioneer-press, src:kare11, src:sahan-journal
 ---
 
 # Homan Declares Operation Metro Surge Over
@@ -30,6 +30,8 @@ At a press conference at the Whipple Federal Building at Fort Snelling, border c
 9. CBS Minnesota (Feb 12, 2026): [Minnesota officials react as feds announce ICE surge is ending](https://www.cbsnews.com/minnesota/live-updates/minnesota-ice-surge-ending-feds-say/)
 10. ABC / National News Desk (Feb 12, 2026): [Good's family 'cautiously optimistic' about end of immigration crackdown in Minnesota](https://abc3340.com/news/nation-world/renee-nicole-goods-family-cautiously-optimistic-about-end-of-immigration-crackdown-in-minnesota-minneapolis-operation-metro-surge-illegal-immigrants-ice-cbp-federal-agents-president-donald-trump-alex-pretti-shot-killed)
 11. Elliott Payne / Bluesky (Feb 12, 2026): [Council members report ICE abduction on Central Ave same day as Homan announcement](https://bsky.app/profile/elliottpayne.org/post/3meoiyfkuks2a)
+12. Sahan Journal (Feb 12, 2026): [Border czar says Minnesota ICE operation is ending](https://sahanjournal.com/immigration/border-czar-tom-homan-minnesota-ice-operation-metro-surge-ending/)
+13. Sahan Journal (Feb 12, 2026): [AP: U.S. immigration enforcement in Minnesota winding down](https://sahanjournal.com/immigration/ap-us-immigration-enforcement-minnesota-4/)
 
 ## Key Quotes
 

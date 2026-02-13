@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-06T12:04:35
 last_updated: 2026-02-12T10:12:33
-search_tags: legal-resident, src:sahan-journal, src:other-local, src:mpr, src:other-national, src:star-tribune, src:kare11, src:bring-me-the-news, src:pioneer-press, src:kstp
+search_tags: legal-resident, src:sahan-journal, src:other-local, src:mpr, src:other-national, src:star-tribune, src:kare11, src:bring-me-the-news, src:pioneer-press, src:kstp, src:mn-reformer
 ---
 
 # Immigrant-Run Businesses Devastated as Operation Metro Surge Empties Cultural Corridors
@@ -43,6 +43,8 @@ Operation Metro Surge triggered an economic crisis across the Twin Cities as imm
 18. KVRR (Jan 14, 2026): [Minnesota State Lawmakers Discuss ICE Impacts on Agricultural Sector](https://www.kvrr.com/2026/01/14/minnesota-state-lawmakers-discuss-ice-impacts-on-agricultural-sector/)
 19. Bring Me The News (Jan 14, 2026): [Farm employees 'afraid to go to work' as ICE stretches into Greater Minnesota](https://bringmethenews.com/minnesota-news/farm-employees-afraid-to-go-to-work-as-ice-stretches-into-greater-minnesota)
 20. YouTube (Jan 14, 2026): [Senators discuss ICE impact on agriculture](https://www.youtube.com/watch?v=0A-YQlkhu24)
+21. Minnesota Reformer (Jan 16, 2026): [Big Minnesota companies keep quiet as Trump's immigration crackdown squeezes the state](https://minnesotareformer.com/2026/01/16/big-minnesota-companies-keep-quiet-as-trumps-immigration-crackdown-squeezes-the-state/)
+22. Minnesota Reformer (Jan 19, 2026): [A cloud of fear hangs over Minnesota immigrant communities](https://minnesotareformer.com/2026/01/19/a-cloud-of-fear-hangs-over-minnesota-immigrant-communities/)
 
 ## Economic Impact
 

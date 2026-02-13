@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-05T20:39:31
 last_updated: 2026-02-05T20:39:31
-search_tags: src:sahan-journal, src:fox9, src:star-tribune, src:mpr, src:wcco
+search_tags: src:sahan-journal, src:fox9, src:star-tribune, src:mpr, src:wcco, src:mn-reformer
 ---
 
 # DHS Launches Operation Metro Surge
@@ -26,6 +26,7 @@ The Department of Homeland Security announced "Operation Metro Surge," deploying
 5. MPR News (Dec 7, 2025): [ICE discloses more arrests in Minnesota as White House, Democrats spar over purpose](https://www.mprnews.org/story/2025/12/07/ice-discloses-minnesota-arrests-as-white-house-democrats-spar-over-purpose)
 6. CBS Minnesota (Dec 3, 2025): ['Largest immigration operation ever' launched in Twin Cities, DHS says](https://www.cbsnews.com/minnesota/live-updates/ice-somali-immigrants-minneapolis-st-paul/)
 7. MPR News (Dec 16, 2025): ['Battle of the cold': Tensions rising two weeks into ICE surge in Minnesota](https://www.mprnews.org/story/2025/12/16/ice-surge-in-minnesota-causes-tensions-to-rise)
+8. Minnesota Reformer (Dec 2, 2025): [Report: ICE headed to Twin Cities targeting Somali immigrants](https://minnesotareformer.com/2025/12/02/report-ice-headed-to-twin-cities-targeting-somali-immigrants/)
 
 ## Key Details
 - **Initial scale:** Approximately 100 federal agents deployed

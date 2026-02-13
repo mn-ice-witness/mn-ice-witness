@@ -24,6 +24,7 @@ Mohammed Hoque, a 20-year-old Bangladeshi student at Minnesota State University,
 3. KARE 11 (Mar 31, 2025): ['No reason was given': Minnesota State University Mankato student detained by ICE](https://www.kare11.com/article/news/local/student-mankato-state-university-detained-ice/89-6a6903e0-2ca1-4ce1-9f23-f474951c32e2)
 4. FOX 9 (May 6, 2025): [Detained Mankato student freed from ICE custody after court ruling](https://www.fox9.com/news/mankato-student-ice-freed-court-ruling-may-2025)
 5. CNN (May 7, 2025): [Judge orders release of detained international student](https://edition.cnn.com/2025/05/07/us/mohammed-hoque-minnesota-state-university-mankato)
+6. Sahan Journal (Jan 2026): [MSU Mankato international students have visas revoked amid ICE surge](https://sahanjournal.com/education/msu-mankato-international-students-visas-revoked/)
 
 ## Affected Individual(s)
 - **Name:** Mohammed Hoque
