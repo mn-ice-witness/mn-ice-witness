@@ -27,6 +27,8 @@ At a press conference at the Whipple Federal Building at Fort Snelling, border c
 6. PBS NewsHour (Feb 12, 2026): [Minnesota immigration crackdown is ending, Homan says](https://www.pbs.org/newshour/politics/homan-announces-end-to-minnesota-immigration-crackdown)
 7. KARE 11 (Feb 12, 2026): [Homan announces end to Operation Metro Surge](https://www.kare11.com/article/news/local/ice-in-minnesota/homan-announces-end-to-operation-metro-surge/89-12276bb4-a329-450e-a06b-8da67430105e)
 8. Pioneer Press (Feb 12, 2026): [White House border official Tom Homan announces the conclusion of Operation Metro Surge](https://www.twincities.com/2026/02/12/white-house-border-official-tom-homan-announces-the-conclusion-of-operation-metro-surge/)
+9. CBS Minnesota (Feb 12, 2026): [Minnesota officials react as feds announce ICE surge is ending](https://www.cbsnews.com/minnesota/live-updates/minnesota-ice-surge-ending-feds-say/)
+10. ABC / National News Desk (Feb 12, 2026): [Good's family 'cautiously optimistic' about end of immigration crackdown in Minnesota](https://abc3340.com/news/nation-world/renee-nicole-goods-family-cautiously-optimistic-about-end-of-immigration-crackdown-in-minnesota-minneapolis-operation-metro-surge-illegal-immigrants-ice-cbp-federal-agents-president-donald-trump-alex-pretti-shot-killed)
 
 ## Key Quotes
 
@@ -45,11 +47,24 @@ At a press conference at the Whipple Federal Building at Fort Snelling, border c
 
 On churches and schools: ICE agents "had not gone into churches or schools" but "those locations are not off the table."
 
-### Governor Walz
-"The long road to recovery starts now. The impact on our economy, our schools, and people's lives won't be reversed overnight."
+### Cautious Optimism
 
-### Mayor Frey
-"They thought they could break us, but a love for our neighbors and a resolve to endure can outlast an occupation."
+Governor Walz: "I am cautiously optimistic about the announcement of its conclusion."
+
+Walz: "The long road to recovery starts now. The impact on our economy, our schools, and people's lives won't be reversed overnight."
+
+Mayor Frey: "They thought they could break us, but a love for our neighbors and a resolve to endure can outlast an occupation."
+
+Antonio Romanucci (attorney for the family of Renee Good): "We are cautiously optimistic about the drawdown of federal agents from Minnesota, and we are hopeful that it brings much needed relief to members of the community there. The agents' departure from Minnesota does not dismiss the absolute need for accountability for their actions during Operation Metro Surge, and we are committed to seeking justice for our clients."
+
+### Skeptical
+Lt. Gov. Peggy Flanagan: "I'm relieved that this violent paramilitary force will be removed from our streets, but I won't believe it until they're actually gone."
+
+Hennepin County Attorney Mary Moriarty received news of the surge's end "with some skepticism."
+
+Soleil Ramirez (Minneapolis business owner): "It's going to take weeks for us to really believe... The fear in people, it's completely embedded."
+
+Minneapolis City Council President Elliott Payne and Council Member Jason Chavez [urged continued vigilance](https://bsky.app/profile/elliottpayne.org/post/3meoiyfkuks2a) on the same day as Homan's announcement, reporting that someone was abducted by ICE at 10 AM on Central Ave. A coworker said the person had lived in the U.S. for over 20 years, was documented, and had three children born here. Chavez: "Don't be fooled by headlines when they've been lying to us the whole time. We still need you out patrolling until every agent is gone."
 
 ## Operation Statistics (per DHS)
 - **Total arrests:** Over 4,000
