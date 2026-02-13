@@ -48,8 +48,8 @@ After conversations with border czar Homan and White House Chief of Staff Susie 
 
 ---
 date: 2026-02-12
-title: Homan Announces End of Operation Metro Surge
+title: Homan Declares Operation Metro Surge Over
 incident: 2026-02-12-homan-operation-metro-surge-conclusion
 source:
 ---
-Border czar Tom Homan announced that President Trump concurred with his proposal to end Operation Metro Surge after 10 weeks, 4,000+ arrests, and two U.S. citizens [killed](/entry/2026-01-07-renee-good-shooting) by [federal agents](/entry/2026-01-24-alex-pretti-shooting). But roughly 2,000 agents remained — 13 times pre-surge levels — and Homan warned mass deportations would continue, with churches and schools "not off the table." Local officials were skeptical. Lt. Gov. Flanagan: "I won't believe it until they're actually gone." Gov. Walz said Minnesota was in "trust but verify mode." Multiple ACLU lawsuits remained pending, and community groups called for "continued vigilance."
+Border czar Tom Homan announced the conclusion of Operation Metro Surge after 10 weeks, 4,000+ arrests, and two U.S. citizens [killed](/entry/2026-01-07-renee-good-shooting) by [federal agents](/entry/2026-01-24-alex-pretti-shooting). But roughly 2,000 agents remained — 13 times pre-surge levels — and Homan warned mass deportations would continue, with churches and schools "not off the table." Officials were skeptical; Hennepin County Attorney Moriarty said, "None of this has made us safer." Multiple ACLU lawsuits alleging constitutional violations remained pending. Business owner Soleil Ramirez: "It's going to take weeks for us to really believe... The fear in people, it's completely embedded."
