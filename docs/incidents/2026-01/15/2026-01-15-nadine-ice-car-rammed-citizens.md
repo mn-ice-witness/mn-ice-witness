@@ -36,7 +36,7 @@ In January 2026, ICE agents rammed into a parked car belonging to Minneapolis re
 - **Insurance refused** - Nadine requests insurance information and agent identifying details; agents refuse
 - **Obstruction threat** - Nadine attempts to exit car to photograph ICE license plates; agents threaten obstruction charge
 - **Badge numbers refused** - Nadine asks for badge numbers; agent responds "I think TikTok has lied to you"
-- **Aftermath** - Nadine files police report; police discover ICE vehicle plates cannot be located in their systems
+- **Aftermath** - Nadine files police report; police discover ICE vehicle plates cannot be located in their systems. A [Star Tribune investigation](#2026-02-08-ice-deceptive-tactics) of 100+ ICE vehicle plates found nearly 60% were not registered with the state of Minnesota
 
 ## Key Exchange (from Status Coup interview)
 
