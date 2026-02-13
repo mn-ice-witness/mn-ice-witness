@@ -97,13 +97,18 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [],
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
+      "hasLocalMedia": true,
+      "localMediaType": "image",
+      "localMediaPath": "media/2026-02/09/2026-02-09-dhs-data-14-percent-violent-criminal-records.jpg",
       "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
+      "localMediaFiles": [
+        {
+          "type": "image",
+          "path": "media/2026-02/09/2026-02-09-dhs-data-14-percent-violent-criminal-records.jpg"
+        }
+      ],
+      "aspectRatio": 1.4598540145985401,
+      "mediaVersion": 1770995555
     },
     {
       "filePath": "incidents/2026-02/08/2026-02-08-ice-deceptive-tactics.md",
