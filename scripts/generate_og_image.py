@@ -29,7 +29,7 @@ PHOTO_CONFIGS = [
     {"file": "upper_right", "size": (400, 300), "position": (820, 0), "rotation": 5},
     {"file": "lower_left", "size": (380, 280), "position": (-30, 340), "rotation": -4},
     {"file": "lower_right", "size": (400, 280), "position": (840, 340), "rotation": 4},
-    {"file": "center", "size": (672, 396), "position": (264, 117), "rotation": 0},
+    {"file": "center", "size": (616, 363), "position": (292, 134), "rotation": 0},
 ]
 
 
