@@ -7,6 +7,7 @@
 
 
 
+
 juan-carlos-brutality
 aliya-rahman-car-window-hospitalized
 speedway-st-paul
@@ -52,7 +53,7 @@ doctor-blocked-renee-good
 jesse-ventura-roosevelt
 jana-shortal-journalist-pepper-sprayed
 bovino-cbs-interview
-agriculture-press-conference
+business-disruption-economic-crisis
 rogelio-jimenez-brooklyn-park
 elliott-payne-pushed
 owatonna-15-year-old-pepper-sprayed
@@ -137,8 +138,8 @@ dhs-response-saly-detention
 fridley-schools-closure
 francis-burger-joint-manager
 pastor-callaghan-detained
-observer-arrests-impeding-charges-collapse
 walz-days-not-months-drawdown
 observers-one-warning-abductions
 ninas-coffee-ice-pursuit-crash
 homan-operation-metro-surge-conclusion
+nadine-ice-car-rammed-citizens

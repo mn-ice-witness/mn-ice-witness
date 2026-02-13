@@ -103,12 +103,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://mn-ice-witness.org/entry/2026-02-09-observer-arrests-impeding-charges-collapse</loc>
-    <lastmod>2026-02-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://mn-ice-witness.org/entry/2026-02-09-dhs-data-14-percent-violent-criminal-records</loc>
     <lastmod>2026-02-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -128,7 +122,7 @@
   </url>
   <url>
     <loc>https://mn-ice-witness.org/entry/2026-02-07-observers-one-warning-abductions</loc>
-    <lastmod>2026-02-09</lastmod>
+    <lastmod>2026-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -775,6 +769,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://mn-ice-witness.org/entry/2026-01-15-nadine-ice-car-rammed-citizens</loc>
+    <lastmod>2026-02-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://mn-ice-witness.org/entry/2026-01-15-vine-faith-mankato-workers</loc>
     <lastmod>2026-02-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -843,12 +843,6 @@
   <url>
     <loc>https://mn-ice-witness.org/entry/2026-01-14-julio-sosa-celis-shooting</loc>
     <lastmod>2026-02-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://mn-ice-witness.org/entry/2026-01-14-agriculture-press-conference</loc>
-    <lastmod>2026-01-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

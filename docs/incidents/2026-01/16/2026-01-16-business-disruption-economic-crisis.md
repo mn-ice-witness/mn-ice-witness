@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-06T12:04:35
 last_updated: 2026-02-12T10:12:33
-search_tags: src:sahan-journal, src:other-local, src:mpr, src:other-national, src:star-tribune, src:kare11, src:bring-me-the-news, src:pioneer-press, src:kstp
+search_tags: legal-resident, src:sahan-journal, src:other-local, src:mpr, src:other-national, src:star-tribune, src:kare11, src:bring-me-the-news, src:pioneer-press, src:kstp
 ---
 
 # Immigrant-Run Businesses Devastated as Operation Metro Surge Empties Cultural Corridors
@@ -36,6 +36,13 @@ Operation Metro Surge triggered an economic crisis across the Twin Cities as imm
 11. Star Tribune (Feb 9, 2026): [Twin Cities immigration crackdown delays home construction, slows real estate market](https://www.startribune.com/ice-immigration-crackdown-minneapolis-delaying-construction-new-home-builders-real-estate/601575566)
 12. KSTP (Feb 2026): [ICE operations in Minnesota impacting the state's construction industry](https://kstp.com/kstp-news/top-news/ice-operations-in-minnesota-impacting-the-states-construction-industry/)
 13. Human Rights Watch (Feb 11, 2026): [State Violence and Community Resistance in Minnesota](https://www.hrw.org/news/2026/02/11/state-violence-and-community-resistance-in-minnesota)
+14. Twin Cities Pioneer Press (Jan 15, 2026): [ICE crackdown is disrupting Minnesota's agriculture industry, leaders say](https://www.twincities.com/2026/01/15/ice-crackdown-is-disrupting-minnesotas-agriculture-industry-leaders-say/)
+15. Civil Eats (Jan 15, 2026): [ICE Crackdown Is Impacting Minnesota's Farms and Food System, Officials Say](https://civileats.com/2026/01/15/ice-crackdown-is-impacting-minnesotas-farms-and-food-system-officials-say/)
+16. InForum (Jan 14, 2026): [Minnesota ag advocates say ICE actions hurting workers, businesses](https://www.inforum.com/news/minnesota/minnesota-ag-advocates-say-ice-actions-hurting-workers-businesses)
+17. Agweek (Jan 14, 2026): [ICE activity raises alarm across Minnesota agriculture, leaders say](https://www.agweek.com/news/policy/ice-activity-raisies-alarm-across-minnesota-agriculture-leaders-say)
+18. KVRR (Jan 14, 2026): [Minnesota State Lawmakers Discuss ICE Impacts on Agricultural Sector](https://www.kvrr.com/2026/01/14/minnesota-state-lawmakers-discuss-ice-impacts-on-agricultural-sector/)
+19. Bring Me The News (Jan 14, 2026): [Farm employees 'afraid to go to work' as ICE stretches into Greater Minnesota](https://bringmethenews.com/minnesota-news/farm-employees-afraid-to-go-to-work-as-ice-stretches-into-greater-minnesota)
+20. YouTube (Jan 14, 2026): [Senators discuss ICE impact on agriculture](https://www.youtube.com/watch?v=0A-YQlkhu24)
 
 ## Economic Impact
 
@@ -100,6 +107,23 @@ By February, the crisis spread to the construction and real estate industries. H
 - IBEW Local 292 reported Latino and Asian electricians and apprentices afraid to come to work or attend classes
 - Roofers hit hardest due to higher Latino workforce share
 - Property developer P.J. Hill lost over $10,000 in rent and event fees after ICE detained two of his U.S.-born Latino contractors and his site manager's wife
+
+## Agriculture and Rural Impact
+
+On January 14, Minnesota Senate Agriculture Chair Aric Putnam, Vice Chair Rob Kupec, Minnesota Farmers Union President Gary Wertish, and Deputy Agriculture Commissioner Andrea Vaubel held a press conference at the State Capitol warning that ICE activity was spreading throughout rural Minnesota, disrupting the state's $105 billion agriculture industry that supports over 380,000 jobs.
+
+### Worker Fear
+Approximately 3,500 H-2A visa holders work legally in Minnesota agriculture. Farmers Union President Wertish described legal workers afraid to report to work: "They're legal. Can you imagine any one of you, of us, being afraid to go out of our house?" Farmworkers were afraid to stop for lunch during workdays. Farmers were afraid to make food deliveries in Minneapolis.
+
+### Rural Disruption
+Sen. Kupec stated ICE activity extended well beyond the Twin Cities: "We have ICE agents who are roaming around the countryside causing disruptions through the ag industry." He reported: "We have seen numerous instances of legal people being picked up, detained, shipped off." A Minnesota dairy farmer reported workers afraid to arrive with ICE agents stationed near the farm.
+
+Deputy Commissioner Vaubel warned: "We're talking grocery stores, food processing facilities, meat processors, dairy farms. The food supply will be significantly affected."
+
+Sen. Putnam: "We are in a moment of profound crisis... because of decisions made by the federal government." He added: "This is about fear. Real cops don't wear masks."
+
+### Congressional Response
+Rep. Angie Craig (D-Minnesota), top Democrat on the House Agriculture Committee, held a separate press conference on Capitol Hill on January 16: "ICE is terrorizing our communities, including our farm communities. They are not just in the Twin Cities. They are everywhere."
 
 ## Businesses and People Named in Coverage
 

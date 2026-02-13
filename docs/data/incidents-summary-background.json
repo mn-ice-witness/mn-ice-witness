@@ -79,48 +79,6 @@
       "mediaVersion": 1770840957
     },
     {
-      "filePath": "incidents/2026-02/09/2026-02-09-observer-arrests-impeding-charges-collapse.md",
-      "title": "\"No Evidence of an Assault\": 158 Arrested for Impeding ICE, Cases Routinely Dismissed",
-      "summary": "Federal authorities arrested 158 people in Minnesota for impeding or assaulting federal officers during Operation Metro Surge's first month, but when independent prosecutors and judges reviewed the evidence, the cases routinely collapsed. Of 85 cases accepted for prosecution, grand juries returned \"no bills,\" judges dismissed charges, and felonies were downgraded to misdemeanors. A Fox 9 investigation of 92 federal cases in Chicago found zero convictions, with 20 cases declined by prosecutors and 13 dismissed after filing. University of St. Thomas law professor Rachel Moran explained: \"When somebody other than the agents has to look at evidence and decide whether an assault happened, in the vast majority of situations, they're deciding, no, there's no evidence of an assault.\" Arrests targeted people filming from their cars, giving the middle finger, and walking with hands up \u2014 conduct protected by the First Amendment and by a federal court order barring agents from retaliating against observers.",
-      "latestUpdate": "Minnesota Reformer [investigation](https://minnesotareformer.com/2026/02/12/why-is-ice-seizing-peoples-phones-and-documents/) reveals ICE systematically seizing phones, IDs, cash, and keys from detained observers and immigrants. Attorneys report no warrants issued for seized phones. Federal government expressed interest in Signal group chats used to coordinate observer networks. 76-year-old Marine veteran Gust Johnson's phone was held at Whipple; location tracking showed someone charged it days later. Attorney Kevin Riach: \"My suspicion is there are Fourth Amendment violations going on.\" Jennifer Scarborough called document seizures from immigrants \"another form of cruelty\" \u2014 replacing a work permit costs $500+ and can take a year. DHS did not respond to questions.",
-      "date": "2026-02-09",
-      "time": "unknown",
-      "location": "Statewide",
-      "city": "Minneapolis",
-      "type": "background",
-      "status": "ongoing",
-      "affectedIndividualCitizenship": "n/a",
-      "injuries": "none",
-      "trustworthiness": "high",
-      "created": "2026-02-10T14:11:08",
-      "lastUpdated": "2026-02-12T10:12:33",
-      "mediaCount": 0,
-      "notable": false,
-      "searchTags": [
-        "observer-detained",
-        "observer-intimidated",
-        "us-citizen",
-        "chemical-agents",
-        "src:fox9",
-        "src:wcco",
-        "src:mpr",
-        "src:intercept",
-        "src:other-national"
-      ],
-      "hasLocalMedia": true,
-      "localMediaType": "image",
-      "localMediaPath": "media/2026-02/09/2026-02-09-observer-arrests-impeding-charges-collapse.jpg",
-      "localMediaOgPath": null,
-      "localMediaFiles": [
-        {
-          "type": "image",
-          "path": "media/2026-02/09/2026-02-09-observer-arrests-impeding-charges-collapse.jpg"
-        }
-      ],
-      "aspectRatio": 1.3745704467353952,
-      "mediaVersion": 1770841431
-    },
-    {
       "filePath": "incidents/2026-02/09/2026-02-09-dhs-data-14-percent-violent-criminal-records.md",
       "title": "Internal DHS Data: Less Than 14% of ICE Arrests Had Violent Criminal Records",
       "summary": "An internal Department of Homeland Security document obtained by CBS News revealed that less than 14% of the nearly 393,000 people arrested by ICE in President Trump's first year back in office had charges or convictions for violent criminal offenses. Nearly 40% had no criminal record at all and were detained only for civil immigration violations. Less than 2% had homicide or sexual assault charges, and less than 2% had gang affiliations. The data directly contradicts the administration's repeated assertions that its deportation operations primarily target \"the worst of the worst.\" In Minnesota, U.S. District Judge Jerry Blackwell had independently observed that \"the overwhelming majority\" of ICE cases brought before him involved people lawfully present in the state.",
@@ -433,6 +391,7 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "legal-resident",
         "src:sahan-journal",
         "src:other-local",
         "src:mpr",
@@ -444,17 +403,21 @@
         "src:kstp"
       ],
       "hasLocalMedia": true,
-      "localMediaType": "image",
-      "localMediaPath": "media/2026-01/16/2026-01-16-business-disruption-economic-crisis.jpg",
-      "localMediaOgPath": null,
+      "localMediaType": "video",
+      "localMediaPath": "media/2026-01/16/2026-01-16-business-disruption-economic-crisis.mp4",
+      "localMediaOgPath": "media/2026-01/16/2026-01-16-business-disruption-economic-crisis-og-2s-1769378403.jpg",
       "localMediaFiles": [
+        {
+          "type": "video",
+          "path": "media/2026-01/16/2026-01-16-business-disruption-economic-crisis.mp4"
+        },
         {
           "type": "image",
           "path": "media/2026-01/16/2026-01-16-business-disruption-economic-crisis.jpg"
         }
       ],
-      "aspectRatio": 1.260731319554849,
-      "mediaVersion": 1770402412
+      "aspectRatio": 1.8153310104529616,
+      "mediaVersion": 1769912968
     },
     {
       "filePath": "incidents/2026-01/15/2026-01-15-hussen-v-noem-racial-profiling-lawsuit.md",
@@ -526,44 +489,6 @@
       ],
       "aspectRatio": 0.6269284712482468,
       "mediaVersion": 1770594088
-    },
-    {
-      "filePath": "incidents/2026-01/14/2026-01-14-agriculture-press-conference.md",
-      "title": "State Lawmakers and Farmers Union Hold Press Conference on ICE Impact to Agriculture",
-      "summary": "Minnesota Senate Agriculture Chair Aric Putnam, Vice Chair Rob Kupec, Minnesota Farmers Union President Gary Wertish, and Deputy Agriculture Commissioner Andrea Vaubel held a press conference at the State Capitol warning that ICE activity is disrupting agriculture, threatening rural economies, and creating widespread fear among farmworkers. Officials reported that legal H-2A visa holders are afraid to go to work and that ICE operations have spread throughout rural Minnesota.",
-      "latestUpdate": null,
-      "date": "2026-01-14",
-      "time": "unknown",
-      "location": "Minnesota State Capitol",
-      "city": "St. Paul",
-      "type": "background",
-      "status": "ongoing",
-      "affectedIndividualCitizenship": "legal-resident",
-      "injuries": "none",
-      "trustworthiness": "high",
-      "created": "2026-01-19T10:42:44",
-      "lastUpdated": "2026-01-19T10:42:44",
-      "mediaCount": 0,
-      "notable": false,
-      "searchTags": [
-        "legal-resident",
-        "src:pioneer-press",
-        "src:bring-me-the-news",
-        "src:other-local",
-        "src:other-national"
-      ],
-      "hasLocalMedia": true,
-      "localMediaType": "video",
-      "localMediaPath": "media/2026-01/14/2026-01-14-agriculture-press-conference.mp4",
-      "localMediaOgPath": "media/2026-01/14/2026-01-14-agriculture-press-conference-og-2s-1769378403.jpg",
-      "localMediaFiles": [
-        {
-          "type": "video",
-          "path": "media/2026-01/14/2026-01-14-agriculture-press-conference.mp4"
-        }
-      ],
-      "aspectRatio": 1.8153310104529616,
-      "mediaVersion": 1769912968
     },
     {
       "filePath": "incidents/2026-01/12/2026-01-12-minnesota-sues-to-halt-operation.md",

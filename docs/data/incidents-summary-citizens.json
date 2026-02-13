@@ -709,6 +709,46 @@
       "mediaVersion": 1769912968
     },
     {
+      "filePath": "incidents/2026-01/15/2026-01-15-nadine-ice-car-rammed-citizens.md",
+      "title": "ICE Rams Into Parked Car, Demands U.S. Citizen Couple Show Citizenship Papers",
+      "summary": "In January 2026, ICE agents rammed into a parked car belonging to Minneapolis resident Nadine and her Latino U.S. citizen husband, then cornered them with three vehicles. Despite being citizens, agents demanded the husband provide proof of citizenship. When Nadine attempted to exit her vehicle to photograph the ICE vehicle's license plate for insurance purposes, agents threatened her with obstruction charges. Agents refused to provide names or badge numbers. Nadine later filed a police report and learned the ICE vehicle's plates could not be located in police systems.",
+      "latestUpdate": null,
+      "date": "2026-01-15",
+      "time": "unknown",
+      "location": "Minneapolis",
+      "city": "Minneapolis",
+      "type": "citizens",
+      "status": "resolved",
+      "affectedIndividualCitizenship": "us-citizen",
+      "injuries": "none",
+      "trustworthiness": "low",
+      "created": "2026-02-13T09:05:22",
+      "lastUpdated": "2026-02-13T09:05:22",
+      "mediaCount": 0,
+      "notable": false,
+      "searchTags": [
+        "us-citizen",
+        "citizen-check",
+        "vehicle-collision",
+        "racial-profiling",
+        "obstruction-threat",
+        "fake-plates",
+        "src:status-coup"
+      ],
+      "hasLocalMedia": true,
+      "localMediaType": "video",
+      "localMediaPath": "media/2026-01/15/2026-01-15-nadine-ice-car-rammed-citizens.mp4",
+      "localMediaOgPath": "media/2026-01/15/2026-01-15-nadine-ice-car-rammed-citizens-og-2s-1770995212.jpg",
+      "localMediaFiles": [
+        {
+          "type": "video",
+          "path": "media/2026-01/15/2026-01-15-nadine-ice-car-rammed-citizens.mp4"
+        }
+      ],
+      "aspectRatio": 0.5972222222222222,
+      "mediaVersion": 1770995212
+    },
+    {
       "filePath": "incidents/2026-01/15/2026-01-15-ramon-menera-accent-detained.md",
       "title": "U.S. Citizen Detained Because of \"Accent\"",
       "summary": "Ramon Menera, a U.S. citizen, was detained by Border Patrol agents outside his home in a Minneapolis suburb in front of his 5-year-old daughter. The agent accused him of not being a U.S. citizen \"because of your accent.\" Menera was eventually released but described the traumatic impact on his daughter, who asked him afterward: \"Are you okay? They were going to take you? I don't want to lose you.\"",

@@ -16,7 +16,7 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (259 incidents)
+## CURRENT (258 incidents)
 
 Published incidents visible on the main site.
 
@@ -27,7 +27,6 @@ Published incidents visible on the main site.
 - incidents/2026-02/10/2026-02-10-walz-days-not-months-drawdown.md | 2026-02-10 | Minneapolis | background | Walz Says ICE Drawdown Coming in "Days, Not Weeks and Months"
 - incidents/2026-02/10/2026-02-10-flying-j-lonsdale-semi-truck.md | 2026-02-10 | Lonsdale | immigrants | Dozen Agents Shatter Semi Truck Window at Flying J Travel Center; At Least Two Arrested
 - incidents/2026-02/09/2026-02-09-faribault-observer-database-threat.md | 2026-02-09 | Faribault | observers | ICE Agents Tell Observer They Are Building "Database" of Those Documenting Operations
-- incidents/2026-02/09/2026-02-09-observer-arrests-impeding-charges-collapse.md | 2026-02-09 | Minneapolis | background | "No Evidence of an Assault": 158 Arrested for Impeding ICE, Cases Routinely Dismissed
 - incidents/2026-02/09/2026-02-09-dhs-data-14-percent-violent-criminal-records.md | 2026-02-09 | Washington D.C. | background | Internal DHS Data: Less Than 14% of ICE Arrests Had Violent Criminal Records
 - incidents/2026-02/08/2026-02-08-ice-deceptive-tactics.md | 2026-02-08 | Minneapolis | background | Reports of ICE Agents Using Disguises, Fake License Plates, and Ruse Tactics Across Minnesota
 - incidents/2026-02/07/2026-02-07-dhs-response-whipple-conditions-false.md | 2026-02-07 | Minneapolis | response | DHS Statement: Claims of "Subprime Conditions" at Whipple Are "FALSE"
@@ -135,6 +134,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/15/2026-01-15-porter-wrong-address-raid.md | 2026-01-15 | Minneapolis | citizens | Federal Agents Execute Search Warrant at Wrong Address; U.S. Citizen Mistakenly Arrested
 - incidents/2026-01/15/2026-01-15-mercado-central-mother-children.md | 2026-01-15 | Minneapolis | immigrants | Mother Arrested Near Mercado Central; Two Children Left Behind
 - incidents/2026-01/15/2026-01-15-whipple-lawyers-denied-access.md | 2026-01-15 | Minneapolis | immigrants | Attorneys Denied Access to Detained Clients at Whipple Building
+- incidents/2026-01/15/2026-01-15-nadine-ice-car-rammed-citizens.md | 2026-01-15 | Minneapolis | citizens | ICE Rams Into Parked Car, Demands U.S. Citizen Couple Show Citizenship Papers
 - incidents/2026-01/15/2026-01-15-vine-faith-mankato-workers.md | 2026-01-15 | Mankato | immigrants | Two Subcontractors Detained at VINE Faith in Action Senior Center
 - incidents/2026-01/15/2026-01-15-cottage-grove-food-shelf-volunteer.md | 2026-01-15 | Cottage Grove | immigrants | Food Shelf Volunteer Detained at Basic Needs in Cottage Grove
 - incidents/2026-01/15/2026-01-15-hiawatha-student-bus-stop.md | 2026-01-15 | Minneapolis | schools-hospitals | Hiawatha Academies Student Detained at Bus Stop
@@ -147,7 +147,6 @@ Published incidents visible on the main site.
 - incidents/2026-01/14/2026-01-14-st-paul-public-works-snowplow-driver.md | 2026-01-14 | St. Paul | immigrants | St. Paul Snowplow Driver with Legal Work Status Detained by ICE
 - incidents/2026-01/14/2026-01-14-nasra-ahmed-st-paul-citizen.md | 2026-01-14 | St. Paul | citizens | U.S. Citizen Born in Minnesota Detained by ICE for Two Days
 - incidents/2026-01/14/2026-01-14-julio-sosa-celis-shooting.md | 2026-01-14 | Minneapolis | citizens | ICE Agent Shoots Man Through Closed Door in North Minneapolis; Bullet Enters Apartment with Four Children
-- incidents/2026-01/14/2026-01-14-agriculture-press-conference.md | 2026-01-14 | St. Paul | background | State Lawmakers and Farmers Union Hold Press Conference on ICE Impact to Agriculture
 - incidents/2026-01/14/2026-01-14-dhs-response-frey-sanctuary.md | 2026-01-14 | Minneapolis | response | DHS Blames Mayor Frey's Sanctuary Policies for Criminal Release
 - incidents/2026-01/14/2026-01-14-aquila-elementary-ice-presence.md | 2026-01-14 | St. Louis Park | schools-hospitals | ICE Conducts Operation Across Street From Aquila Elementary During Dismissal
 - incidents/2026-01/14/2026-01-14-transition-plus-school-bus-rubber-bullets.md | 2026-01-14 | Minneapolis | schools-hospitals | Students on Transition Plus Bus Witness ICE Fire Rubber Bullets at Man

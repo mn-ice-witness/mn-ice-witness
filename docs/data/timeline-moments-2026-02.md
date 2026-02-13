@@ -32,6 +32,14 @@ AP investigation documents federal agents disguising themselves as construction 
 
 ---
 date: 2026-02-09
+title: Internal DHS Data: Less Than 14% of Arrests Had Violent Criminal Records
+incident: 2026-02-09-dhs-data-14-percent-violent-criminal-records
+source:
+---
+An internal DHS document obtained by CBS News revealed that nearly 40% of the 393,000 people arrested by ICE had no criminal record at all. Less than 14% had violent criminal charges. Less than 2% had homicide or sexual assault charges. In Minnesota, U.S. District Judge Jerry Blackwell independently observed that "the overwhelming majority" of cases brought before him involved people lawfully present in the state. American support for Trump's deportation efforts fell to 46%, down from 59%.
+
+---
+date: 2026-02-09
 title: ICE Cracks Down on People Who Follow Them — Courts Find "No Evidence of an Assault"
 incident: 2026-02-07-observers-one-warning-abductions
 source:
