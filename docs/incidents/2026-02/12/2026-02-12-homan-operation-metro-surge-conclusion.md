@@ -29,6 +29,7 @@ At a press conference at the Whipple Federal Building at Fort Snelling, border c
 8. Pioneer Press (Feb 12, 2026): [White House border official Tom Homan announces the conclusion of Operation Metro Surge](https://www.twincities.com/2026/02/12/white-house-border-official-tom-homan-announces-the-conclusion-of-operation-metro-surge/)
 9. CBS Minnesota (Feb 12, 2026): [Minnesota officials react as feds announce ICE surge is ending](https://www.cbsnews.com/minnesota/live-updates/minnesota-ice-surge-ending-feds-say/)
 10. ABC / National News Desk (Feb 12, 2026): [Good's family 'cautiously optimistic' about end of immigration crackdown in Minnesota](https://abc3340.com/news/nation-world/renee-nicole-goods-family-cautiously-optimistic-about-end-of-immigration-crackdown-in-minnesota-minneapolis-operation-metro-surge-illegal-immigrants-ice-cbp-federal-agents-president-donald-trump-alex-pretti-shot-killed)
+11. Elliott Payne / Bluesky (Feb 12, 2026): [Council members report ICE abduction on Central Ave same day as Homan announcement](https://bsky.app/profile/elliottpayne.org/post/3meoiyfkuks2a)
 
 ## Key Quotes
 
