@@ -10,7 +10,7 @@ injuries: fatal
 trustworthiness: high
 created: 2026-01-24T13:40:15
 last_updated: 2026-02-10T18:47:37
-search_tags: us-citizen, shooting, excessive-force, chemical-agents, src:star-tribune, src:fox9, src:sahan-journal, src:wcco, src:npr, src:nbc, src:kare11, src:cnn, src:wapo, src:kstp, src:bring-me-the-news, src:nyt, src:fox-news, src:other-national
+search_tags: us-citizen, shooting, excessive-force, chemical-agents, src:star-tribune, src:fox9, src:sahan-journal, src:wcco, src:npr, src:nbc, src:kare11, src:cnn, src:wapo, src:kstp, src:bring-me-the-news, src:nyt, src:fox-news, src:other-national, src:mother-jones
 ---
 
 # Alex Pretti Shot and Killed by Federal Agents
@@ -69,6 +69,8 @@ Federal agents fatally shot Alex Jeffrey Pretti, a 37-year-old U.S. citizen, lic
 33. ProPublica (Feb 1, 2026): [Two CBP Agents Identified in Alex Pretti Shooting](https://www.propublica.org/article/alex-pretti-shooting-cbp-agents-identified-jesus-ochoa-raymundo-gutierrez)
 34. KSTP (Feb 6, 2026): [Source: FBI, BCA to announce joint investigation into shooting of Alex Pretti](https://kstp.com/kstp-news/top-news/source-fbi-bca-to-announce-joint-investigation-into-shooting-of-alex-pretti/)
 35. Star Tribune (Feb 7, 2026): [BCA pursuing 'path forward' for investigation with FBI into Alex Pretti shooting](https://www.startribune.com/pretti-investigation-mn-bca-fbi/601577509)
+36. Mother Jones (Jan 24, 2026): [Video contradicts Trump administration account of Minneapolis killing](https://www.motherjones.com/politics/2026/01/video-contradicts-minneapolis-shooting-dhs-trump-alex-pretti/)
+37. Mother Jones (Jan 25, 2026): [Nurses Union calls ICE agents a "public health threat" after Alex Pretti killing](https://www.motherjones.com/politics/2026/01/nurses-union-calls-ice-agents-public-health-threat-after-alex-pretti-killing/)
 
 ## Related Incidents
 

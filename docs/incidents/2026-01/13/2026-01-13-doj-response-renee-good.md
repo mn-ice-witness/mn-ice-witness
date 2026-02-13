@@ -10,7 +10,7 @@ injuries: fatal
 trustworthiness: high
 created: 2026-01-14T13:25:50
 last_updated: 2026-01-14T13:25:50
-search_tags: shooting, src:cbs, src:nbc, src:fox-news
+search_tags: shooting, src:cbs, src:nbc, src:fox-news, src:mother-jones
 ---
 
 # DOJ Declines Civil Rights Investigation into Good Shooting
@@ -22,6 +22,7 @@ Deputy Attorney General Todd Blanche announced there is "no basis for a criminal
 1. CBS News (Jan 13, 2026): [DOJ sees no basis for civil rights probe in Minnesota ICE shooting](https://www.cbsnews.com/news/doj-civil-rights-division-will-not-investigate-minneapolis-ice-shooting-sources-say/)
 2. NBC News (Jan 13, 2026): [Federal prosecutors resign over concerns about probe](https://www.nbcnews.com/news/justice-department/least-3-prosecutors-resign-concerns-probe-minneapolis-ice-shooting-sou-rcna253876)
 3. Fox News (Jan 13, 2026): [DOJ says 'no basis' for civil rights investigation](https://www.foxnews.com/us/justice-department-declines-civil-rights-investigation-minneapolis-ice-officer-killing)
+4. Mother Jones (Jan 18, 2026): [Top Trump official says FBI won't investigate killing by ICE agent](https://www.motherjones.com/politics/2026/01/fbi-ice-jonathan-ross-renee-good-todd-blanche/)
 
 ## Related Incident
 See full incident details: [Renee Nicole Good Shot and Killed by ICE Agent](#2026-01-07-renee-good-shooting)

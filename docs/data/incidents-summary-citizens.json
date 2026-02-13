@@ -207,7 +207,7 @@
         "workplace-raid",
         "excessive-force",
         "src:bring-me-the-news",
-        "src:other-national"
+        "src:mother-jones"
       ],
       "hasLocalMedia": true,
       "localMediaType": "video",
@@ -1015,7 +1015,8 @@
         "src:cnn",
         "src:pbs",
         "src:abc",
-        "src:fox9"
+        "src:fox9",
+        "src:mother-jones"
       ],
       "hasLocalMedia": true,
       "localMediaType": "video",

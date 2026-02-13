@@ -948,7 +948,8 @@
         "shooting",
         "src:cbs",
         "src:nbc",
-        "src:fox-news"
+        "src:fox-news",
+        "src:mother-jones"
       ],
       "hasLocalMedia": false,
       "localMediaType": null,

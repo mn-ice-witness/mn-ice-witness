@@ -84,6 +84,7 @@ Where to find and verify incidents for documentation.
 | AP News | apnews.com | Wire service, picked up everywhere |
 | The Intercept | theintercept.com | Investigative, civil liberties focus |
 | ProPublica | propublica.org | Deep investigations |
+| Mother Jones | motherjones.com | Investigative, deployed reporters to Minneapolis; 40+ videos in Jan 2026 |
 
 ### Specialty
 

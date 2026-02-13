@@ -10,7 +10,7 @@ injuries: fatal
 trustworthiness: high
 created: 2026-01-14T08:01:12
 last_updated: 2026-02-04T16:19:46
-search_tags: us-citizen, shooting, src:star-tribune, src:fox9, src:nyt, src:wcco, src:wapo, src:cnn, src:npr, src:abc, src:intercept, src:pbs, src:nbc, src:mpr, src:other-national
+search_tags: us-citizen, shooting, src:star-tribune, src:fox9, src:nyt, src:wcco, src:wapo, src:cnn, src:npr, src:abc, src:intercept, src:pbs, src:nbc, src:mpr, src:other-national, src:mother-jones
 ---
 
 # Renee Nicole Good Shot and Killed by ICE Agent
@@ -67,6 +67,7 @@ Renee Nicole Good, a 37-year-old U.S. citizen, was fatally shot by ICE agent Jon
 38. CBS Minnesota (Feb 3, 2026): [Brothers of Renee Good testify about federal agents' use of force at Capitol Hill hearing](https://www.cbsnews.com/minnesota/news/renee-good-brothers-capitol-hill-hearing-use-of-force/)
 39. NPR (Feb 4, 2026): [Brothers of Renee Good call for action in Congress](https://www.npr.org/2026/02/04/g-s1-108617/brothers-renee-good-congress)
 40. ABC News (Feb 3, 2026): [Renee Good's brothers testify on Capitol Hill after deadly ICE shooting](https://abcnews.go.com/US/renee-goods-brothers-testify-capitol-hill-after-deadly/story?id=129826762)
+41. Mother Jones (Jan 14, 2026): [Scenes of escalating violence, chaos, and resistance in Minneapolis](https://www.motherjones.com/politics/2026/01/scenes-of-escalating-violence-chaos-and-resistance-in-minneapolis/)
 
 ## Affected Individual(s)
 - **Name:** Renee Nicole Good

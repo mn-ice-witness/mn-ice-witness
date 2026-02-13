@@ -470,7 +470,8 @@
         "src:bring-me-the-news",
         "src:nyt",
         "src:fox-news",
-        "src:other-national"
+        "src:other-national",
+        "src:mother-jones"
       ],
       "hasLocalMedia": true,
       "localMediaType": "video",
@@ -1816,7 +1817,8 @@
         "src:pbs",
         "src:nbc",
         "src:mpr",
-        "src:other-national"
+        "src:other-national",
+        "src:mother-jones"
       ],
       "hasLocalMedia": true,
       "localMediaType": "video",

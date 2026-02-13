@@ -362,7 +362,8 @@
         "src:wcco",
         "src:kstp",
         "src:sahan-journal",
-        "src:fox9"
+        "src:fox9",
+        "src:mother-jones"
       ],
       "hasLocalMedia": true,
       "localMediaType": "image",
