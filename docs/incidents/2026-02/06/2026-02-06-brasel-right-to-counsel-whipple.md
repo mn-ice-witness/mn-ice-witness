@@ -9,13 +9,15 @@ affected_individual_citizenship: various
 injuries: none
 trustworthiness: high
 created: 2026-02-07T14:24:24
-last_updated: 2026-02-10T13:53:29
+last_updated: 2026-02-12T22:13:23
 search_tags: src:ap, src:kstp, src:wcco, src:fox9, src:abc, src:star-tribune, src:mn-reformer, src:nyt, src:nbc, src:cnn, src:npr, src:bring-me-the-news, src:other-national, src:other-local
 ---
 
 # Minnesota Courts Buckle as Immigration Litigation Overwhelms Federal System; Top ICE Lawyer Departs
 
 ## Updates
+- **Feb 12** - Judge Brasel [issued a 41-page emergency restraining order](https://www.startribune.com/judge-rules-whipple-detainees-must-have-access-to-attorneys-private-calls/601581387) requiring DHS to provide detainees with free, private, unmonitored phone access within one hour of arrival, attorney visitation seven days per week in private rooms, written notice of legal services in five languages, and a 72-hour moratorium on out-of-state transfers. The order is temporary, effective until Feb 26.
+- **Feb 9** - Attorneys Kim Boche and Hanne Sandison of the Advocates for Human Rights [conducted a court-authorized inspection of Whipple](https://www.fox9.com/news/whipple-building-visit-findings-immigration-attorneys-feb-20-2026), documenting approximately 40 detainees with no blankets, pillows, or cots, piles of trash including rotten food, and a confusing phone system with unclear instructions for contacting legal representatives. DHS staff cut the tour short.
 - **Feb 8** - Judge Brasel [ordered immigration attorneys be allowed inside](https://www.fox9.com/news/immigration-advocates-set-inspect-ice-headquarters-whipple-building-monday) the Whipple Building on Monday to visit clients and inspect conditions. The government argued detainees have no right to "unfettered" attorney access; attorneys requested permission to speak with detainees and bring recording equipment, which officials denied.
 - **Feb 6** - Judge Blackwell [revealed that "the overwhelming majority of the hundreds seen by this court have been found to be lawfully present"](https://bringmethenews.com/minnesota-news/judge-says-most-cases-brought-to-him-by-ice-were-for-people-lawfully-in-minnesota) during a Feb 3 compliance hearing. He cited a specific case where a man arrested Jan 10 with no criminal history was ordered released Jan 15 but was not freed until Jan 28 — 13 days later — after being shuffled between detention centers in Texas and New Mexico. Le told the court she was instructed not to provide flight details because "the protesters will show up at the airport."
 
@@ -49,6 +51,10 @@ The legal infrastructure around Operation Metro Surge began visibly collapsing i
 24. ABC News (Feb 4, 2026): ['This job sucks,' overwhelmed DHS lawyer says in court hearing over ICE's response to court orders](https://abcnews.go.com/US/job-sucks-dhs-lawyer-court-hearing-ices-response/story?id=129855783)
 25. Star Tribune (Feb 2, 2026): [Another wave of departures in Minnesota's U.S. Attorney's Office](https://www.startribune.com/another-wave-of-departures-in-minnesotas-us-attorneys-office/601575569)
 26. Bring Me The News (Feb 6, 2026): [Judge: 'Overwhelming majority' of cases brought to him by ICE were for people lawfully in Minnesota](https://bringmethenews.com/minnesota-news/judge-says-most-cases-brought-to-him-by-ice-were-for-people-lawfully-in-minnesota)
+27. Star Tribune (Feb 12, 2026): [Judge rules Whipple detainees must have access to attorneys, private calls](https://www.startribune.com/judge-rules-whipple-detainees-must-have-access-to-attorneys-private-calls/601581387)
+28. AP (Feb 12, 2026): [A judge orders DHS to give Minnesota detainees swift access to lawyers before transfers](https://wtop.com/national/2026/02/a-judge-orders-dhs-to-give-minnesota-detainees-swift-access-to-lawyers-before-transfers/)
+29. FOX 9 (Feb 10, 2026): [Immigration attorneys detail Whipple Building visit in court filings](https://www.fox9.com/news/whipple-building-visit-findings-immigration-attorneys-feb-20-2026)
+30. CBS Minnesota (Feb 11, 2026): [Attorney who visited ICE holding facility says detainees need easier access to legal help](https://www.cbsnews.com/minnesota/news/whipple-building-conditions-lawsuit-inspection/)
 
 ## Related Incidents
 - [Judge Orders ICE Director to Appear for Contempt; 96 Court Orders Violated](#2026-01-27-tobay-robles-lyons-contempt)
@@ -131,6 +137,52 @@ U.S. District Judge Nancy Brasel held a hearing on the temporary restraining ord
 - **Jeffrey Dubner** (plaintiffs' attorney): Stated detainees are allowed to make phone calls, but ICE personnel are typically nearby.
 - **Michele Garnett McKenzie** (Executive Director, The Advocates for Human Rights): "Access to counsel is fundamental...when DHS restricts ability to speak confidentially with attorneys at crucial case moments, the result is unjustified detention."
 - **Skye Perryman** (President/CEO, Democracy Forward): Called this "deliberate strategy to evade accountability...violating Constitution and federal law."
+
+## February 9 Attorney Inspection
+
+Days before the ruling, attorneys Kim Boche and Hanne Sandison of the Advocates for Human Rights conducted a court-authorized inspection of the Whipple Building on February 9. Boche filed a sworn declaration in federal court documenting the conditions they observed. Key findings:
+
+- Approximately 40 detainees were held in seven rooms. No detainee had a blanket, pillow, sleeping pad, or cot.
+- Piles of trash, including rotten apple cores and food wrappers, were visible on cell floors with no waste receptacles.
+- A phone was available, but reaching an outside number required navigating lengthy multilingual prompts and dialing multiple numbers before connecting. Instructions for contacting legal representatives were unclear.
+- One detainee reported living in the country for 10 years but having "no idea who to call for legal help."
+- One woman reported freezing temperatures in her cell with no blankets. She lacked an attorney and had no family nearby.
+- No informational materials explaining detainee rights were visible. Federal officials told the attorneys that all detainees received an informational handbook, but none were seen with one. Attorneys later noted the handbook contained limited information and was printed only in English.
+- DHS staff cut the tour short.
+
+## February 12 Ruling
+
+On February 12, the deadline Brasel had set during the February 6 hearing, she issued a 41-page emergency restraining order. The court found that the government had likely violated the constitutional rights of detainees at the Whipple Building by systematically denying access to legal counsel.
+
+### Key Provisions
+
+Brasel ordered DHS to:
+
+- Provide every detainee with the opportunity to contact an attorney within one hour of arrival at Whipple, before any transfer out of state.
+- Give all detainees free, private, and unmonitored access to telephones, with no time limit and no restriction on the number of calls to counsel.
+- Distribute a written notice in five languages outlining available legal services within one hour of detention.
+- Allow attorney visitation seven days per week, with private meeting rooms provided.
+- Impose a 72-hour moratorium on out-of-state transfers, during which detainees must be given access to counsel.
+- Inform detainees of their transfer destination in advance and provide a phone call to notify legal counsel or family.
+- Distribute notice of the order to all ICE and DHS personnel within 12 hours.
+
+### Court Findings
+
+Brasel wrote that the plaintiffs "have presented substantial, specific evidence detailing these alleged violations of the United States Constitution. In response, defendants offer threadbare declarations generally asserting, without examples or evidence, that ICE provides telephone access to counsel for noncitizens in its custody."
+
+She stated that "in planning for Operation Metro Surge, the government failed to plan for the constitutional rights of its civil detainees," and rejected the government's argument that compliance would cause logistical difficulties: "The Constitution does not permit the government to arrest thousands of individuals and then disregard their constitutional rights because it would be too challenging to honor those rights."
+
+### Temporary Status
+
+The order is temporary, effective until Friday, February 26, 2026 at 5:00 p.m. CST. A status conference is scheduled for February 24 to assess DHS compliance and determine whether further proceedings are necessary.
+
+### Reactions
+
+Michele Garnett McKenzie, executive director of the Advocates for Human Rights: "When the government deprives people of liberty, it cannot avoid its constitutional responsibilities because it finds them inconvenient. It's appalling that we required a court ruling to defend this fundamental right."
+
+Skye Perryman, president and CEO of Democracy Forward: "The government has been detaining people in a building never meant for long-term custody, shackling them, secretly transferring them out of state, and blocking access to counsel and oversight in a deliberate effort to evade accountability. Access to a lawyer is not optional; it is a fundamental right in America."
+
+DHS provided a statement that had been prepared before the ruling, claiming all detainees receive due process and access to legal counsel: "No lawbreakers in the history of human civilization have been treated better than illegal aliens in the United States."
 
 ## Documented Conditions at Whipple Building
 
