@@ -24,6 +24,8 @@ ICE agents detained two brothers working as cooks at Nupa Mediterranean Grill in
 4. The National Herald (Feb 13, 2026): [ICE Raids Greek Restaurant in Minnesota, Employees Arrested in Parking Lot](https://www.thenationalherald.com/ice-raids-greek-restaurant-in-minnesota-employees-arrested-in-parking-lot/)
 5. KROC (Feb 12, 2026): [New Update From Rochester Restaurant Impacted By ICE](https://kroc.com/ixp/715/p/ice-nupa-restaurant-rochester-minnesota/)
 6. KIMT (Feb 2026): [ICE releases detained Nupa employee](https://www.kimt.com/news/ice-releases-detained-nupa-employee/article_484cc596-f460-11ef-87f6-1b45f5bd8fe8.html)
+7. Rochester Post-Bulletin (Feb 13, 2026): [COPAL leaders: ICE raid at Nupa restaurant was not an isolated operation](https://www.postbulletin.com/news/local/copal-leaders-ice-raid-at-nupa-restaurant-was-not-an-isolated-operation)
+8. Y105 FM (Feb 12, 2026): [New Update From Nupa, Restaurant in Rochester Impacted By ICE](https://y105fm.com/ice-detain-nupa-employee-update-rochester/)
 
 ## Affected Individual(s)
 - **Names:** Not disclosed (two brothers)

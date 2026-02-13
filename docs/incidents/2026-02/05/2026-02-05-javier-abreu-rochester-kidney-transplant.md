@@ -32,6 +32,7 @@ Federal immigration agents arrested Javier Abreu, 38, on Civic Center Drive in R
 6. People Magazine (Feb 8, 2026): [Man, detained by ICE while out delivering groceries, was reportedly denied medication following a kidney transplant](https://ca.news.yahoo.com/man-detained-ice-while-delivering-192004071.html)
 7. MPR News (Feb 9, 2026): [Kidney transplant recipient in ICE custody is finally getting meds, wife and attorney say](https://www.mprnews.org/story/2026/02/09/kidney-transplant-recipient-in-ice-custody-is-finally-getting-meds-wife-and-attorney-say)
 8. The Daily Beast (Feb 9, 2026): [ICE arrests transplant patient and cuts off life-saving meds](https://www.thedailybeast.com/ice-arrests-transplant-patient-and-cuts-off-life-saving-meds/)
+9. Rochester Post-Bulletin (Feb 10, 2026): [Family of transplant patient in ICE custody say he's not getting proper meds](https://www.postbulletin.com/news/local/family-of-transplant-patient-in-ice-custody-say-hes-not-getting-proper-meds)
 
 ## Affected Individual(s)
 - **Name:** Javier Abreu
