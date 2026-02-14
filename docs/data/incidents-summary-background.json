@@ -26,7 +26,8 @@
         "src:pbs",
         "src:pioneer-press",
         "src:kare11",
-        "src:sahan-journal"
+        "src:sahan-journal",
+        "src:mn-reformer"
       ],
       "hasLocalMedia": true,
       "localMediaType": "video",

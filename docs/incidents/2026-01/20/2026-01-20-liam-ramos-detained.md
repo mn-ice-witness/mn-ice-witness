@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-22T12:00:00
 last_updated: 2026-02-09T12:00:00
-search_tags: children, family-separation, deception, src:wcco, src:sahan-journal, src:star-tribune, src:mpr, src:bring-me-the-news, src:nbc, src:wapo, src:nyt, src:cbs, src:other-national, src:abc, src:other-local, src:pbs, src:fox9, src:cnn, src:kstp, src:kare11, src:ap
+search_tags: children, family-separation, deception, src:wcco, src:sahan-journal, src:star-tribune, src:mpr, src:bring-me-the-news, src:nbc, src:wapo, src:nyt, src:cbs, src:other-national, src:abc, src:other-local, src:pbs, src:fox9, src:cnn, src:kstp, src:kare11, src:ap, src:mn-reformer
 ---
 
 # Five-Year-Old Liam Ramos Detained in Driveway, Allegedly Used as "Bait"
@@ -60,6 +60,7 @@ Liam Conejo Ramos, a 5-year-old kindergartner, was detained by ICE with his fath
 30. Boston Globe / AP (Feb 9, 2026): [Officials deny seeking quick end to asylum claims for the Minneapolis family of 5-year-old](https://www.bostonglobe.com/2026/02/09/nation/minnesota-immigration-liam-conejo-ramos/)
 31. Bring Me The News (Feb 9, 2026): [List of ICE raids, major updates in Minnesota on Monday, Feb. 9](https://bringmethenews.com/minnesota-news/list-of-ice-raids-major-updates-in-minnesota-on-monday-feb-9)
 32. The New Yorker (Jan 31, 2026): [ICE's Assault on a Minnesota School District](https://www.newyorker.com/news/the-lede/ices-assault-on-a-minnesota-school-district)
+33. Minnesota Reformer (Feb 10, 2026): [The kids are not alright — ICE threatens children's short-term health, long-term prospects](https://minnesotareformer.com/2026/02/10/the-kids-are-not-alright-ice-threatens-childrens-short-term-health-long-term-prospects/)
 
 ## Related Incidents
 - [DHS Response: "Child Was ABANDONED," Father "Fled on Foot"](#2026-01-21-dhs-response-5-year-old-bait)

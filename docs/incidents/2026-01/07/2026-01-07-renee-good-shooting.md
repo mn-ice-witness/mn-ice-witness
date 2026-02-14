@@ -10,7 +10,7 @@ injuries: fatal
 trustworthiness: high
 created: 2026-01-14T08:01:12
 last_updated: 2026-02-04T16:19:46
-search_tags: us-citizen, shooting, src:star-tribune, src:fox9, src:nyt, src:wcco, src:wapo, src:cnn, src:npr, src:abc, src:intercept, src:pbs, src:nbc, src:mpr, src:other-national, src:mother-jones, src:mn-reformer
+search_tags: us-citizen, shooting, src:star-tribune, src:fox9, src:nyt, src:wcco, src:wapo, src:cnn, src:npr, src:abc, src:intercept, src:pbs, src:nbc, src:mpr, src:other-national, src:mother-jones, src:mn-reformer, src:sahan-journal
 ---
 
 # Renee Nicole Good Shot and Killed by ICE Agent
@@ -69,6 +69,7 @@ Renee Nicole Good, a 37-year-old U.S. citizen, was fatally shot by ICE agent Jon
 40. ABC News (Feb 3, 2026): [Renee Good's brothers testify on Capitol Hill after deadly ICE shooting](https://abcnews.go.com/US/renee-goods-brothers-testify-capitol-hill-after-deadly/story?id=129826762)
 41. Mother Jones (Jan 14, 2026): [Scenes of escalating violence, chaos, and resistance in Minneapolis](https://www.motherjones.com/politics/2026/01/scenes-of-escalating-violence-chaos-and-resistance-in-minneapolis/)
 42. Minnesota Reformer (Jan 7, 2026): [ICE officer fatally shoots driver through car window in Minneapolis](https://minnesotareformer.com/2026/01/07/ice-officer-fatally-shoots-driver-through-car-window-in-minneapolis/)
+43. Sahan Journal (Jan 7, 2026): [ICE officer fatally shoots woman in south Minneapolis](https://sahanjournal.com/immigration/federal-shooting-ice-immigration-south-minneapolis-34th-portland/)
 
 ## Affected Individual(s)
 - **Name:** Renee Nicole Good

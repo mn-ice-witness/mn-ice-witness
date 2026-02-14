@@ -471,7 +471,8 @@
         "src:nyt",
         "src:fox-news",
         "src:other-national",
-        "src:mother-jones"
+        "src:mother-jones",
+        "src:mn-reformer"
       ],
       "hasLocalMedia": true,
       "localMediaType": "video",
@@ -1821,7 +1822,8 @@
         "src:mpr",
         "src:other-national",
         "src:mother-jones",
-        "src:mn-reformer"
+        "src:mn-reformer",
+        "src:sahan-journal"
       ],
       "hasLocalMedia": true,
       "localMediaType": "video",

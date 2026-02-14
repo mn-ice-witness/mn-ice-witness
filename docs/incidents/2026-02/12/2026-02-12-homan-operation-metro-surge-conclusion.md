@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-12T09:32:12
 last_updated: 2026-02-12T09:32:12
-search_tags: src:fox9, src:kstp, src:cbs, src:nbc, src:pbs, src:pioneer-press, src:kare11, src:sahan-journal
+search_tags: src:fox9, src:kstp, src:cbs, src:nbc, src:pbs, src:pioneer-press, src:kare11, src:sahan-journal, src:mn-reformer
 ---
 
 # Homan Declares Operation Metro Surge Over
@@ -32,6 +32,7 @@ At a press conference at the Whipple Federal Building at Fort Snelling, border c
 11. Elliott Payne / Bluesky (Feb 12, 2026): [Council members report ICE abduction on Central Ave same day as Homan announcement](https://bsky.app/profile/elliottpayne.org/post/3meoiyfkuks2a)
 12. Sahan Journal (Feb 12, 2026): [Border czar says Minnesota ICE operation is ending](https://sahanjournal.com/immigration/border-czar-tom-homan-minnesota-ice-operation-metro-surge-ending/)
 13. Sahan Journal (Feb 12, 2026): [AP: U.S. immigration enforcement in Minnesota winding down](https://sahanjournal.com/immigration/ap-us-immigration-enforcement-minnesota-4/)
+14. Minnesota Reformer (Feb 12, 2026): [Border czar Tom Homan announces end to Operation Metro Surge, claiming success](https://minnesotareformer.com/2026/02/12/border-czar-tom-homan-announces-end-to-operation-metro-surge-claiming-success/)
 
 ## Key Quotes
 

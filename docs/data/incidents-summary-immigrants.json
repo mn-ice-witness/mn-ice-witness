@@ -705,7 +705,8 @@
         "src:kare11",
         "src:bring-me-the-news",
         "src:star-tribune",
-        "src:kstp"
+        "src:kstp",
+        "src:sahan-journal"
       ],
       "hasLocalMedia": true,
       "localMediaType": "image",
@@ -838,7 +839,8 @@
         "src:cnn",
         "src:kstp",
         "src:kare11",
-        "src:ap"
+        "src:ap",
+        "src:mn-reformer"
       ],
       "hasLocalMedia": true,
       "localMediaType": "image",
