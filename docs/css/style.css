@@ -442,10 +442,11 @@ body {
 
 .nav-observers { background: #ddf4ff; color: var(--type-observers); border-color: #54aeff33; }
 .nav-immigrants { background: #fbefff; color: var(--type-immigrants); border-color: #a475f933; }
-.nav-citizens { background: #ffeff7; color: var(--type-citizens); border-color: #ff80c833; }
+.nav-citizens { background: #e6f6e6; color: #2d6a2d; border-color: #2d6a2d33; }
 .nav-fatal { background: #ffebe9; color: var(--type-fatal); border-color: #ff818433; }
 .nav-schools { background: #fff1e5; color: var(--type-schools); border-color: #fb8f4433; }
-.nav-response { background: #f0f0f0; color: var(--type-response); border-color: #8c959f33; }
+.nav-response { background: #fde8e8; color: #9a3333; border-color: #9a333333; }
+.nav-background { background: #f0f3f6; color: var(--type-background); border-color: #57606a33; }
 .nav-no-news-media { background: #f5eef0; color: var(--type-no-news-media); border-color: #7d4e5733; }
 
 .nav-pill:hover {
@@ -1139,10 +1140,11 @@ body {
 
 .marker-observers { background: var(--type-observers); }
 .marker-immigrants { background: var(--type-immigrants); }
-.marker-citizens { background: var(--type-citizens); }
+.marker-citizens { background: #2d6a2d; }
 .marker-fatal { background: var(--type-fatal); }
 .marker-schools-hospitals { background: var(--type-schools); }
-.marker-response { background: var(--type-response); }
+.marker-response { background: #9a3333; }
+.marker-background { background: var(--type-background); }
 
 .section-title {
     font-family: var(--font-serif);
@@ -2029,12 +2031,18 @@ body {
 
 @media (max-width: 480px) {
     .nav-pill {
-        padding: 3px 5px;
-        font-size: 0.6rem;
+        padding: 3px clamp(3px, 1.1vw, 6px);
+        font-size: clamp(0.54rem, 2.35vw, 0.68rem);
+        border-radius: clamp(4px, 1.5vw, 100px);
     }
 
     .nav-inner {
-        gap: 4px;
+        gap: clamp(2px, 0.8vw, 4px);
+        padding: 0 2px;
+    }
+
+    .section-nav {
+        padding: 6px 2px;
     }
 
     /* Show short labels on mobile */
