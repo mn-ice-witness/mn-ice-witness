@@ -29,6 +29,7 @@ In an NBC News interview ahead of the 2026 Super Bowl, President Trump said the 
 8. Fox News Video (Feb 4, 2026): [Trump discusses 'softer touch' approach](https://www.foxnews.com/video/6388773244112)
 9. Star Tribune (Jan 2026): [Violent crime is down in Minneapolis, but police overtime is up amid ICE surge](https://www.startribune.com/crime-in-minneapolis-down-ice-operation-metro-surge/601569549)
 10. National Institute of Justice (2024): [Undocumented Immigrant Offending Rate Lower Than U.S.-Born Citizen Rate](https://nij.ojp.gov/topics/articles/undocumented-immigrant-offending-rate-lower-us-born-citizen-rate)
+11. Star Tribune (Feb 4, 2026): [Walz and Trump speak by phone as White House appears to soften tone on ICE crackdown](https://www.startribune.com/walz-and-trump-speak-by-phone-as-white-house-appears-to-soften-tone-on-ice-crackdown/601571188)
 
 ## Related Incidents
 - [Homan Takes Command, Begins Operation Metro Surge Draw Down](#2026-01-27-homan-draw-down-minneapolis)

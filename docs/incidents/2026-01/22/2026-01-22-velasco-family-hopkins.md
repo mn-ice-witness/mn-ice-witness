@@ -26,6 +26,7 @@ ICE detained Maria Velasco Hurtado while she was driving to work, then went to t
 2. MPR News (Jan 23, 2026): [Judge orders ICE to keep Hopkins family in Minnesota](https://www.mprnews.org/story/2026/01/23/judge-orders-ice-to-keep-hopkins-family-in-minnesota)
 3. Yahoo News (Jan 23, 2026): [Hopkins family from Ecuador detained; judge orders feds not to move them](https://www.yahoo.com/news/articles/hopkins-family-ecuador-detained-judge-004426229.html)
 4. Hometown Source (Jan 27, 2026): [Hopkins family detained by ICE returned to Minnesota](https://www.hometownsource.com/sun_sailor/free/hopkins-family-detained-by-ice-returned-to-minnesota/article_4a7edf99-2df9-43cd-bc36-afdbf2c991ae.html)
+5. MPR News (Jan 27, 2026): [Hopkins family spent weekend in Dilley, Texas ICE detention center, now 'recovering' at home](https://www.mprnews.org/story/2026/01/27/hopkins-family-spent-weekend-in-dilley-texas-ice-detention-center-now-recovering-at-home)
 
 ## Affected Individual(s)
 - **Name:** Luis Fernando Chulca Chiluisa
