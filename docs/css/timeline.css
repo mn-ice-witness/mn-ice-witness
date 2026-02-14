@@ -46,7 +46,7 @@
     min-width: 60px;
 }
 
-.tl-total-citizens { background: rgba(191, 57, 137, 0.08); }
+.tl-total-citizens { background: rgba(45, 106, 45, 0.08); }
 .tl-total-observers { background: rgba(9, 105, 218, 0.08); }
 .tl-total-immigrants { background: rgba(130, 80, 223, 0.08); }
 .tl-total-schools { background: rgba(188, 76, 0, 0.08); }
@@ -58,7 +58,7 @@
     line-height: 1;
 }
 
-.tl-total-citizens .tl-count { color: var(--type-citizens); }
+.tl-total-citizens .tl-count { color: #2d6a2d; }
 .tl-total-observers .tl-count { color: var(--type-observers); }
 .tl-total-immigrants .tl-count { color: var(--type-immigrants); }
 .tl-total-schools .tl-count { color: var(--type-schools); }
@@ -330,6 +330,10 @@
     color: var(--color-text-muted);
 }
 
+.tl-day-incidents {
+    padding: 0 0 4px 32px;
+}
+
 .tl-day-hidden {
     display: none;
 }
@@ -499,6 +503,10 @@
     }
 
     .tl-day {
+        padding-left: 26px;
+    }
+
+    .tl-day-incidents {
         padding-left: 26px;
     }
 

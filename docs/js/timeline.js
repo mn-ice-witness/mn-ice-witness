@@ -112,14 +112,20 @@ const Timeline = {
             const dateMatch = fields.match(/date:\s*(\S+)/);
             const titleMatch = fields.match(/title:\s*(.+)/);
             const incidentMatch = fields.match(/incident:\s*(\S+)/);
+            const updateForMatch = fields.match(/update-for:\s*(\S+)/);
             const sourceMatch = fields.match(/source:\s*(\S+)/);
             const imageMatch = fields.match(/image:\s*(\S+)/);
 
             if (dateMatch && titleMatch) {
+                const isUpdate = !!updateForMatch;
+                const incident = isUpdate
+                    ? (updateForMatch[1].trim())
+                    : ((incidentMatch && incidentMatch[1].trim()) || null);
                 moments.push({
                     date: dateMatch[1],
                     title: titleMatch[1].trim(),
-                    incident: (incidentMatch && incidentMatch[1].trim()) || null,
+                    incident,
+                    isUpdate,
                     source: (sourceMatch && sourceMatch[1].trim()) || null,
                     image: (imageMatch && imageMatch[1].trim()) || null,
                     body: body
@@ -140,6 +146,16 @@ const Timeline = {
             byDate[incident.date].push(incident);
         }
 
+        // Build map of date -> set of incident slugs that have curated moments on that date
+        // Only non-update moments suppress the day listing (update moments appear on different dates)
+        this.momentSlugsByDate = {};
+        for (const m of this.moments) {
+            if (m.incident && !m.isUpdate) {
+                if (!this.momentSlugsByDate[m.date]) this.momentSlugsByDate[m.date] = new Set();
+                this.momentSlugsByDate[m.date].add(m.incident);
+            }
+        }
+
         const allDates = new Set([
             ...Object.keys(byDate),
             ...this.moments.map(m => m.date)
@@ -155,13 +171,25 @@ const Timeline = {
             }
 
             const dayIncidents = byDate[date] || [];
-            const dayMoments = this.moments.filter(m => m.date === date);
+            // Filter out incidents that have a curated moment on this same date
+            const daySlugs = this.momentSlugsByDate[date];
+            const filteredIncidents = daySlugs
+                ? dayIncidents.filter(i => {
+                    const slug = i.filePath.split('/').pop().replace('.md', '');
+                    return !daySlugs.has(slug);
+                })
+                : dayIncidents;
+            const dayMoments = this.moments.filter(m => m.date === date && !m.isUpdate);
+            const dayUpdates = this.moments.filter(m => m.date === date && m.isUpdate);
+            // Count ALL incidents for running totals (not filtered)
             const counts = this.countCategories(dayIncidents);
 
             monthMap[key].days.push({
                 date,
-                incidents: dayIncidents,
+                incidents: filteredIncidents,
+                totalIncidentCount: dayIncidents.length,
                 moments: dayMoments,
+                updates: dayUpdates,
                 counts
             });
         }
@@ -248,11 +276,26 @@ const Timeline = {
 
         const days = this.sortOrder === 'newest' ? [...month.days].reverse() : month.days;
         for (const day of days) {
-            for (const moment of day.moments) {
-                html += this.buildMomentHTML(moment);
-            }
-            if (day.incidents.length > 0) {
-                html += this.buildDayHTML(day);
+            const hasContent = day.totalIncidentCount > 0 || day.updates.length > 0;
+            const hasMoments = day.moments.length > 0;
+            const hasListItems = day.incidents.length > 0 || day.updates.length > 0;
+
+            if (hasMoments) {
+                // Split layout: header → moments → remaining incidents
+                if (hasContent) {
+                    html += this.buildDayHeaderHTML(day);
+                }
+                for (const moment of day.moments) {
+                    html += this.buildMomentHTML(moment);
+                }
+                if (hasListItems) {
+                    html += this.buildDayIncidentsHTML(day, true);
+                }
+            } else {
+                // No moments: single combined day block
+                if (hasListItems) {
+                    html += this.buildDayFullHTML(day);
+                }
             }
         }
 
@@ -330,18 +373,51 @@ const Timeline = {
         `;
     },
 
-    buildDayHTML(day) {
+    buildDayHeaderHTML(day) {
         const dateObj = new Date(day.date + 'T12:00:00');
         const dateStr = dateObj.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
-        const countStr = day.incidents.length === 1 ? '1 incident' : `${day.incidents.length} incidents`;
+        const totalCount = day.totalIncidentCount + day.updates.length;
+        const countStr = totalCount === 1 ? '1 incident' : `${totalCount} incidents`;
+        const countsJson = JSON.stringify(day.counts);
+
+        let dateId = day.date;
+        if (this._usedDateIds.has(dateId)) {
+            let suffix = 2;
+            while (this._usedDateIds.has(dateId + '-' + suffix)) suffix++;
+            dateId = dateId + '-' + suffix;
+        }
+        this._usedDateIds.add(dateId);
+
+        return `
+            <div class="tl-day" id="${dateId}" data-date="${day.date}" data-counts='${countsJson}'>
+                <div class="tl-day-marker"></div>
+                <div class="tl-day-body">
+                    <div class="tl-day-header">
+                        <span class="tl-day-date">${dateStr}</span>
+                        <span class="tl-day-count">${countStr}</span>
+                    </div>
+                </div>
+            </div>
+        `;
+    },
+
+    buildDayFullHTML(day) {
+        const dateObj = new Date(day.date + 'T12:00:00');
+        const dateStr = dateObj.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+        const totalCount = day.incidents.length + day.updates.length;
+        const countStr = totalCount === 1 ? '1 incident' : `${totalCount} incidents`;
         const countsJson = JSON.stringify(day.counts);
 
         let titlesHTML = '';
-        for (let i = 0; i < day.incidents.length; i++) {
-            const inc = day.incidents[i];
+        for (const inc of day.incidents) {
             const slug = App.getIncidentId(inc);
             const tag = this.getCategoryTag(inc);
             titlesHTML += `<div class="tl-day-incident" data-incident-slug="${slug}"><span class="tl-cat-tag">${tag}:</span> ${inc.title}</div>`;
+        }
+        for (const upd of day.updates) {
+            const original = this.findIncident(upd.incident);
+            const tag = original ? this.getCategoryTag(original) : 'UPDATE';
+            titlesHTML += `<div class="tl-day-incident tl-day-update" data-incident-slug="${upd.incident}"><span class="tl-cat-tag">${tag}:</span> Update — ${upd.title}</div>`;
         }
 
         let dateId = day.date;
@@ -366,13 +442,34 @@ const Timeline = {
         `;
     },
 
+    buildDayIncidentsHTML(day, afterMoments) {
+        let titlesHTML = '';
+        for (const inc of day.incidents) {
+            const slug = App.getIncidentId(inc);
+            const tag = this.getCategoryTag(inc);
+            titlesHTML += `<div class="tl-day-incident" data-incident-slug="${slug}"><span class="tl-cat-tag">${tag}:</span> ${inc.title}</div>`;
+        }
+        for (const upd of day.updates) {
+            const original = this.findIncident(upd.incident);
+            const tag = original ? this.getCategoryTag(original) : 'UPDATE';
+            titlesHTML += `<div class="tl-day-incident tl-day-update" data-incident-slug="${upd.incident}"><span class="tl-cat-tag">${tag}:</span> Update — ${upd.title}</div>`;
+        }
+
+        const extraClass = afterMoments ? ' tl-day-continued' : '';
+        return `
+            <div class="tl-day-incidents${extraClass}">
+                <div class="tl-day-titles">${titlesHTML}</div>
+            </div>
+        `;
+    },
+
     categoryLabels: {
         'citizens': 'CITIZEN/LEGAL',
         'observers': 'OBSERVER',
         'immigrants': 'IMMIGRANT',
         'schools-hospitals': 'SCHOOLS',
         'response': 'RESPONSE',
-        'background': 'BACKGROUND'
+        'background': 'CONTEXT'
     },
 
     renderLinks(text) {

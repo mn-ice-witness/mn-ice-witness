@@ -238,3 +238,57 @@ incident: 2026-01-30-st-peter-police-chief-intervenes
 source:
 ---
 A U.S. citizen woman is detained for recording ICE agents and transported toward federal detention. Her husband contacts St. Peter Police Chief Matt Grochow, who secures her return — telling him: "I got her. I'm bringing her home." The City of St. Peter later denies the department "participated in, coordinated with or intervened in any federal enforcement activity."
+
+---
+date: 2026-01-21
+title: Independent Autopsy Reveals Three Gunshot Wounds
+update-for: 2026-01-07-renee-good-shooting
+source: https://www.cbsnews.com/minnesota/news/renee-good-independent-autopsy-results/
+image: false
+---
+Attorneys for the Good family release an independent autopsy showing Renee Good was struck by three bullets — left forearm, right breast, and a fatal head wound. The Hennepin County Medical Examiner later officially rules the death a homicide.
+
+---
+date: 2026-01-22
+title: Federal Judge Rules Garrison Gibson Arrest Violated Fourth Amendment
+update-for: 2026-01-12-garrison-gibson-battering-ram
+source: https://www.fox9.com/news/garrison-gibson-ice-minneapolis-raid
+image: false
+---
+A federal judge rules the battering-ram arrest of Garrison Gibson violated the Fourth Amendment and orders his immediate release, finding "no criminal record" — directly contradicting DHS claims. Gibson alleges ICE agents took "trophy photos" of him in custody. Stephen Miller claims credit for the re-arrest on social media.
+
+---
+date: 2026-01-23
+title: FBI Agent Resigns Over Pressure to Stop Good Investigation
+update-for: 2026-01-07-renee-good-shooting
+source: https://www.nytimes.com/2026/01/23/us/fbi-agent-ice-shooting-renee-good.html
+image: false
+---
+FBI supervisor Tracee Mergen, based in the Minneapolis field office, resigned after bureau leadership in Washington pressured her to discontinue a civil rights inquiry into ICE agent Jonathan Ross, who shot and killed [Renee Good](/entry/2026-01-07-renee-good-shooting). The resignation revealed political interference in the federal investigation of a killing that had been ruled a homicide.
+
+---
+date: 2026-01-26
+title: State Investigators Blocked From Pretti Crime Scene
+update-for: 2026-01-24-alex-pretti-shooting
+source: https://www.kare11.com/article/news/local/ice-in-minnesota/bca-blocked-from-scene-where-federal-agents-fatally-shot-man-south-minneapolis/89-2d4bf800-d146-49ee-8eb8-4ff5e09f02c8
+image: false
+---
+BCA Superintendent Drew Evans says DHS blocked state investigators from the [Alex Pretti](/entry/2026-01-24-alex-pretti-shooting) crime scene despite having a warrant. In more than 20 years of law enforcement, Evans said he had "never been denied access to a scene." The obstruction left the state unable to independently investigate the second fatal shooting by federal agents in three weeks.
+
+---
+date: 2026-01-27
+title: FBI Reveals Mistaken Identity in Julio Sosa-Celis Arrest
+update-for: 2026-01-14-julio-sosa-celis-shooting
+source: https://www.startribune.com/fbi-affidavit-julio-sosa-celis-ice-agent-shooting/601575117
+image: false
+---
+An FBI affidavit reveals ICE originally targeted someone else — the arrest of Julio Sosa-Celis began as a case of mistaken identity. A federal judge orders both Sosa-Celis and co-defendant Alfredo Aljorna released on their own recognizance.
+
+---
+date: 2026-01-31
+title: Federal Judge Orders Release of 5-Year-Old Liam Ramos
+update-for: 2026-01-20-liam-ramos-detained
+source: https://www.cnn.com/2026/01/31/politics/liam-ramos-release-order
+image: false
+---
+Federal Judge Fred Biery orders the release of 5-year-old Liam Ramos and his father from the Dilley, Texas detention facility, accusing the government of an "ill-conceived and incompetently implemented pursuit of daily deportation quotas." Rep. Joaquin Castro escorts the family home to Minneapolis the following day.

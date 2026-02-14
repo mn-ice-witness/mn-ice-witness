@@ -61,3 +61,93 @@ incident: 2026-02-12-homan-operation-metro-surge-conclusion
 source:
 ---
 Border czar Tom Homan declared Operation Metro Surge over at a Fort Snelling press conference, claiming "successful results" after 10 weeks, 4,000+ arrests, and saying he was "leaving Minnesota safer." The operation had cost two U.S. citizens their lives — [Renee Good](/entry/2026-01-07-renee-good-shooting) and [Alex Pretti](/entry/2026-01-24-alex-pretti-shooting) — shot by federal agents. Governor Walz said he was "cautiously optimistic" about the conclusion. The Good family's attorney said they were "cautiously optimistic about the drawdown" but that "the agents' departure does not dismiss the absolute need for accountability." Yet many remained skeptical — Lt. Gov. Flanagan said she wouldn't "believe it until they're actually gone." Business owner Soleil Ramirez: "It's going to take weeks for us to really believe... The fear in people, it's completely embedded."
+
+---
+date: 2026-02-01
+title: Military Stands Down After Pretti Killing Shifts Public Opinion
+update-for: 2026-01-16-trump-insurrection-act-threat
+source: https://www.nytimes.com/2026/02/02/us/politics/alaska-north-carolina-troops-minnesota-deployment.html
+image: false
+---
+Northern Command orders the 1,500 troops from the 11th Airborne Division to stand down, canceling the potential deployment to Minnesota that [Trump had threatened](/entry/2026-01-16-trump-insurrection-act-threat) under the Insurrection Act. The New York Times reported that the second fatal shooting of a U.S. citizen — [Alex Pretti](/entry/2026-01-24-alex-pretti-shooting) — "galvanized public sentiment against the federal government's tactics and forced the administration to retreat."
+
+---
+date: 2026-02-01
+title: ProPublica Identifies Agents Who Shot Alex Pretti
+update-for: 2026-01-24-alex-pretti-shooting
+source: https://www.propublica.org/article/alex-pretti-border-patrol-agents-identified
+image: false
+---
+ProPublica identifies the two agents involved in Alex Pretti's death: Border Patrol agent Jesus Ochoa (43) and CBP officer Raymundo Gutierrez (35). Video analysis suggests "a federal agent taking Pretti's gun from his hip before the first shots were fired." The DOJ opens a federal civil rights investigation.
+
+---
+date: 2026-02-03
+title: Renee Good's Brothers Testify Before Congress
+update-for: 2026-01-07-renee-good-shooting
+source: https://www.cbsnews.com/minnesota/news/renee-good-brothers-congress-testimony/
+image: false
+---
+Brothers Luke and Brent Ganger testify at a bicameral forum on DHS use of force hosted by Sen. Blumenthal and Rep. Garcia. Luke Ganger: "Our family took some consolation thinking that perhaps Nay's death would bring about change in our country. And it has not."
+
+---
+date: 2026-02-03
+title: Aliya Rahman Testifies Before Congress
+update-for: 2026-01-13-aliya-rahman-car-window-hospitalized
+source: https://www.democracynow.org/2026/2/3/aliya_rahman_testimony
+image: false
+---
+Aliya Rahman testifies before Congress at the same bicameral forum, describing how agents dragged her from her car despite her screaming "I'm disabled!" She describes how her autism and traumatic brain injury made it difficult to process agents' shouted commands during the encounter.
+
+---
+date: 2026-02-04
+title: Elizabeth Caisaguano Released After Nearly a Month
+update-for: 2026-01-06-elizabeth-caisaguano-detained
+source: https://www.startribune.com/elizabeth-caisaguano-released-ice-detention/601575400
+image: false
+---
+Ten-year-old Elizabeth Caisaguano and her mother are released from the Dilley, Texas detention facility after nearly a month in custody — the longest child detention of the operation. Her release comes three days after [Liam Ramos](/entry/2026-01-20-liam-ramos-detained) was freed by court order.
+
+---
+date: 2026-02-05
+title: DHS Files to Deport 5-Year-Old Liam Ramos
+update-for: 2026-01-20-liam-ramos-detained
+source: https://www.mprnews.org/story/2026/02/05/dhs-removal-proceedings-liam-ramos
+image: false
+---
+Days after a federal judge ordered Liam Ramos released, DHS files formal removal proceedings against the 5-year-old and his father. Attorney Danielle Molliver calls the move "extraordinary" and possibly "retaliatory." Liam's father reports the boy has nightmares and wakes up crying since detention.
+
+---
+date: 2026-02-05
+title: Judge Halts Deportation of Key Witness in Sosa-Celis Shooting
+update-for: 2026-01-14-julio-sosa-celis-shooting
+source: https://www.fox9.com/news/judge-halts-deportation-ice-shooting-witness-minneapolis
+image: false
+---
+A federal judge blocks the deportation of Valentina Moreno, whose testimony contradicts the government's account of the [Sosa-Celis shooting](/entry/2026-01-14-julio-sosa-celis-shooting). The government had accelerated her immigration hearing by six months. The same day, Sosa-Celis and co-defendant Aljorna were re-detained by ICE at the courthouse despite a judge ordering their release. A week later, the DOJ would drop all charges with prejudice after video evidence proved "materially inconsistent" with the agent's claims.
+
+---
+date: 2026-02-12
+title: Judge Rules Garrison Gibson Arrest Unconstitutional; Orders Immediate Release
+update-for: 2026-01-12-garrison-gibson-battering-ram
+source: https://www.fox9.com/news/garrison-gibson-fourth-amendment-ruling
+image: false
+---
+Federal judge issues a final ruling that the battering-ram arrest of Garrison Gibson violated the Fourth Amendment and orders his immediate release. The finding of "no criminal record" directly contradicts DHS's characterization of the operation as targeting violent criminals.
+
+---
+date: 2026-02-12
+title: Judge Brasel Orders Right to Counsel at Whipple
+update-for: 2026-02-06-brasel-right-to-counsel-whipple
+source: https://www.startribune.com/judge-brasel-emergency-order-whipple-attorneys/601575620
+image: false
+---
+Judge Nancy Brasel issues a 41-page emergency restraining order requiring DHS to provide free phone access within one hour of arrival, attorney visitation seven days a week, written notice of legal services in five languages, and a 72-hour moratorium on out-of-state transfers.
+
+---
+date: 2026-02-13
+title: DOJ Drops All Charges Against Julio Sosa-Celis
+update-for: 2026-01-14-julio-sosa-celis-shooting
+source: https://www.startribune.com/doj-drops-charges-julio-sosa-celis/601575710
+image: false
+---
+The DOJ moves to drop all criminal charges against Julio Sosa-Celis and Alfredo Aljorna with prejudice, citing "newly discovered evidence" materially inconsistent with the complaint affidavit. Video surveillance contradicted the agent's claims of assault.

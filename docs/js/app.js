@@ -22,7 +22,7 @@ const App = {
         'immigrants': 'IMMIGRANTS',
         'schools-hospitals': 'SCHOOLS',
         'response': 'RESPONSE',
-        'background': 'BACKGROUND',
+        'background': 'CONTEXT',
         'fatal': 'FATAL'
     },
 
@@ -37,7 +37,8 @@ const App = {
             'observers': 'observers',
             'immigrants': 'immigrants',
             'schools-hospitals': 'schools',
-            'response': 'response'
+            'response': 'response',
+            'background': 'background'
         };
         this.sections = Object.entries(typeToId).map(([type, id]) => {
             const el = document.getElementById(id);
@@ -312,8 +313,6 @@ const App = {
         // Filter out no-news-media, removed, and background incidents from main display
         const verified = this.incidents.filter(i => {
             if (i.trustworthiness === 'no-news-media' || i.trustworthiness === 'removed') return false;
-            const types = Array.isArray(i.type) ? i.type : [i.type];
-            if (types.length === 1 && types[0] === 'background') return false;
             return true;
         });
 
