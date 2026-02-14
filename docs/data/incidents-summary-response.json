@@ -191,7 +191,8 @@
         "src:pbs",
         "src:mpr",
         "src:abc",
-        "src:other-national"
+        "src:other-national",
+        "src:star-tribune"
       ],
       "hasLocalMedia": true,
       "localMediaType": "video",
@@ -786,7 +787,9 @@
         "src:abc",
         "src:nyt",
         "src:cnn",
-        "src:pbs"
+        "src:pbs",
+        "src:star-tribune",
+        "src:mpr"
       ],
       "hasLocalMedia": true,
       "localMediaType": "video",
@@ -850,7 +853,8 @@
         "shooting",
         "src:wcco",
         "src:other-national",
-        "src:abc"
+        "src:abc",
+        "src:mpr"
       ],
       "hasLocalMedia": true,
       "localMediaType": "video",

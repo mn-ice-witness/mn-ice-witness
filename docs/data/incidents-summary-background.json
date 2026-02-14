@@ -28,7 +28,9 @@
         "src:pioneer-press",
         "src:kare11",
         "src:sahan-journal",
-        "src:mn-reformer"
+        "src:mn-reformer",
+        "src:mpr",
+        "src:star-tribune"
       ],
       "hasLocalMedia": true,
       "localMediaType": "video",
@@ -66,7 +68,8 @@
         "src:fox9",
         "src:star-tribune",
         "src:pioneer-press",
-        "src:minnpost"
+        "src:minnpost",
+        "src:mpr"
       ],
       "hasLocalMedia": true,
       "localMediaType": "image",
@@ -222,7 +225,8 @@
         "src:bring-me-the-news",
         "src:sahan-journal",
         "src:other-national",
-        "src:other-local"
+        "src:other-local",
+        "src:mpr"
       ],
       "hasLocalMedia": false,
       "localMediaType": null,
@@ -261,7 +265,8 @@
         "src:wapo",
         "src:mn-reformer",
         "src:fox9",
-        "src:other-national"
+        "src:other-national",
+        "src:mpr"
       ],
       "hasLocalMedia": true,
       "localMediaType": "image",
@@ -531,7 +536,8 @@
         "src:npr",
         "src:fox9",
         "src:wcco",
-        "src:mn-reformer"
+        "src:mn-reformer",
+        "src:mpr"
       ],
       "hasLocalMedia": false,
       "localMediaType": null,

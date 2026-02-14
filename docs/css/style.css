@@ -849,6 +849,34 @@ body {
     font-style: italic;
 }
 
+/* ==================== SEARCH ACTIVE BAR ==================== */
+
+.search-active-bar {
+    display: none;
+    position: sticky;
+    z-index: 99;
+    background: rgba(248, 250, 252, 0.95);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    border-bottom: 1px solid var(--color-border);
+    padding: 5px 16px;
+    text-align: center;
+    font-size: 0.75rem;
+    font-style: italic;
+    color: #666;
+}
+
+.search-active-bar.visible {
+    display: block;
+}
+
+@media (max-width: 480px) {
+    .search-active-bar {
+        font-size: 0.65rem;
+        padding: 4px 8px;
+    }
+}
+
 /* ==================== MEDIA GALLERY ==================== */
 
 .media-gallery {

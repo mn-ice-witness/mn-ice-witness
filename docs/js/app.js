@@ -246,9 +246,13 @@ const App = {
         let offset = 0;
         const viewToggle = document.querySelector('.view-toggle');
         const sectionNav = document.querySelector('.section-nav');
+        const searchBar = document.getElementById('search-active-bar');
         if (viewToggle) offset += viewToggle.offsetHeight;
-        if (sectionNav && getComputedStyle(sectionNav).position === 'sticky') {
+        if (sectionNav && getComputedStyle(sectionNav).position === 'sticky' && getComputedStyle(sectionNav).display !== 'none') {
             offset += sectionNav.offsetHeight;
+        }
+        if (searchBar && searchBar.classList.contains('visible')) {
+            offset += searchBar.offsetHeight;
         }
         return offset;
     },
@@ -285,6 +289,53 @@ const App = {
     categoryToSectionId(category) {
         if (category === 'schools') return 'schools-hospitals';
         return category;
+    },
+
+    // ==================== SEARCH BAR ====================
+
+    updateSearchBar(filtered) {
+        const bar = document.getElementById('search-active-bar');
+        if (!bar) return;
+
+        if (!Search.hasActiveFilters() || ViewState.currentView === 'timeline') {
+            bar.classList.remove('visible');
+            this.updateScrollOffset();
+            return;
+        }
+
+        const parts = [];
+        if (Search.query) {
+            parts.push(`\u201c${Search.query}\u201d`);
+        }
+
+        const topicLabels = [];
+        const sourceLabels = [];
+        Search.checkboxes.forEach(cb => {
+            if (!Search.activeTags.has(cb.value)) return;
+            const label = cb.closest('.filter-chip').textContent.trim();
+            if (cb.value.startsWith('src:')) {
+                sourceLabels.push(label);
+            } else {
+                topicLabels.push(label);
+            }
+        });
+
+        if (topicLabels.length > 0) parts.push(topicLabels.join(', '));
+        if (sourceLabels.length > 0) parts.push(sourceLabels.join(', '));
+
+        const count = `${filtered.length} ${filtered.length === 1 ? 'story' : 'stories'}`;
+        bar.textContent = parts.length > 0 ? `${parts.join(' \u00b7 ')} \u2014 ${count}` : count;
+        bar.classList.add('visible');
+
+        let top = 0;
+        const viewToggle = document.querySelector('.view-toggle');
+        if (viewToggle) top += viewToggle.offsetHeight;
+        const sectionNav = document.querySelector('.section-nav');
+        if (sectionNav && getComputedStyle(sectionNav).display !== 'none' && getComputedStyle(sectionNav).position === 'sticky') {
+            top += sectionNav.offsetHeight;
+        }
+        bar.style.top = top + 'px';
+        this.updateScrollOffset();
     },
 
     // ==================== SEARCH & FILTER ====================
@@ -544,6 +595,8 @@ const App = {
         if (countEl && Search.query) {
             countEl.textContent = `${filtered.length} result${filtered.length !== 1 ? 's' : ''}`;
         }
+
+        this.updateSearchBar(filtered);
 
         // Clear existing sections
         container.querySelectorAll('.incident-section').forEach(el => el.remove());

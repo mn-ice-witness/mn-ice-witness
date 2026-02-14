@@ -472,7 +472,8 @@
         "src:fox-news",
         "src:other-national",
         "src:mother-jones",
-        "src:mn-reformer"
+        "src:mn-reformer",
+        "src:mpr"
       ],
       "hasLocalMedia": true,
       "localMediaType": "video",
@@ -877,7 +878,8 @@
         "src:wcco",
         "src:abc",
         "src:sahan-journal",
-        "src:other-national"
+        "src:other-national",
+        "src:star-tribune"
       ],
       "hasLocalMedia": true,
       "localMediaType": "video",
@@ -995,7 +997,8 @@
         "src:wcco",
         "src:bring-me-the-news",
         "src:cnn",
-        "src:other-national"
+        "src:other-national",
+        "src:star-tribune"
       ],
       "hasLocalMedia": true,
       "localMediaType": "video",

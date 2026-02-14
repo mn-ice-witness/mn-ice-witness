@@ -657,7 +657,9 @@
         "src:bring-me-the-news",
         "src:other-local",
         "src:wcco",
-        "src:pioneer-press"
+        "src:pioneer-press",
+        "src:mpr",
+        "src:star-tribune"
       ],
       "hasLocalMedia": false,
       "localMediaType": null,
@@ -862,7 +864,9 @@
         "src:kare11",
         "src:mn-reformer",
         "src:bring-me-the-news",
-        "src:sahan-journal"
+        "src:sahan-journal",
+        "src:mpr",
+        "src:star-tribune"
       ],
       "hasLocalMedia": false,
       "localMediaType": null,
@@ -1099,7 +1103,8 @@
         "src:sahan-journal",
         "src:mpr",
         "src:kare11",
-        "src:other-national"
+        "src:other-national",
+        "src:star-tribune"
       ],
       "hasLocalMedia": true,
       "localMediaType": "image",

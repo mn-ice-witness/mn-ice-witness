@@ -1018,7 +1018,8 @@
         "src:pbs",
         "src:abc",
         "src:fox9",
-        "src:mother-jones"
+        "src:mother-jones",
+        "src:mpr"
       ],
       "hasLocalMedia": true,
       "localMediaType": "video",
@@ -1467,7 +1468,8 @@
         "src:sahan-journal",
         "src:cnn",
         "src:nbc",
-        "src:other-national"
+        "src:other-national",
+        "src:mpr"
       ],
       "hasLocalMedia": true,
       "localMediaType": "video",
