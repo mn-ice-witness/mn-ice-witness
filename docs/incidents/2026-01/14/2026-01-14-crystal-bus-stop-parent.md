@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-15T09:33:17
 last_updated: 2026-01-15T09:33:17
-search_tags: children, family-separation, src:kare11, src:kstp, src:bring-me-the-news, src:other-local, src:wcco, src:pioneer-press
+search_tags: children, family-separation, src:kare11, src:kstp, src:bring-me-the-news, src:other-local, src:wcco, src:pioneer-press, src:mpr, src:star-tribune
 ---
 
 # Parent Detained by ICE at School Bus Stop While Waiting with Child
@@ -26,6 +26,8 @@ ICE agents detained the parent of a Northport Elementary School student at a sch
 5. KSTP (Jan 14, 2026): [Northport Elementary parent reportedly arrested by ICE while waiting with child for the bus](https://kstp.com/kstp-news/local-news/northport-elementary-parent-reportedly-arrested-by-ice-while-waiting-with-child-for-the-bus/)
 5. Pioneer Press (Jan 14, 2026): [MN lawmaker: ICE detains parent at a bus stop in Crystal](https://www.twincities.com/2026/01/14/mn-lawmaker-ice-detains-parent-at-a-bus-stop-in-crystal/)
 6. Sun Sailor (Jan 14, 2026): [Rdale confirms ICE detained a parent at Crystal bus stop](https://www.hometownsource.com/sun_sailor/free/rdale-confirms-ice-detained-a-parent-at-crystal-bus-stop/article_eb407e68-3f45-4e90-a1c1-b346059f0f8f.html)
+7. MPR News (Jan 23, 2026): [How schools and students are affected by ICE enforcement](https://www.mprnews.org/story/2026/01/23/how-schools-and-students-are-affected-by-ice-enforcement)
+8. Star Tribune (Jan 2026): [Attendance drops at Minnesota schools as federal immigration enforcement intensifies anxieties](https://www.startribune.com/attendance-drops-at-minnesota-schools-as-federal-immigration-enforcement-intensifies-anxieties/601560458)
 
 ## Affected Individual(s)
 - **Name:** Not publicly disclosed

@@ -10,7 +10,7 @@ injuries: minor
 trustworthiness: high
 created: 2026-01-14T08:54:15
 last_updated: 2026-02-08T14:03:16
-search_tags: workplace-raid, warrantless-entry, src:wcco, src:sahan-journal, src:fox9, src:kstp, src:kare11, src:other-local
+search_tags: workplace-raid, warrantless-entry, src:wcco, src:sahan-journal, src:fox9, src:kstp, src:kare11, src:other-local, src:mpr
 ---
 
 # Construction Workers Take Refuge on Roof During Hours-Long ICE Standoff
@@ -33,6 +33,7 @@ Two construction workers and brothers, Edgar and Marco Chicaiza Dutan, took refu
 9. Reddit discussion (Dec 2025): [ICE trapped construction workers on a roof in Chanhassen](https://www.reddit.com/r/minnesota/comments/1pltctw/ice_trapped_construction_workers_on_a_roof_in/)
 10. Minneapolis Daily News Podcast (Dec 14, 2025): [ICE Arrest Sparks Chanhassen Standoff](https://shows.acast.com/the-minneapolis-daily-news-now/episodes/6942505be0aa901b335b8593)
 11. KARE 11 (Dec 13, 2025): [One detainee leaves in an ambulance after ICE raid in Chanhassen](https://www.kare11.com/article/news/local/detainee-ice-raid-minnesota-immigration/89-b79207ff-28c2-453d-a590-c8b84102f316)
+12. MPR News (Dec 13, 2025): [ICE agents corner Chanhassen construction workers amid frigid temperatures](https://www.mprnews.org/story/2025/12/13/ice-agents-corner-chanhassen-construction-workers-amid-frigid-temperatures)
 
 ## Affected Individual(s)
 

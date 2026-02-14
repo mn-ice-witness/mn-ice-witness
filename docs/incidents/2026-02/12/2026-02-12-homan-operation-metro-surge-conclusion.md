@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-12T09:32:12
 last_updated: 2026-02-12T09:32:12
-search_tags: src:fox9, src:kstp, src:cbs, src:wcco, src:nbc, src:pbs, src:pioneer-press, src:kare11, src:sahan-journal, src:mn-reformer
+search_tags: src:fox9, src:kstp, src:cbs, src:wcco, src:nbc, src:pbs, src:pioneer-press, src:kare11, src:sahan-journal, src:mn-reformer, src:mpr, src:star-tribune
 ---
 
 # Homan Declares Operation Metro Surge Over
@@ -33,6 +33,8 @@ At a press conference at the Whipple Federal Building at Fort Snelling, border c
 12. Sahan Journal (Feb 12, 2026): [Border czar says Minnesota ICE operation is ending](https://sahanjournal.com/immigration/border-czar-tom-homan-minnesota-ice-operation-metro-surge-ending/)
 13. Sahan Journal (Feb 12, 2026): [AP: U.S. immigration enforcement in Minnesota winding down](https://sahanjournal.com/immigration/ap-us-immigration-enforcement-minnesota-4/)
 14. Minnesota Reformer (Feb 12, 2026): [Border czar Tom Homan announces end to Operation Metro Surge, claiming success](https://minnesotareformer.com/2026/02/12/border-czar-tom-homan-announces-end-to-operation-metro-surge-claiming-success/)
+15. MPR News (Feb 12, 2026): [Tom Homan federal immigration operation Minnesota news conference](https://www.mprnews.org/story/2026/02/12/tom-homan-federal-immigration-operation-minnesota-news-conference)
+16. Star Tribune (Feb 12, 2026): [Border czar Tom Homan: Minnesota ICE surge to end](https://www.startribune.com/border-czar-tom-homan-minnesota-ice-surge-to-end/601580746)
 
 ## Key Quotes
 

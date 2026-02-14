@@ -10,7 +10,7 @@ injuries: minor
 trustworthiness: high
 created: 2026-01-14T09:04:50
 last_updated: 2026-01-14T09:04:50
-search_tags: workplace-raid, chemical-agents, observer-intimidated, src:mpr, src:sahan-journal, src:pioneer-press, src:mn-reformer, src:kstp, src:kare11
+search_tags: workplace-raid, chemical-agents, observer-intimidated, src:mpr, src:sahan-journal, src:pioneer-press, src:mn-reformer, src:kstp, src:kare11, src:star-tribune
 ---
 
 # 14 Workers Detained in Major ICE Workplace Raid at Bro-Tex
@@ -27,6 +27,7 @@ Federal agents raided Bro-Tex Inc., a cleaning products manufacturer in St. Paul
 6. KSTP (Nov 2025): [How the Bro-Tex raid shook 2 families in St. Paul](https://kstp.com/kstp-news/top-news/how-the-brotex-raid-shook-2-families-in-st-paul/)
 7. KARE 11 (Nov 18, 2025): [Federal agents conduct operation in St. Paul](https://www.kare11.com/article/news/local/ice-agents-on-scene-in-st-paul/89-5f0f3821-5922-4a8f-9a30-0c71eaa9fc5b)
 8. KARE 11 (Nov 19, 2025): [Activists want answers after ICE raid on St. Paul business](https://www.kare11.com/article/news/local/activists-want-answers-after-ice-raid-on-st-paul-business/89-27bd081e-9a29-4b5e-ba0d-ec139086a934)
+9. Star Tribune (Nov 2025): [Federal agents, protesters on scene at St. Paul paper distributor](https://www.startribune.com/federal-agents-protesters-on-scene-at-st-paul-paper-distributor/601528436)
 
 ## Affected Individual(s)
 - **Number detained:** 14 workers

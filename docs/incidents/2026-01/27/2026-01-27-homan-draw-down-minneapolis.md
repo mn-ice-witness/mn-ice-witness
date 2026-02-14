@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-05T11:48:18
 last_updated: 2026-02-10T18:41:10
-search_tags: src:npr, src:wapo, src:nbc, src:pbs, src:mpr, src:abc, src:other-national
+search_tags: src:npr, src:wapo, src:nbc, src:pbs, src:mpr, src:abc, src:other-national, src:star-tribune
 ---
 
 # Homan Takes Command, Begins Operation Metro Surge Draw Down
@@ -38,6 +38,7 @@ Following two fatal shootings of U.S. citizens by federal agents, the Trump admi
 9. Salon (Jan 27, 2026): [Border Patrol commander Gregory Bovino demoted](https://www.salon.com/2026/01/27/border-patrol-commander-gregory-bovino-demoted/)
 10. CNBC (Feb 4, 2026): [Trump admin to withdraw 700 federal officers from Minnesota](https://www.cnbc.com/2026/02/04/trump-homan-minnesota-ice-immigration.html)
 11. YouTube Video (Jan 29, 2026): [Tom Homan Minneapolis press conference](https://www.youtube.com/watch?v=UcAz0EqlaFY)
+12. Star Tribune (Jan 2026): [Tom Homan plans federal agent drawdown, says Minnesota must cooperate with feds](https://www.startribune.com/white-house-border-czar-tom-homan-plans-federal-agent-drawdown-says-minnesota-must-cooperate-with-feds/601572758)
 
 ## Background
 

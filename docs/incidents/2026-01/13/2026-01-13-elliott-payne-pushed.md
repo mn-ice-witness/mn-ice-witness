@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-14T08:01:12
 last_updated: 2026-01-14T08:01:12
-search_tags: observer-intimidated, us-citizen, excessive-force, src:fox9, src:wcco, src:bring-me-the-news, src:cnn, src:other-national
+search_tags: observer-intimidated, us-citizen, excessive-force, src:fox9, src:wcco, src:bring-me-the-news, src:cnn, src:other-national, src:star-tribune
 ---
 
 # City Council President Pushed by ICE Agent While Legally Observing
@@ -30,6 +30,7 @@ Minneapolis City Council President Elliott Payne was shoved by a masked ICE agen
 9. uPolitics Video (Jan 15, 2026): [Masked ICE Agent Shoves Minneapolis City Council President Elliott Payne On Public Sidewalk](https://upolitics.com/news/video-masked-ice-agent-shoves-minneapolis-city-council-president-elliott-payne-on-public-sidewalk/)
 10. Yahoo News Video (Jan 15, 2026): [Masked ICE agent shoves Minneapolis City Council president](https://www.yahoo.com/news/videos/masked-ice-agent-shoves-minneapolis-183434740.html)
 11. CNN Live Updates (Jan 15, 2026): [Minneapolis shootings and protests](https://www.cnn.com/us/live-news/minneapolis-ice-shooting-protests-01-15-26?post-id=cmkfudw7f001m356pt806xv4f)
+12. Star Tribune (Jan 2026): ['Have y'all not learned': Federal agents target legal observers in the aftermath of Good shooting](https://www.startribune.com/have-yall-not-learned-federal-agents-target-legal-observers-in-the-aftermath-of-good-shooting/601562804)
 
 ## Affected Individual(s)
 - **Name:** Elliott Payne

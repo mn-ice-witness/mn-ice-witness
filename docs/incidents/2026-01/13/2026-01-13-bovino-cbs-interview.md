@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-15T23:23:27
 last_updated: 2026-01-15T23:23:27
-search_tags: shooting, src:wcco, src:other-national, src:abc
+search_tags: shooting, src:wcco, src:other-national, src:abc, src:mpr
 ---
 
 # Border Patrol Commander Bovino CBS Interview
@@ -27,6 +27,7 @@ U.S. Border Patrol Commander Gregory Bovino sat down with WCCO's Esme Murphy for
 6. Axios (Jan 9, 2026): [Poll: Americans say ICE is "too forceful"](https://www.axios.com/2026/01/09/ice-approval-rating-plummets-trump-immigration)
 7. ABC News (Jan 13, 2026): [Majority say Good shooting was inappropriate use of force](https://abcnews.go.com/Politics/majority-americans-ice-agents-shooting-good-unjustified-inappropriate/story?id=129253596)
 8. The Daily Beast (Jan 13, 2026): [Trump's Top Goon Sparks Outrage by Praising ICE Agent](https://www.thedailybeast.com/donald-trumps-top-goon-sparks-outrage-by-praising-ice-agent-who-shot-mom-hats-off/)
+9. MPR News (Jan 21, 2026): [Bovino defends immigration surge tactics, deflects questions, blames local leaders, 'anarchists'](https://www.mprnews.org/story/2026/01/21/bovino-defends-immigration-surge-tactics-deflects-questions-blames-local-leaders-anarchists)
 
 ## Key Claims and Context
 

@@ -10,7 +10,7 @@ injuries: serious
 trustworthiness: high
 created: 2026-01-14T08:01:12
 last_updated: 2026-01-14T08:01:12
-search_tags: us-citizen, citizen-check, excessive-force, workplace-raid, src:bring-me-the-news, src:star-tribune, src:kare11, src:wcco, src:sahan-journal, src:cnn, src:nbc, src:other-national
+search_tags: us-citizen, citizen-check, excessive-force, workplace-raid, src:bring-me-the-news, src:star-tribune, src:kare11, src:wcco, src:sahan-journal, src:cnn, src:nbc, src:other-national, src:mpr
 ---
 
 # Two U.S. Citizen Target Employees Detained and Injured
@@ -37,6 +37,7 @@ Two Target drive-up employees, both U.S. citizens, were aggressively detained by
 16. Instagram Video (Jan 8, 2026): ["Target employee detained by ICE"](https://www.instagram.com/reel/DTY9Em3ASMU/)
 17. Instagram Video (Jan 8, 2026): ["A viral video reporting ICE arresting two US citizens"](https://www.instagram.com/reel/DTRPG3rjert/)
 18. Court Filing (Jan 9, 2026): [Hussen v. Noem, Case 26-cv-00324 — Complaint including Javier Doe declaration](https://storage.courtlistener.com/recap/gov.uscourts.mnd.230424/gov.uscourts.mnd.230424.2.0.pdf)
+19. MPR News (Feb 2, 2026): [Protesters call on Target to speak out against ICE](https://www.mprnews.org/story/2026/02/02/protesters-call-on-target-to-speak-out-against-ice)
 
 ## Affected Individual(s)
 

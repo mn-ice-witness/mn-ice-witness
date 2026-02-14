@@ -10,7 +10,7 @@ injuries: serious
 trustworthiness: high
 created: 2026-01-15T15:19:43
 last_updated: 2026-01-15T15:19:43
-search_tags: us-citizen, children, chemical-agents, excessive-force, src:fox9, src:bring-me-the-news, src:nyt, src:kare11, src:kstp, src:wcco, src:abc, src:sahan-journal, src:other-national
+search_tags: us-citizen, children, chemical-agents, excessive-force, src:fox9, src:bring-me-the-news, src:nyt, src:kare11, src:kstp, src:wcco, src:abc, src:sahan-journal, src:other-national, src:star-tribune
 ---
 
 # Six Children Hospitalized After ICE Deploys Flashbangs and Tear Gas on Family SUV
@@ -36,6 +36,7 @@ Shawn Jackson and his family were leaving a relative's home after his son's bask
 14. Raw Story (Jan 15, 2026): [ICE Minneapolis family tear gas](https://www.rawstory.com/ice-minneapolis-2674900256/)
 15. Global News Canada (Jan 15, 2026): [Children hospitalized after tear gas deployed by ICE in Minneapolis](https://globalnews.ca/news/11617045/children-hospitalized-tear-gas-deployed-ice-minneapolis-video/)
 16. Sahan Journal (Jan 15, 2026): [North Minneapolis ICE shooting report immigration](https://sahanjournal.com/public-safety/north-minneapolis-ice-shooting-report-immigration/)
+17. Star Tribune (Jan 2026): [Family recounts danger, chaos after being caught in unrest after man shot by federal agent](https://www.startribune.com/family-recounts-danger-chaos-after-being-caught-in-unrest-after-man-shot-by-federal-agent/601567401)
 
 ## Affected Individual(s)
 - **Name:** Shawn Jackson (father), Destiny Jackson (mother)

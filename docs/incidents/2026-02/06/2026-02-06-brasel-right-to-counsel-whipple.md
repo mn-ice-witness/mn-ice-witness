@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-07T14:24:24
 last_updated: 2026-02-13T13:43:32
-search_tags: src:ap, src:kstp, src:wcco, src:fox9, src:abc, src:star-tribune, src:mn-reformer, src:nyt, src:nbc, src:cnn, src:npr, src:bring-me-the-news, src:sahan-journal, src:other-national, src:other-local
+search_tags: src:ap, src:kstp, src:wcco, src:fox9, src:abc, src:star-tribune, src:mn-reformer, src:nyt, src:nbc, src:cnn, src:npr, src:bring-me-the-news, src:sahan-journal, src:other-national, src:other-local, src:mpr
 ---
 
 # Minnesota's Legal System Buckles Under Weight of Operation Metro Surge
@@ -61,6 +61,7 @@ The legal infrastructure around Operation Metro Surge began visibly collapsing i
 33. CNN (Feb 6, 2026): [Appeals court greenlights Trump admin policy of detaining undocumented immigrants without opportunity to seek release](https://www.cnn.com/2026/02/06/politics/appeals-court-trump-immigration-detention-policy)
 34. CBS News (Feb 6, 2026): [Appeals court endorses Trump policy of holding many ICE detainees without bond hearings](https://www.cbsnews.com/news/appeals-court-endorses-trump-policy-of-holding-many-ice-detainees-without-bond-hearings/)
 35. Sahan Journal (Feb 2026): [Federal ruling allows immigrants to be held indefinitely in Texas](https://sahanjournal.com/immigration/texas-fifth-circuit-ruling-immigrants-indefinite-detention/)
+36. MPR News (Feb 11, 2026): [Lawyers gain access to Whipple Federal Building after lawsuit, find lack of access to counsel](https://www.mprnews.org/story/2026/02/11/lawyers-gain-access-to-whipple-federal-building-after-lawsuit-find-lack-of-access-to-counsel)
 
 ## Related Incidents
 - [Judge Orders ICE Director to Appear for Contempt; 96 Court Orders Violated](#2026-01-27-tobay-robles-lyons-contempt)

@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-05T14:18:31
 last_updated: 2026-02-05T14:18:31
-search_tags: src:other-national, src:npr, src:nbc, src:wapo, src:abc, src:nyt, src:cnn, src:pbs
+search_tags: src:other-national, src:npr, src:nbc, src:wapo, src:abc, src:nyt, src:cnn, src:pbs, src:star-tribune, src:mpr
 ---
 
 # Trump Threatens Military Deployment to Minneapolis Under Insurrection Act
@@ -35,6 +35,8 @@ President Trump threatened to invoke the Insurrection Act to deploy military for
 9. CNBC (Jan 18, 2026): [Pentagon readies 1,500 troops for potential Minnesota deployment](https://www.cnbc.com/2026/01/18/pentagon-minnesota-troops.html)
 10. Military.com (Jan 19, 2026): [Army Puts 1,500 Soldiers on Standby for Possible Minnesota Deployment](https://www.military.com/daily-news/2026/01/19/army-puts-1500-soldiers-standby-possible-minnesota-deployment-ap-sources-say.html)
 11. Al Jazeera (Jan 19, 2026): [US Pentagon orders troops to prepare for potential Minnesota deployment](https://www.aljazeera.com/news/2026/1/19/pentagon-orders-troops-to-prepare-for-potential-minnesota-deployment)
+12. Star Tribune (Jan 2026): [Insurrection Act: Trump, Minnesota](https://www.startribune.com/insurrection-act-trump-minnesota/601564579)
+13. MPR News (Jan 15, 2026): [ICE shooting Minneapolis Minnesota latest updates](https://www.mprnews.org/story/2026/01/15/ice-shooting-minneapolis-minnesota-latest-updates)
 
 ## Related Incidents
 - [Homan Takes Command, Begins Operation Metro Surge Draw Down](#2026-01-27-homan-draw-down-minneapolis)

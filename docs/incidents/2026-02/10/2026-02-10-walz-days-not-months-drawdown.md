@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-11T14:14:49
 last_updated: 2026-02-11T14:14:49
-search_tags: src:kstp, src:fox9, src:star-tribune, src:pioneer-press, src:minnpost
+search_tags: src:kstp, src:fox9, src:star-tribune, src:pioneer-press, src:minnpost, src:mpr
 ---
 
 # Walz Says ICE Drawdown Coming in "Days, Not Weeks and Months"
@@ -24,6 +24,7 @@ At a press conference highlighting small business devastation, Governor Walz sai
 3. Star Tribune (Feb 10, 2026): [Gov. Tim Walz says federal immigration surge could wind down within days](https://www.startribune.com/gov-tim-walz-says-federal-immigration-surge-could-wind-down-within-days/601579955)
 4. Pioneer Press (Feb 10, 2026): [Gov. Tim Walz says he expects further ICE drawdown this week](https://www.twincities.com/2026/02/10/gov-tim-walz-says-he-expects-further-ice-drawdown-this-week/)
 5. MinnPost (Feb 2026): [Walz says state will soon move into 'recovery' phase of ICE surge](https://www.minnpost.com/glean/2026/02/walz-believes-state-will-soon-move-into-recovery-phase-of-ice-surge/)
+6. MPR News (Feb 10, 2026): [Walz predicts big reduction in federal immigration agents within days](https://www.mprnews.org/story/2026/02/10/walz-predicts-big-reduction-in-federal-immigration-agents-within-days)
 
 ## Key Quotes
 

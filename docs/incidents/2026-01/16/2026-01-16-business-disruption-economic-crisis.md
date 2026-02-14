@@ -45,6 +45,7 @@ Operation Metro Surge triggered an economic crisis across the Twin Cities as imm
 20. YouTube (Jan 14, 2026): [Senators discuss ICE impact on agriculture](https://www.youtube.com/watch?v=0A-YQlkhu24)
 21. Minnesota Reformer (Jan 16, 2026): [Big Minnesota companies keep quiet as Trump's immigration crackdown squeezes the state](https://minnesotareformer.com/2026/01/16/big-minnesota-companies-keep-quiet-as-trumps-immigration-crackdown-squeezes-the-state/)
 22. Minnesota Reformer (Jan 19, 2026): [A cloud of fear hangs over Minnesota immigrant communities](https://minnesotareformer.com/2026/01/19/a-cloud-of-fear-hangs-over-minnesota-immigrant-communities/)
+23. MPR News (Jan 15, 2026): [Minnesota business owners feeling effects of intensified ICE enforcement actions](https://www.mprnews.org/story/2026/01/15/minnesota-business-owners-feeling-effects-of-intensified-ice-enforcement-actions)
 
 ## Economic Impact
 

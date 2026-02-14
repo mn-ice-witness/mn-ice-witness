@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-05T20:39:31
 last_updated: 2026-02-05T20:39:31
-search_tags: src:pbs, src:star-tribune, src:sahan-journal, src:kstp, src:pioneer-press, src:npr, src:fox9, src:wcco, src:mn-reformer
+search_tags: src:pbs, src:star-tribune, src:sahan-journal, src:kstp, src:pioneer-press, src:npr, src:fox9, src:wcco, src:mn-reformer, src:mpr
 ---
 
 # Minnesota Sues Federal Government to Halt Operation Metro Surge
@@ -29,6 +29,7 @@ Minnesota Attorney General Keith Ellison, Minneapolis Mayor Jacob Frey, and St. 
 8. CBS Minnesota (Jan 26, 2026): [Federal judge again declines to grant restraining order against DHS in Minnesota](https://www.cbsnews.com/minnesota/news/minnesota-attorney-general-keith-ellison-kristi-noem-federal-lawsuit-operation-metro-surge/)
 9. NPR (Jan 26, 2026): [Amid lawsuits and protests, Trump sends border czar to Minnesota](https://www.npr.org/2026/01/26/nx-s1-5688835/leadership-shakeup-amid-protests-lawsuits-immigration)
 10. Minnesota Reformer (Jan 14, 2026): [Federal judge says immigration sweeps can continue for now in Minnesota](https://minnesotareformer.com/2026/01/14/federal-judge-says-immigration-sweeps-can-continue-for-now-in-minnesota/)
+11. MPR News (Jan 12, 2026): [Ellison says Minnesota is suing federal government over ICE surge](https://www.mprnews.org/story/2026/01/12/latest-monday-on-ice-shooting-in-minneapolis)
 
 ## Key Details
 - The lawsuit was filed less than a week after ICE agent Jonathan Ross fatally shot Renee Good on January 7

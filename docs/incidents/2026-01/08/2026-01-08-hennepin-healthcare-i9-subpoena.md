@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-15T22:45:52
 last_updated: 2026-01-15T22:45:52
-search_tags: src:kare11, src:mn-reformer, src:bring-me-the-news, src:sahan-journal
+search_tags: src:kare11, src:mn-reformer, src:bring-me-the-news, src:sahan-journal, src:mpr, src:star-tribune
 ---
 
 # DHS Subpoenas Hennepin Healthcare Employee Records for 7,000+ Workers
@@ -23,6 +23,8 @@ The Department of Homeland Security issued a subpoena to Hennepin Healthcare on 
 2. Minnesota Reformer (Jan 9, 2026): [Homeland Security audits Hennepin Healthcare's employment records for undocumented workers](https://minnesotareformer.com/2026/01/15/homeland-security-audits-hennepin-healthcares/)
 3. Bring Me The News (Jan 9, 2026): [Homeland Security subpoenas Hennepin Healthcare employee information](https://bringmethenews.com/minnesota-news/homeland-security-subpoenas-hennepin-healthcare-employee-information)
 4. Sahan Journal (Jan 15, 2026): [Homeland Security audits Hennepin Healthcare employment records](https://sahanjournal.com/health/homeland-security-audit-hennepin-healthcare/)
+5. MPR News (Jan 17, 2026): [Hennepin Healthcare workers concerned over DHS audit](https://www.mprnews.org/story/2026/01/17/hennepin-healthcare-workers-concerned-over-dhs-audit)
+6. Star Tribune (Jan 2026): [ICE seizes worker documents from Hennepin Healthcare](https://www.startribune.com/ice-seizes-worker-documents-from-hennepin-healthcare/601565513)
 
 ## Details
 

@@ -10,7 +10,7 @@ injuries: minor
 trustworthiness: high
 created: 2026-01-14T08:01:12
 last_updated: 2026-02-08T15:36:25
-search_tags: shooting, vehicle-pursuit, src:sahan-journal, src:mpr, src:fox9, src:other-national
+search_tags: shooting, vehicle-pursuit, src:sahan-journal, src:mpr, src:fox9, src:other-national, src:star-tribune
 ---
 
 # ICE Agent Fires Shots at Man During St. Paul Arrest After Being Struck by Vehicle
@@ -26,6 +26,7 @@ An ICE agent fired two shots at Juan Carlos Romero, a Cuban national, during an 
 2. MPR News (Dec 21, 2025): [ICE says agent shot at man in St. Paul after he hit him with car](https://www.mprnews.org/story/2025/12/21/st-paul-federal-agent-use-of-force)
 3. Fox 9 (Dec 21, 2025): [Federal agent fires weapon in St. Paul after being struck by vehicle](https://www.fox9.com/news/federal-agent-fires-weapon-st-paul-after-being-struck-be-vehicle-police-say)
 4. KATU / The National News Desk (Dec 22, 2025): [ICE agent fires at illegal immigrant in Minnesota after being struck by SUV](https://katu.com/news/nation-world/ice-agent-fires-at-cuban-illegal-immigrant-juan-carlos-romero-in-st-paul-minnesota-after-being-struck-by-suv-biden-cbp-one-app-homeland-security-operation-metro-surge)
+5. Star Tribune (Dec 21, 2025): [Federal agent fires weapon after being struck by vehicle in St. Paul, police say](https://www.startribune.com/federal-agent-fires-weapon-after-being-struck-by-vehicle-in-st-paul-police-say/601550865)
 
 ## Suspect
 - **Name:** Juan Carlos Romero

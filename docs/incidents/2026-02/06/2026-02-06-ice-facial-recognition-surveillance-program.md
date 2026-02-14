@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-09T12:28:18
 last_updated: 2026-02-09T12:28:18
-search_tags: observer-intimidated, us-citizen, src:nbc, src:kstp, src:cnn, src:ap, src:pbs, src:wapo, src:mn-reformer, src:fox9, src:other-national
+search_tags: observer-intimidated, us-citizen, src:nbc, src:kstp, src:cnn, src:ap, src:pbs, src:wapo, src:mn-reformer, src:fox9, src:other-national, src:mpr
 ---
 
 # ICE Deploys Facial Recognition Surveillance Program Against Citizen Observers in Minnesota
@@ -32,6 +32,7 @@ Federal agents conducting Operation Metro Surge deployed a smartphone-based faci
 9. FOX 9 (Jan 17, 2026): [ICE agents' tactics in Minnesota: Observers fear privacy invasion](https://www.fox9.com/news/ice-agents-tactics-minnesota-observers-fear-privacy-invasion)
 10. 404 Media (Jun 2025): [ICE Is Using a New Facial Recognition App to Identify People, Leaked Emails Show](https://www.404media.co/ice-is-using-a-new-facial-recognition-app-to-identify-people-leaked-emails-show/)
 11. EFF (Feb 2026): [Yes to the "ICE Out of Our Faces Act"](https://www.eff.org/deeplinks/2026/02/yes-ice-out-my-face-act)
+12. MPR News (Jan 30, 2026): [DHS ramps up surveillance in immigration raids, sweeping in citizens](https://www.mprnews.org/story/2026/01/30/dhs-ramps-up-surveillance-in-immigration-raids-sweeping-in-citizens)
 
 ## Mobile Fortify: The Technology
 

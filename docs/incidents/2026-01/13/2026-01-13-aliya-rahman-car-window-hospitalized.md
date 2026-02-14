@@ -10,7 +10,7 @@ injuries: serious
 trustworthiness: high
 created: 2026-01-15T23:23:27
 last_updated: 2026-02-12T14:39:36
-search_tags: us-citizen, excessive-force, src:sahan-journal, src:other-national, src:nbc, src:cbs, src:cnn, src:pbs, src:abc, src:fox9, src:mother-jones
+search_tags: us-citizen, excessive-force, src:sahan-journal, src:other-national, src:nbc, src:cbs, src:cnn, src:pbs, src:abc, src:fox9, src:mother-jones, src:mpr
 ---
 
 # U.S. Citizen Aliya Rahman Dragged From Car, Hospitalized After ICE Assault
@@ -56,6 +56,7 @@ Aliya Rahman, a 43-year-old U.S. citizen and software engineer, was dragged from
 30. FOX 9 (Feb 4, 2026): [Testimony: Minnesota woman with disabilities detained during ICE surge](https://www.fox9.com/news/testimony-minnesota-woman-disabilities-detained-during-ice-surge)
 31. Democracy Now (Feb 9, 2026): [Meet Aliya Rahman, Disabled U.S. Citizen Assaulted, Jailed & Traumatized by ICE](https://www.democracynow.org/2026/2/9/minneapolis_ice)
 32. Mother Jones / Facebook Video (Jan 13, 2026): [Federal agents forcibly drag disabled woman from car](https://www.facebook.com/reel/2235200987003312/)
+33. MPR News (Jan 13, 2026): [ICE enforcement shooting in Minnesota: latest Tuesday](https://www.mprnews.org/story/2026/01/13/ice-enforcement-shooting-in-minnesota-latest-tuesday)
 
 ## Affected Individual(s)
 - **Name:** Aliya Rahman

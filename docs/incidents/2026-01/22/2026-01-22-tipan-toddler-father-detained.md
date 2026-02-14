@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-23T12:05:09
 last_updated: 2026-01-23T19:21:21
-search_tags: children, family-separation, chemical-agents, src:nbc, src:kare11, src:bring-me-the-news, src:star-tribune, src:kstp, src:sahan-journal
+search_tags: children, family-separation, chemical-agents, src:nbc, src:kare11, src:bring-me-the-news, src:star-tribune, src:kstp, src:sahan-journal, src:mpr
 ---
 
 # 2-Year-Old and Father Detained Near Powderhorn; Flown to Texas Despite Court Order
@@ -29,6 +29,7 @@ ICE agents followed Elvis Joel Tipan Echeverria and his 2-year-old daughter Chlo
 5. Star Tribune (Jan 23, 2026): [Agents detain and send 2-year-old girl and her father to Texas despite court order to release toddler](https://www.startribune.com/agents-detain-and-send-2-year-old-girl-and-her-father-to-texas-despite-court-order-to-release-toddler/601569252)
 6. KSTP (Jan 23, 2026): [ICE flew 2-year-old to Texas despite court order to release her from custody](https://kstp.com/kstp-news/top-news/ice-flew-2-year-old-to-texas-despite-court-order-to-release-her-from-custody/)
 7. Sahan Journal (Jan 2026): [ICE sends detained 2-year-old from Minneapolis to Texas, despite court order](https://sahanjournal.com/immigration/ice-minneapolis-2-year-old-detained-texas-transfer/)
+8. MPR News (Jan 28, 2026): [ICE detaining, moving Minnesota children to Texas faster than courts can respond](https://www.mprnews.org/story/2026/01/28/ice-detaining-moving-minnesota-children-to-texas-faster-than-courts-can-respond)
 
 ## Affected Individual(s)
 - **Name:** Elvis Joel Tipan Echeverria (father)
