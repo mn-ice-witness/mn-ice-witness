@@ -10,7 +10,7 @@ injuries: minor
 trustworthiness: high
 created: 2026-02-08T10:38:31
 last_updated: 2026-02-08T10:38:31
-search_tags: us-citizen, observer-intimidated, excessive-force, chemical-agents, src:mpr, src:fox9, src:ap, src:wcco, src:sahan-journal, src:nyt, src:star-tribune, src:other-national
+search_tags: us-citizen, observer-intimidated, excessive-force, chemical-agents, src:mpr, src:fox9, src:ap, src:wcco, src:sahan-journal, src:nyt, src:star-tribune, src:other-national, src:kstp, src:kare11
 ---
 
 # ICE Agents Pepper Spray Observers and Protesters at Cedar-Riverside
@@ -31,6 +31,8 @@ As ICE agents attempted to leave the Cedar-Riverside neighborhood after detainin
 10. New York Times (Jan 18, 2026): [Minneapolis federal agents misconduct protesters](https://www.nytimes.com/2026/01/18/us/minneapolis-federal-agents-misconduct-protesters.html)
 11. Star Tribune (Jan 13, 2026): [Federal judge considers arguments in Twin Cities residents' lawsuit alleging mistreatment by ICE](https://www.startribune.com/federal-judge-considers-arguments-in-twin-cities-residents-lawsuit-alleging-mistreatment-by-ice/601562654)
 12. Jurist (Jan 2026): [Judge partially blocks Operation Metro Surge tactics against protesters in Minnesota](https://www.jurist.org/news/2026/01/judge-partially-blocks-operation-metro-surge-tactics-against-protesters-in-minnesota/)
+13. KSTP (Dec 9, 2025): [ICE in Minnesota: Agents pepper spray crowd in Cedar-Riverside](https://kstp.com/kstp-news/top-news/ice-in-minnesota-agents-pepper-spray-crowd-in-cedar-riverside/)
+14. KARE 11 (Dec 2025): [Residents afraid of ICE agents in Cedar-Riverside, even with documentation](https://www.kare11.com/article/news/local/residents-afraid-of-ice-agents-in-cedar-riverside-even-with-documentation-mn/89-81b8e61f-f958-4022-b6cc-63ace6c7edf3)
 
 ## Affected Individual(s)
 

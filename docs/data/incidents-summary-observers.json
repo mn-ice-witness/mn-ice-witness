@@ -873,6 +873,7 @@
         "src:bring-me-the-news",
         "src:nyt",
         "src:kare11",
+        "src:kstp",
         "src:wcco",
         "src:abc",
         "src:sahan-journal",
@@ -1820,6 +1821,8 @@
         "src:pbs",
         "src:nbc",
         "src:mpr",
+        "src:kstp",
+        "src:kare11",
         "src:other-national",
         "src:mother-jones",
         "src:mn-reformer",
@@ -2196,7 +2199,9 @@
         "src:sahan-journal",
         "src:nyt",
         "src:star-tribune",
-        "src:other-national"
+        "src:other-national",
+        "src:kstp",
+        "src:kare11"
       ],
       "hasLocalMedia": false,
       "localMediaType": null,

@@ -22,6 +22,7 @@
         "src:fox9",
         "src:kstp",
         "src:cbs",
+        "src:wcco",
         "src:nbc",
         "src:pbs",
         "src:pioneer-press",
@@ -452,6 +453,7 @@
       "searchTags": [
         "src:star-tribune",
         "src:wcco",
+        "src:kstp",
         "src:nbc",
         "src:npr",
         "src:other-national"
@@ -676,7 +678,9 @@
         "src:star-tribune",
         "src:mpr",
         "src:wcco",
-        "src:mn-reformer"
+        "src:mn-reformer",
+        "src:kstp",
+        "src:kare11"
       ],
       "hasLocalMedia": false,
       "localMediaType": null,

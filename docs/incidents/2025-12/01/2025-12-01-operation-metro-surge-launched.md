@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-05T20:39:31
 last_updated: 2026-02-05T20:39:31
-search_tags: src:sahan-journal, src:fox9, src:star-tribune, src:mpr, src:wcco, src:mn-reformer
+search_tags: src:sahan-journal, src:fox9, src:star-tribune, src:mpr, src:wcco, src:mn-reformer, src:kstp, src:kare11
 ---
 
 # DHS Launches Operation Metro Surge
@@ -27,6 +27,8 @@ The Department of Homeland Security announced "Operation Metro Surge," deploying
 6. CBS Minnesota (Dec 3, 2025): ['Largest immigration operation ever' launched in Twin Cities, DHS says](https://www.cbsnews.com/minnesota/live-updates/ice-somali-immigrants-minneapolis-st-paul/)
 7. MPR News (Dec 16, 2025): ['Battle of the cold': Tensions rising two weeks into ICE surge in Minnesota](https://www.mprnews.org/story/2025/12/16/ice-surge-in-minnesota-causes-tensions-to-rise)
 8. Minnesota Reformer (Dec 2, 2025): [Report: ICE headed to Twin Cities targeting Somali immigrants](https://minnesotareformer.com/2025/12/02/report-ice-headed-to-twin-cities-targeting-somali-immigrants/)
+9. KSTP (Dec 2025): [Who is ICE arresting during 'Operation Metro Surge'? Top ICE officials say not only people with criminal convictions](https://kstp.com/kstp-news/top-news/who-is-ice-arresting-during-operation-metro-surge-top-ice-officials-say-not-only-people-with-criminal-convictions/)
+10. KARE 11 (Dec 2025): [ICE operation now underway in Minneapolis](https://www.kare11.com/article/news/local/ice-operation-in-minneapolis-now-underway/89-f27d9e5d-5f13-4d2c-8c9b-c83b1614dd6f)
 
 ## Key Details
 - **Initial scale:** Approximately 100 federal agents deployed

@@ -10,7 +10,7 @@ injuries: serious
 trustworthiness: high
 created: 2026-02-07T14:12:42
 last_updated: 2026-02-12T22:14:54
-search_tags: legal-resident, children, shooting, excessive-force, chemical-agents, family-separation, warrantless-entry, src:mpr, src:star-tribune, src:sahan-journal, src:wcco, src:other-national, src:mn-reformer, src:fox9, src:cbs-news
+search_tags: legal-resident, children, shooting, excessive-force, chemical-agents, family-separation, warrantless-entry, src:mpr, src:star-tribune, src:sahan-journal, src:wcco, src:kstp, src:kare11, src:other-national, src:mn-reformer, src:fox9, src:cbs-news
 ---
 
 # ICE Agent Shoots Man Through Closed Door in North Minneapolis; Bullet Enters Apartment with Four Children
@@ -40,6 +40,9 @@ On January 14, 2026, an ICE agent shot Julio Cesar Sosa-Celis, 24, in the leg du
 12. Star Tribune (Feb 12, 2026): [DOJ moves to drop charges against men arrested after north Minneapolis ICE shooting](https://www.startribune.com/doj-moves-to-drop-charges-against-men-arrested-after-north-minneapolis-ice-shooting/601581378)
 13. CBS News (Feb 12, 2026): [DOJ drops charges against men accused of assaulting ICE officers, citing "inconsistent" evidence](https://www.cbsnews.com/news/doj-drops-charges-assaulting-ice-officers-inconsistent-evidence/)
 14. Fox 9 (Feb 12, 2026): [North Minneapolis ICE shooting: DOJ dismisses charges against Venezuelan men](https://www.fox9.com/news/north-minneapolis-ice-shooting-doj-dismisses-charges-venezuelan-men-feb-12-2026)
+15. KSTP (Jan 2026): [2 ICE agents under investigation for untruthful statements about north Minneapolis shooting](https://kstp.com/kstp-news/top-news/2-ice-agents-under-investigation-for-untruthful-statements-about-north-minneapolis-shooting/)
+16. KARE 11 (Feb 12, 2026): [Charges against man shot and injured by federal agent to be dismissed](https://www.kare11.com/article/news/local/ice-in-minnesota/charges-man-shot-injured-by-federal-agent-motion-dismiss/89-b9bac675-171a-4f5a-ae20-6ccfae5874e1)
+17. KARE 11 (Feb 12, 2026): [Prosecutors move to dismiss charges against men accused of hitting ICE officer with broom and shovel](https://www.kare11.com/article/associatedpress/associatedpress/prosecutors-move-to-dismiss-charges-against-men-accused-of-hitting-ice-officer-with-broom-and-shovel/616-ebe3407e-73c9-4304-ab5a-f78bc2c0e836)
 
 ## Related Incidents
 - [Six Children Hospitalized After ICE Deploys Flashbangs and Tear Gas on Family SUV](#2026-01-14-shawn-jackson-children-tear-gas) - Same day, connected protest response.

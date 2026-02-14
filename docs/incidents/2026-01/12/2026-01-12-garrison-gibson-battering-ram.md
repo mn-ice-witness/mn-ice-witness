@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-14T08:27:46
 last_updated: 2026-01-18T14:57:37
-search_tags: excessive-force, warrantless-entry, children, family-separation, src:fox9, src:kstp, src:mpr, src:abc, src:other-local, src:other-national, src:pioneer-press, src:wcco, src:sahan-journal
+search_tags: excessive-force, warrantless-entry, children, family-separation, src:fox9, src:kstp, src:kare11, src:mpr, src:abc, src:other-local, src:other-national, src:pioneer-press, src:wcco, src:sahan-journal
 ---
 
 # Liberian Man Arrested With Battering Ram, No Judicial Warrant
@@ -41,6 +41,8 @@ Garrison Gibson, a 38-year-old Liberian citizen who has lived in the U.S. for 17
 14. MPR News video (Jan 18, 2026): [Garrison Gibson full press conference](https://www.youtube.com/watch?v=UVYy57H30DU)
 15. Sahan Journal (Jan 16, 2026): [Minnesota Liberian immigrant released, then re-detained by ICE](https://sahanjournal.com/immigration/minnesota-liberian-immigrant-released-redetained/)
 16. Sahan Journal (Jan 13, 2026): [AP: Minneapolis man arrested in immigration raid was regularly checking in](https://sahanjournal.com/news-partners/ap-us-immigration-enforcement-minneapolis-arrest/)
+17. KARE 11 (Jan 13, 2026): [Liberian man arrested in Minneapolis raid was regularly checking in with authorities, lawyer says](https://www.kare11.com/article/syndication/associatedpress/liberian-man-arrested-in-minneapolis-raid-was-regularly-checking-in-with-authorities-lawyer-says/616-defaf9b2-1ece-401e-ab4a-e82bfa6b701c)
+18. KARE 11 (Jan 17, 2026): [A Liberian man released after his battering-ram arrest in Minneapolis is back in custody again](https://www.kare11.com/article/associatedpress/associatedpress/a-liberian-man-released-after-his-battering-ram-arrest-in-minneapolis-is-back-in-custody-again/616-2982fd5e-fc02-478f-bb49-4547c494b694)
 
 ## Affected Individual(s)
 - **Name:** Garrison Gibson

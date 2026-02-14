@@ -24,6 +24,7 @@
         "src:mpr",
         "src:fox9",
         "src:kare11",
+        "src:wcco",
         "src:bring-me-the-news",
         "src:pioneer-press",
         "src:star-tribune",
@@ -66,7 +67,11 @@
       "lastUpdated": "2026-02-12T09:46:25",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "src:wcco",
+        "src:fox9",
+        "src:other-local"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -251,6 +256,7 @@
       "searchTags": [
         "src:star-tribune",
         "src:kstp",
+        "src:kare11",
         "src:sahan-journal",
         "src:wcco"
       ],
@@ -878,7 +884,8 @@
         "children",
         "family-separation",
         "src:fox9",
-        "src:pioneer-press"
+        "src:pioneer-press",
+        "src:wcco"
       ],
       "hasLocalMedia": true,
       "localMediaType": "image",
@@ -1286,6 +1293,7 @@
       "searchTags": [
         "workplace-raid",
         "src:sahan-journal",
+        "src:kstp",
         "src:other-national",
         "src:abc",
         "src:other-local",
@@ -1633,6 +1641,7 @@
         "family-separation",
         "src:fox9",
         "src:kstp",
+        "src:kare11",
         "src:mpr",
         "src:abc",
         "src:other-local",
@@ -2319,6 +2328,7 @@
         "src:fox9",
         "src:sahan-journal",
         "src:mpr",
+        "src:kare11",
         "src:other-national"
       ],
       "hasLocalMedia": true,
@@ -2393,6 +2403,7 @@
         "src:sahan-journal",
         "src:fox9",
         "src:kstp",
+        "src:kare11",
         "src:other-local"
       ],
       "hasLocalMedia": false,
@@ -2770,7 +2781,9 @@
         "src:mpr",
         "src:sahan-journal",
         "src:pioneer-press",
-        "src:mn-reformer"
+        "src:mn-reformer",
+        "src:kstp",
+        "src:kare11"
       ],
       "hasLocalMedia": false,
       "localMediaType": null,

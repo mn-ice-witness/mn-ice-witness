@@ -10,7 +10,7 @@ injuries: minor
 trustworthiness: high
 created: 2026-01-14T09:04:50
 last_updated: 2026-01-14T09:04:50
-search_tags: workplace-raid, chemical-agents, observer-intimidated, src:mpr, src:sahan-journal, src:pioneer-press, src:mn-reformer
+search_tags: workplace-raid, chemical-agents, observer-intimidated, src:mpr, src:sahan-journal, src:pioneer-press, src:mn-reformer, src:kstp, src:kare11
 ---
 
 # 14 Workers Detained in Major ICE Workplace Raid at Bro-Tex
@@ -23,6 +23,10 @@ Federal agents raided Bro-Tex Inc., a cleaning products manufacturer in St. Paul
 2. Sahan Journal (Nov 19, 2025): [Community rallies after federal agents arrest 14 in raid on St. Paul manufacturer Bro-Tex Inc.](https://sahanjournal.com/immigration/st-paul-raid-vigil-arrests/)
 3. Pioneer Press (Nov 20, 2025): [St. Paul ICE raid: 14 arrested for immigration violations, agency says](https://www.twincities.com/2025/11/20/ice-14-arrested-st-paul-warehouse-bro-tex/)
 4. Minnesota Reformer (Nov 18, 2025): [Dozens of federal agents raid St. Paul business, sparking protest](https://minnesotareformer.com/2025/11/18/dozens-of-federal-agents-raid-st-paul-business-sparking-protest/)
+5. KSTP (Nov 18, 2025): [DHS: 14 people arrested in immigration raid on St. Paul business](https://kstp.com/kstp-news/top-news/dhs-14-people-arrested-in-immigration-raid-on-st-paul-business/)
+6. KSTP (Nov 2025): [How the Bro-Tex raid shook 2 families in St. Paul](https://kstp.com/kstp-news/top-news/how-the-brotex-raid-shook-2-families-in-st-paul/)
+7. KARE 11 (Nov 18, 2025): [Federal agents conduct operation in St. Paul](https://www.kare11.com/article/news/local/ice-agents-on-scene-in-st-paul/89-5f0f3821-5922-4a8f-9a30-0c71eaa9fc5b)
+8. KARE 11 (Nov 19, 2025): [Activists want answers after ICE raid on St. Paul business](https://www.kare11.com/article/news/local/activists-want-answers-after-ice-raid-on-st-paul-business/89-27bd081e-9a29-4b5e-ba0d-ec139086a934)
 
 ## Affected Individual(s)
 - **Number detained:** 14 workers

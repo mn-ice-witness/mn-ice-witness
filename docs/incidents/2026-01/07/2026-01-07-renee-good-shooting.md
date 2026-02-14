@@ -10,7 +10,7 @@ injuries: fatal
 trustworthiness: high
 created: 2026-01-14T08:01:12
 last_updated: 2026-02-04T16:19:46
-search_tags: us-citizen, shooting, src:star-tribune, src:fox9, src:nyt, src:wcco, src:wapo, src:cnn, src:npr, src:abc, src:intercept, src:pbs, src:nbc, src:mpr, src:other-national, src:mother-jones, src:mn-reformer, src:sahan-journal
+search_tags: us-citizen, shooting, src:star-tribune, src:fox9, src:nyt, src:wcco, src:wapo, src:cnn, src:npr, src:abc, src:intercept, src:pbs, src:nbc, src:mpr, src:kstp, src:kare11, src:other-national, src:mother-jones, src:mn-reformer, src:sahan-journal
 ---
 
 # Renee Nicole Good Shot and Killed by ICE Agent
@@ -70,6 +70,10 @@ Renee Nicole Good, a 37-year-old U.S. citizen, was fatally shot by ICE agent Jon
 41. Mother Jones (Jan 14, 2026): [Scenes of escalating violence, chaos, and resistance in Minneapolis](https://www.motherjones.com/politics/2026/01/scenes-of-escalating-violence-chaos-and-resistance-in-minneapolis/)
 42. Minnesota Reformer (Jan 7, 2026): [ICE officer fatally shoots driver through car window in Minneapolis](https://minnesotareformer.com/2026/01/07/ice-officer-fatally-shoots-driver-through-car-window-in-minneapolis/)
 43. Sahan Journal (Jan 7, 2026): [ICE officer fatally shoots woman in south Minneapolis](https://sahanjournal.com/immigration/federal-shooting-ice-immigration-south-minneapolis-34th-portland/)
+44. KSTP (Jan 7, 2026): [ICE agent shoots, kills woman in Minneapolis](https://kstp.com/kstp-news/top-news/ice-agent-shoots-kills-woman-in-minneapolis/)
+45. KSTP (Jan 2026): [What we know about the timeline leading up to the shooting of Renee Good](https://kstp.com/kstp-news/top-news/what-we-know-about-the-timeline-leading-up-to-the-shooting-of-renee-good/)
+46. KARE 11 (Jan 7, 2026): [Woman shot, killed by ICE identified](https://www.kare11.com/article/news/local/ice-in-minnesota/woman-shot-killed-by-ice-identified/89-13465bcb-f814-4e8a-9680-245990712f3b)
+47. KARE 11 (Jan 2026): [New video shows officer's perspective in ICE shooting of Renee Good](https://www.kare11.com/article/news/local/ice-in-minnesota/new-video-shows-officers-perspective-in-ice-shooting-of-renee-good/89-238e5deb-4397-4c50-8304-9c005dc3b454)
 
 ## Affected Individual(s)
 - **Name:** Renee Nicole Good

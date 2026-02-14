@@ -653,6 +653,7 @@
         "children",
         "family-separation",
         "src:kare11",
+        "src:kstp",
         "src:bring-me-the-news",
         "src:other-local",
         "src:wcco",
@@ -1097,6 +1098,7 @@
         "src:fox9",
         "src:sahan-journal",
         "src:mpr",
+        "src:kare11",
         "src:other-national"
       ],
       "hasLocalMedia": true,

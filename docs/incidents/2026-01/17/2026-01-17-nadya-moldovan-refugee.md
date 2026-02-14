@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: no-news-media
 created: 2026-01-19T23:09:36
 last_updated: 2026-01-19T23:09:36
-search_tags: legal-resident, children, family-separation, src:fox9, src:pioneer-press
+search_tags: legal-resident, children, family-separation, src:fox9, src:pioneer-press, src:wcco
 ---
 
 # Moldovan Refugee Nadya Detained While Driving to Church with Family (NO NEWS MEDIA)

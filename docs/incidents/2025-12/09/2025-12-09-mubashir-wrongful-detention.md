@@ -10,7 +10,7 @@ injuries: minor
 trustworthiness: high
 created: 2026-01-14T08:01:12
 last_updated: 2026-01-14T08:01:12
-search_tags: us-citizen, excessive-force, citizen-check, src:mpr, src:fox9, src:sahan-journal, src:kstp, src:bring-me-the-news, src:star-tribune, src:wcco, src:cbs, src:cnn, src:nbc, src:npr, src:other-national
+search_tags: us-citizen, excessive-force, citizen-check, src:mpr, src:fox9, src:sahan-journal, src:kstp, src:kare11, src:bring-me-the-news, src:star-tribune, src:wcco, src:cbs, src:cnn, src:nbc, src:npr, src:other-national
 ---
 
 # U.S. Citizen Tackled, Detained by ICE During Lunch Break
@@ -35,6 +35,7 @@ Mubashir, a 20-year-old U.S. citizen and Somali American, was tackled, placed in
 14. Court Filing (Jan 9, 2026): [Hussen v. Noem, Case 26-cv-00324 — Original Complaint](https://storage.courtlistener.com/recap/gov.uscourts.mnd.230424/gov.uscourts.mnd.230424.2.0.pdf)
 15. NBC News (Jan 9, 2026): [Lawsuit accuses federal agents of racial profiling in Minneapolis immigration operation](https://www.nbcnews.com/news/us-news/lawsuit-accuses-federal-agents-racial-profiling-minneapolis-immigratio-rcna254245)
 16. NPR (Jan 9, 2026): [Federal agents racial profiling lawsuit transcript](https://www.npr.org/transcripts/nx-s1-5689031)
+17. KARE 11 (Dec 2025): [Somali man says he's an American citizen and speaks out after ICE detainment](https://www.kare11.com/article/news/local/somali-man-says-hes-an-american-citizen-and-speaks-out-after-ice-detainment/89-72c1f603-9600-481d-b8e4-317777ad3723)
 
 ## Affected Individual(s)
 - **Name:** Mubashir (requested first name only)

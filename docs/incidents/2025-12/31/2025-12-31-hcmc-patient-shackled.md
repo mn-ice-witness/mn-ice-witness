@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-14T08:27:46
 last_updated: 2026-01-14T08:27:46
-search_tags: warrantless-entry, src:wcco, src:fox9, src:sahan-journal, src:mpr, src:other-national
+search_tags: warrantless-entry, src:wcco, src:fox9, src:sahan-journal, src:mpr, src:kare11, src:other-national
 ---
 
 # Patient Shackled to Hospital Bed by ICE for 28 Hours Without Warrant
@@ -26,6 +26,7 @@ ICE agents entered Hennepin County Medical Center's emergency department without
 5. MPR News (Jan 14, 2026): [ICE agents appear at Twin Cities hospitals, alarming health care workers](https://www.mprnews.org/story/2026/01/14/ice-agents-at-twin-cities-hospitals-alarm-medical-staff)
 6. OR Manager (Jan 15, 2026): [Workers describe 'disruptive' ICE presence inside Minneapolis' Hennepin County Medical Center](https://www.ormanager.com/briefs/workers-describe-disruptive-ice-presence-inside-minneapolis-hennepin-county-medical-center/)
 7. Sahan Journal (Jan 14, 2026): [ICE detainee at HCMC ordered released by court](https://sahanjournal.com/health/ice-minnesota-hcmc-hospital-detainee-release-order/)
+8. KARE 11 (Jan 2026): [HCMC doctors, staff protest ICE impact on hospital and patients](https://www.kare11.com/article/news/local/breaking-the-news/hcmc-doctors-staff-protest-ice-impact-hospital-patients/89-3696c23f-6afb-44ea-8e02-7286543dabdd)
 
 ## Affected Individual(s)
 - **Name:** Not disclosed (patient confidentiality)

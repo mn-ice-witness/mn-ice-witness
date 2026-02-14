@@ -10,7 +10,7 @@ injuries: fatal
 trustworthiness: high
 created: 2026-02-06T12:47:33
 last_updated: 2026-02-06T12:47:33
-search_tags: workplace-raid, src:sahan-journal, src:other-national, src:abc, src:other-local, src:mpr, src:kare11
+search_tags: workplace-raid, src:sahan-journal, src:kstp, src:other-national, src:abc, src:other-local, src:mpr, src:kare11
 ---
 
 # Victor Manuel Díaz Dies in ICE Custody at Camp East Montana After Coon Rapids Arrest
@@ -25,6 +25,7 @@ Victor Manuel Díaz, a 36-year-old Nicaraguan man living in Coon Rapids, died on
 4. KFOX TV (Jan 2026): [Family questions handling of migrant's death at Camp East Montana](https://kfoxtv.com/news/local/family-questions-handling-of-migrants-death-at-camp-east-montana)
 5. MPR News (Jan 18, 2026): [Man detained in Minneapolis dies in ICE custody in Texas](https://www.mprnews.org/story/2026/01/18/man-detained-in-minneapolis-dies-in-ice-custody-in-texas)
 6. KARE 11 (Jan 18, 2026): [Man detained by ICE in Minneapolis dies in Texas DHS facility](https://www.kare11.com/article/news/local/man-detained-by-ice-in-minneapolis-dies-in-texas-dhs-facility-mn/89-ef90b752-c1d1-42cc-bf3e-c431a1a22c16)
+7. KSTP (Jan 2026): [DHS: Man detained by ICE in Minneapolis dies in federal custody in Texas](https://kstp.com/kstp-news/top-news/dhs-man-detained-by-ice-in-minneapolis-dies-in-federal-custody-in-texas/)
 
 ## Affected Individual(s)
 - **Name:** Victor Manuel Díaz

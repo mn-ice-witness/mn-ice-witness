@@ -10,7 +10,7 @@ injuries: serious
 trustworthiness: high
 created: 2026-01-15T15:19:43
 last_updated: 2026-01-15T15:19:43
-search_tags: us-citizen, children, chemical-agents, excessive-force, src:fox9, src:bring-me-the-news, src:nyt, src:kare11, src:wcco, src:abc, src:sahan-journal, src:other-national
+search_tags: us-citizen, children, chemical-agents, excessive-force, src:fox9, src:bring-me-the-news, src:nyt, src:kare11, src:kstp, src:wcco, src:abc, src:sahan-journal, src:other-national
 ---
 
 # Six Children Hospitalized After ICE Deploys Flashbangs and Tear Gas on Family SUV
@@ -28,6 +28,7 @@ Shawn Jackson and his family were leaving a relative's home after his son's bask
 7. KARE 11 (Jan 15, 2026): [Minneapolis family says ICE threw flashbangs, tear gas near and under car with their six kids inside](https://www.kare11.com/article/news/local/ice-in-minnesota/minneapolis-family-says-ice-threw-flashbangs-tear-gas-near-under-car-six-kids-inside/89-d9877975-b320-4a57-aedb-c8c539fe9795)
 8. CBS Minnesota (Jan 15, 2026): [Minneapolis couple says ICE released tear gas under their family vehicle with 6 children inside](https://www.cbsnews.com/minnesota/news/ice-tear-gassed-family-vehicle-with-6-children-inside/)
 9. ABC 7 (Jan 15, 2026): [Minneapolis ICE shooting live updates: Infant hospitalized after fed agents deployed tear gas](https://abc7.com/live-updates/minneapolis-ice-shooting-live-updates-infant-hospitalized-fed-agents-deployed-tear-gas/18410867/)
+10. KSTP (Jan 15, 2026): [Tear gas deployed by federal agents reportedly hospitalized a 6-month-old infant and juvenile](https://kstp.com/kstp-news/top-news/tear-gas-deployed-by-federal-agents-reportedly-hospitalized-a-6-month-old-infant-and-juvenile/)
 10. Common Dreams (Jan 15, 2026): [Minneapolis Children Flashbang](https://www.commondreams.org/news/minneapolis-children-flashbang)
 11. Jalopnik (Jan 15, 2026): [ICE Throws Flash Bang at Family Car Minneapolis](https://www.jalopnik.com/2077210/ice-throws-flash-bang-at-family-car-minneapolis/)
 12. Truthout (Jan 15, 2026): [Immigration agents teargas Minneapolis family's car with 6 kids inside](https://truthout.org/articles/immigration-agents-teargas-minneapolis-familys-car-with-6-kids-inside/)
