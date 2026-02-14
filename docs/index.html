@@ -15,10 +15,10 @@
     <link rel="canonical" href="https://mn-ice-witness.org/">
 
     <!-- Favicon and App Icons -->
-    <link rel="icon" type="image/x-icon" href="/assets/favicon.ico?v=1771111149">
-    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png?v=1771111149">
-    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png?v=1771111149">
-    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png?v=1771111149">
+    <link rel="icon" type="image/x-icon" href="/assets/favicon.ico?v=1771111436">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png?v=1771111436">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png?v=1771111436">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png?v=1771111436">
     <link rel="manifest" href="/manifest.json">
     <meta name="theme-color" content="#121212">
 
@@ -49,8 +49,8 @@
     </script>
 
     <title>MN ICE Witness - Sourced Operation Metro Surge Incidents</title>
-    <link rel="stylesheet" href="/css/style.css?v=1771111149">
-    <link rel="stylesheet" href="/css/timeline.css?v=1771111149">
+    <link rel="stylesheet" href="/css/style.css?v=1771111436">
+    <link rel="stylesheet" href="/css/timeline.css?v=1771111436">
     <!-- SPLASH DISABLED
     <script>
         (function() {
@@ -262,27 +262,49 @@
     </header>
 
     <main class="main-content">
-        <!-- View Toggle + Search -->
-        <div class="view-toggle" id="view-toggle">
-            <button class="view-btn active" data-view="timeline">Timeline</button>
-            <button class="view-btn" data-view="list">List</button>
-            <button class="view-btn" data-view="media">Media</button>
-            <button class="search-btn" id="search-btn" aria-label="Search incidents">
-                <svg viewBox="0 0 24 24" width="18" height="18"><use href="#icon-search"/></svg>
-            </button>
-            <div class="sort-dropdown" id="sort-dropdown">
-                <button class="sort-btn" id="sort-btn" aria-label="Sort incidents" title="Sort by">
-                    <svg width="16" height="16"><use href="#icon-sort"/></svg>
+        <!-- Sticky top bar: view toggle + category nav + search filter bar -->
+        <div class="sticky-top-bar">
+            <div class="view-toggle" id="view-toggle">
+                <button class="view-btn active" data-view="timeline">Timeline</button>
+                <button class="view-btn" data-view="list">List</button>
+                <button class="view-btn" data-view="media">Media</button>
+                <button class="search-btn" id="search-btn" aria-label="Search incidents">
+                    <svg viewBox="0 0 24 24" width="18" height="18"><use href="#icon-search"/></svg>
                 </button>
-                <div class="sort-menu" id="sort-menu" aria-hidden="true">
-                    <div class="sort-menu-header">Sort By</div>
-                    <button class="sort-option active" data-sort="all">Category</button>
-                    <button class="sort-option" data-sort="occurred">Occurred</button>
-                    <button class="sort-option" data-sort="new-updated">New/Updated</button>
-                    <button class="sort-option" data-sort="new">New</button>
-                    <button class="sort-option" data-sort="updated">Updated</button>
+                <div class="sort-dropdown" id="sort-dropdown">
+                    <button class="sort-btn" id="sort-btn" aria-label="Sort incidents" title="Sort by">
+                        <svg width="16" height="16"><use href="#icon-sort"/></svg>
+                    </button>
+                    <div class="sort-menu" id="sort-menu" aria-hidden="true">
+                        <div class="sort-menu-header">Sort By</div>
+                        <button class="sort-option active" data-sort="all">Category</button>
+                        <button class="sort-option" data-sort="occurred">Occurred</button>
+                        <button class="sort-option" data-sort="new-updated">New/Updated</button>
+                        <button class="sort-option" data-sort="new">New</button>
+                        <button class="sort-option" data-sort="updated">Updated</button>
+                    </div>
                 </div>
             </div>
+            <nav class="section-nav" id="section-nav">
+                <div class="nav-inner">
+                    <a href="#citizens" class="nav-pill nav-citizens"><span class="nav-label-full">Citizen/Legal Resident</span><span class="nav-label-short">Citizen/Legal</span></a>
+                    <a href="#observers" class="nav-pill nav-observers">Observers</a>
+                    <a href="#immigrants" class="nav-pill nav-immigrants">Immigrants</a>
+                    <a href="#schools" class="nav-pill nav-schools"><span class="nav-label-full">Schools/Hospitals</span><span class="nav-label-short">Schools</span></a>
+                    <a href="#response" class="nav-pill nav-response">Response</a>
+                    <a href="#background" class="nav-pill nav-background">Context</a>
+                </div>
+                <select class="nav-dropdown" id="category-dropdown" aria-label="Jump to category">
+                    <option value="">Jump to category...</option>
+                    <option value="#citizens">Citizen/Legal Resident</option>
+                    <option value="#observers">Observers</option>
+                    <option value="#immigrants">Immigrants</option>
+                    <option value="#schools">Schools/Hospitals</option>
+                    <option value="#response">Response</option>
+                    <option value="#background">Context/Background</option>
+                </select>
+            </nav>
+            <div class="search-active-bar" id="search-active-bar"></div>
         </div>
 
         <!-- Search Modal -->
@@ -349,30 +371,6 @@
                 </div>
             </div>
         </div>
-
-        <!-- Category Navigation -->
-        <nav class="section-nav" id="section-nav">
-            <div class="nav-inner">
-                <a href="#citizens" class="nav-pill nav-citizens"><span class="nav-label-full">Citizen/Legal Resident</span><span class="nav-label-short">Citizen/Legal</span></a>
-                <a href="#observers" class="nav-pill nav-observers">Observers</a>
-                <a href="#immigrants" class="nav-pill nav-immigrants">Immigrants</a>
-                <a href="#schools" class="nav-pill nav-schools"><span class="nav-label-full">Schools/Hospitals</span><span class="nav-label-short">Schools</span></a>
-                <a href="#response" class="nav-pill nav-response">Response</a>
-                <a href="#background" class="nav-pill nav-background">Context</a>
-            </div>
-            <!-- Dropdown for very narrow phones -->
-            <select class="nav-dropdown" id="category-dropdown" aria-label="Jump to category">
-                <option value="">Jump to category...</option>
-                <option value="#citizens">Citizen/Legal Resident</option>
-                <option value="#observers">Observers</option>
-                <option value="#immigrants">Immigrants</option>
-                <option value="#schools">Schools/Hospitals</option>
-                <option value="#response">Response</option>
-                <option value="#background">Context/Background</option>
-            </select>
-        </nav>
-
-        <div class="search-active-bar" id="search-active-bar"></div>
 
         <!-- Media Gallery View (hidden by default) -->
         <div class="media-gallery" id="media-gallery" style="display: none;"></div>
@@ -485,19 +483,19 @@
 
     <script src="/js/marked.min.js"></script>
     <!-- Core modules (no dependencies) -->
-    <script src="/js/parser.js?v=1771111149"></script>
-    <script src="/js/router.js?v=1771111149"></script>
-    <script src="/js/media-controls.js?v=1771111149"></script>
+    <script src="/js/parser.js?v=1771111436"></script>
+    <script src="/js/router.js?v=1771111436"></script>
+    <script src="/js/media-controls.js?v=1771111436"></script>
     <!-- Feature modules -->
-    <script src="/js/view-state.js?v=1771111149"></script>
-    <script src="/js/splash.js?v=1771111149"></script>
-    <script src="/js/lightbox-content.js?v=1771111149"></script>
-    <script src="/js/lightbox.js?v=1771111149"></script>
-    <script src="/js/media-gallery.js?v=1771111149"></script>
-    <script src="/js/search.js?v=1771111149"></script>
-    <script src="/js/timeline.js?v=1771111149"></script>
+    <script src="/js/view-state.js?v=1771111436"></script>
+    <script src="/js/splash.js?v=1771111436"></script>
+    <script src="/js/lightbox-content.js?v=1771111436"></script>
+    <script src="/js/lightbox.js?v=1771111436"></script>
+    <script src="/js/media-gallery.js?v=1771111436"></script>
+    <script src="/js/search.js?v=1771111436"></script>
+    <script src="/js/timeline.js?v=1771111436"></script>
     <!-- Main app (last, coordinates all modules) -->
-    <script src="/js/app.js?v=1771111149"></script>
+    <script src="/js/app.js?v=1771111436"></script>
 </body>
 </html>
 <!-- build test 1769912033 -->

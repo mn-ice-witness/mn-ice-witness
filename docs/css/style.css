@@ -406,6 +406,15 @@ body {
     background: var(--color-border);
 }
 
+/* ==================== STICKY TOP BAR ==================== */
+
+.sticky-top-bar {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
 /* ==================== NAVIGATION ==================== */
 
 .section-nav {
@@ -415,10 +424,6 @@ body {
     overflow-x: auto;
     overflow-y: visible;
     -webkit-overflow-scrolling: touch;
-    position: -webkit-sticky;
-    position: sticky;
-    top: 49px;
-    z-index: 100;
 }
 
 .nav-inner {
@@ -488,10 +493,7 @@ body {
     padding: 12px 0;
     border-bottom: 1px solid var(--color-border);
     background: var(--color-surface);
-    position: -webkit-sticky;
-    position: sticky;
-    top: 0;
-    z-index: 101;
+    position: relative;
 }
 
 .view-btn {
@@ -853,14 +855,9 @@ body {
 
 .search-active-bar {
     display: none;
-    position: sticky;
-    z-index: 99;
-    background: rgba(248, 250, 252, 0.95);
-    backdrop-filter: blur(8px);
-    -webkit-backdrop-filter: blur(8px);
+    background: var(--color-surface);
     border-bottom: 1px solid var(--color-border);
     padding: 5px 16px;
-    margin-top: -1px;
     text-align: center;
     font-size: 0.75rem;
     font-style: italic;

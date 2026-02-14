@@ -243,18 +243,8 @@ const App = {
      * Calculates dynamically based on rendered elements
      */
     getStickyOffset() {
-        let offset = 0;
-        const viewToggle = document.querySelector('.view-toggle');
-        const sectionNav = document.querySelector('.section-nav');
-        const searchBar = document.getElementById('search-active-bar');
-        if (viewToggle) offset += viewToggle.offsetHeight;
-        if (sectionNav && getComputedStyle(sectionNav).position === 'sticky' && getComputedStyle(sectionNav).display !== 'none') {
-            offset += sectionNav.offsetHeight;
-        }
-        if (searchBar && searchBar.classList.contains('visible')) {
-            offset += searchBar.offsetHeight;
-        }
-        return offset;
+        const stickyBar = document.querySelector('.sticky-top-bar');
+        return stickyBar ? stickyBar.offsetHeight : 0;
     },
 
     /**
@@ -326,15 +316,6 @@ const App = {
         const count = `${filtered.length} ${filtered.length === 1 ? 'story' : 'stories'}`;
         bar.textContent = parts.length > 0 ? `${parts.join(' \u00b7 ')} \u2014 ${count}` : count;
         bar.classList.add('visible');
-
-        let top = 0;
-        const viewToggle = document.querySelector('.view-toggle');
-        if (viewToggle) top += viewToggle.offsetHeight;
-        const sectionNav = document.querySelector('.section-nav');
-        if (sectionNav && getComputedStyle(sectionNav).display !== 'none' && getComputedStyle(sectionNav).position === 'sticky') {
-            top += sectionNav.offsetHeight;
-        }
-        bar.style.top = top + 'px';
         this.updateScrollOffset();
     },
 
