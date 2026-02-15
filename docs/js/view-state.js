@@ -108,7 +108,7 @@ const ViewState = {
             e.stopPropagation();
             const isOpen = menu.classList.toggle('open');
             menu.setAttribute('aria-hidden', !isOpen);
-            btn.classList.toggle('active', isOpen);
+            btn.classList.toggle('active', isOpen || this.sortMode !== 'all');
         });
 
         menu.querySelectorAll('.sort-option').forEach(option => {
@@ -117,14 +117,13 @@ const ViewState = {
                 this.setSortMode(option.dataset.sort);
                 menu.classList.remove('open');
                 menu.setAttribute('aria-hidden', 'true');
-                btn.classList.remove('active');
             });
         });
 
         document.addEventListener('click', () => {
             menu.classList.remove('open');
             menu.setAttribute('aria-hidden', 'true');
-            btn.classList.remove('active');
+            btn.classList.toggle('active', this.sortMode !== 'all');
         });
     },
 
