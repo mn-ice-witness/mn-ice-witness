@@ -287,7 +287,7 @@ const App = {
         const bar = document.getElementById('search-active-bar');
         if (!bar) return;
 
-        if (!Search.hasActiveFilters() || ViewState.currentView === 'timeline') {
+        if (!Search.hasActiveFilters()) {
             bar.classList.remove('visible');
             this.updateScrollOffset();
             return;

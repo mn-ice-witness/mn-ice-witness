@@ -307,7 +307,7 @@ const ViewState = {
         }
         const searchBtn = document.getElementById('search-btn');
         if (searchBtn) {
-            searchBtn.style.display = (view === 'timeline') ? 'none' : '';
+            searchBtn.style.display = '';
         }
 
         // Switch views

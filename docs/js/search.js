@@ -107,6 +107,9 @@ const Search = {
             App.render();
             if (ViewState.currentView === 'media') {
                 App.renderMediaGallery();
+            } else if (ViewState.currentView === 'timeline' && typeof Timeline !== 'undefined') {
+                Timeline.computeMonthData();
+                Timeline.render();
             }
         }
     }
