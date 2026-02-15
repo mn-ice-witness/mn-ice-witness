@@ -119,7 +119,11 @@ const MediaGallery = {
 
         const mediaNote = document.createElement('div');
         mediaNote.className = 'media-gallery-note';
-        mediaNote.innerHTML = 'Videos are clips edited to key moments. Tap video for sources and full context.';
+        if (typeof Search !== 'undefined' && Search.hasActiveFilters() && typeof App !== 'undefined') {
+            mediaNote.textContent = App.buildSearchBarText(App.getFilteredIncidents());
+        } else {
+            mediaNote.innerHTML = 'Videos are clips edited to key moments. Tap video for sources and full context.';
+        }
         gallery.appendChild(mediaNote);
 
         columns.forEach(col => gallery.appendChild(col.element));

@@ -310,7 +310,6 @@ const Timeline = {
                 </div>
             </div>
             <div class="tl-totals-note">Count of collected media reports, not total events in state</div>
-            <div class="tl-search-bar" id="tl-search-bar"></div>
         `;
     },
 

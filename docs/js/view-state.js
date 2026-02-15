@@ -321,7 +321,8 @@ const ViewState = {
             App.render();
         } else if (view === 'media' && typeof App !== 'undefined') {
             App.renderMediaGallery();
-        } else if (view === 'timeline' && typeof Timeline !== 'undefined') {
+            App.updateSearchBar(App.getFilteredIncidents());
+        } else if (view === 'timeline' && typeof App !== 'undefined' && typeof Timeline !== 'undefined') {
             Timeline.render();
             App.updateSearchBar(App.getFilteredIncidents());
         }
