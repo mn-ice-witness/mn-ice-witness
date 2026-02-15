@@ -293,7 +293,7 @@ Published incidents visible on the main site.
 
 ---
 
-## NO-ADD (212 entries)
+## NO-ADD (213 entries)
 
 Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 
@@ -395,6 +395,7 @@ Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 - dev-docs/not_use.md | Dec 18 / Jan 16 | Freeborn County 287(g) ACLU Lawsuit
 - dev-docs/not_use.md | Jan 20-21 | Anpetu Teca Education Center ICE Staging Area
 - dev-docs/not_use.md | n/a | Anonymous Refugee Detentions From NPR
+- dev-docs/not_use.md | Feb 4 | Beth Jackson Observer TSA Retaliation
 - dev-docs/not_use.md | Feb 12 | Walz $10M Business Relief Package
 - dev-docs/not_use.md | Feb 8 | Roseville Teenagers Detained
 - dev-docs/not_use.md | Feb 8 | Albert Lea ATM Arrest

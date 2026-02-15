@@ -705,6 +705,13 @@ Stories are excluded when they don't meet the project's core focus:
 
 ### February 2026
 
+**Beth Jackson Observer TSA Retaliation (Feb 4)**
+- Sources: [MPR News](https://www.mprnews.org/story/2026/02/04/twin-cities-resident-says-she-is-being-targeted-for-documenting-ice-agents)
+- Date: February 4, 2026 (article date; detention date unspecified)
+- Details: Constitutional observer Beth Jackson describes being detained at Whipple after observing agents in St. Paul. Picked up by two men in gym shorts in a white minivan, one without ID. ICE later showed up on her block in tactical gear. Has a felony charge pending for 5 years. Received DHS/TSA letter alleging illegal conduct against a border patrol agent in Bloomington, with 60 days to defend or lose TSA PreCheck. She suggests these are form letters being sent to many observers.
+- Reason: **Single source, overlaps existing incidents.** Radio interview testimony only — no corroborating reporting found. TSA retaliation angle already covered by Nicole Cleland Global Entry revocation (Jan 10). Observer detention and surveillance patterns extensively documented. No specific date of detention provided.
+- Date evaluated: 2026-02-15
+
 **Walz $10M Business Relief Package (Feb 12)**
 - Date: February 12, 2026
 - Details: Governor Walz announced a $10 million emergency relief package for Minnesota businesses impacted by Operation Metro Surge — grants for small businesses, restaurants, and immigrant-owned enterprises.
