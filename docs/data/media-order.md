@@ -9,6 +9,7 @@
 
 
 
+
 juan-carlos-brutality
 aliya-rahman-car-window-hospitalized
 speedway-st-paul
@@ -145,3 +146,4 @@ ninas-coffee-ice-pursuit-crash
 homan-operation-metro-surge-conclusion
 nadine-ice-car-rammed-citizens
 dhs-data-14-percent-violent-criminal-records
+outstate-cities-ice-ordinances

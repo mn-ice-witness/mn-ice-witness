@@ -48,7 +48,7 @@ Border czar Tom Homan vowed to ["make them famous"](https://news.meaww.com/were-
 
 ---
 date: 2026-02-10
-title: Outstate Minnesota Cities Push Back
+title: Outstate Minnesota Cities Pass ICE Unmask, Non-Cooperation Ordinances
 incident: 2026-02-10-outstate-cities-ice-ordinances
 source:
 ---

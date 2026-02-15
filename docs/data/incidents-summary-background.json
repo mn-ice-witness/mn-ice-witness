@@ -215,13 +215,18 @@
         "src:mankato-free-press",
         "src:republican-eagle"
       ],
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
+      "hasLocalMedia": true,
+      "localMediaType": "image",
+      "localMediaPath": "media/2026-02/10/2026-02-10-outstate-cities-ice-ordinances.jpg",
       "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
+      "localMediaFiles": [
+        {
+          "type": "image",
+          "path": "media/2026-02/10/2026-02-10-outstate-cities-ice-ordinances.jpg"
+        }
+      ],
+      "aspectRatio": 1.7857142857142858,
+      "mediaVersion": 1771127714
     },
     {
       "filePath": "incidents/2026-02/09/2026-02-09-dhs-data-14-percent-violent-criminal-records.md",
