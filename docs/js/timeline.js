@@ -137,16 +137,35 @@ const Timeline = {
 
     getFilteredMoments() {
         const query = (typeof Search !== 'undefined' && Search.query) ? Search.query.toLowerCase().trim() : '';
-        if (!query) return this.moments;
+        const activeTags = (typeof Search !== 'undefined' && Search.activeTags) ? Search.activeTags : new Set();
+        if (!query && activeTags.size === 0) return this.moments;
 
-        const terms = query.split(/\s+/).filter(t => t.length > 0);
-        const stemmedTerms = terms.map(t => App.stem(t));
+        const topicTags = [...activeTags].filter(t => !t.startsWith('src:'));
+        const sourceTags = [...activeTags].filter(t => t.startsWith('src:'));
+
+        let stemmedTerms = [];
+        if (query) {
+            const terms = query.split(/\s+/).filter(t => t.length > 0);
+            stemmedTerms = terms.map(t => App.stem(t));
+        }
 
         return this.moments.filter(m => {
-            const searchText = [m.title, m.body].join(' ').toLowerCase();
-            const words = searchText.match(/\b\w+\b/g) || [];
-            const stemmedWords = new Set(words.map(w => App.stem(w)));
-            return stemmedTerms.every(st => stemmedWords.has(st));
+            if (stemmedTerms.length > 0) {
+                const searchText = [m.title, m.body].join(' ').toLowerCase();
+                const words = searchText.match(/\b\w+\b/g) || [];
+                const stemmedWords = new Set(words.map(w => App.stem(w)));
+                if (!stemmedTerms.every(st => stemmedWords.has(st))) return false;
+            }
+
+            if (activeTags.size > 0) {
+                const incident = m.incident ? this.findIncident(m.incident) : null;
+                const tags = incident ? (incident.searchTags || []) : [];
+                const topicMatch = topicTags.length === 0 || topicTags.some(t => tags.includes(t));
+                const sourceMatch = sourceTags.length === 0 || sourceTags.some(t => tags.includes(t));
+                if (!topicMatch || !sourceMatch) return false;
+            }
+
+            return true;
         });
     },
 
@@ -282,6 +301,7 @@ const Timeline = {
                 </div>
             </div>
             <div class="tl-totals-note">Count of collected media reports, not total events in state</div>
+            <div class="tl-search-bar" id="tl-search-bar"></div>
         `;
     },
 

@@ -283,16 +283,7 @@ const App = {
 
     // ==================== SEARCH BAR ====================
 
-    updateSearchBar(filtered) {
-        const bar = document.getElementById('search-active-bar');
-        if (!bar) return;
-
-        if (!Search.hasActiveFilters()) {
-            bar.classList.remove('visible');
-            this.updateScrollOffset();
-            return;
-        }
-
+    buildSearchBarText(filtered) {
         const parts = [];
         if (Search.query) {
             parts.push(`\u201c${Search.query}\u201d`);
@@ -314,8 +305,29 @@ const App = {
         if (sourceLabels.length > 0) parts.push(sourceLabels.join(', '));
 
         const count = `${filtered.length} ${filtered.length === 1 ? 'story' : 'stories'}`;
-        bar.textContent = parts.length > 0 ? `${parts.join(' \u00b7 ')} \u2014 ${count}` : count;
-        bar.classList.add('visible');
+        return parts.length > 0 ? `${parts.join(' \u00b7 ')} \u2014 ${count}` : count;
+    },
+
+    updateSearchBar(filtered) {
+        const bar = document.getElementById('search-active-bar');
+        const tlBar = document.getElementById('tl-search-bar');
+
+        if (!Search.hasActiveFilters()) {
+            if (bar) { bar.classList.remove('visible'); }
+            if (tlBar) { tlBar.textContent = ''; tlBar.classList.remove('visible'); }
+            this.updateScrollOffset();
+            return;
+        }
+
+        const text = this.buildSearchBarText(filtered);
+
+        if (ViewState.currentView === 'timeline') {
+            if (bar) { bar.classList.remove('visible'); }
+            if (tlBar) { tlBar.textContent = text; tlBar.classList.add('visible'); }
+        } else {
+            if (tlBar) { tlBar.textContent = ''; tlBar.classList.remove('visible'); }
+            if (bar) { bar.textContent = text; bar.classList.add('visible'); }
+        }
         this.updateScrollOffset();
     },
 

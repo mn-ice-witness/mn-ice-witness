@@ -323,6 +323,7 @@ const ViewState = {
             App.renderMediaGallery();
         } else if (view === 'timeline' && typeof Timeline !== 'undefined') {
             Timeline.render();
+            App.updateSearchBar(App.getFilteredIncidents());
         }
     },
 

@@ -81,6 +81,20 @@
     margin-top: 2px;
 }
 
+.tl-search-bar {
+    display: none;
+    font-size: 0.75rem;
+    font-style: italic;
+    color: #666;
+    text-align: center;
+    width: 100%;
+    margin-top: 2px;
+}
+
+.tl-search-bar.visible {
+    display: block;
+}
+
 .tl-count-pop {
     animation: tl-pop 0.3s ease-out;
 }
