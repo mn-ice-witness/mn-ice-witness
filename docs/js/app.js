@@ -311,10 +311,12 @@ const App = {
     updateSearchBar(filtered) {
         const bar = document.getElementById('search-active-bar');
         const tlBar = document.getElementById('tl-search-bar');
+        const tlNote = document.querySelector('.tl-totals-note');
 
         if (!Search.hasActiveFilters()) {
             if (bar) { bar.classList.remove('visible'); }
             if (tlBar) { tlBar.textContent = ''; tlBar.classList.remove('visible'); }
+            if (tlNote) { tlNote.textContent = 'Count of collected media reports, not total events in state'; }
             this.updateScrollOffset();
             return;
         }
@@ -324,8 +326,10 @@ const App = {
         if (ViewState.currentView === 'timeline') {
             if (bar) { bar.classList.remove('visible'); }
             if (tlBar) { tlBar.textContent = text; tlBar.classList.add('visible'); }
+            if (tlNote) { tlNote.textContent = text; }
         } else {
             if (tlBar) { tlBar.textContent = ''; tlBar.classList.remove('visible'); }
+            if (tlNote) { tlNote.textContent = 'Count of collected media reports, not total events in state'; }
             if (bar) { bar.textContent = text; bar.classList.add('visible'); }
         }
         this.updateScrollOffset();
