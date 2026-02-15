@@ -31,15 +31,6 @@ const MediaGallery = {
         const gallery = document.getElementById('media-gallery');
         let mediaIncidents = App.getFilteredIncidents().filter(i => i.hasLocalMedia);
 
-        // Include background incidents that have media (filtered out by getFilteredIncidents)
-        const backgroundWithMedia = App.incidents.filter(i => {
-            if (i.trustworthiness === 'no-news-media' || i.trustworthiness === 'removed') return false;
-            if (!i.hasLocalMedia) return false;
-            const types = Array.isArray(i.type) ? i.type : [i.type];
-            return types.length === 1 && types[0] === 'background';
-        });
-        mediaIncidents = [...mediaIncidents, ...backgroundWithMedia];
-
         if (mediaIncidents.length === 0) {
             const hasSearch = typeof Search !== 'undefined' && Search.query;
             const msg = hasSearch ? 'No media matches your search.' : 'No media available yet. Check back soon.';

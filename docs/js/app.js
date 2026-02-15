@@ -342,7 +342,7 @@ const App = {
         const query = (typeof Search !== 'undefined' && Search.query) ? Search.query.toLowerCase().trim() : '';
         const activeTags = (typeof Search !== 'undefined' && Search.activeTags) ? Search.activeTags : new Set();
 
-        // Filter out no-news-media, removed, and background incidents from main display
+        // Filter out no-news-media and removed incidents from main display
         const verified = this.incidents.filter(i => {
             if (i.trustworthiness === 'no-news-media' || i.trustworthiness === 'removed') return false;
             return true;
