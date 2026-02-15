@@ -118,7 +118,7 @@ Court ordered parties to meet and confer; joint letter due February 9.
 
 ## The Evidentiary Record
 
-More than 30 declarations filed under penalty of perjury, including from the six named plaintiffs and:
+More than 80 declarations filed under penalty of perjury, including from the six named plaintiffs and:
 
 **Observers assaulted or pepper sprayed:**
 - Carla Hennes (Doc. 33) — Grabbed by the head, shoved
@@ -126,6 +126,15 @@ More than 30 declarations filed under penalty of perjury, including from the six
 - Theresa del Rosario (Doc. 61) — Shoved while using cane
 - Thomas Ett (Doc. 62) — Shoved in crosswalk
 - Elizabeth Jackson (Doc. 63) — Threatened with home address; arrested 10 days later
+- [Clayton Kelly](/entry/2026-01-24-clayton-kelly-observer-pepper-sprayed) — Tackled at Pretti scene; pepper spray nozzle pushed behind glasses into left eye
+- [Timothy Brandon](/entry/2026-01-08-timothy-brandon-projectile-protest) — 70 years old; struck by projectile, separated shoulder fleeing tear gas
+- [Mark Butcher](/entry/2026-01-20-mark-butcher-journalist-arrested) — Freelance journalist arrested while recording; cardiac damage during detention
+
+**Observers followed home or intimidated at residence:**
+- Riley Kellermeyer (Doc. 1.11) — Followed to her home by ICE agents
+- [Daniel Woo](/entry/2026-01-15-daniel-woo-followed-home) — ICE SUV followed him 40 minutes from St. Paul supermarket to Plymouth home
+- [Emily Beltz](/entry/2026-01-26-emily-beltz-observer-intimidated) — Agent yelled her name and home address from unmarked SUV
+- [Katie Henly](/entry/2026-01-21-katie-henly-home-photographed) — ICE vehicles stopped at her home; agent photographed house while another held AR-15
 
 **Witnesses to use of force:**
 - Joe Mitchell (Doc. 1.14) — Witnessed agents pepper spray non-impeding protesters
@@ -137,7 +146,6 @@ More than 30 declarations filed under penalty of perjury, including from the six
 - Dan Engelhart (Doc. 1.7) — Agent: "Are you getting raped right now? Is that a rape whistle?"
 - Flannery Clark (Doc. 1.8) — Brake-checked, surrounded by agents with hands on guns
 - Imogen Page (Doc. 1.9) — Boxed in by agents
-- Riley Kellermeyer (Doc. 1.11) — Followed to her home by ICE agents
 - Beatriz Rudolph Leon (Doc. 14) — Agent pointed assault rifle, said "Hit me and see what happens"
 - Luke Mielke (Doc. 36) — Followed from Whipple, surrounded, threatened with prosecution
 - Claire Smith (Doc. 34) — Observed ICE at Karmel Mall with film crew
@@ -174,12 +182,19 @@ The following entries on this site are sourced in part from declarations filed i
 - [Cedar-Riverside pepper spray / Crenshaw, Dec 9](/entry/2025-12-09-cedar-riverside-pepper-spray) — Named plaintiff
 - [Abdikadir Noor arrested at Karmel Mall, Dec 15](/entry/2025-12-16-abdikadir-noor-karmel-mall) — Named plaintiff
 - [Ridgedale courthouse arrests / Hennes, Dec 29](/entry/2025-12-29-ridgedale-courthouse-arrests) — Doc. 33
+- [Timothy Brandon struck by projectile at Whipple protest, Jan 8](/entry/2026-01-08-timothy-brandon-projectile-protest) — Amended complaint
 - [Whipple tear gas / del Rosario and Ett, Jan 8](/entry/2026-01-08-whipple-tear-gas-renee-good-protest) — Docs. 61, 62
 - [Troy Carrillo pepper sprayed, Jan 9](/entry/2026-01-09-troy-carrillo-pepper-sprayed) — Doc. 60
+- [Abigail Salm detained, death threat, Jan 9](/entry/2026-01-09-abigail-salm-observer-detained) — Doc. 69
 - [Nicole Cleland Global Entry revoked, Jan 10](/entry/2026-01-10-nicole-cleland-global-entry-revoked) — Doc. 98
 - [Siguenza and O'Keefe detained 8 hours, Jan 11](/entry/2026-01-11-siguenza-okeefe-detained) — Doc. 99
-- [Abigail Salm detained, death threat, Jan 9](/entry/2026-01-09-abigail-salm-observer-detained) — Doc. 69
+- [Daniel Woo followed home to Plymouth, Jan 15](/entry/2026-01-15-daniel-woo-followed-home) — Amended complaint
 - [Elizabeth Jackson arrested, Jan 17](/entry/2026-01-17-elizabeth-jackson-observer-arrested) — Doc. 63
+- [Mark Butcher journalist arrested, Jan 20](/entry/2026-01-20-mark-butcher-journalist-arrested) — Amended complaint
+- [Katie Henly home photographed by agents, Jan 21](/entry/2026-01-21-katie-henly-home-photographed) — Amended complaint
+- [Observer pinned, pepper sprayed in face, Jan 21](/entry/2026-01-21-observer-pinned-pepper-sprayed-face) — Injunction violation
+- [Clayton Kelly pepper sprayed at Pretti scene, Jan 24](/entry/2026-01-24-clayton-kelly-observer-pepper-sprayed) — Amended complaint
+- [Emily Beltz name and address shouted by agent, Jan 26](/entry/2026-01-26-emily-beltz-observer-intimidated) — Amended complaint
 
 ## Editorial Assessment
 **HIGH** - Documented through court filings (63-page complaint, 30+ sworn declarations, judicial orders), with sustained coverage from the Star Tribune, Minnesota Reformer, MPR News, NYT, Washington Post, NPR, and AP. The injunction order (Doc. 85) and Eighth Circuit stay are public court records available through PACER, CourtListener, and Justia.
