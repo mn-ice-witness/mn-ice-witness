@@ -46,11 +46,19 @@ const Timeline = {
 
         this.initScrollObserver();
         this.initClickHandlers();
+        this.updateNoteWithSearch();
         this.scrollToDate(targetDate);
 
         if (!this._allMonthsLoaded) {
             this.loadRemainingMonths();
         }
+    },
+
+    updateNoteWithSearch() {
+        if (typeof Search === 'undefined' || !Search.hasActiveFilters()) return;
+        const note = document.querySelector('.tl-totals-note');
+        if (!note || typeof App === 'undefined') return;
+        note.textContent = App.buildSearchBarText(App.getFilteredIncidents());
     },
 
     async init() {
@@ -93,6 +101,7 @@ const Timeline = {
 
         this.initScrollObserver();
         this.initClickHandlers();
+        this.updateNoteWithSearch();
 
         if (currentDate && currentDate !== this.getFirstDate()) {
             this.scrollToDate(currentDate);
