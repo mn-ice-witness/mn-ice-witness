@@ -11,6 +11,7 @@
 
 
 
+
 juan-carlos-brutality
 aliya-rahman-car-window-hospitalized
 speedway-st-paul
@@ -149,3 +150,4 @@ nadine-ice-car-rammed-citizens
 dhs-data-14-percent-violent-criminal-records
 outstate-cities-ice-ordinances
 katie-henly-home-photographed
+wilmer-andrade-work-permit-targeted
