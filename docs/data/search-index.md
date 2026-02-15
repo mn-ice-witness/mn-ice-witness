@@ -16,7 +16,7 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (270 incidents)
+## CURRENT (271 incidents)
 
 Published incidents visible on the main site.
 
@@ -210,6 +210,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/10/2026-01-10-raul-aguirre-castrejon-monticello.md | 2026-01-10 | Monticello | citizens | Legal Permanent Resident Boxed In on Road, Handcuffed at Gunpoint; Agents Take Cash from Wallet
 - incidents/2026-01/10/2026-01-10-dionne-thunder-powwow-grounds.md | 2026-01-10 | Minneapolis | observers | ICE Agents Attempt to Detain Indigenous Observer Near Powwow Grounds; Community Forces Retreat
 - incidents/2026-01/10/2026-01-10-maple-grove-walmart.md | 2026-01-10 | Maple Grove | immigrants | Man Pinned and Arrested Inside Maple Grove Walmart
+- incidents/2026-01/10/2026-01-10-ta-eh-doh-lah-refugee-detained.md | 2026-01-10 | St. Paul | citizens | Burmese Refugee Mother Arrested While Breastfeeding; Judge Orders Release From Texas
 - incidents/2026-01/10/2026-01-10-congressional-access-denied.md | 2026-01-10 | Minneapolis | background | Congressional Representatives Denied Access to Whipple ICE Facility
 - incidents/2026-01/10/2026-01-10-msp-airport-employees.md | 2026-01-10 | Minneapolis | citizens | Multiple Airport Employees Detained by ICE at MSP
 - incidents/2026-01/09/2026-01-09-brandon-saenz-doordash.md | 2026-01-09 | St. Paul | immigrants | DoorDash Driver Arrested by ICE; Wife Flees Into Customer's Home
