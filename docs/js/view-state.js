@@ -99,6 +99,13 @@ const ViewState = {
 
     // ==================== SORT DROPDOWN ====================
 
+    isSortNonDefault() {
+        if (this.currentView === 'timeline') {
+            return typeof Timeline !== 'undefined' && Timeline.sortOrder !== 'oldest';
+        }
+        return this.sortMode !== 'all';
+    },
+
     initSortDropdown() {
         const btn = document.getElementById('sort-btn');
         const menu = document.getElementById('sort-menu');
@@ -108,7 +115,7 @@ const ViewState = {
             e.stopPropagation();
             const isOpen = menu.classList.toggle('open');
             menu.setAttribute('aria-hidden', !isOpen);
-            btn.classList.toggle('active', isOpen || this.sortMode !== 'all');
+            btn.classList.toggle('active', isOpen || this.isSortNonDefault());
         });
 
         menu.querySelectorAll('.sort-option').forEach(option => {
@@ -123,7 +130,7 @@ const ViewState = {
         document.addEventListener('click', () => {
             menu.classList.remove('open');
             menu.setAttribute('aria-hidden', 'true');
-            btn.classList.toggle('active', this.sortMode !== 'all');
+            btn.classList.toggle('active', this.isSortNonDefault());
         });
     },
 
