@@ -19,7 +19,7 @@ search_tags: us-citizen, observer-intimidated, home-visit, src:nyt
 Katie Henly, 40, a project manager in local government, went out on January 21 to monitor suspected ICE agents. She confirmed two vehicles were federal and began following them. The vehicles turned onto her street and stopped at her house. An agent poked a camera out the window and photographed her home. Four agents exited; one held an AR-15-style rifle. Henly filed a sworn declaration in Tincher v. Noem.
 
 ## Sources
-1. New York Times (Feb 14, 2026): [ICE Agents Menaced Minnesota Protesters at Their Homes, Filings Say](https://www.spokesman.com/stories/2026/feb/14/ice-agents-menaced-minnesota-protesters-at-their-h/)
+1. New York Times (Feb 13, 2026): [ICE Agents Menaced Minnesota Protesters at Their Homes, Filings Say](https://www.nytimes.com/2026/02/13/us/minneapolis-ice-agents-protester-home-visits.html)
 
 ## Affected Individual(s)
 

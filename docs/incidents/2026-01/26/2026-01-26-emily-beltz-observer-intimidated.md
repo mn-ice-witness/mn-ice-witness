@@ -19,7 +19,7 @@ search_tags: us-citizen, observer-intimidated, home-visit, src:nyt, src:other-na
 Emily Beltz, 44, drove to an apartment building in a Minneapolis suburb on January 26 where ICE agents were reportedly stationed. When an SUV left the scene, Beltz followed. The SUV suddenly turned and accelerated toward her car. A masked agent leaned out the passenger window and shouted "Emily, Emily, we're going to take you home," then shouted the address where Beltz lives with her husband and 5-year-old child. Beltz filed a sworn declaration in Tincher v. Noem.
 
 ## Sources
-1. New York Times (Feb 14, 2026): [ICE Agents Menaced Minnesota Protesters at Their Homes, Filings Say](https://www.spokesman.com/stories/2026/feb/14/ice-agents-menaced-minnesota-protesters-at-their-h/)
+1. New York Times (Feb 13, 2026): [ICE Agents Menaced Minnesota Protesters at Their Homes, Filings Say](https://www.nytimes.com/2026/02/13/us/minneapolis-ice-agents-protester-home-visits.html)
 2. ACLU-MN (Feb 13, 2026): [New Filings Detail Harrowing Accounts of ICE and Border Patrol Violence](https://www.aclu.org/press-releases/new-filings-detail-harrowing-accounts-of-ice-and-border-patrol-violence-and-intimidation-against-minnesotans)
 
 ## Affected Individual(s)

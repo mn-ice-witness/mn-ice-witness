@@ -19,7 +19,7 @@ search_tags: us-citizen, observer-intimidated, home-visit, src:nyt
 Daniel Woo, 29, a sound designer, drove to a St. Paul supermarket parking lot to monitor federal agents as part of a civilian observer network. The ICE SUV he was tracking followed him approximately 40 minutes to his neighborhood in Plymouth and parked in front of his house. Woo filed a sworn declaration in Tincher v. Noem. Exact date not specified in available sources; approximate mid-January 2026.
 
 ## Sources
-1. New York Times (Feb 14, 2026): [ICE Agents Menaced Minnesota Protesters at Their Homes, Filings Say](https://www.spokesman.com/stories/2026/feb/14/ice-agents-menaced-minnesota-protesters-at-their-h/)
+1. New York Times (Feb 13, 2026): [ICE Agents Menaced Minnesota Protesters at Their Homes, Filings Say](https://www.nytimes.com/2026/02/13/us/minneapolis-ice-agents-protester-home-visits.html)
 
 ## Affected Individual(s)
 

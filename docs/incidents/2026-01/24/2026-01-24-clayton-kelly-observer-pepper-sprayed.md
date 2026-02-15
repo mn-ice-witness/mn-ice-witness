@@ -21,7 +21,7 @@ Clayton Kelly, 25, a bus mechanic for Minneapolis Metro Transit, arrived at the 
 ## Sources
 1. The Intercept (Jan 31, 2026): [He Witnessed an Earlier Shooting. Feds Arrested Him at the Scene of Alex Pretti's Killing.](https://theintercept.com/2026/01/31/minneapolis-protester-witness-killing-alex-pretti/)
 2. The Globe and Mail (Feb 7, 2026): [ICE arrests in Minneapolis increasingly look like kidnappings](https://www.theglobeandmail.com/world/us-politics/article-ice-arrests-in-minneapolis-increasingly-look-like-kidnappings-fearful/)
-3. New York Times (Feb 14, 2026): [ICE Agents Menaced Minnesota Protesters at Their Homes, Filings Say](https://www.spokesman.com/stories/2026/feb/14/ice-agents-menaced-minnesota-protesters-at-their-h/)
+3. New York Times (Feb 13, 2026): [ICE Agents Menaced Minnesota Protesters at Their Homes, Filings Say](https://www.nytimes.com/2026/02/13/us/minneapolis-ice-agents-protester-home-visits.html)
 4. ACLU-MN (Feb 13, 2026): [New Filings Detail Harrowing Accounts of ICE and Border Patrol Violence](https://www.aclu.org/press-releases/new-filings-detail-harrowing-accounts-of-ice-and-border-patrol-violence-and-intimidation-against-minnesotans)
 
 ## Affected Individual(s)

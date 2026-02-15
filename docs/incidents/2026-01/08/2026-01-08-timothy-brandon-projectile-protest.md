@@ -19,7 +19,7 @@ search_tags: us-citizen, excessive-force, chemical-agents, src:nyt
 Timothy Brandon, 70, attended a protest at the Bishop Henry Whipple Federal Building. He was struck in the hip by a projectile fired by federal agents. While trying to run from tear gas, he fell and separated his shoulder. He filed a sworn declaration in Tincher v. Noem. Exact date not confirmed in available sources; placed at the January 8 Whipple protest based on described conditions (tear gas, projectiles).
 
 ## Sources
-1. New York Times (Feb 14, 2026): [ICE Agents Menaced Minnesota Protesters at Their Homes, Filings Say](https://www.spokesman.com/stories/2026/feb/14/ice-agents-menaced-minnesota-protesters-at-their-h/)
+1. New York Times (Feb 13, 2026): [ICE Agents Menaced Minnesota Protesters at Their Homes, Filings Say](https://www.nytimes.com/2026/02/13/us/minneapolis-ice-agents-protester-home-visits.html)
 
 ## Affected Individual(s)
 

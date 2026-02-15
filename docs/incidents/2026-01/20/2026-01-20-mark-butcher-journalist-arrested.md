@@ -19,7 +19,7 @@ search_tags: us-citizen, observer-detained, journalist, src:nyt, src:pbs
 Mark Butcher, 55, a carpenter and freelance journalist, was arrested on January 20 while parked on a Minneapolis residential street recording video of federal agents. Butcher had undergone open-heart surgery the prior year. He reported that his cardiac tissue was damaged during detention and has experienced palpitations and heart rhythm problems since the encounter. He filed a sworn declaration in Tincher v. Noem.
 
 ## Sources
-1. New York Times (Feb 14, 2026): [ICE Agents Menaced Minnesota Protesters at Their Homes, Filings Say](https://www.spokesman.com/stories/2026/feb/14/ice-agents-menaced-minnesota-protesters-at-their-h/)
+1. New York Times (Feb 13, 2026): [ICE Agents Menaced Minnesota Protesters at Their Homes, Filings Say](https://www.nytimes.com/2026/02/13/us/minneapolis-ice-agents-protester-home-visits.html)
 2. PBS NewsHour (Feb 2026): [Arrests of journalists fuel backlash as anti-ICE protests spread from Minneapolis](https://www.pbs.org/newshour/show/arrests-of-journalists-fuel-backlash-as-anti-ice-protests-spread-from-minneapolis)
 
 ## Affected Individual(s)
