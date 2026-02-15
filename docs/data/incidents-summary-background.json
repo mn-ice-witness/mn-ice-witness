@@ -769,7 +769,7 @@
       "filePath": "incidents/2025-12/17/2025-12-17-tincher-v-noem-aclu-lawsuit.md",
       "title": "ACLU Sues to Protect Observers: The Only Injunction Issued Against Operation Metro Surge",
       "summary": "On December 17, 2025, the ACLU of Minnesota filed Tincher v. Noem on behalf of six residents whose rights were violated while observing ICE operations. On January 16, Judge Katherine Menendez issued the only preliminary injunction against any aspect of Operation Metro Surge, barring agents from retaliating against observers, using pepper spray on protesters, or stopping vehicles for safely following agents. The Eighth Circuit stayed the injunction on January 26 after just 10 days. An amended complaint filed February 13 expanded the evidentiary record to more than 80 sworn declarations, with over a dozen describing agents showing up at protesters' homes.",
-      "latestUpdate": "ACLU files [amended complaint with 80+ sworn declarations](https://www.startribune.com/more-than-80-minnesota-observers-and-protesters-detail-mistreatment-by-ice/601581136) and two new plaintiffs. More than a dozen declarations describe [agents showing up at protesters' homes](https://www.spokesman.com/stories/2026/feb/14/ice-agents-menaced-minnesota-protesters-at-their-h/), including one agent who shouted a woman's name and home address from an unmarked SUV.",
+      "latestUpdate": "ACLU files [amended complaint with 80+ sworn declarations](https://www.startribune.com/more-than-80-minnesota-observers-and-protesters-detail-mistreatment-by-ice/601581136) and two new plaintiffs. More than a dozen declarations describe [agents showing up at protesters' homes](https://www.nytimes.com/2026/02/13/us/minneapolis-ice-agents-protester-home-visits.html), including one agent who shouted a woman's name and home address from an unmarked SUV.",
       "date": "2025-12-17",
       "time": "unknown",
       "location": "U.S. District Court, Minneapolis",
@@ -789,6 +789,7 @@
         "src:mpr",
         "src:kare11",
         "src:star-tribune",
+        "src:nytimes",
         "src:other-national"
       ],
       "hasLocalMedia": true,
@@ -801,8 +802,8 @@
           "path": "media/2025-12/17/2025-12-17-tincher-v-noem-aclu-lawsuit.jpg"
         }
       ],
-      "aspectRatio": 1.3289036544850499,
-      "mediaVersion": 1770593864
+      "aspectRatio": 1.5037593984962405,
+      "mediaVersion": 1771130407
     },
     {
       "filePath": "incidents/2025-12/01/2025-12-01-operation-metro-surge-launched.md",

@@ -10,13 +10,13 @@ injuries: none
 trustworthiness: high
 created: 2026-02-08T14:47:35
 last_updated: 2026-02-14T21:05:51
-search_tags: src:mn-reformer, src:sahan-journal, src:mpr, src:kare11, src:star-tribune, src:other-national
+search_tags: src:mn-reformer, src:sahan-journal, src:mpr, src:kare11, src:star-tribune, src:nytimes, src:other-national
 ---
 
 # ACLU Sues to Protect Observers: The Only Injunction Issued Against Operation Metro Surge
 
 ## Updates
-- **Feb 13** - ACLU files [amended complaint with 80+ sworn declarations](https://www.startribune.com/more-than-80-minnesota-observers-and-protesters-detail-mistreatment-by-ice/601581136) and two new plaintiffs. More than a dozen declarations describe [agents showing up at protesters' homes](https://www.spokesman.com/stories/2026/feb/14/ice-agents-menaced-minnesota-protesters-at-their-h/), including one agent who shouted a woman's name and home address from an unmarked SUV.
+- **Feb 13** - ACLU files [amended complaint with 80+ sworn declarations](https://www.startribune.com/more-than-80-minnesota-observers-and-protesters-detail-mistreatment-by-ice/601581136) and two new plaintiffs. More than a dozen declarations describe [agents showing up at protesters' homes](https://www.nytimes.com/2026/02/13/us/minneapolis-ice-agents-protester-home-visits.html), including one agent who shouted a woman's name and home address from an unmarked SUV.
 
 ## Summary
 On December 17, 2025, the ACLU of Minnesota filed Tincher v. Noem on behalf of six residents whose rights were violated while observing ICE operations. On January 16, Judge Katherine Menendez issued the only preliminary injunction against any aspect of Operation Metro Surge, barring agents from retaliating against observers, using pepper spray on protesters, or stopping vehicles for safely following agents. The Eighth Circuit stayed the injunction on January 26 after just 10 days. An amended complaint filed February 13 expanded the evidentiary record to more than 80 sworn declarations, with over a dozen describing agents showing up at protesters' homes.
@@ -38,8 +38,9 @@ On December 17, 2025, the ACLU of Minnesota filed Tincher v. Noem on behalf of s
 14. Justia: [Document 85 — Preliminary Injunction Order](https://law.justia.com/cases/federal/district-courts/minnesota/mndce/0:2025cv04669/229758/85/)
 15. Justia: [Eighth Circuit Stay Order](https://law.justia.com/cases/federal/appellate-courts/ca8/26-1105/26-1105-2026-01-26.html)
 16. Star Tribune (Feb 13, 2026): [More than 80 Minnesota observers and protesters detail mistreatment by ICE](https://www.startribune.com/more-than-80-minnesota-observers-and-protesters-detail-mistreatment-by-ice/601581136)
-17. New York Times (Feb 14, 2026): [ICE agents menaced Minnesota protesters at their homes, filings say](https://www.spokesman.com/stories/2026/feb/14/ice-agents-menaced-minnesota-protesters-at-their-h/)
-18. The Marshall Project (Feb 4, 2026): ['We Know Where You Live.' Protesters say ICE agents retaliate with threats, investigations](https://www.themarshallproject.org/2026/02/04/ice-immigration-intimidation-tactics-protesters)
+17. New York Times (Feb 13, 2026): [ICE agents menaced Minnesota protesters at their homes, filings say](https://www.nytimes.com/2026/02/13/us/minneapolis-ice-agents-protester-home-visits.html)
+18. Spokesman-Review (Feb 14, 2026): [ICE agents menaced Minnesota protesters at their homes, filings say](https://www.spokesman.com/stories/2026/feb/14/ice-agents-menaced-minnesota-protesters-at-their-h/) *(NYT syndication)*
+19. The Marshall Project (Feb 4, 2026): ['We Know Where You Live.' Protesters say ICE agents retaliate with threats, investigations](https://www.themarshallproject.org/2026/02/04/ice-immigration-intimidation-tactics-protesters)
 
 ## Case Information
 - **Case:** Tincher v. Noem, Case No. 0:25-cv-04669-KMM-DTS
