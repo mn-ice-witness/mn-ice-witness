@@ -16,16 +16,20 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (258 incidents)
+## CURRENT (262 incidents)
 
 Published incidents visible on the main site.
 
+- incidents/2026-02/13/2026-02-13-minneapolis-203m-economic-impact.md | 2026-02-13 | Minneapolis | background | Minneapolis Estimates $203 Million Economic Impact from Operation Metro Surge
+- incidents/2026-02/13/2026-02-13-sheriff-witt-denies-ice-deal.md | 2026-02-13 | Minneapolis | background | Sheriff Witt Denies ICE Deal, Says She Was "Scapegoated"
 - incidents/2026-02/12/2026-02-12-homan-operation-metro-surge-conclusion.md | 2026-02-12 | Minneapolis | background | Homan Declares Operation Metro Surge Over
+- incidents/2026-02/12/2026-02-12-senate-homeland-security-hearing.md | 2026-02-12 | Washington, D.C. | background | Senate Homeland Security Hearing on Operation Metro Surge
 - incidents/2026-02/11/2026-02-11-ninas-coffee-ice-pursuit-crash.md | 2026-02-11 | St. Paul | immigrants | ICE High-Speed Pursuit Causes Multi-Car Crash Outside Nina's Coffee in St. Paul
 - incidents/2026-02/11/2026-02-11-nupa-rochester-cooks-detained.md | 2026-02-11 | Rochester | immigrants | Two Cooks Detained in Nupa Restaurant Parking Lot; Rochester Location Forced to Close
 - incidents/2026-02/11/2026-02-11-ice-hospital-fear-lost-pregnancy.md | 2026-02-11 | Minneapolis | schools-hospitals | ICE Fears Cause Lost Pregnancy, Home Birth Crisis as Clinic No-Show Rates Hit 60%
 - incidents/2026-02/10/2026-02-10-walz-days-not-months-drawdown.md | 2026-02-10 | Minneapolis | background | Walz Says ICE Drawdown Coming in "Days, Not Weeks and Months"
 - incidents/2026-02/10/2026-02-10-flying-j-lonsdale-semi-truck.md | 2026-02-10 | Lonsdale | immigrants | Dozen Agents Shatter Semi Truck Window at Flying J Travel Center; At Least Two Arrested
+- incidents/2026-02/10/2026-02-10-outstate-cities-ice-ordinances.md | 2026-02-10 | Duluth, Mankato, Red Wing, Moorhead | background | Outstate Minnesota Cities Pass ICE Non-Cooperation Ordinances
 - incidents/2026-02/09/2026-02-09-faribault-observer-database-threat.md | 2026-02-09 | Faribault | observers | ICE Agents Tell Observer They Are Building "Database" of Those Documenting Operations
 - incidents/2026-02/09/2026-02-09-dhs-data-14-percent-violent-criminal-records.md | 2026-02-09 | Washington D.C. | background | Internal DHS Data: Less Than 14% of ICE Arrests Had Violent Criminal Records
 - incidents/2026-02/08/2026-02-08-ice-deceptive-tactics.md | 2026-02-08 | Minneapolis | background | Reports of ICE Agents Using Disguises, Fake License Plates, and Ruse Tactics Across Minnesota
@@ -281,7 +285,7 @@ Published incidents visible on the main site.
 
 ---
 
-## NO-ADD (211 entries)
+## NO-ADD (212 entries)
 
 Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 
@@ -383,6 +387,7 @@ Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 - dev-docs/not_use.md | Dec 18 / Jan 16 | Freeborn County 287(g) ACLU Lawsuit
 - dev-docs/not_use.md | Jan 20-21 | Anpetu Teca Education Center ICE Staging Area
 - dev-docs/not_use.md | n/a | Anonymous Refugee Detentions From NPR
+- dev-docs/not_use.md | Feb 12 | Walz $10M Business Relief Package
 - dev-docs/not_use.md | Feb 8 | Roseville Teenagers Detained
 - dev-docs/not_use.md | Feb 8 | Albert Lea ATM Arrest
 - dev-docs/not_use.md | Feb 8 | Minneapolis 24th Ave Arrest

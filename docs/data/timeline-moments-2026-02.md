@@ -145,9 +145,9 @@ Judge Nancy Brasel issues a 41-page emergency restraining order requiring DHS to
 
 ---
 date: 2026-02-13
-title: DOJ Drops All Charges Against Julio Sosa-Celis
+title: DOJ Drops Charges; Perjury Probe Opened Against ICE Officers
 update-for: 2026-01-14-julio-sosa-celis-shooting
-source: https://www.startribune.com/doj-drops-charges-julio-sosa-celis/601575710
+source: https://www.npr.org/2026/02/13/nx-s1-5713947/immigration-agents-lie-minnesota
 image: false
 ---
-The DOJ moves to drop all criminal charges against Julio Sosa-Celis and Alfredo Aljorna with prejudice, citing "newly discovered evidence" materially inconsistent with the complaint affidavit. Video surveillance contradicted the agent's claims of assault.
+The DOJ dropped all criminal charges against Julio Sosa-Celis and Alfredo Aljorna with prejudice after video evidence proved "materially inconsistent" with the agents' sworn claims. The same day, ICE Director Todd Lyons announced a joint criminal perjury probe with DOJ — the two officers who testified under oath were placed on administrative leave and face potential criminal prosecution. It was the first time ICE leadership publicly acknowledged agents may have lied about a shooting during Operation Metro Surge.

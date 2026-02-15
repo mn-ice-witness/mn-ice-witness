@@ -705,6 +705,12 @@ Stories are excluded when they don't meet the project's core focus:
 
 ### February 2026
 
+**Walz $10M Business Relief Package (Feb 12)**
+- Date: February 12, 2026
+- Details: Governor Walz announced a $10 million emergency relief package for Minnesota businesses impacted by Operation Metro Surge — grants for small businesses, restaurants, and immigrant-owned enterprises.
+- Reason: **Political/institutional story** - government policy response, not a civil rights incident.
+- Date evaluated: 2026-02-14
+
 **Roseville Teenagers Detained (Feb 8)**
 - Sources: [Bring Me The News](https://bringmethenews.com/minnesota-news/list-of-ice-raids-updates-in-minnesota-on-saturday-feb-8) via People Over Papers
 - Date: February 8, 2026

@@ -9,13 +9,14 @@ affected_individual_citizenship: asylum-seeker
 injuries: serious
 trustworthiness: high
 created: 2026-02-07T14:12:42
-last_updated: 2026-02-12T22:14:54
+last_updated: 2026-02-14T21:05:51
 search_tags: legal-resident, children, shooting, excessive-force, chemical-agents, family-separation, warrantless-entry, src:mpr, src:star-tribune, src:sahan-journal, src:wcco, src:kstp, src:kare11, src:other-national, src:mn-reformer, src:fox9, src:cbs-news
 ---
 
 # ICE Agent Shoots Man Through Closed Door in North Minneapolis; Bullet Enters Apartment with Four Children
 
 ## Updates
+- **Feb 13** - ICE Director Todd Lyons [announces a joint criminal perjury probe with DOJ](https://www.npr.org/2026/02/13/nx-s1-5713947/immigration-agents-lie-minnesota) into two ICE officers who made "untruthful statements" under oath about the shooting. Both officers [placed on administrative leave](https://www.cbsnews.com/minnesota/news/todd-lyons-ice-north-minneapolis-shooting-lying-under-oath/) and face potential termination and criminal prosecution.
 - **Feb 12** - DOJ [moves to drop all charges with prejudice](https://www.startribune.com/doj-moves-to-drop-charges-against-men-arrested-after-north-minneapolis-ice-shooting/601581378) against Sosa-Celis and Aljorna, citing "newly discovered evidence" that is "materially inconsistent" with the complaint affidavit. [Video surveillance evidence](https://www.cbsnews.com/news/doj-drops-charges-assaulting-ice-officers-inconsistent-evidence/) did not back up the agent's claims of being assaulted. Attorney Brian Clark called the charges "based on lies by an ICE agent who recklessly shot into their home through a closed door." Family [demands the agent be identified and criminally charged](https://www.fox9.com/news/north-minneapolis-ice-shooting-doj-dismisses-charges-venezuelan-men-feb-12-2026).
 - **Feb 5** - Federal judge [halts deportation of Valentina Moreno](https://www.fox9.com/news/judge-halts-deportation-ice-shooting-witness-minneapolis), Aljorna's partner and key witness. Court records state Moreno can testify Aljorna never hit the ICE agent. Government had accelerated her immigration hearing to Friday, six months earlier than scheduled. Judge warned of consequences if Moreno is deported.
 - **Feb 5** - Partner Indriany Mendoza Camacho [speaks to MPR News](https://www.mprnews.org/story/2026/02/05/indriany-mendoza-camacho-speaks-out-about-ice-shooting-her-partner-julio-sosacelis), disputing government's account. Says Sosa-Celis never grabbed anything to hit the officer. Agent shot through the closed front door; bullet traveled through wall into downstairs apartment near a child's playpen where four children and an adult were present.
@@ -43,6 +44,11 @@ On January 14, 2026, an ICE agent shot Julio Cesar Sosa-Celis, 24, in the leg du
 15. KSTP (Jan 2026): [2 ICE agents under investigation for untruthful statements about north Minneapolis shooting](https://kstp.com/kstp-news/top-news/2-ice-agents-under-investigation-for-untruthful-statements-about-north-minneapolis-shooting/)
 16. KARE 11 (Feb 12, 2026): [Charges against man shot and injured by federal agent to be dismissed](https://www.kare11.com/article/news/local/ice-in-minnesota/charges-man-shot-injured-by-federal-agent-motion-dismiss/89-b9bac675-171a-4f5a-ae20-6ccfae5874e1)
 17. KARE 11 (Feb 12, 2026): [Prosecutors move to dismiss charges against men accused of hitting ICE officer with broom and shovel](https://www.kare11.com/article/associatedpress/associatedpress/prosecutors-move-to-dismiss-charges-against-men-accused-of-hitting-ice-officer-with-broom-and-shovel/616-ebe3407e-73c9-4304-ab5a-f78bc2c0e836)
+18. NPR (Feb 13, 2026): [DHS says immigration agents appear to have lied about shooting in Minnesota](https://www.npr.org/2026/02/13/nx-s1-5713947/immigration-agents-lie-minnesota)
+19. CBS Minnesota (Feb 13, 2026): [2 ICE agents on leave for lying under oath in Minneapolis shooting investigation](https://www.cbsnews.com/minnesota/news/todd-lyons-ice-north-minneapolis-shooting-lying-under-oath/)
+20. Washington Post (Feb 13, 2026): [ICE officers suspended after making 'untruthful statements' about shooting](https://www.washingtonpost.com/immigration/2026/02/13/ice-officers-suspended-after-making-untruthful-statements-about-shooting/)
+21. Star Tribune (Feb 13, 2026): [DHS says ICE agents suspended for 'untruthful' testimony in nonfatal Minneapolis shooting](https://www.startribune.com/dhs-says-ice-agents-suspended-for-untruthful-testimony-in-nonfatal-minneapolis-shooting/601582100)
+22. PBS (Feb 13, 2026): [Feds investigate whether ICE officers lied about shooting of Venezuelan man](https://www.pbs.org/newshour/nation/feds-investigate-whether-ice-officers-lied-about-shooting-of-venezuelan-man-in-minneapolis)
 
 ## Related Incidents
 - [Six Children Hospitalized After ICE Deploys Flashbangs and Tear Gas on Family SUV](#2026-01-14-shawn-jackson-children-tear-gas) - Same day, connected protest response.

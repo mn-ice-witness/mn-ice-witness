@@ -61,8 +61,26 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://mn-ice-witness.org/entry/2026-02-13-minneapolis-203m-economic-impact</loc>
+    <lastmod>2026-02-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://mn-ice-witness.org/entry/2026-02-13-sheriff-witt-denies-ice-deal</loc>
+    <lastmod>2026-02-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://mn-ice-witness.org/entry/2026-02-12-homan-operation-metro-surge-conclusion</loc>
     <lastmod>2026-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://mn-ice-witness.org/entry/2026-02-12-senate-homeland-security-hearing</loc>
+    <lastmod>2026-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -93,6 +111,12 @@
   <url>
     <loc>https://mn-ice-witness.org/entry/2026-02-10-flying-j-lonsdale-semi-truck</loc>
     <lastmod>2026-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://mn-ice-witness.org/entry/2026-02-10-outstate-cities-ice-ordinances</loc>
+    <lastmod>2026-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -842,7 +866,7 @@
   </url>
   <url>
     <loc>https://mn-ice-witness.org/entry/2026-01-14-julio-sosa-celis-shooting</loc>
-    <lastmod>2026-02-12</lastmod>
+    <lastmod>2026-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1466,7 +1490,7 @@
   </url>
   <url>
     <loc>https://mn-ice-witness.org/entry/2025-12-17-tincher-v-noem-aclu-lawsuit</loc>
-    <lastmod>2026-02-09</lastmod>
+    <lastmod>2026-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
