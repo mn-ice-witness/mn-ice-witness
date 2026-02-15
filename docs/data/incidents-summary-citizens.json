@@ -209,7 +209,7 @@
         "excessive-force",
         "deception",
         "src:bring-me-the-news",
-        "src:other-national"
+        "src:mother-jones"
       ],
       "hasLocalMedia": true,
       "localMediaType": "video",
@@ -981,6 +981,8 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "us-citizen",
+        "citizen-check",
         "src:fox9",
         "src:other-national"
       ],
@@ -1026,6 +1028,7 @@
         "src:pbs",
         "src:abc",
         "src:fox9",
+        "src:mother-jones",
         "src:mpr"
       ],
       "hasLocalMedia": true,

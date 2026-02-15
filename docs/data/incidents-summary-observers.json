@@ -547,6 +547,7 @@
         "src:nyt",
         "src:fox-news",
         "src:other-national",
+        "src:mother-jones",
         "src:mn-reformer",
         "src:mpr"
       ],
@@ -948,6 +949,7 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "us-citizen",
         "observer-intimidated",
         "src:abc",
         "src:pioneer-press",
@@ -2060,6 +2062,7 @@
         "src:kstp",
         "src:kare11",
         "src:other-national",
+        "src:mother-jones",
         "src:mn-reformer",
         "src:sahan-journal"
       ],
