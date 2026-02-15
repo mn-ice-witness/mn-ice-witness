@@ -44,7 +44,7 @@ title: U.S. Citizen Target Employees Detained and Injured
 incident: 2026-01-08-target-richfield-employees
 source:
 ---
-Agents enter a Richfield Target and detain two drive-up employees — both U.S. citizens — injuring them. One is driven around in an SUV and dumped in a Walmart parking lot; he becomes a plaintiff in the ACLU's class-action lawsuit. The incident ignites weeks of protests at Target stores that spread nationwide.
+Agents enter a Richfield Target and detain two drive-up employees — both U.S. citizens — injuring them. One is driven around in an SUV and left in a Walmart parking lot; he becomes a plaintiff in the ACLU's class-action lawsuit. The incident led to weeks of protests at Target stores that spread nationwide.
 
 ---
 date: 2026-01-09

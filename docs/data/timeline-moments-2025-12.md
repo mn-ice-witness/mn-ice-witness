@@ -28,7 +28,7 @@ title: Pregnant Somali Woman Dragged Through Snow at Karmel Mall
 incident: 2025-12-15-karmel-mall-pregnant-woman
 source:
 ---
-The first nationally viral moment. ICE agents swarm Karmel Mall — the nation's first Somali shopping center — and detain at least four people. A pregnant woman is dragged through the snow; video goes viral on TMZ and national outlets. During the same confrontation, [Abdikadir Noor](/entry/2025-12-16-abdikadir-noor-karmel-mall), a U.S. citizen trying to calm the crowd, is tackled and arrested. The mall falls silent in the weeks that follow.
+The first nationally viral moment. ICE agents enter Karmel Mall — the nation's first Somali shopping center — and detain at least four people. A pregnant woman is dragged through the snow; video goes viral on TMZ and national outlets. During the same confrontation, [Abdikadir Noor](/entry/2025-12-16-abdikadir-noor-karmel-mall), a U.S. citizen trying to calm the crowd, is tackled and arrested. The mall falls silent in the weeks that follow.
 
 ---
 date: 2025-12-17
