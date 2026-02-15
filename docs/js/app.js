@@ -485,8 +485,10 @@ const App = {
         } else if (mode === 'updated') {
             list = list.filter(i => i.lastUpdated && i.created && i.lastUpdated !== i.created);
             list.sort((a, b) => b.lastUpdated.localeCompare(a.lastUpdated));
-        } else if (mode === 'occurred') {
+        } else if (mode === 'occurred-newest' || mode === 'occurred') {
             list.sort((a, b) => b.date.localeCompare(a.date));
+        } else if (mode === 'occurred-oldest') {
+            list.sort((a, b) => a.date.localeCompare(b.date));
         }
         return list;
     },

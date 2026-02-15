@@ -31,7 +31,7 @@ const ViewState = {
 
         // Handle ?sort= param
         const sortParam = Router.parseSort();
-        if (sortParam && ['new-updated', 'new', 'updated', 'occurred'].includes(sortParam)) {
+        if (sortParam && ['new-updated', 'new', 'updated', 'occurred-newest', 'occurred-oldest', 'occurred'].includes(sortParam)) {
             this.setSortMode(sortParam, true);
             return;
         }
@@ -300,7 +300,8 @@ const ViewState = {
                     menu.innerHTML = `
                         <div class="sort-menu-header">Sort By</div>
                         <button class="sort-option${currentSort === 'all' ? ' active' : ''}" data-sort="all">${view === 'media' ? 'Featured' : 'Category'}</button>
-                        <button class="sort-option${currentSort === 'occurred' ? ' active' : ''}" data-sort="occurred">Occurred</button>
+                        <button class="sort-option${currentSort === 'occurred-newest' ? ' active' : ''}" data-sort="occurred-newest">Occurred: Newest</button>
+                        <button class="sort-option${currentSort === 'occurred-oldest' ? ' active' : ''}" data-sort="occurred-oldest">Occurred: Oldest</button>
                         <button class="sort-option${currentSort === 'new-updated' ? ' active' : ''}" data-sort="new-updated">New/Updated</button>
                         <button class="sort-option${currentSort === 'new' ? ' active' : ''}" data-sort="new">New</button>
                         <button class="sort-option${currentSort === 'updated' ? ' active' : ''}" data-sort="updated">Updated</button>
