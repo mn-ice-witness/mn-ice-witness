@@ -27,13 +27,18 @@
         "src:kstp",
         "src:bmtn"
       ],
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
+      "hasLocalMedia": true,
+      "localMediaType": "image",
+      "localMediaPath": "media/2026-02/13/2026-02-13-minneapolis-203m-economic-impact.jpg",
       "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
+      "localMediaFiles": [
+        {
+          "type": "image",
+          "path": "media/2026-02/13/2026-02-13-minneapolis-203m-economic-impact.jpg"
+        }
+      ],
+      "aspectRatio": 1.3363028953229399,
+      "mediaVersion": 1771132542
     },
     {
       "filePath": "incidents/2026-02/13/2026-02-13-sheriff-witt-denies-ice-deal.md",
