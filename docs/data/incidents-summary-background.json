@@ -792,18 +792,13 @@
         "src:nytimes",
         "src:other-national"
       ],
-      "hasLocalMedia": true,
-      "localMediaType": "image",
-      "localMediaPath": "media/2025-12/17/2025-12-17-tincher-v-noem-aclu-lawsuit.jpg",
+      "hasLocalMedia": false,
+      "localMediaType": null,
+      "localMediaPath": null,
       "localMediaOgPath": null,
-      "localMediaFiles": [
-        {
-          "type": "image",
-          "path": "media/2025-12/17/2025-12-17-tincher-v-noem-aclu-lawsuit.jpg"
-        }
-      ],
-      "aspectRatio": 1.5037593984962405,
-      "mediaVersion": 1771130407
+      "localMediaFiles": [],
+      "aspectRatio": null,
+      "mediaVersion": null
     },
     {
       "filePath": "incidents/2025-12/01/2025-12-01-operation-metro-surge-launched.md",

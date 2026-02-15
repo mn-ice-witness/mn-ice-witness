@@ -20,7 +20,9 @@ Mark Butcher, 55, a carpenter and freelance journalist, was arrested on January 
 
 ## Sources
 1. New York Times (Feb 13, 2026): [ICE Agents Menaced Minnesota Protesters at Their Homes, Filings Say](https://www.nytimes.com/2026/02/13/us/minneapolis-ice-agents-protester-home-visits.html)
-2. PBS NewsHour (Feb 2026): [Arrests of journalists fuel backlash as anti-ICE protests spread from Minneapolis](https://www.pbs.org/newshour/show/arrests-of-journalists-fuel-backlash-as-anti-ice-protests-spread-from-minneapolis)
+2. Spokesman-Review (Feb 14, 2026): [ICE Agents Menaced Minnesota Protesters at Their Homes, Filings Say](https://www.spokesman.com/stories/2026/feb/14/ice-agents-menaced-minnesota-protesters-at-their-h/) *(NYT syndication)*
+3. ACLU-MN (Feb 13, 2026): [New Filings Detail Harrowing Accounts of ICE and Border Patrol Violence](https://www.aclu.org/press-releases/new-filings-detail-harrowing-accounts-of-ice-and-border-patrol-violence-and-intimidation-against-minnesotans)
+4. PBS NewsHour (Feb 2026): [Arrests of journalists fuel backlash as anti-ICE protests spread from Minneapolis](https://www.pbs.org/newshour/show/arrests-of-journalists-fuel-backlash-as-anti-ice-protests-spread-from-minneapolis)
 
 ## Affected Individual(s)
 

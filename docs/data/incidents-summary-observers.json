@@ -794,13 +794,18 @@
         "home-visit",
         "src:nyt"
       ],
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
+      "hasLocalMedia": true,
+      "localMediaType": "image",
+      "localMediaPath": "media/2026-01/21/2026-01-21-katie-henly-home-photographed.jpg",
       "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
+      "localMediaFiles": [
+        {
+          "type": "image",
+          "path": "media/2026-01/21/2026-01-21-katie-henly-home-photographed.jpg"
+        }
+      ],
+      "aspectRatio": 1.5037593984962405,
+      "mediaVersion": 1771130788
     },
     {
       "filePath": "incidents/2026-01/21/2026-01-21-observer-pinned-pepper-sprayed-face.md",
