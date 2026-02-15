@@ -729,11 +729,8 @@
       "searchTags": [
         "us-citizen",
         "citizen-check",
-        "vehicle-collision",
-        "racial-profiling",
-        "obstruction-threat",
-        "fake-plates",
-        "src:status-coup"
+        "vehicle-pursuit",
+        "src:other-national"
       ],
       "hasLocalMedia": true,
       "localMediaType": "video",
@@ -862,7 +859,7 @@
         "src:other-national",
         "src:mn-reformer",
         "src:fox9",
-        "src:cbs-news"
+        "src:cbs"
       ],
       "hasLocalMedia": true,
       "localMediaType": "image",
@@ -1842,7 +1839,6 @@
         "us-citizen",
         "excessive-force",
         "citizen-check",
-        "congressional-testimony",
         "src:mpr",
         "src:fox9",
         "src:sahan-journal",
@@ -1855,7 +1851,6 @@
         "src:cnn",
         "src:nbc",
         "src:npr",
-        "src:common-dreams",
         "src:other-national"
       ],
       "hasLocalMedia": true,

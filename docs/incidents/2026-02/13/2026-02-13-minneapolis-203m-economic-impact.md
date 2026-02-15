@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-14T20:20:45
 last_updated: 2026-02-14T20:20:45
-search_tags: src:star-tribune, src:mpr, src:fox9, src:cbs, src:kare11, src:kstp, src:bmtn
+search_tags: src:star-tribune, src:mpr, src:fox9, src:wcco, src:kare11, src:kstp, src:bring-me-the-news, src:other-national
 ---
 
 # Minneapolis Estimates $203 Million Economic Impact from Operation Metro Surge

@@ -30,6 +30,7 @@
         "src:star-tribune",
         "src:mn-reformer",
         "src:sahan-journal",
+        "src:fox-news",
         "src:other-national"
       ],
       "hasLocalMedia": true,
@@ -70,7 +71,8 @@
       "searchTags": [
         "src:wcco",
         "src:fox9",
-        "src:other-local"
+        "src:other-local",
+        "src:other-national"
       ],
       "hasLocalMedia": false,
       "localMediaType": null,
@@ -291,7 +293,11 @@
       "lastUpdated": "2026-02-12T14:36:06",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "children",
+        "deception",
+        "src:sahan-journal"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -2269,9 +2275,7 @@
       "searchTags": [
         "family-separation",
         "children",
-        "medical-neglect",
-        "ankle-monitor",
-        "src:nytimes",
+        "src:nyt",
         "src:cnn",
         "src:other-national"
       ],

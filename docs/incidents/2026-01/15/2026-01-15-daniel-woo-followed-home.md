@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-14T21:59:38
 last_updated: 2026-02-14T21:59:38
-search_tags: us-citizen, observer-intimidated, home-visit, src:nyt
+search_tags: us-citizen, observer-intimidated, src:nyt
 ---
 
 # ICE SUV Follows Observer 40 Minutes to His Plymouth Home

@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-14T21:59:38
 last_updated: 2026-02-14T21:59:38
-search_tags: us-citizen, observer-intimidated, home-visit, src:nyt, src:other-national
+search_tags: us-citizen, observer-intimidated, src:nyt, src:other-national
 ---
 
 # Agent Yells Observer's Name and Home Address from Unmarked SUV

@@ -424,7 +424,6 @@
       "searchTags": [
         "us-citizen",
         "observer-intimidated",
-        "home-visit",
         "src:nyt",
         "src:other-national"
       ],
@@ -578,7 +577,13 @@
       "lastUpdated": "2026-02-12T14:36:06",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "us-citizen",
+        "observer-detained",
+        "excessive-force",
+        "chemical-agents",
+        "src:mn-reformer"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -791,7 +796,6 @@
       "searchTags": [
         "us-citizen",
         "observer-intimidated",
-        "home-visit",
         "src:nyt"
       ],
       "hasLocalMedia": true,
@@ -866,7 +870,6 @@
       "searchTags": [
         "us-citizen",
         "observer-detained",
-        "journalist",
         "src:nyt",
         "src:pbs"
       ],
@@ -1006,7 +1009,6 @@
       "searchTags": [
         "us-citizen",
         "observer-intimidated",
-        "home-visit",
         "src:nyt"
       ],
       "hasLocalMedia": false,

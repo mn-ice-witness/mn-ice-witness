@@ -261,6 +261,48 @@ VALID_CITIZENSHIP = {
     "various",
 }
 
+VALID_SEARCH_TAGS = {
+    "us-citizen",
+    "legal-resident",
+    "citizen-check",
+    "observer-intimidated",
+    "observer-detained",
+    "children",
+    "chemical-agents",
+    "excessive-force",
+    "family-separation",
+    "workplace-raid",
+    "deception",
+    "native-american",
+    "shooting",
+    "vehicle-pursuit",
+    "warrantless-entry",
+    "src:star-tribune",
+    "src:mpr",
+    "src:fox9",
+    "src:kare11",
+    "src:wcco",
+    "src:kstp",
+    "src:sahan-journal",
+    "src:bring-me-the-news",
+    "src:pioneer-press",
+    "src:mn-reformer",
+    "src:other-local",
+    "src:cnn",
+    "src:nyt",
+    "src:wapo",
+    "src:npr",
+    "src:intercept",
+    "src:mother-jones",
+    "src:ap",
+    "src:nbc",
+    "src:cbs",
+    "src:abc",
+    "src:fox-news",
+    "src:pbs",
+    "src:other-national",
+}
+
 
 def validate_frontmatter(meta, file_path):
     errors = []
@@ -323,6 +365,16 @@ def validate_frontmatter(meta, file_path):
         errors.append(
             f"invalid citizenship '{citizenship}' (must be: {', '.join(sorted(VALID_CITIZENSHIP))})"
         )
+
+    search_tags_raw = meta.get("search_tags", "")
+    if search_tags_raw:
+        tags = [t.strip() for t in search_tags_raw.split(",") if t.strip()]
+        invalid_tags = [t for t in tags if t not in VALID_SEARCH_TAGS]
+        if invalid_tags:
+            errors.append(
+                f"invalid search_tags: {', '.join(invalid_tags)}. "
+                f"See dev-docs/search-filter-tags.md for valid tags"
+            )
 
     if errors:
         raise ValueError(f"{file_path.name}: " + "; ".join(errors))

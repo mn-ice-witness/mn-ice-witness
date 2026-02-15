@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-14T20:20:45
 last_updated: 2026-02-14T20:20:45
-search_tags: src:cspan, src:pbs, src:npr, src:cnn, src:nbc, src:star-tribune, src:fox9, src:kare11, src:kstp, src:mpr
+search_tags: src:other-national, src:pbs, src:npr, src:cnn, src:nbc, src:wapo, src:star-tribune, src:fox9, src:kare11, src:mpr
 ---
 
 # Senate Homeland Security Hearing on Operation Metro Surge

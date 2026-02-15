@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: low
 created: 2026-02-13T09:05:22
 last_updated: 2026-02-13T09:05:22
-search_tags: us-citizen, citizen-check, vehicle-collision, racial-profiling, obstruction-threat, fake-plates, src:status-coup
+search_tags: us-citizen, citizen-check, vehicle-pursuit, src:other-national
 ---
 
 # ICE Rams Into Parked Car, Demands U.S. Citizen Couple Show Citizenship Papers

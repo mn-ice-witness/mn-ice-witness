@@ -107,6 +107,28 @@ All topic tags are **cross-cutting** — they apply across every main category (
 2. Add a `<label class="filter-chip">` checkbox in `docs/index.html` inside the appropriate `.filter-group`
 3. Start tagging incidents with the new value in their `search_tags` frontmatter
 
+## Validation
+
+The pre-commit hook validates all `search_tags` values via `generate_summary.py`. Invalid tags **block the commit** with an error listing the bad tags and pointing to this file. The valid tag set is defined in `VALID_SEARCH_TAGS` in `scripts/generate_summary.py` — keep it in sync with this doc when adding new tags.
+
+## Common Mistakes
+
+| Wrong | Correct | Why |
+|-------|---------|-----|
+| `src:nytimes` | `src:nyt` | Standard abbreviation |
+| `src:bmtn` | `src:bring-me-the-news` | Full slug required |
+| `src:cspan` | `src:other-national` | C-SPAN not in named list |
+| `src:minnpost` | `src:other-local` | MinnPost not in named list |
+| `src:duluth-news-tribune` | `src:other-local` | Use `src:other-local` for all non-named local outlets |
+| `src:status-coup` | `src:other-national` | Not in named list |
+| `src:cbs` for cbsnews.com/minnesota | `src:wcco` | CBS Minnesota = WCCO |
+| `home-visit` | *(remove)* | Not a valid tag |
+| `journalist` | *(remove)* | Not a valid tag; use `observer-detained` or `observer-intimidated` |
+| `racial-profiling` | *(remove)* | Not a valid tag; use `citizen-check` if applicable |
+| `medical-neglect` | *(remove)* | Not a valid tag |
+
+**Key rule:** If a source or topic isn't in the tables above, don't invent a tag. Use `src:other-local`, `src:other-national`, or omit the topic tag.
+
 ## Reindexing
 
 From time to time, the full set of incidents should be re-audited for tags. Reasons to reindex:
@@ -116,4 +138,4 @@ From time to time, the full set of incidents should be re-audited for tags. Reas
 - New topic themes may emerge
 - Existing tags may need adjustment based on new context
 
-To reindex: Read all incident files, compare themes and sources against the current tag set, and update `search_tags` in each file. Then run `python scripts/generate_summary.py` to rebuild the JSON cache.
+To reindex: Read all incident files, compare themes and sources against the current tag set, and update `search_tags` in each file. Then run `python-main scripts/generate_summary.py` to rebuild the JSON cache.

@@ -261,7 +261,8 @@ Read `adding-incidents.md` first. Check `not_use.md` for rejected stories.
 |-------------------|---------------------|
 | **"Do our daily search"** | `daily-search-procedure.md` (has exact steps), `not_use.md` |
 | **User provides a link to add** | `adding-incidents.md` Step 1.5 (always search for more sources first) |
-| **Adding a new incident** | `adding-incidents.md`, `incident-schema.md`, `not_use.md` |
+| **Adding a new incident** | `adding-incidents.md`, `incident-schema.md`, `search-filter-tags.md`, `not_use.md` |
+| **Tagging incidents (search_tags)** | `search-filter-tags.md` (valid tags, common mistakes, source disambiguation) |
 | **Renaming an incident ID** | `id-reassignment.md` |
 | **Hiding/drafting an incident** | `hiding-incidents.md` |
 | **Searching for new incidents** | `daily-search-procedure.md`, `research-sources.md`, `not_use.md` |
@@ -346,6 +347,7 @@ GIT_MN_ICE_FILES/
 | `architecture.md` | System design, JS module reference, CSS structure, Python scripts, media pipeline |
 | `incident-schema.md` | Frontmatter schema, body structure, source formatting |
 | `adding-incidents.md` | Step-by-step guide, duplicate checking, trustworthiness criteria |
+| `search-filter-tags.md` | Valid search_tags values (topic + source), common mistakes, validation, disambiguation |
 | `hiding-incidents.md` | Temporarily hide drafts/unpublished incidents using underscore prefix |
 
 ### URL & Navigation

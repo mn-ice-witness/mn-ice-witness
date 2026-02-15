@@ -10,6 +10,7 @@ injuries: minor
 trustworthiness: medium
 created: 2026-02-12T14:36:06
 last_updated: 2026-02-12T14:36:06
+search_tags: us-citizen, observer-detained, excessive-force, chemical-agents, src:mn-reformer
 ---
 
 # 76-Year-Old Marine Veteran Pepper Sprayed Three Times, Detained 10 Hours at Pretti Scene

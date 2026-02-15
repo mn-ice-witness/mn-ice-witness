@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-14T20:20:45
 last_updated: 2026-02-14T20:20:45
-search_tags: src:star-tribune, src:fox9, src:cbs, src:kstp, src:kare11, src:mpr
+search_tags: src:star-tribune, src:fox9, src:cbs, src:wcco, src:kstp, src:kare11
 ---
 
 # Sheriff Witt Denies ICE Deal, Says She Was "Scapegoated"

@@ -22,10 +22,11 @@
         "src:star-tribune",
         "src:mpr",
         "src:fox9",
-        "src:cbs",
+        "src:wcco",
         "src:kare11",
         "src:kstp",
-        "src:bmtn"
+        "src:bring-me-the-news",
+        "src:other-national"
       ],
       "hasLocalMedia": true,
       "localMediaType": "image",
@@ -62,9 +63,9 @@
         "src:star-tribune",
         "src:fox9",
         "src:cbs",
+        "src:wcco",
         "src:kstp",
-        "src:kare11",
-        "src:mpr"
+        "src:kare11"
       ],
       "hasLocalMedia": true,
       "localMediaType": "video",
@@ -104,7 +105,7 @@
       "searchTags": [
         "src:fox9",
         "src:kstp",
-        "src:cbs",
+        "src:abc",
         "src:wcco",
         "src:nbc",
         "src:pbs",
@@ -147,15 +148,15 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
-        "src:cspan",
+        "src:other-national",
         "src:pbs",
         "src:npr",
         "src:cnn",
         "src:nbc",
+        "src:wapo",
         "src:star-tribune",
         "src:fox9",
         "src:kare11",
-        "src:kstp",
         "src:mpr"
       ],
       "hasLocalMedia": false,
@@ -189,7 +190,7 @@
         "src:fox9",
         "src:star-tribune",
         "src:pioneer-press",
-        "src:minnpost",
+        "src:other-local",
         "src:mpr"
       ],
       "hasLocalMedia": true,
@@ -225,9 +226,7 @@
       "notable": false,
       "searchTags": [
         "src:mpr",
-        "src:duluth-news-tribune",
-        "src:mankato-free-press",
-        "src:republican-eagle"
+        "src:other-local"
       ],
       "hasLocalMedia": true,
       "localMediaType": "image",
@@ -803,7 +802,7 @@
         "src:mpr",
         "src:kare11",
         "src:star-tribune",
-        "src:nytimes",
+        "src:nyt",
         "src:other-national"
       ],
       "hasLocalMedia": true,

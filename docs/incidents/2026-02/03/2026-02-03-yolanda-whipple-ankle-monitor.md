@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: medium
 created: 2026-02-12T14:36:06
 last_updated: 2026-02-12T14:36:06
+search_tags: children, deception, src:sahan-journal
 ---
 
 # Asylum-Seeking Mother Arrested at Routine Check-In with Two Children; Released with Ankle Monitor

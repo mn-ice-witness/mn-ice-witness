@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-14T20:20:45
 last_updated: 2026-02-14T20:20:45
-search_tags: src:mpr, src:duluth-news-tribune, src:mankato-free-press, src:republican-eagle
+search_tags: src:mpr, src:other-local
 ---
 
 # Outstate Minnesota Cities Pass ICE Non-Cooperation Ordinances
