@@ -144,6 +144,11 @@ const ViewState = {
                     opt.classList.toggle('active', opt.dataset.sort === mode);
                 });
             }
+            // Highlight sort button when non-default (oldest is default)
+            const sortBtn = document.getElementById('sort-btn');
+            if (sortBtn) {
+                sortBtn.classList.toggle('active', mode !== 'tl-oldest');
+            }
             return;
         }
 
