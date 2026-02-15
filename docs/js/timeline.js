@@ -467,7 +467,7 @@ const Timeline = {
         'citizens': 'CITIZEN/LEGAL',
         'observers': 'OBSERVER',
         'immigrants': 'IMMIGRANT',
-        'schools-hospitals': 'SCHOOLS',
+        'schools-hospitals': 'SCHOOLS/HOSPITALS',
         'response': 'RESPONSE',
         'background': 'CONTEXT'
     },

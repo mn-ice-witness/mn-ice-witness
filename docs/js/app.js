@@ -20,7 +20,7 @@ const App = {
         'citizens': 'CITIZEN/LEGAL',
         'observers': 'OBSERVERS',
         'immigrants': 'IMMIGRANTS',
-        'schools-hospitals': 'SCHOOLS',
+        'schools-hospitals': 'SCHOOLS/HOSPITALS',
         'response': 'RESPONSE',
         'background': 'CONTEXT',
         'fatal': 'FATAL'
