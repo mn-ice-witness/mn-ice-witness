@@ -43,15 +43,13 @@ Incidents are organized into five categories:
 - **Schools/Hospitals** — Actions at or near schools, hospitals, and healthcare institutions
 - **Response** — Official DHS/ICE statements about specific incidents
 
-*Note: "Citizens / Legal Residents" and "Observers" may both involve U.S. citizens / legal residents. The distinction is whether they were targeted in racially-profiled enforcement operations (Citizens) or detained while filming or protesting (Observers).*
-
 ### Dataset Views
 
 Three views provide different ways to explore the incidents in this dataset:
 
+- **Timeline** — A chronological view with running totals by category that update as you scroll and contextual moments interspersed with daily incident counts.
 - **List** — By default, incidents are grouped by category and sorted by the date they occurred, with multiple sort options available (by date occurred, newly added, or recently updated). A  <svg viewBox="0 0 24 24" width="16" height="16" class="media-icon"><use href="#icon-camera"/></svg>  camera icon indicates the incident has video or photo evidence. Incidents you've already viewed appear greyed out to help track what you've read (<a href="#clear-viewed">clear history</a>).
 - **Media** — A gallery of all incidents that have video or photo evidence, with sortable ordering.
-- **Timeline** — A chronological view with running totals by category that update as you scroll and contextual moments interspersed with daily incident counts.
 
 <h2 id="the-focus-on-criminals">Federal Position: Targeting Criminals and the "Worst of the Worst" <a href="#the-focus-on-criminals" class="header-link" title="Copy link"><svg width="16" height="16"><use href="#icon-link"/></svg></a></h2>
 
@@ -81,36 +79,4 @@ The core dispute is where observation ends and obstruction begins. DHS argues th
 
 **What the law says:** [Federal courts across at least ten circuits](https://www.eff.org/deeplinks/2025/02/yes-you-have-right-film-ice) have ruled that recording law enforcement in public is a First Amendment right. Verbal criticism — including profanity — is protected under [*City of Houston v. Hill* (1987)](https://en.wikipedia.org/wiki/Contempt_of_cop). Whistles, chanting, and singing are [protected activities](https://www.aclu.org/know-your-rights/protesters-rights). On following, U.S. District Judge Katherine Menendez [ruled](https://www.aclu-mn.org/press-releases/1a/) that "safely following Covered Federal Agents at an appropriate distance does not, by itself, create reasonable suspicion to justify a vehicle stop" — though the 8th Circuit issued an administrative stay while appeals proceed. Physical obstruction — blocking officers, surrounding vehicles, or stepping between an agent and a detainee — is not protected and can result in federal charges.
 
-<h2 id="investigations">Large-Scale Investigations & Analysis <a href="#investigations" class="header-link" title="Copy link"><svg width="16" height="16"><use href="#icon-link"/></svg></a></h2>
-
-This site focuses on documenting individual incidents. For in-depth reporting and analysis of broader ICE enforcement patterns and civil rights concerns, see these investigations:
-
-**National Investigations:**
-- [Immigration Agents Have Often Grabbed and Mistreated Citizens, Congressional Investigators Find](https://www.propublica.org/article/immigration-agents-detained-mistreated-citizens-congressional-investigation) - ProPublica
-- [More Than 170 U.S. Citizens Detained by ICE Agents](https://www.propublica.org/article/immigration-dhs-american-citizens-arrested-detained-against-will) - ProPublica
-- [Immigration Agents Using Banned Chokeholds on U.S. Citizens](https://www.propublica.org/article/videos-ice-dhs-immigration-agents-using-chokeholds-citizens) - ProPublica
-
-**Minnesota Coverage:**
-- [Combatting DHS Misinformation](https://mn.gov/doc/about/news/combatting-dhs-misinformation/) - Minnesota Department of Corrections
-- [Allegations of racial profiling of U.S. citizens on the rise as ICE surge expands in Minnesota](https://www.startribune.com/allegations-of-racial-profiling-of-us-citizens-on-the-rise-as-ice-surge-expands-in-minnesota/601564653) - Star Tribune
-- [These are the arrests you're not seeing](https://minnesotareformer.com/2026/01/16/these-are-the-arrests-youre-not-seeing/) - Minnesota Reformer
-- [Federal agents target observers in the aftermath of Good shooting](https://www.startribune.com/have-yall-not-learned-federal-agents-target-legal-observers-in-the-aftermath-of-good-shooting/601562804) - Star Tribune
-- [ICE agent who shot Renee Nicole Good identified](https://theintercept.com/2026/01/08/ice-agent-identified-shooting-minneapolis-jonathan-ross/) - The Intercept
-- [What ICE agents can and can't do — and what legal rights the public has](https://www.startribune.com/what-ice-agents-can-and-cant-do-and-what-legal-rights-the-public-has-during-encounters/601560316) - Star Tribune
-- [DHS Immigration Crackdown: ICE Arrests and Protests](https://www.cnn.com/interactive/2026/01/09/us/dhs-immigration-crackdown-ice-arrests-protests-vis/index.html) - CNN Interactive
-- [2,000 federal agents sent to Minneapolis area to carry out 'largest immigration operation ever'](https://www.pbs.org/newshour/politics/2000-federal-agents-sent-to-minneapolis-area-to-carry-out-largest-immigration-operation-ever-ice-says) - PBS NewsHour
-- [ICE Videos Minnesota: What the footage shows](https://www.nytimes.com/2026/01/13/us/ice-videos-minnesota-trump-immigration.html) - New York Times
-
-<h2 id="trustworthiness">Trustworthiness Ratings <a href="#trustworthiness" class="header-link" title="Copy link"><svg width="16" height="16"><use href="#icon-link"/></svg></a></h2>
-
-Each incident is rated for trustworthiness based on source quality and corroboration:
-
-- <span class="about-badge about-badge-high">HIGH</span> — 3+ sources, video/photo evidence, or detailed investigative reporting with named sources
-- <span class="about-badge about-badge-medium">MEDIUM</span> — 2 sources, official statements, or single established source
-- <span class="about-badge about-badge-low">LOW</span> — Single smaller source, needs corroboration
-- <a href="/no-news-media">No news media coverage</a> — documented by social media only
-- <span class="about-badge about-badge-corrected">CORRECTED</span> — Published with significant factual errors that have since been corrected
-- <span class="about-badge about-badge-removed">REMOVED</span> — Previously listed but removed after new information contradicted original reporting
-
-The trustworthiness rating appears at the bottom of each incident page.
 

@@ -25,6 +25,7 @@ DHS Secretary Kristi Noem stated at a press conference that "no American citizen
 4. Poynter (Nov 1, 2025): [Has ICE Arrested American Citizens?](https://www.poynter.org/fact-checking/2025/has-ice-arrested-american-citizens/)
 5. NPR (Nov 5, 2025): [NPR Fact-Check: Noem on ICE Detaining US Citizens](https://www.npr.org/2025/11/05/nx-s1-5598373/npr-fact-checks-kristi-noem-on-ice-detaining-us-citizens)
 6. House Oversight Committee (Oct 20, 2025): [Congressional Letter to Secretary Noem](https://oversightdemocrats.house.gov/sites/evo-subsites/democrats-oversight.house.gov/files/evo-media-document/2025-10-20-letter-from-blumenthal-and-garcia-to-noem.pdf)
+7. ProPublica (2025): [More Than 170 U.S. Citizens Detained by ICE Agents](https://www.propublica.org/article/immigration-dhs-american-citizens-arrested-detained-against-will)
 
 ## Noem's Statement
 
