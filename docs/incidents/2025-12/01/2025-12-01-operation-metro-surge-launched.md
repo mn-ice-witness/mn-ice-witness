@@ -29,6 +29,7 @@ The Department of Homeland Security announced "Operation Metro Surge," deploying
 8. Minnesota Reformer (Dec 2, 2025): [Report: ICE headed to Twin Cities targeting Somali immigrants](https://minnesotareformer.com/2025/12/02/report-ice-headed-to-twin-cities-targeting-somali-immigrants/)
 9. KSTP (Dec 2025): [Who is ICE arresting during 'Operation Metro Surge'? Top ICE officials say not only people with criminal convictions](https://kstp.com/kstp-news/top-news/who-is-ice-arresting-during-operation-metro-surge-top-ice-officials-say-not-only-people-with-criminal-convictions/)
 10. KARE 11 (Dec 2025): [ICE operation now underway in Minneapolis](https://www.kare11.com/article/news/local/ice-operation-in-minneapolis-now-underway/89-f27d9e5d-5f13-4d2c-8c9b-c83b1614dd6f)
+11. DHS (Dec 19, 2025): [Under President Trump and Secretary Noem, DHS Has Historic First Year](https://www.dhs.gov/news/2025/12/19/under-president-trump-and-secretary-noem-department-homeland-security-has-historic)
 
 ## Key Details
 - **Initial scale:** Approximately 100 federal agents deployed

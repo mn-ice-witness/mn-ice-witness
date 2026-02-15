@@ -31,6 +31,8 @@ An internal Department of Homeland Security document obtained by CBS News reveal
 8. Bring Me The News (Feb 2026): [Judge: 'Overwhelming majority' of cases brought to him by ICE were for people lawfully in Minnesota](https://bringmethenews.com/minnesota-news/judge-says-most-cases-brought-to-him-by-ice-were-for-people-lawfully-in-minnesota)
 9. DHS.gov (Feb 9, 2026): [ICE Arrests Criminal Illegal Alien Murderers, Pedophiles, Rapists, and More Over the Weekend](https://www.dhs.gov/news/2026/02/09/wowdhsgov-ice-arrests-criminal-illegal-alien-murderers-pedophiles-rapists-and-more)
 10. Brennan Center for Justice (2026): [The Deportation Industrial Complex: Arrests and Detentions by the Numbers](https://www.brennancenter.org/our-work/analysis-opinion/deportation-industrial-complex-arrests-and-detentions-numbers)
+11. Fortune (Jul 12, 2025): [72% of ICE detainees have no criminal convictions](https://fortune.com/2025/07/12/ice-raids-trump-immigration-crackdown-deportation-no-criminal-convictions/)
+12. Common Dreams (2026): ["Worst of the Worst" database contains 9,738 of 220,000+ arrests](https://www.commondreams.org/news/dhs-worst-of-worst-database)
 
 ## The Data
 

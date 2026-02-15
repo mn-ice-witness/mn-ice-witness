@@ -41,6 +41,9 @@ On December 17, 2025, the ACLU of Minnesota filed Tincher v. Noem on behalf of s
 17. New York Times (Feb 13, 2026): [ICE agents menaced Minnesota protesters at their homes, filings say](https://www.nytimes.com/2026/02/13/us/minneapolis-ice-agents-protester-home-visits.html)
 18. Spokesman-Review (Feb 14, 2026): [ICE agents menaced Minnesota protesters at their homes, filings say](https://www.spokesman.com/stories/2026/feb/14/ice-agents-menaced-minnesota-protesters-at-their-h/) *(NYT syndication)*
 19. The Marshall Project (Feb 4, 2026): ['We Know Where You Live.' Protesters say ICE agents retaliate with threats, investigations](https://www.themarshallproject.org/2026/02/04/ice-immigration-intimidation-tactics-protesters)
+20. EFF (Feb 2025): [Yes, You Have the Right to Film ICE](https://www.eff.org/deeplinks/2025/02/yes-you-have-right-film-ice)
+21. Reason (Jan 8, 2026): [You Have the Right to Record ICE](https://reason.com/2026/01/08/you-have-the-right-to-record-ice/)
+22. Cato Institute (2026): [DHS Says Videotaping ICE Agents Is Illegal. Federal Courts Disagree.](https://www.cato.org/commentary/dhs-says-videotaping-ice-agents-illegal-federal-courts-disagree)
 
 ## Case Information
 - **Case:** Tincher v. Noem, Case No. 0:25-cv-04669-KMM-DTS
