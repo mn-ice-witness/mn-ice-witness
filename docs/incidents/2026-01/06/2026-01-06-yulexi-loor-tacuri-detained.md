@@ -6,7 +6,7 @@ city: Minneapolis
 type: immigrants
 status: ongoing
 affected_individual_citizenship: asylum-seeker
-injuries: medical-complications
+injuries: serious
 trustworthiness: high
 created: 2026-02-14T21:59:38
 last_updated: 2026-02-14T21:59:38
