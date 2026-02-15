@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-14T08:19:50
 last_updated: 2026-01-20T22:24:33
-search_tags: legal-resident, children, chemical-agents, src:other-local
+search_tags: legal-resident, children, chemical-agents, excessive-force, src:other-local
 ---
 
 # High School Student with Legal Status Arrested in Downtown Willmar

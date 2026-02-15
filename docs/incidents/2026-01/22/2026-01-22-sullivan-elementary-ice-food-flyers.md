@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: no-news-media
 created: 2026-01-22T13:38:10
 last_updated: 2026-01-23T23:22:42
-search_tags: children, deception, src:other-national, src:mpr
+search_tags: children, src:other-national, src:mpr
 ---
 
 # School Warns ICE Distributing Food Support Flyers (NO NEWS MEDIA)

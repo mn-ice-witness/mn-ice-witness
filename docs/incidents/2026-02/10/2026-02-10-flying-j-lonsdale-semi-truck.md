@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-12T09:46:25
 last_updated: 2026-02-12T09:46:25
+search_tags: excessive-force, warrantless-entry, src:other-local
 ---
 
 # Dozen Agents Shatter Semi Truck Window at Flying J Travel Center; At Least Two Arrested

@@ -10,7 +10,7 @@ injuries: serious
 trustworthiness: high
 created: 2026-02-07T14:12:42
 last_updated: 2026-02-14T21:05:51
-search_tags: legal-resident, children, shooting, excessive-force, chemical-agents, family-separation, warrantless-entry, src:mpr, src:star-tribune, src:sahan-journal, src:wcco, src:kstp, src:kare11, src:other-national, src:mn-reformer, src:fox9, src:cbs
+search_tags: legal-resident, children, shooting, excessive-force, chemical-agents, family-separation, warrantless-entry, vehicle-pursuit, src:mpr, src:star-tribune, src:sahan-journal, src:wcco, src:kstp, src:kare11, src:other-national, src:mn-reformer, src:fox9, src:cbs, src:npr, src:wapo, src:pbs
 ---
 
 # ICE Agent Shoots Man Through Closed Door in North Minneapolis; Bullet Enters Apartment with Four Children

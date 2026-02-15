@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-12T09:55:45
 last_updated: 2026-02-12T09:55:45
+search_tags: src:cbs, src:nbc, src:fox-news, src:bring-me-the-news, src:other-national
 ---
 
 # Internal DHS Data: Less Than 14% of ICE Arrests Had Violent Criminal Records

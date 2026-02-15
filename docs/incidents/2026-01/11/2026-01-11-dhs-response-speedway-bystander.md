@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-14T12:35:56
 last_updated: 2026-01-14T12:35:56
-search_tags: us-citizen
+search_tags: us-citizen, observer-intimidated, observer-detained, excessive-force
 ---
 
 # DHS Response: Speedway Bystander "Hit an Officer"

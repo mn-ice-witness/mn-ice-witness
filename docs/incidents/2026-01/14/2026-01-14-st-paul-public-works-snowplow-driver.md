@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-18T22:24:48
 last_updated: 2026-01-18T22:24:48
-search_tags: legal-resident, src:fox9, src:pioneer-press, src:kare11
+search_tags: legal-resident, workplace-raid, family-separation, src:fox9, src:pioneer-press, src:kare11
 ---
 
 # St. Paul Snowplow Driver with Legal Work Status Detained by ICE

@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: medium
 created: 2026-01-17T11:14:22
 last_updated: 2026-01-17T11:14:22
-search_tags: children, chemical-agents, observer-intimidated, src:bring-me-the-news, src:other-national
+search_tags: children, observer-intimidated, src:bring-me-the-news, src:other-national
 ---
 
 # ICE Agents Near St. Louis Park Daycare Threaten Parent with Pepper Spray

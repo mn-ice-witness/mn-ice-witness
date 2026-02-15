@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: medium
 created: 2026-02-12T14:36:06
 last_updated: 2026-02-12T14:36:06
+search_tags: children, family-separation, vehicle-pursuit, excessive-force, src:other-local
 ---
 
 # ICE Agents Cut Seatbelt to Extract Woman From Car; Baby in Backseat

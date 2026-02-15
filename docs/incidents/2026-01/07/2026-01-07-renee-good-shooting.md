@@ -10,7 +10,7 @@ injuries: fatal
 trustworthiness: high
 created: 2026-01-14T08:01:12
 last_updated: 2026-02-04T16:19:46
-search_tags: us-citizen, shooting, src:star-tribune, src:fox9, src:nyt, src:wcco, src:wapo, src:cnn, src:npr, src:abc, src:intercept, src:pbs, src:nbc, src:mpr, src:kstp, src:kare11, src:other-national, src:mother-jones, src:mn-reformer, src:sahan-journal
+search_tags: us-citizen, shooting, src:star-tribune, src:fox9, src:nyt, src:wcco, src:wapo, src:cnn, src:npr, src:abc, src:intercept, src:pbs, src:nbc, src:mpr, src:kstp, src:kare11, src:other-national, src:mn-reformer, src:sahan-journal
 ---
 
 # Renee Nicole Good Shot and Killed by ICE Agent

@@ -259,7 +259,13 @@
       "lastUpdated": "2026-02-12T09:55:45",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "src:cbs",
+        "src:nbc",
+        "src:fox-news",
+        "src:bring-me-the-news",
+        "src:other-national"
+      ],
       "hasLocalMedia": true,
       "localMediaType": "image",
       "localMediaPath": "media/2026-02/09/2026-02-09-dhs-data-14-percent-violent-criminal-records.jpg",
@@ -300,7 +306,8 @@
         "src:star-tribune",
         "src:mpr",
         "src:intercept",
-        "src:other-national"
+        "src:other-national",
+        "src:other-local"
       ],
       "hasLocalMedia": true,
       "localMediaType": "video",
@@ -383,7 +390,8 @@
         "src:sahan-journal",
         "src:other-national",
         "src:other-local",
-        "src:mpr"
+        "src:mpr",
+        "src:cbs"
       ],
       "hasLocalMedia": false,
       "localMediaType": null,
@@ -414,6 +422,8 @@
       "searchTags": [
         "observer-intimidated",
         "us-citizen",
+        "citizen-check",
+        "excessive-force",
         "src:nbc",
         "src:kstp",
         "src:cnn",
@@ -530,7 +540,7 @@
         "src:kstp",
         "src:sahan-journal",
         "src:fox9",
-        "src:mother-jones",
+        "src:other-national",
         "src:mn-reformer"
       ],
       "hasLocalMedia": true,

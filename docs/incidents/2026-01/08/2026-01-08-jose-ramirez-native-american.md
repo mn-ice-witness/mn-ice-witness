@@ -10,7 +10,7 @@ injuries: minor
 trustworthiness: high
 created: 2026-01-14T08:01:12
 last_updated: 2026-01-28T21:35:17
-search_tags: us-citizen, native-american, excessive-force, citizen-check, src:star-tribune, src:fox9, src:wapo, src:sahan-journal, src:mpr, src:other-local, src:other-national
+search_tags: us-citizen, native-american, excessive-force, citizen-check, vehicle-pursuit, src:star-tribune, src:fox9, src:wapo, src:sahan-journal, src:mpr, src:other-local, src:other-national
 ---
 
 # Native American U.S. Citizen Punched and Detained by ICE

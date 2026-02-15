@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-20T10:25:58
 last_updated: 2026-01-20T10:25:58
-search_tags: us-citizen, observer-intimidated, src:abc, src:pioneer-press
+search_tags: observer-intimidated, src:abc, src:pioneer-press, src:other-national
 ---
 
 # Toy Store Receives ICE Inspection Notice Hours After ABC News Interview

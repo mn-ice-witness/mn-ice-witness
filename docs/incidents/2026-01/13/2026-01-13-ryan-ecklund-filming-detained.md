@@ -10,7 +10,7 @@ injuries: minor
 trustworthiness: high
 created: 2026-01-14T14:50:07
 last_updated: 2026-01-14T14:50:07
-search_tags: observer-detained, us-citizen, excessive-force, src:fox9, src:bring-me-the-news, src:wcco, src:pioneer-press, src:other-national
+search_tags: observer-detained, us-citizen, excessive-force, vehicle-pursuit, src:fox9, src:bring-me-the-news, src:wcco, src:pioneer-press, src:other-national
 ---
 
 # U.S. Citizen Detained 9 Hours for Filming ICE Agents

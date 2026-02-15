@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: medium
 created: 2026-01-25T21:18:19
 last_updated: 2026-01-25T21:18:19
-search_tags: legal-resident, deception, children, src:star-tribune
+search_tags: legal-resident, deception, children, workplace-raid, src:star-tribune
 ---
 
 # Daycare Teacher Tricked with Fake Car Accident Claim, Detained for 10 Minutes

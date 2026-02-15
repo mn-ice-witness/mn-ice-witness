@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-16T16:02:47
 last_updated: 2026-01-16T16:02:47
-search_tags: us-citizen, excessive-force, src:wcco, src:other-national
+search_tags: us-citizen, excessive-force, warrantless-entry, src:wcco, src:other-national
 ---
 
 # Federal Agents Execute Search Warrant at Wrong Address; U.S. Citizen Mistakenly Arrested

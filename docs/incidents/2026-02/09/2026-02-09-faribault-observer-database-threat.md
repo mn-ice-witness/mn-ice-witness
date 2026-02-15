@@ -10,6 +10,7 @@ injuries: none
 trustworthiness: medium
 created: 2026-02-12T09:55:45
 last_updated: 2026-02-12T09:55:45
+search_tags: observer-intimidated, us-citizen, src:other-local
 ---
 
 # ICE Agents Tell Observer They Are Building "Database" of Those Documenting Operations

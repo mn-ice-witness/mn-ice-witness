@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-29T21:03:57
 last_updated: 2026-02-06T10:35:41
-search_tags: children, family-separation, deception, src:mpr, src:npr, src:cbs, src:fox9, src:kstp, src:sahan-journal, src:star-tribune, src:bring-me-the-news
+search_tags: children, family-separation, legal-resident, src:mpr, src:npr, src:cbs, src:fox9, src:kstp, src:sahan-journal, src:star-tribune, src:bring-me-the-news
 ---
 
 # Asylum-Seeking Mother Detained at Check-In; Principal Brings Her Children to Whipple

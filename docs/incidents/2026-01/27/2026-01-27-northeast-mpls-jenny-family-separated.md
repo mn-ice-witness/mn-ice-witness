@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-28T21:12:14
 last_updated: 2026-01-28T21:12:14
-search_tags: family-separation, src:wcco
+search_tags: family-separation, children, src:wcco
 ---
 
 # "I Was Yelling at Them to Take Me With Him": Mother Holds Daughter as Husband Detained in Northeast Minneapolis

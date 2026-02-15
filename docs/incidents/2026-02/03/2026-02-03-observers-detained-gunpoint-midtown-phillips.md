@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-03T14:29:30
 last_updated: 2026-02-10T20:32:02
-search_tags: observer-detained, observer-intimidated, excessive-force, src:bring-me-the-news, src:other-national, src:star-tribune, src:fox9
+search_tags: observer-detained, observer-intimidated, excessive-force, shooting, src:bring-me-the-news, src:other-national, src:star-tribune, src:fox9
 ---
 
 # Observers Detained at Gunpoint, Bystanders Tackled in Midtown Phillips

@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: no-news-media
 created: 2026-02-03T21:25:21
 last_updated: 2026-02-03T21:25:21
-search_tags: children, workplace-raid
+search_tags: workplace-raid
 ---
 
 # Contract Cleaner Detained by Armed Agents in Fraser School Parking Lot (NO NEWS MEDIA)

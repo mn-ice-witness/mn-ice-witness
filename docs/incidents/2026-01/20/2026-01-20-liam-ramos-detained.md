@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-22T12:00:00
 last_updated: 2026-02-09T12:00:00
-search_tags: children, family-separation, deception, src:wcco, src:sahan-journal, src:star-tribune, src:mpr, src:bring-me-the-news, src:nbc, src:wapo, src:nyt, src:cbs, src:other-national, src:abc, src:other-local, src:pbs, src:fox9, src:cnn, src:kstp, src:kare11, src:ap, src:mn-reformer
+search_tags: children, family-separation, deception, src:wcco, src:sahan-journal, src:star-tribune, src:mpr, src:bring-me-the-news, src:nbc, src:wapo, src:nyt, src:cbs, src:other-national, src:abc, src:pbs, src:fox9, src:cnn, src:kstp, src:kare11, src:ap, src:mn-reformer
 ---
 
 # Five-Year-Old Liam Ramos Detained in Driveway, Allegedly Used as "Bait"

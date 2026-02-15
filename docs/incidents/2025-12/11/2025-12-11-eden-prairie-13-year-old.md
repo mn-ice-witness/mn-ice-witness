@@ -10,7 +10,7 @@ injuries: serious
 trustworthiness: high
 created: 2026-01-14T08:54:15
 last_updated: 2026-01-14T08:54:15
-search_tags: children, excessive-force, family-separation, src:wcco, src:other-local, src:other-national
+search_tags: children, excessive-force, family-separation, legal-resident, src:wcco, src:other-local, src:other-national
 ---
 
 # 13-Year-Old Boy Handcuffed, Thrown to Ground by ICE Agents

@@ -93,7 +93,6 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
-        "children",
         "workplace-raid"
       ],
       "hasLocalMedia": false,
@@ -255,9 +254,7 @@
       "lastUpdated": "2026-02-08T14:30:13",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [
-        "citizen-check"
-      ],
+      "searchTags": [],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -286,7 +283,6 @@
       "notable": false,
       "searchTags": [
         "children",
-        "deception",
         "src:other-national",
         "src:mpr"
       ],
@@ -324,6 +320,7 @@
       "searchTags": [
         "children",
         "chemical-agents",
+        "observer-intimidated",
         "src:star-tribune",
         "src:other-local",
         "src:other-national"
@@ -377,7 +374,6 @@
         "src:cbs",
         "src:other-national",
         "src:abc",
-        "src:other-local",
         "src:pbs",
         "src:fox9",
         "src:cnn",
@@ -452,7 +448,6 @@
       "notable": false,
       "searchTags": [
         "children",
-        "chemical-agents",
         "observer-intimidated",
         "src:bring-me-the-news",
         "src:other-national"
@@ -488,6 +483,7 @@
       "notable": false,
       "searchTags": [
         "family-separation",
+        "vehicle-pursuit",
         "src:sahan-journal"
       ],
       "hasLocalMedia": false,
@@ -619,7 +615,6 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
-        "children",
         "excessive-force",
         "src:other-local"
       ],
@@ -694,6 +689,7 @@
         "legal-resident",
         "children",
         "chemical-agents",
+        "excessive-force",
         "src:other-local"
       ],
       "hasLocalMedia": false,
@@ -1019,6 +1015,7 @@
         "legal-resident",
         "deception",
         "children",
+        "workplace-raid",
         "src:star-tribune"
       ],
       "hasLocalMedia": false,
@@ -1098,6 +1095,7 @@
       "notable": false,
       "searchTags": [
         "warrantless-entry",
+        "excessive-force",
         "src:wcco",
         "src:fox9",
         "src:sahan-journal",
@@ -1144,6 +1142,7 @@
         "excessive-force",
         "shooting",
         "warrantless-entry",
+        "observer-intimidated",
         "src:mpr",
         "src:star-tribune",
         "src:kstp",

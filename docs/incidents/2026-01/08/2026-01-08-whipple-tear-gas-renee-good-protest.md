@@ -10,7 +10,7 @@ injuries: minor
 trustworthiness: high
 created: 2026-02-08T14:16:20
 last_updated: 2026-02-08T14:16:20
-search_tags: observer-intimidated, chemical-agents, excessive-force, src:bring-me-the-news, src:other-national
+search_tags: observer-intimidated, observer-detained, chemical-agents, excessive-force, src:bring-me-the-news, src:other-national
 ---
 
 # Border Patrol Chief Bovino and Agents Tear Gas Peaceful Protesters at Whipple Building Morning After Renee Good's Killing

@@ -10,7 +10,7 @@ injuries: minor
 trustworthiness: high
 created: 2026-01-14T08:01:12
 last_updated: 2026-02-09T21:12:05
-search_tags: observer-intimidated, chemical-agents, excessive-force, src:star-tribune, src:bring-me-the-news
+search_tags: us-citizen, observer-intimidated, chemical-agents, excessive-force, src:star-tribune, src:bring-me-the-news
 ---
 
 # Musicians and Fans Pepper Sprayed Outside NE Minneapolis Venue

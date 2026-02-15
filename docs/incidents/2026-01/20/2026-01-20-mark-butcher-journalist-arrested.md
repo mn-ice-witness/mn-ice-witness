@@ -10,7 +10,7 @@ injuries: serious
 trustworthiness: high
 created: 2026-02-14T21:59:38
 last_updated: 2026-02-14T21:59:38
-search_tags: us-citizen, observer-detained, src:nyt, src:pbs
+search_tags: us-citizen, observer-detained, src:nyt, src:pbs, src:other-national
 ---
 
 # Freelance Journalist Arrested While Recording ICE; Reports Cardiac Damage During Detention

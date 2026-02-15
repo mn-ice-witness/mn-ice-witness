@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-19T15:00:40
 last_updated: 2026-01-19T17:54:25
-search_tags: us-citizen
+search_tags: us-citizen, warrantless-entry
 ---
 
 # DHS Response: Defends Detention of Hmong Citizen, Claims Sex Offender Targets at Large — Family Disputes Claims

@@ -153,7 +153,6 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
-        "shooting",
         "src:abc",
         "src:nbc",
         "src:other-national"
@@ -255,7 +254,6 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
-        "shooting",
         "src:cnn",
         "src:fox-news",
         "src:other-national"
@@ -643,7 +641,8 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
-        "us-citizen"
+        "us-citizen",
+        "warrantless-entry"
       ],
       "hasLocalMedia": true,
       "localMediaType": "image",
@@ -850,7 +849,6 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
-        "shooting",
         "src:wcco",
         "src:other-national",
         "src:abc",
@@ -949,11 +947,10 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
-        "shooting",
         "src:cbs",
         "src:nbc",
         "src:fox-news",
-        "src:mother-jones"
+        "src:other-national"
       ],
       "hasLocalMedia": false,
       "localMediaType": null,
@@ -982,7 +979,10 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
-        "us-citizen"
+        "us-citizen",
+        "observer-intimidated",
+        "observer-detained",
+        "excessive-force"
       ],
       "hasLocalMedia": false,
       "localMediaType": null,
@@ -1069,6 +1069,7 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "us-citizen",
         "shooting",
         "src:nbc",
         "src:cnn",

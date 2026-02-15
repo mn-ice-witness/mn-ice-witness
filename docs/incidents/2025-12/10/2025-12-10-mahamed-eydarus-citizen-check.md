@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-15T20:00:44
 last_updated: 2026-02-08T15:36:25
-search_tags: us-citizen, citizen-check, src:nbc, src:sahan-journal, src:star-tribune, src:other-local
+search_tags: us-citizen, citizen-check, family-separation, src:nbc, src:sahan-journal, src:star-tribune, src:other-local
 ---
 
 # U.S. Citizen Questioned for Speaking Somali While Shoveling Snow with Mother

@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-06T10:31:55
 last_updated: 2026-02-06T10:31:55
-search_tags: src:star-tribune, src:kstp, src:kare11, src:sahan-journal, src:wcco
+search_tags: excessive-force, src:star-tribune, src:kstp, src:kare11, src:sahan-journal, src:wcco
 ---
 
 # Two Detained by ICE Inside Hennepin County Courthouse After Hearing

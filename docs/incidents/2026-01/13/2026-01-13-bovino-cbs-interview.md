@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-15T23:23:27
 last_updated: 2026-01-15T23:23:27
-search_tags: shooting, src:wcco, src:other-national, src:abc, src:mpr
+search_tags: src:wcco, src:other-national, src:abc, src:mpr
 ---
 
 # Border Patrol Commander Bovino CBS Interview

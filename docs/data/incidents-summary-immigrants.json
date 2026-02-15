@@ -69,6 +69,7 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "workplace-raid",
         "src:wcco",
         "src:fox9",
         "src:other-local",
@@ -100,7 +101,11 @@
       "lastUpdated": "2026-02-12T09:46:25",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "excessive-force",
+        "warrantless-entry",
+        "src:other-local"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -164,6 +169,7 @@
       "notable": false,
       "searchTags": [
         "legal-resident",
+        "family-separation",
         "src:wcco"
       ],
       "hasLocalMedia": false,
@@ -233,7 +239,13 @@
       "lastUpdated": "2026-02-12T14:36:06",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "children",
+        "family-separation",
+        "vehicle-pursuit",
+        "excessive-force",
+        "src:other-local"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -261,6 +273,7 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "excessive-force",
         "src:star-tribune",
         "src:kstp",
         "src:kare11",
@@ -296,6 +309,7 @@
       "searchTags": [
         "children",
         "deception",
+        "legal-resident",
         "src:sahan-journal"
       ],
       "hasLocalMedia": false,
@@ -367,7 +381,7 @@
       "searchTags": [
         "children",
         "family-separation",
-        "deception",
+        "legal-resident",
         "src:mpr",
         "src:npr",
         "src:cbs",
@@ -476,6 +490,7 @@
       "notable": false,
       "searchTags": [
         "family-separation",
+        "children",
         "src:wcco"
       ],
       "hasLocalMedia": true,
@@ -519,8 +534,7 @@
         "src:other-national",
         "src:kare11",
         "src:mn-reformer",
-        "src:sahan-journal",
-        "src:mpr"
+        "src:sahan-journal"
       ],
       "hasLocalMedia": false,
       "localMediaType": null,
@@ -618,7 +632,6 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
-        "warrantless-entry",
         "src:star-tribune",
         "src:other-national"
       ],
@@ -719,6 +732,7 @@
         "children",
         "family-separation",
         "chemical-agents",
+        "warrantless-entry",
         "src:nbc",
         "src:kare11",
         "src:bring-me-the-news",
@@ -852,7 +866,6 @@
         "src:cbs",
         "src:other-national",
         "src:abc",
-        "src:other-local",
         "src:pbs",
         "src:fox9",
         "src:cnn",
@@ -897,8 +910,7 @@
         "children",
         "family-separation",
         "src:fox9",
-        "src:pioneer-press",
-        "src:wcco"
+        "src:pioneer-press"
       ],
       "hasLocalMedia": true,
       "localMediaType": "image",
@@ -936,6 +948,7 @@
       "notable": false,
       "searchTags": [
         "family-separation",
+        "vehicle-pursuit",
         "src:sahan-journal"
       ],
       "hasLocalMedia": false,
@@ -969,6 +982,7 @@
         "family-separation",
         "legal-resident",
         "warrantless-entry",
+        "deception",
         "src:fox9",
         "src:bring-me-the-news"
       ],
@@ -1230,7 +1244,7 @@
       "searchTags": [
         "legal-resident",
         "workplace-raid",
-        "deception",
+        "family-separation",
         "src:bring-me-the-news",
         "src:wcco",
         "src:other-national"
@@ -1268,6 +1282,8 @@
       "notable": false,
       "searchTags": [
         "legal-resident",
+        "workplace-raid",
+        "family-separation",
         "src:fox9",
         "src:pioneer-press",
         "src:kare11"
@@ -1309,7 +1325,6 @@
         "src:kstp",
         "src:other-national",
         "src:abc",
-        "src:other-local",
         "src:mpr",
         "src:kare11",
         "src:star-tribune"
@@ -1413,6 +1428,7 @@
         "legal-resident",
         "children",
         "chemical-agents",
+        "excessive-force",
         "src:other-local"
       ],
       "hasLocalMedia": false,
@@ -1584,6 +1600,8 @@
         "observer-detained",
         "chemical-agents",
         "excessive-force",
+        "us-citizen",
+        "legal-resident",
         "src:star-tribune",
         "src:wcco",
         "src:cnn",
@@ -1735,7 +1753,6 @@
       "notable": false,
       "searchTags": [
         "family-separation",
-        "children",
         "src:other-national"
       ],
       "hasLocalMedia": false,
@@ -1826,6 +1843,7 @@
       "notable": false,
       "searchTags": [
         "excessive-force",
+        "warrantless-entry",
         "src:sahan-journal",
         "src:other-national"
       ],
@@ -1923,6 +1941,7 @@
       "notable": false,
       "searchTags": [
         "family-separation",
+        "children",
         "src:mpr"
       ],
       "hasLocalMedia": false,
@@ -1953,6 +1972,7 @@
       "notable": false,
       "searchTags": [
         "excessive-force",
+        "warrantless-entry",
         "src:sahan-journal",
         "src:mpr",
         "src:ap",
@@ -1961,6 +1981,7 @@
         "src:npr",
         "src:wcco",
         "src:bring-me-the-news",
+        "src:fox-news",
         "src:other-national"
       ],
       "hasLocalMedia": true,
@@ -2136,6 +2157,7 @@
         "legal-resident",
         "deception",
         "children",
+        "workplace-raid",
         "src:star-tribune"
       ],
       "hasLocalMedia": false,
@@ -2408,6 +2430,7 @@
       "notable": false,
       "searchTags": [
         "warrantless-entry",
+        "excessive-force",
         "src:wcco",
         "src:fox9",
         "src:sahan-journal",
@@ -2553,6 +2576,7 @@
         "children",
         "excessive-force",
         "family-separation",
+        "legal-resident",
         "src:wcco",
         "src:other-local",
         "src:other-national"
@@ -2634,6 +2658,7 @@
         "excessive-force",
         "shooting",
         "warrantless-entry",
+        "observer-intimidated",
         "src:mpr",
         "src:star-tribune",
         "src:kstp",
@@ -2832,6 +2857,7 @@
         "chemical-agents",
         "observer-intimidated",
         "warrantless-entry",
+        "vehicle-pursuit",
         "src:sahan-journal",
         "src:star-tribune"
       ],
@@ -2904,6 +2930,8 @@
         "children",
         "family-separation",
         "warrantless-entry",
+        "vehicle-pursuit",
+        "shooting",
         "src:sahan-journal",
         "src:mpr",
         "src:wcco",

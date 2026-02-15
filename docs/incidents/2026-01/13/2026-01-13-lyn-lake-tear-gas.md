@@ -10,7 +10,7 @@ injuries: minor
 trustworthiness: high
 created: 2026-01-14T08:01:12
 last_updated: 2026-01-14T08:01:12
-search_tags: chemical-agents, src:kare11, src:wcco, src:bring-me-the-news, src:other-local, src:other-national
+search_tags: chemical-agents, observer-intimidated, src:kare11, src:wcco, src:bring-me-the-news, src:other-local, src:other-national
 ---
 
 # Federal Agents Deploy Tear Gas at Wrecktangle Pizza

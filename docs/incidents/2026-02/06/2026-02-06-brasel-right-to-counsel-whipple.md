@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-07T14:24:24
 last_updated: 2026-02-13T13:43:32
-search_tags: src:ap, src:kstp, src:wcco, src:fox9, src:abc, src:star-tribune, src:mn-reformer, src:nyt, src:nbc, src:cnn, src:npr, src:bring-me-the-news, src:sahan-journal, src:other-national, src:other-local, src:mpr
+search_tags: src:ap, src:kstp, src:wcco, src:fox9, src:abc, src:star-tribune, src:mn-reformer, src:nyt, src:nbc, src:cnn, src:npr, src:bring-me-the-news, src:sahan-journal, src:other-national, src:other-local, src:mpr, src:cbs
 ---
 
 # Minnesota's Legal System Buckles Under Weight of Operation Metro Surge

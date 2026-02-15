@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-15T09:33:17
 last_updated: 2026-01-15T09:33:17
-search_tags: legal-resident, workplace-raid, deception, src:bring-me-the-news, src:wcco, src:other-national
+search_tags: legal-resident, workplace-raid, family-separation, src:bring-me-the-news, src:wcco, src:other-national
 ---
 
 # Restaurant Worker with Legal Visa Detained by Plain-Clothed Agents

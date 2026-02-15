@@ -18,7 +18,11 @@
       "lastUpdated": "2026-02-12T09:55:45",
       "mediaCount": 0,
       "notable": false,
-      "searchTags": [],
+      "searchTags": [
+        "observer-intimidated",
+        "us-citizen",
+        "src:other-local"
+      ],
       "hasLocalMedia": false,
       "localMediaType": null,
       "localMediaPath": null,
@@ -49,7 +53,6 @@
         "observer-detained",
         "observer-intimidated",
         "us-citizen",
-        "chemical-agents",
         "src:intercept",
         "src:mpr",
         "src:wcco",
@@ -57,7 +60,8 @@
         "src:bring-me-the-news",
         "src:fox-news",
         "src:fox9",
-        "src:other-national"
+        "src:other-national",
+        "src:mn-reformer"
       ],
       "hasLocalMedia": true,
       "localMediaType": "image",
@@ -126,6 +130,7 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "observer-intimidated",
         "chemical-agents",
         "excessive-force",
         "src:bring-me-the-news"
@@ -165,6 +170,7 @@
         "observer-detained",
         "observer-intimidated",
         "excessive-force",
+        "shooting",
         "src:bring-me-the-news",
         "src:other-national",
         "src:star-tribune",
@@ -203,6 +209,7 @@
       "notable": false,
       "searchTags": [
         "observer-detained",
+        "observer-intimidated",
         "chemical-agents",
         "excessive-force",
         "src:mpr"
@@ -242,6 +249,7 @@
         "observer-detained",
         "us-citizen",
         "excessive-force",
+        "shooting",
         "src:npr",
         "src:mpr",
         "src:other-national",
@@ -424,6 +432,7 @@
       "searchTags": [
         "us-citizen",
         "observer-intimidated",
+        "vehicle-pursuit",
         "src:nyt",
         "src:other-national"
       ],
@@ -538,7 +547,6 @@
         "src:nyt",
         "src:fox-news",
         "src:other-national",
-        "src:mother-jones",
         "src:mn-reformer",
         "src:mpr"
       ],
@@ -796,7 +804,8 @@
       "searchTags": [
         "us-citizen",
         "observer-intimidated",
-        "src:nyt"
+        "src:nyt",
+        "src:other-national"
       ],
       "hasLocalMedia": true,
       "localMediaType": "image",
@@ -831,6 +840,7 @@
       "notable": false,
       "searchTags": [
         "observer-intimidated",
+        "observer-detained",
         "excessive-force",
         "chemical-agents",
         "src:star-tribune",
@@ -871,7 +881,8 @@
         "us-citizen",
         "observer-detained",
         "src:nyt",
-        "src:pbs"
+        "src:pbs",
+        "src:other-national"
       ],
       "hasLocalMedia": false,
       "localMediaType": null,
@@ -937,10 +948,10 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
-        "us-citizen",
         "observer-intimidated",
         "src:abc",
-        "src:pioneer-press"
+        "src:pioneer-press",
+        "src:other-national"
       ],
       "hasLocalMedia": false,
       "localMediaType": null,
@@ -1124,6 +1135,7 @@
         "observer-detained",
         "us-citizen",
         "excessive-force",
+        "vehicle-pursuit",
         "src:fox9",
         "src:bring-me-the-news",
         "src:wcco",
@@ -1243,9 +1255,12 @@
       "notable": false,
       "searchTags": [
         "observer-detained",
+        "observer-intimidated",
         "us-citizen",
+        "excessive-force",
         "src:abc",
-        "src:kare11"
+        "src:kare11",
+        "src:other-national"
       ],
       "hasLocalMedia": true,
       "localMediaType": "video",
@@ -1280,6 +1295,7 @@
       "notable": false,
       "searchTags": [
         "chemical-agents",
+        "observer-intimidated",
         "src:kare11",
         "src:wcco",
         "src:bring-me-the-news",
@@ -1362,6 +1378,8 @@
         "observer-detained",
         "chemical-agents",
         "excessive-force",
+        "us-citizen",
+        "legal-resident",
         "src:star-tribune",
         "src:wcco",
         "src:cnn",
@@ -1398,6 +1416,7 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "us-citizen",
         "observer-intimidated",
         "chemical-agents",
         "excessive-force",
@@ -1435,6 +1454,8 @@
         "observer-detained",
         "observer-intimidated",
         "excessive-force",
+        "vehicle-pursuit",
+        "shooting",
         "src:other-national"
       ],
       "hasLocalMedia": true,
@@ -1662,6 +1683,7 @@
         "us-citizen",
         "native-american",
         "observer-intimidated",
+        "citizen-check",
         "src:wcco",
         "src:other-national"
       ],
@@ -1693,6 +1715,8 @@
       "notable": false,
       "searchTags": [
         "excessive-force",
+        "vehicle-pursuit",
+        "warrantless-entry",
         "src:mn-reformer",
         "src:cnn",
         "src:other-national"
@@ -1804,7 +1828,9 @@
         "us-citizen",
         "excessive-force",
         "chemical-agents",
-        "src:nyt"
+        "observer-intimidated",
+        "src:nyt",
+        "src:other-national"
       ],
       "hasLocalMedia": false,
       "localMediaType": null,
@@ -1834,6 +1860,7 @@
       "notable": false,
       "searchTags": [
         "observer-intimidated",
+        "observer-detained",
         "chemical-agents",
         "excessive-force",
         "src:bring-me-the-news",
@@ -1935,6 +1962,7 @@
       "notable": false,
       "searchTags": [
         "us-citizen",
+        "observer-intimidated",
         "shooting",
         "src:mpr",
         "src:star-tribune",
@@ -1979,6 +2007,7 @@
         "observer-detained",
         "observer-intimidated",
         "excessive-force",
+        "shooting",
         "src:kare11",
         "src:other-national"
       ],
@@ -2031,7 +2060,6 @@
         "src:kstp",
         "src:kare11",
         "src:other-national",
-        "src:mother-jones",
         "src:mn-reformer",
         "src:sahan-journal"
       ],
@@ -2067,6 +2095,7 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "us-citizen",
         "observer-intimidated",
         "excessive-force",
         "chemical-agents",
@@ -2441,6 +2470,7 @@
         "observer-intimidated",
         "excessive-force",
         "shooting",
+        "vehicle-pursuit",
         "src:mn-reformer",
         "src:star-tribune"
       ],

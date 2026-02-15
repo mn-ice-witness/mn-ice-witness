@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: medium
 created: 2026-02-08T22:53:33
 last_updated: 2026-02-08T22:53:33
-search_tags: us-citizen, native-american, observer-intimidated, src:wcco, src:other-national
+search_tags: us-citizen, native-american, observer-intimidated, citizen-check, src:wcco, src:other-national
 ---
 
 # ICE Agents Attempt to Detain Indigenous Observer Near Powwow Grounds; Community Forces Retreat

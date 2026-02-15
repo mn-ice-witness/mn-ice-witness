@@ -62,6 +62,7 @@
       "searchTags": [
         "legal-resident",
         "excessive-force",
+        "vehicle-pursuit",
         "src:mpr",
         "src:other-local",
         "src:other-national"
@@ -206,8 +207,9 @@
         "legal-resident",
         "workplace-raid",
         "excessive-force",
+        "deception",
         "src:bring-me-the-news",
-        "src:mother-jones"
+        "src:other-national"
       ],
       "hasLocalMedia": true,
       "localMediaType": "video",
@@ -311,6 +313,7 @@
       "searchTags": [
         "us-citizen",
         "citizen-check",
+        "vehicle-pursuit",
         "src:mpr"
       ],
       "hasLocalMedia": true,
@@ -386,6 +389,8 @@
         "children",
         "chemical-agents",
         "citizen-check",
+        "observer-detained",
+        "vehicle-pursuit",
         "src:mpr",
         "src:kare11",
         "src:wcco"
@@ -456,6 +461,8 @@
         "citizen-check",
         "excessive-force",
         "shooting",
+        "observer-intimidated",
+        "vehicle-pursuit",
         "src:kstp",
         "src:kare11",
         "src:other-national",
@@ -498,6 +505,7 @@
       "searchTags": [
         "us-citizen",
         "citizen-check",
+        "vehicle-pursuit",
         "src:wcco",
         "src:other-local"
       ],
@@ -692,6 +700,7 @@
       "searchTags": [
         "us-citizen",
         "excessive-force",
+        "warrantless-entry",
         "src:wcco",
         "src:other-national"
       ],
@@ -730,6 +739,7 @@
         "us-citizen",
         "citizen-check",
         "vehicle-pursuit",
+        "excessive-force",
         "src:other-national"
       ],
       "hasLocalMedia": true,
@@ -850,6 +860,7 @@
         "chemical-agents",
         "family-separation",
         "warrantless-entry",
+        "vehicle-pursuit",
         "src:mpr",
         "src:star-tribune",
         "src:sahan-journal",
@@ -859,7 +870,10 @@
         "src:other-national",
         "src:mn-reformer",
         "src:fox9",
-        "src:cbs"
+        "src:cbs",
+        "src:npr",
+        "src:wapo",
+        "src:pbs"
       ],
       "hasLocalMedia": true,
       "localMediaType": "image",
@@ -900,8 +914,7 @@
         "src:mpr",
         "src:other-national",
         "src:wcco",
-        "src:wapo",
-        "src:other-local"
+        "src:wapo"
       ],
       "hasLocalMedia": true,
       "localMediaType": "video",
@@ -968,8 +981,6 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
-        "us-citizen",
-        "citizen-check",
         "src:fox9",
         "src:other-national"
       ],
@@ -1015,7 +1026,6 @@
         "src:pbs",
         "src:abc",
         "src:fox9",
-        "src:mother-jones",
         "src:mpr"
       ],
       "hasLocalMedia": true,
@@ -1310,7 +1320,9 @@
         "legal-resident",
         "excessive-force",
         "citizen-check",
-        "shooting"
+        "shooting",
+        "vehicle-pursuit",
+        "warrantless-entry"
       ],
       "hasLocalMedia": true,
       "localMediaType": "image",
@@ -1346,6 +1358,7 @@
       "searchTags": [
         "legal-resident",
         "workplace-raid",
+        "family-separation",
         "src:bring-me-the-news",
         "src:wcco"
       ],
@@ -1504,6 +1517,7 @@
         "native-american",
         "excessive-force",
         "citizen-check",
+        "vehicle-pursuit",
         "src:star-tribune",
         "src:fox9",
         "src:wapo",
@@ -1721,6 +1735,7 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "us-citizen",
         "legal-resident",
         "excessive-force",
         "src:fox9",
@@ -1804,6 +1819,7 @@
       "searchTags": [
         "us-citizen",
         "citizen-check",
+        "family-separation",
         "src:nbc",
         "src:sahan-journal",
         "src:star-tribune",
@@ -1847,10 +1863,10 @@
         "src:bring-me-the-news",
         "src:star-tribune",
         "src:wcco",
-        "src:cbs",
         "src:cnn",
         "src:nbc",
         "src:npr",
+        "src:other-local",
         "src:other-national"
       ],
       "hasLocalMedia": true,

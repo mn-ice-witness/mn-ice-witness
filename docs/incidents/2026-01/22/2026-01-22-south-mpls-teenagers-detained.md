@@ -10,7 +10,7 @@ injuries: minor
 trustworthiness: high
 created: 2026-01-22T08:35:32
 last_updated: 2026-01-22T08:35:32
-search_tags: us-citizen, children, chemical-agents, citizen-check, src:mpr, src:kare11, src:wcco
+search_tags: us-citizen, children, chemical-agents, citizen-check, observer-detained, vehicle-pursuit, src:mpr, src:kare11, src:wcco
 ---
 
 # CBP Detains Two Teenagers (One Confirmed U.S. Citizen) After Rear-Ending Their Vehicle, Deploys Tear Gas on Bystanders

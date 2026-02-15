@@ -10,7 +10,7 @@ injuries: fatal
 trustworthiness: high
 created: 2026-01-31T14:22:08
 last_updated: 2026-01-31T14:22:08
-search_tags: shooting, src:abc, src:nbc, src:other-national
+search_tags: src:abc, src:nbc, src:other-national
 ---
 
 # Noem Defends "Domestic Terrorist" Claim: "Best Information We Had at the Time"

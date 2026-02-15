@@ -10,7 +10,7 @@ injuries: fatal
 trustworthiness: high
 created: 2026-02-06T12:47:33
 last_updated: 2026-02-06T12:47:33
-search_tags: workplace-raid, src:sahan-journal, src:kstp, src:other-national, src:abc, src:other-local, src:mpr, src:kare11, src:star-tribune
+search_tags: workplace-raid, src:sahan-journal, src:kstp, src:other-national, src:abc, src:mpr, src:kare11, src:star-tribune
 ---
 
 # Victor Manuel Díaz Dies in ICE Custody at Camp East Montana After Coon Rapids Arrest

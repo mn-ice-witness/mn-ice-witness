@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-09T12:28:18
 last_updated: 2026-02-09T12:28:18
-search_tags: observer-intimidated, us-citizen, src:nbc, src:kstp, src:cnn, src:ap, src:pbs, src:wapo, src:mn-reformer, src:fox9, src:other-national, src:mpr
+search_tags: observer-intimidated, us-citizen, citizen-check, excessive-force, src:nbc, src:kstp, src:cnn, src:ap, src:pbs, src:wapo, src:mn-reformer, src:fox9, src:other-national, src:mpr
 ---
 
 # ICE Deploys Facial Recognition Surveillance Program Against Citizen Observers in Minnesota

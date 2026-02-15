@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-12T09:46:25
 last_updated: 2026-02-12T09:46:25
-search_tags: src:wcco, src:fox9, src:other-local, src:other-national
+search_tags: workplace-raid, src:wcco, src:fox9, src:other-local, src:other-national
 ---
 
 # Two Cooks Detained in Nupa Restaurant Parking Lot; Rochester Location Forced to Close
