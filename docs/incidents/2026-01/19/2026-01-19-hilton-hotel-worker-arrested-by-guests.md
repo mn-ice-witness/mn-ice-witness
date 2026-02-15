@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-25T21:18:19
 last_updated: 2026-01-25T21:18:19
-search_tags: legal-resident, workplace-raid, src:bring-me-the-news, src:cnn, src:mpr
+search_tags: legal-resident, workplace-raid, operation-parris, src:bring-me-the-news, src:cnn, src:mpr
 ---
 
 # ICE Agents Staying at Hotel Arrest One of Its Employees

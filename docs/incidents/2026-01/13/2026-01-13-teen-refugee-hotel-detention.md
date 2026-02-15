@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: medium
 created: 2026-02-11T09:34:19
 last_updated: 2026-02-11T09:34:19
-search_tags: children, legal-resident, family-separation, deception, src:mpr
+search_tags: children, legal-resident, family-separation, deception, operation-parris, src:mpr
 ---
 
 # Teen Refugee Handcuffed Driving to School, Held Overnight in Hotel Room with Federal Agents

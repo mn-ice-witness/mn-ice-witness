@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: medium
 created: 2026-02-08T22:06:14
 last_updated: 2026-02-08T22:06:14
-search_tags: legal-resident, src:sahan-journal
+search_tags: legal-resident, operation-parris, src:sahan-journal
 ---
 
 # Venezuelan Refugee Detained at Whipple Check-In, Flown to Texas with 60 Minnesota Women; Green Card Approved While in Custody

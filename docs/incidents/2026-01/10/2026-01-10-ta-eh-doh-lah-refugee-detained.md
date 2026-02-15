@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-15T12:12:46
 last_updated: 2026-02-15T12:12:46
-search_tags: legal-resident, children, family-separation, warrantless-entry, src:other-national
+search_tags: legal-resident, children, family-separation, warrantless-entry, operation-parris, src:other-national
 ---
 
 # Burmese Refugee Mother Arrested While Breastfeeding; Judge Orders Release From Texas

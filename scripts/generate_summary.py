@@ -277,6 +277,7 @@ VALID_SEARCH_TAGS = {
     "shooting",
     "vehicle-pursuit",
     "warrantless-entry",
+    "operation-parris",
     "src:star-tribune",
     "src:mpr",
     "src:fox9",

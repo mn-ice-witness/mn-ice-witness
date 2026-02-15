@@ -909,6 +909,7 @@
         "legal-resident",
         "children",
         "family-separation",
+        "operation-parris",
         "src:fox9",
         "src:pioneer-press"
       ],
@@ -1429,6 +1430,7 @@
         "children",
         "chemical-agents",
         "excessive-force",
+        "operation-parris",
         "src:other-local"
       ],
       "hasLocalMedia": false,
@@ -1522,6 +1524,7 @@
       "notable": false,
       "searchTags": [
         "family-separation",
+        "operation-parris",
         "src:wcco",
         "src:fox9",
         "src:pioneer-press"
