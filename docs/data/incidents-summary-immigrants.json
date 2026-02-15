@@ -977,7 +977,7 @@
     {
       "filePath": "incidents/2026-01/16/2026-01-16-two-year-old-parents-detained-dopa.md",
       "title": "Two-Year-Old Left Without Parents After ICE Detains Both; DOPA Form Prevents Foster Care",
-      "summary": "A two-year-old girl named Scarlett was left without either parent after ICE detained her father approximately three weeks before January 16, 2026, and her mother approximately four days before that date. The child was not taken into government custody only because her parents had previously signed a Delegation of Parental Authority (DOPA) form naming a family friend as her legal guardian.",
+      "summary": "A two-year-old girl named Scarlett was left without either parent after ICE detained her father approximately three weeks before January 16, 2026, and her mother Janeth approximately four days before that date. The family \u2014 Janeth, her husband, their 4-year-old son, and 2-year-old Scarlett \u2014 were pulled over in a traffic stop in mid-January. The parents and 4-year-old were detained and transported to a Texas facility. Scarlett was left with a family friend named Jissica, who had legal authority through a previously signed Delegation of Parental Authority (DOPA) form. The father was deported to Ecuador. Janeth and the children were eventually released and reunited in Minnesota.",
       "latestUpdate": null,
       "date": "2026-01-16",
       "time": "unknown",
@@ -989,7 +989,7 @@
       "injuries": "none",
       "trustworthiness": "medium",
       "created": "2026-02-09T21:32:32",
-      "lastUpdated": "2026-02-09T21:32:32",
+      "lastUpdated": "2026-02-14T23:00:00",
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
@@ -1194,38 +1194,6 @@
       "notable": false,
       "searchTags": [
         "src:pioneer-press"
-      ],
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
-      "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
-    },
-    {
-      "filePath": "incidents/2026-01/15/2026-01-15-janeth-ecuadorian-family-separated.md",
-      "title": "Ecuadorian Family Separated in Traffic Stop; Father Deported, Mother and Children Eventually Reunited",
-      "summary": "In mid-January, ICE agents pulled over a vehicle carrying Janeth (first name only), her husband, their 4-year-old son, and 2-year-old daughter Scarlett. The parents and 4-year-old were detained and transported to a Texas immigration facility. Scarlett was left with a family friend named Jissica, who had legal authority through a previously signed Delegation of Parental Authority form. The husband was deported to Ecuador. Janeth and her children were eventually released and reunited in Minnesota, given one year to pursue an asylum claim.",
-      "latestUpdate": null,
-      "date": "2026-01-15",
-      "time": "unknown",
-      "location": "Traffic stop",
-      "city": "Minneapolis",
-      "type": "immigrants",
-      "status": "resolved",
-      "affectedIndividualCitizenship": "asylum-seeker",
-      "injuries": "none",
-      "trustworthiness": "low",
-      "created": "2026-02-14T21:59:38",
-      "lastUpdated": "2026-02-14T21:59:38",
-      "mediaCount": 0,
-      "notable": false,
-      "searchTags": [
-        "family-separation",
-        "children",
-        "deportation",
-        "src:wcco"
       ],
       "hasLocalMedia": false,
       "localMediaType": null,

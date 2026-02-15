@@ -16,7 +16,7 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (271 incidents)
+## CURRENT (270 incidents)
 
 Published incidents visible on the main site.
 
@@ -146,7 +146,6 @@ Published incidents visible on the main site.
 - incidents/2026-01/15/2026-01-15-vine-faith-mankato-workers.md | 2026-01-15 | Mankato | immigrants | Two Subcontractors Detained at VINE Faith in Action Senior Center
 - incidents/2026-01/15/2026-01-15-cottage-grove-food-shelf-volunteer.md | 2026-01-15 | Cottage Grove | immigrants | Food Shelf Volunteer Detained at Basic Needs in Cottage Grove
 - incidents/2026-01/15/2026-01-15-hiawatha-student-bus-stop.md | 2026-01-15 | Minneapolis | schools-hospitals | Hiawatha Academies Student Detained at Bus Stop
-- incidents/2026-01/15/2026-01-15-janeth-ecuadorian-family-separated.md | 2026-01-15 | Minneapolis | immigrants | Ecuadorian Family Separated in Traffic Stop; Father Deported, Mother and Children Eventually Reunited
 - incidents/2026-01/15/2026-01-15-hussen-v-noem-racial-profiling-lawsuit.md | 2026-01-15 | Minneapolis | background | ACLU Files Class Action Challenging Racial Profiling During Operation Metro Surge
 - incidents/2026-01/15/2026-01-15-ramon-menera-accent-detained.md | 2026-01-15 | Minneapolis | citizens | U.S. Citizen Detained Because of "Accent"
 - incidents/2026-01/15/2026-01-15-daniel-woo-followed-home.md | 2026-01-15 | Plymouth | observers | ICE SUV Follows Observer 40 Minutes to His Plymouth Home
