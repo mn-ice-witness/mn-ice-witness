@@ -706,13 +706,18 @@
         "src:mn-reformer",
         "src:mpr"
       ],
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
+      "hasLocalMedia": true,
+      "localMediaType": "image",
+      "localMediaPath": "media/2026-01/12/2026-01-12-minnesota-sues-to-halt-operation.jpg",
       "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
+      "localMediaFiles": [
+        {
+          "type": "image",
+          "path": "media/2026-01/12/2026-01-12-minnesota-sues-to-halt-operation.jpg"
+        }
+      ],
+      "aspectRatio": 1.426872770511296,
+      "mediaVersion": 1771183412
     },
     {
       "filePath": "incidents/2026-01/10/2026-01-10-congressional-access-denied.md",

@@ -16,6 +16,7 @@
 
 
 
+
 juan-carlos-brutality
 aliya-rahman-car-window-hospitalized
 speedway-st-paul
@@ -158,3 +159,4 @@ yulexi-loor-tacuri-detained
 sheriff-witt-denies-ice-deal
 minneapolis-203m-economic-impact
 ta-eh-doh-lah-refugee-detained
+minnesota-sues-to-halt-operation
