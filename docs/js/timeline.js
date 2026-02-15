@@ -135,8 +135,24 @@ const Timeline = {
         return moments;
     },
 
+    getFilteredMoments() {
+        const query = (typeof Search !== 'undefined' && Search.query) ? Search.query.toLowerCase().trim() : '';
+        if (!query) return this.moments;
+
+        const terms = query.split(/\s+/).filter(t => t.length > 0);
+        const stemmedTerms = terms.map(t => App.stem(t));
+
+        return this.moments.filter(m => {
+            const searchText = [m.title, m.body].join(' ').toLowerCase();
+            const words = searchText.match(/\b\w+\b/g) || [];
+            const stemmedWords = new Set(words.map(w => App.stem(w)));
+            return stemmedTerms.every(st => stemmedWords.has(st));
+        });
+    },
+
     computeMonthData() {
         const incidents = (typeof App !== 'undefined') ? App.getFilteredIncidents() : [];
+        const filteredMoments = this.getFilteredMoments();
         const byDate = {};
 
         for (const incident of incidents) {
@@ -149,7 +165,7 @@ const Timeline = {
         // Build map of date -> set of incident slugs that have curated moments on that date
         // Only non-update moments suppress the day listing (update moments appear on different dates)
         this.momentSlugsByDate = {};
-        for (const m of this.moments) {
+        for (const m of filteredMoments) {
             if (m.incident && !m.isUpdate) {
                 if (!this.momentSlugsByDate[m.date]) this.momentSlugsByDate[m.date] = new Set();
                 this.momentSlugsByDate[m.date].add(m.incident);
@@ -158,7 +174,7 @@ const Timeline = {
 
         const allDates = new Set([
             ...Object.keys(byDate),
-            ...this.moments.map(m => m.date)
+            ...filteredMoments.map(m => m.date)
         ]);
         const sortedDates = [...allDates].sort();
 
@@ -179,8 +195,8 @@ const Timeline = {
                     return !daySlugs.has(slug);
                 })
                 : dayIncidents;
-            const dayMoments = this.moments.filter(m => m.date === date && !m.isUpdate);
-            const dayUpdates = this.moments.filter(m => m.date === date && m.isUpdate);
+            const dayMoments = filteredMoments.filter(m => m.date === date && !m.isUpdate);
+            const dayUpdates = filteredMoments.filter(m => m.date === date && m.isUpdate);
             // Count ALL incidents for running totals (not filtered)
             const counts = this.countCategories(dayIncidents);
 
