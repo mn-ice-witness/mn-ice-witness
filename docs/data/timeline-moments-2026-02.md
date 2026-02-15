@@ -55,14 +55,6 @@ source:
 The resistance spread beyond the Twin Cities. Duluth unanimously prohibited city staff from assisting ICE. Mankato unanimously directed its city attorney to draft an ordinance requiring federal agents to unmask and wear body cameras. Red Wing voted 5-2 that its police would not participate in ICE operations. Moorhead debated similar measures but tabled them 5-3. Within a week, outstate cities representing communities across Minnesota — from the Iron Range to the Iowa border — had formally acted to limit cooperation with the federal operation.
 
 ---
-date: 2026-02-10
-title: Walz: "Days, Not Weeks and Months"
-incident: 2026-02-10-walz-days-not-months-drawdown
-source:
----
-After conversations with border czar Homan and White House Chief of Staff Susie Wiles, Governor Walz said he expected the federal occupation to end within days. The city of Minneapolis estimated cumulative economic losses of $100 million. Walz: "We're very much in a trust but verify mode."
-
----
 date: 2026-02-12
 title: Homan Declares Operation Metro Surge Over
 incident: 2026-02-12-homan-operation-metro-surge-conclusion
