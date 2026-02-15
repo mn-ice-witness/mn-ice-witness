@@ -1,0 +1,43 @@
+---
+date: 2026-01-15
+time: unknown
+location: Plymouth residential neighborhood
+city: Plymouth
+type: observers
+status: resolved
+affected_individual_citizenship: us-citizen
+injuries: none
+trustworthiness: high
+created: 2026-02-14T21:59:38
+last_updated: 2026-02-14T21:59:38
+search_tags: us-citizen, observer-intimidated, home-visit, src:nyt
+---
+
+# ICE SUV Follows Observer 40 Minutes to His Plymouth Home
+
+## Summary
+Daniel Woo, 29, a sound designer, drove to a St. Paul supermarket parking lot to monitor federal agents as part of a civilian observer network. The ICE SUV he was tracking followed him approximately 40 minutes to his neighborhood in Plymouth and parked in front of his house. Woo filed a sworn declaration in Tincher v. Noem. Exact date not specified in available sources; approximate mid-January 2026.
+
+## Sources
+1. New York Times (Feb 14, 2026): [ICE Agents Menaced Minnesota Protesters at Their Homes, Filings Say](https://www.spokesman.com/stories/2026/feb/14/ice-agents-menaced-minnesota-protesters-at-their-h/)
+
+## Affected Individual(s)
+
+### Daniel Woo
+- **Age:** 29
+- **Occupation:** Sound designer
+- **Citizenship:** U.S. citizen
+- **Location:** Plymouth, MN
+
+## Affected Individual Statement
+
+> "They just came over to intimidate me. To say, 'We know where you live.'"
+
+> "As someone who's an immigrant, who comes from places and has stories from relatives about what can happen when accountability of the government is not there, you feel even more motivation to protect what America has promised in the Constitution."
+
+## Related Incidents
+- [ACLU Sues to Protect Observers: Tincher v. Noem](#2025-12-17-tincher-v-noem-aclu-lawsuit) — Woo filed sworn declaration
+- [ICE Agents Follow Observers Home](#2026-01-06-levy-observers-followed-home) — Same pattern of following observers to residences
+
+## Editorial Assessment
+**HIGH** — Sworn declaration filed in federal court (Tincher v. Noem). Named individual with specific details. Reported by New York Times. Exact incident date not specified in available sources.

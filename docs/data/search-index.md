@@ -16,7 +16,7 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (262 incidents)
+## CURRENT (269 incidents)
 
 Published incidents visible on the main site.
 
@@ -79,10 +79,12 @@ Published incidents visible on the main site.
 - incidents/2026-01/26/2026-01-26-christian-salamanca-ice-chase-crash.md | 2026-01-26 | St. Paul | immigrants | Asylum Seeker Hospitalized After Wife Says ICE Rammed His Car Into Telephone Pole
 - incidents/2026-01/26/2026-01-26-el-potro-brainerd.md | 2026-01-26 | Brainerd | immigrants | Four Restaurant Workers Detained at El Potro in Brainerd
 - incidents/2026-01/26/2026-01-26-dhs-response-death-threats.md | 2026-01-26 | Minneapolis | response | DHS Response: ICE Officers Face "8,000% Increase in Death Threats"; Publishes Minnesota Voicemail
+- incidents/2026-01/26/2026-01-26-emily-beltz-observer-intimidated.md | 2026-01-26 | Minneapolis | observers | Agent Yells Observer's Name and Home Address from Unmarked SUV
 - incidents/2026-01/26/2026-01-26-bovino-agents-are-victims.md | 2026-01-26 | Washington, D.C. | response | Bovino Tells CNN Agents Are "The Victims" in Pretti Shooting; Says Second Amendment Rights "Don't Count"
 - incidents/2026-01/25/2026-01-25-bovino-pretti-had-gun-response.md | 2026-01-25 | Minneapolis | response | Bovino on Pretti: "Let's Take a Look at the Gun"; Second Amendment Groups Raise Concerns
 - incidents/2026-01/25/2026-01-25-bovino-vilify-law-enforcement.md | 2026-01-25 | Minneapolis | response | Bovino Blames Politicians, Community Leaders, and Journalists for "Tragic Consequences"
 - incidents/2026-01/25/2026-01-25-vance-engineered-chaos-unique.md | 2026-01-25 | Minneapolis | response | Vance on Pretti: "Engineered Chaos" Unique to Minneapolis
+- incidents/2026-01/24/2026-01-24-clayton-kelly-observer-pepper-sprayed.md | 2026-01-24 | Minneapolis | observers | Observer Tackled and Pepper-Sprayed Directly in Eye Minutes After Pretti Killing
 - incidents/2026-01/24/2026-01-24-javier-witness-detained.md | 2026-01-24 | Minneapolis | observers | Minneapolis Man Detained for Hours After Witnessing Pretti Shooting
 - incidents/2026-01/24/2026-01-24-alex-pretti-shooting.md | 2026-01-24 | Minneapolis | observers | Alex Pretti Shot and Killed by Federal Agents
 - incidents/2026-01/24/2026-01-24-gust-johnson-veteran-pepper-sprayed.md | 2026-01-24 | Minneapolis | observers | 76-Year-Old Marine Veteran Pepper Sprayed Three Times, Detained 10 Hours at Pretti Scene
@@ -106,10 +108,12 @@ Published incidents visible on the main site.
 - incidents/2026-01/22/2026-01-22-south-mpls-teenagers-detained.md | 2026-01-22 | Minneapolis | citizens | CBP Detains Two Teenagers (One Confirmed U.S. Citizen) After Rear-Ending Their Vehicle, Deploys Tear Gas on Bystanders
 - incidents/2026-01/22/2026-01-22-velasco-family-hopkins.md | 2026-01-22 | Hopkins | immigrants | Hopkins Family of Four Detained; Returned After ICE Violates Court Order
 - incidents/2026-01/21/2026-01-21-bovino-smoke-canister-playground.md | 2026-01-21 | Minneapolis | schools-hospitals | Border Patrol Commander Greg Bovino Deploys Smoke Canister Near School at Dismissal
+- incidents/2026-01/21/2026-01-21-katie-henly-home-photographed.md | 2026-01-21 | Minneapolis | observers | ICE Vehicles Stop at Observer's Home; Agent Photographs House While Another Holds AR-15
 - incidents/2026-01/21/2026-01-21-parris-venezuelan-refugee-whipple.md | 2026-01-21 | Minneapolis | citizens | Venezuelan Refugee Detained at Whipple Check-In, Flown to Texas with 60 Minnesota Women; Green Card Approved While in Custody
 - incidents/2026-01/21/2026-01-21-observer-pinned-pepper-sprayed-face.md | 2026-01-21 | Minneapolis | observers | Observer Pinned to Ground, Chemical Irritant Sprayed Directly Into Face
 - incidents/2026-01/21/2026-01-21-dhs-response-5-year-old-bait.md | 2026-01-21 | Columbia Heights | response | DHS Response: "Child Was ABANDONED," Father "Fled on Foot"
 - incidents/2026-01/21/2026-01-21-dhs-response-crowd-control.md | 2026-01-21 | Minneapolis | response | DHS Response: Agents "Harassed" at Gas Stations, Used "Crowd Control Measures"
+- incidents/2026-01/20/2026-01-20-mark-butcher-journalist-arrested.md | 2026-01-20 | Minneapolis | observers | Freelance Journalist Arrested While Recording ICE; Reports Cardiac Damage During Detention
 - incidents/2026-01/20/2026-01-20-liam-ramos-detained.md | 2026-01-20 | Columbia Heights | schools-hospitals, immigrants | Five-Year-Old Liam Ramos Detained in Driveway, Allegedly Used as "Bait"
 - incidents/2026-01/20/2026-01-20-trump-mistakes-happen.md | 2026-01-20 | Washington D.C. | response | Trump on ICE Violence: "Mistakes Happen" While Focusing on "Murders and Criminals"
 - incidents/2026-01/20/2026-01-20-brooklyn-park-officer-citizen-check.md | 2026-01-20 | St. Paul | citizens | Metro Police Chiefs Call for End to Civil Rights Violations / Racially Discriminatory Citizen Checks; Off-Duty Brooklyn Park Police Officer Stopped at Gunpoint, Asked for Papers
@@ -144,6 +148,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/15/2026-01-15-hiawatha-student-bus-stop.md | 2026-01-15 | Minneapolis | schools-hospitals | Hiawatha Academies Student Detained at Bus Stop
 - incidents/2026-01/15/2026-01-15-hussen-v-noem-racial-profiling-lawsuit.md | 2026-01-15 | Minneapolis | background | ACLU Files Class Action Challenging Racial Profiling During Operation Metro Surge
 - incidents/2026-01/15/2026-01-15-ramon-menera-accent-detained.md | 2026-01-15 | Minneapolis | citizens | U.S. Citizen Detained Because of "Accent"
+- incidents/2026-01/15/2026-01-15-daniel-woo-followed-home.md | 2026-01-15 | Plymouth | observers | ICE SUV Follows Observer 40 Minutes to His Plymouth Home
 - incidents/2026-01/15/2026-01-15-st-paul-school-vans-pulled-over.md | 2026-01-15 | St. Paul | schools-hospitals | Two St. Paul School Vans Pulled Over by ICE With Students and Teachers Aboard
 - incidents/2026-01/14/2026-01-14-shawn-jackson-children-tear-gas.md | 2026-01-14 | Minneapolis | observers | Six Children Hospitalized After ICE Deploys Flashbangs and Tear Gas on Family SUV
 - incidents/2026-01/14/2026-01-14-agents-invoke-good-killing.md | 2026-01-14 | Minneapolis | background | "Have You Not Learned?": Agents Repeatedly Invoke Renee Good's Killing to Threaten Observers
@@ -215,6 +220,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/09/2026-01-09-troy-carrillo-pepper-sprayed.md | 2026-01-09 | Bloomington | observers | Observer Pepper Sprayed in Face by Agent from Same Vehicle That Threatened Him Two Days Earlier
 - incidents/2026-01/09/2026-01-09-abigail-salm-observer-detained.md | 2026-01-09 | Hopkins | observers | "Is This How You Want to Die?" — Observer Detained, Threatened with Bullet, Phone Stolen by Agent
 - incidents/2026-01/08/2026-01-08-alberto-castaneda-mondragon-head-injury.md | 2026-01-08 | St. Paul | immigrants | Immigrant Hospitalized With Skull Fractures After ICE Arrest; Says Beating Was Unprovoked
+- incidents/2026-01/08/2026-01-08-timothy-brandon-projectile-protest.md | 2026-01-08 | Minneapolis | observers | 70-Year-Old Observer Struck by Projectile, Separates Shoulder Fleeing Tear Gas
 - incidents/2026-01/08/2026-01-08-dhs-response-radical-rhetoric.md | 2026-01-08 | Minneapolis | response | DHS Response: "Radical Rhetoric" From "Sanctuary Politicians" Causes 1,300% Increase in Assaults
 - incidents/2026-01/08/2026-01-08-rochester-gates-complex.md | 2026-01-08 | Rochester | immigrants | Multiple ICE Arrests in Rochester; Activist Documents Agent Using Hammer on Car Window
 - incidents/2026-01/08/2026-01-08-whipple-tear-gas-renee-good-protest.md | 2026-01-08 | Minneapolis | observers | Border Patrol Chief Bovino and Agents Tear Gas Peaceful Protesters at Whipple Building Morning After Renee Good's Killing
@@ -246,6 +252,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/06/2026-01-06-emmanuel-sackie-brooklyn-park.md | 2026-01-06 | Brooklyn Park | citizens | Naturalized U.S. Citizen Hospitalized After ICE Encounter
 - incidents/2026-01/06/2026-01-06-bloomington-wilderness-inquiry.md | 2026-01-06 | Bloomington | immigrants | Man Seeks Refuge in Bloomington Office During 6-Hour ICE Standoff
 - incidents/2026-01/06/2026-01-06-mubashir-pepper-sprayed-filming.md | 2026-01-06 | Minneapolis | observers | U.S. Citizen Pepper-Sprayed by Federal Agent While Filming ICE Operations
+- incidents/2026-01/06/2026-01-06-yulexi-loor-tacuri-detained.md | 2026-01-06 | Minneapolis | immigrants | Ecuadorian Asylum Seeker Detained on School Run; Breastfeeding Infant Left Behind
 - incidents/2026-01/06/2026-01-06-el-fresco-restaurant-owner.md | 2026-01-06 | Bloomington | immigrants | Restaurant Owner Reported Missing, Confirmed Detained by ICE
 - incidents/2026-01/2026-01-early-wampash-tuntuam-10-children.md | 2026-01-05 | Minneapolis | immigrants | Indigenous Ecuadorian Mother Detained, Leaving 10 Children Including 5-Month-Old Infant
 - incidents/2026-01/02/2026-01-02-trunorth-solar-arden-hills.md | 2026-01-02 | Arden Hills | immigrants | ICE Raids TruNorth Solar Factory in Arden Hills - "First Big One of 2026"

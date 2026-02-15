@@ -9,14 +9,17 @@ affected_individual_citizenship: us-citizen
 injuries: minor
 trustworthiness: high
 created: 2026-01-14T08:01:12
-last_updated: 2026-01-14T08:01:12
-search_tags: us-citizen, excessive-force, citizen-check, src:mpr, src:fox9, src:sahan-journal, src:kstp, src:kare11, src:bring-me-the-news, src:star-tribune, src:wcco, src:cbs, src:cnn, src:nbc, src:npr, src:other-national
+last_updated: 2026-02-14T22:23:59
+search_tags: us-citizen, excessive-force, citizen-check, congressional-testimony, src:mpr, src:fox9, src:sahan-journal, src:kstp, src:kare11, src:bring-me-the-news, src:star-tribune, src:wcco, src:cbs, src:cnn, src:nbc, src:npr, src:common-dreams, src:other-national
 ---
 
 # U.S. Citizen Tackled, Detained by ICE During Lunch Break
 
+## Updates
+- **Jan 16** - [Testified at congressional field hearing](https://www.commondreams.org/news/minnesota-ice-abuse-testimony) in St. Paul hosted by Rep. Ilhan Omar and Rep. Pramila Jayapal, attended by nearly 30 U.S. lawmakers. Told Congress: "I repeated, 'I'm a citizen, I have an ID,' the agent kept saying, 'That don't matter.'" Said he was shackled at the federal facility and initially told he would be deported.
+
 ## Summary
-Mubashir, a 20-year-old U.S. citizen and Somali American, was tackled, placed in a chokehold, and detained by ICE agents for several hours while on his lunch break in Minneapolis' Cedar-Riverside neighborhood. Despite repeatedly asserting his citizenship and offering to show his passport, agents refused to verify his status until hours later at a federal facility. After his citizenship was confirmed, agents refused to drive him back, forcing him to walk in the snow.
+Mubashir, a 20-year-old U.S. citizen and Somali American, was tackled, placed in a chokehold, and detained by ICE agents for several hours while on his lunch break in Minneapolis' Cedar-Riverside neighborhood. Despite repeatedly asserting his citizenship and offering to show his passport — with an agent responding "that don't matter" — agents refused to verify his status. He was transported to the Bishop Henry Whipple Federal Building, shackled, and initially told he would be deported. After his citizenship was confirmed hours later, agents refused to drive him back, forcing him to walk in the snow. In January 2026, Mubashir testified before Congress at a field hearing, telling lawmakers: "My citizenship did not protect me from being physically detained and hurt by ICE agents."
 
 ## Sources
 1. YouTube Video (Dec 11, 2025): [Mubashir press conference](https://www.youtube.com/watch?v=ceMKgxnhmHA)
@@ -36,6 +39,8 @@ Mubashir, a 20-year-old U.S. citizen and Somali American, was tackled, placed in
 15. NBC News (Jan 9, 2026): [Lawsuit accuses federal agents of racial profiling in Minneapolis immigration operation](https://www.nbcnews.com/news/us-news/lawsuit-accuses-federal-agents-racial-profiling-minneapolis-immigratio-rcna254245)
 16. NPR (Jan 9, 2026): [Federal agents racial profiling lawsuit transcript](https://www.npr.org/transcripts/nx-s1-5689031)
 17. KARE 11 (Dec 2025): [Somali man says he's an American citizen and speaks out after ICE detainment](https://www.kare11.com/article/news/local/somali-man-says-hes-an-american-citizen-and-speaks-out-after-ice-detainment/89-72c1f603-9600-481d-b8e4-317777ad3723)
+18. Common Dreams (Jan 17, 2026): ['My US Citizenship Did Not Protect Me': Community Hearing Details ICE Horrors in Minneapolis](https://www.commondreams.org/news/minnesota-ice-abuse-testimony)
+19. Hometown Source (Jan 2026): [Rep. Omar hosts field hearing on ICE activity, Operation Metro Surge](https://www.hometownsource.com/elk_river_star_news/abc_newspapers/community/andover/rep-omar-hosts-field-hearing-on-ice-activity-operation-metro-surge/article_f0ee69c7-0258-4c7d-855c-7909526e64d8.html)
 
 ## Affected Individual(s)
 - **Name:** Mubashir (requested first name only)
@@ -51,8 +56,8 @@ Mubashir, a 20-year-old U.S. citizen and Somali American, was tackled, placed in
 - **Assault** - Agent tackles him, slams him to ground, places him in chokehold.
 - **Identification refused** - Mubashir tells agents "I'm a U.S. citizen" and offers to show passport; agents refuse to check.
 - **Vehicle** - Placed in ICE vehicle; someone brings his passport to scene but agents still don't release him.
-- **Detention** - Transported to Bishop Henry Whipple Federal Building (Fort Snelling)
-- **Processing** - Fingerprints and facial recognition initially fail; scanned second time
+- **Detention** - Transported to Bishop Henry Whipple Federal Building (Fort Snelling); shackled
+- **Processing** - Fingerprints and facial recognition initially fail; scanned second time. Initially told he would be deported.
 - **Release** - After viewing passport hours later, told he is free to go
 - **Aftermath** - Asks for ride back; agents refuse three times; forced to walk in snow until parents pick him up
 
@@ -94,6 +99,13 @@ On being denied a ride back:
 > "I asked three times, they said, 'No, you're walking.'"
 
 Mubashir stated he was also denied water and medical assistance during detention.
+
+**Congressional field hearing testimony (Jan 16, 2026):**
+> "I repeated, 'I'm a citizen, I have an ID,' the agent kept saying, 'That don't matter.'"
+
+> "My citizenship did not protect me from being physically detained and hurt by ICE agents."
+
+> "I knew the president had made statements about Somali people and there would be additional ICE officers in the Twin Cities... But I did not think this would happen to me or someone in my family. We are all United States citizens, so we should not be at risk of being jailed or deported by ICE."
 
 **Community witnesses:**
 - Video showed officers using a chokehold and forcing Mubashir to his knees in the snow.
