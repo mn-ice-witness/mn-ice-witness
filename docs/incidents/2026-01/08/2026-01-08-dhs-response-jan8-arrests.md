@@ -5,7 +5,7 @@ location: DHS Press Release
 city: Minneapolis
 type: response
 status: resolved
-affected_individual_citizenship: unknown
+affected_individual_citizenship: n/a
 injuries: none
 trustworthiness: high
 created: 2026-01-14T12:35:56
@@ -19,7 +19,7 @@ search_tags:
 DHS issued a press release highlighting 13 individuals arrested in Minneapolis, claiming all had serious criminal histories including sexual assault, drug trafficking, and violent crimes. This was part of their daily "worst of the worst" communications strategy.
 
 ## Sources
-1. DHS (Jan 9, 2026): [DHS Press Release](https://www.dhs.gov/news/2026/01/08/dhs-highlights-worst-worst-criminal-illegal-aliens-including-rapists-pedophiles-and)
+1. DHS (Jan 8, 2026): [DHS Press Release](https://www.dhs.gov/news/2026/01/08/dhs-highlights-worst-worst-criminal-illegal-aliens-including-rapists-pedophiles-and)
 
 ## Official Statement
 
@@ -48,12 +48,7 @@ DHS named 13 individuals with claimed criminal records:
 
 ## Context
 
-This press release was part of DHS's daily communications strategy during Operation Metro Surge to highlight arrests of individuals with criminal records.
-
-### DHS Claims vs. Lawsuit Allegations
-
-- **DHS claims** 70% of arrestees have prior criminal arrests or convictions.
-- **State lawsuit** alleges many arrestees "lack any criminal convictions whatsoever" and that agents are "stopping random people on the street to demand proof of citizenship."
+This press release was part of DHS's daily communications strategy during Operation Metro Surge to highlight arrests of individuals with criminal records. The release also noted that since Operation Metro Surge began, DHS law enforcement had arrested more than 1,500 illegal aliens across Minnesota.
 
 ## Editorial Assessment
 **HIGH** - Official DHS press release. Criminal history claims not independently verified. This represents the federal justification narrative for Operation Metro Surge.
