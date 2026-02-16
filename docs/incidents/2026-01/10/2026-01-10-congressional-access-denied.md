@@ -25,7 +25,7 @@ Three Minnesota Democratic representatives—Ilhan Omar, Angie Craig, and Kelly 
 1. CBS Minnesota (Jan 10, 2026): [3 congressional lawmakers say they were denied access to ICE facility in Minneapolis](https://www.cbsnews.com/minnesota/news/omar-craig-morrison-denied-access-ice-facility-minneapolis/)
 2. Sahan Journal (Jan 10, 2026): [U.S. Rep. Omar, others denied access to ICE detention facility](https://sahanjournal.com/immigration/omar-morrison-craig-denied-access-detention-facility/)
 3. KSTP (Jan 10, 2026): [Minnesota congressional representatives forced out of Whipple Federal Building](https://kstp.com/kstp-news/top-news/minnesota-congressional-representatives-forced-out-of-whipple-federal-building/)
-4. Twin Cities Pioneer Press (Jan 10, 2026): [Minnesota lawmakers denied access to view conditions at ICE detention center Saturday](https://www.twincities.com/2026/01/10/minnesota-lawmakers-denied-access-to-view-conditions-at-ice-detention-center-saturday/)
+4. Pioneer Press (Jan 10, 2026): [Minnesota lawmakers denied access to view conditions at ICE detention center Saturday](https://www.twincities.com/2026/01/10/minnesota-lawmakers-denied-access-to-view-conditions-at-ice-detention-center-saturday/)
 5. InForum (Jan 10, 2026): [Minnesota lawmakers denied access to ICE detention center Saturday](https://www.inforum.com/news/minnesota/minnesota-lawmakers-denied-access-to-ice-detention-center-saturday)
 6. Minnesota Reformer (Feb 6, 2026): [DHS again denies Minnesota members of Congress access to Whipple building](https://minnesotareformer.com/briefs/dhs-again-denies-minnesota-members-of-congress-access-to-whipple-building/)
 7. KSTP (Feb 6, 2026): [Rep. Morrison calls for Whipple detention center to be 'shut down' as peers are denied access](https://kstp.com/kstp-news/top-news/rep-morrison-calls-for-whipple-detention-center-to-be-shut-down-as-peers-are-denied-access/)
@@ -67,7 +67,7 @@ Rep. Craig: "We are going to continue to show up. We are going to continue to do
 Rep. Morrison: "Conducting oversight of American taxpayer-funded facilities is not only our legal right, but our constitutional duty."
 
 ## Context
-The incident occurred three days after ICE agent Jonathan Ross shot and killed 37-year-old Renee Good at the Whipple building on January 7, 2026. The facility has been the primary processing center for detainees during Operation Metro Surge.
+The incident occurred three days after ICE agent Jonathan Ross shot and killed 37-year-old Renee Good in south Minneapolis on January 7, 2026. The facility has been the primary processing center for detainees during Operation Metro Surge.
 
 ## Editorial Assessment
 **HIGH** - Multiple independent news sources (CBS Minnesota, Sahan Journal, KSTP, Twin Cities Pioneer Press, InForum) with direct quotes from all three representatives and official DHS response.

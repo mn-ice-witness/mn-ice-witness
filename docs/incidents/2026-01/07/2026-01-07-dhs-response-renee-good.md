@@ -5,7 +5,7 @@ location: DHS Official Statement
 city: Minneapolis
 type: response
 status: under-investigation
-affected_individual_citizenship: us-citizen
+affected_individual_citizenship: n/a
 injuries: fatal
 trustworthiness: high
 created: 2026-01-14T12:35:56
@@ -23,9 +23,9 @@ Hours after ICE agent Jonathan Ross shot and killed Renee Good, DHS Secretary Kr
 
 ## Sources
 1. NBC News (Jan 8, 2026): [Contrasting accounts](https://www.nbcnews.com/news/us-news/federal-law-enforcement-involved-ice-related-shooting-minneapolis-rcna252812)
-2. CNN (Jan 8, 2026): [Live Updates](https://www.cnn.com/us/live-news/minneapolis-ice-shooting-immigration-crackdown-01-09-26)
-3. CBC Video (Jan 8, 2026): [Video Analysis](https://www.cbc.ca/news/world/ice-agent-shooting-video-minnesota-renee-good-9.7040480)
-4. Fox News (Jan 8, 2026): [Report](https://www.foxnews.com/us/renee-nicole-good-part-ice-watch-group-dhs-sources-say)
+2. CNN (Jan 9, 2026): [Live Updates](https://www.cnn.com/us/live-news/minneapolis-ice-shooting-immigration-crackdown-01-09-26)
+3. CBC Video (Jan 9, 2026): [Video Analysis](https://www.cbc.ca/news/world/ice-agent-shooting-video-minnesota-renee-good-9.7040480)
+4. Fox News (Jan 9, 2026): [Report](https://www.foxnews.com/us/renee-nicole-good-part-ice-watch-group-dhs-sources-say)
 5. New York Times (Feb 7, 2026): [Prosecutors Began Investigating Renee Good's Killing. Washington Told Them to Stop.](https://www.nytimes.com/2026/02/07/us/renee-good-investigation-minnesota-trump.html)
 6. NPR (Feb 5, 2026): [More frustrated prosecutors at the U.S. Attorney's Office in Minnesota call it quits](https://www.npr.org/2026/02/05/nx-s1-5702356/more-frustrated-prosecutors-at-the-u-s-attorneys-office-in-minnesota-call-it-quits)
 7. Star Tribune (Feb 5, 2026): [Another wave of departures in Minnesota's U.S. Attorney's office](https://www.startribune.com/another-wave-of-departures-in-minnesotas-us-attorneys-office/601575569)

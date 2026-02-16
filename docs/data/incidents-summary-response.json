@@ -1062,7 +1062,7 @@
       "city": "Minneapolis",
       "type": "response",
       "status": "under-investigation",
-      "affectedIndividualCitizenship": "us-citizen",
+      "affectedIndividualCitizenship": "n/a",
       "injuries": "fatal",
       "trustworthiness": "high",
       "created": "2026-01-14T12:35:56",
