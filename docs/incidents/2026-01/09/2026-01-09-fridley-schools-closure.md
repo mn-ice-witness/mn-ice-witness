@@ -19,8 +19,8 @@ search_tags: children, src:fox9, src:kare11, src:bring-me-the-news, src:other-lo
 Fridley Public Schools cancelled all classes on January 9, 2026, and again on January 16, 2026, due to ICE activity causing fear and disruption in the community. Superintendent Brenda Lewis cited a major spike in absences and staff availability issues as families made decisions to protect themselves. Approximately one-third of students were absent in the days leading up to the closures.
 
 ## Sources
-1. FOX 9 (Jan 9, 2026): [Fridley Public Schools canceled Friday due to ICE activity](https://www.fox9.com/news/fridley-public-schools-canceled-friday-due-ice-activity)
-2. KARE 11 (Jan 9, 2026): [More school districts canceling classes for Friday amid ICE activity](https://www.kare11.com/article/news/local/ice-in-minnesota/school-districts-canceling-classes-friday-safety-concerns-ice/89-0f4a4158-ae38-4f97-aed2-ed23ef0e8c80)
+1. FOX 9 (Jan 8, 2026): [Fridley Public Schools canceled Friday due to ICE activity](https://www.fox9.com/news/fridley-public-schools-canceled-friday-due-ice-activity)
+2. KARE 11 (Jan 8, 2026): [More school districts canceling classes for Friday amid ICE activity](https://www.kare11.com/article/news/local/ice-in-minnesota/school-districts-canceling-classes-friday-safety-concerns-ice/89-0f4a4158-ae38-4f97-aed2-ed23ef0e8c80)
 3. Bring Me The News (Jan 9, 2026): [Two more Twin Cities school districts close over ICE concerns](https://bringmethenews.com/minnesota-news/two-more-twin-cities-school-districts-close-over-ice-concerns)
 4. Hometown Source (Jan 12, 2026): [Fridley, Columbia Heights Schools classes back in person](https://www.hometownsource.com/abc_newspapers/abc_newspapers/fridley-columbia-heights-schools-classes-back-in-person/article_fc9c2cd8-8ce7-4fa9-ab63-f71ae1d8af29.html)
 
