@@ -19,11 +19,11 @@ search_tags: us-citizen, citizen-check, src:intercept, src:mpr, src:other-nation
 Ahmed Bin Hassan, 38, Somali American U.S. citizen and Uber driver, was confronted by over a dozen masked ICE/CBP agents at the airport. An agent stated: "I can hear you don't have the same accent as me." Hassan refused to show ID and challenged their authority.
 
 ## Sources
-1. The Intercept (Jan 9, 2026): [Somali American Uber driver confronted by over a dozen masked agents at Minneapolis airport](https://theintercept.com/2026/01/11/uber-minneapolis-border-patrol-somali-american/)
+1. The Intercept (Jan 11, 2026): [Somali American Uber driver confronted by over a dozen masked agents at Minneapolis airport](https://theintercept.com/2026/01/11/uber-minneapolis-border-patrol-somali-american/)
 2. MPR News (Jan 13, 2026): [Minnesotans describe their encounters with ICE, being detained](https://www.mprnews.org/episode/2026/01/13/minnesotans-describe-their-encounters-with-ice-agents)
 3. TikTok Video (Jan 8, 2026): [Uber driver confronts ICE agents at Minneapolis Airport](https://www.tiktok.com/@middleeasteye/video/7593006142062710038)
 4. Instagram Video (Jan 8, 2026): [Viral video of Somali-American uber driver in Minneapolis](https://www.instagram.com/reel/DTQY7mrgJO0/)
-5. Common Dreams (Jan 15, 2026): ['Where Were You Born?' ICE Conducting Show-Me-Your-Papers Stops in Minnesota](https://www.commondreams.org/news/ice-citizen-checks-minneapolis)
+5. Common Dreams (Jan 13, 2026): ['Where Were You Born?' ICE Conducting Show-Me-Your-Papers Stops in Minnesota](https://www.commondreams.org/news/ice-citizen-checks-minneapolis)
 
 ## Affected Individual(s)
 - **Name:** Ahmed Bin Hassan
