@@ -19,7 +19,7 @@ search_tags: excessive-force, children, family-separation, warrantless-entry, ve
 - **Nov 24** - [MPR News reports](https://www.mprnews.org/story/2025/11/24/adan-nunez-gonzalez-northfield-man-arrested-by-ice-to-be-deported-to-mexico) Núñez Gonzalez denied asylum and will be deported to Mexico.
 
 ## Summary
-Adán Núñez Gonzalez, a Northfield house painter and father of four who had lived in the community for over a decade, was forcibly arrested by ICE agents who boxed in his vehicle with four unmarked SUVs, broke his car window, and extracted him at gunpoint without showing a warrant. His 15-year-old son witnessed the arrest and recorded video, heard saying "Hey, put the gun down, that's my dad." One agent was photographed wearing a patch reading "deplorable" — an ICE spokesperson called this "deplorable" and said the agency would investigate. Over 200 community members attended a vigil in his support. Núñez Gonzalez was subsequently denied asylum and deported to Mexico.
+Adán Núñez Gonzalez, a Northfield house painter and father of four who had lived in the community for over a decade, was forcibly arrested by ICE agents who boxed in his vehicle with four unmarked SUVs, broke his car window, and extracted him at gunpoint without showing a warrant. His 15-year-old son witnessed the arrest and recorded video, heard saying "Hey, put the gun down, that's my dad." One agent was photographed wearing a patch reading "deplorable" — a senior ICE spokesperson said she did not know what it was and the agency would investigate. Over 200 community members attended a vigil in his support. Núñez Gonzalez was subsequently denied asylum and deported to Mexico.
 
 ## Sources
 1. Sahan Journal (Nov 2025): [ICE forcibly arrests house painter in Northfield, Minnesota](https://sahanjournal.com/immigration/northfield-minnesota-job-site-immigration-arrest/)
@@ -38,7 +38,7 @@ Adán Núñez Gonzalez, a Northfield house painter and father of four who had li
 - His 15-year-old son witnessed the arrest and recorded video
 - In the video, the son can be heard saying: "Hey, put the gun down, that's my dad"
 - One agent was photographed wearing a patch reading "deplorable"
-- ICE spokesperson said the patch was "deplorable" and the agency would investigate
+- A senior ICE spokesperson said she did not know what the "deplorable" patch was, speculated it might be a unit mascot, and said the agency would investigate
 - Northfield Police were not notified and did not participate
 - Núñez Gonzalez was held at Kandiyohi County Jail, about 2.5 hours from Northfield
 
@@ -46,9 +46,9 @@ Adán Núñez Gonzalez, a Northfield house painter and father of four who had li
 Adán Núñez Gonzalez, father of four, had lived in Northfield for over a decade working as a house painter. He was undocumented but had no criminal record in Minnesota.
 
 ## Official Response
-- **Mayor Erica Zweifel**: Said the arrest "traumatized the community" and "left a family without their father or husband"
+- **Mayor Erica Zweifel**: Said the arrest "traumatized the community" and "left a family without their husband and father"
 - **Rep. Angie Craig**: Sent letter to DHS expressing concern about the arrest tactics
-- **ICE**: Said he was arrested as part of "an intelligence-based operation" and had an active warrant; spokesperson called the "deplorable" patch "deplorable" and promised investigation
+- **ICE**: Said he was arrested as part of "an intelligence-based operation" and had an active warrant; senior spokesperson said she did not know what the "deplorable" patch was and the agency would investigate
 
 ## Community Response
 Over 200 people attended a vigil in downtown Northfield in solidarity with Núñez Gonzalez. The event was attended by residents, organizers, activists, faith leaders, and local officials including Mayor Zweifel.
