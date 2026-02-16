@@ -3,21 +3,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 juan-carlos-brutality
 aliya-rahman-car-window-hospitalized
 speedway-st-paul
@@ -29,6 +14,7 @@ brooklyn-park-officer-citizen-check
 observer-shoved-into-traffic
 teenager-tackled-snow
 mankato-women-sprayed
+observers-one-warning-abductions
 liam-ramos-detained
 silva-sosa-inver-grove-heights
 two-year-old-parents-detained-dopa
@@ -41,6 +27,7 @@ tipan-toddler-father-detained
 st-peter-police-chief-intervenes
 missing-5th-grader-dilley
 jose-ramirez-native-american
+john-abernathy-photographer-detained
 emmanuel-sackie-brooklyn-park
 amundson-zemien-seizure-first-responders
 william-vermie-veteran-detained
@@ -49,7 +36,7 @@ ice-facial-recognition-surveillance-program
 noem-pepper-spray-denial-backtrack
 saly-hmong-citizen-shirtless
 bovino-vilify-law-enforcement
-oglala-sioux-still-detained
+nadine-ice-car-rammed-citizens
 50k-march
 nimco-omar-citizen-check
 alberto-castaneda-mondragon-head-injury
@@ -59,6 +46,7 @@ circle-pines-restaurant-worker
 ryan-ecklund-filming-detained
 renee-good-shooting
 christian-salamanca-ice-chase-crash
+katie-henly-home-photographed
 doctor-blocked-renee-good
 jesse-ventura-roosevelt
 jana-shortal-journalist-pepper-sprayed
@@ -148,17 +136,13 @@ fridley-schools-closure
 francis-burger-joint-manager
 pastor-callaghan-detained
 walz-days-not-months-drawdown
-observers-one-warning-abductions
 ninas-coffee-ice-pursuit-crash
 homan-operation-metro-surge-conclusion
-nadine-ice-car-rammed-citizens
 dhs-data-14-percent-violent-criminal-records
 outstate-cities-ice-ordinances
-katie-henly-home-photographed
 wilmer-andrade-work-permit-targeted
 yulexi-loor-tacuri-detained
 sheriff-witt-denies-ice-deal
 minneapolis-203m-economic-impact
 ta-eh-doh-lah-refugee-detained
 minnesota-sues-to-halt-operation
-john-abernathy-photographer-detained
