@@ -2302,13 +2302,18 @@
         "src:sahan-journal",
         "src:other-national"
       ],
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
+      "hasLocalMedia": true,
+      "localMediaType": "image",
+      "localMediaPath": "media/2026-01/06/2026-01-06-gonzalo-torres-burnsville.jpg",
       "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
+      "localMediaFiles": [
+        {
+          "type": "image",
+          "path": "media/2026-01/06/2026-01-06-gonzalo-torres-burnsville.jpg"
+        }
+      ],
+      "aspectRatio": 1.3215859030837005,
+      "mediaVersion": 1771278091
     },
     {
       "filePath": "incidents/2026-01/06/2026-01-06-bloomington-wilderness-inquiry.md",

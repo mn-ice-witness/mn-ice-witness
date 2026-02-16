@@ -10,7 +10,7 @@ injuries: minor
 trustworthiness: high
 created: 2026-01-14T08:01:12
 last_updated: 2026-01-14T08:01:12
-search_tags: us-citizen, children, excessive-force, chemical-agents, src:star-tribune, src:mpr, src:kare11, src:wcco, src:kstp, src:sahan-journal, src:nbc, src:other-national, src:mn-reformer
+search_tags: us-citizen, children, excessive-force, chemical-agents, vehicle-pursuit, src:star-tribune, src:mpr, src:kare11, src:wcco, src:kstp, src:sahan-journal, src:nbc, src:other-national, src:mn-reformer
 ---
 
 # Border Patrol Agents at Roosevelt High School, Staffer Detained
@@ -19,19 +19,18 @@ search_tags: us-citizen, children, excessive-force, chemical-agents, src:star-tr
 Federal agents descended on Roosevelt High School during dismissal, tackled several people, and deployed chemical irritants. A special education assistant who is a U.S. citizen was detained and later released. Minneapolis Public Schools canceled classes for the rest of the week.
 
 ## Sources
-1. Common Dreams Video (Jan 8, 2026): [Shocking footage of school raid](https://www.commondreams.org/news/border-patrol-minneapolis-school)
-2. KSTP Video (Jan 8, 2026): [KARE 11 footage of scuffle](https://kstp.com/kstp-news/top-news/apparent-ice-presence-at-roosevelt-high-school-causes-chaotic-scene/)
-3. CBS Minnesota Video (Jan 8, 2026): [CBS Minnesota coverage](https://www.cbsnews.com/minnesota/news/roosevelt-high-school-federal-clash-mps-cancels-classes/)
-4. MPR News Video (Jan 8, 2026): [Daniel's footage](https://www.mprnews.org/story/2026/01/08/after-border-patrol-clash-at-roosevelt-minneapolis-schools-cancel-classes)
-5. NBC News Video (Jan 8, 2026): [Residents cursing at Border Patrol](https://www.nbcnews.com/news/us-news/minneapolis-schools-cancel-classes-ice-raid-high-school-day-renee-nico-rcna253081)
+1. Common Dreams (Jan 8, 2026): [Shocking footage of school raid](https://www.commondreams.org/news/border-patrol-minneapolis-school)
+2. KSTP (Jan 7, 2026): [Apparent ICE presence at Roosevelt High School causes chaotic scene](https://kstp.com/kstp-news/top-news/apparent-ice-presence-at-roosevelt-high-school-causes-chaotic-scene/)
+3. CBS Minnesota (Jan 8, 2026): [Feds descend on Roosevelt High School](https://www.cbsnews.com/minnesota/news/roosevelt-high-school-federal-clash-mps-cancels-classes/)
+4. MPR News (Jan 8, 2026): [Minneapolis schools cancel classes after Border Patrol clash](https://www.mprnews.org/story/2026/01/08/after-border-patrol-clash-at-roosevelt-minneapolis-schools-cancel-classes)
+5. NBC News (Jan 8, 2026): [Minneapolis schools cancel classes after ICE raid at high school](https://www.nbcnews.com/news/us-news/minneapolis-schools-cancel-classes-ice-raid-high-school-day-renee-nico-rcna253081)
 6. Reddit Video (Jan 8, 2026): [Roosevelt High School official speaks](https://www.reddit.com/r/altmpls/comments/1q741a1/an_official_from_roosevelt_high_school_in/)
 7. YouTube Video (Jan 8, 2026): [Roosevelt incident footage](https://www.youtube.com/watch?v=CwhoLYREvYw)
 8. YouTube Video (Jan 8, 2026): [Roosevelt incident footage](https://www.youtube.com/shorts/v17loDNkAnQ)
 9. Star Tribune (Jan 8, 2026): [What happened at Roosevelt High School](https://www.startribune.com/what-happened-when-border-patrol-agents-showed-up-at-minneapolis-roosevelt-high-school/601561137)
 10. Sahan Journal (Jan 8, 2026): [Border Patrol detains Roosevelt High staffer](https://sahanjournal.com/education/border-patrol-detains-minneapolis-roosevelt-high-staffer/)
 11. KARE 11 (Jan 8, 2026): [Witnesses say agents arrest staff, tear gas students](https://www.kare11.com/article/news/local/ice-agents-flood-into-roosevelt-high-school-in-minneapolis/89-e0d004b0-bb3d-41b7-949c-e4867f97f7c9)
-12. CBS Minnesota (Jan 8, 2026): [Feds descend on Roosevelt High School](https://www.cbsnews.com/minnesota/news/roosevelt-high-school-federal-clash-mps-cancels-classes/)
-13. Minnesota Reformer (Jan 8, 2026): [Minneapolis schools cancel class following ICE shooting, separate confrontation on campus](https://minnesotareformer.com/2026/01/08/minneapolis-schools-cancel-class-following-ice-shooting/)
+12. Minnesota Reformer (Jan 8, 2026): [Minneapolis schools cancel class following ICE shooting, separate confrontation on campus](https://minnesotareformer.com/2026/01/08/minneapolis-schools-cancel-class-following-ice-shooting/)
 
 ## Affected Individual(s)
 - **Name:** Not publicly disclosed
@@ -58,7 +57,7 @@ Claimed staffer "identified himself as a teacher" and "proceeded to assault a bo
 ### Local Officials
 - **Minneapolis Public Schools:** Canceled classes Jan 8-9 "out of an abundance of caution."
 - **Governor Walz:** Told ICE to "stay away" from Minnesota schools.
-- **Minneapolis Federation of Educators:** Stated tear gas was used.
+- **Minneapolis Federation of Teachers:** Stated tear gas was used.
 
 ## Witness Accounts
 - Witness Cara Morrow saw agents tackle people on school grounds.
