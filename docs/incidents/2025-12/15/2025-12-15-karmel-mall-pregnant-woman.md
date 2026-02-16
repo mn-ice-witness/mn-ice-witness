@@ -45,7 +45,7 @@ ICE agents detained at least four people near Karmel Mall, the nation's first So
 ### Abdisalan Abdi (Money Transfer Business Owner)
 Watched the pregnant woman as she sat down to prevent herself from falling or slipping. Officers grabbed her by the arms and dragged her through the snow.
 
-### Tonika Deutch (Observer)
+### Tonika Deutch (Observer; "Taneka Dortch" in Minnesota Reformer)
 > "We kept yelling, 'She is pregnant, she's pregnant.' They put their knees on her. We kept telling them, 'She can't breathe, let her up...'"
 
 Deutch, who said she was present throughout the encounter, stated the woman had been protesting the ICE operation with activists when agents confronted her. "They chased her down and then they threw her down at the end of the block."
