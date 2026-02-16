@@ -2029,7 +2029,7 @@
       "city": "Minneapolis",
       "type": "observers",
       "status": "resolved",
-      "affectedIndividualCitizenship": "us-citizen",
+      "affectedIndividualCitizenship": "unknown",
       "injuries": "none",
       "trustworthiness": "high",
       "created": "2026-01-17T23:35:39",

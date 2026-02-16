@@ -5,7 +5,7 @@ location: 34th Street, Powderhorn Park area
 city: Minneapolis
 type: observers
 status: resolved
-affected_individual_citizenship: us-citizen
+affected_individual_citizenship: unknown
 injuries: none
 trustworthiness: high
 created: 2026-01-17T23:35:39
@@ -22,7 +22,7 @@ search_tags: us-citizen, observer-intimidated, shooting, src:mpr, src:star-tribu
 After ICE agent Jonathan Ross shot Renee Good, a bystander who identified himself as a physician attempted to provide medical assistance. ICE agents refused to let him near the affected individual. When the bystander said "I'm a physician," an agent replied "I don't care." Agents claimed they had their own medics on the way, but witness Emily Heller reported it was at least 15 minutes before an ambulance arrived. ICE vehicles abandoned at the scene blocked the ambulance's access.
 
 ## Sources
-1. The Hill (Jan 15, 2026): ['Can I check a pulse?': Video shows ICE preventing doctor from tending to Minneapolis shooting victim](https://thehill.com/homenews/state-watch/5679332-video-ice-minneapolis-shooting-renee-nicole-good/)
+1. The Hill (Jan 8, 2026): ['Can I check a pulse?': Video shows ICE preventing doctor from tending to Minneapolis shooting victim](https://thehill.com/homenews/state-watch/5679332-video-ice-minneapolis-shooting-renee-nicole-good/)
 2. Wikipedia (Jan 15, 2026): [Killing of Renee Good](https://en.wikipedia.org/wiki/Killing_of_Renee_Good)
 3. WION News (Jan 15, 2026): ["You killed my fu**ing neighbour": Medic begs to help Renee Good, ICE officer tells him "I don't care"](https://www.wionews.com/trending/-you-killed-my-fu-ing-neighbour-medic-begs-to-help-renee-good-ice-officers-tells-him-i-don-t-care-disturbing-video-emerges-1767857999720)
 4. HuffPost (Jan 15, 2026): [A Doctor Was Blocked From Helping An ICE Shooting Victim — Is That Even Allowed?](https://www.huffpost.com/entry/a-doctor-was-blocked-from-helping-an-ice-shooting-victim-is-that-even-allowed-goog_l_6969313ae4b00edae2a4036f)
@@ -33,7 +33,7 @@ After ICE agent Jonathan Ross shot Renee Good, a bystander who identified himsel
 9. Threads (Jan 15, 2026): [Post about doctor blocked from helping Renee Good](https://www.threads.com/@aaronparnas/post/DTwVrTvkoXQ)
 10. CNN (Jan 16, 2026): [911 transcripts and incident report reveal where Minneapolis mother was shot](https://www.cnn.com/2026/01/16/us/renee-good-shooting-incident-report)
 11. APM Reports (Jan 17, 2026): [ICE agents didn't use CPR after Jonathan Ross shot Renee Macklin Good](https://www.apmreports.org/story/2026/01/17/ice-agents-didnt-use-cpr-after-jonathan-ross-shot-renee-macklin-good-in-minneapolis)
-12. KARE 11 (Jan 15, 2026): [Man claiming to be physician denied ability to check on Renee Good after shooting](https://www.kare11.com/article/news/local/ice-in-minnesota/watch-man-claiming-to-be-physician-denied-ability-to-check-on-renee-good-shooting/89-47b9c154-b278-49dd-9560-33cc1a8ae751)
+12. KARE 11 (Jan 8, 2026): [Man claiming to be physician denied ability to check on Renee Good after shooting](https://www.kare11.com/article/news/local/ice-in-minnesota/watch-man-claiming-to-be-physician-denied-ability-to-check-on-renee-good-shooting/89-47b9c154-b278-49dd-9560-33cc1a8ae751)
 13. IBTimes (Jan 15, 2026): [Renee Good Was Still Alive When ICE Blocked Aid With an 'I Don't Care' Response](https://www.ibtimes.com/renee-good-was-still-alive-when-ice-blocked-aid-i-dont-care-response-3795730)
 14. WBAL TV (Jan 15, 2026): [911 transcripts, incident report details fatal ICE shooting of Renee Good](https://www.wbaltv.com/article/minneapolis-ice-shooting-renee-good/70020427)
 15. Facebook Video (Jan 7, 2026): [ICE blocks doctor from helping Renee Good](https://www.facebook.com/reel/1613959399783824)
