@@ -71,7 +71,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/29/2026-01-29-columbia-heights-jessica-father-detained.md | 2026-01-29 | Columbia Heights | immigrants | Woman Grabbed While Warming Car; Father Detained as "Original Target"
 - incidents/2026-01/28/2026-01-28-thao-xiong-hallie-brown-food-shelf.md | 2026-01-28 | St. Paul | immigrants | Food Shelf Volunteer Thao Xiong Detained at Hallie Q. Brown Community Center
 - incidents/2026-01/28/2026-01-28-preschool-tear-gas.md | 2026-01-28 | Minneapolis | schools-hospitals | ICE Agents Deploy Tear Gas Outside Minneapolis Preschool
-- incidents/2026-01/28/2026-01-28-suburban-observers-pursued-highway.md | 2026-01-28 | Minneapolis suburbs | observers | ICE Observers Pursued in 20-Minute Highway Chase in Northern Suburbs
+- incidents/2026-01/27/2026-01-27-suburban-observers-pursued-highway.md | 2026-01-27 | Minneapolis suburbs | observers | ICE Observers Pursued in 20-Minute Highway Chase in Northern Suburbs
 - incidents/2026-01/27/2026-01-27-luis-martinez-facial-recognition.md | 2026-01-27 | Minneapolis | citizens | U.S. Citizen Luis Martinez Subjected to Facial Recognition Scan
 - incidents/2026-01/27/2026-01-27-raise-voice-erase-voice.md | 2026-01-27 | Minneapolis | observers | ICE Agent Tells Legal Observer "You Raise Your Voice, I Erase Your Voice"
 - incidents/2026-01/27/2026-01-27-homan-draw-down-minneapolis.md | 2026-01-27 | Minneapolis | response | Homan Takes Command, Begins Operation Metro Surge Draw Down

@@ -340,11 +340,11 @@
       "mediaVersion": null
     },
     {
-      "filePath": "incidents/2026-01/28/2026-01-28-suburban-observers-pursued-highway.md",
+      "filePath": "incidents/2026-01/27/2026-01-27-suburban-observers-pursued-highway.md",
       "title": "ICE Observers Pursued in 20-Minute Highway Chase in Northern Suburbs",
-      "summary": "ICE observers in the northern suburbs of Minneapolis were pursued for more than 20 minutes by at least four federal SUVs on January 28, 2026. Agents rode the observers' bumpers, brake-checked them on suburban streets, and blocked both lanes of a four-lane highway before masked agents in tactical gear exited their vehicles. The observers fled, fearing for their lives. Video shared with MPR News confirms the account.",
+      "summary": "ICE observers in the northern suburbs of Minneapolis were pursued for more than 20 minutes by at least four federal SUVs on January 27, 2026. Agents rode the observers' bumpers, brake-checked them on suburban streets, and blocked both lanes of a four-lane highway before masked agents in tactical gear exited their vehicles. The observers fled, fearing for their lives. Video shared with MPR News confirms the account.",
       "latestUpdate": null,
-      "date": "2026-01-28",
+      "date": "2026-01-27",
       "time": "unknown",
       "location": "Northern suburbs of Minneapolis, four-lane highway",
       "city": "Minneapolis suburbs",
@@ -363,18 +363,13 @@
         "vehicle-pursuit",
         "src:mpr"
       ],
-      "hasLocalMedia": true,
-      "localMediaType": "image",
-      "localMediaPath": "media/2026-01/28/2026-01-28-suburban-observers-pursued-highway.jpg",
+      "hasLocalMedia": false,
+      "localMediaType": null,
+      "localMediaPath": null,
       "localMediaOgPath": null,
-      "localMediaFiles": [
-        {
-          "type": "image",
-          "path": "media/2026-01/28/2026-01-28-suburban-observers-pursued-highway.jpg"
-        }
-      ],
-      "aspectRatio": 1.2725344644750796,
-      "mediaVersion": 1770254447
+      "localMediaFiles": [],
+      "aspectRatio": null,
+      "mediaVersion": null
     },
     {
       "filePath": "incidents/2026-01/27/2026-01-27-raise-voice-erase-voice.md",

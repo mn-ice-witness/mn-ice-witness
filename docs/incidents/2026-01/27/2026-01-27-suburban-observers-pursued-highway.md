@@ -1,5 +1,5 @@
 ---
-date: 2026-01-28
+date: 2026-01-27
 time: unknown
 location: Northern suburbs of Minneapolis, four-lane highway
 city: Minneapolis suburbs
@@ -16,7 +16,7 @@ search_tags: us-citizen, observer-intimidated, vehicle-pursuit, src:mpr
 # ICE Observers Pursued in 20-Minute Highway Chase in Northern Suburbs
 
 ## Summary
-ICE observers in the northern suburbs of Minneapolis were pursued for more than 20 minutes by at least four federal SUVs on January 28, 2026. Agents rode the observers' bumpers, brake-checked them on suburban streets, and blocked both lanes of a four-lane highway before masked agents in tactical gear exited their vehicles. The observers fled, fearing for their lives. Video shared with MPR News confirms the account.
+ICE observers in the northern suburbs of Minneapolis were pursued for more than 20 minutes by at least four federal SUVs on January 27, 2026. Agents rode the observers' bumpers, brake-checked them on suburban streets, and blocked both lanes of a four-lane highway before masked agents in tactical gear exited their vehicles. The observers fled, fearing for their lives. Video shared with MPR News confirms the account.
 
 ## Sources
 1. MPR News (Feb 4, 2026): [Pursued by federal agents, suburban ICE observers remain resolved](https://www.mprnews.org/story/2026/02/04/pursued-by-federal-agents-suburban-ice-observers-remain-resolved)

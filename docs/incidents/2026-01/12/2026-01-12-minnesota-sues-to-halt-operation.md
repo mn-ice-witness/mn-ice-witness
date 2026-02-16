@@ -39,6 +39,4 @@ Minnesota Attorney General Keith Ellison, Minneapolis Mayor Jacob Frey, and St. 
 
 ## Key Quotes
 - AG Ellison: "The unlawful deployment of thousands of armed, masked, and poorly trained federal agents is hurting Minnesota."
-- AG Ellison: "What justifies this disproportionate flood? Nothing legitimate."
-- Mayor Frey: "When federal actions undermine public safety, harm our neighbors, and violate constitutional rights, we have a responsibility to act."
 - Mayor Her: "They're targeting us based on what we look and sound like. Our residents are scared."
