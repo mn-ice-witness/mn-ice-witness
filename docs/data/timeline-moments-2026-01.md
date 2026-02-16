@@ -93,7 +93,7 @@ title: Parents Detained Days After Green Card Approval
 incident: 2026-01-12-silva-sosa-inver-grove-heights
 source:
 ---
-A window into Operation PARRIS, a parallel enforcement program targeting ~5,600 green card applicants in Minnesota. The Silva Sosa parents — in the U.S. since 1999 — are detained five days after their I-130 petition is approved and flown to El Paso. PARRIS swept up lawfully present refugees — including [four torture survivors with pending asylum cases](/entry/2026-01-22-torture-survivors-asylum-detained) — and shipped them to Texas. Over 100 refugees with legal status were detained before a judge issued a restraining order on January 29.
+The Silva Sosa parents — in the U.S. since 1999, running an office cleaning business — are detained on their way to work in Inver Grove Heights five days after their I-130 family petition is approved, and flown to El Paso. Their case illustrated a broader pattern: ICE was sweeping up immigrants actively working through the legal system, from undocumented families with approved petitions to [torture survivors with pending asylum cases and valid work permits](/entry/2026-01-22-torture-survivors-asylum-detained) to lawfully present refugees targeted under a parallel DHS program, [Operation PARRIS](/entry/2026-01-17-nadya-moldovan-refugee). For a list of all immigrant detention incidents, see [list/immigrants](/list/immigrants).
 
 ---
 date: 2026-01-13

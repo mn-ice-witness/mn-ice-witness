@@ -53,6 +53,5 @@ At the end of the Summary text, add:
 ## Related Incidents
 
 Examples of incidents on this site that fit this pattern:
-- Silva Sosa parents detained 5 days after I-130 approval (`2026-01-12-silva-sosa-inver-grove-heights`)
 - Willmar high school student with legal refugee status arrested (`2026-01-13-willmar-student-arrested`)
 - Moldovan refugee Nadya detained while driving to church (`2026-01-17-nadya-moldovan-refugee`)

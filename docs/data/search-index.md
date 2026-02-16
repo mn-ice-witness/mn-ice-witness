@@ -526,11 +526,12 @@ Previously published but retracted due to contradicting information. See inciden
 
 ---
 
-## CORRECTIONS (1 incidents)
+## CORRECTIONS (2 incidents)
 
 Published with significant factual errors that have been corrected. Visible at /corrections.
 
 - incidents/2026-01/21/2026-01-21-bovino-smoke-canister-playground.md | 2026-01-21 | Minneapolis | schools-hospitals | Border Patrol Commander Greg Bovino Deploys Smoke Canister Near School at Dismissal
+- incidents/2026-01/12/2026-01-12-silva-sosa-inver-grove-heights.md | 2026-01-12 | Inver Grove Heights | immigrants | Silva Sosa Parents Detained Days After I-130 Approval
 
 ---
 
