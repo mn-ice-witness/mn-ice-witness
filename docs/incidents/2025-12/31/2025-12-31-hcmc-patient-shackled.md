@@ -19,7 +19,7 @@ search_tags: warrantless-entry, excessive-force, src:wcco, src:fox9, src:sahan-j
 ICE agents entered Hennepin County Medical Center's emergency department without a judicial warrant and remained at a patient's bedside for approximately 28 hours. The patient was handcuffed and shackled to their bed despite medical staff objections. Agents were eventually removed after county commissioners and hospital leadership intervened.
 
 ## Sources
-1. CBS News (Jan 6, 2026): [ICE entered Minneapolis hospital without warrant, handcuffed patient to bed](https://www.cbsnews.com/minnesota/news/hcmc-hennepin-healthcare-ice-patient-handcuffed/)
+1. CBS Minnesota (Jan 6, 2026): [ICE entered Minneapolis hospital without warrant, handcuffed patient to bed](https://www.cbsnews.com/minnesota/news/hcmc-hennepin-healthcare-ice-patient-handcuffed/)
 2. FOX 9 (Jan 6, 2026): [ICE agents shackled patient to bed at HCMC](https://www.fox9.com/news/ice-agents-shackled-patient-bed-hcmc-advocacy-group-says)
 3. Sahan Journal (Jan 7, 2026): [Advocates, health care workers demand change at HCMC](https://sahanjournal.com/immigration/hcmc-patient-arrested-immigration-agents-ice-unidos-mn/)
 4. Sahan Journal (Jan 14, 2026): [Health care workers push for changes as ICE causes fear at HCMC](https://sahanjournal.com/health/ice-agents-hospitals-hennepin-county-medical-center/)
@@ -58,7 +58,7 @@ ICE agents entered Hennepin County Medical Center's emergency department without
 ### Hennepin Healthcare Statement
 "We can confirm that any federal agents arriving with a patient presented appropriate identification, adhered to our established processes, and left after Security asked for documentation to support their continued presence."
 
-Later added: "In light of heightened public concern and evolving federal guidance around immigration enforcement in health care settings, we are reviewing and strengthening our procedures and policies."
+Later added: "In light of heightened public concern and evolving federal guidance around immigration enforcement in health care settings, we are reviewing and strengthening our procedures and policies to ensure they remain clear, consistent and aligned with our mission and values."
 
 ### County Officials
 - **Commissioner Angela Conley:** Called ICE presence "extraordinarily frustrating"
