@@ -25,7 +25,7 @@ Elizabeth Zuna Caisaguano, a 10-year-old fourth grader at Highland Elementary in
 
 ## Sources
 1. Guardian (Feb 4, 2026): [Minnesota girl, 10, released from ICE custody after a month in detention](https://www.theguardian.com/us-news/2026/feb/04/minnesota-ice-immigration-elizabeth-caisaguano)
-2. Sahan Journal (Feb 4, 2026): [Columbia Heights fourth-grader released after a month in ICE detention](https://sahanjournal.com/education/columbia-heights-fourth-grader-held-by-ice/)
+2. Sahan Journal (Feb 3, 2026): [Columbia Heights fourth-grader released after a month in ICE detention](https://sahanjournal.com/education/columbia-heights-fourth-grader-held-by-ice/)
 3. CBS News (Feb 4, 2026): [Feds releasing Elizabeth Zuna, 4th-grader from same school district as Liam Ramos](https://www.cbsnews.com/news/elizabeth-zuna-release-liam-ramos-same-school-district/)
 4. Star Tribune (Feb 4, 2026): [Two Columbia Heights elementary school students detained in Texas facility return to Minnesota](https://www.startribune.com/two-columbia-heights-elementary-school-students-detained-in-texas-facility-return-to-minnesota/601576912)
 5. KSTP (Feb 4, 2026): [Columbia Heights 11-year-old, mother return to Minnesota following nearly a month in Texas detention center](https://kstp.com/kstp-news/local-news/columbia-heights-11-year-old-mother-return-to-minnesota-following-nearly-a-month-in-texas-detention-center/)

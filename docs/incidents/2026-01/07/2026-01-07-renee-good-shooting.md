@@ -106,7 +106,7 @@ Witnesses reported Good had stopped in the middle of the street and motioned for
 ## The Shooter
 - **Name:** Jonathan Ross
 - **Agency:** ICE Fugitive Operations, Minneapolis
-- **Background:** Joined ICE 2015. Iraq veteran (Indiana National Guard). Border Patrol agent since 2007
+- **Background:** Joined ICE 2016. Iraq veteran (Indiana National Guard). Border Patrol agent 2007–2015
 - **Prior Incident:** June 17, 2025 - dragged 50 yards during arrest attempt in Bloomington
 
 ## Aftermath

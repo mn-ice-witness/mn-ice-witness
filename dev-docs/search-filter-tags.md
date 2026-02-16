@@ -72,6 +72,7 @@ All topic tags are **cross-cutting** — they apply across every main category (
 | `src:wapo` | Washington Post |
 | `src:npr` | NPR |
 | `src:intercept` | The Intercept |
+| `src:mother-jones` | Mother Jones |
 | `src:ap` | Associated Press |
 | `src:nbc` | NBC News |
 | `src:cbs` | CBS News (national) |
