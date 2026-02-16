@@ -56,7 +56,7 @@ ProPublica documented **over 170 cases** of U.S. citizens arrested by federal im
 | Jose Hermosillo | New Mexico | ~10 days | Has intellectual disability; released after family provided birth certificate |
 | Debbie Brockman | Chicago | Hours | TV station employee; released without charges |
 | Steve Held | Illinois | Hours | Journalist arrested at ICE protest; released without charges |
-| Juan Carlos Lopez Gomez | Georgia | Days | 20-year-old Georgia-born citizen; charges dismissed after mother presented documents |
+| Juan Carlos Lopez Gomez | Florida | Days | 20-year-old Georgia-born citizen; charges dismissed after mother presented documents |
 | Cary López Alvarado | California | Same day | Pregnant U.S. citizen detained during Hawthorne raid |
 | Leonardo Garcia Venegas | Alabama | ~1 hour | Handcuffed despite showing REAL ID driver's license |
 | Chicago apartment residents | Chicago | Overnight | Dozens of U.S. citizens detained in single raid (late September) |
