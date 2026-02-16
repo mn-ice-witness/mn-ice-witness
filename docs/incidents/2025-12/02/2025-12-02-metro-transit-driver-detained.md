@@ -21,7 +21,6 @@ A Somali-American Metro Transit bus operator was detained by ICE on December 2, 
 ## Sources
 1. Sahan Journal (Jan 14, 2026): [Metro Transit workers decry ICE activity at transit stops](https://sahanjournal.com/immigration/metro-transit-union-speaks-out-against-ice-surge/)
 2. Workday Magazine (Jan 14, 2026): [Metro Transit Workers Rally at Bus Stop Where ICE Abduction Took Place](https://workdaymagazine.org/metro-transit-workers-rally-at-bus-stop-where-ice-abduction-took-place-demand-ice-not-interfere-with-transit-operations/)
-3. ATU Local 1005 (Jan 14, 2026): [ATU Local 1005 Press Conference January 14, 2026](https://atu1005.com/)
 
 ## Affected Individual(s)
 - **Name:** Not disclosed (protected by union)

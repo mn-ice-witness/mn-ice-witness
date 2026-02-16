@@ -4,7 +4,7 @@ title: Operation Metro Surge Launched
 incident: 2025-12-01-operation-metro-surge-launched
 source:
 ---
-DHS announces what it calls the "largest immigration enforcement operation ever carried out," targeting the Minneapolis-St. Paul metropolitan area — the first time a single U.S. metro has been the focus of a dedicated federal immigration surge.
+DHS announces "Operation Metro Surge," deploying over 100 federal ICE agents to the Minneapolis-St. Paul metropolitan area — the first time a single U.S. metro has been the focus of a dedicated federal immigration surge. DHS calls targets the "worst of the worst"; local attorneys immediately dispute the characterization.
 
 ---
 date: 2025-12-09

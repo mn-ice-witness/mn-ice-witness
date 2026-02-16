@@ -16,7 +16,7 @@ search_tags: workplace-raid, chemical-agents, observer-intimidated, src:mpr, src
 # 14 Workers Detained in Major ICE Workplace Raid at Bro-Tex
 
 ## Summary
-Federal agents raided Bro-Tex Inc., a cleaning products manufacturer in St. Paul, detaining 14 workers in what organizers called the largest ICE workplace raid in Minnesota in 2025. Protesters who attempted to block agents' vehicles were pepper sprayed. Gov. Walz said the state received "no heads up" from federal authorities.
+Federal agents raided Bro-Tex Inc., a cleaning products manufacturer in St. Paul, detaining 14 workers in what organizers called the largest ICE workplace raid in Minnesota in 2025. Protesters who attempted to block agents' vehicles were pepper sprayed. Mayor Melvin Carter said the city was not informed of the operation ahead of time.
 
 ## Sources
 1. MPR News (Nov 21, 2025): [14 people detained in federal ICE raid at Bro-Tex in St. Paul](https://www.mprnews.org/story/2025/11/21/ice-detains-14-people-after-operation-at-bro-tex-in-st-paul)
@@ -24,10 +24,9 @@ Federal agents raided Bro-Tex Inc., a cleaning products manufacturer in St. Paul
 3. Pioneer Press (Nov 20, 2025): [St. Paul ICE raid: 14 arrested for immigration violations, agency says](https://www.twincities.com/2025/11/20/ice-14-arrested-st-paul-warehouse-bro-tex/)
 4. Minnesota Reformer (Nov 18, 2025): [Dozens of federal agents raid St. Paul business, sparking protest](https://minnesotareformer.com/2025/11/18/dozens-of-federal-agents-raid-st-paul-business-sparking-protest/)
 5. KSTP (Nov 18, 2025): [DHS: 14 people arrested in immigration raid on St. Paul business](https://kstp.com/kstp-news/top-news/dhs-14-people-arrested-in-immigration-raid-on-st-paul-business/)
-6. KSTP (Nov 2025): [How the Bro-Tex raid shook 2 families in St. Paul](https://kstp.com/kstp-news/top-news/how-the-brotex-raid-shook-2-families-in-st-paul/)
-7. KARE 11 (Nov 18, 2025): [Federal agents conduct operation in St. Paul](https://www.kare11.com/article/news/local/ice-agents-on-scene-in-st-paul/89-5f0f3821-5922-4a8f-9a30-0c71eaa9fc5b)
-8. KARE 11 (Nov 19, 2025): [Activists want answers after ICE raid on St. Paul business](https://www.kare11.com/article/news/local/activists-want-answers-after-ice-raid-on-st-paul-business/89-27bd081e-9a29-4b5e-ba0d-ec139086a934)
-9. Star Tribune (Nov 2025): [Federal agents, protesters on scene at St. Paul paper distributor](https://www.startribune.com/federal-agents-protesters-on-scene-at-st-paul-paper-distributor/601528436)
+6. KARE 11 (Nov 18, 2025): [Federal agents conduct operation in St. Paul](https://www.kare11.com/article/news/local/federal-agents-conduct-operation-in-st-paul/89-5f0f3821-5922-4a8f-9a30-0c71eaa9fc5b)
+7. KARE 11 (Nov 19, 2025): [Activists want answers after ICE raid on St. Paul business](https://www.kare11.com/article/news/local/activists-want-answers-after-ice-raid-on-st-paul-business/89-27bd081e-9a29-4b5e-ba0d-ec139086a934)
+8. Star Tribune (Nov 18, 2025): [Federal agents confronted by protesters during operation at St. Paul company](https://www.startribune.com/federal-agents-protesters-on-scene-at-st-paul-paper-distributor/601528436)
 
 ## Affected Individual(s)
 - **Number detained:** 14 workers
@@ -35,7 +34,7 @@ Federal agents raided Bro-Tex Inc., a cleaning products manufacturer in St. Paul
 - **Immigration status:** Detained for immigration violations
 
 ## What Happened
-Federal agents from ICE, FBI, and Homeland Security Investigations raided the Bro-Tex facility at 830 N. Hampden Ave. Workers were detained inside the facility.
+Federal agents from ICE, FBI, DEA, and Homeland Security Investigations raided the Bro-Tex facility at 830 N. Hampden Ave. Workers were detained inside the facility.
 
 As agents attempted to leave, protesters linked arms to block their vehicles. Agents responded by:
 - Shooting chemical irritants into the crowd
@@ -49,11 +48,13 @@ Ryan Perez, organizing director of Communities Organizing Latine Power and Actio
 ### ICE Statement
 ICE said they "conducted court authorized law enforcement activity and served a search warrant in furtherance of a federal criminal investigation."
 
-### Governor Tim Walz
-"Working to understand what unfolded. We received no heads up from federal authorities on this operation."
+### Mayor Melvin Carter
+"The St Paul Police Department will never, ever, ever participate in criminalizing someone's identity, or criminalizing somebody for who they are."
 
-### Mayor-elect Kaohly Her
-"Flooding our neighborhoods with ICE and other federal agents only heightens tensions on the ground, rather than calming it. We need clear, timely information from our federal agencies so that the panic doesn't take over and rumors don't spread."
+Carter said federal officials did not inform the city of the operation ahead of time and St. Paul police did not participate in the raid.
+
+### Mayor-elect Kaohly Vang Her
+"I want you all to know I am standing with you, not as somebody who is in government but as somebody who is in an impacted community who has watched people from my own community who are American citizens get detained by ICE for days until they can prove that they were American citizens."
 
 ## Community Response
 - About 100 neighbors, immigrant advocates, and elected officials gathered the next day for a vigil outside the facility.
@@ -64,4 +65,4 @@ ICE said they "conducted court authorized law enforcement activity and served a 
 This raid occurred approximately one month before "Operation Metro Surge" was announced, and demonstrated the scale of workplace enforcement that would intensify in December 2025.
 
 ## Editorial Assessment
-**HIGH** - Multiple local news sources including MPR News, Sahan Journal, Pioneer Press, and Minnesota Reformer. 14 confirmed detentions. Governor and Mayor-elect statements on record. Documentation of pepper spray use on protesters.
+**HIGH** - Multiple local news sources including MPR News, Sahan Journal, Pioneer Press, and Minnesota Reformer. 14 confirmed detentions. Mayor and Mayor-elect statements on record. Documentation of pepper spray use on protesters.

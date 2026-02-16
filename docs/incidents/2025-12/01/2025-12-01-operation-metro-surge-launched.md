@@ -16,7 +16,7 @@ search_tags: src:sahan-journal, src:fox9, src:star-tribune, src:mpr, src:wcco, s
 # DHS Launches Operation Metro Surge
 
 ## Summary
-The Department of Homeland Security announced "Operation Metro Surge," deploying over 100 federal ICE agents to the Minneapolis-St. Paul metropolitan area in what DHS called the beginning of the "largest immigration enforcement operation ever carried out" targeting a single U.S. metro. On the first day, DHS confirmed 12 arrests — five Somali nationals, six Mexican nationals, and one El Salvadoran — primarily in south Minneapolis and Richfield. The operation marked the first time a dedicated federal immigration surge targeted a single American city.
+The Department of Homeland Security announced "Operation Metro Surge," deploying over 100 federal ICE agents to the Minneapolis-St. Paul metropolitan area. DHS Assistant Secretary Tricia McLaughlin said ICE was arresting the "worst of the worst." On the first day, DHS confirmed 12 arrests — five Somali nationals, six Mexican nationals, and one El Salvadoran — primarily in south Minneapolis and Richfield. The operation marked the first time a dedicated federal immigration surge targeted a single American city. In January 2026, when DHS expanded the operation to 2,000 agents, ICE Acting Director Todd Lyons called it the "largest immigration operation ever."
 
 ## Sources
 1. DHS Press Release (Dec 4, 2025): [ICE Arrests Worst of the Worst Criminal Illegal Aliens During Operation Metro Surge](https://www.dhs.gov/news/2025/12/04/ice-arrests-worst-worst-criminal-illegal-aliens-during-operation-metro-surge)
@@ -39,7 +39,7 @@ The Department of Homeland Security announced "Operation Metro Surge," deploying
 - DHS described targets as immigrants with criminal records, including those convicted of sexual abuse, domestic violence, and gang activity
 - Local attorneys and immigrant advocates immediately disputed DHS's characterization that those arrested were "the worst of the worst"
 - More than a hundred people rallied outside the Target store on East Lake Street to protest ICE using its parking lot to stage operations
-- Reporting later revealed only about 5% of those arrested had violent criminal records
+- CATO Institute analysis of January 2026 arrest data later revealed only about 5% of those arrested had violent criminal records
 
 ## Context
-The operation launched amid Trump administration criticism of Minnesota's Somali community and ongoing federal fraud investigations. Saint Paul City Council member Molly Coleman described the first day as "unlike any other day we've experienced." The operation would escalate dramatically in January 2026, when DHS deployed 2,000 additional agents.
+The operation launched amid Trump administration criticism of Minnesota's Somali community and ongoing federal fraud investigations. The operation would escalate dramatically in January 2026, when DHS deployed 2,000 additional agents.
