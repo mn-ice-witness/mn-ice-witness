@@ -23,7 +23,7 @@ An ICE vehicle struck a protester in Minneapolis' Cedar-Riverside neighborhood d
 2. Washington Post Video (Dec 12, 2025): [ICE vehicle hits protester in Minneapolis](https://www.washingtonpost.com/video/national/ice-vehicle-hits-protester-in-minneapolis/2025/12/12/2f39945a-3425-4250-98af-6d78088ddef9_video.html)
 3. Yahoo News (Dec 2025): ['Haha! Wipe Out': Federal Agent Laughs as ICE Vehicle Hits Protester](https://www.yahoo.com/news/videos/haha-wipe-federal-agent-laughs-044716661.html)
 4. KSTP (Dec 9, 2025): [ICE in Minnesota: Agents pepper spray crowd in Cedar-Riverside](https://kstp.com/kstp-news/top-news/ice-in-minnesota-agents-pepper-spray-crowd-in-cedar-riverside/)
-5. FOX 9 (Dec 9, 2025): [ICE agents pepper spray crowd after allegedly detaining U.S. citizen Minneapolis](https://www.fox9.com/news/ice-agents-pepper-spray-crowd-after-allegedly-detaining-u-s-citizen-minneapolis)
+5. FOX 9 (Dec 10, 2025): [ICE agents pepper spray crowd after allegedly detaining U.S. citizen Minneapolis](https://www.fox9.com/news/ice-agents-pepper-spray-crowd-after-allegedly-detaining-u-s-citizen-minneapolis)
 6. Bring Me The News (Dec 9, 2025): [ICE arrests US citizen, clashes with protesters in Minneapolis' Cedar-Riverside neighborhood](https://bringmethenews.com/minnesota-news/ice-arrests-us-citizen-clashes-with-protesters-in-minneapolis-cedar-riverside-neighborhood)
 
 ## Related Incidents
@@ -50,7 +50,7 @@ An ICE vehicle struck a protester in Minneapolis' Cedar-Riverside neighborhood d
 > "Some agents were getting out of their cars, and trying to clear people with pepper spray, and then instead started to spray pepper spray out of car windows, into the crowd."
 
 **Khalid Mohamed (witness):**
-> Reported being "blind for about 30 minutes" after being sprayed.
+> "I lost my voice. I was blind for about 30 minutes."
 
 **Video evidence:**
 Jon Farina of Status Coup News captured footage showing:
