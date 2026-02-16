@@ -10,7 +10,7 @@ injuries: serious
 trustworthiness: high
 created: 2026-01-14T08:01:12
 last_updated: 2026-01-14T08:01:12
-search_tags: excessive-force, vehicle-pursuit, warrantless-entry, src:mn-reformer, src:cnn, src:other-national
+search_tags: excessive-force, vehicle-pursuit, warrantless-entry, observer-intimidated, src:mn-reformer, src:cnn, src:other-national
 ---
 
 # Border Patrol Agent Knees Man in Face While Pinned Down
@@ -21,14 +21,14 @@ search_tags: excessive-force, vehicle-pursuit, warrantless-entry, src:mn-reforme
 **What requires more reporting:** The victim's identity and legal status. He appears to say "Juan Carlos" in the video. A GoFundMe claims he is a legal U.S. resident; DHS claims he is a "criminal alien from Ecuador." Neither claim has been independently verified. Whether the aftermath photos show the same person as in the video also requires confirmation, though the photos appear authentic. See [Snopes fact check](https://www.snopes.com/news/2026/01/16/juan-carlos-ice-images/) for full details on the verification efforts.
 
 ## Summary
-A Border Patrol agent kneed a man in the face at least five times while other agents pinned him face-down on the pavement near 22nd & Chicago in south Minneapolis. The victim was hospitalized with difficulty breathing. On video, the man appears to say his name is "Juan Carlos."
+A Border Patrol agent kneed a man in the face at least five times while other agents pinned him face-down on the pavement near 24th & Chicago in south Minneapolis. The victim was hospitalized with difficulty breathing. On video, the man appears to say his name is "Juan Carlos."
 
 ## Sources
 1. Facebook Video (Jan 9, 2026): [Juan Carlos brutality footage](https://www.facebook.com/reel/1175869304712769)
 2. Facebook Video (Jan 10, 2026): [Josh Helfgott original viral post](https://www.facebook.com/joshhelfgott1/posts/pfbid032rBE8GN4tLDPHWkGRRX2atX1prMLtPYcJZvtcAxaKXwTFHNV113WdwNm1A8Hdr7gl)
 3. Threads (Jan 10, 2026): [Agent kneeing Juan Carlos](https://www.threads.com/@hereswhykevin/post/DTWJwHNiYw8)
 4. X Video (Jan 10, 2026): [Aftermath and injuries](https://x.com/cbarbermd/status/2010836926841176191)
-5. Minnesota Reformer (Jan 10, 2026): [U.S. Border Patrol agent knees man in face in Minneapolis as other agents hold him down](https://minnesotareformer.com/2026/01/12/u-s-border-patrol-knees-man-in-face-in-minneapolis-as-other-agents-hold-him-down/)
+5. Minnesota Reformer (Jan 12, 2026): [U.S. Border Patrol agent knees man in face in Minneapolis as other agents hold him down](https://minnesotareformer.com/2026/01/12/u-s-border-patrol-knees-man-in-face-in-minneapolis-as-other-agents-hold-him-down/)
 6. GoFundMe (Jan 10, 2026): [Support Juan Carlos After Assault and Hospitalization](https://www.gofundme.com/f/support-juan-carlos-after-assault-and-hospitalization)
 7. Yahoo News (Jan 10, 2026): [U.S. Border Patrol agent knees man in face](https://www.yahoo.com/news/articles/u-border-patrol-knees-man-231145132.html)
 8. Snopes Fact Check (Jan 16, 2026): [Investigation into the images of Juan Carlos](https://www.snopes.com/news/2026/01/16/juan-carlos-ice-images/)
@@ -51,7 +51,7 @@ A Border Patrol agent kneed a man in the face at least five times while other ag
 - **Assault** - One agent knees the victim in the face at least five times as he cries out in pain; agent appeared to stop only when he realized he was being filmed
 - **Transport** - Victim taken to Whipple Federal Building
 - **Hospitalization** - Transported to hospital due to difficulty breathing
-- **At hospital** - Held in shackles for two hours while agents intimidated hospital staff
+- **At hospital** - Held in handcuffs for two hours while agents intimidated hospital staff
 - **Later** - Agents left him at the hospital
 
 ## Witness Accounts

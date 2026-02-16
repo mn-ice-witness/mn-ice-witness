@@ -1773,7 +1773,7 @@
     {
       "filePath": "incidents/2026-01/09/2026-01-09-juan-carlos-brutality.md",
       "title": "Border Patrol Agent Knees Man in Face While Pinned Down",
-      "summary": "A Border Patrol agent kneed a man in the face at least five times while other agents pinned him face-down on the pavement near 22nd & Chicago in south Minneapolis. The victim was hospitalized with difficulty breathing. On video, the man appears to say his name is \"Juan Carlos.\"",
+      "summary": "A Border Patrol agent kneed a man in the face at least five times while other agents pinned him face-down on the pavement near 24th & Chicago in south Minneapolis. The victim was hospitalized with difficulty breathing. On video, the man appears to say his name is \"Juan Carlos.\"",
       "latestUpdate": null,
       "date": "2026-01-09",
       "time": "unknown",
@@ -1792,6 +1792,7 @@
         "excessive-force",
         "vehicle-pursuit",
         "warrantless-entry",
+        "observer-intimidated",
         "src:mn-reformer",
         "src:cnn",
         "src:other-national"

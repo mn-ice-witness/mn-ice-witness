@@ -52,7 +52,7 @@ title: Agent Knees Man in Face on Video
 incident: 2026-01-09-juan-carlos-brutality
 source:
 ---
-Video captures Border Patrol agents pinning a man down while one agent knees him in the face at least five times on pavement near 22nd & Chicago in south Minneapolis. The footage becomes widely shared.
+Video captures Border Patrol agents pinning a man down while one agent knees him in the face at least five times on pavement near 24th & Chicago in south Minneapolis. The footage becomes widely shared.
 
 ---
 date: 2026-01-09
