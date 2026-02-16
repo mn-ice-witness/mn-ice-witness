@@ -16,7 +16,7 @@ search_tags: us-citizen, observer-intimidated, chemical-agents, src:wcco, src:sa
 # U.S. Citizen Pepper-Sprayed by Federal Agent While Filming ICE Operations
 
 ## Summary
-Mubashir Khalif Hussen, a 20-year-old U.S. citizen and Somali American, was pepper-sprayed in the face by a federal agent while recording ICE operations from a public sidewalk on January 6, 2026. An agent inside a passing federal vehicle lowered the window and sprayed him directly as the car drove by. This is the second documented federal action against Hussen — he was previously [wrongfully tackled, choked, and detained](#2025-12-09-mubashir-wrongful-detention) by ICE on December 9, 2025. The January 6 incident is documented in the ACLU class action complaint Hussen v. Noem.
+Mubashir Khalif Hussen, a 20-year-old U.S. citizen and Somali American, was pepper-sprayed in the face by a federal agent while recording ICE operations from a public sidewalk on January 6, 2026. An agent inside a passing federal vehicle lowered the window and sprayed him directly as the car drove by. This is the second documented federal action against Hussen — he was previously [wrongfully tackled, choked, and detained](#2025-12-09-mubashir-wrongful-detention) by ICE on December 10, 2025. The January 6 incident is documented in the ACLU class action complaint Hussen v. Noem.
 
 ## Sources
 1. ACLU (Jan 15, 2026): [Hussen v. Noem Complaint](https://assets.aclu.org/live/uploads/2026/01/COMPLAINT-HUSSEN-v.-NOEM-1.pdf)
@@ -29,11 +29,11 @@ Mubashir Khalif Hussen, a 20-year-old U.S. citizen and Somali American, was pepp
 ## Affected Individual(s)
 - **Name:** Mubashir Khalif Hussen
 - **Age:** 20
-- **Citizenship:** U.S. Citizen (Somali American, lived in U.S. since age 1)
-- **Occupation:** Restaurant worker
+- **Citizenship:** U.S. Citizen (Somali American, arrived in U.S. from Ethiopia at age 6-7)
+- **Occupation:** Manager at a local mental health provider
 
 ## Timeline
-- **Jan 6** - Hussen walks on a public sidewalk near ICE officers and protesters. Despite his fear from the December 9 detention, he records the scene on his phone. A car with federal agents drives by; an agent lowers the window and pepper-sprays him directly in the face.
+- **Jan 6** - Hussen walks on a public sidewalk near ICE officers and protesters. Despite his fear from the December 10 detention, he records the scene on his phone. A car with federal agents drives by; an agent lowers the window and pepper-sprays him directly in the face.
 - **Jan 9** - ACLU files initial complaint in Hussen v. Noem (Case 26-cv-00324).
 - **Jan 15** - ACLU files expanded class action complaint documenting the January 6 pepper-spray incident.
 - **Jan 16** - Hussen provides written testimony at congressional field hearing hosted by Rep. Ilhan Omar.
@@ -44,14 +44,14 @@ From ACLU complaint:
 > Hussen "walked by ICE officers and protestors, and despite his fear, he recorded the scene on his phone from a public sidewalk. A car with federal agents drove by him, and as they passed him, an agent lowered the window and pepper-sprayed directly into Mr. [Hussen]."
 
 From congressional testimony:
-> "My US citizenship did not protect me from being physically detained and hurt by ICE agents."
+> "My citizenship did not protect me from being physically detained and hurt by ICE agents."
 
 ## Class Action Lawsuit
 
-Both the December 9 detention and the January 6 pepper-spray incident are documented in **Hussen v. Noem** (Case 0:26-cv-00324, D. Minn.), a class action filed by the ACLU, ACLU of Minnesota, Covington & Burling LLP, Greene Espel PLLP, and Robins Kaplan LLP on January 15, 2026. The suit challenges racial profiling and constitutional violations during Operation Metro Surge. Hussen is the lead named plaintiff alongside Mahamed Eydarus and Javier Doe. A federal judge issued a preliminary injunction ordering agents to stop pepper-spraying and retaliating against peaceful observers.
+Both the December 10 detention and the January 6 pepper-spray incident are documented in **Hussen v. Noem** (Case 0:26-cv-00324, D. Minn.), a class action filed by the ACLU, ACLU of Minnesota, Covington & Burling LLP, Greene Espel PLLP, and Robins Kaplan LLP on January 15, 2026. The suit challenges racial profiling and constitutional violations during Operation Metro Surge. Hussen is the lead named plaintiff alongside Mahamed Eydarus and Javier Doe. A federal judge issued a preliminary injunction ordering agents to stop pepper-spraying and retaliating against peaceful observers.
 
 ## Related Incidents
-- [U.S. Citizen Tackled, Detained by ICE During Lunch Break](#2025-12-09-mubashir-wrongful-detention) - First incident, December 9, 2025
+- [U.S. Citizen Tackled, Detained by ICE During Lunch Break](#2025-12-09-mubashir-wrongful-detention) - First incident, December 10, 2025
 
 ## Editorial Assessment
 **HIGH** - Documented in ACLU federal class action complaint (Hussen v. Noem), sworn declaration filed in federal court, congressional testimony. Covered by CBS Minnesota, NBC News, Sahan Journal. Named affected individual with consistent account across legal filings and news coverage.

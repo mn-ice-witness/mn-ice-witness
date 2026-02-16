@@ -45,12 +45,12 @@ Mubashir, a 20-year-old U.S. citizen and Somali American, was tackled, placed in
 ## Affected Individual(s)
 - **Name:** Mubashir (requested first name only)
 - **Age:** 20
-- **Occupation:** Restaurant worker
-- **Citizenship:** U.S. Citizen (lived in U.S. since age 1)
+- **Occupation:** Manager at a local mental health provider
+- **Citizenship:** U.S. Citizen (arrived in U.S. from Ethiopia at age 6-7)
 - **Background:** Somali American resident of Minneapolis, naturalized citizen
 
 ## Timeline
-- **Afternoon** - Mubashir steps outside restaurant during lunch break.
+- **Afternoon** - Mubashir steps outside his workplace during lunch break.
 - **Initial contact** - Sees unmarked black vehicle pull up; turns to go back inside.
 - **Chase** - Masked agent runs at him "at full speed."
 - **Assault** - Agent tackles him, slams him to ground, places him in chokehold.
