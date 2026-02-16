@@ -4,8 +4,8 @@ time: unknown
 location: DHS Press Release
 city: Minneapolis
 type: response
-status: ongoing
-affected_individual_citizenship: legal-resident
+status: resolved
+affected_individual_citizenship: n/a
 injuries: none
 trustworthiness: high
 created: 2026-01-14T13:25:50
@@ -29,12 +29,12 @@ See full incident details: [Addiction Recovery Leader Detained, Labeled "Gang Me
 ### DHS Press Release (December 4, 2025)
 DHS listed Abdulkadir Sharif Abdi first among 12 individuals arrested during Operation Metro Surge, describing him as:
 
-> "A former member of the Gangster Disciples and is a known current member of Vice Lord Nation" with convictions for fraud, receiving stolen property, and vehicle theft.
+> "...was a former member of the Gangster Disciples and is a known current member of Vice Lord Nation" with convictions for fraud, receiving stolen property, receiving a stolen vehicle, vehicle theft, and multiple probation violations.
 
 ### Assistant Secretary Tricia McLaughlin
-> "Sanctuary policies and politicians like Tim Walz and Minneapolis Mayor Jacob Frey allowed these pedophiles, domestic terrorists, and gang members to roam the streets."
+> "Sanctuary policies and politicians like Tim Walz and Minneapolis Mayor Jacob Frey allowed these pedophiles, domestic terrorists, and gang members to roam the streets and terrorize Americans."
 
-> "ICE law enforcement are risking their lives to protect Minnesotans."
+> "ICE law enforcement are risking their lives to protect Minnesotans while their own elected officials sit by and do nothing. No matter when and where, ICE will find, arrest, and deport ALL criminal illegal aliens."
 
 ## Fact Check
 
