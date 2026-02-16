@@ -4,7 +4,7 @@ time: unknown
 location: Washington, D.C.
 city: Minneapolis
 type: response
-status: ongoing
+status: resolved
 affected_individual_citizenship: n/a
 injuries: none
 trustworthiness: high
@@ -28,9 +28,9 @@ On January 8, 2026, DHS issued a press release claiming a 1,300% increase in ass
 
 DHS Assistant Secretary Tricia McLaughlin stated:
 
-> "This unprecedented increase in violence against law enforcement is a direct result of sanctuary politicians and the media creating an environment that demonizes our law enforcement."
+> "This unprecedented increase in violence against law enforcement is a direct result of sanctuary politicians and the media creating an environment that demonizes our law enforcement and encourages rampant assaults against them. Dangerous criminals — whether they be illegal aliens or U.S. citizens — are assaulting law enforcement and turning their vehicles into weapons to attack law enforcement."
 
-> "Sanctuary politicians with their rhetoric comparing ICE to the Nazi Gestapo, slave patrols, and the secret police and encouraging illegal aliens to evade arrest have incited violence against law enforcement."
+> "Still, the brave men and women of DHS will not be deterred and will continue arresting the worst of the worst criminal illegal aliens. Anyone who attacks law enforcement will be prosecuted to the fullest extent of the law."
 
 ### Claims Made
 - 275 assaults against ICE officers from Jan 20 - Dec 31, 2025, compared to 19 during the same period in 2024 (1,300% increase)
