@@ -79,7 +79,7 @@ This is not optional. Do not type `2026-01-22T12:00:00` or any other time from m
 - `docs/data/incidents-summary-background.json`
 
 **Search & SEO files:**
-- `docs/data/search-index.md` — LLM search index with CURRENT/NO-ADD/REMOVED/CORRECTIONS/NO-NEWS-MEDIA sections
+- `docs/data/search-index.md` — Search index with CURRENT/NO-ADD/REMOVED/CORRECTIONS/NO-NEWS-MEDIA sections
 - `docs/sitemap.xml` — XML sitemap with all incident URLs
 
 **Running data files** (new entries auto-appended):
@@ -330,7 +330,7 @@ GIT_MN_ICE_FILES/
     ├── media/           # Processed video/images (also uses YYYY-MM/DD structure)
     └── data/
         ├── incidents-summary-*.json  # 6 category files (AUTO-GENERATED)
-        ├── search-index.md           # LLM search index (AUTO-GENERATED)
+        ├── search-index.md           # Search index (AUTO-GENERATED)
         ├── media-order.md            # Gallery ordering (auto-appends new, manual reorder)
         ├── timeline-moments-*.md      # Curated timeline cards, per month (MANUALLY EDITED)
         ├── og-tweaks.md              # Custom OG image timestamps (MANUALLY EDITED)

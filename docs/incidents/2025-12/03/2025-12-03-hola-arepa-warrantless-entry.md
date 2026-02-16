@@ -19,7 +19,7 @@ search_tags: warrantless-entry, workplace-raid, src:bring-me-the-news, src:wcco,
 Two plain-clothed ICE agents entered Hola Arepa restaurant during dinner service, claiming to search for someone. When general manager Naomi Rathke demanded to see a judicial warrant, the agents said "We don't need a warrant." Rathke refused entry to the kitchen and the agents eventually left without detaining anyone. The restaurant closed early and safely escorted employees to their cars.
 
 ## Sources
-1. Bring Me The News (Dec 4, 2025): [Minneapolis restaurant Hola Arepa resists attempted ICE raid](https://bringmethenews.com/minnesota-news/minneapolis-restaurant-hola-arepa-resists-attempted-ice-raid)
+1. Bring Me The News (Dec 5, 2025): [Minneapolis restaurant Hola Arepa resists attempted ICE raid](https://bringmethenews.com/minnesota-news/minneapolis-restaurant-hola-arepa-resists-attempted-ice-raid)
 2. CBS Minnesota (Dec 4, 2025): [Minneapolis business closes early after visit by ICE agents](https://www.cbsnews.com/minnesota/news/hola-arepa-minneapolis-ice-visit/)
 3. KARE 11 (Dec 4, 2025): [Owner of Minneapolis restaurant says ICE entered without warrant, staff pushed back](https://www.kare11.com/article/news/local/south-minneapolis-restaurant-ice-entered-without-warrant-staff-push-back/89-7af99452-0ed8-4de5-9a27-6cb74cdc3e07)
 4. Fox 9 (Dec 4, 2025): [ICE operations reported at south Minneapolis restaurant](https://www.fox9.com/news/immigration-minneapolis-dec-3-2025)

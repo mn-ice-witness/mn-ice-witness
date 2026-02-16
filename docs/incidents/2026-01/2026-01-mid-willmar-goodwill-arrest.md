@@ -48,7 +48,7 @@ Twelve ICE agents in six vehicles arrested a man and his wife in the Goodwill pa
 
 ## Witness Accounts
 
-### Allen Clark
+### Steve Vossen
 On agents not confirming identity:
 > "If you don't know their name, what makes you think they're the 'worst of the worst?'"
 

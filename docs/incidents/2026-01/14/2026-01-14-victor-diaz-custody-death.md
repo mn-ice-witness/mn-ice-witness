@@ -10,7 +10,7 @@ injuries: fatal
 trustworthiness: high
 created: 2026-02-06T12:47:33
 last_updated: 2026-02-06T12:47:33
-search_tags: workplace-raid, src:sahan-journal, src:kstp, src:other-national, src:abc, src:mpr, src:kare11, src:star-tribune
+search_tags: workplace-raid, src:sahan-journal, src:kstp, src:other-national, src:ap, src:mpr, src:kare11, src:star-tribune
 ---
 
 # Victor Manuel Díaz Dies in ICE Custody at Camp East Montana After Coon Rapids Arrest
@@ -21,7 +21,7 @@ Victor Manuel Díaz, a 36-year-old Nicaraguan man living in Coon Rapids, died on
 ## Sources
 1. Sahan Journal (Jan 22, 2026): [Family doubts ICE suicide ruling in death of Nicaraguan man arrested in Minnesota](https://sahanjournal.com/immigration/nicaraguan-family-minnesota-ice-custody-death-texas-detainee/)
 2. Texas Tribune (Feb 3, 2026): [After El Paso's ME ruled migrant's death a homicide, ICE sent the next body to an Army hospital](https://www.texastribune.com/2026/02/03/texas-ice-detention-deaths-autopsy-el-paso/)
-3. ABC News (Feb 3, 2026): [Nicaraguan man's death at troubled Texas detention camp reported as suicide](https://abcnews.go.com/US/wireStory/nicaraguan-mans-death-troubled-texas-detention-camp-reported-129647451)
+3. Associated Press / Ryan J. Foley (Jan 28, 2026): [Nicaraguan man's death at troubled Texas detention camp was reported as a suicide, 911 records show](https://www.washingtontimes.com/news/2026/jan/28/nicaraguan-mans-death-texas-detention-camp-reported-suicide-911/)
 4. KFOX TV (Jan 2026): [Family questions handling of migrant's death at Camp East Montana](https://kfoxtv.com/news/local/family-questions-handling-of-migrants-death-at-camp-east-montana)
 5. MPR News (Jan 18, 2026): [Man detained in Minneapolis dies in ICE custody in Texas](https://www.mprnews.org/story/2026/01/18/man-detained-in-minneapolis-dies-in-ice-custody-in-texas)
 6. KARE 11 (Jan 18, 2026): [Man detained by ICE in Minneapolis dies in Texas DHS facility](https://www.kare11.com/article/news/local/man-detained-by-ice-in-minneapolis-dies-in-texas-dhs-facility-mn/89-ef90b752-c1d1-42cc-bf3e-c431a1a22c16)
@@ -80,7 +80,7 @@ ICE stated that "contract security staff found Díaz unconscious and unresponsiv
 ## Context: Camp East Montana Deaths
 Díaz is the third detainee to die at Camp East Montana:
 
-- **Geraldo Lunas Campos** (Jan 3, 2026): 55-year-old Cuban national. ICE initially said he died after "experiencing medical distress," later told AP he died during a "suicide attempt." The El Paso County Medical Examiner ruled his death a **homicide** caused by "asphyxia due to neck and torso compression." Witnesses described guards using a chokehold.
+- **Geraldo Lunas Campos** (Jan 3, 2026): 55-year-old Cuban national. ICE initially said he died after "experiencing medical distress," later told AP he died during a "suicide attempt." The El Paso County Medical Examiner ruled his death a **homicide** caused by "asphyxia due to neck and torso compression." A witness described guards restraining him in a chokehold until he could no longer breathe.
 - **Francisco Gaspar-Andres** (Dec 3, 2025): 48-year-old Guatemalan who died of suspected liver and kidney failure.
 
 Díaz is the fifth person to die in ICE custody in 2026.

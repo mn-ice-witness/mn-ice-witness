@@ -47,14 +47,14 @@ This document tracks our data scaling decisions, current metrics, and architectu
 3. Returns first match for OG tag injection
 
 **Search Index (`search-index.md`):**
-- Lightweight markdown file for LLM consumption
+- Lightweight markdown file for quick searching
 - Format: `date | city | category | title`
 - Used during daily incident searches to quickly check existing coverage
 
 ### Benefits
 - **Parallel loading:** Browser fetches all 5 files simultaneously
 - **Smaller individual files:** Citizens (most viewed) loads in ~50ms
-- **LLM-friendly search:** `search-index.md` is easy to scan
+- **Fast search:** `search-index.md` is easy to scan
 - **Auto-generated:** Pre-commit hook keeps everything in sync
 
 ### Dual-Category Handling
@@ -74,7 +74,7 @@ Incidents with multiple types (e.g., `citizens, schools-hospitals`) appear in bo
 |------|----------|-----------|
 | 2026-01-15 | Keep single JSON file | 88KB is small, splitting adds complexity |
 | 2026-01-27 | Continue single file | 205KB still under threshold |
-| 2026-02-02 | Split into 5 category files | 262KB total, growing fast; parallel loading improves UX; search-index.md speeds up LLM searches |
+| 2026-02-02 | Split into 5 category files | 262KB total, growing fast; parallel loading improves UX; search-index.md speeds up searches |
 
 ---
 
