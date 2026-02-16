@@ -20,9 +20,9 @@ Emmanuel Sackie, a Liberian-born naturalized U.S. citizen, was detained by ICE a
 
 ## Sources
 1. YouTube Video (Jan 7, 2026): [U.S. citizen says encounter with ICE agents in Brooklyn Park landed him in the hospital](https://www.youtube.com/watch?v=_KrPdFvv7QU)
-2. CBS Minnesota (Jan 7, 2026): [U.S. citizen says encounter with ICE agents in Brooklyn Park landed him in the hospital](https://www.cbsnews.com/minnesota/news/us-citizen-ice-encounter-injury-brooklyn-park/)
-3. FrontPageAfrica (Jan 7, 2026): [Liberian-Born U.S. Citizen Hospitalized After Alleged Rough Encounter With ICE Agents in Minnesota](https://frontpageafricaonline.com/news/liberian-born-u-s-citizen-hospitalized-after-alleged-rough-encounter-with-ice-agents-in-minnesota/)
-4. CBS Minnesota (Jan 7, 2026): [U.S. citizens recount being detained by ICE during Minnesota operation](https://www.cbsnews.com/minnesota/news/us-citizens-arrested-by-ice-minneapolis/)
+2. CBS Minnesota (Jan 6, 2026): [U.S. citizen says encounter with ICE agents in Brooklyn Park landed him in the hospital](https://www.cbsnews.com/minnesota/news/us-citizen-ice-encounter-injury-brooklyn-park/)
+3. FrontPageAfrica (Jan 9, 2026): [Liberian-Born U.S. Citizen Hospitalized After Alleged Rough Encounter With ICE Agents in Minnesota](https://frontpageafricaonline.com/news/liberian-born-u-s-citizen-hospitalized-after-alleged-rough-encounter-with-ice-agents-in-minnesota/)
+4. CBS Minnesota (Jan 13, 2026): [U.S. citizens recount being detained by ICE during Minnesota operation](https://www.cbsnews.com/minnesota/news/us-citizens-arrested-by-ice-minneapolis/)
 
 ## Affected Individual(s)
 - **Name:** Emmanuel Sackie
@@ -48,7 +48,9 @@ Emmanuel Sackie, a Liberian-born naturalized U.S. citizen, was detained by ICE a
 
 > "I am a legal citizen, and this is my first time being in handcuffs in my whole life."
 
-> "America is the place of dreams, equal opportunity, equal rights - but that is not how I was treated. I was treated like an animal, and it really hurt me."
+> "America is the place of dreams, equal opportunity, equal rights — but that is not how I was treated."
+
+> "I was treated like an animal, and it really hurt me."
 
 **Amanda Tuonyon (fiancee):**
 Video shows Tuonyon repeatedly pleading with agents to let them go while Sackie states he does not know anyone named Joseph.
