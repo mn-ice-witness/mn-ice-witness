@@ -218,13 +218,21 @@ When user says **"review the timeline"** or **"check the timeline"**:
 
 **The user expects you to do the research**, not just copy what they gave you. See `adding-incidents.md` Step 1.5.
 
-### When You Can't Fetch a URL
-**Print the URL and ask for text.** When WebFetch fails or returns login walls/CSS:
+### When You Can't Fetch a URL — STOP AND ASK
+**⚠️ CRITICAL: If you cannot access a source, STOP and ask the user for the article text.** Do NOT proceed with unverified content. Do NOT assume what a source says based on search result snippets, other articles, or research agent summaries.
+
+**Why this is critical:** In practice, attributing claims to a source you haven't read has caused real errors — details attributed to the wrong article, facts that weren't in the cited source at all. If you can't read it, you can't cite it.
+
+**When WebFetch fails or returns login walls/CSS:**
 1. Print the full URL
-2. Ask: "Please paste the text so I can verify it covers this incident."
+2. Ask: "I can't access this source. Please paste the article text so I can verify what it says."
 3. Do this one URL at a time — don't dump a list of URLs
+4. **WAIT for the user to provide the text before proceeding.** Do not write content based on a source you haven't verified.
 
 **⚠️ "Sibling tool call errored":** When parallel WebFetch calls fail with this error, it means one failure cascaded to the others. **STOP immediately** — do not retry or launch more fetches. Ask the user for content of the failed URLs one at a time.
+
+### Two-Pass Verification — MANDATORY
+**Every addition to the site requires two passes.** Pass 1: research and write. Pass 2: verify everything by re-reading sources, re-fetching failed URLs, and cross-checking facts. This applies to new incidents AND updates to existing incidents. See `adding-incidents.md` Step 4 for full details.
 
 ### Before Adding Any Incident
 Read `adding-incidents.md` first. Check `not_use.md` for rejected stories.

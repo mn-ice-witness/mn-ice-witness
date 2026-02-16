@@ -503,6 +503,7 @@ The first pass focuses on research and writing. Details get missed, sources get 
 1. Print the URL
 2. Ask the user: "I couldn't access this source during writing. Please paste the text so I can verify it."
 3. Do this one URL at a time
+4. **STOP HERE until the user provides the text.** Do NOT proceed with unverified source content. Do NOT assume what the source says based on search snippets or other articles. Do NOT attribute claims to a source you haven't read.
 
 **Cross-check facts across sources.** Look for:
 - Contradictions between sources (flag these in Editorial Assessment)
@@ -525,6 +526,8 @@ The first pass focuses on research and writing. Details get missed, sources get 
 | **Pass 2: Verify & Correct** | Get it right | Re-check every source, re-fetch failed URLs, fix errors |
 
 **Do not skip Pass 2.** Even if you're confident in the first pass, the second check has caught real errors in practice.
+
+**This applies to ALL changes** — new incidents AND updates to existing incidents. Any time you add content to the site (new sources, new details, Updates entries, new affected individuals), verify it with a second pass. The two-pass system is not just for new files.
 
 ## Step 5: Generate Summary JSON
 
@@ -574,8 +577,9 @@ When new information emerges:
 6. Paste the timestamp from step 2 into `last_updated` (do NOT type it manually)
 7. Add new sources to Sources section
 8. Update Editorial Assessment if trustworthiness changes
-9. **Re-read the entire file** — Verify everything is consistent: notes don't contradict sources, editorial assessment matches the evidence, no outdated statements remain. Remove any notes that are now incorrect (e.g., "link not available" when you just added the link).
-10. Commit with message like "Update: New video evidence for Speedway incident"
+9. **Verification pass (same rules as Step 4)** — Re-read every source you cited, re-fetch any that failed, cross-check facts. If you can't access a source, **STOP and ask the user for the text.** Do not proceed with unverified content.
+10. **Re-read the entire file** — Verify everything is consistent: notes don't contradict sources, editorial assessment matches the evidence, no outdated statements remain. Remove any notes that are now incorrect (e.g., "link not available" when you just added the link).
+11. Commit with message like "Update: New video evidence for Speedway incident"
 
 **⚠️ CRITICAL:** Never type a timestamp like `2026-01-22T12:00:00` from memory. Manually-entered timestamps are often wrong. The script is the ONLY valid source for timestamps.
 

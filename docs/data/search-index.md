@@ -16,13 +16,14 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (273 incidents)
+## CURRENT (274 incidents)
 
 Published incidents visible on the main site.
 
 - incidents/2026-02/13/2026-02-13-minneapolis-203m-economic-impact.md | 2026-02-13 | Minneapolis | background | Minneapolis Estimates $203 Million Economic Impact from Operation Metro Surge
 - incidents/2026-02/13/2026-02-13-sheriff-witt-denies-ice-deal.md | 2026-02-13 | Minneapolis | background | Sheriff Witt Denies ICE Deal, Says She Was "Scapegoated"
 - incidents/2026-02/12/2026-02-12-homan-operation-metro-surge-conclusion.md | 2026-02-12 | Minneapolis | background | Homan Declares Operation Metro Surge Over
+- incidents/2026-02/12/2026-02-12-jesus-flores-columbia-heights-ruse.md | 2026-02-12 | Columbia Heights | immigrants | ICE Agents Fake Car Trouble to Lure Columbia Heights Man Outside; Arrested and Sent to Texas
 - incidents/2026-02/12/2026-02-12-senate-homeland-security-hearing.md | 2026-02-12 | Washington, D.C. | background | Senate Homeland Security Hearing on Operation Metro Surge
 - incidents/2026-02/11/2026-02-11-ninas-coffee-ice-pursuit-crash.md | 2026-02-11 | St. Paul | immigrants | ICE High-Speed Pursuit Causes Multi-Car Crash Outside Nina's Coffee in St. Paul
 - incidents/2026-02/11/2026-02-11-nupa-rochester-cooks-detained.md | 2026-02-11 | Rochester | immigrants | Two Cooks Detained in Nupa Restaurant Parking Lot; Rochester Location Forced to Close
@@ -184,7 +185,6 @@ Published incidents visible on the main site.
 - incidents/2026-01/13/2026-01-13-lyn-lake-tear-gas.md | 2026-01-13 | Minneapolis | observers | Federal Agents Deploy Tear Gas at Wrecktangle Pizza
 - incidents/2026-01/13/2026-01-13-alex-vasquez-willmar-citizen.md | 2026-01-13 | Willmar | citizens | U.S. Citizen Handcuffed at Willmar Convenience Store, Driven Away, Released in Parking Lot
 - incidents/2026-01/12/2026-01-12-phil-maddox-did-you-not-learn.md | 2026-01-12 | Minneapolis | observers | "Did You Not Learn From What Just Happened?" - ICE Agents Threaten Observer
-- incidents/2026-01/12/2026-01-12-irma-escoto-citizen-check.md | 2026-01-12 | West St. Paul | citizens | Citizen Check: U.S. Citizen Surrounded by ICE Agents at West St. Paul Restaurant
 - incidents/2026-01/12/2026-01-12-silva-sosa-inver-grove-heights.md | 2026-01-12 | Inver Grove Heights | immigrants | Silva Sosa Parents Detained Days After I-130 Approval
 - incidents/2026-01/12/2026-01-12-jairo-pitalasig-north-high.md | 2026-01-12 | Minneapolis | immigrants | North High School Senior Detained at Construction Job, Deported to Ecuador
 - incidents/2026-01/12/2026-01-12-st-cloud-star-city-mall.md | 2026-01-12 | St. Cloud | immigrants, observers | 50+ ICE Agents Swarm Somali Mall in St. Cloud; Chemical Irritants Used on Protesters
@@ -195,6 +195,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/12/2026-01-12-pilllar-forum-musicians.md | 2026-01-12 | Minneapolis | observers | Musicians and Fans Pepper Sprayed Outside NE Minneapolis Venue
 - incidents/2026-01/12/2026-01-12-minnesota-sues-to-halt-operation.md | 2026-01-12 | Minneapolis | background | Minnesota Sues Federal Government to Halt Operation Metro Surge
 - incidents/2026-01/12/2026-01-12-garrison-gibson-battering-ram.md | 2026-01-12 | Minneapolis | immigrants | Liberian Man Arrested With Battering Ram, No Judicial Warrant
+- incidents/2026-01/11/2026-01-11-irma-escoto-citizen-check.md | 2026-01-11 | West St. Paul | citizens | Citizen Check: U.S. Citizen Surrounded by ICE Agents at West St. Paul Restaurant
 - incidents/2026-01/11/2026-01-11-dhs-response-speedway-bystander.md | 2026-01-11 | St. Paul | response | DHS Response: Speedway Bystander "Hit an Officer"
 - incidents/2026-01/11/2026-01-11-dennis-hernandez-ramirez-detained.md | 2026-01-11 | Minneapolis | citizens | Green Card Holder Roughed Up by Agents, Held Over 10 Hours, Offered Money to Identify Immigrants
 - incidents/2026-01/11/2026-01-11-skye-elizabeth-marine-veteran-detained.md | 2026-01-11 | Minneapolis | observers | Marine Veteran Dragged From Car, Ankle Twisted, Called "It" by ICE Agents

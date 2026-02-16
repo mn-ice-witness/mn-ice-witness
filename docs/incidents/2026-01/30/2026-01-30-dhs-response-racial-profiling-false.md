@@ -60,7 +60,7 @@ Citizens detained who contradict this statement:
 - [Aliya Rahman Car Window Assault](2026-01-13-aliya-rahman-car-window-hospitalized.md)
 - [ChongLy Scott Thao Shirtless Detention](2026-01-18-saly-hmong-citizen-shirtless.md)
 - [Mubashir Wrongful Detention](2025-12-09-mubashir-wrongful-detention.md)
-- [Irma Escoto Citizenship Check](2026-01-12-irma-escoto-citizen-check.md)
+- [Irma Escoto Citizenship Check](2026-01-11-irma-escoto-citizen-check.md)
 - [Nimco Omar Citizenship Check](2026-01-12-nimco-omar-citizen-check.md)
 - [Target Richfield Employees](2026-01-08-target-richfield-employees.md)
 

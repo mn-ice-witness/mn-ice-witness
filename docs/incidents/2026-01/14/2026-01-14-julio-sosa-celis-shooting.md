@@ -9,13 +9,14 @@ affected_individual_citizenship: asylum-seeker
 injuries: serious
 trustworthiness: high
 created: 2026-02-07T14:12:42
-last_updated: 2026-02-14T21:05:51
-search_tags: legal-resident, children, shooting, excessive-force, chemical-agents, family-separation, warrantless-entry, vehicle-pursuit, src:mpr, src:star-tribune, src:sahan-journal, src:wcco, src:kstp, src:kare11, src:other-national, src:mn-reformer, src:fox9, src:cbs, src:npr, src:wapo, src:pbs
+last_updated: 2026-02-16T13:08:23
+search_tags: legal-resident, children, shooting, excessive-force, chemical-agents, family-separation, warrantless-entry, vehicle-pursuit, src:mpr, src:star-tribune, src:sahan-journal, src:wcco, src:kstp, src:kare11, src:other-national, src:mn-reformer, src:fox9, src:cbs, src:npr, src:wapo, src:pbs, src:cnn, src:ap
 ---
 
 # ICE Agent Shoots Man Through Closed Door in North Minneapolis; Bullet Enters Apartment with Four Children
 
 ## Updates
+- **Feb 13** - [AP reports](https://www.opb.org/article/2026/02/13/feds-investigating-whether-2-ice-officers-lied-about-the-shooting-of-a-venezuelan-man-in-minneapolis/) a third witness, Gabriel Alejandro Hernandez Ledezma, was detained without a warrant on Jan 30 and flown to Texas within hours to prevent testimony. Returned to Minnesota after federal judge ordered his release.
 - **Feb 13** - ICE Director Todd Lyons [announces a joint criminal perjury probe with DOJ](https://www.npr.org/2026/02/13/nx-s1-5713947/immigration-agents-lie-minnesota) into two ICE officers who made "untruthful statements" under oath about the shooting. Both officers [placed on administrative leave](https://www.cbsnews.com/minnesota/news/todd-lyons-ice-north-minneapolis-shooting-lying-under-oath/) and face potential termination and criminal prosecution.
 - **Feb 12** - DOJ [moves to drop all charges with prejudice](https://www.startribune.com/doj-moves-to-drop-charges-against-men-arrested-after-north-minneapolis-ice-shooting/601581378) against Sosa-Celis and Aljorna, citing "newly discovered evidence" that is "materially inconsistent" with the complaint affidavit. [Video surveillance evidence](https://www.cbsnews.com/news/doj-drops-charges-assaulting-ice-officers-inconsistent-evidence/) did not back up the agent's claims of being assaulted. Attorney Brian Clark called the charges "based on lies by an ICE agent who recklessly shot into their home through a closed door." Family [demands the agent be identified and criminally charged](https://www.fox9.com/news/north-minneapolis-ice-shooting-doj-dismisses-charges-venezuelan-men-feb-12-2026).
 - **Feb 5** - Federal judge [halts deportation of Valentina Moreno](https://www.fox9.com/news/judge-halts-deportation-ice-shooting-witness-minneapolis), Aljorna's partner and key witness. Court records state Moreno can testify Aljorna never hit the ICE agent. Government had accelerated her immigration hearing to Friday, six months earlier than scheduled. Judge warned of consequences if Moreno is deported.
@@ -49,6 +50,8 @@ On January 14, 2026, an ICE agent shot Julio Cesar Sosa-Celis, 24, in the leg du
 20. Washington Post (Feb 13, 2026): [ICE officers suspended after making 'untruthful statements' about shooting](https://www.washingtonpost.com/immigration/2026/02/13/ice-officers-suspended-after-making-untruthful-statements-about-shooting/)
 21. Star Tribune (Feb 13, 2026): [DHS says ICE agents suspended for 'untruthful' testimony in nonfatal Minneapolis shooting](https://www.startribune.com/dhs-says-ice-agents-suspended-for-untruthful-testimony-in-nonfatal-minneapolis-shooting/601582100)
 22. PBS (Feb 13, 2026): [Feds investigate whether ICE officers lied about shooting of Venezuelan man](https://www.pbs.org/newshour/nation/feds-investigate-whether-ice-officers-lied-about-shooting-of-venezuelan-man-in-minneapolis)
+23. CNN (Feb 15, 2026): [A man shot by an ICE agent in Minneapolis was charged with assaulting law enforcement. A startling admission ended the case](https://www.cnn.com/2026/02/15/us/ice-shooting-dhs-doj-false-statements)
+24. AP (Feb 13, 2026): [Feds investigating whether 2 ICE officers lied about the shooting of a Venezuelan man in Minneapolis](https://www.opb.org/article/2026/02/13/feds-investigating-whether-2-ice-officers-lied-about-the-shooting-of-a-venezuelan-man-in-minneapolis/)
 
 ## Related Incidents
 - [Six Children Hospitalized After ICE Deploys Flashbangs and Tear Gas on Family SUV](#2026-01-14-shawn-jackson-children-tear-gas) - Same day, connected protest response.
@@ -85,6 +88,13 @@ On January 14, 2026, an ICE agent shot Julio Cesar Sosa-Celis, 24, in the leg du
 - **Immigration hearing:** Government accelerated hearing to Friday (approximately Feb 7), six months ahead of original schedule
 - **Deportation status:** Federal judge ordered government not to deport her; warned of consequences if deported
 
+### Gabriel Alejandro Hernandez Ledezma (third witness, downstairs neighbor)
+- **Nationality:** Venezuelan
+- **Status:** Never federally charged
+- **Detained:** Jan 30, detained without a warrant and flown to Texas within hours
+- **Witness role:** Lived in the downstairs apartment; his removal appears intended to prevent testimony that would contradict the government's account
+- **Released:** Returned to Minnesota and discharged from ICE custody after federal judge ordered his release (~Feb 10)
+
 ## Timeline
 - **Jan 14 (evening)** - ICE agents attempt a traffic stop. FBI later reveals the target was someone else — mistaken identity.
 - **Pursuit** - Sosa-Celis flees in his vehicle, crashes into a parked car, then flees on foot to the duplex he shares with Aljorna and the two women.
@@ -97,9 +107,12 @@ On January 14, 2026, an ICE agent shot Julio Cesar Sosa-Celis, 24, in the leg du
 - **Jan 16** - Mendoza Camacho and de Los Angeles Moreno flown to Texas detention center, shackled at feet, hands, and waist.
 - **Jan 22** - FBI affidavit reveals mistaken identity. Federal judge orders both men released on their own recognizance.
 - **Jan 28** - Mendoza Camacho released, returns home to her son.
+- **Jan 30** - Third witness Gabriel Hernandez Ledezma, the downstairs neighbor, detained without a warrant and flown to Texas within hours. His removal appears intended to prevent him from testifying.
 - **Feb 3-5** - Both men re-detained by ICE at courthouse despite judge's release order.
 - **Feb 5** - Federal judge halts deportation of Valentina Moreno, citing her role as a material witness. Government had accelerated her immigration hearing six months ahead of schedule. Judge extends deportation protection to all witnesses including both partners.
+- **~Feb 10** - Hernandez Ledezma returned to Minnesota and discharged from ICE custody after federal judge ordered his release.
 - **Feb 12** - U.S. Attorney Daniel Rosen files motion to dismiss all criminal charges with prejudice, citing "newly discovered evidence" materially inconsistent with the complaint affidavit. Video surveillance evidence contradicted the agent's claims of being assaulted. Attorney Frederick Goetz calls the dismissal "exceedingly rare."
+- **Feb 13** - U.S. District Court Judge Paul A. Magnuson dismisses all charges. ICE Director Todd Lyons announces joint criminal perjury probe into the two officers.
 
 ## Affected Individual Statement
 

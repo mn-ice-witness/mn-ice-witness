@@ -1,5 +1,5 @@
 ---
-date: 2026-01-12
+date: 2026-01-11
 time: afternoon
 location: El Taquito Taco Shop, West St. Paul
 city: West St. Paul
@@ -16,10 +16,10 @@ search_tags: us-citizen, citizen-check, src:wcco, src:star-tribune, src:npr
 # Citizen Check: U.S. Citizen Surrounded by ICE Agents at West St. Paul Restaurant
 
 ## Summary
-Irma Escoto, a U.S. citizen born in New Mexico, was surrounded by ICE agents while sitting in her car outside El Taquito Taco Shop in West St. Paul. Her husband Luis Escoto, a naturalized citizen since 1992, rushed outside with her passport card to prove her citizenship. The couple co-owns the restaurant and believes she was targeted based on her appearance.
+Irma Escoto, a U.S. citizen from New Mexico, was surrounded by ICE agents while sitting in her car outside El Taquito Taco Shop in West St. Paul. Her husband Luis Escoto, a naturalized citizen since 1992, rushed outside with her passport card to prove her citizenship. The couple co-owns the restaurant. When Luis asked agents why they were questioning her, he said they told him it was because she is Mexican.
 
 ## Sources
-1. CBS Minnesota (Jan 12, 2026): [U.S. citizens recount being detained by ICE during Minnesota operation](https://www.cbsnews.com/minnesota/news/us-citizens-arrested-by-ice-minneapolis/)
+1. CBS Minnesota (Jan 13, 2026): [U.S. citizens recount being detained by ICE during Minnesota operation](https://www.cbsnews.com/minnesota/news/us-citizens-arrested-by-ice-minneapolis/)
 2. Star Tribune (Jan 18, 2026): [Allegations of racial profiling of U.S. citizens on the rise as ICE surge expands in Minnesota](https://www.startribune.com/allegations-of-racial-profiling-of-us-citizens-on-the-rise-as-ice-surge-expands-in-minnesota/601564653)
 3. KUCB/NPR (Feb 1, 2026): [Minnesota citizens detained by ICE are left rattled even weeks later](https://www.kucb.org/2026-02-01/minnesota-citizens-detained-by-ice-are-left-rattled-even-weeks-later)
 4. NPR (Feb 1, 2026): [Minnesota citizens detained by ICE are left rattled even weeks later](https://www.npr.org/2026/02/01/nx-s1-5689031/minnesota-citizens-detained-ice)
@@ -27,12 +27,12 @@ Irma Escoto, a U.S. citizen born in New Mexico, was surrounded by ICE agents whi
 
 ## Affected Individual(s)
 - **Name:** Irma Escoto
-- **Citizenship:** U.S. citizen (born in New Mexico)
+- **Citizenship:** U.S. citizen (from New Mexico)
 - **Occupation:** Co-owner of El Taquito Taco Shop
 - **Spouse:** Luis Escoto (naturalized U.S. citizen since 1992, originally from Mexico)
 
 ## What Happened
-On Sunday afternoon, Luis Escoto realized ICE agents were surrounding his wife's car. With images of the ICE shooting of Renee Good fresh in his head, he rushed outside with her passport card, knowing his wife was born in the United States.
+On Sunday afternoon, Luis Escoto realized ICE agents were surrounding his wife's car. He rushed outside with her passport card, knowing his wife was a U.S. citizen.
 
 Restaurant security footage and video from a bystander show multiple ICE vehicles seemingly focused on a business next door when three masked agents came to Irma's driver's side window.
 
