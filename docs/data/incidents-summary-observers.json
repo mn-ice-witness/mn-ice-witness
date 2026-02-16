@@ -1061,13 +1061,18 @@
         "src:ap",
         "src:other-national"
       ],
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
+      "hasLocalMedia": true,
+      "localMediaType": "image",
+      "localMediaPath": "media/2026-01/15/2026-01-15-john-abernathy-photographer-detained.jpg",
       "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
+      "localMediaFiles": [
+        {
+          "type": "image",
+          "path": "media/2026-01/15/2026-01-15-john-abernathy-photographer-detained.jpg"
+        }
+      ],
+      "aspectRatio": 0.8283464566929134,
+      "mediaVersion": 1771209391
     },
     {
       "filePath": "incidents/2026-01/15/2026-01-15-daniel-woo-followed-home.md",
