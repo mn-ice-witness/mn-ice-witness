@@ -15,17 +15,11 @@ search_tags: family-separation, src:wcco, src:fox9, src:pioneer-press
 
 # Silva Sosa Parents Detained Days After I-130 Approval
 
-***This incident has been corrected. It was originally framed as an Operation PARRIS case. The Silva Sosa parents are undocumented, not refugees with legal status, and do not fit the PARRIS program criteria. See Correction Note below.***
+***This incident has been corrected. It was originally categorized under Operation PARRIS. The Silva Sosa parents are undocumented, not refugees with legal status, and do not fit the PARRIS criteria.***
 
-## Correction Note (Feb 16, 2026)
+## Updates
 
-**What was originally reported:** This incident was categorized under Operation PARRIS (Post-Admission Refugee Reverification and Integrity Strengthening), a DHS program targeting ~5,600 refugees with legal status in Minnesota who had not yet received Green Cards.
-
-**What changed:** The Silva Sosa parents are undocumented immigrants from Mexico who entered the U.S. without authorization in 1999. They are not refugees and do not have legal status. Their pending I-130 family petition is a different immigration pathway than the refugee applications targeted by PARRIS. The Operation PARRIS framing, search tag, and context section have been removed. An unsourced Facebook comment section with no link to the original post has also been removed.
-
-**What remains accurate:** The core story — a couple in the U.S. since 1999, detained five days after their I-130 petition was approved, and flown to El Paso — is fully verified against CBS Minnesota reporting.
-
----
+- **Feb 16** - **CORRECTED** — Operation PARRIS framing removed. The Silva Sosa parents are undocumented immigrants, not refugees targeted by PARRIS.
 
 ## Summary
 A couple who have lived in Minnesota since 1999 were detained by ICE during a traffic stop in Inver Grove Heights while on their way to work. Five days before the detention, they had received approval on their I-130 petition while working with immigration lawyers. Their three daughters - Kelsy, Cecilia, and Kimberly Silva Sosa - are now fighting to get their parents released from an El Paso, Texas ICE detention facility. The father is diabetic and the family is uncertain if he is receiving his medication.
