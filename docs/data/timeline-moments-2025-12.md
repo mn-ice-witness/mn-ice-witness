@@ -12,7 +12,7 @@ title: U.S. Citizen Tackled, Detained for "Looking Somali"
 incident: 2025-12-09-mubashir-wrongful-detention
 source:
 ---
-The first major wrongful detention of a U.S. citizen. 20-year-old Mubashir Hussen — a Somali-American born in the United States — is tackled and placed in a chokehold by ICE agents in Cedar-Riverside despite offering to show his passport. Mayor Jacob Frey condemns the arrest, establishing the pattern of racial profiling that would define the operation. For a list of all U.S. citizen and legal resident incidents, see [list/citizens](/list/citizens).
+The first major wrongful detention of a U.S. citizen. 20-year-old Mubashir Hussen — a naturalized Somali-American who came to the U.S. at age 1 — is tackled and placed in a chokehold by ICE agents in Cedar-Riverside despite offering to show his passport. Mayor Jacob Frey condemns the arrest, establishing the pattern of racial profiling that would define the operation. For a list of all U.S. citizen and legal resident incidents, see [list/citizens](/list/citizens).
 
 ---
 date: 2025-12-07

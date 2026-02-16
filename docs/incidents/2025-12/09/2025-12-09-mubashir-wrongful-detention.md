@@ -86,17 +86,17 @@ Sent letter to DHS Secretary Kristi Noem demanding review of the arrests:
 
 ## Witness Accounts
 
-**Mubashir's account:**
-> "The agent then, at one point, he never identified himself, he didn't say 'ICE stop.' I feel like I was getting assaulted, I was getting kidnapped, and that's exactly what it was."
+**Mubashir's account (press conference, Dec 10, 2025):**
+> "I was simply on my lunch break. I wasn't even outside for a mere second before I saw a masked person running at me full speed. He tackled me and pushed me inside the restaurant. I told him, 'I'm a US citizen. What is going on?' He didn't seem to care. He dragged me outside through the snow. while I was handcuffed, restrained, helpless, and he pushed me to the ground and he put me in a choke hold."
 
-> "I told him, 'I'm a U.S. citizen, what is going on?' He didn't seem to care."
+> "All I did was step outside as a Somali American. And I just got chased by a masked person. The agent didn't identify himself. He didn't say, 'ICE stop.' I felt like I was getting assaulted. I was getting kidnapped. And that's exactly what it was."
 
-> "All I did was step outside as a Somali American, and I just got chased by a masked person... They dragged me across the road. They slammed me to the ground, choked me. That was uncalled for."
+> "I just felt targeted. That shouldn't happen to anyone, that's not right."
 
-> "I just felt targeted. That shouldn't happen to anyone, that's not right. I deserve to be here like anyone else -- I'm a U.S. citizen."
+> "I deserve to be here like anyone else — I'm a U.S. citizen. I can't even step outside without being tackled — no question — because I'm Somali."
 
 On being denied a ride back:
-> "I asked three times, they said, 'No, you're walking.'"
+> "I asked them, 'can you take me back to where you picked me up from?' They said 'no, you have to walk in the snow.'"
 
 Mubashir stated he was also denied water and medical assistance during detention.
 
