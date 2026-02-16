@@ -20,17 +20,16 @@ Brandon Sigüenza (32) and Patty O'Keefe (36), both U.S. citizens monitoring ICE
 
 ## Sources
 1. KARE 11 Video (Jan 13, 2026): [Brandon Sigüenza full interview](https://www.youtube.com/watch?v=Inn-sfiMcyE)
-2. Sahan Journal Video (Jan 13, 2026): [8 hours inside ICE custody documentary](https://sahanjournal.com/immigration/ice-citizen-observer-detainment-minnesota-whipple-building/)
-3. Sahan Journal (Jan 13, 2026): [Eight hours inside ICE custody at the Whipple Building](https://sahanjournal.com/immigration/ice-citizen-observer-detainment-minnesota-whipple-building/)
-4. CATO Institute (Jan 13, 2026): [Terror in Minneapolis: The Ordeal of Brandon Sigüenza](https://www.cato.org/blog/terror-minneapolis-ordeal-brandon-siquenza)
-5. MPR News (Jan 13, 2026): [Minnesotans describe their encounters with ICE agents](https://www.mprnews.org/episode/2026/01/13/minnesotans-describe-their-encounters-with-ice-agents)
-6. Snopes (Jan 14, 2026): [What we know about ICE arrest, detention of observer Brandon Siguenza](https://www.snopes.com/news/2026/01/14/ice-arrest-brandon-siguenza/)
-7. Cato Institute X (Jan 15, 2026): [@CatoInstitute post on Siguenza and O'Keefe](https://x.com/CatoInstitute/status/2011831267273138324)
-8. Threads (Jan 15, 2026): [U.S. citizens Patty O'Keefe and Brandon Siguenza detained by ICE](https://www.threads.com/@klgfortexas/post/DTcRk2REkOI/)
-9. ABC News/AP (Jan 13, 2026): [Minneapolis duo details their ICE detention, including pressure to rat on protest organizers](https://abcnews.go.com/US/wireStory/minneapolis-duo-details-ice-detention-including-pressure-rat-129185120)
-10. USA Today Opinion (Jan 26, 2026): [ICE arrested me without cause. What I saw will haunt me forever.](https://www.usatoday.com/story/opinion/voices/2026/01/26/ice-detained-us-citizens-minnesota-arrests/88304880007/) | [Archive](https://archive.ph/sVibz)
-11. Yahoo News Canada (Jan 26, 2026): [ICE arrested me without cause. What I saw will haunt me forever.](https://ca.news.yahoo.com/ice-arrested-without-cause-saw-164506774.html)
-12. Slate (Jan 15, 2026): [I Was Legally Observing ICE Agents When They Turned Their Ire on Me](https://slate.com/news-and-politics/2026/01/arrested-for-observing-ice-minnesota-lesson.html)
+2. Sahan Journal (Jan 13, 2026): [Eight hours inside ICE custody at the Whipple Building](https://sahanjournal.com/immigration/ice-citizen-observer-detainment-minnesota-whipple-building/)
+3. CATO Institute (Jan 13, 2026): [Terror in Minneapolis: The Ordeal of Brandon Sigüenza](https://www.cato.org/blog/terror-minneapolis-ordeal-brandon-siquenza)
+4. MPR News (Jan 13, 2026): [Minnesotans describe their encounters with ICE agents](https://www.mprnews.org/episode/2026/01/13/minnesotans-describe-their-encounters-with-ice-agents)
+5. Snopes (Jan 14, 2026): [What we know about ICE arrest, detention of observer Brandon Siguenza](https://www.snopes.com/news/2026/01/14/ice-arrest-brandon-siguenza/)
+6. Cato Institute X (Jan 15, 2026): [@CatoInstitute post on Siguenza and O'Keefe](https://x.com/CatoInstitute/status/2011831267273138324)
+7. Threads (Jan 15, 2026): [U.S. citizens Patty O'Keefe and Brandon Siguenza detained by ICE](https://www.threads.com/@klgfortexas/post/DTcRk2REkOI/)
+8. ABC News/AP (Jan 13, 2026): [Minneapolis duo details their ICE detention, including pressure to rat on protest organizers](https://abcnews.go.com/US/wireStory/minneapolis-duo-details-ice-detention-including-pressure-rat-129185120)
+9. USA Today Opinion (Jan 26, 2026): [ICE arrested me without cause. What I saw will haunt me forever.](https://www.usatoday.com/story/opinion/voices/2026/01/26/ice-detained-us-citizens-minnesota-arrests/88304880007/) | [Archive](https://archive.ph/sVibz)
+10. Yahoo News Canada (Jan 26, 2026): [ICE arrested me without cause. What I saw will haunt me forever.](https://ca.news.yahoo.com/ice-arrested-without-cause-saw-164506774.html)
+11. Slate (Jan 15, 2026): [I Was Legally Observing ICE Agents When They Turned Their Ire on Me](https://slate.com/news-and-politics/2026/01/arrested-for-observing-ice-minnesota-lesson.html)
 
 ## Affected Individual(s)
 - **Patty O'Keefe:** 36, U.S. Citizen
@@ -54,11 +53,11 @@ Brandon Sigüenza (32) and Patty O'Keefe (36), both U.S. citizens monitoring ICE
 
 ### Sigüenza's Account
 - Offered money/legal protection for names of organizers — declined
-- Witnessed ~20 detainees with untreated injuries
+- Witnessed detainees with untreated injuries, including a man with a ripped shirt and another with a large cut on his forehead from being tackled
 
 ### Upon Release
 - Released after 8 hours without charges
-- Tear-gassed again while leaving the facility
+- Directed toward protest area upon release; tear gas deployed nearby and struck by paintball round
 
 ## Key Quotes
 
