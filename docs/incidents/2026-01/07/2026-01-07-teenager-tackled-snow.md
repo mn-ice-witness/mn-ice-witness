@@ -22,7 +22,7 @@ Video footage verified by the Associated Press shows an ICE agent chasing and ta
 1. The Mirror (Jan 23, 2026): [Horror video appears to show screaming minor being chased down and detained by ICE](https://www.themirror.com/news/us-news/ice-arrests-immigration-minors-protests-1636242)
 2. CBS Minnesota (Jan 23, 2026): [General strike, rally planned in Minnesota Friday to protest ICE](https://www.cbsnews.com/minnesota/live-updates/general-strike-rally-planned-in-minnesota-friday-to-protest-ice/) - mentions AP verification
 3. X Video - @MNSteveSimon (Jan 15, 2026): [Minnesota Secretary of State Steve Simon's post sharing the video](https://x.com/MNSteveSimon/status/2014745779408138624)
-4. X Video - @KimKatieUSA (Jan 15, 2026): [Video post](https://x.com/KimKatieUSA/status/2014557007924363744)
+4. X Video - @KimKatieUSA (Jan 23, 2026): [Video post](https://x.com/KimKatieUSA/status/2014557007924363744)
 5. MSN (Jan 23, 2026): [Horror video appears to show screaming minor being chased down and detained by ICE](https://www.msn.com/en-us/news/us/horror-video-appears-to-show-screaming-minor-being-chased-down-and-detained-by-ice/ar-AA1UOFo2)
 
 ## Affected Individual(s)
