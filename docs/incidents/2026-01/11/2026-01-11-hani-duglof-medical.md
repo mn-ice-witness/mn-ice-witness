@@ -25,9 +25,9 @@ Hani Duglof, 32, who came to Minnesota from Libya in 2014 for life-saving medica
 1. Star Tribune (Jan 12, 2026): [A Libyan man came to Minnesota for medical treatment. Then ICE detained him.](https://www.startribune.com/a-libyan-man-came-to-minnesota-for-medical-treatment-then-ice-detained-him/601562572)
 2. FOX 9 (Jan 12, 2026): [Woodbury man detained by ICE has rare genetic skin disorder](https://www.fox9.com/news/woodbury-man-detained-ice-has-rare-genetic-skin-disorder-family-says)
 3. KSTP (Jan 12, 2026): [Minnesota family worried as ICE detains man with rare disease](https://kstp.com/kstp-news/top-news/minnesota-family-worried-as-ice-detains-man-with-rare-disease/)
-4. FOX 9 Video (Jan 14, 2026): [Libyan immigrant with rare genetic skin disorder detained by ICE tells story](https://www.fox9.com/news/libyan-immigrant-rare-genetic-skin-disorder-detained-ice-tells-story)
+4. FOX 9 (Jan 16, 2026): [Libyan immigrant with rare genetic skin disorder detained by ICE tells story](https://www.fox9.com/news/libyan-immigrant-rare-genetic-skin-disorder-detained-ice-tells-story)
 5. Star Tribune (Jan 15, 2026): [ICE detainee with severe skin disorder is going home](https://www.startribune.com/ice-detainee-with-severe-skin-disorder-going-home/601564192)
-6. KSTP (Feb 2026): [Woodbury man describes conditions inside Whipple Building; Minnesota congresswoman investigating](https://kstp.com/kstp-news/top-news/woodbury-man-describes-conditions-inside-whipple-building-minnesota-congresswoman-investigating/)
+6. KSTP (Feb 4, 2026): [Woodbury man describes conditions inside Whipple Building; Minnesota congresswoman investigating](https://kstp.com/kstp-news/top-news/woodbury-man-describes-conditions-inside-whipple-building-minnesota-congresswoman-investigating/)
 7. Twin Cities Pioneer Press (Feb 1, 2026): [Libyan detained in Woodbury with rare skin condition](https://www.twincities.com/2026/02/01/libyan-detained-woodbury-rare-skin-condition/)
 
 ## Affected Individual(s)
@@ -53,13 +53,14 @@ Duglof and his brother came from Libya in 2014 under visas to be screened for a 
 ### Duglof's Account
 > "My skin was cracking down. It was really cold. No bed, no mattress, just concrete."
 
+On infection from the concrete floor and shackles:
+> "All that helps to get it infected very quickly. Actually, I have infection right now."
+
 > "See me as a human. Treat me like a human."
 
 ### Brother's Account (Duklef)
 On the impact of shackles on his brother's EB condition:
 > "Yes, he got blisters from the shackles around his ankles, and not only the shackles, but also the solid floor."
-
-The brother, who shares the same skin condition, noted the conditions led to rapid infection: "All that helps to get it infected very quickly. Actually, I have infection right now."
 
 ## Legal Status
 Duglof is in the U.S. legally, but his ultimate status has been uncertain for nearly a decade because **federal officials have delayed action on his asylum request**, according to his attorney.
