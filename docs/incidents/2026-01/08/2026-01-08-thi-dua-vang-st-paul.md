@@ -27,7 +27,7 @@ Thi Dua Vang, a Hmong refugee who fled Vietnam after decades of persecution for 
 ## Sources
 
 1. KARE 11 (Feb 2, 2026): [After ICE release St. Paul woman, she says agents keep returning to her home](https://www.kare11.com/article/news/local/ice-in-minnesota/after-ice-release-st-paul-woman-she-says-agents-keep-returning-to-her-home/89-17f46bf2-9d68-4988-86c6-ba5109ef510f)
-2. Sahan Journal (Feb 3, 2026): [ICE detainees stranded after release](https://sahanjournal.com/immigration/ice-detainees-stranded-after-release/)
+2. Sahan Journal (Feb 4, 2026): [ICE detainees stranded after release](https://sahanjournal.com/immigration/ice-detainees-stranded-after-release/)
 3. MPR News (Feb 7, 2026): ['I felt hopeless': Hmong refugee stranded in Texas after release from ICE detention](https://www.mprnews.org/story/2026/02/07/i-felt-hopeless-hmong-refugee-stranded-in-texas-after-release-from-ice-detention)
 4. GoFundMe (2026): [Standing with Thi Dua for Justice and Healing](https://www.gofundme.com/f/standing-with-thi-dua-for-justice-and-healing)
 5. Daily Kos (Feb 8, 2026): [ICE is cracking the Republican stranglehold on Evangelical Christians](https://www.dailykos.com/stories/2026/2/8/2367770/-ICE-is-cracking-the-Republican-stranglehold-on-Evangelical-Christians)
@@ -38,7 +38,7 @@ Thi Dua Vang, a Hmong refugee who fled Vietnam after decades of persecution for 
 - **Citizenship:** Refugee with pending green card (legal status)
 - **Background:** Fled Vietnam after decades of persecution for being Christian. Family members, including her brother Wa Chi Minh Vang, were imprisoned for their faith. Spent more than seven years in Thailand as undocumented refugees before finding asylum in the United States in December 2023.
 - **Family:** Husband A Pao Giang, three sons
-- **Status:** Released on bond January 23, 2026
+- **Status:** Released on bond January 21, 2026
 
 ## Timeline
 
@@ -48,7 +48,8 @@ Thi Dua Vang, a Hmong refugee who fled Vietnam after decades of persecution for 
 - **Jan 14** - Family learns she has been transferred to Houston Processing Center.
 - **Date unknown** - While on a plane on the runway, Vang is pulled off at the last moment—she believed she was being deported to Vietnam.
 - **Jan 20** - Immigration judge orders release on bond. DHS representative unable to give any reason for her detention.
-- **Jan 23** - Released onto streets of Houston around 8:00 PM. Agents refused to let her wait inside the facility. Waits nearly three hours alone in unfamiliar city before brother and husband arrive around 11:00 PM. ICE had not returned her identification documents, preventing her from flying home.
+- **Jan 21** - Released onto streets of Houston around 8:00 PM. Agents refused to let her wait inside the facility. Waits nearly three hours alone in unfamiliar city before brother and husband arrive around 11:00 PM. ICE had not returned her identification documents, preventing her from flying home.
+- **Jan 23** - Arrives back in Minnesota after brother and husband drive from Houston.
 - **Five days after return** - Required check-in with ICE; released after.
 - **Since release** - Family reports ICE has returned to their home three times attempting to make contact.
 
@@ -81,4 +82,4 @@ Thi Dua Vang's detention fits a documented pattern of ICE targeting refugees wit
 
 ## Editorial Assessment
 
-**MEDIUM** - Single major source (KARE 11) with detailed reporting including direct interviews with affected individual and family members. Account relies primarily on affected individual's testimony; DHS has not responded to KARE 11's inquiry about why agents continue visiting the home.
+**MEDIUM** - Two independent Tier 1 sources (KARE 11, Sahan Journal) with detailed reporting including direct interviews with affected individual and family members. Account relies primarily on affected individual's testimony; DHS has not responded to inquiries about why agents continue visiting the home.
