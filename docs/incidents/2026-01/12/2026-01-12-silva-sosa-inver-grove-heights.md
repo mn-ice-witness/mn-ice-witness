@@ -70,9 +70,9 @@ A couple who have lived in Minnesota since 1999 were detained by ICE during a tr
 ## Family Background
 The parents met at a dance club in Mexico in the 1980s. They moved to Minnesota in 1999 seeking economic opportunity and built a thriving office cleaning business.
 
+## Editorial Assessment
+**HIGH** - Core story verified by CBS Minnesota feature with extensive family interviews and video, corroborated by Fox 9 and Pioneer Press.
+
 ## Correction
 
 **Feb 16, 2026** — Operation PARRIS framing removed. The Silva Sosa parents are undocumented immigrants, not refugees targeted by PARRIS.
-
-## Editorial Assessment
-**CORRECTED** - The core story (parents detained 5 days after I-130 approval, flown to El Paso) is verified by CBS Minnesota feature story with extensive family interviews and video. The original Operation PARRIS framing was incorrect — the Silva Sosa parents are undocumented immigrants from Mexico, not refugees with legal status targeted by PARRIS. An unsourced Facebook comment section has also been removed. Sources supporting the core story remain strong (CBS Minnesota, Fox 9, Pioneer Press).

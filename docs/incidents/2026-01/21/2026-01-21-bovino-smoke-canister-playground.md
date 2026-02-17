@@ -55,6 +55,10 @@ Bovino serves as Border Patrol Commander at Large. A federal judge found him ["o
 
 - [DHS Response: Agents "Harassed" at Gas Stations, Used "Crowd Control Measures"](#2026-01-21-dhs-response-crowd-control) (Jan 21).
 
+## Editorial Assessment
+
+**HIGH** - The core incident (Bovino deploying a smoke canister near a school at dismissal) is confirmed by Star Tribune video evidence and multiple eyewitness accounts. Three independent sources plus video/photo documentation.
+
 ## Correction
 
 **Feb 8, 2026** — Canister identified by munitions experts as Defense Technology "Pocket Tactical Green Smoke," not hexachloroethane (HC).
@@ -66,7 +70,3 @@ Bovino serves as Border Patrol Commander at Large. A federal judge found him ["o
 **Why the original claim was wrong:** HC smoke produces white or gray smoke, never green. Dr. Juniper Simonis of the Chemical Weapons Research Consortium confirmed that the green color is diagnostic of a dye-based colored smoke grenade, not hexachloroethane. The green smoke uses organic dyes (Solvent Green 3) with potassium chlorate and lactose — an entirely different chemical class. [Factually.co](https://factually.co/fact-checks/military/hexachloroethane-hc-smoke-grenades-minnesota-2026-6249c7) rated the HC claim as "unverified/disputed."
 
 **Important context:** The Saf-Smoke colored smoke grenade is not harmless. The Union of Concerned Scientists has documented it releases toxic levels of benzene and formaldehyde, and its California Prop 65 warning lists lead salts, methylene chloride, and hexavalent chromium. Additionally, CS tear gas grenades (Triple-Chaser, Pocket Tactical CS, Rubber Ball Blast CS) and OC grenades were confirmed deployed across other Minneapolis ICE operations by [MinnPost](https://www.minnpost.com/metro/2026/01/my-eyes-were-stinging-the-chemicals-used-by-ice-when-they-confront-protesters-tear-gas-minneapolis/) and [Sahan Journal](https://sahanjournal.com/health/ice-minneapolis-tear-gas-dangerous-health-effects/). HC smoke grenades were confirmed used by federal agents in [Portland in 2025](https://www.portland.gov/hello/news/2025/7/8/update-chemical-munitions-use-near-ice-facility), which likely contributed to the assumption that HC was also used in Minneapolis.
-
-## Editorial Assessment
-
-**CORRECTED** - The core incident (Bovino deploying a smoke canister near a school at dismissal) is confirmed by Star Tribune video evidence. The chemical identification as hexachloroethane was incorrect — three munitions experts identified the canister as a Defense Technology "Pocket Tactical Green Smoke" grenade. The hexachloroethane claim originated from social media without physical evidence and was rated "unverified/disputed" by Factually.co.

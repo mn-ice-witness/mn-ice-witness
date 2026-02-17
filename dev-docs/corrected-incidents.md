@@ -36,7 +36,7 @@ Update `last_updated` with a fresh timestamp:
 
 **Do NOT add "(CORRECTED)" to the title.** The title stays clean. The `## Correction` section at the bottom of the incident and the `/corrections` page signal the correction.
 
-**The `## Correction` section goes at the bottom of the incident file, right before `## Editorial Assessment`.** The first line must be a bolded date followed by an em-dash and a brief description — this is what appears on the `/corrections` page.
+**The `## Correction` section goes at the very bottom of the incident file, after `## Editorial Assessment`.** The first line must be a bolded date followed by an em-dash and a brief description — this is what appears on the `/corrections` page.
 
 ```markdown
 ## Correction
@@ -64,11 +64,13 @@ For complex corrections where the original claim requires detailed explanation, 
 
 Rewrite the summary with corrected facts. Keep the heading as `## Summary`.
 
-### 4. Update Editorial Assessment
+### 4. Editorial Assessment Stays Unchanged
+
+**Do NOT change the Editorial Assessment to say CORRECTED.** The Editorial Assessment reflects the trustworthiness of the underlying incident (HIGH, MEDIUM, etc.), not the correction status. The `## Correction` section at the bottom handles that.
 
 ```markdown
 ## Editorial Assessment
-**CORRECTED** - [Explanation of what's confirmed vs what was wrong]
+**HIGH** - [Assessment of the incident's source quality, same as any other incident]
 ```
 
 ### 5. Add Correction Sources
@@ -89,7 +91,7 @@ If the incident ID contains the wrong claim (e.g., a chemical name that was disp
 - They appear in BOTH the CURRENT and CORRECTIONS sections of search-index.md
 - They are included in category JSON files and the sitemap
 - The `/corrections` page lists all corrected incidents with the brief correction description
-- On the incident page itself, the `## Correction` section appears at the bottom (before Editorial Assessment)
+- On the incident page itself, the `## Correction` section appears at the very bottom (after Editorial Assessment)
 - The `correctionNote` field in the summary JSON is extracted from the first line of `## Correction`
 - All original slugs/URLs continue to work (via redirects if renamed)
 
