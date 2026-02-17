@@ -31,7 +31,7 @@ search_tags: children, chemical-agents, observer-intimidated, src:star-tribune, 
 
 ---
 
-## Summary (Original)
+## Summary
 
 Border Patrol Commander Greg Bovino deployed a smoke canister at Mueller Park, near Ella Baker Global Studies & Humanities Magnet School, just after school dismissal. Video shows Bovino personally throwing the canister. A school bus was forced to drive through the smoke while transporting students home.
 

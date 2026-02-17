@@ -55,7 +55,7 @@ Add `(REMOVED)` to the title and insert a correction note block:
 
 ### 3. Update Summary Section
 
-Change the heading from `## Summary` to `## Summary (Original)` to clarify this was the original reporting.
+Rewrite the summary with corrected facts. Keep the heading as `## Summary`.
 
 ### 4. Update Editorial Assessment
 

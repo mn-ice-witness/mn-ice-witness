@@ -64,7 +64,7 @@ For complex corrections where the original claim requires detailed explanation, 
 
 ### 3. Update Summary Section
 
-Change `## Summary` to `## Summary (Original)` and rewrite the summary with corrected facts.
+Rewrite the summary with corrected facts. Keep the heading as `## Summary`.
 
 ### 4. Update Editorial Assessment
 

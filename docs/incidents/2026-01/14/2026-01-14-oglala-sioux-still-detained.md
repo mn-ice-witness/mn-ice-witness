@@ -27,7 +27,7 @@ search_tags: us-citizen, native-american, src:abc, src:cnn, src:mpr, src:other-n
 
 ---
 
-## Summary (Original)
+## Summary
 Four days after ICE detained four Oglala Sioux tribal members from a Minneapolis homeless encampment, three remain in custody at Fort Snelling. Tribal President Frank Star Comes Out issued a formal memorandum to DHS Secretary Kristi Noem and Interior Secretary Doug Burgum demanding immediate release, calling the detention "a treaty violation" and stating "tribal citizens are not aliens" and are "categorically outside immigration jurisdiction." DHS refused to provide information unless tribe enters immigration agreement with ICE.
 
 ## Sources
