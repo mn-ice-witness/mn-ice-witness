@@ -187,11 +187,10 @@ Published incidents visible on the main site.
 - incidents/2026-01/12/2026-01-12-silva-sosa-inver-grove-heights.md | 2026-01-12 | Inver Grove Heights | immigrants | Silva Sosa Parents Detained Days After I-130 Approval
 - incidents/2026-01/12/2026-01-12-jairo-pitalasig-north-high.md | 2026-01-12 | Minneapolis | immigrants | North High School Senior Detained at Construction Job, Deported to Ecuador
 - incidents/2026-01/12/2026-01-12-st-cloud-star-city-mall.md | 2026-01-12 | St. Cloud | immigrants, observers | 50+ ICE Agents Swarm Somali Mall in St. Cloud; Chemical Irritants Used on Protesters
-- incidents/2026-01/12/2026-01-12-detroit-lakes-china-buffet.md | 2026-01-12 | Detroit Lakes | immigrants | Honduran Man Arrested at Detroit Lakes Restaurant; Partner Documents on Video
+- incidents/2026-01/12/2026-01-12-detroit-lakes-china-buffet.md | 2026-01-12 | Detroit Lakes | immigrants | Man Arrested at Detroit Lakes Restaurant; Partner Documents on Video
 - incidents/2026-01/12/2026-01-12-christina-rank-teacher.md | 2026-01-12 | Inver Grove Heights | citizens, schools-hospitals | U.S. Citizen Special Education Teacher Detained for Nearly 12 Hours
 - incidents/2026-01/12/2026-01-12-christian-molina-car-rammed.md | 2026-01-12 | Minneapolis | citizens | ICE Rams Latino U.S. Citizen's Car, Releases Him After Confirming Identity
 - incidents/2026-01/12/2026-01-12-nimco-omar-citizen-check.md | 2026-01-12 | Minneapolis | citizens | Citizen Check: U.S. Citizen Confronted by ICE Agents While Walking
-- incidents/2026-01/12/2026-01-12-pilllar-forum-musicians.md | 2026-01-12 | Minneapolis | observers | Musicians and Fans Pepper Sprayed Outside NE Minneapolis Venue
 - incidents/2026-01/12/2026-01-12-minnesota-sues-to-halt-operation.md | 2026-01-12 | Minneapolis | background | Minnesota Sues Federal Government to Halt Operation Metro Surge
 - incidents/2026-01/12/2026-01-12-garrison-gibson-battering-ram.md | 2026-01-12 | Minneapolis | immigrants | Liberian Man Arrested With Battering Ram, No Judicial Warrant
 - incidents/2026-01/11/2026-01-11-irma-escoto-citizen-check.md | 2026-01-11 | West St. Paul | citizens | Citizen Check: U.S. Citizen Surrounded by ICE Agents at West St. Paul Restaurant
@@ -207,16 +206,16 @@ Published incidents visible on the main site.
 - incidents/2026-01/11/2026-01-11-pelican-rapids-residential-arrest.md | 2026-01-11 | Pelican Rapids | immigrants | ICE Conducts Door-to-Door Operations in Pelican Rapids
 - incidents/2026-01/11/2026-01-11-siguenza-okeefe-detained.md | 2026-01-11 | Minneapolis | observers | Two ICE Observers Detained 8 Hours, Pressured to Name Organizers
 - incidents/2026-01/11/2026-01-11-rogelio-jimenez-brooklyn-park.md | 2026-01-11 | Brooklyn Park | citizens | U.S. Citizen Detained by ICE in Brooklyn Park, Told to "Prove" Citizenship
+- incidents/2026-01/12/2026-01-12-pilllar-forum-musicians.md | 2026-01-11 | Minneapolis | observers | Musicians and Fans Pepper Sprayed Outside NE Minneapolis Venue
 - incidents/2026-01/2026-01-second-week-general-mills-chanhassen.md | 2026-01-10 | Chanhassen | immigrants | Contractor Detained at General Mills Chanhassen Facility
 - incidents/2026-01/10/2026-01-10-nicole-cleland-global-entry-revoked.md | 2026-01-10 | Richfield | observers | Observer's Global Entry and TSA PreCheck Revoked After CBP Agent Uses Facial Recognition
-- incidents/2026-01/10/2026-01-10-bloomington-ave-bus-stop.md | 2026-01-10 | Minneapolis | immigrants | ICE Agents "Ripping People From Cars" at Bus Stop; Union Marks Site as "Abduction" Location
+- incidents/2026-01/10/2026-01-10-bloomington-ave-bus-stop.md | 2026-01-10 | Minneapolis | immigrants | ICE Agents Removing People From Cars at Bus Stop; Union Marks Site as "Abduction" Location
 - incidents/2026-01/10/2026-01-10-raul-aguirre-castrejon-monticello.md | 2026-01-10 | Monticello | citizens | Legal Permanent Resident Boxed In on Road, Handcuffed at Gunpoint; Agents Take Cash from Wallet
 - incidents/2026-01/10/2026-01-10-maple-grove-walmart.md | 2026-01-10 | Maple Grove | immigrants | Man Pinned and Arrested Inside Maple Grove Walmart
 - incidents/2026-01/10/2026-01-10-ta-eh-doh-lah-refugee-detained.md | 2026-01-10 | St. Paul | citizens | Burmese Refugee Mother Arrested While Breastfeeding; Judge Orders Release From Texas
 - incidents/2026-01/10/2026-01-10-congressional-access-denied.md | 2026-01-10 | Minneapolis | background | Congressional Representatives Denied Access to Whipple ICE Facility
 - incidents/2026-01/10/2026-01-10-msp-airport-employees.md | 2026-01-10 | Minneapolis | immigrants | Multiple Airport Employees Detained by ICE at MSP
 - incidents/2026-01/09/2026-01-09-brandon-saenz-doordash.md | 2026-01-09 | St. Paul | immigrants | DoorDash Driver Arrested by ICE; Wife Flees Into Customer's Home
-- incidents/2026-01/09/2026-01-09-valleyview-elementary-absences.md | 2026-01-09 | Bloomington | schools-hospitals | 142 Students Absent from Valleyview Elementary Due to ICE Fears
 - incidents/2026-01/09/2026-01-09-hopkins-bryam-escobar.md | 2026-01-09 | Hopkins | immigrants | Hopkins Father Detained Going to Work; Later Released by Court Order
 - incidents/2026-01/09/2026-01-09-fridley-schools-closure.md | 2026-01-09 | Fridley | schools-hospitals | Fridley Public Schools Closes Twice Due to ICE Activity
 - incidents/2026-01/09/2026-01-09-dionne-thunder-powwow-grounds.md | 2026-01-09 | Minneapolis | observers | ICE Agents Attempt to Detain Indigenous Observer Near Powwow Grounds; Community Forces Retreat
@@ -224,6 +223,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/09/2026-01-09-troy-carrillo-pepper-sprayed.md | 2026-01-09 | Bloomington | observers | Observer Pepper Sprayed in Face by Agent from Same Vehicle That Threatened Him Two Days Earlier
 - incidents/2026-01/09/2026-01-09-abigail-salm-observer-detained.md | 2026-01-09 | Hopkins | observers | "Is This How You Want to Die?" — Observer Detained, Threatened with Bullet, Phone Stolen by Agent
 - incidents/2026-01/08/2026-01-08-alberto-castaneda-mondragon-head-injury.md | 2026-01-08 | St. Paul | immigrants | Immigrant Hospitalized With Skull Fractures After ICE Arrest; Says Beating Was Unprovoked
+- incidents/2026-01/08/2026-01-08-valleyview-elementary-absences.md | 2026-01-08 | Bloomington | schools-hospitals | 142 Students Absent from Valleyview Elementary Due to ICE Fears
 - incidents/2026-01/08/2026-01-08-timothy-brandon-projectile-protest.md | 2026-01-08 | Minneapolis | observers | 70-Year-Old Observer Struck by Projectile, Separates Shoulder Fleeing Tear Gas
 - incidents/2026-01/08/2026-01-08-dhs-response-radical-rhetoric.md | 2026-01-08 | Minneapolis | response | DHS Response: "Radical Rhetoric" From "Sanctuary Politicians" Causes 1,300% Increase in Assaults
 - incidents/2026-01/08/2026-01-08-rochester-gates-complex.md | 2026-01-08 | Rochester | immigrants | Multiple ICE Arrests in Rochester; Activist Documents Agent Using Hammer on Car Window

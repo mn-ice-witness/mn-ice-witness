@@ -1,5 +1,5 @@
 ---
-date: 2025-12-14
+date: 2025-12-13
 time: unknown
 location: Near Target store
 city: Minneapolis
@@ -16,11 +16,11 @@ search_tags: us-citizen, citizen-check, src:nbc, src:wcco, src:fox-news, src:bri
 # U.S. Citizen Son of Rep. Ilhan Omar Stopped by ICE, Released After Showing Passport
 
 ## Summary
-Adnan Hisri, the 20-year-old U.S.-born son of Rep. Ilhan Omar, was stopped by federal agents after leaving a Target store in Minneapolis. He was released after showing his passport. Rep. Omar said her son "always carries" his passport due to fears of racial profiling. DHS denied any record of the stop.
+Adnan Hirsi, the 20-year-old U.S.-born son of Rep. Ilhan Omar, was stopped by federal agents after leaving a Target store in Minneapolis. He was released after showing his passport. Rep. Omar said her son "always carries" his passport due to fears of racial profiling. DHS denied any record of the stop.
 
 ## Sources
 1. NBC News (Dec 15, 2025): [Rep. Ilhan Omar says her son was pulled over by ICE agents in Minnesota](https://www.nbcnews.com/politics/congress/ilhan-omar-son-pulled-over-ice-agents-minnesota-trump-administration-rcna249183)
-2. CBS News (Dec 15, 2025): [Minnesota Rep. Ilhan Omar says her son was pulled over by ICE, which claims "zero record" of the incident](https://www.cbsnews.com/minnesota/news/minnesota-rep-ilhan-omar-says-son-pulled-over-by-ice/)
+2. CBS Minnesota (Dec 15, 2025): [Minnesota Rep. Ilhan Omar says her son was pulled over by ICE, which claims "zero record" of the incident](https://www.cbsnews.com/minnesota/news/minnesota-rep-ilhan-omar-says-son-pulled-over-by-ice/)
 3. UPI (Dec 15, 2025): [Ilhan Omar says son stopped in Minnesota by ICE during Trump crackdown](https://www.upi.com/Top_News/US/2025/12/15/Minnesota-Ilhan-Omar-son-ICE/2381765833444/)
 4. Fox News (Dec 15, 2025): [Omar's son stopped by ICE agents in Minnesota, released after showing passport](https://www.foxnews.com/politics/ilhan-omar-claims-ice-pulled-son-racial-profiling-sweep-trumps-crackdown-minnesota)
 5. BET News (Dec 15, 2025): ["They Are Racially Profiling": Ilhan Omar says ICE stopped her son](https://www.bet.com/article/6qxy0k/they-are-racially-profiling-ilhan-omar-says-ice-stopped-her-son-in-minneapolis)
@@ -31,7 +31,7 @@ Adnan Hisri, the 20-year-old U.S.-born son of Rep. Ilhan Omar, was stopped by fe
 10. Star Tribune (Jan 18, 2026): [Allegations of racial profiling of U.S. citizens on the rise as ICE surge expands in Minnesota](https://www.startribune.com/allegations-of-racial-profiling-of-us-citizens-on-the-rise-as-ice-surge-expands-in-minnesota/601564653)
 
 ## Affected Individual(s)
-- **Name:** Adnan Hisri
+- **Name:** Adnan Hirsi
 - **Age:** 20
 - **Citizenship:** U.S. Citizen (born in United States)
 - **Relationship:** Son of Rep. Ilhan Omar (D-MN)

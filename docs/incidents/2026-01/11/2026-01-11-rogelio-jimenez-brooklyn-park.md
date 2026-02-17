@@ -20,8 +20,8 @@ Rogelio Jimenez, a U.S. citizen, was forcibly removed from his car by masked ICE
 
 ## Sources
 1. CBS Video (Jan 13, 2026): [During Minneapolis operation, ICE has repeatedly arrested U.S. citizens](https://www.cbsnews.com/minnesota/video/during-minneapolis-operation-ice-has-repeatedly-arrested-u-s-citizens/)
-2. CBS News (Jan 13, 2026): [U.S. citizens recount being detained by ICE during Minnesota operation](https://www.cbsnews.com/minnesota/news/us-citizens-arrested-by-ice-minneapolis/)
-3. CBS Minnesota (Jan 2026): [Woman, American citizen, describes being held by ICE for two days](https://www.cbsnews.com/minnesota/news/woman-american-citizen-describes-being-held-by-ice-for-two-days/)
+2. CBS Minnesota (Jan 13, 2026): [U.S. citizens recount being detained by ICE during Minnesota operation](https://www.cbsnews.com/minnesota/news/us-citizens-arrested-by-ice-minneapolis/)
+3. CBS Minnesota (Jan 21, 2026): [Woman, American citizen, describes being held by ICE for two days](https://www.cbsnews.com/minnesota/news/woman-american-citizen-describes-being-held-by-ice-for-two-days/)
 
 ## Affected Individual(s)
 - **Name:** Rogelio Jimenez
@@ -48,7 +48,7 @@ WCCO reached out to ICE for more information. The agency has not responded.
 ## Context
 This incident is part of a documented pattern of ICE detaining U.S. citizens during Operation Metro Surge. WCCO has documented multiple instances where ICE has detained and, at times, physically harmed American citizens in Minnesota since the operation began.
 
-U.S. Border Patrol Commander Greg Bovino stated that people who are in the country legally "shouldn't be concerned," but dozens of similar reports on social media have prompted many Americans in Minnesota to carry passports and other legal documents out of fear of being stopped.
+U.S. Border Patrol Commander Greg Bovino stated that U.S. citizens have "no reason to be scared," but dozens of similar reports on social media have prompted many Americans in Minnesota to carry passports and other legal documents out of fear of being stopped.
 
 ## Editorial Assessment
 **HIGH** - Video evidence from multiple angles (dashcam, cell phone, bystander). Named affected individual (Rogelio Jimenez) with direct quotes in established local outlet (CBS Minnesota/WCCO). ICE has not responded to request for comment.

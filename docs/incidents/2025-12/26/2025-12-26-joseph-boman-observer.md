@@ -19,8 +19,8 @@ search_tags: us-citizen, observer-detained, src:other-local, src:other-national
 Joseph Boman, a U.S. citizen and activist observer, was photographed by federal agents at a Minnoco gas station in Richfield. Agents then followed him and coordinated with Hennepin County Sheriff's deputies, who arrested him in a private parking lot across from the Whipple Federal Building after he observed ICE operations.
 
 ## Sources
-1. Unicorn Riot (Jan 7, 2026): [ICE Agents Alter Tactics, Work With Impunity While Violating US Citizen's Rights in Minnesota](https://unicornriot.ninja/2026/ice-agents-alter-tactics-work-with-impunity-while-violating-us-citizens-rights-in-minnesota/)
-2. Status Coup Substack (Jan 7, 2026): [EXCLUSIVE - ICE Sending False Tips to Cops of Being "Stalked" By Activists](https://www.statuscoupsubstack.com/p/exclusive-ice-sending-false-tips)
+1. Unicorn Riot (Jan 8, 2026): [ICE Agents Alter Tactics, Work With Impunity While Violating US Citizen's Rights in Minnesota](https://unicornriot.ninja/2026/ice-agents-alter-tactics-work-with-impunity-while-violating-us-citizens-rights-in-minnesota/)
+2. Status Coup Substack (Dec 30, 2025): [EXCLUSIVE - ICE Sending False Tips to Cops of Being "Stalked" By Activists](https://www.statuscoupsubstack.com/p/exclusive-ice-sending-false-tips)
 3. X Post (Jan 7, 2026): [Update: Joseph Boman was released last night on probable cause hold](https://x.com/Combs0294/status/2004959262431388140)
 
 ## Affected Individual(s)
@@ -44,4 +44,4 @@ This incident demonstrates:
 The incident occurred during "Operation Metro Surge" when federal agents appeared to be using tactics to sidestep a Minneapolis ordinance that restricts city police from cooperating with ICE. By coordinating with Hennepin County Sheriff instead, agents circumvented the city's restrictions.
 
 ## Editorial Assessment
-**MEDIUM** - Single source (Unicorn Riot) with photos showing surveillance. Named U.S. citizen affected individual. Demonstrates pattern of targeting observers and coordination with county law enforcement to avoid city restrictions.
+**MEDIUM** - Two independent sources (Unicorn Riot, Status Coup) plus social media corroboration. Named U.S. citizen affected individual. Demonstrates pattern of targeting observers and coordination with county law enforcement to avoid city restrictions.

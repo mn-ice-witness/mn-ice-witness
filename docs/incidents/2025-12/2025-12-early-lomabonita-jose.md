@@ -1,7 +1,7 @@
 ---
 date: 2025-12-01
 time: lunchtime
-location: Lomabonita restaurant, Margaret Street and White Bear Avenue
+location: Lomabonita restaurant, East St. Paul
 city: St. Paul (East Side)
 type: immigrants
 status: ongoing
@@ -16,10 +16,10 @@ search_tags: legal-resident, src:other-local
 # Man With Legal Protection Status Detained at Restaurant; Vehicle Abandoned
 
 ## Summary
-Jose, a Salvadoran immigrant with legal withholding-of-removal protection status (a form of legal protection meant to prevent deportation), was detained by federal agents during lunch at Lomabonita restaurant on St. Paul's East Side. Agents abandoned his vehicle with construction tools on Margaret Street and White Bear Avenue.
+Jose, a Salvadoran immigrant with legal withholding-of-removal protection status (a form of legal protection meant to prevent deportation), was pulled over and detained by federal agents while getting lunch at Lomabonita in East St. Paul. Agents took his vehicle and abandoned it on a side street at Margaret Street and White Bear Avenue with his construction tools still inside.
 
 ## Sources
-1. Unicorn Riot (Jan 7, 2026): [ICE Agents Alter Tactics, Work With Impunity While Violating US Citizen's Rights in Minnesota](https://unicornriot.ninja/2026/ice-agents-alter-tactics-work-with-impunity-while-violating-us-citizens-rights-in-minnesota/)
+1. Unicorn Riot (Jan 8, 2026): [ICE Agents Alter Tactics, Work With Impunity While Violating US Citizen's Rights in Minnesota](https://unicornriot.ninja/2026/ice-agents-alter-tactics-work-with-impunity-while-violating-us-citizens-rights-in-minnesota/)
 
 ## Affected Individual(s)
 - **Name:** Jose (last name withheld for safety)

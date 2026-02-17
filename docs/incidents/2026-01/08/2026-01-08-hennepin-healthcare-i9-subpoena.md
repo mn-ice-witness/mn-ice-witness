@@ -37,7 +37,7 @@ The Department of Homeland Security issued a subpoena to Hennepin Healthcare on 
 - **Dec 31, 2025** - ICE agents enter HCMC, shackle patient to bed for 28 hours without warrant.
 - **Jan 6, 2026** - County Commissioner Angela Conley, legislators, and Unidos MN hold press conference at HCMC blasting ICE conduct.
 - **Jan 8, 2026** - DHS issues subpoena for employee records (2 days after public criticism).
-- **Jan 15, 2026** - Hennepin County Board votes unanimously to condemn ICE and call for removal from Minnesota.
+- **Jan 13, 2026** - Hennepin County Board votes unanimously to condemn ICE and call for removal from Minnesota.
 
 ### Retaliation Concerns
 County Commissioner Angela Conley explicitly called the employment audit a "retaliatory move" at a press conference with other local elected leaders. The subpoena was issued just two days after officials publicly criticized ICE's hospital conduct.

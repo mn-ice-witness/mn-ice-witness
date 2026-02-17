@@ -20,9 +20,9 @@ ICE conducted enforcement operations across Rochester on January 8-9, 2026, with
 
 ## Sources
 1. KTTC (Jan 9, 2026): [Federal immigration agents conduct arrests in Rochester](https://www.kttc.com/2026/01/09/federal-immigration-agents-conduct-arrests-rochester/)
-2. KTTC (Jan 9, 2026): [30 detained by ICE in SE Minnesota, NE Iowa according to 'worst of the worst' webpage](https://www.kttc.com/2026/01/12/30-detained-by-ice-se-minnesota-ne-iowa-according-worst-worst-webpage/)
+2. KTTC (Jan 12, 2026): [30 detained by ICE in SE Minnesota, NE Iowa according to 'worst of the worst' webpage](https://www.kttc.com/2026/01/12/30-detained-by-ice-se-minnesota-ne-iowa-according-worst-worst-webpage/)
 3. Post Bulletin (Jan 9, 2026): [Increased ICE presence being reported in Rochester](https://www.postbulletin.com/news/local/increased-ice-presence-being-reported-in-rochester)
-4. KIMT (Jan 9, 2026): [ICE agents arrest man outside of KIMT News 3 studios](https://www.kimt.com/news/ice-agents-arrest-man-outside-of-kimt-news-3-studios/)
+4. KIMT (Jan 9, 2026): [ICE agents arrest man outside of KIMT News 3 studios](https://www.kimt.com/news/ice-agents-arrest-man-outside-of-kimt-news-3-studios/article_71ba9ac0-3beb-457d-9318-66e65bf74842.html)
 
 ## Number of Arrests
 - **COPAL MN-Rochester confirmed:** 5 arrests as of 3 p.m. on January 8th

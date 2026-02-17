@@ -16,7 +16,7 @@ search_tags: observer-intimidated, excessive-force, shooting, src:other-national
 # ICE Agent Points Gun at Protester's Face at Point-Blank Range
 
 ## Summary
-During protests in Minneapolis following the fatal shooting of Renee Good, video footage captured an ICE agent pulling a gun on a protester and placing the barrel just a few inches from the person's face. The incident occurred on Thursday, January 8, 2026, the day after Good was killed.
+During protests in Minneapolis following the fatal shooting of Renee Good, video footage captured an ICE agent pointing a gun at a protester at point-blank range. The incident occurred on Thursday, January 8, 2026, the day after Good was killed.
 
 ## Sources
 1. X Video (Jan 8, 2026): [Middle East Eye: ICE agent points gun at protester](https://x.com/MiddleEastEye/status/2009610981714931841/video/1)

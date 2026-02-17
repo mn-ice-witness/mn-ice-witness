@@ -20,7 +20,7 @@ Bryam Escobar Martinez, a father of two from Hopkins, was detained by ICE while 
 
 ## Sources
 1. MPR News (Jan 10, 2026): [Hopkins family demands answers after ICE arrests father](https://www.mprnews.org/story/2026/01/09/hopkins-ice-arrest-of-father-disrupts-family-of-four)
-2. MPR News (Jan 10, 2026): [Court orders Hopkins man detained by ICE released from custody](https://www.mprnews.org/story/2026/01/12/court-orders-hopkins-man-detained-by-ice-in-latest-enforcement-surge-released-from-custody)
+2. MPR News (Jan 12, 2026): [Court orders Hopkins man detained by ICE released from custody](https://www.mprnews.org/story/2026/01/12/court-orders-hopkins-man-detained-by-ice-in-latest-enforcement-surge-released-from-custody)
 
 ## Affected Individual(s)
 - **Name:** Bryam Escobar Martinez

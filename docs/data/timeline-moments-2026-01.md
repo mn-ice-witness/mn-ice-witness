@@ -181,7 +181,7 @@ title: 5-Year-Old Liam Ramos Detained
 incident: 2026-01-20-liam-ramos-detained
 source:
 ---
-Five-year-old Liam Conejo Ramos and his father are detained by ICE in Columbia Heights and flown to Dilley, Texas — where [Elizabeth Caisaguano](/entry/2026-01-06-elizabeth-caisaguano-detained) has been held for two weeks. Liam becomes the youngest known detainee and the most widely covered story of the operation. On February 1, Judge Fred Biery orders their release after 12 days, citing the government's "ill-conceived and incompetently implemented pursuit of daily deportation quotas." Three days later, [Elizabeth Caisaguano](/entry/2026-01-06-elizabeth-caisaguano-detained) is also released. On February 6, DHS files removal proceedings against the 5-year-old and his father; attorney Danielle Molliver calls the move "extraordinary" and possibly "retaliatory."
+Five-year-old Liam Conejo Ramos and his father are detained by ICE in Columbia Heights and flown to Dilley, Texas — where [Elizabeth Caisaguano](/entry/2026-01-06-elizabeth-caisaguano-detained) has been held for two weeks. Liam becomes the youngest known detainee and the most widely covered story of the operation. On January 31, Judge Fred Biery orders their release after 12 days, citing the government's "ill-conceived and incompetently implemented pursuit of daily deportation quotas." Three days later, [Elizabeth Caisaguano](/entry/2026-01-06-elizabeth-caisaguano-detained) is also released. On February 6, DHS files removal proceedings against the 5-year-old and his father; attorney Danielle Molliver calls the move "extraordinary" and possibly "retaliatory."
 
 ---
 date: 2026-01-21

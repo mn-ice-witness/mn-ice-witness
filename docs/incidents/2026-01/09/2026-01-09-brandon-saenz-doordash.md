@@ -26,10 +26,10 @@ Brandon Steven Saenz was arrested by ICE agents when he and his wife arrived at 
 5. Threads (Jan 9, 2026): [Video share identifying location as Saint Paul](https://www.threads.com/@northstarchronicles507/post/DTTsI1KD8Kj/)
 6. X Post (Jan 9, 2026): [Repost noting child left in car](https://x.com/ICEofTikTok/status/2009329330997088418)
 7. X Post (Jan 9, 2026): [Commentary on incident](https://x.com/MarkNaughton9/status/2009349224031572133)
-8. IBTimes UK (Jan 15, 2026): ['I Ordered DoorDash and ICE Showed Up': Delivery Driver Seeks Safety Inside Customer's Home](https://www.ibtimes.co.uk/i-ordered-doordash-ice-showed-delivery-driver-seeks-safety-inside-customers-home-1770394)
-9. Inkl (Jan 15, 2026): ['I Ordered DoorDash and ICE Showed Up'](https://www.inkl.com/news/i-ordered-doordash-and-ice-showed-up-delivery-driver-seeks-safety-inside-customer-s-home)
+8. IBTimes UK (Jan 13, 2026): ['I Ordered DoorDash and ICE Showed Up': Delivery Driver Seeks Safety Inside Customer's Home](https://www.ibtimes.co.uk/i-ordered-doordash-ice-showed-delivery-driver-seeks-safety-inside-customers-home-1770394)
+9. Inkl (Jan 13, 2026): ['I Ordered DoorDash and ICE Showed Up'](https://www.inkl.com/news/i-ordered-doordash-and-ice-showed-up-delivery-driver-seeks-safety-inside-customer-s-home)
 10. MundoNow (Jan 15, 2026): [Delivery Driver Flees ICE and Takes Refuge in a Customer's Home](https://mundonow.com/en/ice-chase-of-immigrant-delivery-driver/)
-11. The Nerd Stash (Jan 15, 2026): [Brave Minnesota Woman Stands Up to ICE Agents](https://thenerdstash.com/brave-minnesota-woman-stands-up-to-ice-agents-after-female-doordasher-takes-shelter-in-her-home-its-time-we-rise-up/)
+11. The Nerd Stash (Jan 9, 2026): [Brave Minnesota Woman Stands Up to ICE Agents](https://thenerdstash.com/brave-minnesota-woman-stands-up-to-ice-agents-after-female-doordasher-takes-shelter-in-her-home-its-time-we-rise-up/)
 
 ## Affected Individual(s)
 - **Name:** Brandon Steven Saenz
@@ -51,7 +51,7 @@ Brandon Steven Saenz was arrested by ICE agents when he and his wife arrived at 
 The homeowner documented the incident on TikTok and provided updates. She is described as a Native American woman who stood firm against ICE demands, refusing to allow entry without a warrant.
 
 ### Wife's Statement (via update video)
-The wife stated that she and her husband "had never committed any crime" and described themselves as "good people."
+The wife stated that she and her husband "have never committed any crime" and described themselves as "good people."
 
 ## Context
 This incident occurred approximately two days after ICE agent Jonathan Ross fatally shot Renee Good in south Minneapolis on January 7, 2026, during a period of heightened ICE activity in the Twin Cities.

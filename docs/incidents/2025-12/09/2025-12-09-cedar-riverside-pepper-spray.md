@@ -30,7 +30,7 @@ As ICE agents attempted to leave the Cedar-Riverside neighborhood after detainin
 9. Sahan Journal (Dec 17, 2025): [ACLU takes legal action against ICE for detaining U.S. citizens in Minnesota](https://sahanjournal.com/immigration/ice-minnesota-aclu-lawsuit-observer-rights/)
 10. New York Times (Jan 18, 2026): [Minneapolis federal agents misconduct protesters](https://www.nytimes.com/2026/01/18/us/minneapolis-federal-agents-misconduct-protesters.html)
 11. Star Tribune (Jan 13, 2026): [Federal judge considers arguments in Twin Cities residents' lawsuit alleging mistreatment by ICE](https://www.startribune.com/federal-judge-considers-arguments-in-twin-cities-residents-lawsuit-alleging-mistreatment-by-ice/601562654)
-12. Jurist (Jan 2026): [Judge partially blocks Operation Metro Surge tactics against protesters in Minnesota](https://www.jurist.org/news/2026/01/judge-partially-blocks-operation-metro-surge-tactics-against-protesters-in-minnesota/)
+12. Jurist (Jan 17, 2026): [Judge partially blocks Operation Metro Surge tactics against protesters in Minnesota](https://www.jurist.org/news/2026/01/judge-partially-blocks-operation-metro-surge-tactics-against-protesters-in-minnesota/)
 13. KSTP (Dec 9, 2025): [ICE in Minnesota: Agents pepper spray crowd in Cedar-Riverside](https://kstp.com/kstp-news/top-news/ice-in-minnesota-agents-pepper-spray-crowd-in-cedar-riverside/)
 14. KARE 11 (Dec 2025): [Residents afraid of ICE agents in Cedar-Riverside, even with documentation](https://www.kare11.com/article/news/local/residents-afraid-of-ice-agents-in-cedar-riverside-even-with-documentation-mn/89-81b8e61f-f958-4022-b6cc-63ace6c7edf3)
 

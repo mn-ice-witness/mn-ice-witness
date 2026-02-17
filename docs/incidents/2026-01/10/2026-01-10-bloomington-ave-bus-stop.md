@@ -10,13 +10,13 @@ injuries: none
 trustworthiness: high
 created: 2026-01-15T20:00:44
 last_updated: 2026-01-15T20:00:44
-search_tags: excessive-force, warrantless-entry, src:sahan-journal, src:other-national
+search_tags: excessive-force, src:sahan-journal, src:other-local
 ---
 
-# ICE Agents "Ripping People From Cars" at Bus Stop; Union Marks Site as "Abduction" Location
+# ICE Agents Removing People From Cars at Bus Stop; Union Marks Site as "Abduction" Location
 
 ## Summary
-On January 10, 2026, ICE agents created a chaotic scene at a bus stop at 31st Street and Bloomington Avenue South in Minneapolis, blocking traffic, "ripping people from their cars," and using "excessive force" according to a Metro Transit bus operator who witnessed the incident. The scene caused anxiety and fear for transit workers and passengers. The Amalgamated Transit Union later held a rally at the site, posting a sign reading "Minnesotans were abducted here."
+On January 10, 2026, ICE agents created a chaotic scene at a bus stop at 31st Street and Bloomington Avenue South in Minneapolis, blocking traffic and removing individuals from their cars, according to ATU Local 1005. A Metro Transit bus operator witnessed the incident, which the union described as a "violent detention" in broad daylight. The Amalgamated Transit Union later held a rally at the site, posting a sign reading "Minnesotans were abducted here."
 
 ## Sources
 1. Workday Magazine (Jan 14, 2026): [Metro Transit Workers Rally at Bus Stop Where ICE Abduction Took Place](https://workdaymagazine.org/metro-transit-workers-rally-at-bus-stop-where-ice-abduction-took-place-demand-ice-not-interfere-with-transit-operations/)
@@ -25,14 +25,12 @@ On January 10, 2026, ICE agents created a chaotic scene at a bus stop at 31st St
 ## Witness Account
 
 ### Metro Transit Bus Operator
-According to ATU Local 1005 President David Stiggers, a bus operator witnessed ICE agents:
-- "Ripping people from their cars"
-- Using "excessive force"
+According to ATU Local 1005, a bus operator witnessed ICE agents creating a chaotic scene:
+- Removing individuals from their cars
 - Blocking traffic
-- Removing individuals from vehicles
 - Blocking the bus from proceeding through the intersection
 
-The incident happened in broad daylight and "caused a ton of anxiety and fear" for the operator and everyone who witnessed it.
+The union described the incident as a "violent detention" that occurred in broad daylight.
 
 ## Union Response
 
@@ -45,7 +43,7 @@ On January 14, 2026, Metro Transit workers and allies gathered at the corner of 
 David Stiggers, ATU 1005 President, stated that bus drivers have the right to refuse to open doors for masked, unidentified agents, and that armed agents without identification pose safety risks to operators and passengers.
 
 ## Context
-This incident occurred during Operation Metro Surge, with approximately 3,000 federal agents deployed to the Minneapolis area. It came three days after the fatal shooting of Renee Good and demonstrates the expansion of ICE tactics into public transit areas.
+This incident occurred during Operation Metro Surge, with thousands of federal agents deployed to the Minneapolis area. It came three days after the fatal shooting of Renee Good.
 
 ## Editorial Assessment
 **HIGH** - Named union official (David Stiggers) on record. Multiple news sources (Workday Magazine, Sahan Journal). Documented union press conference and rally. Physical marker ("abducted here" sign) placed at location. Part of documented pattern of aggressive tactics at public locations.

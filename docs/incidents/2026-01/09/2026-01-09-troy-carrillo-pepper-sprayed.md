@@ -10,7 +10,7 @@ injuries: minor
 trustworthiness: high
 created: 2026-02-08T14:16:20
 last_updated: 2026-02-08T14:16:20
-search_tags: us-citizen, observer-intimidated, excessive-force, chemical-agents, src:other-national
+search_tags: us-citizen, observer-intimidated, excessive-force, chemical-agents
 ---
 
 # Observer Pepper Sprayed in Face by Agent from Same Vehicle That Threatened Him Two Days Earlier
@@ -20,7 +20,6 @@ Troy Carrillo, a 40-year-old Richfield resident, was pepper sprayed twice in the
 
 ## Sources
 1. Court filing (Jan 12, 2026): [Declaration of Troy Carrillo, Tincher v. Noem](https://storage.courtlistener.com/recap/gov.uscourts.mnd.229758/gov.uscourts.mnd.229758.60.0_1.pdf)
-2. Local News Matters / Bay City News (Feb 4, 2026): [Thawing ICE: Minneapolis protesters defy the cold and federal forces in ongoing solidarity](https://localnewsmatters.org/2026/02/04/thawing-ice-minneapolis-protesters-defy-the-cold-and-federal-forces-in-ongoing-solidarity/)
 
 ## Affected Individual(s)
 
@@ -64,4 +63,4 @@ Carrillo's declaration was filed January 12, 2026, as Document 60. The apparent 
 The apparent connection between the two incidents is significant. On January 7, agents in a maroon Dodge Ram with Iowa plates photographed Carrillo and his car and pointed mace at him. Two days later, at a different location on the same road, Carrillo recognized what he believed was the same maroon Dodge Ram moments before being pepper sprayed. If the vehicle was indeed the same, this suggests agents identified and targeted a known observer rather than responding to any immediate threat. Carrillo was standing 10 feet away and walking away when he was sprayed.
 
 ## Editorial Assessment
-**HIGH** - Sworn declaration filed in federal court (Tincher v. Noem, Doc. 60). Detailed account of two linked incidents suggesting targeted retaliation against an observer. The elderly woman's subsequent release confirms agents were conducting an unlawful detention at the time Carrillo was sprayed for recording it. Referenced in Local News Matters / Bay City News longform reporting.
+**HIGH** - Sworn declaration filed in federal court (Tincher v. Noem, Doc. 60). Detailed account of two linked incidents suggesting targeted retaliation against an observer. The elderly woman's subsequent release confirms agents were conducting an unlawful detention at the time Carrillo was sprayed for recording it.

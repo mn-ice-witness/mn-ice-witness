@@ -1,5 +1,5 @@
 ---
-date: 2026-01-12
+date: 2026-01-11
 time: evening
 location: Pilllar Forum, 2300 Central Ave NE
 city: Minneapolis

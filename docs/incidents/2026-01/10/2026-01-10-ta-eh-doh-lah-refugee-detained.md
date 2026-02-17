@@ -16,7 +16,7 @@ search_tags: legal-resident, children, family-separation, warrantless-entry, ope
 # Burmese Refugee Mother Arrested While Breastfeeding; Judge Orders Release From Texas
 
 ## Summary
-ICE agents arrested Ta Eh Doh Lah, a lawfully admitted Burmese refugee and mother of four, inside her St. Paul apartment one day after the launch of Operation PARRIS. She was breastfeeding her five-month-old infant at the time. Despite having no criminal history and a pending green card application filed on the first day she was eligible, she was transferred to a detention facility in Texas approximately 1,800 miles from her children. A federal judge ruled her detention unlawful and ordered her immediate release and return to Minnesota.
+ICE agents arrested Ta Eh Doh Lah, a lawfully admitted Burmese refugee and mother of four, inside her St. Paul apartment one day after the public announcement of Operation PARRIS. She was breastfeeding her five-month-old infant at the time. Despite having no criminal history and a pending green card application filed on the first day she was eligible, she was transferred to a detention facility in Texas approximately 1,800 miles from her children. A federal judge ruled her detention unlawful and ordered her immediate release and return to Minnesota.
 
 <em style="color: #888;">**Note: This story seems to follow a pattern of Operation PARRIS (Post-Admission Refugee Reverification and Integrity Strengthening) -- see more details on this below.**</em>
 
@@ -37,7 +37,7 @@ ICE agents arrested Ta Eh Doh Lah, a lawfully admitted Burmese refugee and mothe
 - **Nov 6, 2024** - Admitted to the U.S. as a refugee with husband and three children; resettled in St. Paul.
 - **Summer 2025** - Gave birth to fourth child in the U.S.
 - **Nov 10, 2025** - Filed Form I-485 for permanent residence on the first day she was eligible.
-- **Jan 9, 2026** - USCIS launched Operation PARRIS targeting approximately 5,600 Minnesota refugees.
+- **Jan 9, 2026** - DHS publicly announced Operation PARRIS, targeting approximately 5,600 Minnesota refugees.
 - **Jan 10, 2026** - ICE agents entered her apartment building through a propped-open door, directed her husband to lead them to the apartment, and arrested her.
 - **Jan 11, 2026** - Habeas corpus petition filed in federal court by Linus Chan of the University of Minnesota Law School.
 - **Jan 17, 2026** - Missed scheduled cardiology appointment at the University of Minnesota while detained in Texas.
@@ -52,7 +52,7 @@ Judge Michael J. Davis wrote in his order: "There is something particularly crav
 
 Ta Eh Doh Lah's detention fits a documented pattern of ICE targeting refugees with pending green card applications under **Operation PARRIS** (Post-Admission Refugee Reverification and Integrity Strengthening). According to [Fox 9](https://www.fox9.com/news/minnesota-fraud-dhs-launching-operation-parris-target-refugees-jan-9), approximately 5,600 green card applicants in Minnesota are being targeted through this [official DHS operation](https://www.uscis.gov/newsroom/news-releases/dhs-launches-landmark-uscis-fraud-investigation-in-minnesota).
 
-[Global Refuge](https://www.globalrefuge.org/news/refugee-arrests-minnesota/) has documented that lawfully present refugees are being detained and transported to Texas within 24 hours with "no due process, no access to an attorney."
+[Global Refuge](https://www.globalrefuge.org/news/refugee-arrests-minnesota/) has called for "meaningful due process" and raised concerns about lawfully present refugees being swept up in enforcement actions.
 
 ## Editorial Assessment
 **HIGH** - Federal court ruling (primary source) with detailed findings of fact, plus independent news coverage. Judge Davis's order provides authoritative documentation of the arrest circumstances, Ms. Lah's legal status, and the unlawfulness of her detention.

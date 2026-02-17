@@ -53,17 +53,12 @@ Paredes reported:
 - No access to religious services over Christmas.
 
 ## Church Surveillance (January 4, 2026)
-Hopkins Mayor Patrick Hanlon reported:
-- ICE agents were "definitely out in front of the church, waiting in front of the church" on Epiphany.
-- Pastor Fr. Paul Haverstock observed: "men wearing ski masks in a car outside the church."
-- Vehicles had "out-of-state license plates."
-- Agents were "apparently surveilling" the parish.
-- Agents did not enter the church.
+Hopkins Mayor Patrick Hanlon confirmed ICE agents were "definitely out in front of the church, waiting in front of the church" on Epiphany. Pastor Fr. Paul Haverstock said he had vested for the 1 p.m. Spanish Mass when a parishioner told him about "men wearing ski masks in a car outside the church." Vehicles had "out-of-state license plates." Haverstock stated: "They came to our church, and even though they didn't enter, they were apparently surveilling us." Agents did not enter the church.
 
 ## Impact on Parish
 - Spanish Mass attendance dropped from 400+ to approximately 200 after Paredes' arrest.
 - Pastor considering offering temporary Sunday Mass dispensation for those afraid to attend.
-- Church members creating "stumble stone" signs inspired by Holocaust memorials.
+- Parish created an ad hoc mercy service team to help impacted immigrants.
 
 ## Official Accounts
 
@@ -71,7 +66,7 @@ Hopkins Mayor Patrick Hanlon reported:
 A DHS spokesperson said ICE "does not raid churches," calling such allegations "smears."
 
 ### Mayor Patrick Hanlon (Hopkins)
-Confirmed the church surveillance incident and stated: "They came to our church, and even though they didn't enter, they were apparently surveilling us."
+Confirmed the church surveillance incident. Created an Instagram reel urging ICE to obey local laws in Hopkins.
 
 ## Context
 The Trump administration eliminated the federal policy that generally prohibited immigration enforcement in "sensitive locations" such as schools, churches, and hospitals in 2025.

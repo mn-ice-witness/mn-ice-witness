@@ -13,13 +13,13 @@ last_updated: 2026-01-14T08:54:15
 search_tags: workplace-raid, src:other-local
 ---
 
-# Brooklyn Park Cook Arrested Outside Workplace; Restaurant Forced to Close
+# Brooklyn Park Cook Arrested Outside Workplace; Restaurant Remains Closed
 
 ## Summary
-Jorge Vergara Rubio, an Ecuadorian cook, was arrested by ICE outside his employer Crumbs and Coffee in Brooklyn Park. His employer claims Rubio was legally authorized to work at the time of arrest, though ICE states his employment authorization application was denied in September 2025. The restaurant was forced to close following the arrest.
+Jorge Vergara Rubio, an Ecuadorian cook, was arrested by ICE outside his employer Crumbs and Coffee in Brooklyn Park. His employer claims Rubio was legally authorized to work at the time of arrest, though ICE states his employment authorization application was denied in September 2025. The restaurant remains closed following the arrest.
 
 ## Sources
-1. Hometown Source (Dec 13, 2025): [Arrest of Brooklyn Park cook heightens ICE concerns](https://www.hometownsource.com/press_and_news/news/publicsafety/arrest-of-brooklyn-park-cook-heightens-ice-concerns/article_e7bc4b44-f14d-4d22-a0e3-c0d90ec1bf96.html)
+1. Hometown Source (Dec 19, 2025): [Arrest of Brooklyn Park cook heightens ICE concerns](https://www.hometownsource.com/press_and_news/news/publicsafety/arrest-of-brooklyn-park-cook-heightens-ice-concerns/article_e7bc4b44-f14d-4d22-a0e3-c0d90ec1bf96.html)
 
 ## Affected Individual(s)
 - **Name:** Jorge Vergara Rubio

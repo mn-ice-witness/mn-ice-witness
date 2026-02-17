@@ -16,7 +16,7 @@ search_tags: us-citizen, observer-intimidated, excessive-force, chemical-agents,
 # Clergy Pepper Sprayed at Scene of Renee Good Shooting
 
 ## Summary
-At least two pastors were shoved, shot at with pepper rounds, and exposed to pepper spray while protesting ICE actions in Minneapolis on January 7, 2026. Rev. Susie Hayward (United Church of Christ) was shoved by a DHS agent and exposed to drifting pepper spray. Rev. Ashley Horan (Unitarian Universalist Association) was livestreaming when an agent fired a pepper round just feet from her head.
+At least two clergy members were shoved, shot at with pepper rounds, and exposed to pepper spray while protesting ICE actions in Minneapolis on January 7, 2026. Rev. Susie Hayward (United Church of Christ) was shoved by a DHS agent and exposed to drifting pepper spray. Rev. Ashley Horan (Unitarian Universalist Association) was livestreaming when an agent fired a pepper round just feet from her head.
 
 ## Sources
 1. Religion News Service (Jan 8, 2026): [Minneapolis clergy exposed to pepper spray after rushing to scene of deadly ICE shooting](https://religionnews.com/2026/01/07/minneapolis-clergy-pepper-sprayed-after-rushing-to-scene-of-deadly-ice-shooting/)

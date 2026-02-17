@@ -40,7 +40,7 @@ ICE agents followed and rammed into the car of Christian Molina, a 40-year-old L
 - **Collision** - Agents ram into the back of his car
 - **Confrontation** - Agents ask about citizenship, request ID
 - **Refusal** - Molina refuses to comply, states he's a citizen and they'd need police
-- **Crowd gathers** - ~100 observers arrive, blowing whistles and honking horns
+- **Crowd gathers** - Observers arrive, blowing whistles and honking horns
 - **Release** - Agents release Molina after confirming his identity
 
 ## Affected Individual Statement
@@ -51,7 +51,7 @@ ICE agents followed and rammed into the car of Christian Molina, a 40-year-old L
 On the confrontation: He refused to show ID, stating he is a U.S. citizen and they would need to call police for identification.
 
 ## Witnesses
-Minneapolis City Council Member Jason Chavez arrived at the scene. A crowd of approximately 100 observers quickly gathered, blowing whistles and honking horns to support Molina.
+Minneapolis City Council Member Jason Chavez arrived at the scene. A crowd of observers quickly gathered, blowing whistles and honking horns to support Molina.
 
 ## Aftermath
 - Car sustained significant rear damage
@@ -63,7 +63,7 @@ Minneapolis City Council Member Jason Chavez arrived at the scene. A crowd of ap
 The incident occurred two blocks from where Renee Nicole Good was killed by an ICE agent on January 7.
 
 ## DHS Response
-DHS claimed ICE pulled over someone they suspected was in the country illegally and that "an agitator's reckless driving caused the accident."
+Assistant Secretary Tricia McLaughlin stated that ICE officers were conducting surveillance on a target when "an agitator's reckless driving caused the officer to get in a car wreck."
 
 **Contradicted by Molina**, who stated he was targeted based on his appearance and that ICE agents deliberately rammed into his car from behind.
 

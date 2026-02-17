@@ -19,16 +19,16 @@ search_tags: excessive-force, warrantless-entry, src:sahan-journal, src:mpr, src
 - **Feb 10** - DHS issues [new counter-statement via Fox News](https://www.foxnews.com/us/dhs-says-illegal-immigrant-injured-head-after-hitting-concrete-wall-while-fleeing-ice-denies-beating-claims) shifting its account: now claims Castañeda Mondragón attempted to escape, "ran toward a main highway," and "fell and hit his head against a concrete wall" — changing the earlier claim from "brick wall" to "concrete wall" and adding an escape attempt detail. Separately, a [GoFundMe campaign](https://www.gofundme.com/f/alberto-castaneda-mondragon) organized by Andy Dreyfuss has raised over $69,000 from ~1,230 donors toward a $100,000 goal for skull injury bills, memory care, and lost wages. Castañeda Mondragón has no health insurance.
 - **Feb 6** - [AP investigation](https://abcnews.go.com/US/wireStory/immigrant-skull-broken-places-ice-arrest-beating-unprovoked-129942949): Castañeda Mondragón recounts being beaten with a telescoping baton during arrest and again at Ft. Snelling. ICE court filing reveals he overstayed his visa. Minnesota leaders call for investigation.
 - **Jan 31** - [AP investigation](https://apnews.com/article/immigration-enforcement-minneapolis-hospitals-32cd5ca61d495e155d43b7cfd5e563b9) reveals HCMC medical staff believe his injuries are inconsistent with ICE's account. Discharged Jan 27; coworkers have taken him in. Significant memory loss, long recovery ahead.
-- **Jan 24** - Federal Judge Donovan Frank [orders immediate release](https://www.yahoo.com/news/articles/judge-orders-immediate-release-minnesota-014048216.html) from ICE custody. Unclear if ICE has complied.
+- **Jan 23** - Federal Judge Donovan Frank [orders immediate release](https://www.yahoo.com/news/articles/judge-orders-immediate-release-minnesota-014048216.html) from ICE custody. Unclear if ICE has complied.
 
 ## Summary
 Alberto Castañeda Mondragón, a Mexican national who entered the U.S. on a temporary work visa in March 2022 and later overstayed, was detained in St. Paul on January 8, 2026 during Operation Metro Surge. He sustained eight skull fractures and five life-threatening brain hemorrhages while in ICE custody. In his first interview, Castañeda Mondragón told AP that agents pulled him from a friend's car, threw him to the ground, handcuffed him, then punched him and struck his head with a telescoping steel baton (ASP). He says the beating continued at the Ft. Snelling detention facility, where officers "laughed at me and hit me again." ICE officers told hospital staff he "purposefully ran headfirst into a brick wall." A CT scan showed fractures to the front, back, and both sides of his skull — injuries doctors told AP were inconsistent with a fall. A federal judge ruled his arrest was unlawful and ordered his release. He was discharged from HCMC on January 27 with significant memory loss, balance problems, and inability to work.
 
 ## Sources
-1. Sahan Journal (Jan 15, 2026): [ICE detainee hospitalized with head injury, lawsuit filed](https://sahanjournal.com/health/ice-detainee-hospitalized-head-injury-lawsuit/)
+1. Sahan Journal (Jan 20, 2026): [ICE detainee hospitalized with head injury, lawsuit filed](https://sahanjournal.com/health/ice-detainee-hospitalized-head-injury-lawsuit/)
 2. MPR News (Jan 22, 2026): [Man with severe head wounds in ICE custody after being detained in St. Paul](https://www.mprnews.org/story/2026/01/22/man-with-severe-head-wounds-in-ice-custody-after-being-detained-in-st-paul)
 3. MPR News (Jan 22, 2026): [Man injured in ICE custody "purposely ran head first into a brick wall," agents say](https://www.mprnews.org/story/2026/01/22/man-injured-in-ice-custody-purposely-ran-head-first-into-a-brick-wall-agents-say)
-4. Yahoo News (Jan 25, 2026): [Judge orders immediate release of Minnesota ICE detainee](https://www.yahoo.com/news/articles/judge-orders-immediate-release-minnesota-014048216.html)
+4. The Independent via Yahoo News (Jan 24, 2026): [Judge orders immediate release of Minnesota ICE detainee](https://www.yahoo.com/news/articles/judge-orders-immediate-release-minnesota-014048216.html)
 5. AP News (Jan 31, 2026): [ICE claim that a man shattered his skull running into wall triggers tension at a Minnesota hospital](https://apnews.com/article/immigration-enforcement-minneapolis-hospitals-32cd5ca61d495e155d43b7cfd5e563b9)
 6. ABC7 Los Angeles (Jan 31, 2026): [ICE claim that a man shattered his skull running into wall triggers tension at a Minnesota hospital](https://abc7.com/post/ice-minneapolis-news-agents-claim-alberto-castaeda-mondragn-hit-wall-shattered-skull-triggers-tension-hospital/18514566/)
 7. AP/ABC News (Feb 6, 2026): [Immigrant whose skull was broken in eight places during ICE arrest says beating was unprovoked](https://abcnews.go.com/US/wireStory/immigrant-skull-broken-places-ice-arrest-beating-unprovoked-129942949)
@@ -36,7 +36,7 @@ Alberto Castañeda Mondragón, a Mexican national who entered the U.S. on a temp
 9. NPR (Feb 7, 2026): [Immigrant whose skull was broken in 8 places during ICE arrest says beating was unprovoked](https://www.npr.org/2026/02/07/g-s1-109219/immigrant-ice-arrest-beating)
 10. AP News (Feb 7, 2026): [Takeaways from AP report on immigrant who says ICE officers beat him during Minnesota arrest](https://apnews.com/article/immigration-enforcement-minneapolis-hospital-ice-beating-assault-529f0a080d5de5c35382c540d1c2124e)
 11. Common Dreams (Feb 7, 2026): ['There Was Never a Wall': Man beaten nearly to death by ICE refutes self-harm claim](https://www.commondreams.org/news/alberto-castaneda-mondragon)
-12. CBS Minnesota (Feb 2, 2026): [ICE claims that a man shattered his skull running into wall; Hennepin Healthcare doctors express skepticism](https://www.cbsnews.com/minnesota/news/ice-claim-that-a-man-shattered-his-skull-running-into-wall-triggers-tension-at-a-minnesota-hospital/)
+12. CBS Minnesota (Jan 31, 2026): [ICE claims that a man shattered his skull running into wall; Hennepin Healthcare doctors express skepticism](https://www.cbsnews.com/minnesota/news/ice-claim-that-a-man-shattered-his-skull-running-into-wall-triggers-tension-at-a-minnesota-hospital/)
 13. MPR News (Feb 7, 2026): [Minnesota immigrant says ICE arrest beating caused skull fractures](https://www.mprnews.org/story/2026/02/07/minnesota-immigrant-says-ice-arrest-beating-caused-skull-fractures)
 14. CBS Minnesota (Feb 7, 2026): [Immigrant whose skull was broken in eight places during ICE arrest says beating was unprovoked](https://www.cbsnews.com/minnesota/news/immigrant-whose-skull-was-broken-in-eight-places-during-ice-arrest-says-beating-was-unprovoked/)
 15. Bring Me The News (Feb 7, 2026): [Man who suffered skull fractures during arrest by ICE is seeking help for medical bills](https://bringmethenews.com/minnesota-news/man-who-suffered-skull-fractures-during-arrest-by-ice-is-seeking-help-for-medical-bills)
@@ -61,7 +61,7 @@ Alberto Castañeda Mondragón, a Mexican national who entered the U.S. on a temp
 - **During hospitalization** - Shackled to hospital bed despite medical staff warnings; family denied visitation. A week in, described as minimally responsive.
 - **Jan 20, 2026** - ICE officer William J. Robinson files court declaration stating Alberto entered legally and overstayed his visa.
 - **Jan 22, 2026** - Lawsuit filed; MPR News reports on case.
-- **Jan 24, 2026** - Federal Judge Donovan Frank rules arrest was unlawful, orders immediate release.
+- **Jan 23, 2026** - Federal Judge Donovan Frank rules arrest was unlawful, orders immediate release.
 - **Jan 27, 2026** - Discharged from hospital; taken in by coworkers.
 - **Feb 6, 2026** - AP publishes first-person account. Minnesota congressional leaders and St. Paul Mayor Kaohly Her call for investigation. Ramsey County Attorney urges him to file a police report.
 
@@ -106,7 +106,7 @@ A video posted to social media captured the moments immediately after the arrest
 - Family members were prevented from visiting.
 - ICE has "largely refused to provide information" about what happened.
 
-## Judge's Ruling (Jan 24, 2026)
+## Judge's Ruling (Jan 23, 2026)
 District Judge Donovan Frank ruled the arrest was unlawful and ordered immediate release from ICE custody, noting Alberto "was in the wrong place at the wrong time."
 
 The court declaration stated Castañeda Mondragón entered the U.S. legally in March 2022 and that the agency determined only after his arrest that he had overstayed his visa.

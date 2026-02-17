@@ -20,12 +20,12 @@ Rev. Kenny Callaghan, a Minneapolis pastor, was detained by ICE agents on Januar
 
 ## Sources
 1. KARE 11 (Jan 8, 2026): [Minneapolis pastor detained by ICE on same day Renee Good was shot](https://www.kare11.com/article/news/local/detained-pastor-says-ice-let-him-go-because-hes-white-mn/89-00df6b90-bae8-49b8-b980-941a4ba6ee8b)
-2. The Advocate (Jan 8, 2026): [Gay Minneapolis pastor says ICE agent pointed gun at his face](https://www.advocate.com/news/detained-pastor-ice-shooting)
+2. The Advocate (Jan 9, 2026): [Gay Minneapolis pastor says ICE agent pointed gun at his face](https://www.advocate.com/news/detained-pastor-ice-shooting)
 3. New Republic (Jan 8, 2026): [Pastor: ICE Let Me Free Because I'm White and It Wouldn't Be "Fun"](https://newrepublic.com/post/205105/minneapolis-pastor-ice-white-fun)
-4. The Root (Jan 15, 2026): [White Minneapolis Priest Details Disturbing ICE Detainment](https://www.theroot.com/watch-a-white-priest-was-detained-by-ice-what-he-clai-2000084584)
+4. The Root (Jan 14, 2026): [White Minneapolis Priest Details Disturbing ICE Detainment](https://www.theroot.com/watch-a-white-priest-was-detained-by-ice-what-he-clai-2000084584)
 5. IBTimes UK (Jan 15, 2026): ['Well, You're White': Minnesota Pastor Assaulted by ICE](https://www.ibtimes.co.uk/well-youre-white-minnesota-pastor-assaulted-ice-claims-raids-are-about-fear-intimidation-1770669)
 6. LGBTQ Nation (Jan 15, 2026): [Gay pastor says ICE agent pointed gun in his face](https://www.lgbtqnation.com/2026/01/gay-pastor-says-ice-agent-pointed-in-his-face-made-repulsive-comment/)
-7. The Mirror US (Jan 15, 2026): [Minneapolis pastor claims ICE agent 'waved gun' in his face](https://www.themirror.com/news/politics/minneapolis-pastor-claims-ice-agent-1615376)
+7. The Mirror US (Jan 13, 2026): [Minneapolis pastor claims ICE agent 'waved gun' in his face](https://www.themirror.com/news/politics/minneapolis-pastor-claims-ice-agent-1615376)
 8. Yahoo News (Jan 15, 2026): [Minneapolis Pastor Says He Was Detained by ICE](https://www.yahoo.com/news/articles/minneapolis-pastor-says-detained-ice-212824861.html)
 
 ## Affected Individual(s)

@@ -16,7 +16,7 @@ search_tags: us-citizen, observer-intimidated, src:intercept, src:fox9, src:othe
 # "Did You Not Learn From What Just Happened?" - ICE Agents Threaten Observer
 
 ## Summary
-Phil Maddox, a Minneapolis resident, was confronted by ICE agents while driving through his neighborhood to monitor federal activity. Agents accused him of following them, punched his car window, and made veiled death threats referencing the killing of Renee Good five days earlier, asking "Did you not learn from what just happened?" Maddox interpreted this as agents saying they have immunity to kill citizens.
+Phil Maddox, a Minneapolis resident, was confronted by ICE agents while driving through his neighborhood to monitor federal activity. Agents accused him of following them, knocked on his car window, and made veiled death threats referencing the killing of Renee Good four days earlier, asking "Did you not learn from what just happened?" Maddox interpreted this as agents saying they have immunity to kill citizens.
 
 ## Sources
 1. The Intercept (Jan 14, 2026): [Federal Agents Keep Invoking Killing of Renee Good to Threaten Protesters in Minnesota](https://theintercept.com/2026/01/14/ice-minneapolis-protests-renee-good/)
@@ -24,7 +24,6 @@ Phil Maddox, a Minneapolis resident, was confronted by ICE agents while driving 
 3. Inquisitr (Jan 13, 2026): [Video Shows ICE Agent Threatening Man Going to Church](https://www.inquisitr.com/video-shows-ice-agent-threatening-man-going-to-church-did-you-not-learn-from-what-just-happened)
 4. Raw Story (Jan 12, 2026): ['Did you not just learn?' ICE agents threaten MN churchgoer with Renee Good lesson](https://www.rawstory.com/renee-good-2674874951/)
 5. Facebook Video (Jan 12, 2026): [Incident footage](https://www.facebook.com/reel/906204785493223)
-6. Reddit Video (Jan 12, 2026): [Boxed in by ICE](https://www.reddit.com/)
 
 ## Affected Individual(s)
 - **Name:** Phil Maddox
@@ -34,8 +33,8 @@ Phil Maddox, a Minneapolis resident, was confronted by ICE agents while driving 
 ## Timeline
 - **Sunday morning** - Maddox drives around his south Minneapolis neighborhood to monitor ICE activity.
 - **During drive** - Multiple ICE agents confront Maddox at his vehicle.
-- **During confrontation** - Agent punches car window, shouts "Federal agent!"
-- **During confrontation** - Agent accuses Maddox of "following" them and "impeding operations."
+- **During confrontation** - Agent knocks on car window, shouts "Federal agent!"
+- **During confrontation** - Agent accuses Maddox of "following" them.
 - **During confrontation** - Maddox explains he lives in the area.
 - **During confrontation** - Agent threatens: "You're not going to like the outcome of this, sir. I guarantee that."
 - **During confrontation** - Agent asks: "Did you not learn from what just happened?" - referencing Renee Good's killing four days earlier.
@@ -64,4 +63,4 @@ The Intercept documented multiple ICE agents using similar language in separate 
 - The woman responds: "Learned what? What's our lesson here? What do you want us to learn?"
 
 ## Editorial Assessment
-**HIGH** - Investigative report from The Intercept with named affected individual (Phil Maddox) providing direct quotes and interview. Corroborated by FOX 9 local news coverage. Multiple video sources including Reddit original post and Facebook reel. The pattern of agents invoking Renee Good's killing as a threat was documented across multiple separate encounters.
+**HIGH** - Investigative report from The Intercept with named affected individual (Phil Maddox) providing direct quotes and interview. Corroborated by FOX 9 local news coverage and Facebook reel video. The pattern of agents invoking Renee Good's killing as a threat was documented across multiple separate encounters.

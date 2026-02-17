@@ -21,7 +21,7 @@ search_tags: observer-intimidated
 Video circulating on social media shows an ICE agent approaching a woman who was filming from a distance and snatching her phone. The agent tells her "Have you all not learned over the last couple of days" and falsely claims that following federal agents is illegal. The footage appears to have aired on NBC Nightly News with the chyron "NEW VIDEO SHOWS MINNEAPOLIS RESIDENTS CONFRONTING ICE AGENTS."
 
 ## Sources
-1. Threads (Jan 11, 2026): [@dougdedecker post](https://www.threads.com/@dougdedecker/post/DTY74cCiuCF/video-ice-assault-in-minneapolis-the-cell-phone-is-the-best-weapon-we-have) - "ICE assault in Minneapolis. The cell phone is the best weapon we have."
+1. Threads Video (Jan 11, 2026): [@dougdedecker post](https://www.threads.com/@dougdedecker/post/DTY74cCiuCF/video-ice-assault-in-minneapolis-the-cell-phone-is-the-best-weapon-we-have)
 
 ## Affected Individual(s)
 - **Name:** Unknown

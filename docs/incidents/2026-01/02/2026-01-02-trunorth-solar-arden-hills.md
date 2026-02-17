@@ -20,7 +20,7 @@ ICE agents raided TruNorth Solar factory in Arden Hills, Minnesota on January 2,
 
 ## Sources
 1. MEAWW (Jan 3, 2026): [ICE agents begin 2026 with first full-scale raid in a Minnesota factory](https://news.meaww.com/ice-agents-begin-2026-with-first-full-scale-raid-in-a-minnesota-factory)
-2. Pravda (Jan 3, 2026): [ICE reportedly raids TruNorth Solar factory in Arden Hills](https://usa.news-pravda.com/world/2026/01/02/602704.html)
+2. Pravda (Jan 2, 2026): [ICE reportedly raids TruNorth Solar factory in Arden Hills](https://usa.news-pravda.com/world/2026/01/02/602704.html)
 
 ## What Happened
 ICE agents descended on the TruNorth Solar factory in Arden Hills in what was described as the first major workplace raid of 2026. The raid occurred five days before the January 7 shooting of Renee Good that would dramatically escalate tensions.

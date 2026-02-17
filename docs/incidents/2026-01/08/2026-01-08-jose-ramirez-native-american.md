@@ -25,11 +25,11 @@ Jose Roberto "Beto" Ramirez, 20, U.S. citizen and Red Lake Nation descendant, wa
 ## Sources
 1. Star Tribune (Jan 9, 2026): [U.S. citizen arrested by ICE in Twin Cities immigration operation](https://www.startribune.com/us-citizen-arrested-ice-day-after-fatal-shooting-renee-good-twin-cities-immigration-operation/601560460)
 2. ICT News (Jan 9, 2026): ['I felt like I was kidnapped': Ojibwe man recounts ICE detainment](https://ictnews.org/news/i-felt-like-i-was-kidnapped-ojibwe-man-recounts-ice-detainment/)
-3. Native News Online (Jan 9, 2026): [Red Lake man kidnapped by ICE](https://nativenewsonline.net/currents/red-lake-man-kidnapped-by-ice)
+3. Native News Online (Jan 10, 2026): [Red Lake man kidnapped by ICE](https://nativenewsonline.net/currents/red-lake-man-kidnapped-by-ice)
 4. Washington Post (Jan 15, 2026): [Native Americans are being swept up by ICE in Minneapolis, tribes say](https://www.washingtonpost.com/politics/2026/01/15/native-americans-ice-minneapolis/)
 5. The Mirror (Jan 15, 2026): [ICE 'punches' Native American before making 'arrest taunt'](https://www.themirror.com/news/us-news/native-american-detained-ice-minnesota-1609397)
 6. Sahan Journal (Jan 15, 2026): [Minnesotans increasingly see racial profiling from ICE agents](https://sahanjournal.com/immigration/ice-racial-profiling-minnesota-citizens-detained/)
-7. Fox 9 (Jan 15, 2026): [Oglala Sioux leaders seek missing members detained by ICE in Minneapolis](https://www.fox9.com/news/oglala-sioux-leaders-seek-missing-members-detained-ice-minneapolis)
+7. FOX 9 (Jan 15, 2026): [Oglala Sioux leaders seek missing members detained by ICE in Minneapolis](https://www.fox9.com/news/oglala-sioux-leaders-seek-missing-members-detained-ice-minneapolis)
 8. The Daily Beast (Jan 12, 2026): [Yet Another ICE Nightmare Unfolds Miles Away From Renee Nicole Good Shooting](https://www.thedailybeast.com/yet-another-ice-nightmare-unfolds-miles-away-from-renee-nicole-good-shooting-in-minnesota/)
 9. Facebook Video (Jan 8, 2026): [Aunt's Facebook Live of arrest - original audio](https://www.thedailybeast.com/yet-another-ice-nightmare-unfolds-miles-away-from-renee-nicole-good-shooting-in-minnesota/)
 10. X Video (Jan 8, 2026): [X post with arrest footage](https://x.com/LongTimeHistory/status/2009499306676322337)

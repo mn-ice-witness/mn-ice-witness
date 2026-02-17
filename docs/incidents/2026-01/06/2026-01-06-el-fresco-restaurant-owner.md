@@ -7,10 +7,10 @@ type: immigrants
 status: ongoing
 affected_individual_citizenship: undocumented
 injuries: none
-trustworthiness: high
+trustworthiness: medium
 created: 2026-01-14T08:01:12
 last_updated: 2026-01-14T08:01:12
-search_tags: src:other-national
+search_tags: family-separation, src:other-national
 ---
 
 # Restaurant Owner Reported Missing, Confirmed Detained by ICE
@@ -29,4 +29,4 @@ Juan Manuel Arellano Zepeda, 48, owner of El Fresco restaurant in Bloomington, w
 - **Immigration status:** Undocumented
 
 ## Editorial Assessment
-**HIGH** - Multiple news sources, family statements, ICE database confirmation. Demonstrates pattern of ICE not disclosing detentions and targeting community business owners with no criminal record.
+**MEDIUM** - Single Tier 2 source (Newsweek) with MSN syndication reprint. Family statements and ICE database confirmation referenced but both listed sources trace to one outlet. Demonstrates pattern of ICE not disclosing detentions and targeting community business owners with no criminal record.

@@ -23,7 +23,7 @@ Sue Tincher, a 55-year-old Minneapolis resident and U.S. citizen, was detained f
 2. Minnesota Reformer (Dec 17, 2025): [ACLU sues ICE, alleging agency violates constitutional rights](https://minnesotareformer.com/2025/12/17/aclu-sues-ice-alleging-agency-violates-constitutional-rights-of-observers-and-protesters/)
 3. MPR News (Dec 9, 2025): [Federal agents arrest citizen observer watching ICE detain neighbors](https://www.mprnews.org/story/2025/12/09/federal-agents-arrest-citizen-observer-watching-ice-north-minneapolis)
 4. KARE 11 (Dec 9, 2025): [Minneapolis woman recounts being detained by ICE](https://www.kare11.com/article/news/local/minneapolis-woman-recounts-being-detained-by-ice/89-bfc97c7d-9dc1-4eb2-a963-dcbf7c890766)
-5. Snopes (Dec 10, 2025): [Minnesota woman Sue Tincher was arrested by ICE while observing agents](https://www.snopes.com/fact-check/sue-tincher-minnesota-ice/)
+5. Snopes (Dec 16, 2025): [Minnesota woman Sue Tincher was arrested by ICE while observing agents](https://www.snopes.com/fact-check/sue-tincher-minnesota-ice/)
 6. KTTC (Dec 12, 2025): [ICE responds to KTTC request, provides different perspective](https://www.kttc.com/2025/12/12/ice-responds-kttc-request-provides-different-perspective-minnesota-womans-detainment/)
 7. North News (Dec 13, 2025): [ICE arrests three, then detains Northside Rotary president](https://mynorthnews.org/stories/2025/12/13/ice-arrests-three-then-detains-northside-rotary-president)
 8. Newsweek (Dec 10, 2025): [US Citizen Speaks Out After She Was Detained by ICE](https://www.newsweek.com/us-citizen-speaks-out-after-she-was-detained-by-ice-11189654)

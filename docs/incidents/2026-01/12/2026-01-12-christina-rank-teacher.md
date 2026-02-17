@@ -37,17 +37,17 @@ Christina Rank, a 25-year-old special education paraprofessional and U.S. citize
 - **~7:00 PM** - Released after approximately 12 hours, pending investigation.
 
 ## Disputed Circumstances
-ICE claimed Rank rammed their vehicle. Bystanders and family members suggested the federal agent hit Rank's car instead. The family is pursuing surveillance video to clarify what occurred.
+ICE claimed Rank rammed their vehicle. At least two colleagues who witnessed the collision disputed this account. Based on damage to the passenger side of Rank's white Honda, her mother stated it was "evident they rammed her and then broke her window to pull her out."
 
 ## Family Statements
 
 ### Sarah Hunkele (Mother)
-Described the lack of information as "terrible," stating: "You don't know where she is going, where she is at, what is happening. There is no communication."
+Described the lack of transparency, stating: "The lack of visibility and accountability is awful." Questioned ICE's presence at the school: "What was their purpose being at this location and what was the purpose behind their excessive force?"
 
 ## Official Response
 
 ### U.S. Rep. Angie Craig
-Called the detention "shocking" and said her office was working to learn more. Craig has introduced legislation to keep ICE out of sensitive locations such as schools, daycares and churches.
+Called the detention "shocking," stating: "Schools should be safe places for our teachers to teach and students to learn."
 
 ## Editorial Assessment
 **HIGH** - Multiple news sources, named affected individual and family members, official response from U.S. Representative. School incident at sensitive location.

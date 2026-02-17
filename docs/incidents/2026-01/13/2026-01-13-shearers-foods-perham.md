@@ -21,7 +21,7 @@ ICE agents detained a single employee at Shearer's Foods manufacturing facility 
 ## Sources
 1. InForum (Jan 13, 2026): [ICE agents at Shearer's Foods in Perham](https://www.inforum.com/news/local/ice-agents-at-shearers-foods-in-perham)
 2. InForum (Jan 13, 2026): [Residents, schools, students react to ICE activity around Greater Minnesota](https://www.inforum.com/news/minnesota/residents-schools-students-react-to-ice-activity-around-greater-minnesota)
-3. Perham Focus (Jan 2026): [ICE agents at Shearer's Foods in Perham](https://www.perhamfocus.com/news/local/ice-agents-at-shearers-foods-in-perham)
+3. Perham Focus (Jan 13, 2026): [ICE agents at Shearer's Foods in Perham](https://www.perhamfocus.com/news/local/ice-agents-at-shearers-foods-in-perham)
 
 ## Affected Individual(s)
 - **Number detained:** 1 employee
