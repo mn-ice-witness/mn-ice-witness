@@ -16,11 +16,11 @@ search_tags: legal-resident, excessive-force, citizen-check, shooting, vehicle-p
 # Legal Permanent Resident Boxed In on Road, Handcuffed at Gunpoint; Agents Take Cash from Wallet
 
 ## Summary
-Raul Aguirre Castrejon, a lawful permanent resident, was followed by two unmarked SUVs after leaving a Walmart in Monticello with his niece, a U.S. citizen. Agents boxed them in on the road, pulled Castrejon from the car at gunpoint, handcuffed him, and took $130 in cash from his wallet. Despite carrying proof of legal status, agents told him "you're not from here." He was released after a few minutes and later filed a sworn declaration in the ACLU's **Hussen v. Noem** lawsuit.
+Raul Aguirre Castrejon, a lawful permanent resident, was followed by two SUVs after leaving a Walmart in Monticello with his niece, a U.S. citizen. Agents boxed them in on the road, pulled Castrejon from the car, handcuffed him, pointed weapons at him, and took $130 in cash from his wallet. Despite carrying proof of legal status, agents told him "you're not from here." He was released after a few minutes and later filed a sworn declaration in the ACLU's **Hussen v. Noem** lawsuit.
 
 ## Sources
 1. Court Filing (Jan 16, 2026): [Declaration of Raul Aguirre Castrejon, Hussen v. Noem Case 26-cv-00324](https://www.justsecurity.org/pdfs/mn-ice-enforcement/14%20RAUL%20AGUIRRE%20CASTREJON.pdf)
-2. Substack (Feb 2026): [Operation Metro Surge in the Court](https://ashtalks.substack.com/p/operation-metro-surge-in-the-court)
+2. Substack (Jan 31, 2026): [Operation Metro Surge in the Court](https://ashtalks.substack.com/p/operation-metro-surge-in-the-court)
 
 
 ## Affected Individual(s)
@@ -35,7 +35,7 @@ Raul Aguirre Castrejon, a lawful permanent resident, was followed by two unmarke
 
 ## Timeline
 - **Unknown time** - Castrejon and his niece leave Walmart in Monticello after getting groceries.
-- **Followed** - Two unmarked SUVs (black Cherokee and white SUV with Florida plates) follow them, matching lane changes.
+- **Followed** - Two SUVs (black Cherokee and white SUV with Florida plates) follow them, matching lane changes.
 - **Boxed in** - Black Cherokee pulls ahead to box them in. When they try to exit the road, the Cherokee nearly runs them off it, swerving in front. Niece brakes hard to avoid collision.
 - **Pulled from car** - Agents demand they exit. They pull down the window, open the door, and drag Castrejon out. Five to six men handcuff him and try to push him into the Cherokee.
 - **Keys taken** - Another agent reaches into the car, turns off the engine, and takes the keys.
