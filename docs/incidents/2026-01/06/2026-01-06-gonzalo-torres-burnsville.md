@@ -21,7 +21,8 @@ Gonzalo Torres, a Chilean national living in Burnsville, was arrested by ICE on 
 ## Sources
 1. Sahan Journal (Feb 6, 2026): [He offered to pay his own way home, but a Chilean man arrested by ICE remains stuck in jail](https://sahanjournal.com/immigration/he-offered-to-pay-his-own-way-home-but-a-chilean-man-arrested-by-ice-remains-stuck-in-jail/)
 2. BioBioChile (Feb 9, 2026): [Chilean offered to pay for flight to leave the US but remains detained by ICE](https://www.biobiochile.cl/noticias/internacional/eeuu/2026/02/09/chileno-ofrecio-pagar-vuelo-para-irse-de-eeuu-pero-sigue-detenido-por-ice-lo-hacer-comer-del-suelo-gonzalo-torres.shtml)
-3. USA Today / El Paso Times (Oct 19, 2025): [ICE says it provides 'proper meals.' Detainees see crystallized jelly, rancid beans and iced bologna](https://ca.news.yahoo.com/ice-says-provides-proper-meals-100135008.html)
+3. Meganoticias (Feb 10, 2026): [Chileno fue detenido por el ICE y aseguran que vive un infierno en prisión](https://www.meganoticias.cl/nacional/514246-chileno-detenido-ice-prision-luisiana-estados-unidos-gonzalo-torres-10-02-2026.html)
+4. USA Today / El Paso Times (Oct 19, 2025): [ICE says it provides 'proper meals.' Detainees see crystallized jelly, rancid beans and iced bologna](https://ca.news.yahoo.com/ice-says-provides-proper-meals-100135008.html)
 
 ## Affected Individual(s)
 - **Name:** Gonzalo Torres
