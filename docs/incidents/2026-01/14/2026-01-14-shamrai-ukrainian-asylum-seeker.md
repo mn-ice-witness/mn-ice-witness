@@ -1,7 +1,7 @@
 ---
 date: 2026-01-14
 time: 9:00 AM
-location: Workplace parking lot
+location: Maple Grove
 city: Maple Grove
 type: immigrants
 status: ongoing
