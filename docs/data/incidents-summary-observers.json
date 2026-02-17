@@ -990,45 +990,6 @@
       "mediaVersion": null
     },
     {
-      "filePath": "incidents/2026-01/16/2026-01-16-owatonna-15-year-old-pepper-sprayed.md",
-      "title": "15-Year-Old Girl Pepper Sprayed While Observing ICE Operation",
-      "summary": "A 15-year-old girl was pepper sprayed by an ICE agent while observing an immigration enforcement operation at Skyline Gardens, a manufactured home community in Owatonna. The girl had approached the scene with her mother. Video shows her seated on the pavement, coughing, with orange blotches on her face consistent with pepper spray.",
-      "latestUpdate": null,
-      "correctionNote": null,
-      "date": "2026-01-16",
-      "time": "evening",
-      "location": "Skyline Gardens housing development",
-      "city": "Owatonna",
-      "type": "observers",
-      "status": "under-investigation",
-      "affectedIndividualCitizenship": "unknown",
-      "injuries": "minor",
-      "trustworthiness": "medium",
-      "created": "2026-01-26T15:10:02",
-      "lastUpdated": "2026-01-26T15:10:02",
-      "mediaCount": 0,
-      "notable": false,
-      "searchTags": [
-        "observer-intimidated",
-        "children",
-        "chemical-agents",
-        "excessive-force",
-        "src:other-local"
-      ],
-      "hasLocalMedia": true,
-      "localMediaType": "video",
-      "localMediaPath": "media/2026-01/16/2026-01-16-owatonna-15-year-old-pepper-sprayed.mp4",
-      "localMediaOgPath": "media/2026-01/16/2026-01-16-owatonna-15-year-old-pepper-sprayed-og-2s-1769486260.jpg",
-      "localMediaFiles": [
-        {
-          "type": "video",
-          "path": "media/2026-01/16/2026-01-16-owatonna-15-year-old-pepper-sprayed.mp4"
-        }
-      ],
-      "aspectRatio": 0.6277777777777778,
-      "mediaVersion": 1769912968
-    },
-    {
       "filePath": "incidents/2026-01/15/2026-01-15-carlson-whipple-detained.md",
       "title": "Observer's Car Windows Smashed by ICE; Detained Three Hours at Whipple, Driver's License Never Returned",
       "summary": "Matthew Carlson, a 41-year-old child care worker, was detained by federal agents after following ICE vehicles \u2014 a common practice among people trying to document enforcement operations. When he refused to leave his car without an explanation, agents smashed his windows with batons, pulled him out, pushed him to the ground, and handcuffed him. He was held at the Whipple Federal Building for approximately three hours, during which at least 10 agents refused to explain why he was detained or allow him a lawyer. His driver's license was never returned. The exact date in January is unknown.",
@@ -1102,6 +1063,40 @@
       ],
       "aspectRatio": 0.8283464566929134,
       "mediaVersion": 1771209391
+    },
+    {
+      "filePath": "incidents/2026-01/15/2026-01-15-owatonna-15-year-old-pepper-sprayed.md",
+      "title": "15-Year-Old Girl Pepper Sprayed While Observing ICE Operation",
+      "summary": "A 15-year-old girl was pepper sprayed by an ICE agent while observing an immigration enforcement operation at Skyline Gardens, a manufactured home community in Owatonna. The girl had approached the scene with her mother. Video shows her seated on the pavement, coughing, with orange blotches on her face consistent with pepper spray.",
+      "latestUpdate": null,
+      "correctionNote": null,
+      "date": "2026-01-15",
+      "time": "evening",
+      "location": "Skyline Gardens housing development",
+      "city": "Owatonna",
+      "type": "observers",
+      "status": "under-investigation",
+      "affectedIndividualCitizenship": "unknown",
+      "injuries": "minor",
+      "trustworthiness": "medium",
+      "created": "2026-01-26T15:10:02",
+      "lastUpdated": "2026-01-26T15:10:02",
+      "mediaCount": 0,
+      "notable": false,
+      "searchTags": [
+        "observer-intimidated",
+        "children",
+        "chemical-agents",
+        "excessive-force",
+        "src:other-local"
+      ],
+      "hasLocalMedia": false,
+      "localMediaType": null,
+      "localMediaPath": null,
+      "localMediaOgPath": null,
+      "localMediaFiles": [],
+      "aspectRatio": null,
+      "mediaVersion": null
     },
     {
       "filePath": "incidents/2026-01/15/2026-01-15-daniel-woo-followed-home.md",
@@ -1350,6 +1345,38 @@
       "mediaVersion": 1769912968
     },
     {
+      "filePath": "incidents/2026-01/12/2026-01-12-mankato-women-sprayed.md",
+      "title": "Two Observers Sprayed Directly in Face with Chemical Irritant by ICE Agent in Mankato",
+      "summary": "Two observers were pepper sprayed directly in the face (chemical irritant) by a uniformed federal agent on Monday afternoon in Mankato. State Sen. Aric Putnam placed himself between the crowd and federal agents during the \"really intense confrontation.\"",
+      "latestUpdate": null,
+      "correctionNote": null,
+      "date": "2026-01-12",
+      "time": "afternoon",
+      "location": "Old Town, Riverfront Drive",
+      "city": "Mankato",
+      "type": "observers",
+      "status": "resolved",
+      "affectedIndividualCitizenship": "unknown",
+      "injuries": "minor",
+      "trustworthiness": "medium",
+      "created": "2026-01-14T09:04:50",
+      "lastUpdated": "2026-01-14T09:04:50",
+      "mediaCount": 0,
+      "notable": false,
+      "searchTags": [
+        "chemical-agents",
+        "observer-intimidated",
+        "src:star-tribune"
+      ],
+      "hasLocalMedia": false,
+      "localMediaType": null,
+      "localMediaPath": null,
+      "localMediaOgPath": null,
+      "localMediaFiles": [],
+      "aspectRatio": null,
+      "mediaVersion": null
+    },
+    {
       "filePath": "incidents/2026-01/12/2026-01-12-st-cloud-star-city-mall.md",
       "title": "50+ ICE Agents Swarm Somali Mall in St. Cloud; Chemical Irritants Used on Protesters",
       "summary": "More than 50 ICE agents descended on Star City Mall, a strip mall with numerous Somali-owned businesses, to arrest one man leaving a deli. Hundreds of protesters gathered and blocked ICE vehicles, leading to a tense standoff. Agents deployed chemical irritants on the crowd. At least four people were detained: the ICE target and three U.S. citizen observers/bystanders who were held for 8-9+ hours at the Whipple Federal Building before being released without charges. The incident came two days after Somali business owners at the same location successfully shouted ICE agents into leaving.",
@@ -1395,44 +1422,7 @@
       "mediaVersion": null
     },
     {
-      "filePath": "incidents/2026-01/13/2026-01-13-mankato-women-sprayed.md",
-      "title": "Two Observers Sprayed Directly in Face with Chemical Irritant by ICE Agent in Mankato",
-      "summary": "Two observers were pepper sprayed directly in the face (chemical irritant) by a uniformed federal agent on Monday afternoon in Mankato. State Sen. Aric Putnam placed himself between the crowd and federal agents during the \"really intense confrontation.\"",
-      "latestUpdate": null,
-      "correctionNote": null,
-      "date": "2026-01-12",
-      "time": "afternoon",
-      "location": "Old Town, Riverfront Drive",
-      "city": "Mankato",
-      "type": "observers",
-      "status": "resolved",
-      "affectedIndividualCitizenship": "unknown",
-      "injuries": "minor",
-      "trustworthiness": "medium",
-      "created": "2026-01-14T09:04:50",
-      "lastUpdated": "2026-01-14T09:04:50",
-      "mediaCount": 0,
-      "notable": false,
-      "searchTags": [
-        "chemical-agents",
-        "observer-intimidated",
-        "src:star-tribune"
-      ],
-      "hasLocalMedia": true,
-      "localMediaType": "video",
-      "localMediaPath": "media/2026-01/13/2026-01-13-mankato-women-sprayed.mp4",
-      "localMediaOgPath": "media/2026-01/13/2026-01-13-mankato-women-sprayed-og-2s-1769378403.jpg",
-      "localMediaFiles": [
-        {
-          "type": "video",
-          "path": "media/2026-01/13/2026-01-13-mankato-women-sprayed.mp4"
-        }
-      ],
-      "aspectRatio": 0.6388888888888888,
-      "mediaVersion": 1769912968
-    },
-    {
-      "filePath": "incidents/2026-01/13/2026-01-13-lyn-lake-tear-gas.md",
+      "filePath": "incidents/2026-01/12/2026-01-12-lyn-lake-tear-gas.md",
       "title": "Federal Agents Deploy Tear Gas at Wrecktangle Pizza",
       "summary": "Federal agents attempted to enter Wrecktangle Pizza at one of Minneapolis' busiest commercial intersections. Surveillance video shows agents exiting an unmarked SUV and storming the restaurant's door. Employees and community members chased off the agents, who deployed chemical agents (tear gas) as they retreated. The crowd kicked the gas canister back at the agents.",
       "latestUpdate": null,
@@ -1459,18 +1449,13 @@
         "src:other-local",
         "src:other-national"
       ],
-      "hasLocalMedia": true,
-      "localMediaType": "video",
-      "localMediaPath": "media/2026-01/13/2026-01-13-lyn-lake-tear-gas.mp4",
-      "localMediaOgPath": "media/2026-01/13/2026-01-13-lyn-lake-tear-gas-og-2s-1769378403.jpg",
-      "localMediaFiles": [
-        {
-          "type": "video",
-          "path": "media/2026-01/13/2026-01-13-lyn-lake-tear-gas.mp4"
-        }
-      ],
-      "aspectRatio": 2.1485943775100402,
-      "mediaVersion": 1769912968
+      "hasLocalMedia": false,
+      "localMediaType": null,
+      "localMediaPath": null,
+      "localMediaOgPath": null,
+      "localMediaFiles": [],
+      "aspectRatio": null,
+      "mediaVersion": null
     },
     {
       "filePath": "incidents/2026-01/11/2026-01-11-skye-elizabeth-marine-veteran-detained.md",
@@ -1592,9 +1577,44 @@
       "mediaVersion": 1769912968
     },
     {
+      "filePath": "incidents/2026-01/11/2026-01-11-pilllar-forum-musicians.md",
+      "title": "Musicians and Fans Pepper Sprayed Outside NE Minneapolis Venue",
+      "summary": "Musicians and concert attendees were pepper-sprayed and hit with batons by ICE agents outside Pilllar Forum, an all-ages rock venue in Northeast Minneapolis. The incident forced cancellation of that night's show, with proceeds intended to benefit families affected by ICE detainments.",
+      "latestUpdate": null,
+      "correctionNote": null,
+      "date": "2026-01-11",
+      "time": "evening",
+      "location": "Pilllar Forum, 2300 Central Ave NE",
+      "city": "Minneapolis",
+      "type": "observers",
+      "status": "resolved",
+      "affectedIndividualCitizenship": "us-citizen",
+      "injuries": "minor",
+      "trustworthiness": "high",
+      "created": "2026-01-14T08:01:12",
+      "lastUpdated": "2026-02-09T21:12:05",
+      "mediaCount": 0,
+      "notable": false,
+      "searchTags": [
+        "us-citizen",
+        "observer-intimidated",
+        "chemical-agents",
+        "excessive-force",
+        "src:star-tribune",
+        "src:bring-me-the-news"
+      ],
+      "hasLocalMedia": false,
+      "localMediaType": null,
+      "localMediaPath": null,
+      "localMediaOgPath": null,
+      "localMediaFiles": [],
+      "aspectRatio": null,
+      "mediaVersion": null
+    },
+    {
       "filePath": "incidents/2026-01/11/2026-01-11-speedway-st-paul.md",
       "title": "Agents Smash Car Window, Pin Man Until Unconscious at Speedway; Bystander Filming Tackled and Detained",
-      "summary": "At a Speedway gas station in St. Paul, federal agents smashed Orbin Mauricio Henriquez-Serrano's car window, forcibly dragged him out, and pinned him to the ground with knees on his back and head until he lost consciousness. Henriquez-Serrano, who had recently undergone leg surgery, suffered neck trauma, and visible stomach, facial, and chest wounds. He was transferred to a detention facility in El Paso, Texas, where his sister reported he had not received any medical evaluation or treatment. A bystander filming the arrest, 22-year-old U.S. citizen Lalo Rios Meza, was told to back up, complied, but was then shoved, tackled, and detained for approximately 6-7 hours. Border Patrol Commander Gregory Bovino was personally present at the scene.",
+      "summary": "At a Speedway gas station in St. Paul, federal agents smashed Orbin Mauricio Henriquez-Serrano's car window, forcibly dragged him out, and pinned him to the ground with knees on his back and head until he lost consciousness. Henriquez-Serrano, who had recently undergone leg surgery, suffered neck trauma, and visible stomach, facial, and chest wounds. He was transferred to a detention facility in El Paso, Texas, where his sister reported he had not received any medical evaluation or treatment. A bystander filming the arrest, 22-year-old U.S. citizen Lalo Rios Meza, was told to back up, complied, but was then shoved, tackled, and detained for approximately 6-7 hours. Border Patrol Chief Gregory Bovino was personally present at the scene.",
       "latestUpdate": null,
       "correctionNote": null,
       "date": "2026-01-11",
@@ -1714,41 +1734,6 @@
       ],
       "aspectRatio": 1.6194444444444445,
       "mediaVersion": 1769912968
-    },
-    {
-      "filePath": "incidents/2026-01/12/2026-01-12-pilllar-forum-musicians.md",
-      "title": "Musicians and Fans Pepper Sprayed Outside NE Minneapolis Venue",
-      "summary": "Musicians and concert attendees were pepper-sprayed and hit with batons by ICE agents outside Pilllar Forum, an all-ages rock venue in Northeast Minneapolis. The incident forced cancellation of that night's show, with proceeds intended to benefit families affected by ICE detainments.",
-      "latestUpdate": null,
-      "correctionNote": null,
-      "date": "2026-01-11",
-      "time": "evening",
-      "location": "Pilllar Forum, 2300 Central Ave NE",
-      "city": "Minneapolis",
-      "type": "observers",
-      "status": "resolved",
-      "affectedIndividualCitizenship": "us-citizen",
-      "injuries": "minor",
-      "trustworthiness": "high",
-      "created": "2026-01-14T08:01:12",
-      "lastUpdated": "2026-02-09T21:12:05",
-      "mediaCount": 0,
-      "notable": false,
-      "searchTags": [
-        "us-citizen",
-        "observer-intimidated",
-        "chemical-agents",
-        "excessive-force",
-        "src:star-tribune",
-        "src:bring-me-the-news"
-      ],
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
-      "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
     },
     {
       "filePath": "incidents/2026-01/10/2026-01-10-nicole-cleland-global-entry-revoked.md",

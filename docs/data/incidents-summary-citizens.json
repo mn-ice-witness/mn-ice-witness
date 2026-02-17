@@ -377,49 +377,6 @@
       "mediaVersion": 1770075675
     },
     {
-      "filePath": "incidents/2026-01/22/2026-01-22-south-mpls-teenagers-detained.md",
-      "title": "CBP Detains Two Teenagers (One Confirmed U.S. Citizen) After Rear-Ending Their Vehicle, Deploys Tear Gas on Bystanders",
-      "summary": "U.S. Customs and Border Protection officers handcuffed and detained two teenagers in south Minneapolis on Wednesday afternoon after allegedly rear-ending their silver SUV. The teenage girl driver, who presented a U.S. passport to agents, was still placed in handcuffs and was seen crying in the back of a federal vehicle. At least two bystanders were arrested and agents deployed tear gas and pepper spray as crowds gathered to film and protest the arrest.",
-      "latestUpdate": null,
-      "correctionNote": null,
-      "date": "2026-01-22",
-      "time": "afternoon",
-      "location": "South Minneapolis",
-      "city": "Minneapolis",
-      "type": "citizens",
-      "status": "under-investigation",
-      "affectedIndividualCitizenship": "us-citizen",
-      "injuries": "minor",
-      "trustworthiness": "high",
-      "created": "2026-01-22T08:35:32",
-      "lastUpdated": "2026-01-22T08:35:32",
-      "mediaCount": 0,
-      "notable": false,
-      "searchTags": [
-        "us-citizen",
-        "children",
-        "chemical-agents",
-        "citizen-check",
-        "observer-detained",
-        "vehicle-pursuit",
-        "src:mpr",
-        "src:kare11",
-        "src:wcco"
-      ],
-      "hasLocalMedia": true,
-      "localMediaType": "video",
-      "localMediaPath": "media/2026-01/22/2026-01-22-south-mpls-teenagers-detained.mp4",
-      "localMediaOgPath": "media/2026-01/22/2026-01-22-south-mpls-teenagers-detained-og-2s-1769378403.jpg",
-      "localMediaFiles": [
-        {
-          "type": "video",
-          "path": "media/2026-01/22/2026-01-22-south-mpls-teenagers-detained.mp4"
-        }
-      ],
-      "aspectRatio": 0.5888888888888889,
-      "mediaVersion": 1769912968
-    },
-    {
       "filePath": "incidents/2026-01/21/2026-01-21-parris-venezuelan-refugee-whipple.md",
       "title": "Venezuelan Refugee Detained at Whipple Check-In, Flown to Texas with 60 Minnesota Women; Green Card Approved While in Custody",
       "summary": "A Venezuelan woman who entered the United States legally as a refugee was detained at a routine Whipple Federal Building check-in on January 21 and flown to El Paso, where she was held with approximately 60 other Minnesota women. Her green card application was approved while in detention, and she was released after Judge Tunheim's Temporary Restraining Order halting Operation PARRIS arrests on January 28.",
@@ -431,7 +388,7 @@
       "city": "Minneapolis",
       "type": "citizens",
       "status": "resolved",
-      "affectedIndividualCitizenship": "legal-resident",
+      "affectedIndividualCitizenship": "asylum-seeker",
       "injuries": "none",
       "trustworthiness": "medium",
       "created": "2026-02-08T22:06:14",
@@ -450,6 +407,48 @@
       "localMediaFiles": [],
       "aspectRatio": null,
       "mediaVersion": null
+    },
+    {
+      "filePath": "incidents/2026-01/21/2026-01-21-south-mpls-teenagers-detained.md",
+      "title": "CBP Detains Two Teenagers (One Confirmed U.S. Citizen) After Rear-Ending Their Vehicle, Deploys Tear Gas on Bystanders",
+      "summary": "U.S. Customs and Border Protection officers handcuffed and detained two teenagers in south Minneapolis on Wednesday afternoon after allegedly rear-ending their silver SUV. The teenage girl driver, who presented a U.S. passport to agents, was still placed in handcuffs and was seen sobbing in the snow-covered street. Agents deployed crowd-dispersing chemicals as crowds gathered to film and protest the arrest.",
+      "latestUpdate": null,
+      "correctionNote": null,
+      "date": "2026-01-21",
+      "time": "afternoon",
+      "location": "South Minneapolis",
+      "city": "Minneapolis",
+      "type": "citizens",
+      "status": "under-investigation",
+      "affectedIndividualCitizenship": "us-citizen",
+      "injuries": "minor",
+      "trustworthiness": "high",
+      "created": "2026-01-22T08:35:32",
+      "lastUpdated": "2026-01-22T08:35:32",
+      "mediaCount": 0,
+      "notable": false,
+      "searchTags": [
+        "us-citizen",
+        "children",
+        "chemical-agents",
+        "citizen-check",
+        "observer-intimidated",
+        "vehicle-pursuit",
+        "src:mpr",
+        "src:wcco"
+      ],
+      "hasLocalMedia": true,
+      "localMediaType": "video",
+      "localMediaPath": "media/2026-01/21/2026-01-21-south-mpls-teenagers-detained.mp4",
+      "localMediaOgPath": "media/2026-01/21/2026-01-21-south-mpls-teenagers-detained-og-2s-1769378403.jpg",
+      "localMediaFiles": [
+        {
+          "type": "video",
+          "path": "media/2026-01/21/2026-01-21-south-mpls-teenagers-detained.mp4"
+        }
+      ],
+      "aspectRatio": 0.5888888888888889,
+      "mediaVersion": 1769912968
     },
     {
       "filePath": "incidents/2026-01/20/2026-01-20-brooklyn-park-officer-citizen-check.md",
@@ -622,8 +621,8 @@
     },
     {
       "filePath": "incidents/2026-01/18/2026-01-18-perla-ocampo-willmar-citizen.md",
-      "title": "U.S. Citizen College Student Restrained by ICE, Released After Showing Birth Certificate",
-      "summary": "Perla Ocampo, an 18-year-old college student born in Willmar, Minnesota, was pulled from her vehicle by ICE agents, slammed against the car door, and restrained. She was released only after agents saw her birth certificate. In the days before this incident, ICE agents had followed her home from work on multiple occasions.",
+      "title": "U.S. Citizen College Student Violently Dragged from Car by ICE Agents",
+      "summary": "Perla Ocampo, an 18-year-old college student born in Willmar, Minnesota, was violently dragged out of her car by ICE agents. In the days before this incident, ICE agents had followed her home from work on multiple occasions.",
       "latestUpdate": null,
       "correctionNote": null,
       "date": "2026-01-18",
@@ -702,7 +701,7 @@
     {
       "filePath": "incidents/2026-01/15/2026-01-15-porter-wrong-address-raid.md",
       "title": "Federal Agents Execute Search Warrant at Wrong Address; U.S. Citizen Mistakenly Arrested",
-      "summary": "FBI, ATF, and Hennepin County Sheriff's Office agents used a battering ram to enter Alisa Porter's South Minneapolis apartment, handcuffing her daughter and searching the home. The warrant was for a different address\u2014the man they sought had lived in the unit above Porter's but moved out two months prior. The search was connected to items stolen from FBI vehicles during protests over recent ICE shootings.",
+      "summary": "FBI, ATF, and Hennepin County Sheriff's Office agents used a battering ram to enter Alisa Porter's South Minneapolis apartment, handcuffing her daughter and searching the home. The warrant was for a different address\u2014the man they sought had lived in the unit above Porter's but moved out two months prior. The search was connected to items stolen from FBI vehicles.",
       "latestUpdate": null,
       "correctionNote": null,
       "date": "2026-01-15",
@@ -778,15 +777,55 @@
       "mediaVersion": 1770995212
     },
     {
-      "filePath": "incidents/2026-01/15/2026-01-15-ramon-menera-accent-detained.md",
-      "title": "U.S. Citizen Detained Because of \"Accent\"",
-      "summary": "Ramon Menera, a U.S. citizen, was detained by Border Patrol agents outside his home in a Minneapolis suburb in front of his 5-year-old daughter. The agent accused him of not being a U.S. citizen \"because of your accent.\" Menera was eventually released but described the traumatic impact on his daughter, who asked him afterward: \"Are you okay? They were going to take you? I don't want to lose you.\"",
+      "filePath": "incidents/2026-01/14/2026-01-14-circle-pines-restaurant-worker.md",
+      "title": "Restaurant Worker with Legal Visa Detained by Plain-Clothed Agents",
+      "summary": "A restaurant worker at Pancho's Taqueria and Mexican Cafe in Circle Pines with a valid legal work visa was detained by two plain-clothed federal agents lying in wait outside the business around 5 p.m. Surveillance video shows the worker shouting \"Ayuda!\" (Help!) as agents pulled him from a storage area. The worker, known as Kevin, has no criminal record and fled to the U.S. under asylum protections after a cartel took over his family's factory in his home country. He was transported to the Whipple Federal Building and then to El Paso, Texas within 12 hours. A GoFundMe raised nearly $25,000 for legal fees and family support.",
       "latestUpdate": null,
       "correctionNote": null,
-      "date": "2026-01-15",
+      "date": "2026-01-14",
+      "time": "\"17:00\"",
+      "location": "Pancho's Taqueria and Mexican Cafe, Circle Pines",
+      "city": "Circle Pines",
+      "type": "citizens",
+      "status": "ongoing",
+      "affectedIndividualCitizenship": "legal-resident",
+      "injuries": "none",
+      "trustworthiness": "high",
+      "created": "2026-01-15T09:33:17",
+      "lastUpdated": "2026-01-15T09:33:17",
+      "mediaCount": 0,
+      "notable": false,
+      "searchTags": [
+        "legal-resident",
+        "workplace-raid",
+        "family-separation",
+        "src:bring-me-the-news",
+        "src:cbs",
+        "src:other-national"
+      ],
+      "hasLocalMedia": true,
+      "localMediaType": "video",
+      "localMediaPath": "media/2026-01/14/2026-01-14-circle-pines-restaurant-worker.mp4",
+      "localMediaOgPath": "media/2026-01/14/2026-01-14-circle-pines-restaurant-worker-og-2s-1769378403.jpg",
+      "localMediaFiles": [
+        {
+          "type": "video",
+          "path": "media/2026-01/14/2026-01-14-circle-pines-restaurant-worker.mp4"
+        }
+      ],
+      "aspectRatio": 0.6972222222222222,
+      "mediaVersion": 1769912968
+    },
+    {
+      "filePath": "incidents/2026-01/14/2026-01-14-ramon-menera-accent-detained.md",
+      "title": "U.S. Citizen Detained Because of \"Accent\"",
+      "summary": "Ramon Menera, a U.S. citizen, was detained by Border Patrol agents outside his home in Columbia Heights in front of his 5-year-old daughter. The agent accused him of not being a U.S. citizen \"because of your accent.\" Menera was eventually released but described the traumatic impact on his daughter, who asked him afterward: \"Are you okay? They were going to take you? I don't want to lose you.\"",
+      "latestUpdate": null,
+      "correctionNote": null,
+      "date": "2026-01-14",
       "time": "unknown",
-      "location": "Minneapolis suburb",
-      "city": "Minneapolis",
+      "location": "Columbia Heights",
+      "city": "Columbia Heights",
       "type": "citizens",
       "status": "resolved",
       "affectedIndividualCitizenship": "us-citizen",
@@ -804,18 +843,13 @@
         "src:star-tribune",
         "src:other-national"
       ],
-      "hasLocalMedia": true,
-      "localMediaType": "video",
-      "localMediaPath": "media/2026-01/15/2026-01-15-ramon-menera-accent-detained.mp4",
-      "localMediaOgPath": "media/2026-01/15/2026-01-15-ramon-menera-accent-detained-og-2s-1769378403.jpg",
-      "localMediaFiles": [
-        {
-          "type": "video",
-          "path": "media/2026-01/15/2026-01-15-ramon-menera-accent-detained.mp4"
-        }
-      ],
-      "aspectRatio": 0.6412429378531074,
-      "mediaVersion": 1769912968
+      "hasLocalMedia": false,
+      "localMediaType": null,
+      "localMediaPath": null,
+      "localMediaOgPath": null,
+      "localMediaFiles": [],
+      "aspectRatio": null,
+      "mediaVersion": null
     },
     {
       "filePath": "incidents/2026-01/14/2026-01-14-nasra-ahmed-st-paul-citizen.md",
@@ -1114,6 +1148,44 @@
       "mediaVersion": 1770697591
     },
     {
+      "filePath": "incidents/2026-01/12/2026-01-12-willmar-student-arrested.md",
+      "title": "High School Student with Legal Status Arrested in Downtown Willmar",
+      "summary": "Suban Noor, a 19-year-old Somali woman and 11th-grade student at Willmar Senior High School, was arrested by ICE agents in downtown Willmar while picking up food for her family. She had legal refugee status (Form I-94) and her family had an active Green Card application. The arrest caused approximately 90% of Somali students to miss school the following day. Noor was released on Friday, Jan 16. <em class=\"incident-note\">**Note: This story seems to follow a pattern of Operation PARRIS (Post-Admission Refugee Reverification and Integrity Strengthening) -- see more details on this below.**</em>",
+      "latestUpdate": null,
+      "correctionNote": null,
+      "date": "2026-01-12",
+      "time": "afternoon",
+      "location": "Downtown Willmar",
+      "city": "Willmar",
+      "type": [
+        "citizens",
+        "schools-hospitals"
+      ],
+      "status": "resolved",
+      "affectedIndividualCitizenship": "legal-resident",
+      "injuries": "none",
+      "trustworthiness": "high",
+      "created": "2026-01-14T08:19:50",
+      "lastUpdated": "2026-01-20T22:24:33",
+      "mediaCount": 0,
+      "notable": false,
+      "searchTags": [
+        "legal-resident",
+        "children",
+        "chemical-agents",
+        "excessive-force",
+        "operation-parris",
+        "src:other-local"
+      ],
+      "hasLocalMedia": false,
+      "localMediaType": null,
+      "localMediaPath": null,
+      "localMediaOgPath": null,
+      "localMediaFiles": [],
+      "aspectRatio": null,
+      "mediaVersion": null
+    },
+    {
       "filePath": "incidents/2026-01/12/2026-01-12-christina-rank-teacher.md",
       "title": "U.S. Citizen Special Education Teacher Detained for Nearly 12 Hours",
       "summary": "Christina Rank, a 25-year-old special education paraprofessional and U.S. citizen, was detained by ICE for nearly 12 hours after an apparent vehicle collision with a federal agent's car in the parking lot of Concord Education Center, a school serving students with special needs.",
@@ -1234,44 +1306,6 @@
       ],
       "aspectRatio": 1.811965811965812,
       "mediaVersion": 1769912968
-    },
-    {
-      "filePath": "incidents/2026-01/13/2026-01-13-willmar-student-arrested.md",
-      "title": "High School Student with Legal Status Arrested in Downtown Willmar",
-      "summary": "Suban Noor, a 19-year-old Somali woman and 11th-grade student at Willmar Senior High School, was arrested by ICE agents in downtown Willmar while picking up food for her family. She had legal refugee status (Form I-94) and her family had an active Green Card application. The arrest caused approximately 90% of Somali students to miss school the following day. Noor was released on Friday, Jan 16. <em class=\"incident-note\">**Note: This story seems to follow a pattern of Operation PARRIS (Post-Admission Refugee Reverification and Integrity Strengthening) -- see more details on this below.**</em>",
-      "latestUpdate": null,
-      "correctionNote": null,
-      "date": "2026-01-12",
-      "time": "afternoon",
-      "location": "Downtown Willmar",
-      "city": "Willmar",
-      "type": [
-        "citizens",
-        "schools-hospitals"
-      ],
-      "status": "resolved",
-      "affectedIndividualCitizenship": "legal-resident",
-      "injuries": "none",
-      "trustworthiness": "high",
-      "created": "2026-01-14T08:19:50",
-      "lastUpdated": "2026-01-20T22:24:33",
-      "mediaCount": 0,
-      "notable": false,
-      "searchTags": [
-        "legal-resident",
-        "children",
-        "chemical-agents",
-        "excessive-force",
-        "operation-parris",
-        "src:other-local"
-      ],
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
-      "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
     },
     {
       "filePath": "incidents/2026-01/11/2026-01-11-irma-escoto-citizen-check.md",

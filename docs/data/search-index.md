@@ -100,18 +100,18 @@ Published incidents visible on the main site.
 - incidents/2026-01/23/2026-01-23-segundo-family-self-deports-ecuador.md | 2026-01-23 | Minneapolis | immigrants | Ecuadorian Roofer, Wife, and 14-Year-Old Son Self-Deport After Five Years in Minnesota; Leave Three Adult Children Behind
 - incidents/2026-01/23/2026-01-23-tique-marin-church-volunteer-burnsville.md | 2026-01-23 | Minneapolis | immigrants | Church Food Distribution Volunteer Detained at Routine Immigration Check-In
 - incidents/2026-01/23/2026-01-23-mirkkovitch-plymouth-gun-brandished.md | 2026-01-23 | Plymouth | observers | Plainclothes Federal Agent Brandishes Gun at Resident Recording ICE Vehicles at Plymouth Hotel
-- incidents/2026-01/23/2026-01-23-50k-march.md | 2026-01-23 | Minneapolis | background | 50,000 March in Subzero Temperatures in Largest Minnesota Protest
+- incidents/2026-01/23/2026-01-23-50k-march.md | 2026-01-23 | Minneapolis | background | Tens of Thousands March in Subzero Temperatures in "Day of Truth & Freedom" Protest
 - incidents/2026-01/22/2026-01-22-little-canada-elementary-secure-protocol.md | 2026-01-22 | Little Canada | schools-hospitals | Little Canada Elementary Goes to Secure Protocol Due to ICE in Parking Lot
 - incidents/2026-01/22/2026-01-22-tipan-toddler-father-detained.md | 2026-01-22 | Minneapolis | immigrants | 2-Year-Old and Father Detained Near Powderhorn; Flown to Texas Despite Court Order
 - incidents/2026-01/22/2026-01-22-amundson-zemien-seizure-first-responders.md | 2026-01-22 | Brooklyn Park | observers | Two Detained Women Become First Responders After ICE Agent Has Seizure
 - incidents/2026-01/22/2026-01-22-torture-survivors-asylum-detained.md | 2026-01-22 | St. Paul | immigrants | Four Torture Survivors with Pending Asylum Cases Detained by ICE
 - incidents/2026-01/22/2026-01-22-cunningham-public-health-declaration.md | 2026-01-22 | St. Paul | schools-hospitals | Minnesota Health Commissioner: Operation Metro Surge Causing Measurable Public Health Damage Statewide
-- incidents/2026-01/22/2026-01-22-south-mpls-teenagers-detained.md | 2026-01-22 | Minneapolis | citizens | CBP Detains Two Teenagers (One Confirmed U.S. Citizen) After Rear-Ending Their Vehicle, Deploys Tear Gas on Bystanders
 - incidents/2026-01/22/2026-01-22-velasco-family-hopkins.md | 2026-01-22 | Hopkins | immigrants | Hopkins Family of Four Detained; Returned After ICE Violates Court Order
 - incidents/2026-01/21/2026-01-21-bovino-smoke-canister-playground.md | 2026-01-21 | Minneapolis | schools-hospitals | Border Patrol Commander Greg Bovino Deploys Smoke Canister Near School at Dismissal
 - incidents/2026-01/21/2026-01-21-katie-henly-home-photographed.md | 2026-01-21 | Minneapolis | observers | ICE Vehicles Stop at Observer's Home; Agent Photographs House While Another Holds AR-15
 - incidents/2026-01/21/2026-01-21-parris-venezuelan-refugee-whipple.md | 2026-01-21 | Minneapolis | citizens | Venezuelan Refugee Detained at Whipple Check-In, Flown to Texas with 60 Minnesota Women; Green Card Approved While in Custody
 - incidents/2026-01/21/2026-01-21-observer-pinned-pepper-sprayed-face.md | 2026-01-21 | Minneapolis | observers | Observer Pinned to Ground, Chemical Irritant Sprayed Directly Into Face
+- incidents/2026-01/21/2026-01-21-south-mpls-teenagers-detained.md | 2026-01-21 | Minneapolis | citizens | CBP Detains Two Teenagers (One Confirmed U.S. Citizen) After Rear-Ending Their Vehicle, Deploys Tear Gas on Bystanders
 - incidents/2026-01/21/2026-01-21-dhs-response-5-year-old-bait.md | 2026-01-21 | Columbia Heights | response | DHS Response: "Child Was ABANDONED," Father "Fled on Foot"
 - incidents/2026-01/21/2026-01-21-dhs-response-crowd-control.md | 2026-01-21 | Minneapolis | response | DHS Response: Agents "Harassed" at Gas Stations, Used "Crowd Control Measures"
 - incidents/2026-01/20/2026-01-20-mark-butcher-journalist-arrested.md | 2026-01-20 | Minneapolis | observers | Freelance Journalist Arrested While Recording ICE; Reports Cardiac Damage During Detention
@@ -126,19 +126,17 @@ Published incidents visible on the main site.
 - incidents/2026-01/18/2026-01-18-saly-hmong-citizen-shirtless.md | 2026-01-18 | St. Paul | citizens | Hmong U.S. Citizen Detained Shirtless in Freezing Weather, Then Released
 - incidents/2026-01/18/2026-01-18-noem-pepper-spray-denial-backtrack.md | 2026-01-18 | Minneapolis | response | DHS Secretary Noem Defends Raids as Targeting 'Criminals and Rapists,' Denies Pepper Spray Use on CBS
 - incidents/2026-01/18/2026-01-18-dhs-response-juan-carlos.md | 2026-01-18 | Minneapolis | response | DHS Response: Kneeing Victim is "Criminal Alien from Ecuador"
-- incidents/2026-01/18/2026-01-18-perla-ocampo-willmar-citizen.md | 2026-01-18 | Willmar | citizens | U.S. Citizen College Student Restrained by ICE, Released After Showing Birth Certificate
+- incidents/2026-01/18/2026-01-18-perla-ocampo-willmar-citizen.md | 2026-01-18 | Willmar | citizens | U.S. Citizen College Student Violently Dragged from Car by ICE Agents
 - incidents/2026-01/18/2026-01-18-dhs-response-accent-detention.md | 2026-01-18 | Minneapolis | response | DHS Statement: Defends Accent-Based Detention
 - incidents/2026-01/17/2026-01-17-elizabeth-jackson-observer-arrested.md | 2026-01-17 | St. Paul | observers | Observer Arrested by ICE After Being Threatened at Staging Area Ten Days Earlier
-- incidents/2026-01/17/2026-01-17-st-louis-park-daycare.md | 2026-01-17 | St. Louis Park | schools-hospitals | ICE Agents Near St. Louis Park Daycare Threaten Parent with Pepper Spray
 - incidents/2026-01/17/2026-01-17-mischief-toy-store-ice-inspection.md | 2026-01-17 | St. Paul | observers | Toy Store Receives ICE Inspection Notice Hours After ABC News Interview
 - incidents/2026-01/16/2026-01-16-parral-ortiz-hospital-detention.md | 2026-01-16 | Mounds View | immigrants, schools-hospitals | Man Detained While Driving Sick Wife to Emergency Room
-- incidents/2026-01/16/2026-01-16-nevada-avenue-12-year-old-deported.md | 2026-01-16 | St. Paul | immigrants | Venezuelan Family Detained, Including 12-Year-Old Sent to Texas
 - incidents/2026-01/16/2026-01-16-two-year-old-parents-detained-dopa.md | 2026-01-16 | Minneapolis | immigrants | Two-Year-Old Left Without Parents After ICE Detains Both; DOPA Form Prevents Foster Care
 - incidents/2026-01/16/2026-01-16-business-disruption-economic-crisis.md | 2026-01-16 | Minneapolis | background | Immigrant-Run Businesses Devastated as Operation Metro Surge Empties Cultural Corridors
-- incidents/2026-01/16/2026-01-16-newsguild-member-el-paso.md | 2026-01-16 | Minneapolis | immigrants | NewsGuild Union Member Detained and Transferred to Texas
-- incidents/2026-01/16/2026-01-16-owatonna-15-year-old-pepper-sprayed.md | 2026-01-16 | Owatonna | observers | 15-Year-Old Girl Pepper Sprayed While Observing ICE Operation
 - incidents/2026-01/16/2026-01-16-trump-insurrection-act-threat.md | 2026-01-16 | Washington D.C. | response | Trump Threatens Military Deployment to Minneapolis Under Insurrection Act
+- incidents/2026-01/16/2026-01-16-st-louis-park-daycare.md | 2026-01-16 | St. Louis Park | schools-hospitals | ICE Agents Near St. Louis Park Daycare Threaten Parent with Pepper Spray
 - incidents/2026-01/15/2026-01-15-carlson-whipple-detained.md | 2026-01-15 | Minneapolis | observers | Observer's Car Windows Smashed by ICE; Detained Three Hours at Whipple, Driver's License Never Returned
+- incidents/2026-01/15/2026-01-15-nevada-avenue-12-year-old-deported.md | 2026-01-15 | St. Paul | immigrants | Venezuelan Family Detained, Including 12-Year-Old Sent to Texas
 - incidents/2026-01/15/2026-01-15-mohammed-hoque-msu-mankato.md | 2026-01-15 | Mankato | citizens | MSU Mankato Student Mohammed Hoque Detained by ICE a Second Time
 - incidents/2026-01/15/2026-01-15-el-tapatio-willmar.md | 2026-01-15 | Willmar | immigrants | ICE Agents Dine at El Tapatio, Then Return to Detain Workers
 - incidents/2026-01/15/2026-01-15-john-abernathy-photographer-detained.md | 2026-01-15 | Minneapolis | observers | Photographer John Abernathy Tackled by ICE, Throws Leica Camera to Stranger as Agents Pin Him Down
@@ -150,12 +148,13 @@ Published incidents visible on the main site.
 - incidents/2026-01/15/2026-01-15-cottage-grove-food-shelf-volunteer.md | 2026-01-15 | Cottage Grove | immigrants | Food Shelf Volunteer Detained at Basic Needs in Cottage Grove
 - incidents/2026-01/15/2026-01-15-hiawatha-student-bus-stop.md | 2026-01-15 | Minneapolis | schools-hospitals | Hiawatha Academies Student Detained at Bus Stop
 - incidents/2026-01/15/2026-01-15-hussen-v-noem-racial-profiling-lawsuit.md | 2026-01-15 | Minneapolis | background | ACLU Files Class Action Challenging Racial Profiling During Operation Metro Surge
-- incidents/2026-01/15/2026-01-15-ramon-menera-accent-detained.md | 2026-01-15 | Minneapolis | citizens | U.S. Citizen Detained Because of "Accent"
+- incidents/2026-01/15/2026-01-15-owatonna-15-year-old-pepper-sprayed.md | 2026-01-15 | Owatonna | observers | 15-Year-Old Girl Pepper Sprayed While Observing ICE Operation
 - incidents/2026-01/15/2026-01-15-daniel-woo-followed-home.md | 2026-01-15 | Plymouth | observers | ICE SUV Follows Observer 40 Minutes to His Plymouth Home
 - incidents/2026-01/15/2026-01-15-st-paul-school-vans-pulled-over.md | 2026-01-15 | St. Paul | schools-hospitals | Two St. Paul School Vans Pulled Over by ICE With Students and Teachers Aboard
 - incidents/2026-01/14/2026-01-14-shawn-jackson-children-tear-gas.md | 2026-01-14 | Minneapolis | observers | Six Children Hospitalized After ICE Deploys Flashbangs and Tear Gas on Family SUV
 - incidents/2026-01/14/2026-01-14-agents-invoke-good-killing.md | 2026-01-14 | Minneapolis | background | "Have You Not Learned?": Agents Repeatedly Invoke Renee Good's Killing to Threaten Observers
-- incidents/2026-01/14/2026-01-14-circle-pines-restaurant-worker.md | 2026-01-14 | Circle Pines | immigrants | Restaurant Worker with Legal Visa Detained by Plain-Clothed Agents
+- incidents/2026-01/14/2026-01-14-circle-pines-restaurant-worker.md | 2026-01-14 | Circle Pines | citizens | Restaurant Worker with Legal Visa Detained by Plain-Clothed Agents
+- incidents/2026-01/14/2026-01-14-ramon-menera-accent-detained.md | 2026-01-14 | Columbia Heights | citizens | U.S. Citizen Detained Because of "Accent"
 - incidents/2026-01/14/2026-01-14-st-paul-public-works-snowplow-driver.md | 2026-01-14 | St. Paul | immigrants | St. Paul Snowplow Driver with Legal Work Status Detained by ICE
 - incidents/2026-01/14/2026-01-14-nasra-ahmed-st-paul-citizen.md | 2026-01-14 | St. Paul | citizens | U.S. Citizen Born in Minnesota Detained by ICE for Two Days
 - incidents/2026-01/14/2026-01-14-julio-sosa-celis-shooting.md | 2026-01-14 | Minneapolis | citizens | ICE Agent Shoots Man Through Closed Door in North Minneapolis; Bullet Enters Apartment with Four Children
@@ -181,24 +180,25 @@ Published incidents visible on the main site.
 - incidents/2026-01/13/2026-01-13-kong-vang-frogtown.md | 2026-01-13 | St. Paul | citizens | Hmong U.S. Citizen Refuses to Open Door for Federal Agents
 - incidents/2026-01/13/2026-01-13-aliya-rahman-car-window-hospitalized.md | 2026-01-13 | Minneapolis | citizens | U.S. Citizen Aliya Rahman Dragged From Car, Hospitalized After ICE Assault
 - incidents/2026-01/13/2026-01-13-alex-vasquez-willmar-citizen.md | 2026-01-13 | Willmar | citizens | U.S. Citizen Handcuffed at Willmar Convenience Store, Driven Away, Released in Parking Lot
+- incidents/2026-01/12/2026-01-12-willmar-student-arrested.md | 2026-01-12 | Willmar | citizens, schools-hospitals | High School Student with Legal Status Arrested in Downtown Willmar
 - incidents/2026-01/12/2026-01-12-silva-sosa-inver-grove-heights.md | 2026-01-12 | Inver Grove Heights | immigrants | Silva Sosa Parents Detained Days After I-130 Approval
 - incidents/2026-01/12/2026-01-12-jairo-pitalasig-north-high.md | 2026-01-12 | Minneapolis | immigrants | North High School Senior Detained at Construction Job, Deported to Ecuador
+- incidents/2026-01/12/2026-01-12-mankato-women-sprayed.md | 2026-01-12 | Mankato | observers | Two Observers Sprayed Directly in Face with Chemical Irritant by ICE Agent in Mankato
 - incidents/2026-01/12/2026-01-12-st-cloud-star-city-mall.md | 2026-01-12 | St. Cloud | immigrants, observers | 50+ ICE Agents Swarm Somali Mall in St. Cloud; Chemical Irritants Used on Protesters
+- incidents/2026-01/12/2026-01-12-lyn-lake-tear-gas.md | 2026-01-12 | Minneapolis | observers | Federal Agents Deploy Tear Gas at Wrecktangle Pizza
 - incidents/2026-01/12/2026-01-12-detroit-lakes-china-buffet.md | 2026-01-12 | Detroit Lakes | immigrants | Man Arrested at Detroit Lakes Restaurant; Partner Documents on Video
 - incidents/2026-01/12/2026-01-12-christina-rank-teacher.md | 2026-01-12 | Inver Grove Heights | citizens, schools-hospitals | U.S. Citizen Special Education Teacher Detained for Nearly 12 Hours
 - incidents/2026-01/12/2026-01-12-christian-molina-car-rammed.md | 2026-01-12 | Minneapolis | citizens | ICE Rams Latino U.S. Citizen's Car, Releases Him After Confirming Identity
 - incidents/2026-01/12/2026-01-12-nimco-omar-citizen-check.md | 2026-01-12 | Minneapolis | citizens | Citizen Check: U.S. Citizen Confronted by ICE Agents While Walking
 - incidents/2026-01/12/2026-01-12-minnesota-sues-to-halt-operation.md | 2026-01-12 | Minneapolis | background | Minnesota Sues Federal Government to Halt Operation Metro Surge
 - incidents/2026-01/12/2026-01-12-garrison-gibson-battering-ram.md | 2026-01-12 | Minneapolis | immigrants | Liberian Man Arrested With Battering Ram, No Judicial Warrant
-- incidents/2026-01/13/2026-01-13-mankato-women-sprayed.md | 2026-01-12 | Mankato | observers | Two Observers Sprayed Directly in Face with Chemical Irritant by ICE Agent in Mankato
-- incidents/2026-01/13/2026-01-13-willmar-student-arrested.md | 2026-01-12 | Willmar | citizens, schools-hospitals | High School Student with Legal Status Arrested in Downtown Willmar
-- incidents/2026-01/13/2026-01-13-lyn-lake-tear-gas.md | 2026-01-12 | Minneapolis | observers | Federal Agents Deploy Tear Gas at Wrecktangle Pizza
 - incidents/2026-01/11/2026-01-11-irma-escoto-citizen-check.md | 2026-01-11 | West St. Paul | citizens | Citizen Check: U.S. Citizen Surrounded by ICE Agents at West St. Paul Restaurant
 - incidents/2026-01/11/2026-01-11-dhs-response-speedway-bystander.md | 2026-01-11 | St. Paul | response | DHS Response: Speedway Bystander "Hit an Officer"
 - incidents/2026-01/11/2026-01-11-dennis-hernandez-ramirez-detained.md | 2026-01-11 | Minneapolis | citizens | Green Card Holder Roughed Up by Agents, Held Over 10 Hours, Offered Money to Identify Immigrants
 - incidents/2026-01/11/2026-01-11-skye-elizabeth-marine-veteran-detained.md | 2026-01-11 | Minneapolis | observers | Marine Veteran Dragged From Car, Ankle Twisted, Called "It" by ICE Agents
 - incidents/2026-01/11/2026-01-11-phil-maddox-did-you-not-learn.md | 2026-01-11 | Minneapolis | observers | "Did You Not Learn From What Just Happened?" - ICE Agents Threaten Observer
 - incidents/2026-01/11/2026-01-11-observer-shoved-into-traffic.md | 2026-01-11 | Minneapolis | observers | Observer Shoved Into Oncoming Traffic While Filming ICE
+- incidents/2026-01/11/2026-01-11-pilllar-forum-musicians.md | 2026-01-11 | Minneapolis | observers | Musicians and Fans Pepper Sprayed Outside NE Minneapolis Venue
 - incidents/2026-01/11/2026-01-11-speedway-st-paul.md | 2026-01-11 | St. Paul | observers | Agents Smash Car Window, Pin Man Until Unconscious at Speedway; Bystander Filming Tackled and Detained
 - incidents/2026-01/11/2026-01-11-observer-phone-snatched.md | 2026-01-11 | Minneapolis | observers | "Have You All Not Learned Over the Last Couple of Days": Agent Snatches Phone from Observer
 - incidents/2026-01/11/2026-01-11-hani-duglof-medical.md | 2026-01-11 | Woodbury | immigrants | Libyan Man Seeking Medical Treatment Detained, Shackled Despite Skin Condition
@@ -206,7 +206,6 @@ Published incidents visible on the main site.
 - incidents/2026-01/11/2026-01-11-pelican-rapids-residential-arrest.md | 2026-01-11 | Pelican Rapids | immigrants | ICE Conducts Door-to-Door Operations in Pelican Rapids
 - incidents/2026-01/11/2026-01-11-siguenza-okeefe-detained.md | 2026-01-11 | Minneapolis | observers | Two ICE Observers Detained 8 Hours, Pressured to Name Organizers
 - incidents/2026-01/11/2026-01-11-rogelio-jimenez-brooklyn-park.md | 2026-01-11 | Brooklyn Park | citizens | U.S. Citizen Detained by ICE in Brooklyn Park, Told to "Prove" Citizenship
-- incidents/2026-01/12/2026-01-12-pilllar-forum-musicians.md | 2026-01-11 | Minneapolis | observers | Musicians and Fans Pepper Sprayed Outside NE Minneapolis Venue
 - incidents/2026-01/2026-01-second-week-general-mills-chanhassen.md | 2026-01-10 | Chanhassen | immigrants | Contractor Detained at General Mills Chanhassen Facility
 - incidents/2026-01/10/2026-01-10-nicole-cleland-global-entry-revoked.md | 2026-01-10 | Richfield | observers | Observer's Global Entry and TSA PreCheck Revoked After CBP Agent Uses Facial Recognition
 - incidents/2026-01/10/2026-01-10-bloomington-ave-bus-stop.md | 2026-01-10 | Minneapolis | immigrants | ICE Agents Removing People From Cars at Bus Stop; Union Marks Site as "Abduction" Location
@@ -219,6 +218,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/09/2026-01-09-hopkins-bryam-escobar.md | 2026-01-09 | Hopkins | immigrants | Hopkins Father Detained Going to Work; Later Released by Court Order
 - incidents/2026-01/09/2026-01-09-fridley-schools-closure.md | 2026-01-09 | Fridley | schools-hospitals | Fridley Public Schools Closes Twice Due to ICE Activity
 - incidents/2026-01/09/2026-01-09-dionne-thunder-powwow-grounds.md | 2026-01-09 | Minneapolis | observers | ICE Agents Attempt to Detain Indigenous Observer Near Powwow Grounds; Community Forces Retreat
+- incidents/2026-01/09/2026-01-09-newsguild-member-el-paso.md | 2026-01-09 | Minneapolis | immigrants | NewsGuild Union Member Detained and Transferred to Texas
 - incidents/2026-01/09/2026-01-09-juan-carlos-brutality.md | 2026-01-09 | Minneapolis | observers | Border Patrol Agent Knees Man in Face While Pinned Down
 - incidents/2026-01/09/2026-01-09-troy-carrillo-pepper-sprayed.md | 2026-01-09 | Bloomington | observers | Observer Pepper Sprayed in Face by Agent from Same Vehicle That Threatened Him Two Days Earlier
 - incidents/2026-01/09/2026-01-09-abigail-salm-observer-detained.md | 2026-01-09 | Hopkins | observers | "Is This How You Want to Die?" — Observer Detained, Threatened with Bullet, Phone Stolen by Agent
