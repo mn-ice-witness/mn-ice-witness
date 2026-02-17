@@ -10,7 +10,7 @@ injuries: minor
 trustworthiness: high
 created: 2026-02-06T12:50:46
 last_updated: 2026-02-06T12:50:46
-search_tags: us-citizen, observer-detained, observer-intimidated, excessive-force, vehicle-pursuit, shooting, src:other-national
+search_tags: us-citizen, observer-detained, observer-intimidated, excessive-force, vehicle-pursuit, shooting, warrantless-entry, src:other-national
 ---
 
 # Marine Veteran Dragged From Car, Ankle Twisted, Called "It" by ICE Agents
@@ -56,7 +56,6 @@ Skye and Elizabeth were following and observing ICE agents from their car when I
 - Agents laughed and said: "Is it a guy or a girl? I don't know — we're just going to stick with it."
 
 ### At Whipple Federal Building
-- While being transported, an agent referenced the killing of Renee Good, then pulled Skye out for additional assault.
 - At Whipple, agents stated: "Have you not learned? This is why we killed that lesbian bitch."
 - Skye and Elizabeth were held approximately 7 hours.
 - Held in the same cell as Patty O'Keefe, who independently described two Marine veterans in her cell in her USA Today account.
