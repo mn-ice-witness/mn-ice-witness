@@ -20,7 +20,7 @@ The mother of a Forward Madison FC Academy player was detained by immigration au
 
 ## Sources
 1. Madison365 (Jan 15, 2026): [Forward Madison rallies support for Academy player after immigration officers detain mom in Minneapolis](https://madison365.com/forward-madison-rallies-support-for-academy-player-after-immigration-officers-detain-mom-in-minneapolis/)
-2. GoFundMe (Jan 13, 2026): [Stability for Martin During This Difficult Time](https://www.gofundme.com/f/stability-for-martinn-during-this-difficult-time)
+2. GoFundMe (Jan 12, 2026): [Stability for Martin During This Difficult Time](https://www.gofundme.com/f/stability-for-martinn-during-this-difficult-time)
 3. Instagram Post (Jan 2026): [@francescahongwi post about Martin's situation](https://www.instagram.com/francescahongwi/p/DTel9JYjd26/)
 
 ## Affected Individual(s)
@@ -34,7 +34,7 @@ The mother of a Forward Madison FC Academy player was detained by immigration au
 - **After U19 match** - Player and mother go out for lunch
 - **Return to hotel** - Immigration authorities are present at the hotel; mother is arrested
 - **After arrest** - A bystander takes the player in
-- **Jan 13** - GoFundMe created by Ann Meredith on behalf of Forward Madison FC Academy
+- **Jan 12** - GoFundMe created by Ann Meredith on behalf of Forward Madison FC Academy
 - **Jan 15** - Madison365 reports on the incident; mother remains in custody in Texas; GoFundMe has raised over $41,000
 
 ## Witness Accounts

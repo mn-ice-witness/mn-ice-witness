@@ -28,7 +28,7 @@ See full incident details: [Bystander Filming ICE Arrest Tackled and Detained at
 
 Posted on X (@DHSgov):
 
-> "One U.S. citizen did not comply with the lawfully given order, and instead responded by hitting an officer and was arrested."
+> "One U.S. citizen did not comply with the lawfully given order and instead responded by hitting an officer and was arrested."
 
 ## Video Evidence
 

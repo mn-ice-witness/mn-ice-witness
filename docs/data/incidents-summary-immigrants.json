@@ -1878,13 +1878,18 @@
         "family-separation",
         "src:other-national"
       ],
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
+      "hasLocalMedia": true,
+      "localMediaType": "image",
+      "localMediaPath": "media/2026-01/11/2026-01-11-forward-madison-player-mother-detained.jpg",
       "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
+      "localMediaFiles": [
+        {
+          "type": "image",
+          "path": "media/2026-01/11/2026-01-11-forward-madison-player-mother-detained.jpg"
+        }
+      ],
+      "aspectRatio": 1.8018018018018018,
+      "mediaVersion": 1771308517
     },
     {
       "filePath": "incidents/2026-01/11/2026-01-11-pelican-rapids-residential-arrest.md",

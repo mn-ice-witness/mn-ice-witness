@@ -4,6 +4,7 @@
 
 
 
+
 juan-carlos-brutality
 aliya-rahman-car-window-hospitalized
 speedway-st-paul
@@ -148,3 +149,4 @@ minneapolis-203m-economic-impact
 ta-eh-doh-lah-refugee-detained
 minnesota-sues-to-halt-operation
 gonzalo-torres-burnsville
+forward-madison-player-mother-detained

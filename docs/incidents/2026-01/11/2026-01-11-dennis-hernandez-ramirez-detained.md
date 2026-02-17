@@ -7,7 +7,7 @@ type: citizens
 status: resolved
 affected_individual_citizenship: legal-resident
 injuries: minor
-trustworthiness: medium
+trustworthiness: high
 created: 2026-02-06T12:50:46
 last_updated: 2026-02-09T21:12:05
 search_tags: legal-resident, excessive-force, src:sahan-journal, src:star-tribune
@@ -51,4 +51,4 @@ On the offer from agents:
 - [Two ICE Observers Detained 8 Hours, Pressured to Name Organizers](#2026-01-11-siguenza-okeefe-detained) — Hernandez Ramirez was held in the same cell as Brandon Sigüenza, who reported being made a similar offer.
 
 ## Editorial Assessment
-**MEDIUM** - Two independent sources (Sahan Journal, Star Tribune) with direct quotes from named affected individual. Details independently corroborated by cellmate Brandon Sigüenza's account.
+**HIGH** - Two independent Tier 1 sources (Sahan Journal, Star Tribune) with direct quotes from named affected individual. Details independently corroborated by cellmate Brandon Sigüenza's account.
