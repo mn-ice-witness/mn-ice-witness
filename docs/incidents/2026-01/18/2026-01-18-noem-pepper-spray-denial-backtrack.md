@@ -5,7 +5,7 @@ location: CBS Face the Nation Interview
 city: Minneapolis
 type: response
 status: resolved
-affected_individual_citizenship: unknown
+affected_individual_citizenship: n/a
 injuries: none
 trustworthiness: high
 created: 2026-01-18T22:01:07
@@ -22,10 +22,10 @@ Homeland Security Secretary Kristi Noem denied on CBS's "Face the Nation" that f
 1. CBS News (Jan 18, 2026): [Transcript: Homeland Security Secretary Kristi Noem on "Face the Nation"](https://www.cbsnews.com/news/kristi-noem-face-the-nation-transcript-01-18-2026/)
 2. CBS News (Jan 18, 2026): [Noem defends Minnesota ICE operations, says judge's order "didn't change anything"](https://www.cbsnews.com/news/noem-defends-minnesota-ice-operations-says-judges-order-didnt-change-anything/)
 3. New York Times (Jan 18, 2026): [Noem Denies Use of Chemical Agents in Minnesota, Then Backtracks](https://dnyuz.com/2026/01/18/noem-denies-use-of-chemical-agents-in-minnesota-then-backtracks/)
-4. NBC News (Jan 17, 2026): [Judge orders federal agents to stop pepper spraying, retaliating against peaceful Minnesota protesters](https://www.nbcnews.com/news/us-news/us-judge-orders-federal-agents-stop-pepper-spraying-retaliating-peacef-rcna254514)
+4. NBC News (Jan 16, 2026): [Judge orders federal agents to stop pepper spraying, retaliating against peaceful Minnesota protesters](https://www.nbcnews.com/news/us-news/us-judge-orders-federal-agents-stop-pepper-spraying-retaliating-peacef-rcna254514)
 
 ## Timeline
-- **Jan 17, 2026** - Federal Judge Katherine Menendez issues preliminary injunction barring federal agents from using pepper spray on peaceful protesters.
+- **Jan 16, 2026** - Federal Judge Katherine Menendez issues preliminary injunction barring federal agents from using pepper spray on peaceful protesters.
 - **Jan 18, morning** - Noem appears on CBS "Face the Nation" with Margaret Brennan.
 - **During interview** - Noem claims judge's order was "a little ridiculous" and "didn't change anything."
 - **During interview** - CBS shows video evidence of chemical agent use.
@@ -54,7 +54,7 @@ The court determined that "protected conduct—including peaceful protesting and
 
 ### CBS Polling Data
 In polling released alongside the interview:
-- 53% of Americans say recent Minneapolis events make them think ICE operations should be decreased.
+- 54% of Americans say Good's shooting was not justified.
 - 61% of Americans describe ICE's detention tactics as "too tough" (up from 56% in November).
 
 ## Related Incidents

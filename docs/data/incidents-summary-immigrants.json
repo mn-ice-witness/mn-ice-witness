@@ -2711,8 +2711,8 @@
     },
     {
       "filePath": "incidents/2025-12/12/2025-12-12-brooklyn-park-cook.md",
-      "title": "Brooklyn Park Cook Arrested Outside Workplace; Restaurant Forced to Close",
-      "summary": "Jorge Vergara Rubio, an Ecuadorian cook, was arrested by ICE outside his employer Crumbs and Coffee in Brooklyn Park. His employer claims Rubio was legally authorized to work at the time of arrest, though ICE states his employment authorization application was denied in September 2025. The restaurant was forced to close following the arrest.",
+      "title": "Brooklyn Park Cook Arrested Outside Workplace; Restaurant Remains Closed",
+      "summary": "Jorge Vergara Rubio, an Ecuadorian cook, was arrested by ICE outside his employer Crumbs and Coffee in Brooklyn Park. His employer claims Rubio was legally authorized to work at the time of arrest, though ICE states his employment authorization application was denied in September 2025. The restaurant remains closed following the arrest.",
       "latestUpdate": null,
       "correctionNote": null,
       "date": "2025-12-12",
@@ -2743,7 +2743,7 @@
     {
       "filePath": "incidents/2025-12/11/2025-12-11-eden-prairie-13-year-old.md",
       "title": "13-Year-Old Boy Handcuffed, Thrown to Ground by ICE Agents",
-      "summary": "ICE agents detained Gomez outside an Eden Prairie apartment complex while his 13-year-old son Jose was handcuffed, allegedly thrown to the ground, and struck by officers. Jose was later released but experienced medical complications including abnormal heartbeat that required hospitalization at St. Francis Hospital.",
+      "summary": "ICE agents detained Jose Gomez outside an Eden Prairie apartment complex while his 13-year-old son Jose was handcuffed, allegedly thrown to the ground, and restrained by officers. Jose was later released but experienced medical complications including abnormal heartbeat that required hospitalization at St. Francis Regional Medical Center.",
       "latestUpdate": null,
       "correctionNote": null,
       "date": "2025-12-11",
@@ -2763,7 +2763,6 @@
         "children",
         "excessive-force",
         "family-separation",
-        "legal-resident",
         "src:wcco",
         "src:other-local",
         "src:other-national"
@@ -3006,7 +3005,7 @@
       "correctionNote": null,
       "date": "2025-12-01",
       "time": "lunchtime",
-      "location": "Lomabonita restaurant, Margaret Street and White Bear Avenue",
+      "location": "Lomabonita restaurant, East St. Paul",
       "city": "St. Paul (East Side)",
       "type": "immigrants",
       "status": "ongoing",

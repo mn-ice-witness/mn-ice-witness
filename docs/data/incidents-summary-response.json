@@ -688,7 +688,7 @@
       "city": "Minneapolis",
       "type": "response",
       "status": "resolved",
-      "affectedIndividualCitizenship": "unknown",
+      "affectedIndividualCitizenship": "n/a",
       "injuries": "none",
       "trustworthiness": "high",
       "created": "2026-01-18T22:01:07",

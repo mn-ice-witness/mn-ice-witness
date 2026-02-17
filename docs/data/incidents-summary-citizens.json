@@ -1959,7 +1959,7 @@
       "city": "Rochester",
       "type": "citizens",
       "status": "resolved",
-      "affectedIndividualCitizenship": "legal-resident",
+      "affectedIndividualCitizenship": "asylum-seeker",
       "injuries": "none",
       "trustworthiness": "high",
       "created": "2026-02-02T20:53:54",
