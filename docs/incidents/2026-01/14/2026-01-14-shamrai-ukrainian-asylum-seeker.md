@@ -2,7 +2,7 @@
 date: 2026-01-14
 time: 9:00 AM
 location: Workplace parking lot
-city: Plymouth
+city: Maple Grove
 type: immigrants
 status: ongoing
 affected_individual_citizenship: asylum-seeker
@@ -21,7 +21,7 @@ search_tags: workplace-raid
 - **Feb 16** - Bond hearing scheduled for Feb 19 at 9:30 a.m. with Judge Brock E. Taylor in Chaparral, NM.
 
 ## Summary
-Viktoriia Shamrai, a Ukrainian asylum seeker with a pending immigration case who had lived in the United States for over 10 years, was detained by ICE on January 14, 2026 around 9 a.m. as she arrived at work. Multiple ICE vehicles surrounded her car in the parking lot, and agents pounded on her car and windows, ordering her to get out. She was taken to the Whipple Federal Building, then transported to a detention center in El Paso, Texas, before being moved to Otero County Processing Center in New Mexico, where she remains held more than a month after her detention.
+Viktoriia Shamrai, a Ukrainian asylum seeker with a pending immigration case who had lived in the United States for over 10 years, was detained by ICE on January 14, 2026 around 9 a.m. as she arrived at work in Maple Grove. Shamrai is a Plymouth, MN resident. Multiple ICE vehicles surrounded her car in the parking lot, and agents pounded on her car and windows, ordering her to get out. She was taken to the Whipple Federal Building, then transported to a detention center in El Paso, Texas, before being moved to Otero County Processing Center in New Mexico, where she remains held more than a month after her detention.
 
 ## Sources
 1. Facebook Video (Feb 2026): [Yelena Kibasova post about Viktoriia's detention](https://www.facebook.com/reel/790334430747702)
@@ -36,7 +36,7 @@ Viktoriia Shamrai, a Ukrainian asylum seeker with a pending immigration case who
 - **Current location:** Otero County Processing Center, New Mexico
 
 ## Timeline
-- **Jan 14, ~9:00 AM** - Shamrai arrives at workplace parking lot; multiple ICE vehicles surround her car
+- **Jan 14, ~9:00 AM** - Shamrai arrives at workplace parking lot in Maple Grove; multiple ICE vehicles surround her car
 - **Jan 14** - Agents pound on windows, order her out of the car; she is detained
 - **Jan 14** - Transported to Whipple Federal Building (Fort Snelling, MN)
 - **After initial detention** - Transported to detention center in El Paso, TX; moved between three areas within the facility
