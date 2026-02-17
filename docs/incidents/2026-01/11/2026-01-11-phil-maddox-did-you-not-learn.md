@@ -1,5 +1,5 @@
 ---
-date: 2026-01-12
+date: 2026-01-11
 time: morning
 location: South Minneapolis
 city: Minneapolis
@@ -38,7 +38,7 @@ Phil Maddox, a Minneapolis resident, was confronted by ICE agents while driving 
 - **During confrontation** - Agent accuses Maddox of "following" them and "impeding operations."
 - **During confrontation** - Maddox explains he lives in the area.
 - **During confrontation** - Agent threatens: "You're not going to like the outcome of this, sir. I guarantee that."
-- **During confrontation** - Agent asks: "Did you not learn from what just happened?" - referencing Renee Good's killing five days earlier.
+- **During confrontation** - Agent asks: "Did you not learn from what just happened?" - referencing Renee Good's killing four days earlier.
 - **End of encounter** - Maddox allowed to leave.
 
 ## Official Accounts

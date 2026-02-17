@@ -1391,44 +1391,6 @@
       "mediaVersion": 1769912968
     },
     {
-      "filePath": "incidents/2026-01/12/2026-01-12-phil-maddox-did-you-not-learn.md",
-      "title": "\"Did You Not Learn From What Just Happened?\" - ICE Agents Threaten Observer",
-      "summary": "Phil Maddox, a Minneapolis resident, was confronted by ICE agents while driving through his neighborhood to monitor federal activity. Agents accused him of following them, punched his car window, and made veiled death threats referencing the killing of Renee Good five days earlier, asking \"Did you not learn from what just happened?\" Maddox interpreted this as agents saying they have immunity to kill citizens.",
-      "latestUpdate": null,
-      "date": "2026-01-12",
-      "time": "morning",
-      "location": "South Minneapolis",
-      "city": "Minneapolis",
-      "type": "observers",
-      "status": "resolved",
-      "affectedIndividualCitizenship": "us-citizen",
-      "injuries": "none",
-      "trustworthiness": "high",
-      "created": "2026-01-19T11:13:23",
-      "lastUpdated": "2026-01-19T11:13:23",
-      "mediaCount": 0,
-      "notable": false,
-      "searchTags": [
-        "us-citizen",
-        "observer-intimidated",
-        "src:intercept",
-        "src:fox9",
-        "src:other-national"
-      ],
-      "hasLocalMedia": true,
-      "localMediaType": "video",
-      "localMediaPath": "media/2026-01/12/2026-01-12-phil-maddox-did-you-not-learn.mp4",
-      "localMediaOgPath": "media/2026-01/12/2026-01-12-phil-maddox-did-you-not-learn-og-2s-1769378403.jpg",
-      "localMediaFiles": [
-        {
-          "type": "video",
-          "path": "media/2026-01/12/2026-01-12-phil-maddox-did-you-not-learn.mp4"
-        }
-      ],
-      "aspectRatio": 0.6194444444444445,
-      "mediaVersion": 1769912968
-    },
-    {
       "filePath": "incidents/2026-01/12/2026-01-12-st-cloud-star-city-mall.md",
       "title": "50+ ICE Agents Swarm Somali Mall in St. Cloud; Chemical Irritants Used on Protesters",
       "summary": "More than 50 ICE agents descended on Star City Mall, a strip mall with numerous Somali-owned businesses, to arrest one man leaving a deli. Hundreds of protesters gathered and blocked ICE vehicles, leading to a tense standoff. Agents deployed chemical irritants on the crowd. At least four people were detained: the ICE target and three U.S. citizen observers/bystanders who were held for 8-9+ hours at the Whipple Federal Building before being released without charges. The incident came two days after Somali business owners at the same location successfully shouted ICE agents into leaving.",
@@ -1545,6 +1507,44 @@
       ],
       "aspectRatio": 1.7254901960784315,
       "mediaVersion": 1770406050
+    },
+    {
+      "filePath": "incidents/2026-01/11/2026-01-11-phil-maddox-did-you-not-learn.md",
+      "title": "\"Did You Not Learn From What Just Happened?\" - ICE Agents Threaten Observer",
+      "summary": "Phil Maddox, a Minneapolis resident, was confronted by ICE agents while driving through his neighborhood to monitor federal activity. Agents accused him of following them, punched his car window, and made veiled death threats referencing the killing of Renee Good five days earlier, asking \"Did you not learn from what just happened?\" Maddox interpreted this as agents saying they have immunity to kill citizens.",
+      "latestUpdate": null,
+      "date": "2026-01-11",
+      "time": "morning",
+      "location": "South Minneapolis",
+      "city": "Minneapolis",
+      "type": "observers",
+      "status": "resolved",
+      "affectedIndividualCitizenship": "us-citizen",
+      "injuries": "none",
+      "trustworthiness": "high",
+      "created": "2026-01-19T11:13:23",
+      "lastUpdated": "2026-01-19T11:13:23",
+      "mediaCount": 0,
+      "notable": false,
+      "searchTags": [
+        "us-citizen",
+        "observer-intimidated",
+        "src:intercept",
+        "src:fox9",
+        "src:other-national"
+      ],
+      "hasLocalMedia": true,
+      "localMediaType": "video",
+      "localMediaPath": "media/2026-01/11/2026-01-11-phil-maddox-did-you-not-learn.mp4",
+      "localMediaOgPath": "media/2026-01/11/2026-01-11-phil-maddox-did-you-not-learn-og-2s-1769378403.jpg",
+      "localMediaFiles": [
+        {
+          "type": "video",
+          "path": "media/2026-01/11/2026-01-11-phil-maddox-did-you-not-learn.mp4"
+        }
+      ],
+      "aspectRatio": 0.6194444444444445,
+      "mediaVersion": 1769912968
     },
     {
       "filePath": "incidents/2026-01/11/2026-01-11-observer-shoved-into-traffic.md",

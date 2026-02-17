@@ -184,7 +184,6 @@ Published incidents visible on the main site.
 - incidents/2026-01/13/2026-01-13-aliya-rahman-car-window-hospitalized.md | 2026-01-13 | Minneapolis | citizens | U.S. Citizen Aliya Rahman Dragged From Car, Hospitalized After ICE Assault
 - incidents/2026-01/13/2026-01-13-lyn-lake-tear-gas.md | 2026-01-13 | Minneapolis | observers | Federal Agents Deploy Tear Gas at Wrecktangle Pizza
 - incidents/2026-01/13/2026-01-13-alex-vasquez-willmar-citizen.md | 2026-01-13 | Willmar | citizens | U.S. Citizen Handcuffed at Willmar Convenience Store, Driven Away, Released in Parking Lot
-- incidents/2026-01/12/2026-01-12-phil-maddox-did-you-not-learn.md | 2026-01-12 | Minneapolis | observers | "Did You Not Learn From What Just Happened?" - ICE Agents Threaten Observer
 - incidents/2026-01/12/2026-01-12-silva-sosa-inver-grove-heights.md | 2026-01-12 | Inver Grove Heights | immigrants | Silva Sosa Parents Detained Days After I-130 Approval
 - incidents/2026-01/12/2026-01-12-jairo-pitalasig-north-high.md | 2026-01-12 | Minneapolis | immigrants | North High School Senior Detained at Construction Job, Deported to Ecuador
 - incidents/2026-01/12/2026-01-12-st-cloud-star-city-mall.md | 2026-01-12 | St. Cloud | immigrants, observers | 50+ ICE Agents Swarm Somali Mall in St. Cloud; Chemical Irritants Used on Protesters
@@ -199,6 +198,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/11/2026-01-11-dhs-response-speedway-bystander.md | 2026-01-11 | St. Paul | response | DHS Response: Speedway Bystander "Hit an Officer"
 - incidents/2026-01/11/2026-01-11-dennis-hernandez-ramirez-detained.md | 2026-01-11 | Minneapolis | citizens | Green Card Holder Roughed Up by Agents, Held Over 10 Hours, Offered Money to Identify Immigrants
 - incidents/2026-01/11/2026-01-11-skye-elizabeth-marine-veteran-detained.md | 2026-01-11 | Minneapolis | observers | Marine Veteran Dragged From Car, Ankle Twisted, Called "It" by ICE Agents
+- incidents/2026-01/11/2026-01-11-phil-maddox-did-you-not-learn.md | 2026-01-11 | Minneapolis | observers | "Did You Not Learn From What Just Happened?" - ICE Agents Threaten Observer
 - incidents/2026-01/11/2026-01-11-observer-shoved-into-traffic.md | 2026-01-11 | Minneapolis | observers | Observer Shoved Into Oncoming Traffic While Filming ICE
 - incidents/2026-01/11/2026-01-11-speedway-st-paul.md | 2026-01-11 | St. Paul | observers | Agents Smash Car Window, Pin Man Until Unconscious at Speedway; Bystander Filming Tackled and Detained
 - incidents/2026-01/11/2026-01-11-observer-phone-snatched.md | 2026-01-11 | Minneapolis | observers | "Have You All Not Learned Over the Last Couple of Days": Agent Snatches Phone from Observer
