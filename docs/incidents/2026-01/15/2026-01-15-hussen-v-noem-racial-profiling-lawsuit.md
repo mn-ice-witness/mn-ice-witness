@@ -24,12 +24,12 @@ On January 15, 2026, the ACLU filed Hussen v. Noem — a class-action lawsuit on
 3. NBC News (Jan 15, 2026): [Lawsuit accuses federal agents of racial profiling in Minneapolis immigration operation](https://www.nbcnews.com/news/us-news/lawsuit-accuses-federal-agents-racial-profiling-minneapolis-immigratio-rcna254245)
 4. NPR (Jan 15, 2026): [Federal agents racial profiling lawsuit](https://www.npr.org/transcripts/nx-s1-5689031)
 5. KSTP (Jan 15, 2026): [ACLU MN: ICE, Border Patrol class action lawsuit over suspicionless stops, warrantless arrests, racial profiling](https://kstp.com/kstp-news/top-news/aclu-mn-ice-border-patrol-class-action-lawsuit-suspicionless-stops-warrantless-arrests-racial-profiling/)
-5. Common Dreams (Jan 15, 2026): [ACLU sues federal government to end ICE, CBP's practice of suspicionless stops, warrantless arrests, and racial profiling of Minnesotans](https://www.commondreams.org/newswire/aclu-sues-federal-government-to-end-ice-cbps-practice-of-suspicionless-stops-warrantless-arrests-and-racial-profiling-of-minnesotans)
-6. ACLU-MN (Jan 15, 2026): [ACLU, ACLU of Minnesota sue federal government to end ICE, CBP's practice of suspicionless stops](https://www.aclu-mn.org/press-releases/ice-lawsuit2/)
-7. ACLU (Jan 15, 2026): [Hussen v. Noem complaint (PDF)](https://assets.aclu.org/live/uploads/2026/01/COMPLAINT-HUSSEN-v.-NOEM-1.pdf)
-8. ACLU (2026): [Hussen v. Noem case page](https://www.aclu.org/cases/hussen-v-noem)
-9. JustSecurity (2026): [Minnesota ICE enforcement: Alleged constitutional violations — sworn declarations](https://www.justsecurity.org/130745/minnesota-ice-racial-profiling/)
-10. CourtListener: [Hussen v. Noem docket](https://www.courtlistener.com/docket/72146903/hussen-v-noem/)
+6. Common Dreams (Jan 15, 2026): [ACLU sues federal government to end ICE, CBP's practice of suspicionless stops, warrantless arrests, and racial profiling of Minnesotans](https://www.commondreams.org/newswire/aclu-sues-federal-government-to-end-ice-cbps-practice-of-suspicionless-stops-warrantless-arrests-and-racial-profiling-of-minnesotans)
+7. ACLU-MN (Jan 15, 2026): [ACLU, ACLU of Minnesota sue federal government to end ICE, CBP's practice of suspicionless stops](https://www.aclu-mn.org/press-releases/ice-lawsuit2/)
+8. ACLU (Jan 15, 2026): [Hussen v. Noem complaint (PDF)](https://assets.aclu.org/live/uploads/2026/01/COMPLAINT-HUSSEN-v.-NOEM-1.pdf)
+9. ACLU (2026): [Hussen v. Noem case page](https://www.aclu.org/cases/hussen-v-noem)
+10. JustSecurity (2026): [Minnesota ICE enforcement: Alleged constitutional violations — sworn declarations](https://www.justsecurity.org/130745/minnesota-ice-racial-profiling/)
+11. CourtListener: [Hussen v. Noem docket](https://www.courtlistener.com/docket/72146903/hussen-v-noem/)
 
 ## Case Information
 - **Case:** Hussen v. Noem, Case No. 0:26-cv-00324-ECT-ECW
