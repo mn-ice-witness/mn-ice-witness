@@ -5,6 +5,7 @@
 .idea/
 .vscode/
 node_modules/
+__pycache__/
 raw_media/
 raw_media
 raw_media/*
