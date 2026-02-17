@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-19T10:14:30
 last_updated: 2026-01-22T15:40:03
-search_tags: us-citizen, excessive-force, warrantless-entry, shooting, src:star-tribune, src:fox9, src:wcco, src:nbc, src:other-local, src:other-national, src:bring-me-the-news, src:mpr, src:abc, src:pbs, src:kstp
+search_tags: us-citizen, excessive-force, warrantless-entry, shooting, children, src:star-tribune, src:fox9, src:wcco, src:nbc, src:other-local, src:other-national, src:bring-me-the-news, src:mpr, src:abc, src:pbs, src:kstp
 ---
 
 # Hmong U.S. Citizen Detained Shirtless in Freezing Weather, Then Released
@@ -26,9 +26,9 @@ A Hmong man named Saly, described as a naturalized U.S. citizen with no criminal
 2. Facebook Post (Jan 19, 2026): [Georgia Fort](https://www.facebook.com/ByGeorgiaFort/posts/update-multiple-members-of-the-hmong-community-confirm-the-man-taken-from-his-ea/1400574674857282/)
 3. Threads (Jan 19, 2026): [@don.moyn post](https://www.threads.com/@don.moyn/post/DTsao6ijVAd)
 4. Facebook Video (Jan 18, 2026): [Incident footage](https://www.facebook.com/reel/1986120352306275)
-5. Star Tribune (Jan 20, 2026): [St. Paul mayor 'livid' after ICE wrongly targets family friend](https://www.startribune.com/st-paul-mayor-livid-after-ice-wrongly-targets-family-friend-escorts-him-undressed-into-cold/601566974)
+5. Star Tribune (Jan 19, 2026): [St. Paul mayor 'livid' after ICE wrongly targets family friend](https://www.startribune.com/st-paul-mayor-livid-after-ice-wrongly-targets-family-friend-escorts-him-undressed-into-cold/601566974)
 6. FOX 9 (Jan 19, 2026): [St. Paul ICE raid: Elderly citizen taken in shorts and Crocs](https://www.fox9.com/news/st-paul-ice-raid-elderly-citizen-taken-shorts-crocs)
-7. CBS Minnesota (Jan 19, 2026): [ICE arrests elderly Hmong-American citizen in St. Paul](https://www.cbsnews.com/minnesota/news/ice-elderly-hmong-american-citizen-arrested-st-paul/)
+7. CBS Minnesota (Jan 20, 2026): [ICE arrests elderly Hmong-American citizen in St. Paul](https://www.cbsnews.com/minnesota/news/ice-elderly-hmong-american-citizen-arrested-st-paul/)
 8. NBC News (Jan 19, 2026): [U.S. citizen shares fear he felt when ICE took him from Minnesota home while nearly naked](https://www.nbcnews.com/news/us-news/us-citizen-shares-fear-felt-ice-took-minnesota-home-nearly-naked-rcna254890)
 9. Detroit News (Jan 19, 2026): [Hmong elder, a U.S. citizen, forced from Minnesota home at gunpoint, family says](https://www.detroitnews.com/story/news/nation/2026/01/19/hmong-elder-a-u-s-citizen-forced-from-minnesota-home-at-gunpoint-family-says/88258005007/)
 10. Raw Story (Jan 19, 2026): [ICE forces showering citizen outside into freezing weather in his underwear](https://www.rawstory.com/ice-us-citizen/)
@@ -40,8 +40,7 @@ A Hmong man named Saly, described as a naturalized U.S. citizen with no criminal
 16. ABC News (Jan 20, 2026): [US citizen says ICE removed him from his Minnesota home in his underwear after warrantless search](https://abcnews.go.com/US/wireStory/us-citizen-ice-removed-minnesota-home-underwear-after-129372047)
 17. PBS News (Jan 20, 2026): [A U.S. citizen says ICE forced open the door to his Minnesota home](https://www.pbs.org/newshour/nation/a-u-s-citizen-says-ice-forced-open-the-door-to-his-minnesota-home-and-removed-him-in-his-underwear-after-a-warrantless-search)
 18. The Hill (Jan 20, 2026): [WATCH: ICE removes citizen from Minnesota home in his underwear](https://thehill.com/homenews/state-watch/5696306-minnesota-man-detained-ice-agents/)
-19. ABC News Video (Jan 20, 2026): [US citizen says ICE removed him from Minnesota home in underwear](https://abcnews.go.com/US/wireStory/us-citizen-ice-removed-minnesota-home-underwear-after-129372047)
-20. KSTP (Jan 22, 2026): [Man ICE sought in "humiliating" arrest of US citizen has been in prison since 2024](https://kstp.com/kstp-news/top-news/man-ice-sought-in-humiliating-arrest-of-us-citizen-has-been-in-prison-since-2024/)
+19. KSTP (Jan 22, 2026): [Man ICE sought in "humiliating" arrest of US citizen has been in prison since 2024](https://kstp.com/kstp-news/top-news/man-ice-sought-in-humiliating-arrest-of-us-citizen-has-been-in-prison-since-2024/)
 
 ## Affected Individual(s)
 - **Name:** ChongLy Scott Thao (also referred to as "Saly" by family)
