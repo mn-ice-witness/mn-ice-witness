@@ -15,10 +15,6 @@ search_tags: family-separation, src:wcco, src:fox9, src:pioneer-press
 
 # Silva Sosa Parents Detained Days After I-130 Approval
 
-## Updates
-
-- **Feb 16** - **CORRECTED** — Operation PARRIS framing removed. The Silva Sosa parents are undocumented immigrants, not refugees targeted by PARRIS.
-
 ## Summary
 A couple who have lived in Minnesota since 1999 were detained by ICE during a traffic stop in Inver Grove Heights while on their way to work. Five days before the detention, they had received approval on their I-130 petition while working with immigration lawyers. Their three daughters - Kelsy, Cecilia, and Kimberly Silva Sosa - are now fighting to get their parents released from an El Paso, Texas ICE detention facility. The father is diabetic and the family is uncertain if he is receiving his medication.
 
@@ -73,6 +69,10 @@ A couple who have lived in Minnesota since 1999 were detained by ICE during a tr
 
 ## Family Background
 The parents met at a dance club in Mexico in the 1980s. They moved to Minnesota in 1999 seeking economic opportunity and built a thriving office cleaning business.
+
+## Correction
+
+**Feb 16, 2026** — Operation PARRIS framing removed. The Silva Sosa parents are undocumented immigrants, not refugees targeted by PARRIS.
 
 ## Editorial Assessment
 **CORRECTED** - The core story (parents detained 5 days after I-130 approval, flown to El Paso) is verified by CBS Minnesota feature story with extensive family interviews and video. The original Operation PARRIS framing was incorrect — the Silva Sosa parents are undocumented immigrants from Mexico, not refugees with legal status targeted by PARRIS. An unsourced Facebook comment section has also been removed. Sources supporting the core story remain strong (CBS Minnesota, Fox 9, Pioneer Press).

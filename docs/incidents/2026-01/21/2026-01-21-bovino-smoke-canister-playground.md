@@ -15,22 +15,6 @@ search_tags: children, chemical-agents, observer-intimidated, src:star-tribune, 
 
 # Border Patrol Commander Greg Bovino Deploys Smoke Canister Near School at Dismissal
 
-## Updates
-
-- **Feb 8** - **CORRECTED** — Canister identified by munitions experts as Defense Technology "Pocket Tactical Green Smoke," not hexachloroethane. See Correction Note below.
-
-## Correction Note (Feb 8, 2026)
-
-**What was originally reported:** Social media posts and the Eyes on ICE Substack claimed that Border Patrol Commander Greg Bovino deployed hexachloroethane (HC) gas canisters at Mueller Park near Ella Baker school. The original entry described hexachloroethane as a chemical weapon banned under the Chemical Weapons Convention, cited EPA carcinogen classifications, and detailed health effects including pulmonary edema and death.
-
-**What changed:** Three munitions experts consulted by the [Star Tribune](https://www.startribune.com/border-patrol-greg-bovino-smoke-canister-chemical-spray-ice-protests-observers-minneapolis-dhs/601568184) reviewed video and photos of the canister and identified it as a [Defense Technology "Pocket Tactical Green Smoke"](https://www.defense-technology.com/product/tactical-smoke-grenade-green/) grenade — a colored smoke grenade, not an HC smoke grenade. Ben Luhmann filmed the spent canister at the scene, and the label was readable.
-
-**Why the original claim was wrong:** HC smoke produces white or gray smoke, never green. Dr. Juniper Simonis of the Chemical Weapons Research Consortium confirmed that the green color is diagnostic of a dye-based colored smoke grenade, not hexachloroethane. The green smoke uses organic dyes (Solvent Green 3) with potassium chlorate and lactose — an entirely different chemical class. [Factually.co](https://factually.co/fact-checks/military/hexachloroethane-hc-smoke-grenades-minnesota-2026-6249c7) rated the HC claim as "unverified/disputed."
-
-**Important context:** The Saf-Smoke colored smoke grenade is not harmless. The Union of Concerned Scientists has documented it releases toxic levels of benzene and formaldehyde, and its California Prop 65 warning lists lead salts, methylene chloride, and hexavalent chromium. Additionally, CS tear gas grenades (Triple-Chaser, Pocket Tactical CS, Rubber Ball Blast CS) and OC grenades were confirmed deployed across other Minneapolis ICE operations by [MinnPost](https://www.minnpost.com/metro/2026/01/my-eyes-were-stinging-the-chemicals-used-by-ice-when-they-confront-protesters-tear-gas-minneapolis/) and [Sahan Journal](https://sahanjournal.com/health/ice-minneapolis-tear-gas-dangerous-health-effects/). HC smoke grenades were confirmed used by federal agents in [Portland in 2025](https://www.portland.gov/hello/news/2025/7/8/update-chemical-munitions-use-near-ice-facility), which likely contributed to the assumption that HC was also used in Minneapolis.
-
----
-
 ## Summary
 
 Border Patrol Commander Greg Bovino deployed a smoke canister at Mueller Park, near Ella Baker Global Studies & Humanities Magnet School, just after school dismissal. Video shows Bovino personally throwing the canister. A school bus was forced to drive through the smoke while transporting students home.
@@ -70,6 +54,18 @@ Bovino serves as Border Patrol Commander at Large. A federal judge found him ["o
 ## Related Incidents
 
 - [DHS Response: Agents "Harassed" at Gas Stations, Used "Crowd Control Measures"](#2026-01-21-dhs-response-crowd-control) (Jan 21).
+
+## Correction
+
+**Feb 8, 2026** — Canister identified by munitions experts as Defense Technology "Pocket Tactical Green Smoke," not hexachloroethane (HC).
+
+**What was originally reported:** Social media posts and the Eyes on ICE Substack claimed that Border Patrol Commander Greg Bovino deployed hexachloroethane (HC) gas canisters at Mueller Park near Ella Baker school. The original entry described hexachloroethane as a chemical weapon banned under the Chemical Weapons Convention, cited EPA carcinogen classifications, and detailed health effects including pulmonary edema and death.
+
+**What changed:** Three munitions experts consulted by the [Star Tribune](https://www.startribune.com/border-patrol-greg-bovino-smoke-canister-chemical-spray-ice-protests-observers-minneapolis-dhs/601568184) reviewed video and photos of the canister and identified it as a [Defense Technology "Pocket Tactical Green Smoke"](https://www.defense-technology.com/product/tactical-smoke-grenade-green/) grenade — a colored smoke grenade, not an HC smoke grenade. Ben Luhmann filmed the spent canister at the scene, and the label was readable.
+
+**Why the original claim was wrong:** HC smoke produces white or gray smoke, never green. Dr. Juniper Simonis of the Chemical Weapons Research Consortium confirmed that the green color is diagnostic of a dye-based colored smoke grenade, not hexachloroethane. The green smoke uses organic dyes (Solvent Green 3) with potassium chlorate and lactose — an entirely different chemical class. [Factually.co](https://factually.co/fact-checks/military/hexachloroethane-hc-smoke-grenades-minnesota-2026-6249c7) rated the HC claim as "unverified/disputed."
+
+**Important context:** The Saf-Smoke colored smoke grenade is not harmless. The Union of Concerned Scientists has documented it releases toxic levels of benzene and formaldehyde, and its California Prop 65 warning lists lead salts, methylene chloride, and hexavalent chromium. Additionally, CS tear gas grenades (Triple-Chaser, Pocket Tactical CS, Rubber Ball Blast CS) and OC grenades were confirmed deployed across other Minneapolis ICE operations by [MinnPost](https://www.minnpost.com/metro/2026/01/my-eyes-were-stinging-the-chemicals-used-by-ice-when-they-confront-protesters-tear-gas-minneapolis/) and [Sahan Journal](https://sahanjournal.com/health/ice-minneapolis-tear-gas-dangerous-health-effects/). HC smoke grenades were confirmed used by federal agents in [Portland in 2025](https://www.portland.gov/hello/news/2025/7/8/update-chemical-munitions-use-near-ice-facility), which likely contributed to the assumption that HC was also used in Minneapolis.
 
 ## Editorial Assessment
 

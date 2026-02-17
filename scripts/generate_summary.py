@@ -205,6 +205,14 @@ def extract_latest_update(body):
     return None
 
 
+def extract_correction(body):
+    """Extract correction summary from ## Correction section (first line after date)."""
+    match = re.search(r"## Correction\n+\*\*[^*]+\*\*\s*—\s*(.+?)(?:\n|$)", body)
+    if match:
+        return match.group(1).strip()
+    return None
+
+
 def parse_type(type_value):
     if "," in type_value:
         return [t.strip() for t in type_value.split(",")]
@@ -396,7 +404,11 @@ def process_incident(file_path, docs_dir, media_dir):
     is_notable = notable_value in ("true", "yes", "1")
 
     search_tags_raw = meta.get("search_tags", "")
-    search_tags = [t.strip() for t in search_tags_raw.split(",") if t.strip()] if search_tags_raw else []
+    search_tags = (
+        [t.strip() for t in search_tags_raw.split(",") if t.strip()]
+        if search_tags_raw
+        else []
+    )
 
     # Check for local media
     local_media = get_local_media(slug, media_dir)
@@ -406,6 +418,7 @@ def process_incident(file_path, docs_dir, media_dir):
         "title": extract_title(body),
         "summary": extract_summary(body),
         "latestUpdate": extract_latest_update(body),
+        "correctionNote": extract_correction(body),
         "date": meta.get("date", "Unknown"),
         "time": meta.get("time", "unknown"),
         "location": meta.get("location", "Unknown location"),

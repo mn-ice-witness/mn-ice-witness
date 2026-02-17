@@ -262,7 +262,7 @@ Read `adding-incidents.md` first. Check `not_use.md` for rejected stories.
 ```
 
 ### Corrections Format
-**Corrections go in `## Updates` — no italic disclaimers at the top.** When correcting an incident, add a `**CORRECTED**` entry in Updates and change `trustworthiness: corrected`. Do NOT add italic text (`***...***`) above the Updates section. The Updates entry is the first thing readers see and is sufficient. See `corrected-incidents.md` for the full procedure.
+**Corrections go in `## Correction` at the bottom of the incident file (before Editorial Assessment).** When correcting an incident, add a `## Correction` section at the bottom and change `trustworthiness: corrected`. The first line must be `**[Date]** — [brief description]` — this text appears on the `/corrections` page. Do NOT put correction info in `## Updates`. See `corrected-incidents.md` for the full procedure.
 
 ---
 

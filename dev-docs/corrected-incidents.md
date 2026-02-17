@@ -32,24 +32,24 @@ Update `last_updated` with a fresh timestamp:
 ./bin/timestamp.sh
 ```
 
-### 2. Add CORRECTED Entry in Updates
+### 2. Add ## Correction Section at the Bottom
 
-**Do NOT add "(CORRECTED)" to the title.** The title stays clean. The `## Updates` entry and the `/corrections` page signal the correction. No italic disclaimer at the top — the Updates section is the first thing readers see.
+**Do NOT add "(CORRECTED)" to the title.** The title stays clean. The `## Correction` section at the bottom of the incident and the `/corrections` page signal the correction.
+
+**The `## Correction` section goes at the bottom of the incident file, right before `## Editorial Assessment`.** The first line must be a bolded date followed by an em-dash and a brief description — this is what appears on the `/corrections` page.
 
 ```markdown
-# Original Title Here
+## Correction
 
-## Updates
-- **[Date]** - **CORRECTED** — [Brief description of what was corrected].
+**[Month Day, Year]** — [Brief description of what was corrected].
 ```
 
-For complex corrections where the original claim requires detailed explanation, add a `## Correction Note` section after Updates and reference it:
+For complex corrections where the original claim requires detailed explanation, add subsections:
 
 ```markdown
-## Updates
-- **[Date]** - **CORRECTED** — [Brief description]. See Correction Note below.
+## Correction
 
-## Correction Note (Date)
+**[Month Day, Year]** — [Brief description of what was corrected].
 
 **What was originally reported:** [Summary of original claims]
 
@@ -58,8 +58,6 @@ For complex corrections where the original claim requires detailed explanation, 
 **Why the original claim was wrong:** [Explain the evidence]
 
 **Important context:** [Any nuance — e.g., the corrected thing isn't harmless either]
-
----
 ```
 
 ### 3. Update Summary Section
@@ -90,30 +88,36 @@ If the incident ID contains the wrong claim (e.g., a chemical name that was disp
 - They also appear at `/corrections` as a transparency index
 - They appear in BOTH the CURRENT and CORRECTIONS sections of search-index.md
 - They are included in category JSON files and the sitemap
-- The `/corrections` page lists all corrected incidents with links to the full detail view
+- The `/corrections` page lists all corrected incidents with the brief correction description
+- On the incident page itself, the `## Correction` section appears at the bottom (before Editorial Assessment)
+- The `correctionNote` field in the summary JSON is extracted from the first line of `## Correction`
 - All original slugs/URLs continue to work (via redirects if renamed)
 
 ## Files Involved
 
 | File | What Changed |
 |------|--------------|
-| `docs/js/router.js` | Added `/corrections` route |
-| `docs/js/app.js` | Added `getCorrectionsIncidents()`; corrected incidents NOT filtered from main display |
-| `docs/js/lightbox.js` | Added `openCorrections()`, `renderCorrectionsContent()`, `setupCorrectionsLinks()`, `showCorrections()` |
-| `docs/css/style.css` | Added `.about-badge-corrected` styling (blue) |
-| `docs/about.md` | Added Corrections section and link |
+| `docs/js/router.js` | `/corrections` route |
+| `docs/js/app.js` | `getCorrectionsIncidents()`; corrected incidents NOT filtered from main display |
+| `docs/js/lightbox.js` | `openCorrections()`, `renderCorrectionsContent()` (uses `correctionNote`), `setupCorrectionsLinks()`, `showCorrections()` |
+| `docs/css/style.css` | `.about-badge-corrected` styling (blue) |
+| `docs/about.md` | Corrections section and link |
 | `functions/corrections/index.js` | Cloudflare Function for OG tags |
-| `scripts/generate_summary.py` | `corrected` in `VALID_TRUSTWORTHINESS`; appears in CURRENT + CORRECTIONS sections |
+| `scripts/generate_summary.py` | `corrected` in `VALID_TRUSTWORTHINESS`; `extract_correction()` for `correctionNote`; appears in CURRENT + CORRECTIONS sections |
 
-## Example: Hexachloroethane Smoke Canister
+## Examples
 
-The first corrected incident was the Bovino/Mueller Park smoke canister:
+### Bovino Smoke Canister
 
-1. `2026-01-21-bovino-smoke-canister-playground.md` (renamed from `bovino-hexachloroethane-playground`)
+`2026-01-21-bovino-smoke-canister-playground.md` (renamed from `bovino-hexachloroethane-playground`)
 
-**What happened:** Social media claimed Bovino deployed hexachloroethane (HC) gas, a chemical weapon. Three munitions experts identified the canister as a Defense Technology "Pocket Tactical Green Smoke" grenade — a colored smoke device, not HC. HC smoke is white/gray, never green.
+Social media claimed hexachloroethane (HC) gas. Three munitions experts identified it as a colored smoke grenade. The `## Correction` section at the bottom includes detailed subsections (What was originally reported, What changed, Why the original claim was wrong, Important context).
 
-**Why corrected, not removed:** Bovino DID deploy a smoke canister near a school at dismissal, and a school bus DID drive through the smoke. The incident is real. Only the chemical identification was wrong.
+### Silva Sosa Inver Grove Heights
+
+`2026-01-12-silva-sosa-inver-grove-heights.md`
+
+Originally framed as Operation PARRIS targeting. The parents are undocumented immigrants, not refugees. The `## Correction` section at the bottom is a single line.
 
 ## Related Documentation
 

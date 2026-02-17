@@ -421,7 +421,7 @@ const Lightbox = {
                     <a href="#${slug}" class="corrections-link" data-slug="${slug}">
                         <span class="category-label">${label}:</span> ${incident.title}
                     </a>
-                    ${incident.latestUpdate ? `<p class="no-news-media-summary">${incident.latestUpdate.replace(/\*\*CORRECTED\*\*\s*—?\s*/, '').replace(/\*\*/g, '')}</p>` : ''}
+                    ${incident.correctionNote ? `<p class="no-news-media-summary">${incident.correctionNote}</p>` : ''}
                 </li>`;
             }
             html += '</ul>';
