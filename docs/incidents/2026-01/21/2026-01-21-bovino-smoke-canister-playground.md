@@ -15,11 +15,9 @@ search_tags: children, chemical-agents, observer-intimidated, src:star-tribune, 
 
 # Border Patrol Commander Greg Bovino Deploys Smoke Canister Near School at Dismissal
 
-***This incident has been corrected. The canister was originally identified as hexachloroethane (HC), a chemical weapon. Expert analysis has since determined it was a colored smoke grenade. See Correction Note below.***
-
 ## Updates
 
-- **Feb 8** - **CORRECTED** — Canister identified by munitions experts as Defense Technology "Pocket Tactical Green Smoke," not hexachloroethane. See Correction Note above.
+- **Feb 8** - **CORRECTED** — Canister identified by munitions experts as Defense Technology "Pocket Tactical Green Smoke," not hexachloroethane. See Correction Note below.
 
 ## Correction Note (Feb 8, 2026)
 

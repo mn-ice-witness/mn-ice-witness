@@ -261,6 +261,9 @@ Read `adding-incidents.md` first. Check `not_use.md` for rejected stories.
 ## Summary
 ```
 
+### Corrections Format
+**Corrections go in `## Updates` — no italic disclaimers at the top.** When correcting an incident, add a `**CORRECTED**` entry in Updates and change `trustworthiness: corrected`. Do NOT add italic text (`***...***`) above the Updates section. The Updates entry is the first thing readers see and is sufficient. See `corrected-incidents.md` for the full procedure.
+
 ---
 
 ## Quick Reference: What Doc to Read

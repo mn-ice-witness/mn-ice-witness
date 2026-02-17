@@ -32,19 +32,22 @@ Update `last_updated` with a fresh timestamp:
 ./bin/timestamp.sh
 ```
 
-### 2. Add Correction Note After Title
+### 2. Add CORRECTED Entry in Updates
 
-**Do NOT add "(CORRECTED)" to the title.** The title stays clean — the Correction Note at the top and the incident's appearance on the `/corrections` page are sufficient to signal the correction. This is consistent with how Updates work: we don't add "(UPDATED)" to titles either.
-
-Insert a correction disclaimer and a `## Correction Note` section after the title:
+**Do NOT add "(CORRECTED)" to the title.** The title stays clean. The `## Updates` entry and the `/corrections` page signal the correction. No italic disclaimer at the top — the Updates section is the first thing readers see.
 
 ```markdown
 # Original Title Here
 
-***This incident has been corrected. [Brief description of what was wrong]. See Correction Note below.***
-
 ## Updates
-- **[Date]** - **CORRECTED** — [Brief description]. See Correction Note above.
+- **[Date]** - **CORRECTED** — [Brief description of what was corrected].
+```
+
+For complex corrections where the original claim requires detailed explanation, add a `## Correction Note` section after Updates and reference it:
+
+```markdown
+## Updates
+- **[Date]** - **CORRECTED** — [Brief description]. See Correction Note below.
 
 ## Correction Note (Date)
 

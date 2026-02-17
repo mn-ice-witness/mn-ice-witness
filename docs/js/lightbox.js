@@ -417,14 +417,11 @@ const Lightbox = {
                 const slug = App.getIncidentId(incident);
                 const type = Array.isArray(incident.type) ? incident.type[0] : incident.type;
                 const label = App.categoryLabels[type] || type.toUpperCase();
-                const date = new Date(incident.date + 'T12:00:00');
-                const dateStr = date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
                 html += `<li>
                     <a href="#${slug}" class="corrections-link" data-slug="${slug}">
                         <span class="category-label">${label}:</span> ${incident.title}
                     </a>
-                    <p class="no-news-media-meta">${incident.location} &middot; ${dateStr}</p>
-                    ${incident.summary ? `<p class="no-news-media-summary">${incident.summary}</p>` : ''}
+                    ${incident.latestUpdate ? `<p class="no-news-media-summary">${incident.latestUpdate.replace(/\*\*CORRECTED\*\*\s*—?\s*/, '').replace(/\*\*/g, '')}</p>` : ''}
                 </li>`;
             }
             html += '</ul>';
