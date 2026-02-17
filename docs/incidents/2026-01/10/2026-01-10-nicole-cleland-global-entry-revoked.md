@@ -21,22 +21,22 @@ Nicole Cleland, a 56-year-old Richfield resident and U.S. citizen, had her Globa
 ## Sources
 1. Minnesota Reformer (Feb 3, 2026): [How ICE is watching you](https://minnesotareformer.com/2026/02/03/how-ice-is-watching-you/)
 2. Bloomberg (Jan 30, 2026): [Minnesota Woman Says Her Global Entry Nixed After Agent Run-in](https://www.bloomberg.com/news/articles/2026-01-30/minnesota-woman-says-her-global-entry-nixed-after-agent-run-in)
-3. Thrifty Traveler (Jan 30, 2026): [Lost Global Entry? A New Federal Lawsuit Points to ICE Facial Recognition](https://thriftytraveler.com/news/travel/global-entry-revocation-ice-facial-recognition/)
+3. Thrifty Traveler (Jan 31, 2026): [Lost Global Entry? A New Federal Lawsuit Points to ICE Facial Recognition](https://thriftytraveler.com/news/travel/global-entry-revocation-ice-facial-recognition/)
 4. Visa Verge (Jan 30, 2026): [Minn. Observer Says CBP Used Facial Recognition Then Revoked Global Entry](https://www.visaverge.com/news/minn-observer-says-cbp-used-facial-recognition-then-revoked-global-entry/)
-5. ACLU (Jan 2026): [ACLU Sues Federal Government to End ICE, CBP's Practice of Suspicionless Stops](https://www.aclu.org/press-releases/aclu-sues-federal-government-to-end-ice-cbps-practice-of-suspicionless-stops-warrantless-arrests-and-racial-profiling-of-minnesotans)
+5. ACLU (Jan 15, 2026): [ACLU Sues Federal Government to End ICE, CBP's Practice of Suspicionless Stops](https://www.aclu.org/press-releases/aclu-sues-federal-government-to-end-ice-cbps-practice-of-suspicionless-stops-warrantless-arrests-and-racial-profiling-of-minnesotans)
 
 ## Affected Individual(s)
 - **Name:** Nicole Cleland
 - **Age:** 56
-- **Occupation:** Director at Target Corporation
+- **Occupation:** Payments Director at Target Corporation
 - **Citizenship:** U.S. Citizen
-- **Role:** Constitutional observer, ICE Watch volunteer
+- **Role:** Legal observer, ICE Watch volunteer
 - **Global Entry status:** Member since 2014
 
 ## Timeline
-- **January 10, 2026 (morning)** - Cleland notices what she believes to be a federal enforcement vehicle (white Dodge Ram) while volunteering as an observer for her town's ICE Watch.
+- **January 10, 2026 (morning)** - Cleland notices what she believes to be a federal enforcement vehicle while volunteering as a legal observer for her town's ICE Watch.
 - **Following** - She follows the vehicle at a distance of several blocks and pulls over when she sees it stopped.
-- **Confrontation** - A CBP agent exits the truck and approaches her car. When she rolls down her window, he says "Hi Nicole" by name.
+- **Confrontation** - A CBP agent exits the vehicle and approaches her car. When she rolls down her window, he says "Hi Nicole" by name.
 - **Facial recognition disclosure** - Agent tells her: "We have facial recognition, and we know who you are."
 - **Warning** - Agent, dressed in full battle fatigues and armed, warns her she will be arrested if she is caught "impeding" ICE or CBP activities again.
 - **January 13, 2026** - Cleland receives email from DHS informing her that her Global Entry and TSA PreCheck privileges have been revoked. The notice does not provide a specific explanation.
@@ -44,7 +44,7 @@ Nicole Cleland, a 56-year-old Richfield resident and U.S. citizen, had her Globa
 
 ## Cleland's Statement
 From her sworn declaration:
-> "I am not particularly concerned with the revocation of my privileges in isolation. However, given that only three days had passed from the time that I was stopped, I am concerned that the revocation was the result of me following and observing the agents. This is intimidation and retaliation."
+> "Given that only three days had passed from the time that I was stopped, I am concerned that the revocation was the result of me following and observing the agents. This is intimidation and retaliation."
 
 ## Significance
 This incident demonstrates:

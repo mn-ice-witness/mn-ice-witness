@@ -1335,6 +1335,44 @@
       "mediaVersion": 1769985954
     },
     {
+      "filePath": "incidents/2026-01/14/2026-01-14-shamrai-ukrainian-asylum-seeker.md",
+      "title": "Ukrainian Asylum Seeker Viktoriia Shamrai Detained at Workplace (NO NEWS MEDIA)",
+      "summary": "Viktoriia Shamrai, a Ukrainian asylum seeker with a pending immigration case who had lived in the United States for over 10 years, was detained by ICE on January 14, 2026 around 9 a.m. as she arrived at work. Multiple ICE vehicles surrounded her car in the parking lot, and agents pounded on her car and windows, ordering her to get out. She was taken to the Whipple Federal Building, then transported to a detention center in El Paso, Texas, before being moved to Otero County Processing Center in New Mexico, where she remains held more than a month after her detention.",
+      "latestUpdate": null,
+      "date": "2026-01-14",
+      "time": "9:00 AM",
+      "location": "Workplace parking lot",
+      "city": "Plymouth",
+      "type": "immigrants",
+      "status": "ongoing",
+      "affectedIndividualCitizenship": "asylum-seeker",
+      "injuries": "none",
+      "trustworthiness": "no-news-media",
+      "created": "2026-02-16T23:06:02",
+      "lastUpdated": "2026-02-16T23:06:02",
+      "mediaCount": 0,
+      "notable": false,
+      "searchTags": [
+        "workplace-raid"
+      ],
+      "hasLocalMedia": true,
+      "localMediaType": "video",
+      "localMediaPath": "media/2026-01/14/2026-01-14-shamrai-ukrainian-asylum-seeker.mp4",
+      "localMediaOgPath": "media/2026-01/14/2026-01-14-shamrai-ukrainian-asylum-seeker-og-2s-1771304949.jpg",
+      "localMediaFiles": [
+        {
+          "type": "video",
+          "path": "media/2026-01/14/2026-01-14-shamrai-ukrainian-asylum-seeker.mp4"
+        },
+        {
+          "type": "image",
+          "path": "media/2026-01/14/2026-01-14-shamrai-ukrainian-asylum-seeker.jpg"
+        }
+      ],
+      "aspectRatio": 0.6305555555555555,
+      "mediaVersion": 1771304949
+    },
+    {
       "filePath": "incidents/2026-01/14/2026-01-14-victor-diaz-custody-death.md",
       "title": "Victor Manuel D\u00edaz Dies in ICE Custody at Camp East Montana After Coon Rapids Arrest",
       "summary": "Victor Manuel D\u00edaz, a 36-year-old Nicaraguan man living in Coon Rapids, died on January 14 at Camp East Montana in El Paso, Texas \u2014 eight days after ICE detained him at his workplace. ICE classified his death as a \"presumed suicide,\" but his family and attorney dispute that conclusion. His autopsy was routed to a military hospital rather than the county medical examiner who had ruled the previous detainee death at the same facility a homicide. D\u00edaz is the second of three Minnesotans to die since Operation Metro Surge began.",
