@@ -173,7 +173,7 @@ title: Police Chiefs Denounce Racial Profiling
 incident: 2026-01-20-brooklyn-park-officer-citizen-check
 source:
 ---
-Three Twin Cities police chiefs hold a joint press conference at the State Capitol. Brooklyn Park Police Chief Mark Bruley reveals an off-duty officer was stopped at gunpoint and ordered to prove her citizenship. "If it's happening to our officers, it pains me to think of how many community members fall victim daily."
+Three Twin Cities law enforcement leaders hold a joint press conference at the State Capitol. Brooklyn Park Police Chief Mark Bruley reveals an off-duty officer was stopped at gunpoint and ordered to prove her citizenship. "If it is happening to our officers, it pains me to think of how many of our community members are falling victim to this every day."
 
 ---
 date: 2026-01-20

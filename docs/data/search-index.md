@@ -269,8 +269,8 @@ Published incidents visible on the main site.
 - incidents/2025-12/17/2025-12-17-tincher-v-noem-aclu-lawsuit.md | 2025-12-17 | Minneapolis | background | ACLU Sues to Protect Observers: The Only Injunction Issued Against Operation Metro Surge
 - incidents/2025-12/16/2025-12-16-abdikadir-noor-karmel-mall.md | 2025-12-15 | Minneapolis | citizens | 20-Year U.S. Citizen Arrested Near Karmel Mall, Subjected to Racist Statements by ICE Agent
 - incidents/2025-12/15/2025-12-15-karmel-mall-pregnant-woman.md | 2025-12-15 | Minneapolis | citizens | Pregnant Somali Woman Dragged Through Snow at Karmel Mall
-- incidents/2025-12/14/2025-12-14-adnan-hisri-omars-son.md | 2025-12-14 | Minneapolis | citizens | U.S. Citizen Son of Rep. Ilhan Omar Stopped by ICE, Released After Showing Passport
 - incidents/2025-12/13/2025-12-13-chanhassen-rooftop-standoff.md | 2025-12-13 | Chanhassen | immigrants | Construction Workers Take Refuge on Roof During Hours-Long ICE Standoff
+- incidents/2025-12/14/2025-12-14-adnan-hisri-omars-son.md | 2025-12-13 | Minneapolis | citizens | U.S. Citizen Son of Rep. Ilhan Omar Stopped by ICE, Released After Showing Passport
 - incidents/2025-12/12/2025-12-12-brooklyn-park-cook.md | 2025-12-12 | Brooklyn Park | immigrants | Brooklyn Park Cook Arrested Outside Workplace; Restaurant Remains Closed
 - incidents/2025-12/11/2025-12-11-eden-prairie-13-year-old.md | 2025-12-11 | Eden Prairie | immigrants | 13-Year-Old Boy Handcuffed, Thrown to Ground by ICE Agents
 - incidents/2025-12/10/2025-12-10-mahamed-eydarus-citizen-check.md | 2025-12-10 | Fridley | citizens | U.S. Citizen Questioned for Speaking Somali While Shoveling Snow with Mother

@@ -10,13 +10,13 @@ injuries: none
 trustworthiness: high
 created: 2026-01-20T13:39:51
 last_updated: 2026-01-20T13:39:51
-search_tags: us-citizen, citizen-check, excessive-force, shooting, observer-intimidated, vehicle-pursuit, src:kstp, src:kare11, src:other-national, src:wcco, src:fox-news, src:wapo, src:fox9
+search_tags: us-citizen, citizen-check, excessive-force, shooting, vehicle-pursuit, src:kstp, src:kare11, src:other-national, src:wcco, src:fox-news, src:wapo, src:fox9
 ---
 
 # Metro Police Chiefs Call for End to Civil Rights Violations / Racially Discriminatory Citizen Checks; Off-Duty Brooklyn Park Police Officer Stopped at Gunpoint, Asked for Papers
 
 ## Summary
-Three Twin Cities law enforcement leaders held a joint press conference at the Minnesota State Capitol on January 20 to address a pattern of ICE agents conducting racially discriminatory citizenship checks on people of color. Brooklyn Park Police Chief Mark Bruley disclosed that an off-duty Brooklyn Park police officer—a woman of color and U.S. citizen—was stopped by ICE agents who boxed in her vehicle, drew their weapons, and demanded paperwork to prove her citizenship. When she attempted to record the encounter, agents knocked the phone from her hands. "If it's happening to our officers, it pains me to think of how many community members fall victim daily," Bruley said. Hennepin County Sheriff Dawanna Witt called the incidents "concrete examples of profiling," while St. Paul Police Chief Axel Henry said "people are scared to death, afraid to go outside—not because their status is in question but because they know people get stopped based on appearance."
+Three Twin Cities law enforcement leaders held a joint press conference at the Minnesota State Capitol on January 20 to address a pattern of ICE agents conducting racially discriminatory citizenship checks on people of color. Brooklyn Park Police Chief Mark Bruley disclosed that an off-duty Brooklyn Park police officer—a woman of color and U.S. citizen—was stopped by ICE agents who boxed in her vehicle, drew their weapons, and demanded paperwork to prove her citizenship. When she attempted to record the encounter, agents knocked the phone from her hands. "If it is happening to our officers, it pains me to think of how many of our community members are falling victim to this every day," Bruley said. Hennepin County Sheriff Dawanna Witt said she was "seeing and hearing about people in Hennepin County stopped, questioned and harassed solely because of the color of their skin," while St. Paul Police Chief Axel Henry cited "traffic stops that are clearly outside the bounds of what federal agents are allowed to do."
 
 ## Sources
 1. KSTP (Jan 20, 2026): [Local law enforcement heads plead for federal agents to stop racial profiling](https://kstp.com/kstp-news/top-news/local-law-enforcement-heads-share-concerns-about-federal-agents-conduct-in-twin-cities/)
@@ -29,9 +29,8 @@ Three Twin Cities law enforcement leaders held a joint press conference at the M
 8. Fox 9 (Jan 20, 2026): [Off-duty Minnesota officers allege racial profiling by ICE](https://www.fox9.com/news/offduty-minnesota-officers-allege-ice-racial-profiling-jan-2026)
 9. Bluesky (Jan 20, 2026): [Aaron Rupar post with video](https://bsky.app/profile/atrupar.com/post/3mcuopvhabn2r)
 10. X Post (Jan 20, 2026): [Aaron Rupar post](https://x.com/atrupar/status/2013664998908739946)
-11. Common Dreams (Jan 20, 2026): ['It Has to Stop': Minnesota Police Chief Says Off-Duty Cops Racially Profiled by ICE](https://www.commondreams.org/news/ice-racial-profiling)
-12. The Daily Beast (Jan 20, 2026): [Police Officers of Color Report Racial Harassment by ICE](https://www.thedailybeast.com/police-officers-of-color-report-racial-harassment-by-ice-in-minnesota/)
-13. NewsNation (Jan 20, 2026): [ICE profiling off-duty cops requiring citizenship papers](https://www.newsnationnow.com/us-news/midwest/ice-profiling-cops-citizenship/)
+11. The Daily Beast (Jan 20, 2026): [Police Officers of Color Report Racial Harassment by ICE](https://www.thedailybeast.com/police-officers-of-color-report-racial-harassment-by-ice-in-minnesota/)
+12. NewsNation (Jan 20, 2026): [ICE profiling off-duty cops requiring citizenship papers](https://www.newsnationnow.com/us-news/midwest/ice-profiling-cops-citizenship/)
 
 ## Affected Individual(s)
 - **Name:** Not disclosed
@@ -51,29 +50,29 @@ Three Twin Cities law enforcement leaders held a joint press conference at the M
 
 ### Brooklyn Park Police Chief Mark Bruley
 On the off-duty officer incident:
-"When they boxed her in, they demanded her paperwork, of which she's a U.S. Citizen and clearly would not have any paperwork. When she tried to record the incident, the phone was knocked out of her hands."
+"When they boxed her in, they demanded her paperwork, of which she's a U.S. Citizen and clearly would not have any paperwork. When she became concerned about the rhetoric and the way she was being treated, she pulled out her phone. In an attempt to record the incident, the phone was knocked out of her hands, preventing her from recording it. The officers had their guns drawn during this interaction. And after the officer became so concerned, they were forced to identify themselves as a Brooklyn Park police officer in hopes of slowing the incident and deescalating the incident down. The agents then immediately left after hearing this, making no other comments, no other apologies, just got in their vehicles and left."
 
-The officers had their guns drawn during this interaction. After the officer identified herself as a Brooklyn Park police officer, the agents "immediately left" without apology.
-
-"If it's happening to our officers, it pains me to think of how many community members fall victim daily."
+"If it is happening to our officers, it pains me to think of how many of our community members are falling victim to this every day. It has to stop."
 
 On the broader pattern:
 "Recently, as the last two weeks, we as law enforcement community have been receiving endless complaints about civil rights violations in our streets from US citizens. What we're hearing is they're being stopped in traffic stops or on the street with no cause and being forced to show paperwork to determine if they are here legally."
 
-"Every one of these individuals is a person of color... it has to stop."
+"Every one of these individuals is a person of color who has had this happen to them."
 
 Bruley noted that accountability for federal agents' alleged abuses remains difficult because ICE officers cover their faces and do not display badges to identify themselves. He stated he believes the racial profiling is being carried out by a small subset of federal agents.
 
 ### Hennepin County Sheriff Dawanna Witt
 "I am seeing and hearing about people in Hennepin County stopped, questioned and harassed solely because of the color of their skin."
 
-Called the incidents "concrete examples of profiling."
+"We cannot let people in our communities think that our local law enforcement leadership is okay with actions that are not only wrong, but illegal."
 
 ### St. Paul Police Chief Axel Henry
-"People are scared to death, afraid to go outside—not because their status is in question but because they know people get stopped based on appearance."
+Henry shared similar experiences faced by St. Paul city employees: "Thankfully not with firearms drawn, but traffic stops that are clearly outside the bounds of what federal agents are allowed to do."
 
 ### DHS/ICE Statement
-In an emailed statement, the Department of Homeland Security denied wrongdoing and called the allegations "disgusting, reckless, and categorically FALSE."
+A DHS spokesperson said that the department "is able to find no record of ICE or Border Patrol stopping and questioning a police officer. Without a name, we cannot verify these claims. We will continue to look into these claims."
+
+Border Patrol Commander Greg Bovino was asked about the racial profiling allegations at a separate news conference but did not directly respond to the question.
 
 ## Broader Context
 The ACLU of Minnesota filed a class-action lawsuit against federal authorities alleging suspicionless stops and ethnic-based detention. DHS has deployed approximately 3,000 ICE and Border Patrol agents to Minnesota under "Operation Metro Surge," claiming 3,000 arrests over six weeks. This press conference represents the first time local law enforcement leaders have publicly spoken out against federal immigration agents' conduct in the Twin Cities.

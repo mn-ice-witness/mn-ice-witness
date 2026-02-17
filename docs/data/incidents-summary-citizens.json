@@ -454,7 +454,7 @@
     {
       "filePath": "incidents/2026-01/20/2026-01-20-brooklyn-park-officer-citizen-check.md",
       "title": "Metro Police Chiefs Call for End to Civil Rights Violations / Racially Discriminatory Citizen Checks; Off-Duty Brooklyn Park Police Officer Stopped at Gunpoint, Asked for Papers",
-      "summary": "Three Twin Cities law enforcement leaders held a joint press conference at the Minnesota State Capitol on January 20 to address a pattern of ICE agents conducting racially discriminatory citizenship checks on people of color. Brooklyn Park Police Chief Mark Bruley disclosed that an off-duty Brooklyn Park police officer\u2014a woman of color and U.S. citizen\u2014was stopped by ICE agents who boxed in her vehicle, drew their weapons, and demanded paperwork to prove her citizenship. When she attempted to record the encounter, agents knocked the phone from her hands. \"If it's happening to our officers, it pains me to think of how many community members fall victim daily,\" Bruley said. Hennepin County Sheriff Dawanna Witt called the incidents \"concrete examples of profiling,\" while St. Paul Police Chief Axel Henry said \"people are scared to death, afraid to go outside\u2014not because their status is in question but because they know people get stopped based on appearance.\"",
+      "summary": "Three Twin Cities law enforcement leaders held a joint press conference at the Minnesota State Capitol on January 20 to address a pattern of ICE agents conducting racially discriminatory citizenship checks on people of color. Brooklyn Park Police Chief Mark Bruley disclosed that an off-duty Brooklyn Park police officer\u2014a woman of color and U.S. citizen\u2014was stopped by ICE agents who boxed in her vehicle, drew their weapons, and demanded paperwork to prove her citizenship. When she attempted to record the encounter, agents knocked the phone from her hands. \"If it is happening to our officers, it pains me to think of how many of our community members are falling victim to this every day,\" Bruley said. Hennepin County Sheriff Dawanna Witt said she was \"seeing and hearing about people in Hennepin County stopped, questioned and harassed solely because of the color of their skin,\" while St. Paul Police Chief Axel Henry cited \"traffic stops that are clearly outside the bounds of what federal agents are allowed to do.\"",
       "latestUpdate": null,
       "correctionNote": null,
       "date": "2026-01-20",
@@ -475,7 +475,6 @@
         "citizen-check",
         "excessive-force",
         "shooting",
-        "observer-intimidated",
         "vehicle-pursuit",
         "src:kstp",
         "src:kare11",
@@ -1641,7 +1640,7 @@
     {
       "filePath": "incidents/2026-01/07/2026-01-07-luis-ramirez-orozco-shakopee.md",
       "title": "U.S. Citizen Tackled by ICE at Shakopee Construction Site, Hospitalized",
-      "summary": "Luis Ramirez Orozco, a Latino U.S. citizen, was tackled and detained by ICE agents at a construction site in Shakopee on the same morning Renee Good was shot by an ICE agent in Minneapolis. Despite identifying himself as a citizen, agents surrounded him and slammed his head on the floor. He suffered bruised ribs and a concussion, requiring medical attention.",
+      "summary": "Luis Ramirez Orozco, a Latino U.S. citizen, was tackled and detained by ICE agents at a construction site in Shakopee on the same morning Renee Good was shot by an ICE agent in Minneapolis. Agents surrounded him and smashed his head on the floor. He suffered bruised ribs and a concussion, requiring medical attention.",
       "latestUpdate": null,
       "correctionNote": null,
       "date": "2026-01-07",
@@ -1659,8 +1658,8 @@
       "notable": false,
       "searchTags": [
         "us-citizen",
-        "citizen-check",
         "excessive-force",
+        "workplace-raid",
         "src:sahan-journal"
       ],
       "hasLocalMedia": false,
@@ -1827,10 +1826,10 @@
     {
       "filePath": "incidents/2025-12/14/2025-12-14-adnan-hisri-omars-son.md",
       "title": "U.S. Citizen Son of Rep. Ilhan Omar Stopped by ICE, Released After Showing Passport",
-      "summary": "Adnan Hisri, the 20-year-old U.S.-born son of Rep. Ilhan Omar, was stopped by federal agents after leaving a Target store in Minneapolis. He was released after showing his passport. Rep. Omar said her son \"always carries\" his passport due to fears of racial profiling. DHS denied any record of the stop.",
+      "summary": "Adnan Hirsi, the 20-year-old U.S.-born son of Rep. Ilhan Omar, was stopped by federal agents after leaving a Target store in Minneapolis. He was released after showing his passport. Rep. Omar said her son \"always carries\" his passport due to fears of racial profiling. DHS denied any record of the stop.",
       "latestUpdate": null,
       "correctionNote": null,
-      "date": "2025-12-14",
+      "date": "2025-12-13",
       "time": "unknown",
       "location": "Near Target store",
       "city": "Minneapolis",
