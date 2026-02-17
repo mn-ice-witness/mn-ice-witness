@@ -1236,6 +1236,44 @@
       "mediaVersion": 1769912968
     },
     {
+      "filePath": "incidents/2026-01/13/2026-01-13-willmar-student-arrested.md",
+      "title": "High School Student with Legal Status Arrested in Downtown Willmar",
+      "summary": "Suban Noor, a 19-year-old Somali woman and 11th-grade student at Willmar Senior High School, was arrested by ICE agents in downtown Willmar while picking up food for her family. She had legal refugee status (Form I-94) and her family had an active Green Card application. The arrest caused approximately 90% of Somali students to miss school the following day. Noor was released on Friday, Jan 16. <em class=\"incident-note\">**Note: This story seems to follow a pattern of Operation PARRIS (Post-Admission Refugee Reverification and Integrity Strengthening) -- see more details on this below.**</em>",
+      "latestUpdate": null,
+      "correctionNote": null,
+      "date": "2026-01-12",
+      "time": "afternoon",
+      "location": "Downtown Willmar",
+      "city": "Willmar",
+      "type": [
+        "citizens",
+        "schools-hospitals"
+      ],
+      "status": "resolved",
+      "affectedIndividualCitizenship": "legal-resident",
+      "injuries": "none",
+      "trustworthiness": "high",
+      "created": "2026-01-14T08:19:50",
+      "lastUpdated": "2026-01-20T22:24:33",
+      "mediaCount": 0,
+      "notable": false,
+      "searchTags": [
+        "legal-resident",
+        "children",
+        "chemical-agents",
+        "excessive-force",
+        "operation-parris",
+        "src:other-local"
+      ],
+      "hasLocalMedia": false,
+      "localMediaType": null,
+      "localMediaPath": null,
+      "localMediaOgPath": null,
+      "localMediaFiles": [],
+      "aspectRatio": null,
+      "mediaVersion": null
+    },
+    {
       "filePath": "incidents/2026-01/11/2026-01-11-irma-escoto-citizen-check.md",
       "title": "Citizen Check: U.S. Citizen Surrounded by ICE Agents at West St. Paul Restaurant",
       "summary": "Irma Escoto, a U.S. citizen from New Mexico, was surrounded by ICE agents while sitting in her car outside El Taquito Taco Shop in West St. Paul. Her husband Luis Escoto, a naturalized citizen since 1992, rushed outside with her passport card to prove her citizenship. The couple co-owns the restaurant. When Luis asked agents why they were questioning her, he said they told him it was because she is Mexican.",

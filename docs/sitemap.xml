@@ -967,12 +967,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://mn-ice-witness.org/entry/2026-01-13-mankato-women-sprayed</loc>
-    <lastmod>2026-01-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://mn-ice-witness.org/entry/2026-01-13-la-mexicana-st-peter</loc>
     <lastmod>2026-01-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -987,12 +981,6 @@
   <url>
     <loc>https://mn-ice-witness.org/entry/2026-01-13-dhs-response-native-americans</loc>
     <lastmod>2026-01-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://mn-ice-witness.org/entry/2026-01-13-willmar-student-arrested</loc>
-    <lastmod>2026-01-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1063,12 +1051,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://mn-ice-witness.org/entry/2026-01-13-lyn-lake-tear-gas</loc>
-    <lastmod>2026-01-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://mn-ice-witness.org/entry/2026-01-13-alex-vasquez-willmar-citizen</loc>
     <lastmod>2026-02-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -1125,6 +1107,24 @@
   <url>
     <loc>https://mn-ice-witness.org/entry/2026-01-12-garrison-gibson-battering-ram</loc>
     <lastmod>2026-01-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://mn-ice-witness.org/entry/2026-01-13-mankato-women-sprayed</loc>
+    <lastmod>2026-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://mn-ice-witness.org/entry/2026-01-13-willmar-student-arrested</loc>
+    <lastmod>2026-01-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://mn-ice-witness.org/entry/2026-01-13-lyn-lake-tear-gas</loc>
+    <lastmod>2026-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

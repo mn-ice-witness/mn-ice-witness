@@ -1,11 +1,11 @@
 ---
 date: 2026-01-12
 time: midday
-location: Star City Mall, Division Street
+location: Star City Mall, 3rd Street and 33rd Avenue North
 city: St. Cloud
 type: immigrants, observers
 status: resolved
-affected_individual_citizenship: unknown
+affected_individual_citizenship: various
 injuries: minor
 trustworthiness: high
 created: 2026-01-14T08:38:51

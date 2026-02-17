@@ -166,11 +166,9 @@ Published incidents visible on the main site.
 - incidents/2026-01/14/2026-01-14-crystal-bus-stop-parent.md | 2026-01-14 | Crystal | schools-hospitals | Parent Detained by ICE at School Bus Stop While Waiting with Child
 - incidents/2026-01/2026-01-mid-willmar-goodwill-arrest.md | 2026-01-13 | Willmar | immigrants | Man and Wife Arrested by 12 ICE Agents in Willmar Goodwill Parking Lot; 15-Year-Old Threatened for Filming
 - incidents/2026-01/13/2026-01-13-bovino-cbs-interview.md | 2026-01-13 | Minneapolis | response | Border Patrol Commander Bovino CBS Interview
-- incidents/2026-01/13/2026-01-13-mankato-women-sprayed.md | 2026-01-13 | Mankato | observers | Two Young Women Sprayed Directly in Face with Chemical Irritant by ICE Agent in Mankato
 - incidents/2026-01/13/2026-01-13-la-mexicana-st-peter.md | 2026-01-13 | St. Peter | immigrants | Customer Arrested While Buying Drink at St. Peter Grocery Store
 - incidents/2026-01/13/2026-01-13-ryan-ecklund-filming-detained.md | 2026-01-13 | Woodbury | observers | U.S. Citizen Detained 9 Hours for Filming ICE Agents
 - incidents/2026-01/13/2026-01-13-dhs-response-native-americans.md | 2026-01-13 | Minneapolis | response | DHS Response: Native American Detentions
-- incidents/2026-01/13/2026-01-13-willmar-student-arrested.md | 2026-01-13 | Willmar | immigrants, schools-hospitals | High School Student with Legal Status Arrested in Downtown Willmar
 - incidents/2026-01/13/2026-01-13-elliott-payne-pushed.md | 2026-01-13 | Minneapolis | observers | City Council President Pushed by ICE Agent While Legally Observing
 - incidents/2026-01/13/2026-01-13-el-burrito-mercado-surveillance.md | 2026-01-13 | St. Paul | immigrants | ICE Using El Burrito Mercado as "Hunting Ground" - 47-Year-Old Business Under Siege
 - incidents/2026-01/13/2026-01-13-francis-burger-joint-manager.md | 2026-01-13 | Minneapolis | observers | Restaurant Kitchen Manager Tackled and Detained While Observing ICE
@@ -182,7 +180,6 @@ Published incidents visible on the main site.
 - incidents/2026-01/13/2026-01-13-teen-refugee-hotel-detention.md | 2026-01-13 | St. Cloud | citizens | Teen Refugee Handcuffed Driving to School, Held Overnight in Hotel Room with Federal Agents
 - incidents/2026-01/13/2026-01-13-kong-vang-frogtown.md | 2026-01-13 | St. Paul | citizens | Hmong U.S. Citizen Refuses to Open Door for Federal Agents
 - incidents/2026-01/13/2026-01-13-aliya-rahman-car-window-hospitalized.md | 2026-01-13 | Minneapolis | citizens | U.S. Citizen Aliya Rahman Dragged From Car, Hospitalized After ICE Assault
-- incidents/2026-01/13/2026-01-13-lyn-lake-tear-gas.md | 2026-01-13 | Minneapolis | observers | Federal Agents Deploy Tear Gas at Wrecktangle Pizza
 - incidents/2026-01/13/2026-01-13-alex-vasquez-willmar-citizen.md | 2026-01-13 | Willmar | citizens | U.S. Citizen Handcuffed at Willmar Convenience Store, Driven Away, Released in Parking Lot
 - incidents/2026-01/12/2026-01-12-silva-sosa-inver-grove-heights.md | 2026-01-12 | Inver Grove Heights | immigrants | Silva Sosa Parents Detained Days After I-130 Approval
 - incidents/2026-01/12/2026-01-12-jairo-pitalasig-north-high.md | 2026-01-12 | Minneapolis | immigrants | North High School Senior Detained at Construction Job, Deported to Ecuador
@@ -193,6 +190,9 @@ Published incidents visible on the main site.
 - incidents/2026-01/12/2026-01-12-nimco-omar-citizen-check.md | 2026-01-12 | Minneapolis | citizens | Citizen Check: U.S. Citizen Confronted by ICE Agents While Walking
 - incidents/2026-01/12/2026-01-12-minnesota-sues-to-halt-operation.md | 2026-01-12 | Minneapolis | background | Minnesota Sues Federal Government to Halt Operation Metro Surge
 - incidents/2026-01/12/2026-01-12-garrison-gibson-battering-ram.md | 2026-01-12 | Minneapolis | immigrants | Liberian Man Arrested With Battering Ram, No Judicial Warrant
+- incidents/2026-01/13/2026-01-13-mankato-women-sprayed.md | 2026-01-12 | Mankato | observers | Two Observers Sprayed Directly in Face with Chemical Irritant by ICE Agent in Mankato
+- incidents/2026-01/13/2026-01-13-willmar-student-arrested.md | 2026-01-12 | Willmar | citizens, schools-hospitals | High School Student with Legal Status Arrested in Downtown Willmar
+- incidents/2026-01/13/2026-01-13-lyn-lake-tear-gas.md | 2026-01-12 | Minneapolis | observers | Federal Agents Deploy Tear Gas at Wrecktangle Pizza
 - incidents/2026-01/11/2026-01-11-irma-escoto-citizen-check.md | 2026-01-11 | West St. Paul | citizens | Citizen Check: U.S. Citizen Surrounded by ICE Agents at West St. Paul Restaurant
 - incidents/2026-01/11/2026-01-11-dhs-response-speedway-bystander.md | 2026-01-11 | St. Paul | response | DHS Response: Speedway Bystander "Hit an Officer"
 - incidents/2026-01/11/2026-01-11-dennis-hernandez-ramirez-detained.md | 2026-01-11 | Minneapolis | citizens | Green Card Holder Roughed Up by Agents, Held Over 10 Hours, Offered Money to Identify Immigrants

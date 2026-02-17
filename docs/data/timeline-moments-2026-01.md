@@ -189,7 +189,7 @@ title: Star Tribune Photo Captures Point-Blank Pepper Spray
 incident: 2026-01-21-observer-pinned-pepper-sprayed-face
 source:
 ---
-Star Tribune photographer Richard Tsong-Taatarii captures chemical irritant being sprayed directly into an observer's face while pinned by multiple agents at 28th and Blaisdell. The image runs on the Star Tribune's front page and is picked up by the New York Times and media worldwide — four days after a federal judge barred agents from using pepper spray on observers.
+Star Tribune photographer Richard Tsong-Taatarii captures chemical irritant being sprayed directly into an observer's face while pinned by multiple agents at 28th and Blaisdell. The image runs on the Star Tribune's front page and is picked up by the New York Times and media worldwide — five days after a federal judge barred agents from using pepper spray on observers.
 
 ---
 date: 2026-01-22

@@ -23,7 +23,7 @@ Federal immigration agents have been circling El Burrito Mercado, a prominent 47
 2. Pioneer Press (Jan 13, 2026): [Some St. Paul-area restaurants closing, limiting hours over ICE presence](https://www.twincities.com/2026/01/13/some-st-paul-area-restaurants-closing-limiting-hours-over-ice-presence/)
 3. FOX 9 (Jan 13, 2026): [ICE surge hits Twin Cities businesses, 50-80% revenue loss reported](https://www.fox9.com/news/ice-surge-hits-twin-cities-businesses-revenue-loss-reported-jan-2026)
 4. Bring Me The News (Jan 13, 2026): [ICE fears force Twin Cities restaurants, small businesses into changes](https://bringmethenews.com/minnesota-lifestyle/ice-fears-force-twin-cities-restaurants-small-businesses-into-changes)
-5. CNN Threads (Jan 15, 2026): [CNN Threads post](https://www.threads.com/@cnn/post/DTiATgMgOfi)
+5. Threads (Jan 15, 2026): [@cnn post](https://www.threads.com/@cnn/post/DTiATgMgOfi)
 
 ## Business Background
 - **Name:** El Burrito Mercado

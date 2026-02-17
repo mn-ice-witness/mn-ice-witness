@@ -1,5 +1,5 @@
 ---
-date: 2026-01-13
+date: 2026-01-12
 time: afternoon
 location: Lyndale Avenue South & West Lake Street (in front of Wrecktangle Pizza)
 city: Minneapolis
@@ -21,7 +21,7 @@ Federal agents attempted to enter Wrecktangle Pizza at one of Minneapolis' busie
 ## Sources
 1. KARE 11 Video (Jan 14, 2026): [Wrecktangle Pizza owners interview](https://www.youtube.com/watch?v=Ku0uriNTvTg)
 2. CBS Video (Jan 13, 2026): [Minneapolis pizza shop workers, community members chase off ICE agents](https://www.cbsnews.com/minnesota/video/minneapolis-pizza-shop-workers-community-members-chase-off-ice-agents/)
-3. BlueSky Video (Jan 13, 2026): [Surveillance footage of incident](https://bsky.app/profile/wedge.live/post/3mcb6afwogs2b)
+3. Bluesky Video (Jan 12, 2026): [Surveillance footage of incident](https://bsky.app/profile/wedge.live/post/3mcb6afwogs2b)
 4. Bring Me The News (Jan 13, 2026): [Federal agents use tear gas at busy Lyn-Lake intersection in Minneapolis, witnesses say](https://bringmethenews.com/minnesota-news/federal-agents-use-tear-gas-at-busy-lyn-lake-intersection-in-minneapolis-witnesses-say)
 5. Racket MN (Jan 13, 2026): [ICE in the Twin Cities: New Day, Same Occupying Fascist Army](https://racketmn.com/ice-in-the-twin-cities-mn-new-day-same-occupying-fascist-army)
 6. CBS Minnesota (Jan 14, 2026): [Federal agents chased off from Minneapolis restaurant helping people impacted by increased ICE presence](https://www.cbsnews.com/minnesota/news/wrecktangle-pizza-stop-ice-south-minneapolis/)

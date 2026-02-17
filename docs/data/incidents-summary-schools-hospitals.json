@@ -576,7 +576,7 @@
     {
       "filePath": "incidents/2026-01/14/2026-01-14-aquila-elementary-ice-presence.md",
       "title": "ICE Conducts Operation Across Street From Aquila Elementary During Dismissal",
-      "summary": "On January 14, 2026, ICE agents conducted an enforcement operation at an apartment building directly across the street from Aquila Elementary School in St. Louis Park during dismissal time. Students watched from their classrooms as federal agents kicked down doors. Teachers closed window blinds to prevent children from seeing armed, masked agents. The school district adjusted pickup procedures in response. Over 1,000 community members formed a rapid response group to escort children to and from school.",
+      "summary": "On January 14, 2026, ICE agents conducted an enforcement operation at an apartment building directly across the street from Aquila Elementary School in St. Louis Park during dismissal time. Students watched from their classrooms as federal agents attempted to break down doors. Teachers closed window blinds to prevent children from seeing armed, masked agents. The school district adjusted pickup procedures in response. Over 1,000 community members formed a rapid response group to escort children to and from school.",
       "latestUpdate": null,
       "correctionNote": null,
       "date": "2026-01-14",
@@ -684,44 +684,6 @@
       "mediaVersion": null
     },
     {
-      "filePath": "incidents/2026-01/13/2026-01-13-willmar-student-arrested.md",
-      "title": "High School Student with Legal Status Arrested in Downtown Willmar",
-      "summary": "Suban Noor, a 19-year-old Somali woman and 11th-grade student at Willmar Senior High School, was arrested by ICE agents in downtown Willmar while picking up food for her family. She had legal refugee status (Form I-94) and her family had an active Green Card application. The arrest caused approximately 90% of Somali students to miss school the following day. Noor was released five days later on Friday, Jan 17. <em class=\"incident-note\">**Note: This story seems to follow a pattern of Operation PARRIS (Post-Admission Refugee Reverification and Integrity Strengthening) -- see more details on this below.**</em>",
-      "latestUpdate": null,
-      "correctionNote": null,
-      "date": "2026-01-13",
-      "time": "afternoon",
-      "location": "Downtown Willmar",
-      "city": "Willmar",
-      "type": [
-        "immigrants",
-        "schools-hospitals"
-      ],
-      "status": "resolved",
-      "affectedIndividualCitizenship": "legal-resident",
-      "injuries": "none",
-      "trustworthiness": "high",
-      "created": "2026-01-14T08:19:50",
-      "lastUpdated": "2026-01-20T22:24:33",
-      "mediaCount": 0,
-      "notable": false,
-      "searchTags": [
-        "legal-resident",
-        "children",
-        "chemical-agents",
-        "excessive-force",
-        "operation-parris",
-        "src:other-local"
-      ],
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
-      "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
-    },
-    {
       "filePath": "incidents/2026-01/13/2026-01-13-carondelet-school-lockdown.md",
       "title": "Carondelet Catholic School Lockdown During ICE Arrest Outside Building",
       "summary": "Carondelet Catholic School in southwest Minneapolis placed its Upper Campus on lockdown while federal ICE agents made an arrest outside the school building. The school notified parents at 2:44 PM that the lockdown was enacted \"out of an abundance of caution.\" All students and faculty were inside the building and safe.",
@@ -792,6 +754,44 @@
       ],
       "aspectRatio": 0.7989347536617842,
       "mediaVersion": 1769985950
+    },
+    {
+      "filePath": "incidents/2026-01/13/2026-01-13-willmar-student-arrested.md",
+      "title": "High School Student with Legal Status Arrested in Downtown Willmar",
+      "summary": "Suban Noor, a 19-year-old Somali woman and 11th-grade student at Willmar Senior High School, was arrested by ICE agents in downtown Willmar while picking up food for her family. She had legal refugee status (Form I-94) and her family had an active Green Card application. The arrest caused approximately 90% of Somali students to miss school the following day. Noor was released on Friday, Jan 16. <em class=\"incident-note\">**Note: This story seems to follow a pattern of Operation PARRIS (Post-Admission Refugee Reverification and Integrity Strengthening) -- see more details on this below.**</em>",
+      "latestUpdate": null,
+      "correctionNote": null,
+      "date": "2026-01-12",
+      "time": "afternoon",
+      "location": "Downtown Willmar",
+      "city": "Willmar",
+      "type": [
+        "citizens",
+        "schools-hospitals"
+      ],
+      "status": "resolved",
+      "affectedIndividualCitizenship": "legal-resident",
+      "injuries": "none",
+      "trustworthiness": "high",
+      "created": "2026-01-14T08:19:50",
+      "lastUpdated": "2026-01-20T22:24:33",
+      "mediaCount": 0,
+      "notable": false,
+      "searchTags": [
+        "legal-resident",
+        "children",
+        "chemical-agents",
+        "excessive-force",
+        "operation-parris",
+        "src:other-local"
+      ],
+      "hasLocalMedia": false,
+      "localMediaType": null,
+      "localMediaPath": null,
+      "localMediaOgPath": null,
+      "localMediaFiles": [],
+      "aspectRatio": null,
+      "mediaVersion": null
     },
     {
       "filePath": "incidents/2026-01/09/2026-01-09-fridley-schools-closure.md",

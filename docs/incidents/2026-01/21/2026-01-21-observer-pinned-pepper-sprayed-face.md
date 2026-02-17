@@ -24,7 +24,7 @@ Federal agents pinned an observer to the ground and sprayed a chemical irritant 
 1. Star Tribune Photo (Jan 21, 2026): [ICE raids Minnesota live updates](https://www.startribune.com/ice-raids-minnesota/601546426) - Photo by Richard Tsong-Taatarii
 2. Reddit (Jan 21, 2026): [r/FedEmployees post with photo](https://www.reddit.com/r/FedEmployees/comments/1qjdnhw/observer_being_arrested_and_pepper_sprayed_at/)
 3. Threads (Jan 21, 2026): [@msbellaf post](https://www.threads.com/@msbellaf/post/DTyf2oUFQ52)
-4. New York Times (Jan 23, 2026): [Minneapolis Man Pepper Sprayed While Pinned in Searing New Video](https://www.nytimes.com/2026/01/23/us/minneapolis-man-pepper-sprayed-pinned-video.html)
+4. New York Times (Jan 23, 2026): [Pepper-Sprayed While Pinned Down: A Searing Scene Provokes Outrage](https://www.nytimes.com/2026/01/23/us/minneapolis-man-pepper-sprayed-pinned-video.html)
 
 ## Affected Individual(s)
 
@@ -33,9 +33,9 @@ Federal agents pinned an observer to the ground and sprayed a chemical irritant 
 
 ## Context: Federal Injunction on Chemical Irritants
 
-On January 17, 2026, U.S. District Judge Katherine Menendez issued a preliminary injunction barring federal agents participating in Operation Metro Surge from using pepper spray on peaceful protesters and observers. The court found that chemical agents had been used against protesters on at least four separate occasions and that "protected conduct—including peaceful protesting and observation—had motivated the agents' actions."
+On January 16, 2026, U.S. District Judge Katherine Menendez issued a preliminary injunction barring federal agents participating in Operation Metro Surge from using pepper spray on peaceful protesters and observers. The court found that chemical agents had been used against protesters on at least four separate occasions and that "protected conduct—including peaceful protesting and observation—had motivated the agents' actions."
 
-This incident occurred four days after that injunction was issued.
+This incident occurred five days after that injunction was issued.
 
 ## Related Incidents
 

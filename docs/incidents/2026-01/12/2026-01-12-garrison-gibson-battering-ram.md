@@ -18,11 +18,11 @@ search_tags: excessive-force, warrantless-entry, children, family-separation, sr
 ## Updates
 - **Feb 2** - [Full press conference video](https://www.youtube.com/watch?v=UVYy57H30DU) now available from MPR News.
 - **Jan 18** - Gibson alleges ICE took "trophy photos" of him and held him in overcrowded cell; Stephen Miller claims credit for re-arrest.
-- **Jan 18** - Gibson re-arrested at routine check-in, then released again after ICE admits error; now on ankle monitor.
-- **Jan 18** - Federal judge rules arrest violated Fourth Amendment, orders immediate release.
+- **Jan 17** - Gibson re-arrested at routine check-in, then released again after ICE admits error; now on ankle monitor.
+- **Jan 16** - Federal judge rules arrest violated Fourth Amendment, orders immediate release.
 
 ## Summary
-Garrison Gibson, a 38-year-old Liberian citizen who has lived in the U.S. for 17 years, was arrested by ICE agents who used a battering ram to enter his north Minneapolis home. His family demanded to see a judicial warrant, but agents presented only an administrative warrant signed by an immigration officer. A 9-year-old child was inside the home during the raid. A federal judge ruled the arrest violated Gibson's Fourth Amendment rights and ordered his immediate release, finding he has "no criminal record" — contradicting DHS claims. Gibson was released but taken back into ICE custody the next day. At a Jan 18 press conference, Gibson alleged agents took "trophy photos" of him and held him in an overcrowded cell. He now wears an ankle monitor and says he is afraid to leave his home.
+Garrison Gibson, a 37-year-old Liberian citizen who has lived in the U.S. for 17 years, was arrested by ICE agents who used a battering ram to enter his north Minneapolis home. His family demanded to see a judicial warrant, but agents presented only an administrative warrant signed by an immigration officer. A 9-year-old child was inside the home during the raid. A federal judge ruled the arrest violated Gibson's Fourth Amendment rights and ordered his immediate release, finding he has "no criminal record" — contradicting DHS claims. Gibson was released but taken back into ICE custody the next day. At a Jan 18 press conference, Gibson alleged agents took "trophy photos" of him and held him in an overcrowded cell. He now wears an ankle monitor and says he is afraid to leave his home.
 
 ## Sources
 1. FOX 9 (Jan 12, 2026): [Minneapolis family demands judicial warrant as federal agents bust door](https://www.fox9.com/news/minneapolis-family-demands-judicial-warrant-federal-agents-raid-jan-2026)
@@ -32,13 +32,13 @@ Garrison Gibson, a 38-year-old Liberian citizen who has lived in the U.S. for 17
 5. MinnPost (Jan 13, 2026): [Attorney: No proper warrant for Minneapolis man's arrest in home](https://www.minnpost.com/public-safety/2026/01/attorney-federal-agents-had-no-proper-warrant-to-arrest-minneapolis-man-who-fled-to-u-s-from-liberia-as-a-child-ice-garrison-gibson/)
 6. Reason (Jan 14, 2026): [Immigration agents used a battering ram to enter Minneapolis home without a valid warrant](https://reason.com/2026/01/14/federal-agents-used-a-battering-ram-to-enter-a-minneapolis-home-without-valid-warrant-video-shows/)
 7. The Hill (Jan 16, 2026): [Liberian man released for second time after ICE officers broke into home with battering ram](https://thehill.com/homenews/state-watch/5693339-liberian-man-ice-arrest-released/)
-8. Twin Cities Pioneer Press (Jan 16, 2026): [Judge orders release of Liberian man arrested in Minneapolis by agents with a battering ram](https://www.twincities.com/2026/01/16/ice-battering-ram-case/)
+8. Pioneer Press (Jan 16, 2026): [Judge orders release of Liberian man arrested in Minneapolis by agents with a battering ram](https://www.twincities.com/2026/01/16/ice-battering-ram-case/)
 9. Hoodline (Jan 16, 2026): [Minneapolis Judge Slams ICE Battering Ram Raid, Orders Man Freed](https://hoodline.com/2026/01/minneapolis-judge-slams-ice-battering-ram-raid-orders-man-freed/)
-10. Fox 9 (Jan 17, 2026): [Judge: ICE violated Liberian man's rights by bursting through front door during arrest](https://www.fox9.com/news/judge-ice-violated-liberian-mans-rights-bursting-through-front-door-during-arrest)
+10. FOX 9 (Jan 17, 2026): [Judge: ICE violated Liberian man's rights by bursting through front door during arrest](https://www.fox9.com/news/judge-ice-violated-liberian-mans-rights-bursting-through-front-door-during-arrest)
 11. ABC News (Jan 17, 2026): [A Liberian man released after his battering-ram arrest in Minneapolis is back in custody again](https://abcnews.go.com/US/wireStory/liberian-man-released-after-battering-ram-arrest-minneapolis-129282435)
 12. CBS Minnesota (Jan 17, 2026): [1 day after judge orders release, agents re-arrest him at immigration check-in](https://www.cbsnews.com/minnesota/news/judge-orders-release-of-liberian-man-arrested-by-ice-in-minneapolis-home-invasion/)
 13. MPR News (Jan 18, 2026): [Garrison Gibson says ICE agents took 'trophy' photos after Minneapolis arrest](https://www.mprnews.org/story/2026/01/18/garrison-gibson-says-ice-agents-took-trophy-photos-locked-in-overcrowded-cell)
-14. MPR News video (Jan 18, 2026): [Garrison Gibson full press conference](https://www.youtube.com/watch?v=UVYy57H30DU)
+14. YouTube Video (Jan 18, 2026): [Garrison Gibson full press conference](https://www.youtube.com/watch?v=UVYy57H30DU)
 15. Sahan Journal (Jan 16, 2026): [Minnesota Liberian immigrant released, then re-detained by ICE](https://sahanjournal.com/immigration/minnesota-liberian-immigrant-released-redetained/)
 16. Sahan Journal (Jan 13, 2026): [AP: Minneapolis man arrested in immigration raid was regularly checking in](https://sahanjournal.com/news-partners/ap-us-immigration-enforcement-minneapolis-arrest/)
 17. KARE 11 (Jan 13, 2026): [Liberian man arrested in Minneapolis raid was regularly checking in with authorities, lawyer says](https://www.kare11.com/article/syndication/associatedpress/liberian-man-arrested-in-minneapolis-raid-was-regularly-checking-in-with-authorities-lawyer-says/616-defaf9b2-1ece-401e-ab4a-e82bfa6b701c)
@@ -74,7 +74,7 @@ He had checked in with ICE officials on Dec 29, less than two weeks before the a
 ## Official Accounts
 
 ### DHS Statement
-DHS spokeswoman Tricia McLaughlin claimed Gibson has a "lengthy rap sheet (that) includes robbery, drug possession with intent to sell, possession of a deadly weapon, malicious destruction and theft." She did not indicate whether those were arrests, charges, or convictions.
+DHS Assistant Secretary Tricia McLaughlin claimed Gibson has a "lengthy rap sheet (that) includes robbery, drug possession with intent to sell, possession of a deadly weapon, malicious destruction and theft." She did not indicate whether those were arrests, charges, or convictions.
 
 Court records contradict this characterization, showing his legal history is dominated by traffic violations, minor drug arrests, and one fare evasion charge. His only felony—the 2008 third-degree narcotics conviction—was later dismissed by the courts.
 
@@ -84,7 +84,7 @@ Abena Abraham, speaking on behalf of the family: "This is unacceptable; this tra
 Abraham also claimed that ICE officials told her on Jan 17 that White House Deputy Chief of Staff Stephen Miller ordered Gibson to be re-arrested. The White House denied this account.
 
 ## Detention Conditions (Jan 18 Press Conference)
-At a press conference on Saturday, Jan 18, Gibson made the following allegations about his treatment during detention:
+At a press conference on Sunday, Jan 18, Gibson made the following allegations about his treatment during detention:
 - ICE agents took unwanted "trophy photos" of him
 - He was locked in an overcrowded cell
 - Gibson: "I don't leave the house" — describing his current fear of going outside
@@ -98,7 +98,7 @@ At a press conference on Saturday, Jan 18, Gibson made the following allegations
 - **Jan 16, 2026:** Federal Judge Jeffrey Bryan ruled ICE violated Gibson's Fourth Amendment rights by entering his home with only an administrative warrant, not a judicial warrant
 - Judge ordered immediate release, stating: "This arrest violated the Fourth Amendment. For this independent reason, Garrison G.'s detention is unlawful, and the Court orders his immediate release."
 - Judge also found: "Garrison G. has no criminal record" — directly contradicting DHS claims of a "lengthy rap sheet"
-- Gibson released Thursday night (Jan 16)
+- Gibson released Friday night (Jan 16)
 - **Jan 17, 2026:** Gibson back in ICE custody again when he appeared for routine immigration check-in
 - **Jan 17, 2026 (evening):** Gibson released for second time after ICE admitted error. Attorney Marc Prokosch: "In the words of my client, he said that somebody at ICE said they bleeped up and so they re-released him this afternoon."
 - **Current status:** Gibson now required to wear ankle monitor and remains under immigration supervision
