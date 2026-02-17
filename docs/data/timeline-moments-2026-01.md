@@ -117,7 +117,7 @@ title: North Minneapolis Erupts; Six Children Hospitalized After Flashbangs Hit 
 incident: 2026-01-14-shawn-jackson-children-tear-gas
 source:
 ---
-Agents deploy flashbang grenades and tear gas under an SUV carrying Shawn Jackson and his six children, ages 6 months to 11. The infant stops breathing and requires CPR; three children are hospitalized. Agents refuse to call 911. Mayor Frey calls federal agents' behavior "disgusting and intolerable."
+Agents deploy flashbang grenades and tear gas under an SUV carrying Shawn Jackson and his six children, ages 6 months to 11. The infant stops breathing and requires CPR; three children are hospitalized. Mayor Frey calls federal agents' behavior "disgusting and intolerable."
 
 ---
 date: 2026-01-15

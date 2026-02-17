@@ -211,7 +211,6 @@ Published incidents visible on the main site.
 - incidents/2026-01/10/2026-01-10-nicole-cleland-global-entry-revoked.md | 2026-01-10 | Richfield | observers | Observer's Global Entry and TSA PreCheck Revoked After CBP Agent Uses Facial Recognition
 - incidents/2026-01/10/2026-01-10-bloomington-ave-bus-stop.md | 2026-01-10 | Minneapolis | immigrants | ICE Agents "Ripping People From Cars" at Bus Stop; Union Marks Site as "Abduction" Location
 - incidents/2026-01/10/2026-01-10-raul-aguirre-castrejon-monticello.md | 2026-01-10 | Monticello | citizens | Legal Permanent Resident Boxed In on Road, Handcuffed at Gunpoint; Agents Take Cash from Wallet
-- incidents/2026-01/10/2026-01-10-dionne-thunder-powwow-grounds.md | 2026-01-10 | Minneapolis | observers | ICE Agents Attempt to Detain Indigenous Observer Near Powwow Grounds; Community Forces Retreat
 - incidents/2026-01/10/2026-01-10-maple-grove-walmart.md | 2026-01-10 | Maple Grove | immigrants | Man Pinned and Arrested Inside Maple Grove Walmart
 - incidents/2026-01/10/2026-01-10-ta-eh-doh-lah-refugee-detained.md | 2026-01-10 | St. Paul | citizens | Burmese Refugee Mother Arrested While Breastfeeding; Judge Orders Release From Texas
 - incidents/2026-01/10/2026-01-10-congressional-access-denied.md | 2026-01-10 | Minneapolis | background | Congressional Representatives Denied Access to Whipple ICE Facility
@@ -220,6 +219,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/09/2026-01-09-valleyview-elementary-absences.md | 2026-01-09 | Bloomington | schools-hospitals | 142 Students Absent from Valleyview Elementary Due to ICE Fears
 - incidents/2026-01/09/2026-01-09-hopkins-bryam-escobar.md | 2026-01-09 | Hopkins | immigrants | Hopkins Father Detained Going to Work; Later Released by Court Order
 - incidents/2026-01/09/2026-01-09-fridley-schools-closure.md | 2026-01-09 | Fridley | schools-hospitals | Fridley Public Schools Closes Twice Due to ICE Activity
+- incidents/2026-01/09/2026-01-09-dionne-thunder-powwow-grounds.md | 2026-01-09 | Minneapolis | observers | ICE Agents Attempt to Detain Indigenous Observer Near Powwow Grounds; Community Forces Retreat
 - incidents/2026-01/09/2026-01-09-juan-carlos-brutality.md | 2026-01-09 | Minneapolis | observers | Border Patrol Agent Knees Man in Face While Pinned Down
 - incidents/2026-01/09/2026-01-09-troy-carrillo-pepper-sprayed.md | 2026-01-09 | Bloomington | observers | Observer Pepper Sprayed in Face by Agent from Same Vehicle That Threatened Him Two Days Earlier
 - incidents/2026-01/09/2026-01-09-abigail-salm-observer-detained.md | 2026-01-09 | Hopkins | observers | "Is This How You Want to Die?" — Observer Detained, Threatened with Bullet, Phone Stolen by Agent

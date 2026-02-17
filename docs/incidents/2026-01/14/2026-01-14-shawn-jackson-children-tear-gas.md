@@ -16,7 +16,7 @@ search_tags: us-citizen, children, chemical-agents, excessive-force, src:fox9, s
 # Six Children Hospitalized After ICE Deploys Flashbangs and Tear Gas on Family SUV
 
 ## Summary
-Shawn Jackson and his family were leaving a relative's home after his son's basketball game when ICE agents deployed flashbang grenades and tear gas under their SUV. His six children, ranging from 6 months to 11 years old, were inside the vehicle. The 6-month-old baby stopped breathing and required CPR. Three children were hospitalized.
+Shawn Jackson and his family were driving home from his son's basketball game when they were caught in a clash between ICE agents and protesters. Agents deployed flashbang grenades and tear gas under their SUV. His six children, ranging from 6 months to 11 years old, were inside the vehicle. The 6-month-old baby stopped breathing and required CPR. Three children were hospitalized.
 
 ## Sources
 1. Instagram Video (Jan 15, 2026): [Shawn Jackson interview](https://www.instagram.com/reels/DThKBtWjiiK/)
@@ -29,14 +29,14 @@ Shawn Jackson and his family were leaving a relative's home after his son's bask
 8. CBS Minnesota (Jan 15, 2026): [Minneapolis couple says ICE released tear gas under their family vehicle with 6 children inside](https://www.cbsnews.com/minnesota/news/ice-tear-gassed-family-vehicle-with-6-children-inside/)
 9. ABC 7 (Jan 15, 2026): [Minneapolis ICE shooting live updates: Infant hospitalized after fed agents deployed tear gas](https://abc7.com/live-updates/minneapolis-ice-shooting-live-updates-infant-hospitalized-fed-agents-deployed-tear-gas/18410867/)
 10. KSTP (Jan 15, 2026): [Tear gas deployed by federal agents reportedly hospitalized a 6-month-old infant and juvenile](https://kstp.com/kstp-news/top-news/tear-gas-deployed-by-federal-agents-reportedly-hospitalized-a-6-month-old-infant-and-juvenile/)
-10. Common Dreams (Jan 15, 2026): [Minneapolis Children Flashbang](https://www.commondreams.org/news/minneapolis-children-flashbang)
-11. Jalopnik (Jan 15, 2026): [ICE Throws Flash Bang at Family Car Minneapolis](https://www.jalopnik.com/2077210/ice-throws-flash-bang-at-family-car-minneapolis/)
-12. Truthout (Jan 15, 2026): [Immigration agents teargas Minneapolis family's car with 6 kids inside](https://truthout.org/articles/immigration-agents-teargas-minneapolis-familys-car-with-6-kids-inside/)
-13. The Shade Room (Jan 15, 2026): [6-month-old among 3 children hospitalized after tear gas hits innocent family van](https://theshaderoom.com/shawn-jackson-destiny-jackson-6-month-old-among-3-children-hospitalized-after-tear-gas-hits-innocent-family-van-during-minneapolis-protests-video/)
-14. Raw Story (Jan 15, 2026): [ICE Minneapolis family tear gas](https://www.rawstory.com/ice-minneapolis-2674900256/)
-15. Global News Canada (Jan 15, 2026): [Children hospitalized after tear gas deployed by ICE in Minneapolis](https://globalnews.ca/news/11617045/children-hospitalized-tear-gas-deployed-ice-minneapolis-video/)
-16. Sahan Journal (Jan 15, 2026): [North Minneapolis ICE shooting report immigration](https://sahanjournal.com/public-safety/north-minneapolis-ice-shooting-report-immigration/)
-17. Star Tribune (Jan 2026): [Family recounts danger, chaos after being caught in unrest after man shot by federal agent](https://www.startribune.com/family-recounts-danger-chaos-after-being-caught-in-unrest-after-man-shot-by-federal-agent/601567401)
+11. Common Dreams (Jan 15, 2026): [Minneapolis Children Flashbang](https://www.commondreams.org/news/minneapolis-children-flashbang)
+12. Jalopnik (Jan 15, 2026): [ICE Throws Flash Bang at Family Car Minneapolis](https://www.jalopnik.com/2077210/ice-throws-flash-bang-at-family-car-minneapolis/)
+13. Truthout (Jan 15, 2026): [Immigration agents teargas Minneapolis family's car with 6 kids inside](https://truthout.org/articles/immigration-agents-teargas-minneapolis-familys-car-with-6-kids-inside/)
+14. The Shade Room (Jan 15, 2026): [6-month-old among 3 children hospitalized after tear gas hits innocent family van](https://theshaderoom.com/shawn-jackson-destiny-jackson-6-month-old-among-3-children-hospitalized-after-tear-gas-hits-innocent-family-van-during-minneapolis-protests-video/)
+15. Raw Story (Jan 15, 2026): [ICE Minneapolis family tear gas](https://www.rawstory.com/ice-minneapolis-2674900256/)
+16. Global News Canada (Jan 15, 2026): [Children hospitalized after tear gas deployed by ICE in Minneapolis](https://globalnews.ca/news/11617045/children-hospitalized-tear-gas-deployed-ice-minneapolis-video/)
+17. Sahan Journal (Jan 15, 2026): [North Minneapolis ICE shooting report immigration](https://sahanjournal.com/public-safety/north-minneapolis-ice-shooting-report-immigration/)
+18. Star Tribune (Jan 21, 2026): [Family recounts danger, chaos after being caught in unrest after man shot by federal agent](https://www.startribune.com/family-recounts-danger-chaos-after-being-caught-in-unrest-after-man-shot-by-federal-agent/601567401)
 
 ## Affected Individual(s)
 - **Name:** Shawn Jackson (father), Destiny Jackson (mother)
@@ -69,8 +69,6 @@ At late-night press conference, called federal agents' behavior "disgusting and 
 
 **Shawn Jackson:**
 > "Officers threw flash bangs and tear gas in my car. I got six kids in the car [...] My 6-month-old can't even breathe."
-
-> "I grabbed two kids at a time and was running in and out of the house. I barely could breathe. There was tear gas all over my car, like my car filled up with smoke."
 
 Jackson reported that ICE agents initially blocked their path when they tried to leave, then rolled the tear gas canister under their vehicle.
 
