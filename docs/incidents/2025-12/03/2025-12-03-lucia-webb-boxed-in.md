@@ -43,7 +43,7 @@ Lucia Webb, a 31-year-old Powderhorn neighborhood resident and nonprofit operati
 - **Boxed in** - Four ICE vehicles surround her: one in front, the rest to the sides. Approximately five masked and armed agents walk toward her car and surround it. Webb starts filming.
 - The closest agent accuses her of chasing ICE vehicles, breaking traffic laws, and running red lights. He claims they have her on video breaking the law. Webb had not broken any traffic laws.
 - Agent tells her she is "impeding officers" and threatens arrest if she doesn't stop following them. Webb tells the agent she is trying to protect her neighbors.
-- Webb: "You can not do this." Agent: "Yes, I can." (Per MPR, the exchange was reversed — Webb insisted "Yes, I can" when told she couldn't follow them.)
+- Agent: "You can not do this." Webb: "Yes, I can. Yes, I can."
 - Webb asks agents if they are embarrassed to be kidnapping people like "Nazis." They reply: "Not really."
 - Agents insult and mock her, crudely insulting her appearance.
 - Agents get back in their vehicles and leave.
