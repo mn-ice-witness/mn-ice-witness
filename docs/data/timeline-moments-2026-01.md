@@ -213,7 +213,7 @@ title: ICU Nurse Alex Pretti Killed by CBP
 incident: 2026-01-24-alex-pretti-shooting
 source:
 ---
-The second fatal shooting. Alex Pretti, 37, an ICU nurse and VA employee, is shot and killed by CBP agents while filming the operation. Unlike Renee Good, Pretti had no connection to immigration enforcement — he was a passerby who stopped to help.
+The second fatal shooting. Alex Pretti, 37, an ICU nurse and VA employee, is shot and killed by CBP agents while filming the operation. Pretti was an observer who intervened to help a woman pushed by agents.
 
 ---
 date: 2026-01-27

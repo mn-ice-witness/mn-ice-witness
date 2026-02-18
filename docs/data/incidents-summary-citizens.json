@@ -83,42 +83,6 @@
       "mediaVersion": 1770416882
     },
     {
-      "filePath": "incidents/2026-02/01/2026-02-01-jose-lozano-worthington.md",
-      "title": "Jose Lozano Detained Despite Valid Asylum Permit in Worthington",
-      "summary": "Jose Lozano, 28, was detained by ICE while jumpstarting his minivan outside his Worthington home despite holding a valid asylum permit with three years of authorization remaining. When he attempted to retrieve his wallet to show documentation, agents prevented him from doing so. An immigration attorney intervened within 30 minutes to stop his transfer to Texas.",
-      "latestUpdate": "Lozano [released at approximately 11:00 PM](https://www.dglobe.com/news/local/worthington-man-back-home-after-five-days-in-ice-custody) after five days in ICE custody. Volunteers transported him back to Worthington; he arrived home around 2:00 AM on Feb 4. Plans to return to work at JBS and classes at Minnesota West Community & Technical College. Hearing date set for February 28.",
-      "correctionNote": null,
-      "date": "2026-02-01",
-      "time": "\"08:15\"",
-      "location": "Residential area, Worthington",
-      "city": "Worthington",
-      "type": "citizens",
-      "status": "resolved",
-      "affectedIndividualCitizenship": "asylum-seeker",
-      "injuries": "none",
-      "trustworthiness": "high",
-      "created": "2026-02-02T20:53:54",
-      "lastUpdated": "2026-02-10T18:47:37",
-      "mediaCount": 0,
-      "notable": false,
-      "searchTags": [
-        "legal-resident",
-        "src:other-local"
-      ],
-      "hasLocalMedia": true,
-      "localMediaType": "image",
-      "localMediaPath": "media/2026-02/01/2026-02-01-jose-lozano-worthington.jpg",
-      "localMediaOgPath": null,
-      "localMediaFiles": [
-        {
-          "type": "image",
-          "path": "media/2026-02/01/2026-02-01-jose-lozano-worthington.jpg"
-        }
-      ],
-      "aspectRatio": 1.3528748590755355,
-      "mediaVersion": 1770092930
-    },
-    {
       "filePath": "incidents/2026-02/01/2026-02-01-fareh-home-surrounded-rochester.md",
       "title": "Citizen Check: ICE Agents Surround U.S. Citizen Family Home in Rochester",
       "summary": "ICE agents surrounded the home of the Fareh family in Rochester on Sunday, February 1, 2026, while Abdirashid Fareh's siblings were home alone, including a 12-year-old sister with special needs. The family are U.S. citizens born in Rochester. No arrests were made, but the 12-year-old refused to go to school the following day. Fareh testified about the incident at the Rochester City Council meeting on February 2.",
@@ -189,6 +153,42 @@
       "localMediaFiles": [],
       "aspectRatio": null,
       "mediaVersion": null
+    },
+    {
+      "filePath": "incidents/2026-01/30/2026-01-30-jose-lozano-worthington.md",
+      "title": "Jose Lozano Detained Despite Valid Temporary Permit in Worthington",
+      "summary": "Jose Lozano, 28, was detained by ICE while jumpstarting his minivan outside his Worthington home despite holding a valid temporary permit with three years of authorization remaining. When he attempted to retrieve his wallet to show documentation, agents prevented him from doing so. An immigration attorney intervened within half an hour to stop his transfer to Texas.",
+      "latestUpdate": "Lozano [released at approximately 11:00 PM](https://www.dglobe.com/news/local/worthington-man-back-home-after-five-days-in-ice-custody) after five days in ICE custody. Volunteers transported him back to Worthington; he arrived home around 2:00 AM on Feb 5. Plans to return to work at JBS and classes at Minnesota West Community & Technical College. Hearing date set for February 28.",
+      "correctionNote": null,
+      "date": "2026-01-30",
+      "time": "\"08:15\"",
+      "location": "Residential area, Worthington",
+      "city": "Worthington",
+      "type": "citizens",
+      "status": "resolved",
+      "affectedIndividualCitizenship": "asylum-seeker",
+      "injuries": "none",
+      "trustworthiness": "high",
+      "created": "2026-02-02T20:53:54",
+      "lastUpdated": "2026-02-10T18:47:37",
+      "mediaCount": 0,
+      "notable": false,
+      "searchTags": [
+        "legal-resident",
+        "src:other-local"
+      ],
+      "hasLocalMedia": true,
+      "localMediaType": "image",
+      "localMediaPath": "media/2026-01/30/2026-01-30-jose-lozano-worthington.jpg",
+      "localMediaOgPath": null,
+      "localMediaFiles": [
+        {
+          "type": "image",
+          "path": "media/2026-01/30/2026-01-30-jose-lozano-worthington.jpg"
+        }
+      ],
+      "aspectRatio": 1.3528748590755355,
+      "mediaVersion": 1770092930
     },
     {
       "filePath": "incidents/2026-01/29/2026-01-29-columbia-heights-hs-students-harassed.md",

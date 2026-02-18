@@ -53,12 +53,12 @@ Published incidents visible on the main site.
 - incidents/2026-02/04/2026-02-04-trump-softer-touch-interview.md | 2026-02-04 | Washington D.C. | response | Trump Says Administration Will Use "Softer Touch" After Minneapolis Shootings
 - incidents/2026-02/03/2026-02-03-observers-detained-gunpoint-midtown-phillips.md | 2026-02-03 | Minneapolis | observers | Observers Detained at Gunpoint, Bystanders Tackled in Midtown Phillips
 - incidents/2026-02/03/2026-02-03-yolanda-whipple-ankle-monitor.md | 2026-02-03 | Minneapolis | immigrants | Asylum-Seeking Mother Arrested at Routine Check-In with Two Children; Released with Ankle Monitor
-- incidents/2026-02/01/2026-02-01-jose-lozano-worthington.md | 2026-02-01 | Worthington | citizens | Jose Lozano Detained Despite Valid Asylum Permit in Worthington
 - incidents/2026-02/01/2026-02-01-powderhorn-rec-center-observer-arrested.md | 2026-02-01 | Minneapolis | observers | Observer Arrested, Concussion Grenades Deployed at Powderhorn Rec Center
 - incidents/2026-02/01/2026-02-01-fareh-home-surrounded-rochester.md | 2026-02-01 | Rochester | citizens | Citizen Check: ICE Agents Surround U.S. Citizen Family Home in Rochester
 - incidents/2026-01/31/2026-01-31-rochester-government-center-citizen-detained.md | 2026-01-31 | Rochester | citizens | U.S. Citizen Detained at Olmsted County Government Center, Released After Identity Verified
 - incidents/2026-01/30/2026-01-30-dhs-response-racial-profiling-false.md | 2026-01-30 | Minneapolis | response | DHS Response: Racial Profiling Allegations Are "Disgusting, Reckless and Categorically FALSE"
 - incidents/2026-01/30/2026-01-30-richfield-middle-school-bus-route.md | 2026-01-30 | Richfield | schools-hospitals | Federal Agents Present on Richfield Middle School Bus Route
+- incidents/2026-01/30/2026-01-30-jose-lozano-worthington.md | 2026-01-30 | Worthington | citizens | Jose Lozano Detained Despite Valid Temporary Permit in Worthington
 - incidents/2026-01/30/2026-01-30-st-peter-police-chief-intervenes.md | 2026-01-30 | St. Peter | observers | St. Peter Police Chief Retrieves U.S. Citizen From ICE Custody Mid-Transport
 - incidents/2026-01/30/2026-01-30-ecuadorian-family-self-deports.md | 2026-01-30 | Minneapolis | immigrants | Citing Safety Concerns, Ecuadorian Family Self-Deports Despite Pending Asylum Case
 - incidents/2026-01/29/2026-01-29-columbia-heights-hs-students-harassed.md | 2026-01-29 | Columbia Heights | citizens, schools-hospitals | Columbia Heights High School Students Harassed by ICE Agents
