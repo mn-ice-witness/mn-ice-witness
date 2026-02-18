@@ -16,7 +16,7 @@ search_tags: legal-resident, src:mpr, src:other-local
 # Somali Man with Temporary Protected Status Detained in Rochester
 
 ## Updates
-- **Dec 17** - [Federal judge ordered release](https://www.mprnews.org/story/2025/12/17/rochester-somali-man-ice-judge-orders-release), finding he is not likely to be deported to Somalia.
+- **Dec 17** - [Federal judge ordered release](https://www.mprnews.org/story/2025/12/17/judge-orders-release-of-somali-man-detained-during-ice-enforcement-surge), finding he is not likely to be deported to Somalia.
 
 ## Summary
 A Somali man with Temporary Protected Status (TPS) valid until March 2026 was pulled from his car by ICE agents in southeast Rochester. The arrest was captured in a viral TikTok video and alarmed the local Somali community. Rochester Police confirmed ICE conducted an operation that day. A federal judge later ordered his release, finding he is not likely to be deported.

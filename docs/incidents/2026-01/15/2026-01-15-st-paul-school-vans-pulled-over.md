@@ -21,7 +21,7 @@ Federal ICE agents pulled over two St. Paul Public Schools contract vans while s
 ## Sources
 1. FOX 9 (Jan 15, 2026): [St. Paul Schools van full of teachers, students pulled over by ICE agents](https://www.fox9.com/news/st-paul-schools-van-pulled-over-ice-agents-jan-2026)
 2. MPR News (Jan 15, 2026): [Two St. Paul school vans were pulled over by federal agents](https://www.mprnews.org/story/2026/01/15/ice-shooting-minneapolis-minnesota-latest-updates)
-3. CBS Minnesota (Jan 15, 2026): [St. Paul Public Schools offering temporary virtual learning](https://www.cbsnews.com/minnesota/news/st-paul-schools-virtual-learning-ice/)
+3. KSTP (Jan 15, 2026): [Several school districts offering online learning in response to ICE activity](https://kstp.com/inside-your-schools/several-school-districts-offering-online-learning-in-response-to-ice-activity/)
 
 ## Affected Individual(s)
 - **Affected:** Students and teachers aboard two contract school vans

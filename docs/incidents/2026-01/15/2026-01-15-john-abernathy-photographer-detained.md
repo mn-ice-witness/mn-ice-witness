@@ -22,14 +22,13 @@ Independent photographer John Abernathy, 61, was tackled from behind by federal 
 ## Sources
 
 1. U.S. Press Freedom Tracker (Jan 16, 2026): [Photographer arrested, pepper-sprayed and tear-gassed by federal officers](https://pressfreedomtracker.us/all-incidents/photographer-arrested-pepper-sprayed-and-tear-gassed-by-federal-officers/)
-2. AP Photo (Jan 15, 2026): [Photographer John Abernathy pushed to the ground by federal agents](https://lufkindailynews.com/anpa/us/addition-immigration-enforcement-minnesota/image_aca10ed9-d1b6-5cc2-8261-3331352b9dda.html) - Photo by Adam Gray
-3. PetaPixel (Jan 20, 2026): [Photographer Tosses His Leica Away From ICE](https://petapixel.com/2026/01/20/photographer-tosses-his-leica-away-from-ice-as-hes-tackled-to-the-ground/)
-4. HuffPost (Jan 20, 2026): ['The World Needs To See It': The Moment A Photographer Saved A Camera From ICE](https://www.huffpost.com/entry/john-abernathy-photos-ice-minnesota_n_696c2c6ce4b043a364235a53)
-5. Gizmodo (Jan 2026): [Terrifying Photo from the Minneapolis ICE Protests](https://gizmodo.com/terrifying-photo-from-the-minneapolis-ice-protests-will-have-you-shopping-for-leicas-2000711428)
-6. DIY Photography (Jan 2026): [John Abernathy Throwing his Camera: A Symbol Of Press Freedom](https://www.diyphotography.net/john-abernathy-throwing-his-camera-a-symbol-of-press-freedom-under-pressure/)
-7. Reporters Without Borders (Jan 2026): [Attacks on journalists in Minnesota](https://rsf.org/en/attacks-journalists-minnesota-cap-trump-s-first-year-back-office)
-8. CNN (Jan 23, 2026): [In pictures: The Minneapolis immigration crackdown](https://edition.cnn.com/2026/01/23/us/gallery/minneapolis-ice-immigration-crackdown)
-9. Star Tribune (Feb 15, 2026): [Filings recount 'out of control' ICE agents at height of surge](https://www.startribune.com/minneapolis-protest-ice-aclu-court-filings-operation-metro-surge-on-the-ground-minnesota/601582605)
+2. PetaPixel (Jan 20, 2026): [Photographer Tosses His Leica Away From ICE](https://petapixel.com/2026/01/20/photographer-tosses-his-leica-away-from-ice-as-hes-tackled-to-the-ground/)
+3. HuffPost (Jan 20, 2026): ['The World Needs To See It': The Moment A Photographer Saved A Camera From ICE](https://www.huffpost.com/entry/john-abernathy-photos-ice-minnesota_n_696c2c6ce4b043a364235a53)
+4. Gizmodo (Jan 2026): [Terrifying Photo from the Minneapolis ICE Protests](https://gizmodo.com/terrifying-photo-from-the-minneapolis-ice-protests-will-have-you-shopping-for-leicas-2000711428)
+5. DIY Photography (Jan 2026): [John Abernathy Throwing his Camera: A Symbol Of Press Freedom](https://www.diyphotography.net/john-abernathy-throwing-his-camera-a-symbol-of-press-freedom-under-pressure/)
+6. Reporters Without Borders (Jan 2026): [Attacks on journalists in Minnesota](https://rsf.org/en/attacks-journalists-minnesota-cap-trump-s-first-year-back-office)
+7. CNN (Jan 23, 2026): [In pictures: The Minneapolis immigration crackdown](https://edition.cnn.com/2026/01/23/us/gallery/minneapolis-ice-immigration-crackdown)
+8. Star Tribune (Feb 15, 2026): [Filings recount 'out of control' ICE agents at height of surge](https://www.startribune.com/minneapolis-protest-ice-aclu-court-filings-operation-metro-surge-on-the-ground-minnesota/601582605)
 
 ## Affected Individual(s)
 

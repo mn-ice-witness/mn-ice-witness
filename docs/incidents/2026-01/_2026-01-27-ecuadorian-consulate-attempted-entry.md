@@ -23,8 +23,8 @@ ICE agents attempted to enter the Ecuadorian Consulate in Minneapolis without pe
 
 1. Axios (Jan 28, 2026): [Ecuador files protest after ICE agents attempts to enter Minneapolis consulate](https://www.axios.com/2026/01/28/ice-trump-minnesota-minneapolis-ecuador-consulate)
 2. Washington Post (Jan 27, 2026): [ICE agents attempted to enter Ecuador's consulate in Minneapolis, prompting diplomatic protest](https://www.washingtonpost.com/immigration/2026/01/27/ice-enter-ecuador-consulate/)
-3. KARE 11 (Jan 27, 2026): [ICE agents attempt entry to Ecuadorian Consulate in Minneapolis](https://www.kare11.com/article/news/local/ice-in-minnesota/ice-ecuador-consulate-minneapolis/89-consulate)
-4. MPR News (Jan 27, 2026): [Ecuador protests after ICE agents attempt to enter Minneapolis consulate](https://www.mprnews.org/story/2026/01/27/ecuador-ice-consulate-minneapolis)
+3. KARE 11 (Jan 27, 2026): [Ecuador says ICE tried to enter Minneapolis consulate](https://www.kare11.com/article/news/local/ecuador-says-ice-tried-to-enter-minneapolis-consulate/89-6812eb6a-d7ab-4986-91ed-b7a2ea5b95de)
+4. MPR News (Jan 27, 2026): [ICE agent rebuffed after attempting to enter Ecuadorian consulate in Minneapolis](https://www.mprnews.org/story/2026/01/27/ice-agent-rebuffed-after-attempting-to-enter-ecuadorian-consulate-in-minneapolis)
 
 ## Related Incidents
 

@@ -31,9 +31,8 @@ Two construction workers and brothers, Edgar and Marco Chicaiza Dutan, took refu
 7. KSTP (Dec 13, 2025): [Apparent ICE operation targeting 2 men on roof in Chanhassen draws crowd](https://kstp.com/kstp-news/top-news/crowd-gathers-in-chanhassen-in-response-to-a-supposed-ice-arrest/)
 8. WCCO Video (Dec 13, 2025): [Chanhassen ICE standoff](https://www.facebook.com/watch/?v=1389260915913061)
 9. Reddit discussion (Dec 13, 2025): [ICE trapped construction workers on a roof in Chanhassen](https://www.reddit.com/r/minnesota/comments/1pltctw/ice_trapped_construction_workers_on_a_roof_in/)
-10. Minneapolis Daily News Podcast (Dec 14, 2025): [ICE Arrest Sparks Chanhassen Standoff](https://shows.acast.com/the-minneapolis-daily-news-now/episodes/6942505be0aa901b335b8593)
-11. KARE 11 (Dec 13, 2025): [One detainee leaves in an ambulance after ICE raid in Chanhassen](https://www.kare11.com/article/news/local/detainee-ice-raid-minnesota-immigration/89-b79207ff-28c2-453d-a590-c8b84102f316)
-12. MPR News (Dec 13, 2025): [ICE agents corner Chanhassen construction workers amid frigid temperatures](https://www.mprnews.org/story/2025/12/13/ice-agents-corner-chanhassen-construction-workers-amid-frigid-temperatures)
+10. KARE 11 (Dec 13, 2025): [One detainee leaves in an ambulance after ICE raid in Chanhassen](https://www.kare11.com/article/news/local/detainee-ice-raid-minnesota-immigration/89-b79207ff-28c2-453d-a590-c8b84102f316)
+11. MPR News (Dec 13, 2025): [ICE agents corner Chanhassen construction workers amid frigid temperatures](https://www.mprnews.org/story/2025/12/13/ice-agents-corner-chanhassen-construction-workers-amid-frigid-temperatures)
 
 ## Affected Individual(s)
 

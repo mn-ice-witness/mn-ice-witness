@@ -37,10 +37,9 @@ A Hmong man named Saly, described as a naturalized U.S. citizen with no criminal
 13. KFGO (Jan 19, 2026): [Hmong grandfather arrested by ICE in his home; brought out wearing underwear and sandals](https://kfgo.com/2026/01/19/1248604/)
 14. Spokesman Review (Jan 19, 2026): [ICE broke into Minnesota home, dragged barely clothed man into snow](https://www.spokesman.com/stories/2026/jan/19/ice-broke-into-minnesota-home-dragged-barely-cloth/)
 15. MPR News (Jan 20, 2026): [ChongLy "Scott" Thao says ICE removed him from home in his underwear after warrantless search](https://www.mprnews.org/story/2026/01/20/chongly-scott-thao-says-ice-removed-him-from-home-in-his-underwear-after-warrantless-search)
-16. ABC News (Jan 20, 2026): [US citizen says ICE removed him from his Minnesota home in his underwear after warrantless search](https://abcnews.go.com/US/wireStory/us-citizen-ice-removed-minnesota-home-underwear-after-129372047)
-17. PBS News (Jan 20, 2026): [A U.S. citizen says ICE forced open the door to his Minnesota home](https://www.pbs.org/newshour/nation/a-u-s-citizen-says-ice-forced-open-the-door-to-his-minnesota-home-and-removed-him-in-his-underwear-after-a-warrantless-search)
-18. The Hill (Jan 20, 2026): [WATCH: ICE removes citizen from Minnesota home in his underwear](https://thehill.com/homenews/state-watch/5696306-minnesota-man-detained-ice-agents/)
-19. KSTP (Jan 22, 2026): [Man ICE sought in "humiliating" arrest of US citizen has been in prison since 2024](https://kstp.com/kstp-news/top-news/man-ice-sought-in-humiliating-arrest-of-us-citizen-has-been-in-prison-since-2024/)
+16. PBS News (Jan 20, 2026): [A U.S. citizen says ICE forced open the door to his Minnesota home](https://www.pbs.org/newshour/nation/a-u-s-citizen-says-ice-forced-open-the-door-to-his-minnesota-home-and-removed-him-in-his-underwear-after-a-warrantless-search)
+17. The Hill (Jan 20, 2026): [WATCH: ICE removes citizen from Minnesota home in his underwear](https://thehill.com/homenews/state-watch/5696306-minnesota-man-detained-ice-agents/)
+18. KSTP (Jan 22, 2026): [Man ICE sought in "humiliating" arrest of US citizen has been in prison since 2024](https://kstp.com/kstp-news/top-news/man-ice-sought-in-humiliating-arrest-of-us-citizen-has-been-in-prison-since-2024/)
 
 ## Affected Individual(s)
 - **Name:** ChongLy Scott Thao (also referred to as "Saly" by family)

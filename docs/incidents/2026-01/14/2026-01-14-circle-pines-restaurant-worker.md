@@ -24,7 +24,7 @@ A restaurant worker at Pancho's Taqueria and Mexican Cafe in Circle Pines with a
 3. CBS Minnesota (Jan 18, 2026): [Donations pour in to help after Circle Pines restaurant employee with work visa is detained by ICE](https://www.cbsnews.com/minnesota/news/circle-pines-restaurant-ice-detains-worker/)
 4. Hoodline (Jan 18, 2026): [Circle Pines ICE Arrest Video Shows Worker Crying For Help](https://hoodline.com/2026/01/circle-pines-taqueria-stunned-as-worker-screams-ayuda-during-ice-arrest/)
 5. Bring Me The News (Jan 18, 2026): [Fundraiser established for Circle Pines restaurant worker taken by ICE](https://bringmethenews.com/minnesota-news/fundraiser-established-for-circle-pines-restaurant-worker-taken-by-ice)
-6. GoFundMe (Jan 15, 2026): [Kevin's Legal Fund (organized by Stacey Chase)](https://www.gofundme.com/)
+6. GoFundMe (Jan 15, 2026): [Help Kevin Reunite with His Family (organized by Stacey Chase)](https://www.gofundme.com/f/3e8y69-help-kevin-reunite-with-his-family)
 
 ## Affected Individual(s)
 - **Name:** Kevin (last name not publicly disclosed)
