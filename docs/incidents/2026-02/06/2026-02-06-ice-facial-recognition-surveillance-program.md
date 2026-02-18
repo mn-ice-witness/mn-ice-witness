@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-02-09T12:28:18
 last_updated: 2026-02-09T12:28:18
-search_tags: observer-intimidated, us-citizen, citizen-check, excessive-force, src:nbc, src:kstp, src:cnn, src:ap, src:pbs, src:wapo, src:mn-reformer, src:fox9, src:other-national, src:mpr
+search_tags: observer-intimidated, us-citizen, citizen-check, src:nbc, src:kstp, src:cnn, src:ap, src:pbs, src:wapo, src:mn-reformer, src:fox9, src:other-national, src:mpr
 ---
 
 # ICE Deploys Facial Recognition Surveillance Program Against Citizen Observers in Minnesota
@@ -22,7 +22,7 @@ Federal agents conducting Operation Metro Surge deployed a smartphone-based faci
 ## Sources
 
 1. NBC News (Feb 6, 2026): [ICE agents use facial recognition on targets and bystanders](https://www.nbcnews.com/tech/security/ice-agent-facial-recognition-video-protest-movile-fortify-photo-rcna257331)
-2. KSTP (Feb 9, 2026): [Watching the watchers: ICE uses facial recognition to track citizen observers in Minnesota, federal court filing says](https://kstp.com/kstp-news/top-news/watching-the-watchers-ice-uses-facial-recognition-to-track-citizen-observers-in-minnesota-federal-court-filing-says/)
+2. KSTP (Feb 8, 2026): [Watching the watchers: ICE uses facial recognition to track citizen observers in Minnesota, federal court filing says](https://kstp.com/kstp-news/top-news/watching-the-watchers-ice-uses-facial-recognition-to-track-citizen-observers-in-minnesota-federal-court-filing-says/)
 3. CNN (Jan 21, 2026): [ICE shunned body cams in Minnesota. So why are agents using phones?](https://www.cnn.com/2026/01/21/us/ice-cbp-cellphones-minnesota-mobile-fortify-invs)
 4. AP / PBS NewsHour (Jan 30, 2026): [Department of Homeland Security intensifies surveillance in immigration raids, sweeping in citizens](https://www.pbs.org/newshour/politics/department-of-homeland-security-intensifies-surveillance-in-immigration-raids-sweeping-in-citizens)
 5. Washington Post (Jan 29, 2026): [The powerful tools in ICE's arsenal to track suspects — and protesters](https://www.washingtonpost.com/technology/interactive/2026/ice-surveillance-immigrants-protesters/)
@@ -93,7 +93,7 @@ Facial recognition was one component of a larger surveillance apparatus deployed
 - **Motorola Solutions** — Mobile license plate readers ordered by ICE.
 - **Commercial phone location data** — Bulk purchase of cellphone location records.
 
-The Washington Post described this as "a surveillance toolkit unprecedented in domestic immigration enforcement." The Minnesota Reformer reported the technology allowed agents to "identify specific targets to detain" but also to "monitor entire neighborhoods at once" in a "broad surveillance dragnet."
+Together with other surveillance data and systems, federal authorities can now monitor American cities at a scale that would have been difficult to imagine just a few years ago, advocates say.
 
 DHS was piloting and deploying more than 100 artificial intelligence systems as of January 2026.
 
@@ -155,7 +155,7 @@ On February 2, DHS Secretary Noem announced body cameras would be deployed to "e
 
 **India McKinney** (EFF Director of Federal Affairs): "Face surveillance in the hands of the government is a fundamentally harmful technology, even under strict regulations or if the technology was 100% accurate."
 
-**Rachel Levinson-Waldman** (Brennan Center for Justice): "We are developing these technologies for immigrant enforcement... Are we also going to expand it or wield it against U.S. citizens engaging in lawful or protest activity?"
+**Rachel Levinson-Waldman** (Brennan Center for Justice): "We are developing these technologies for immigrant enforcement... Are we also going to expand it or wield it against U.S. citizens who are engaging in entirely lawful or protest activity?"
 
 **Dan Herman** (former CBP senior adviser, Center for American Progress): "They have access to a tremendous amount of trade, travel, immigration and screening data... there's a concern about the potential for abuse."
 
