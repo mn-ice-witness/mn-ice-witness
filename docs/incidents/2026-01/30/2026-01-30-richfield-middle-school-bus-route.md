@@ -7,10 +7,10 @@ type: schools-hospitals
 status: resolved
 affected_individual_citizenship: unknown
 injuries: none
-trustworthiness: medium
+trustworthiness: high
 created: 2026-01-31T11:01:37
 last_updated: 2026-02-09T21:12:05
-search_tags: children, src:kare11, src:other-national
+search_tags: children, src:kare11
 ---
 
 # Federal Agents Present on Richfield Middle School Bus Route
@@ -25,4 +25,4 @@ Richfield Public Schools confirmed federal agents were present on a school bus r
 4. Facebook Video (Jan 30, 2026): [Possible video of incident (unverified)](https://www.facebook.com/cjaxelson/videos/2624849867901557/)
 
 ## Editorial Assessment
-**MEDIUM** - Single source with syndication (KARE 11). Superintendent's letter to families confirms the incident. No arrest occurred, but documents ICE targeting school bus routes and the disruption this causes to normal school operations.
+**HIGH** - KARE 11 (Tier 1 local) confirmed the story with institutional corroboration from Superintendent Unowsky's letter to families. Yahoo News syndicated the KARE 11 report. No arrest occurred, but documents ICE presence on school bus routes and the disruption this causes to normal school operations.

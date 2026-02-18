@@ -25,10 +25,10 @@ Fridley Public Schools Superintendent Brenda Lewis reported on January 29, 2026,
 ## Sources
 
 1. LinkedIn (Jan 29, 2026): [Superintendent Brenda Lewis post](https://www.linkedin.com/feed/update/urn:li:activity:7422795170850500608/) - primary source
-2. Star Tribune (Jan 29, 2026): [ICE raids Minnesota overview](https://www.startribune.com/ice-raids-minnesota/601546426) - quotes Lewis's LinkedIn post 
+2. Star Tribune (Jan 29, 2026): [ICE raids Minnesota overview](https://www.startribune.com/ice-raids-minnesota/601546426) - ongoing coverage hub; Lewis/Fridley content not confirmed in current version
 3. Star Tribune (Feb 3, 2026): [Walz demands DHS stop detaining Minnesota children](https://www.startribune.com/walz-demands-dhs-stop-detaining-minnesota-children/601575923) - Lewis at Walz press conference
 **Related coverage of Fridley Schools and ICE:**
-- NPR/WBUR (Jan 29, 2026): [Minnesota superintendent on 'fearful' students being followed by masked ICE agents](https://www.wbur.org/hereandnow/2026/01/29/ice-minnesota-schools) - includes interview with Supt. Lewis about district impact
+- NPR/WBUR (Jan 29, 2026): [Minnesota superintendent on 'fearful' students being followed by masked ICE agents](https://www.wbur.org/hereandnow/2026/01/29/ice-minnesota-schools) - interviews Columbia Heights Supt. Stenvik, not Lewis; related coverage of ICE near Twin Cities schools
 - The Hill (Jan 2026): [As Minneapolis grapples with ICE, schools try to balance learning with student safety](https://thehill.com/homenews/education/5699002-ice-minneapolis-schools-renee-good-trump-immigration-dhs/) - quotes Lewis
 - Fox 9 (Jan 9, 2026): [Fridley Public Schools canceled Friday due to ICE activity](https://www.fox9.com/news/fridley-public-schools-canceled-friday-due-ice-activity)
 

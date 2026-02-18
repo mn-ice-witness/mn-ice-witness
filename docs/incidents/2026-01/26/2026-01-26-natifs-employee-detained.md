@@ -1,5 +1,5 @@
 ---
-date: 2026-01-30
+date: 2026-01-26
 time: unknown
 location: NATIFS Restaurant
 city: Minneapolis
@@ -16,13 +16,14 @@ search_tags: legal-resident, workplace-raid, excessive-force, deception, src:bri
 # NATIFS Restaurant Employee Detained at Gunpoint, Flown to Texas
 
 ## Summary
-An employee at NATIFS (North American Traditional Indigenous Food Systems), the nonprofit Indigenous food organization run by James Beard Award-winning chef Sean Sherman, was pulled from a vehicle at gunpoint by federal agents outside the Minneapolis restaurant and flown to Texas by morning. Sherman told Mother Jones that agents blocked in a car carrying several staff members, drew their guns, and said they were "just going to check his paperwork" before transporting him to Texas. The employee is from Ecuador and reportedly had legal documentation. Sherman stated his employees "are not criminals" and "don't have police records."
+An employee at NATIFS (North American Traditional Indigenous Food Systems), the nonprofit Indigenous food organization run by James Beard Award-winning chef Sean Sherman, was pulled from a vehicle at gunpoint by federal agents outside the Minneapolis restaurant and flown to Texas by morning. Sherman told Mother Jones that agents blocked in a car carrying several staff members, drew their guns, and said they were "just going to check his paperwork" before transporting him to Texas. The employee is from Ecuador and reportedly had legal documentation. Sherman stated "our employees are not criminals."
 
-**Note:** Exact date is estimated as late January 2026; article published February 2-3, 2026.
+**Note:** Date of January 26 per Sherman's firsthand account (Substack); articles published February 2-3, 2026.
 
 ## Sources
 1. Bring Me The News (Feb 2, 2026): [Chef Sean Sherman says federal agents took one of his employees, flew him to Texas](https://bringmethenews.com/minnesota-news/chef-sean-sherman-says-federal-agents-took-one-of-his-employees-flew-him-to-texas)
 2. Mother Jones (Feb 2026): [Video - Sean Sherman interview](https://www.youtube.com/watch?v=b9RndgmcpPs)
+3. Sean Sherman Substack (Feb 2026): [The Failed Spectacle of Operation 'Racial Purge'](https://siouxchef.substack.com/p/the-failed-spectacle-of-operation)
 
 ## Affected Individual(s)
 - **Citizenship:** Ecuadorian national

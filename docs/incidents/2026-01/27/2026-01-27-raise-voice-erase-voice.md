@@ -4,20 +4,20 @@ time: unknown
 location: Minneapolis
 city: Minneapolis
 type: observers
-status: ongoing
+status: resolved
 affected_individual_citizenship: unknown
 injuries: none
-trustworthiness: low
+trustworthiness: medium
 created: 2026-01-27T12:00:00
 last_updated: 2026-01-27T12:00:00
 search_tags: observer-intimidated, src:other-national
 ---
 
-# ICE Agent Tells Legal Observer "You Raise Your Voice, I Erase Your Voice"
+# ICE Agent Tells Observer "You Raise Your Voice, I Erase Your Voice"
 
 ## Summary
 
-A video shows an ICE agent telling a legal observer "You raise your voice, I erase your voice" during an encounter in Minneapolis on January 27, 2026. When the observer asked for clarification—"Are you serious? You said if I raise my voice, you will erase my voice?"—the agent confirmed: "Yes, exactly." The agent made the statement from his vehicle.
+A video shows an ICE agent telling an observer "You raise your voice, I erase your voice" during an encounter in Minneapolis on January 27, 2026. When the observer asked for clarification—"Are you serious? You said if I raise my voice, you will erase my voice?"—the agent confirmed: "Yes, exactly." The agent made the statement from his vehicle.
 
 ## Sources
 
@@ -27,9 +27,9 @@ A video shows an ICE agent telling a legal observer "You raise your voice, I era
 4. Bluesky (Jan 27, 2026): [Prem Thakker post](https://bsky.app/profile/did:plc:3uxbidhlq2h4uhhutdv3a3q5/post/3mdg6nglnec2n) - journalist sharing video
 
 ## Affected Individual(s)
-- **Role:** Legal observer
+- **Role:** Observer
 - **Name:** Not disclosed
 
 ## Editorial Assessment
 
-**LOW** - Video confirmed by two news outlets (Raw Story, The New Republic). Target identified as legal observer. Full exchange documented. However, observer's identity not disclosed and exact location within Minneapolis not specified.
+**MEDIUM** - Video confirmed by two news outlets (Raw Story, The New Republic). Full exchange documented on video. Observer's identity not disclosed and exact location within Minneapolis not specified.

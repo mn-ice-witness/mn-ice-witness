@@ -191,46 +191,6 @@
       "mediaVersion": null
     },
     {
-      "filePath": "incidents/2026-01/30/2026-01-30-natifs-employee-detained.md",
-      "title": "NATIFS Restaurant Employee Detained at Gunpoint, Flown to Texas",
-      "summary": "An employee at NATIFS (North American Traditional Indigenous Food Systems), the nonprofit Indigenous food organization run by James Beard Award-winning chef Sean Sherman, was pulled from a vehicle at gunpoint by federal agents outside the Minneapolis restaurant and flown to Texas by morning. Sherman told Mother Jones that agents blocked in a car carrying several staff members, drew their guns, and said they were \"just going to check his paperwork\" before transporting him to Texas. The employee is from Ecuador and reportedly had legal documentation. Sherman stated his employees \"are not criminals\" and \"don't have police records.\"",
-      "latestUpdate": null,
-      "correctionNote": null,
-      "date": "2026-01-30",
-      "time": "unknown",
-      "location": "NATIFS Restaurant",
-      "city": "Minneapolis",
-      "type": "citizens",
-      "status": "ongoing",
-      "affectedIndividualCitizenship": "legal-resident",
-      "injuries": "none",
-      "trustworthiness": "medium",
-      "created": "2026-02-05T09:12:00",
-      "lastUpdated": "2026-02-05T09:12:00",
-      "mediaCount": 0,
-      "notable": false,
-      "searchTags": [
-        "legal-resident",
-        "workplace-raid",
-        "excessive-force",
-        "deception",
-        "src:bring-me-the-news",
-        "src:mother-jones"
-      ],
-      "hasLocalMedia": true,
-      "localMediaType": "video",
-      "localMediaPath": "media/2026-01/30/2026-01-30-natifs-employee-detained.mp4",
-      "localMediaOgPath": "media/2026-01/30/2026-01-30-natifs-employee-detained-og-2s-1770305180.jpg",
-      "localMediaFiles": [
-        {
-          "type": "video",
-          "path": "media/2026-01/30/2026-01-30-natifs-employee-detained.mp4"
-        }
-      ],
-      "aspectRatio": 0.6138888888888889,
-      "mediaVersion": 1770305180
-    },
-    {
       "filePath": "incidents/2026-01/29/2026-01-29-columbia-heights-hs-students-harassed.md",
       "title": "Columbia Heights High School Students Harassed by ICE Agents",
       "summary": "Three Columbia Heights High School students had their cars surrounded by ICE vehicles while lawfully driving to school on the morning of January 29. One 16-year-old student was forced to show their passport to masked federal agents. Another student called the school principal in fear, leaving a voicemail saying agents were \"looming around the high school.\" Superintendent Zena Stenvik reported ICE agents were parked behind the high school in a park and circling schools that morning.",
@@ -336,6 +296,46 @@
       ],
       "aspectRatio": 1.430274135876043,
       "mediaVersion": 1769985955
+    },
+    {
+      "filePath": "incidents/2026-01/26/2026-01-26-natifs-employee-detained.md",
+      "title": "NATIFS Restaurant Employee Detained at Gunpoint, Flown to Texas",
+      "summary": "An employee at NATIFS (North American Traditional Indigenous Food Systems), the nonprofit Indigenous food organization run by James Beard Award-winning chef Sean Sherman, was pulled from a vehicle at gunpoint by federal agents outside the Minneapolis restaurant and flown to Texas by morning. Sherman told Mother Jones that agents blocked in a car carrying several staff members, drew their guns, and said they were \"just going to check his paperwork\" before transporting him to Texas. The employee is from Ecuador and reportedly had legal documentation. Sherman stated \"our employees are not criminals.\"",
+      "latestUpdate": null,
+      "correctionNote": null,
+      "date": "2026-01-26",
+      "time": "unknown",
+      "location": "NATIFS Restaurant",
+      "city": "Minneapolis",
+      "type": "citizens",
+      "status": "ongoing",
+      "affectedIndividualCitizenship": "legal-resident",
+      "injuries": "none",
+      "trustworthiness": "medium",
+      "created": "2026-02-05T09:12:00",
+      "lastUpdated": "2026-02-05T09:12:00",
+      "mediaCount": 0,
+      "notable": false,
+      "searchTags": [
+        "legal-resident",
+        "workplace-raid",
+        "excessive-force",
+        "deception",
+        "src:bring-me-the-news",
+        "src:mother-jones"
+      ],
+      "hasLocalMedia": true,
+      "localMediaType": "video",
+      "localMediaPath": "media/2026-01/26/2026-01-26-natifs-employee-detained.mp4",
+      "localMediaOgPath": "media/2026-01/26/2026-01-26-natifs-employee-detained-og-2s-1770305180.jpg",
+      "localMediaFiles": [
+        {
+          "type": "video",
+          "path": "media/2026-01/26/2026-01-26-natifs-employee-detained.mp4"
+        }
+      ],
+      "aspectRatio": 0.6138888888888889,
+      "mediaVersion": 1770305180
     },
     {
       "filePath": "incidents/2026-01/26/2026-01-26-christian-salamanca-ice-chase-crash.md",

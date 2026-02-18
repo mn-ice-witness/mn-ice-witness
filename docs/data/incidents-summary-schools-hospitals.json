@@ -120,15 +120,14 @@
       "status": "resolved",
       "affectedIndividualCitizenship": "unknown",
       "injuries": "none",
-      "trustworthiness": "medium",
+      "trustworthiness": "high",
       "created": "2026-01-31T11:01:37",
       "lastUpdated": "2026-02-09T21:12:05",
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
         "children",
-        "src:kare11",
-        "src:other-national"
+        "src:kare11"
       ],
       "hasLocalMedia": false,
       "localMediaType": null,

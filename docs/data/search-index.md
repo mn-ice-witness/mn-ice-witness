@@ -58,7 +58,6 @@ Published incidents visible on the main site.
 - incidents/2026-02/01/2026-02-01-fareh-home-surrounded-rochester.md | 2026-02-01 | Rochester | citizens | Citizen Check: ICE Agents Surround U.S. Citizen Family Home in Rochester
 - incidents/2026-01/31/2026-01-31-rochester-government-center-citizen-detained.md | 2026-01-31 | Rochester | citizens | U.S. Citizen Detained at Olmsted County Government Center, Released After Identity Verified
 - incidents/2026-01/30/2026-01-30-dhs-response-racial-profiling-false.md | 2026-01-30 | Minneapolis | response | DHS Response: Racial Profiling Allegations Are "Disgusting, Reckless and Categorically FALSE"
-- incidents/2026-01/30/2026-01-30-natifs-employee-detained.md | 2026-01-30 | Minneapolis | citizens | NATIFS Restaurant Employee Detained at Gunpoint, Flown to Texas
 - incidents/2026-01/30/2026-01-30-richfield-middle-school-bus-route.md | 2026-01-30 | Richfield | schools-hospitals | Federal Agents Present on Richfield Middle School Bus Route
 - incidents/2026-01/30/2026-01-30-st-peter-police-chief-intervenes.md | 2026-01-30 | St. Peter | observers | St. Peter Police Chief Retrieves U.S. Citizen From ICE Custody Mid-Transport
 - incidents/2026-01/30/2026-01-30-ecuadorian-family-self-deports.md | 2026-01-30 | Minneapolis | immigrants | Citing Safety Concerns, Ecuadorian Family Self-Deports Despite Pending Asylum Case
@@ -72,11 +71,12 @@ Published incidents visible on the main site.
 - incidents/2026-01/28/2026-01-28-thao-xiong-hallie-brown-food-shelf.md | 2026-01-28 | St. Paul | immigrants | Food Shelf Volunteer Thao Xiong Detained at Hallie Q. Brown Community Center
 - incidents/2026-01/27/2026-01-27-suburban-observers-pursued-highway.md | 2026-01-27 | Minneapolis suburbs | observers | ICE Observers Pursued in 20-Minute Highway Chase in Northern Suburbs
 - incidents/2026-01/27/2026-01-27-luis-martinez-facial-recognition.md | 2026-01-27 | Minneapolis | citizens | U.S. Citizen Luis Martinez Subjected to Facial Recognition Scan
-- incidents/2026-01/27/2026-01-27-raise-voice-erase-voice.md | 2026-01-27 | Minneapolis | observers | ICE Agent Tells Legal Observer "You Raise Your Voice, I Erase Your Voice"
+- incidents/2026-01/27/2026-01-27-raise-voice-erase-voice.md | 2026-01-27 | Minneapolis | observers | ICE Agent Tells Observer "You Raise Your Voice, I Erase Your Voice"
 - incidents/2026-01/27/2026-01-27-homan-draw-down-minneapolis.md | 2026-01-27 | Minneapolis | response | Homan Takes Command, Begins Operation Metro Surge Draw Down
 - incidents/2026-01/27/2026-01-27-northeast-mpls-jenny-family-separated.md | 2026-01-27 | Minneapolis | immigrants | "I Was Yelling at Them to Take Me With Him": Mother Holds Daughter as Husband Detained in Northeast Minneapolis
 - incidents/2026-01/27/2026-01-27-preschool-tear-gas.md | 2026-01-27 | Minneapolis | schools-hospitals | ICE Agents Deploy Tear Gas Outside Minneapolis Preschool
 - incidents/2026-01/27/2026-01-27-tobay-robles-lyons-contempt.md | 2026-01-27 | Minneapolis | immigrants | Ecuadorean Man Held 3 Weeks Despite Court Order; Judge Orders ICE Director to Appear for Contempt
+- incidents/2026-01/26/2026-01-26-natifs-employee-detained.md | 2026-01-26 | Minneapolis | citizens | NATIFS Restaurant Employee Detained at Gunpoint, Flown to Texas
 - incidents/2026-01/26/2026-01-26-christian-salamanca-ice-chase-crash.md | 2026-01-26 | St. Paul | citizens | Asylum Seeker Hospitalized After Wife Says ICE Rammed His Car Into Telephone Pole
 - incidents/2026-01/26/2026-01-26-el-potro-brainerd.md | 2026-01-26 | Brainerd | immigrants | Four Restaurant Workers Detained at El Potro in Brainerd
 - incidents/2026-01/26/2026-01-26-dhs-response-death-threats.md | 2026-01-26 | Minneapolis | response | DHS Response: ICE Officers Face "8,000% Increase in Death Threats"; Publishes Minnesota Voicemail

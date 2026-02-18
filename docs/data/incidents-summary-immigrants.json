@@ -374,7 +374,7 @@
       "city": "Minneapolis",
       "type": "immigrants",
       "status": "resolved",
-      "affectedIndividualCitizenship": "undocumented",
+      "affectedIndividualCitizenship": "asylum-seeker",
       "injuries": "none",
       "trustworthiness": "high",
       "created": "2026-02-09T21:32:32",
@@ -425,7 +425,6 @@
       "searchTags": [
         "children",
         "family-separation",
-        "legal-resident",
         "src:mpr",
         "src:npr",
         "src:cbs",

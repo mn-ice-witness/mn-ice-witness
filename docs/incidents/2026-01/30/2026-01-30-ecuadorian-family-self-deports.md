@@ -5,7 +5,7 @@ location: Minneapolis-St. Paul International Airport
 city: Minneapolis
 type: immigrants
 status: resolved
-affected_individual_citizenship: undocumented
+affected_individual_citizenship: asylum-seeker
 injuries: none
 trustworthiness: high
 created: 2026-02-09T21:32:32
