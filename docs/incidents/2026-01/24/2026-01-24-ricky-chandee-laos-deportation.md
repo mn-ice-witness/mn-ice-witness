@@ -40,7 +40,7 @@ At "Ricky" Chandee, 52, a Laotian refugee who came to the U.S. in 1980 at age si
 - **Dec 2025** - Checked in with immigration authorities; told he was clear until June
 - **Jan 24, ~8:15 AM** - Four vehicles of federal agents arrived at Brooklyn Park home; Chandee complied and was taken into custody
 - **Jan 25** - Transferred to ICE detention in El Paso, Texas
-- **Jan 26-27** - White House posted "Worst of the Worst" photos on social media; Chandee was misidentified with incorrect name, country of origin, and charge
+- **Late Jan** - White House posted "Worst of the Worst" photos on social media; Chandee was misidentified with incorrect name, country of origin, and charge
 - **Feb 14** - Federal court in Texas rejected attorney's motion to block deportation
 
 ## DHS Response
