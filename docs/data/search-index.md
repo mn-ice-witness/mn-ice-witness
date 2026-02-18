@@ -70,12 +70,12 @@ Published incidents visible on the main site.
 - incidents/2026-01/29/2026-01-29-second-st-paul-public-works-employee.md | 2026-01-29 | St. Paul | citizens | Second St. Paul Public Works Employee with Legal Work Status Detained
 - incidents/2026-01/29/2026-01-29-columbia-heights-jessica-father-detained.md | 2026-01-29 | Columbia Heights | immigrants | Woman Grabbed While Warming Car; Father Detained as "Original Target"
 - incidents/2026-01/28/2026-01-28-thao-xiong-hallie-brown-food-shelf.md | 2026-01-28 | St. Paul | immigrants | Food Shelf Volunteer Thao Xiong Detained at Hallie Q. Brown Community Center
-- incidents/2026-01/28/2026-01-28-preschool-tear-gas.md | 2026-01-28 | Minneapolis | schools-hospitals | ICE Agents Deploy Tear Gas Outside Minneapolis Preschool
 - incidents/2026-01/27/2026-01-27-suburban-observers-pursued-highway.md | 2026-01-27 | Minneapolis suburbs | observers | ICE Observers Pursued in 20-Minute Highway Chase in Northern Suburbs
 - incidents/2026-01/27/2026-01-27-luis-martinez-facial-recognition.md | 2026-01-27 | Minneapolis | citizens | U.S. Citizen Luis Martinez Subjected to Facial Recognition Scan
 - incidents/2026-01/27/2026-01-27-raise-voice-erase-voice.md | 2026-01-27 | Minneapolis | observers | ICE Agent Tells Legal Observer "You Raise Your Voice, I Erase Your Voice"
 - incidents/2026-01/27/2026-01-27-homan-draw-down-minneapolis.md | 2026-01-27 | Minneapolis | response | Homan Takes Command, Begins Operation Metro Surge Draw Down
 - incidents/2026-01/27/2026-01-27-northeast-mpls-jenny-family-separated.md | 2026-01-27 | Minneapolis | immigrants | "I Was Yelling at Them to Take Me With Him": Mother Holds Daughter as Husband Detained in Northeast Minneapolis
+- incidents/2026-01/27/2026-01-27-preschool-tear-gas.md | 2026-01-27 | Minneapolis | schools-hospitals | ICE Agents Deploy Tear Gas Outside Minneapolis Preschool
 - incidents/2026-01/27/2026-01-27-tobay-robles-lyons-contempt.md | 2026-01-27 | Minneapolis | immigrants | Ecuadorean Man Held 3 Weeks Despite Court Order; Judge Orders ICE Director to Appear for Contempt
 - incidents/2026-01/26/2026-01-26-christian-salamanca-ice-chase-crash.md | 2026-01-26 | St. Paul | citizens | Asylum Seeker Hospitalized After Wife Says ICE Rammed His Car Into Telephone Pole
 - incidents/2026-01/26/2026-01-26-el-potro-brainerd.md | 2026-01-26 | Brainerd | immigrants | Four Restaurant Workers Detained at El Potro in Brainerd
@@ -100,7 +100,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/23/2026-01-23-segundo-family-self-deports-ecuador.md | 2026-01-23 | Minneapolis | immigrants | Ecuadorian Roofer, Wife, and 14-Year-Old Son Self-Deport After Nearly Five Years in Minnesota; Leave Behind Children and U.S. Citizen Grandson
 - incidents/2026-01/23/2026-01-23-tique-marin-church-volunteer-burnsville.md | 2026-01-23 | Minneapolis | immigrants | Church Food Distribution Volunteer Detained at Routine Immigration Check-In
 - incidents/2026-01/23/2026-01-23-mirkkovitch-plymouth-gun-brandished.md | 2026-01-23 | Plymouth | observers | Plainclothes Federal Agent Brandishes Gun at Resident Recording ICE Vehicles at Plymouth Hotel
-- incidents/2026-01/23/2026-01-23-50k-march.md | 2026-01-23 | Minneapolis | background | Tens of Thousands March in Subzero Temperatures in "Day of Truth & Freedom" Protest
+- incidents/2026-01/23/2026-01-23-50k-march.md | 2026-01-23 | Minneapolis | background | An Estimated 50,000 to 100,000 March in Subzero Temperatures in "Day of Truth & Freedom" Protest
 - incidents/2026-01/22/2026-01-22-little-canada-elementary-secure-protocol.md | 2026-01-22 | Little Canada | schools-hospitals | Little Canada Elementary Goes to Secure Protocol Due to ICE in Parking Lot
 - incidents/2026-01/22/2026-01-22-tipan-toddler-father-detained.md | 2026-01-22 | Minneapolis | immigrants | 2-Year-Old and Father Detained Near Powderhorn; Flown to Texas Despite Court Order
 - incidents/2026-01/22/2026-01-22-amundson-zemien-seizure-first-responders.md | 2026-01-22 | Brooklyn Park | observers | Two Detained Women Become First Responders After ICE Agent Has Seizure

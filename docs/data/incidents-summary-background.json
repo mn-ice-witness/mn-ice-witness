@@ -529,8 +529,8 @@
     },
     {
       "filePath": "incidents/2026-01/23/2026-01-23-50k-march.md",
-      "title": "Tens of Thousands March in Subzero Temperatures in \"Day of Truth & Freedom\" Protest",
-      "summary": "Tens of thousands of people marched through downtown Minneapolis in subzero temperatures in the \"ICE Out of Minnesota: Day of Truth & Freedom\" protest against Operation Metro Surge. Organizers expected about 50,000 people; actual attendance was not confirmed. More than 700 businesses across Minnesota closed in solidarity in what was described as a general strike. The march began at The Commons near U.S. Bank Stadium and ended with a rally at Target Center.",
+      "title": "An Estimated 50,000 to 100,000 March in Subzero Temperatures in \"Day of Truth & Freedom\" Protest",
+      "summary": "An estimated 50,000 to 100,000 people marched through downtown Minneapolis in subzero temperatures in the \"ICE Out of Minnesota: Day of Truth & Freedom\" protest against Operation Metro Surge. The attendance range is an organizer estimate reported by multiple outlets; no independent count was conducted. More than 700 businesses across Minnesota closed in solidarity in what was described as a general strike. The march began at The Commons near U.S. Bank Stadium and ended with a rally at Target Center.",
       "latestUpdate": null,
       "correctionNote": null,
       "date": "2026-01-23",
@@ -555,7 +555,8 @@
         "src:sahan-journal",
         "src:fox9",
         "src:mother-jones",
-        "src:mn-reformer"
+        "src:mn-reformer",
+        "src:other-national"
       ],
       "hasLocalMedia": true,
       "localMediaType": "image",

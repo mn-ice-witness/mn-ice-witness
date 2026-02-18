@@ -176,12 +176,12 @@
       "mediaVersion": null
     },
     {
-      "filePath": "incidents/2026-01/28/2026-01-28-preschool-tear-gas.md",
+      "filePath": "incidents/2026-01/27/2026-01-27-preschool-tear-gas.md",
       "title": "ICE Agents Deploy Tear Gas Outside Minneapolis Preschool",
-      "summary": "A video circulating on social media shows ICE agents deploying tear gas outside a Minneapolis preschool on the morning of January 28, 2026. Parents can be heard shouting \"This is a preschool! There's kids here!\"",
+      "summary": "A video circulating on social media shows ICE agents deploying tear gas outside a Minneapolis preschool on the morning of January 27, 2026. Parents can be heard shouting \"This is a preschool! There's kids here!\"",
       "latestUpdate": null,
       "correctionNote": null,
-      "date": "2026-01-28",
+      "date": "2026-01-27",
       "time": "morning",
       "location": "Minneapolis preschool",
       "city": "Minneapolis",
@@ -201,12 +201,12 @@
       ],
       "hasLocalMedia": true,
       "localMediaType": "video",
-      "localMediaPath": "media/2026-01/28/2026-01-28-preschool-tear-gas.mp4",
-      "localMediaOgPath": "media/2026-01/28/2026-01-28-preschool-tear-gas-og-2s-1769610828.jpg",
+      "localMediaPath": "media/2026-01/27/2026-01-27-preschool-tear-gas.mp4",
+      "localMediaOgPath": "media/2026-01/27/2026-01-27-preschool-tear-gas-og-2s-1769610828.jpg",
       "localMediaFiles": [
         {
           "type": "video",
-          "path": "media/2026-01/28/2026-01-28-preschool-tear-gas.mp4"
+          "path": "media/2026-01/27/2026-01-27-preschool-tear-gas.mp4"
         }
       ],
       "aspectRatio": 0.5527777777777778,

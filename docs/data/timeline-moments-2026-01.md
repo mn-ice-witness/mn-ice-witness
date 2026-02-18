@@ -205,7 +205,7 @@ title: 50,000-100,000 March in Subzero Temperatures
 incident: 2026-01-23-50k-march
 source:
 ---
-An estimated 50,000 to 100,000 people march through downtown Minneapolis in -20 degree temperatures in the "Day of Truth & Freedom" protest — the largest protest in Minnesota history. Hundreds of businesses close in solidarity in what becomes the first general strike in the United States in 80 years.
+An estimated 50,000 to 100,000 people march through downtown Minneapolis in subzero temperatures in the "Day of Truth & Freedom" protest. More than 700 businesses close in solidarity in what is described as a general strike.
 
 ---
 date: 2026-01-24
