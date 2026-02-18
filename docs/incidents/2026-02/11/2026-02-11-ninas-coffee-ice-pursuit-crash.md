@@ -16,7 +16,7 @@ search_tags: vehicle-pursuit, excessive-force, src:mpr, src:fox9, src:kare11, sr
 # ICE High-Speed Pursuit Causes Multi-Car Crash Outside Nina's Coffee in St. Paul
 
 ## Summary
-ICE agents pursuing Alexander Romero-Avila, a Honduran national in the country since 2022, caused a multi-car crash at the intersection of Selby and Western avenues in St. Paul around 9:40 a.m. on February 11. A witness estimated the red Toyota Prius was traveling approximately 80 mph through the intersection before it ran a stop sign, struck a grey sedan, spun into a minivan, and stopped in a snowbank. Three vehicles were damaged including an ICE vehicle. Romero-Avila escaped through his car window and fled on foot before agents caught him. He was transported to Regions Hospital with non-life-threatening injuries. DHS claimed "no members of the public" were injured, but witnesses and earlier reports indicated a woman whose airbag deployed was also taken to the hospital. St. Paul Mayor Kaohly Her said the crash "underscores the fact that ICE is still present, causing chaos, and putting residents at risk."
+ICE agents pursuing Alexander Romero-Avila, a Honduran national in the country since 2022, caused a multi-car crash at the intersection of Selby and Western avenues in St. Paul around 9:40 a.m. on February 11. A witness estimated the red Toyota Prius was traveling at least 80 mph through the intersection before it ran a stop sign, struck a grey sedan, spun into a minivan, and stopped in a snowbank. Three vehicles were damaged including an ICE vehicle. Romero-Avila escaped through his car window and fled on foot before agents caught him. He was transported to Regions Hospital with non-life-threatening injuries. DHS claimed "no members of the public" were injured, but witnesses and earlier reports indicated a woman whose airbag deployed was also taken to the hospital. St. Paul Mayor Kaohly Her said the crash "underscores the fact that ICE is still present, causing chaos, and putting residents at risk."
 
 ## Sources
 1. Minnesota Reformer (Feb 11, 2026): [High-speed car chase involving federal agent ended with multi-car crash at Nina's in St. Paul](https://minnesotareformer.com/2026/02/11/high-speed-car-chase-involving-federal-agent-ended-with-multi-car-crash-at-ninas-in-st-paul/)
@@ -50,7 +50,7 @@ ICE agents pursuing Alexander Romero-Avila, a Honduran national in the country s
 
 ## Timeline
 - **~9:40 AM** - ICE agents attempt a "targeted vehicle stop" of Romero-Avila near Selby and Western in St. Paul's Cathedral Hill neighborhood.
-- **Pursuit** - Romero-Avila drives away. Witness Brandon Reader sees the red Prius traveling approximately 80 mph, pursued by an unmarked vehicle with police lights.
+- **Pursuit** - Romero-Avila drives away. Witness Brandon Reader sees the red Prius traveling at least 80 mph, pursued by an unmarked vehicle with police lights.
 - **Crash** - Prius runs a stop sign, strikes a grey sedan, spins into a minivan, and stops in a snowbank at the intersection outside Nina's Coffee Cafe. Three vehicles damaged including an ICE vehicle.
 - **Flight** - Romero-Avila climbs out of his car window feet first and flees on foot.
 - **Apprehension** - Federal agent catches him on foot. Witness Liz Andriacchi hears an officer say: "I'm going to tase you."
@@ -60,7 +60,7 @@ ICE agents pursuing Alexander Romero-Avila, a Honduran national in the country s
 ## Witness Accounts
 
 **Brandon Reader (bystander):**
-Saw the Prius traveling approximately 80 mph through the intersection pursued by an unmarked vehicle with police lights. The Prius ran a stop sign, struck a sedan, and spun into a minivan. Reader said he was glad he didn't get out of his car any quicker: "I'm really glad that I didn't hop out of my car any quicker or I would have been struck."
+Saw the Prius traveling at least 80 mph through the intersection pursued by an unmarked vehicle with police lights. The Prius ran a stop sign, struck a sedan, and spun into a minivan. Reader said he was glad he didn't get out of his car any quicker: "I'm really glad that I didn't hop out of my car any quicker or I would have been struck."
 
 **Liz Andriacchi (resident):**
 Heard an officer say "I'm going to tase you" during the apprehension.
@@ -88,7 +88,7 @@ Confirmed that "federal agents were pursuing a person in a vehicle when the vehi
 "The incident today at Selby and Western underscores the fact that ICE is still present, causing chaos, and putting residents at risk in Saint Paul." Called for Operation Metro Surge to end immediately.
 
 ### Governor Tim Walz
-Indicated the operation could wind down "within days."
+On February 10 (the day before this crash), indicated the operation could wind down "within days."
 
 ## Related Incidents
 - [Asylum Seeker Hospitalized After Wife Says ICE Rammed His Car Into Telephone Pole](#2026-01-26-christian-salamanca-ice-chase-crash) - Similar ICE vehicle pursuit in St. Paul two weeks earlier

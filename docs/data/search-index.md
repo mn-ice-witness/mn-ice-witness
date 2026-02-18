@@ -21,10 +21,10 @@ When searching for incidents or checking if something already exists:
 Published incidents visible on the main site.
 
 - incidents/2026-02/13/2026-02-13-minneapolis-203m-economic-impact.md | 2026-02-13 | Minneapolis | background | Minneapolis Estimates $203 Million Economic Impact from Operation Metro Surge
-- incidents/2026-02/13/2026-02-13-sheriff-witt-denies-ice-deal.md | 2026-02-13 | Minneapolis | background | Sheriff Witt Denies ICE Deal, Says She Was "Scapegoated"
+- incidents/2026-02/13/2026-02-13-sheriff-witt-denies-ice-deal.md | 2026-02-13 | Minneapolis | citizens | Sheriff Witt Denies ICE Deal, Says She Was "Scapegoated"
 - incidents/2026-02/12/2026-02-12-homan-operation-metro-surge-conclusion.md | 2026-02-12 | Minneapolis | background | Homan Declares Operation Metro Surge Over
 - incidents/2026-02/12/2026-02-12-jesus-flores-columbia-heights-ruse.md | 2026-02-12 | Columbia Heights | immigrants | ICE Agents Fake Car Trouble to Lure Columbia Heights Man Outside; Arrested and Sent to Texas
-- incidents/2026-02/12/2026-02-12-senate-homeland-security-hearing.md | 2026-02-12 | Washington, D.C. | background | Senate Homeland Security Hearing on Operation Metro Surge
+- incidents/2026-02/12/2026-02-12-senate-homeland-security-hearing.md | 2026-02-12 | Washington, D.C. | response | Senate Homeland Security Hearing on Operation Metro Surge
 - incidents/2026-02/11/2026-02-11-ninas-coffee-ice-pursuit-crash.md | 2026-02-11 | St. Paul | immigrants | ICE High-Speed Pursuit Causes Multi-Car Crash Outside Nina's Coffee in St. Paul
 - incidents/2026-02/11/2026-02-11-nupa-rochester-cooks-detained.md | 2026-02-11 | Rochester | immigrants | Two Cooks Detained in Nupa Restaurant Parking Lot; Rochester Location Forced to Close
 - incidents/2026-02/11/2026-02-11-ice-hospital-fear-lost-pregnancy.md | 2026-02-11 | Minneapolis | schools-hospitals | ICE Fears Cause Lost Pregnancy, Home Birth Crisis as Clinic No-Show Rates Hit 60%

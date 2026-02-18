@@ -3,7 +3,7 @@ date: 2026-02-07
 time: unknown
 location: Twin Cities suburbs
 city: Minneapolis
-type: immigrants
+type: citizens
 status: resolved
 affected_individual_citizenship: legal-resident
 injuries: none

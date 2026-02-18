@@ -3,7 +3,7 @@ date: 2026-02-12
 time: "09:00"
 location: Senate Dirksen Building, Washington, D.C.
 city: Washington, D.C.
-type: background
+type: response
 status: resolved
 affected_individual_citizenship: n/a
 injuries: none

@@ -25,9 +25,9 @@ Multiple Tier 1 news outlets reported that ICE presence in Minnesota hospitals a
 4. PBS NewsHour (Feb 11, 2026): [How the ICE operation in Minnesota is affecting medical care and mental health](https://www.pbs.org/newshour/show/how-the-ice-operation-in-minnesota-is-affecting-medical-care-and-mental-health)
 5. AJMC (Feb 11, 2026): [ICE presence in Minnesota health care settings threatens access to essential medical care](https://www.ajmc.com/view/ice-presence-in-minnesota-health-care-settings-threatens-access-to-essential-medical-care)
 6. STAT News (Feb 3, 2026): [Fear of ICE casting chill across health care in Minnesota](https://www.statnews.com/2026/02/03/ice-immigration-crackdown-impact-on-health-care/)
-7. 19th News (Jan 2026): [Fear of ICE keeping pregnant immigrants from critical care](https://19thnews.org/2026/01/ice-fears-pregnant-immigrants-minnesota-prenatal-care/)
-8. Sahan Journal (Feb 3, 2026): [ICE tear gas in Minneapolis raises health concerns](https://sahanjournal.com/health/ice-minneapolis-tear-gas-dangerous-health-effects/)
-9. Sahan Journal (Jan 2026): [Avoiding ICE when seeking health care in Minnesota](https://sahanjournal.com/health/avoiding-ice-when-seeking-health-care/)
+7. 19th News (Jan 30, 2026): [Fear of ICE keeping pregnant immigrants from critical care](https://19thnews.org/2026/01/ice-fears-pregnant-immigrants-minnesota-prenatal-care/)
+8. Sahan Journal (Jan 22, 2026): [ICE tear gas in Minneapolis raises health concerns](https://sahanjournal.com/health/ice-minneapolis-tear-gas-dangerous-health-effects/)
+9. Sahan Journal (Jan 26, 2026): [Avoiding ICE when seeking health care in Minnesota](https://sahanjournal.com/health/avoiding-ice-when-seeking-health-care/)
 
 ## Affected Individual(s)
 - **Pregnant woman (20 weeks):** Lost pregnancy after postponing monitoring appointment due to ICE fears
@@ -40,4 +40,4 @@ Multiple Tier 1 news outlets reported that ICE presence in Minnesota hospitals a
 Doctors report that the medical effects of ICE presence will outlast the operation itself. Clinicians describe patients too afraid to use telehealth platforms, fearing digital tracking. Multiple clinics have established "safe rooms" to provide care in less visible settings.
 
 ## Editorial Assessment
-**HIGH** - Seven independent sources including NPR, MPR, PBS, STAT News, and AJMC. Specific documented medical harms (lost pregnancy, emergency home birth situation) reported by health care professionals with direct knowledge.
+**HIGH** - Nine sources from seven independent outlets including NPR, MPR, PBS, STAT News, and AJMC. Specific documented medical harms (lost pregnancy, emergency home birth situation) reported by health care professionals with direct knowledge.

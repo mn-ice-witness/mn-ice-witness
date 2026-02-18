@@ -3,7 +3,7 @@ date: 2026-02-13
 time: unknown
 location: Hennepin County Sheriff's Office
 city: Minneapolis
-type: background
+type: citizens
 status: resolved
 affected_individual_citizenship: n/a
 injuries: none
@@ -16,7 +16,7 @@ search_tags: src:star-tribune, src:fox9, src:cbs, src:wcco, src:kstp, src:kare11
 # Sheriff Witt Denies ICE Deal, Says She Was "Scapegoated"
 
 ## Summary
-Hennepin County Sheriff Dawanna Witt held a press conference denying she made any agreement with federal officials to end Operation Metro Surge, one day after Tom Homan credited "unprecedented cooperation" from local jails. Witt said "our policies did not change" and called out "influential leaders" for spreading "misinformation." A Star Tribune survey of all 87 Minnesota county sheriffs found none reported changing their immigration enforcement policies. The Hennepin County Board passed a resolution the same day urging the sheriff to maintain her position of not honoring ICE detainer requests.
+Hennepin County Sheriff Dawanna Witt held a press conference denying she made any agreement with federal officials to end Operation Metro Surge, one day after Tom Homan credited "unprecedented cooperation" from local jails. Witt said "our policies did not change" and called out "influential leaders" for spreading "misinformation." A Star Tribune survey of all 87 Minnesota county sheriffs found none reported changing their immigration enforcement policies. The Hennepin County Board had passed a resolution the day before urging the sheriff to maintain her position of not honoring ICE detainer requests.
 
 ## Sources
 1. CBS Minnesota (Feb 13, 2026): [Hennepin County Sheriff Witt denies making deal with feds to trigger end of ICE surge](https://www.cbsnews.com/minnesota/news/dawanna-witt-denies-deal-with-ice/)

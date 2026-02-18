@@ -31,7 +31,7 @@ At a press conference highlighting small business devastation, Governor Walz sai
 ### Governor Walz
 "I spoke with Tom Homan, I spoke with Susie Wiles, this morning. We're very much in a trust but verify mode. But it's my expectation, and we will hear more from them, I think, in the next day or so, that we are talking days, not weeks and months of this occupation."
 
-"It would be my hope that Mr. Homan goes out before Friday and announces that this thing is done, and they're bringing her down in days."
+"It would be my hope that Mr. Homan goes out before Friday and announces that this thing is done, and they're bringing her down, and they're bringing her down in days."
 
 Walz said he was "skeptical, but more hopeful than I have been that they're going to wind this thing down."
 

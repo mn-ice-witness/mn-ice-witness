@@ -38,7 +38,7 @@ ICE agents staged a fake car breakdown in front of Jesus Flores' Columbia Height
 - **Within 48 hours** - Transported to El Paso, Texas
 
 ## Witness Accounts
-Son Miguel Flores told CBS Minnesota: "They tricked him into coming outside." He added, "My dad's a hard-working individual. He came here to give us a better life."
+Son Miguel Flores told CBS Minnesota: "They tricked him into coming outside." He added, "My dad's a hard-working individual." He also said, "He came here to give us a better life. He has done that."
 
 Wife Dionicia Flores described her husband as a lifeline for their six children.
 

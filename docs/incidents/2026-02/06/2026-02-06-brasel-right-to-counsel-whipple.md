@@ -28,7 +28,7 @@ The legal infrastructure around Operation Metro Surge began visibly collapsing i
 ## Sources
 1. Chicago Tribune / AP (Feb 6, 2026): [Government must reach agreement on right to counsel for people at Minnesota ICE facility, judge says](https://www.chicagotribune.com/2026/02/06/government-agreement-right-to-counsel-minnesota-ice-facility/)
 2. Courthouse News Service (Feb 6, 2026): [Judge blasts "enormous gap" in feds' defense over blocking detainees' access to counsel](https://www.courthousenews.com/judge-blasts-enormous-gap-in-feds-defense-over-blocking-detainees-access-to-counsel/)
-3. KSTP (Feb 2026): [Class action: ICE detainees at Whipple Building routinely denied access to counsel](https://kstp.com/kstp-news/top-news/class-action-ice-detainees-at-whipple-building-routinely-denied-access-to-counsel/)
+3. KSTP (Jan 28, 2026): [Class action: ICE detainees at Whipple Building routinely denied access to counsel](https://kstp.com/kstp-news/top-news/class-action-ice-detainees-at-whipple-building-routinely-denied-access-to-counsel/)
 4. CBS Minnesota (Jan 28, 2026): [Detainees at Whipple federal building in Minneapolis have been denied access to lawyer, suit says](https://www.cbsnews.com/minnesota/news/whipple-building-access-to-lawyer-denied/)
 5. Democracy Forward (Jan 28, 2026): [The Advocates for Human Rights, Individual Detained in Minnesota Sue U.S. Department of Homeland Security Over Denial of Access to Lawyers](https://democracyforward.org/news/press-releases/the-advocates-for-human-rights-individual-detained-in-minnesota-sue-u-s-department-of-homeland-security-over-denial-of-access-to-lawyers/)
 6. FOX 9 (Jan 2026): [Claims of ICE blocking immigration attorneys follows DHS playbook](https://www.fox9.com/news/claims-ice-blocking-immigration-attorneys-follows-dhs-playbook-jan-2026)
@@ -60,7 +60,7 @@ The legal infrastructure around Operation Metro Surge began visibly collapsing i
 32. NBC News (Feb 9, 2026): [US appeals court upholds Trump administration's immigration detention policy](https://www.nbcnews.com/politics/immigration/us-appeals-court-upholds-trump-administrations-immigration-detention-p-rcna257883)
 33. CNN (Feb 6, 2026): [Appeals court greenlights Trump admin policy of detaining undocumented immigrants without opportunity to seek release](https://www.cnn.com/2026/02/06/politics/appeals-court-trump-immigration-detention-policy)
 34. CBS News (Feb 6, 2026): [Appeals court endorses Trump policy of holding many ICE detainees without bond hearings](https://www.cbsnews.com/news/appeals-court-endorses-trump-policy-of-holding-many-ice-detainees-without-bond-hearings/)
-35. Sahan Journal (Feb 2026): [Federal ruling allows immigrants to be held indefinitely in Texas](https://sahanjournal.com/immigration/texas-fifth-circuit-ruling-immigrants-indefinite-detention/)
+35. Sahan Journal (Feb 9, 2026): [Federal ruling allows immigrants to be held indefinitely in Texas](https://sahanjournal.com/immigration/texas-fifth-circuit-ruling-immigrants-indefinite-detention/)
 36. MPR News (Feb 11, 2026): [Lawyers gain access to Whipple Federal Building after lawsuit, find lack of access to counsel](https://www.mprnews.org/story/2026/02/11/lawyers-gain-access-to-whipple-federal-building-after-lawsuit-find-lack-of-access-to-counsel)
 
 ## Related Incidents
@@ -83,7 +83,7 @@ Immigration law professor Linus Chan of the University of Minnesota called the d
 ### "The System Sucks. This Job Sucks."
 Days before Stolley's departure, ICE attorney Julie T. Le — a DHS lawyer on detail to the U.S. Attorney's Office since January 5 — told U.S. District Judge Jerry Blackwell during a February 4 hearing that the number of lawsuits filed by recently detained immigrants had become unmanageable. Le had been assigned 91 cases in under a month.
 
-"What do you want me to do? The system sucks. This job sucks," Le told the judge after he expressed frustration over the government's failure to abide by court orders related to immigrants seeking release from custody. She sardonically suggested the judge hold her in contempt "so that I could get 24 hours of sleep." Le described getting ICE to follow court orders as "like pulling teeth," saying it took "10 emails from me for a release condition to be corrected."
+"What do you want me to do? The system sucks. This job sucks," Le told the judge after he expressed frustration over the government's failure to abide by court orders related to immigrants seeking release from custody. She sardonically suggested the judge hold her in contempt "so that I can have a full 24 hours of sleep." Le described getting ICE to follow court orders as "like pulling teeth," saying it took "10 emails from me for a release condition to be corrected."
 
 Judge Blackwell responded that a court order is "not advisory, and it is not conditional," and that detention without legal authority constitutes "a constitutional injury." Le's detail to the U.S. Attorney's Office was terminated the next day. DHS Assistant Secretary Tricia McLaughlin characterized her courtroom statements as "unprofessional and unbecoming."
 
