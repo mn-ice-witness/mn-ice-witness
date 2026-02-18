@@ -27,16 +27,15 @@ An Associated Press investigation published February 8 documented a pattern of d
 4. Star Tribune (Feb 6, 2026): [ICE agents swap and cover license plates in Minnesota](https://www.startribune.com/swapped-covered-and-removed-the-license-plate-tactics-ice-is-using-in-minnesota/601573065)
 5. MPR News (Dec 24, 2025): [ICE agents in Minnesota are violating state law by switching license plates](https://www.mprnews.org/story/2025/12/24/ice-agents-in-minnesota-are-violating-state-law-by-switching-license-plates)
 6. MPR News (Feb 8, 2026): [Hard hats and dummy plates: Reports of ICE ruses add to fears in Minnesota](https://www.mprnews.org/story/2026/02/08/hard-hats-and-dummy-plates-reports-of-ice-ruses-add-to-fears-in-minnesota)
-7. Fortune / AP (Feb 8, 2026): [Minnesotans say immigration agents are impersonating construction workers, delivery drivers and anti-ICE activists](https://fortune.com/2026/02/08/minnesota-immigration-agents-disguises-construction-workers-delivery-drivers-anti-ice-activists/)
-8. Instagram (2026): [Business owner confronts two ICE agents disguised as construction workers in vehicle](https://www.instagram.com/reels/DUUKVj4gSjo/)
-9. The Intercept (Aug 11, 2025): [ICE Agent Caught on Camera Disguised as a Construction Worker](https://theintercept.com/2025/08/11/ice-agent-caught-on-camera-disguised-as-a-construction-worker/)
-10. KAXE (Feb 13, 2026): [Sheriff defends ICE using duplicate license plates in Brainerd area enforcement](https://www.kaxe.org/local-news/2026-02-13/sheriff-defends-ice-using-duplicate-license-plates-in-brainerd-area-enforcement)
+7. Instagram (2026): [Business owner confronts two ICE agents disguised as construction workers in vehicle](https://www.instagram.com/reels/DUUKVj4gSjo/)
+8. The Intercept (Aug 11, 2025): [ICE Agent Caught on Camera Disguised as a Construction Worker](https://theintercept.com/2025/08/11/ice-agent-caught-on-camera-disguised-as-a-construction-worker/)
+9. KAXE (Feb 13, 2026): [Sheriff defends ICE using duplicate license plates in Brainerd area enforcement](https://www.kaxe.org/local-news/2026-02-13/sheriff-defends-ice-using-duplicate-license-plates-in-brainerd-area-enforcement)
 
 ## Disguises and Impersonation
 
 ### Construction Worker Outfits
 
-Luis Ramirez, 31, a Shakopee restaurant owner, noticed men dressed as utility workers outside his family's Mexican restaurant for days — wearing high-visibility vests and "spotless white hard hats, even while parked." The vehicle was a rented Nissan with fake business decals advertising a Wisconsin-based electrician that did not exist. When the vehicle returned on February 4, Ramirez filmed a confrontation with two men who hid their faces and appeared to be wearing heavy tactical gear beneath their yellow vests. A DHS spokesperson later confirmed one of the men was an ICE agent conducting surveillance.
+Luis Ramirez, 31, a Shakopee restaurant owner, noticed men dressed as utility workers outside his family's Mexican restaurant for days — wearing high-visibility vests and "spotless white hard hats, even while parked." The vehicle was a rented Nissan with fake business decals advertising a Wisconsin-based electrician that did not exist. When the vehicle returned on February 4, Ramirez filmed a confrontation with two men who hid their faces and appeared to be wearing heavy tactical gear beneath their yellow vests. A DHS spokesperson did not respond to inquiries about whether the men were federal immigration officers.
 
 Ramirez is the same U.S. citizen who was [tackled by ICE at a Shakopee construction site](#2026-01-07-luis-ramirez-orozco-shakopee) on January 7, suffering bruised ribs and a concussion.
 
@@ -70,7 +69,7 @@ On January 13, antiques dealer Candice Metrailer received a call from a man aski
 
 ### Governor Walz Response
 
-Governor Walz called the plate-swapping "criminal activity," stating: "These guys are doing what criminals do: They're putting license plates on vehicles they're not registered to." Minnesota's Director of Driver and Vehicle Services, Pong Xiong, sent a letter to DHS Secretary Kristi Noem warning that "DVS has also received reports that identical license plates have been observed on the rear of two separate DHS vehicles" and that "this conduct violates Minnesota law and will not be tolerated."
+Governor Walz called the plate-swapping "criminal activity," stating: "They're doing what criminals do. They're putting license plates on vehicles they're not registered to, so they're renting vehicles and putting on fake plates. That's not law enforcement, that's criminal activity." Minnesota's Director of Driver and Vehicle Services, Pong Xiong, sent a letter to DHS Secretary Kristi Noem warning that "DVS has also received reports that identical license plates have been observed on the rear of two separate DHS vehicles" and that "this conduct violates Minnesota law and will not be tolerated."
 
 ## Luring and Trickery
 
@@ -79,7 +78,6 @@ Federal agents also employed ruse tactics to lure individuals out of safe locati
 - **Fake car accident:** On January 7, a teacher at Un Mundo Nuevo daycare in Burnsville was [tricked by agents who falsely claimed someone had hit her car](#2026-01-07-un-mundo-nuevo-teacher-tricked). When she stepped outside, ICE detained her for 10 minutes.
 - **Fake food flyers:** On January 22, Anne Sullivan STEAM School in Minneapolis [warned families](#2026-01-22-sullivan-elementary-ice-food-flyers) that ICE was "sending out flyers offering food support to families" and urged parents not to respond. (The school's warning was confirmed as authentic, but no actual flyer has been produced or independently verified as coming from ICE.)
 - **Child used as leverage:** On January 20, five-year-old [Liam Ramos was detained](#2026-01-20-liam-ramos-detained) in his driveway returning from preschool. School officials and witnesses said agents refused to leave the child with another adult, using him to lure his father. DHS disputed this characterization.
-- **False pretense for arrest:** ICE agents told a Venezuelan refugee family "they just needed to verify the fingerprints for our oldest son, but he would not be detained." The son was then arrested and driven away.
 
 ## Surveillance Against Observers
 
@@ -93,7 +91,7 @@ The deceptive tactics extended to targeting the citizen observer networks themse
 
 **Naureen Shah, ACLU Director of Immigration Advocacy:** "If you have people afraid that the electrical worker outside their house might be ICE, you're inviting public distrust and confusion on a much more dangerous level. This is what you do if you're trying to control a populace, not trying to do routine, professional law enforcement."
 
-**Scott Mechkowski, former deputy director of ICE enforcement in New York:** Said that in nearly three decades in immigration enforcement, he hadn't seen ICE agents disguising themselves as uniformed workers to make arrests. The operations reported in Minnesota represent "a more extreme degree than we've seen in the past."
+**Scott Mechkowski, former deputy director of ICE enforcement in New York:** Said that in nearly three decades in immigration enforcement, he hadn't seen ICE agents disguising themselves as uniformed workers to make arrests.
 
 The ACLU of Minnesota filed a class-action suit alleging that "forced facial scans have become routine." The [Immigrant Defense Project](https://www.immigrantdefenseproject.org/ice-ruses/) has documented ICE ruse tactics nationally since 2017, but noted the Minnesota operations represent a significant escalation.
 
@@ -110,4 +108,4 @@ The ACLU of Minnesota filed a class-action suit alleging that "forced facial sca
 
 ## Editorial Assessment
 
-**HIGH** — AP investigative report with named sources (Luis Ramirez, Candice Metrailer, Jose Alvillar), DHS confirmation of at least one disguised agent, and corroboration from CBS Minnesota. Star Tribune independent investigation of 100+ license plates with specific data. Governor Walz and DVS director on record. Expert assessment from former ICE deputy director and ACLU. Multiple independent reporting threads converge on the same pattern.
+**HIGH** — AP investigative report with named sources (Luis Ramirez, Candice Metrailer, Jose Alvillar) and corroboration from CBS Minnesota. Star Tribune independent investigation of 100+ license plates with specific data. Governor Walz and DVS director on record. Expert assessment from former ICE deputy director and ACLU. Multiple independent reporting threads converge on the same pattern.
