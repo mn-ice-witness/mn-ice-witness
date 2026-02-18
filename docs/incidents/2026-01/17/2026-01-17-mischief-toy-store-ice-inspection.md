@@ -64,8 +64,6 @@ Representatives for DHS and ICE did not respond to the Twin Cities Pioneer Press
 ### Store Response
 Dan Marshall publicly questioned the timing and described the inspection as "harassment." The store declined a request not to publicize the inspection and instead shared the letter on social media.
 
-Marshall stated: "We are a toy store that believes in social justice, and what ICE is doing, what Trump is doing in the Twin Cities is immoral and illegal."
-
 Regarding the audit of their small staff, Marshall asked: "We have five part-time employees and three owners. So tell me why they want to waste time on five part-time employees."
 
 Marshall stated: "This is an attempt to silence us and it's going to do the opposite."

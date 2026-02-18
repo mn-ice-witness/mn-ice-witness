@@ -5,7 +5,7 @@ location: Minnesota
 city: Minneapolis
 type: immigrants
 status: ongoing
-affected_individual_citizenship: undocumented
+affected_individual_citizenship: asylum-seeker
 injuries: none
 trustworthiness: medium
 created: 2026-02-09T21:32:32
@@ -48,4 +48,4 @@ The Delegation of Parental Authority (DOPA) form allows parents to designate a t
 - [Five-Year-Old Liam Ramos Detained](#2026-01-20-liam-ramos-detained) — Child detained walking home from school
 
 ## Editorial Assessment
-**MEDIUM** — Single source (CBS Minnesota) with named guardian and named advocacy organization founder. Supplemented by social media video. No parent names disclosed. Specific dates approximate (based on "three weeks" and "four days" before article publication). Documents an important pattern -- the DOPA form as the only thing preventing a child from entering foster care.
+**MEDIUM** — Single source (CBS Minnesota) with named guardian and named advocacy organization founder. Supplemented by social media video. Mother's first name (Janeth) disclosed in update source. Specific dates approximate (based on "three weeks" and "four days" before article publication). Documents an important pattern -- the DOPA form as the only thing preventing a child from entering foster care.

@@ -1,11 +1,11 @@
 ---
-date: 2026-01-17
+date: 2026-01-16
 time: 09:00
 location: Daycare parking lot
 city: St. Louis Park
 type: schools-hospitals
 status: resolved
-affected_individual_citizenship: us-citizen
+affected_individual_citizenship: unknown
 injuries: none
 trustworthiness: medium
 created: 2026-01-17T11:14:22
@@ -19,8 +19,8 @@ search_tags: children, observer-intimidated, src:bring-me-the-news, src:other-na
 Two unmarked ICE vehicles were parked directly across from a St. Louis Park daycare parking lot and playground as parents were dropping off children around 9 a.m. When a parent confronted the masked agents, they threatened him with pepper spray. St. Louis Park police responded and the agents left the area.
 
 ## Sources
-1. Bring Me The News (Jan 17, 2026): [ICE agents waiting near St. Louis Park daycare confronted by parent](https://bringmethenews.com/minnesota-news/ice-agents-waiting-outside-st-louis-park-daycare-confronted-by-parent)
-2. Yahoo News (Jan 17, 2026): [ICE agents waiting near St. Louis Park daycare confronted by parent](https://www.yahoo.com/news/articles/ice-agents-waiting-near-st-205706448.html)
+1. Bring Me The News (Jan 16, 2026): [ICE agents waiting near St. Louis Park daycare confronted by parent](https://bringmethenews.com/minnesota-news/ice-agents-waiting-outside-st-louis-park-daycare-confronted-by-parent)
+2. Yahoo News (Jan 16, 2026): [ICE agents waiting near St. Louis Park daycare confronted by parent](https://www.yahoo.com/news/articles/ice-agents-waiting-near-st-205706448.html)
 
 ## Witness Account
 A source, speaking on condition of anonymity to protect the privacy of the daycare, said: "They threatened to mace him, but shortly after St. Louis Park police arrived, and they left the immediate area."

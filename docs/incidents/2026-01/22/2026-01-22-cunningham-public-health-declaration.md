@@ -5,12 +5,12 @@ location: Minnesota Department of Health
 city: St. Paul
 type: schools-hospitals
 status: resolved
-affected_individual_citizenship: us-citizen
+affected_individual_citizenship: various
 injuries: none
 trustworthiness: high
 created: 2026-02-08T14:30:13
 last_updated: 2026-02-08T14:30:13
-search_tags:
+search_tags: children
 ---
 
 # Minnesota Health Commissioner: Operation Metro Surge Causing Measurable Public Health Damage Statewide

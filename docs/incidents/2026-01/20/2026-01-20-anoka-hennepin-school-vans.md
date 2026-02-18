@@ -28,7 +28,7 @@ Federal agents stopped two Anoka-Hennepin School District vans transporting stud
 - **Between Jan 12 and Jan 27** - Federal agents stop two district vans carrying students near Dayton city border during early morning hours. Drivers follow safety protocols; vans continue to school.
 - **Between Jan 12 and Jan 27** - ICE vehicles parked near Two Rivers Education Center at Franklin in Anoka. District staff approach agents and request they relocate; agents comply.
 - **Jan 27** - McIntyre discloses the incidents in a second message to families. Parents of affected students notified; district investigating.
-- **Feb 2** - State Sen. Jim Abeler (R-Anoka) sends letter to ICE Director Tom Homan, President Trump, and DHS Secretary Noem requesting reassignment of 500+ agents from Minnesota, citing the van stops.
+- **Feb 2** - State Sen. Jim Abeler (R-Anoka) sends letter to border czar Tom Homan, President Trump, and DHS Secretary Noem requesting reassignment of 500+ agents from Minnesota, citing the van stops.
 
 ## District Response
 Anoka-Hennepin School District protocols include:
@@ -42,7 +42,7 @@ Anoka-Hennepin School District protocols include:
 ## Official Response
 
 **State Sen. Jim Abeler (R-Anoka):**
-Described the van drivers as Native American and Asian, underscoring that legal residents and citizens were being stopped. Requested ICE reassign 500+ agents from Minnesota, citing "numerous wrongful detentions of citizens and legal residents."
+Described the van drivers as Native American and Asian, underscoring that legal residents and citizens were being stopped. Requested ICE reassign 500+ agents from Minnesota, citing "countless wrongful detentions of U.S. citizens and legal non-citizens."
 
 ## Editorial Assessment
 **HIGH** - Disclosed by named superintendent (Cory McIntyre) in official communication to families. Corroborated by State Sen. Jim Abeler's (R-Anoka) letter to federal officials. Incident recorded on school district video. Multiple Hometownsource articles and MPR News coverage. Notable that Abeler is a Republican senator raising concerns.

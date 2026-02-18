@@ -1,5 +1,5 @@
 ---
-date: 2026-01-16
+date: 2026-01-15
 time: evening
 location: Skyline Gardens housing development
 city: Owatonna
@@ -30,21 +30,21 @@ A 15-year-old girl was pepper sprayed by an ICE agent while observing an immigra
 - **Status:** Observer
 
 ## Timeline
-- **Thursday evening, Jan 16** - ICE conducts operation at Skyline Gardens housing development
+- **Thursday evening, Jan 15** - ICE conducts operation at Skyline Gardens housing development
 - **During operation** - Girl and mother approach scene as observers
 - **Pepper spray** - Agent (described as wearing Nike sweatshirt) pepper sprays the 15-year-old
 - **Aftermath** - Girl seated on pavement, coughing; agents offer water bottles to flush eyes
-- **Agent statement** - Told mother effects would take 45+ minutes to wear off
+- **Agent statement** - Told mother effects would take at least 45 minutes to wear off
 
 ## Official Accounts
 
 ### ICE Agent Response
 When asked if the incident report would document the use of pepper spray on a minor, an agent replied: "We're not going to get into the details now."
 
-One agent wearing a Nike sweatshirt began to explain: "As I was questioning the driver..." before being interrupted by whistles from observers.
+One agent wearing a Nike sweatshirt began to explain: "As I was questioning the driver..." before being interrupted by whistles.
 
 ## Context
-The same evening, ICE conducted a workplace raid at Best Boy Farms (formerly Bushel Boy Farms) on 32nd Avenue NW in Owatonna, described as "the first such workplace operation to be recorded by observers." Five or six people were detained. A separate incident at Skyline Gardens shows ICE agents removing a woman from her vehicle and searching it. The mother and daughter reportedly approached this scene as observers before the girl was pepper sprayed.
+The previous day (Wednesday), ICE conducted a workplace raid at Best Boy Farms (formerly Bushel Boy Farms) on 32nd Avenue NW in Owatonna, described as "the first such operation to be recorded by observers." Five or six people were detained. A separate incident at Skyline Gardens shows ICE agents removing a woman from her vehicle and searching it. The mother and daughter reportedly approached this scene as observers before the girl was pepper sprayed.
 
 ## Editorial Assessment
 **MEDIUM** - Single local news source (Southern Minnesota News) with video evidence described in detail. Witnesses quoted. Agent behavior implicitly confirms pepper spray use. However, no corroborating major outlet coverage (Star Tribune, MPR, KARE 11), no affected individual identification, and video not directly accessible. Would upgrade to HIGH if corroborating coverage emerges or family comes forward.

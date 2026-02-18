@@ -1,5 +1,5 @@
 ---
-date: 2026-01-16
+date: 2026-01-15
 time: afternoon
 location: Nevada Avenue East
 city: St. Paul
@@ -33,15 +33,15 @@ Federal agents used a battering ram to enter a home on Nevada Avenue East in St.
 - **Not detained:** One woman holding an infant who presented state-issued ID
 
 ## Timeline
-- **Thursday afternoon (Jan 16)** - Federal agents arrive at Nevada Avenue East home
+- **Thursday afternoon (Jan 15)** - Federal agents arrive at Nevada Avenue East home
 - **Entry** - Agents break through door with battering ram, enter with assault rifles
 - **During raid** - Agents claim to have search warrant but do not display it
 - **Search** - Surveillance video shows agents searching room-to-room
 - **Detention** - Six residents detained; woman with infant released after showing ID
-- **Friday (Jan 17)** - Family friend attempts to pick up 12-year-old from federal building near Minneapolis
+- **Friday (Jan 16)** - Family friend attempts to pick up 12-year-old from federal building near Minneapolis
 - **Same day** - Told the boy has been transported to immigration center in San Antonio, Texas
 - **Same day** - A warrant appears on the doorstep
-- **Monday (Jan 20)** - Judge Tunheim orders DHS to produce warrant by 5 p.m. deadline
+- **Monday (Jan 19)** - Judge Tunheim orders DHS to produce warrant by 5 p.m. deadline
 - **Same day** - DHS fails to respond; judge grants habeas corpus petition
 - **Same day** - Judge orders all six detainees released within 72 hours, must be returned to Minnesota
 

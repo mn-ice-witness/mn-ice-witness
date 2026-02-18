@@ -19,7 +19,7 @@ search_tags: us-citizen, observer-detained, excessive-force, src:fox9, src:bring
 - **2026-02-08**: Identified primary target as Orbin Mauricio Henriquez-Serrano per family GoFundMe and BringMeTheNews. Added details of his injuries (recent knee surgery, lost consciousness, neck trauma, stomach/facial/chest wounds), denial of medical treatment, transfer to Camp East Montana in El Paso, TX. Added sister's account, GoFundMe details, BringMeTheNews follow-up, and NYT coverage. Changed injuries to "serious."
 
 ## Summary
-At a Speedway gas station in St. Paul, federal agents smashed Orbin Mauricio Henriquez-Serrano's car window, forcibly dragged him out, and pinned him to the ground with knees on his back and head until he lost consciousness. Henriquez-Serrano, who had recently undergone leg surgery, suffered neck trauma, and visible stomach, facial, and chest wounds. He was transferred to a detention facility in El Paso, Texas, where his sister reported he had not received any medical evaluation or treatment. A bystander filming the arrest, 22-year-old U.S. citizen Lalo Rios Meza, was told to back up, complied, but was then shoved, tackled, and detained for approximately 6-7 hours. Border Patrol Commander Gregory Bovino was personally present at the scene.
+At a Speedway gas station in St. Paul, federal agents smashed Orbin Mauricio Henriquez-Serrano's car window, forcibly dragged him out, and pinned him to the ground with knees on his back and head until he lost consciousness. Henriquez-Serrano, who had recently undergone leg surgery, suffered neck trauma, and visible stomach, facial, and chest wounds. He was transferred to a detention facility in El Paso, Texas, where his sister reported he had not received any medical evaluation or treatment. A bystander filming the arrest, 22-year-old U.S. citizen Lalo Rios Meza, was told to back up, complied, but was then shoved, tackled, and detained for approximately 6-7 hours. Border Patrol Chief Gregory Bovino was personally present at the scene.
 
 ## Sources
 1. Facebook Video (Jan 11, 2026): [Full arrest footage](https://www.facebook.com/reel/1811249439582125)
@@ -27,15 +27,15 @@ At a Speedway gas station in St. Paul, federal agents smashed Orbin Mauricio Hen
 3. FOX 9 Video (Jan 12, 2026): [Video shows bystander tackled after complying](https://www.fox9.com/news/video-shows-federal-agents-making-detainment-st-paul-gas-station)
 4. Bring Me The News Video (Jan 12, 2026): [Multiple angles compilation](https://bringmethenews.com/minnesota-news/videos-show-number-of-aggressive-ice-operations-in-twin-cities-on-sunday)
 5. X Video (Jan 12, 2026): [DHS statement on bystander arrest](https://x.com/DHSgov/status/2010802240517521519)
-6. Twin Cities (Jan 12, 2026): [St. Paul ICE activity](https://www.twincities.com/2026/01/12/st-paul-ice-activity/)
+6. Pioneer Press (Jan 12, 2026): [St. Paul ICE activity](https://www.twincities.com/2026/01/12/st-paul-ice-activity/)
 7. CNN Video (Jan 13, 2026): [Tackle from different angle](https://www.cnn.com/2026/01/13/us/video/border-patrol-agents-tackle-anti-ice-protester-digvid)
 8. Mediaite Video (Jan 13, 2026): [Fox News airs footage](https://www.mediaite.com/media/tv/fox-news-airs-footage-of-man-mauled-by-feds-at-gas-station-as-graphic-says-ice-agents-are-doing-their-jobs/)
 9. Facebook Reel (Jan 15, 2026): [Speedway arrest footage](https://www.facebook.com/reel/2019008555624601)
-10. Status Coup News (Jan 2026): [Border Patrol Violently Invades Gas Station and Attacks U.S. Citizens](https://www.statuscoupsubstack.com/p/border-patrol-violently-invades-gas)
+10. Status Coup News (Jan 12, 2026): [Border Patrol Violently Invades Gas Station and Attacks U.S. Citizens](https://www.statuscoupsubstack.com/p/border-patrol-violently-invades-gas)
 11. YouTube Video (Jan 2026): [Coup News interview with Lalo Rios Meza](https://www.youtube.com/watch?v=KAKwl9p8YdY)
 12. New York Times (Jan 13, 2026): ['Like a Military Occupation': Clashes Rise With Federal Agents in Minneapolis](https://www.nytimes.com/2026/01/13/us/ice-videos-minnesota-trump-immigration.html)
 13. Bring Me The News (Jan 14, 2026): [What happened to man brutally detained by federal agents at St. Paul gas station?](https://bringmethenews.com/minnesota-news/what-happened-to-man-brutally-detained-by-federal-agents-at-st-paul-gas-station)
-14. GoFundMe (Jan 2026): [Justice and Freedom for Mauricio Henriquez Serrano](https://www.gofundme.com/f/justice-and-freedom-for-mauricio-henriquez-serrano)
+14. GoFundMe (Jan 14, 2026): [Justice and Freedom for Mauricio Henriquez Serrano](https://www.gofundme.com/f/justice-and-freedom-for-mauricio-henriquez-serrano)
 15. X / Ford Fischer (Jan 12, 2026): [Another angle of arrest](https://x.com/FordFischer/status/2010555408897740934)
 16. X / BreatheLetGo (Jan 2026): [Photo showing boot prints on unconscious body](https://x.com/BreatheLetGo/status/2011890508399088101)
 17. Instagram (Jan 2026): [Video of arrest](https://www.instagram.com/p/DTgT0OWkz5K/)
@@ -90,12 +90,12 @@ At a Speedway gas station in St. Paul, federal agents smashed Orbin Mauricio Hen
 ### Henriquez-Serrano Family (via GoFundMe, organized by Maritere Gonzalez)
 "Agents can be seen surrounding his vehicle and giving him only a few seconds to exit before breaking his window. As the situation worsened, Mauricio was forcibly dragged from the car, taken to the ground, and physically restrained by several agents at once."
 
-"He was brutally dragged and handled while unable to move or respond."
+"He was then brutally dragged and handled while unable to move or respond."
 
 On denial of medical care: The sister reported that as of January 13, he had "not been medically evaluated or received medical attention despite suffering from significant pain, particularly to a leg that had recently undergone surgery."
 
 ### Maritere Gonzalez (Family Friend, GoFundMe Organizer)
-"Mauricio is one of the most genuine, compassionate, and kind-hearted people I have ever met. Watching the way he was brutally handled by these agents is heartbreaking beyond words. He is selfless and genuine, always placing others before himself. There is nothing he wouldn't do for the people he loves. Nobody deserves this kind of treatment, especially him."
+"Mauricio is one of the most genuine, compassionate, and kind-hearted people I have ever met. Watching the way he was brutally handled by these agents is heartbreaking beyond words. ... He is selfless and genuine, always placing others before himself. There is nothing he wouldn't do for the people he loves. Nobody deserves this kind of treatment, especially him."
 
 ### Lalo Rios Meza
 "I was recording them talking to the guy in the jeep, they told me to step back, I complied and seconds later an agent rushed at me and swung at my face and got tackled."
@@ -103,7 +103,7 @@ On denial of medical care: The sister reported that as of January 13, he had "no
 ## DHS Response
 Posted on X (@DHSgov):
 
-> "One U.S. citizen did not comply with the lawfully given order, and instead responded by hitting an officer and was arrested."
+> "One US citizen did not comply with the lawfully given order and instead responded by hitting an officer and was arrested."
 
 **Note:** Video evidence appears to contradict this. Multiple videos show the citizen complying before being shoved. See full analysis: [DHS Response: Speedway Bystander "Hit an Officer"](/entry/2026-01-11-dhs-response-speedway-bystander)
 

@@ -5,7 +5,7 @@ location: Whipple Federal Building, Fort Snelling
 city: Minneapolis
 type: citizens
 status: resolved
-affected_individual_citizenship: legal-resident
+affected_individual_citizenship: asylum-seeker
 injuries: none
 trustworthiness: medium
 created: 2026-02-08T22:06:14

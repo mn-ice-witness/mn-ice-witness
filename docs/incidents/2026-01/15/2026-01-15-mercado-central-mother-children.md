@@ -5,7 +5,7 @@ location: Near Mercado Central, Lake Street
 city: Minneapolis
 type: immigrants
 status: ongoing
-affected_individual_citizenship: undocumented
+affected_individual_citizenship: unknown
 injuries: none
 trustworthiness: low
 created: 2026-01-18T13:33:29

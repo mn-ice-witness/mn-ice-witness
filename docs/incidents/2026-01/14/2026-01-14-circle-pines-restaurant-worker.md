@@ -3,14 +3,14 @@ date: 2026-01-14
 time: "17:00"
 location: Pancho's Taqueria and Mexican Cafe, Circle Pines
 city: Circle Pines
-type: immigrants
+type: citizens
 status: ongoing
 affected_individual_citizenship: legal-resident
 injuries: none
 trustworthiness: high
 created: 2026-01-15T09:33:17
 last_updated: 2026-01-15T09:33:17
-search_tags: legal-resident, workplace-raid, family-separation, src:bring-me-the-news, src:wcco, src:other-national
+search_tags: legal-resident, workplace-raid, family-separation, src:bring-me-the-news, src:cbs, src:other-national
 ---
 
 # Restaurant Worker with Legal Visa Detained by Plain-Clothed Agents

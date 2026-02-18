@@ -13,11 +13,11 @@ last_updated: 2026-02-02T22:22:30
 search_tags: us-citizen, excessive-force, citizen-check, src:other-national, src:other-local
 ---
 
-# U.S. Citizen College Student Restrained by ICE, Released After Showing Birth Certificate
+# U.S. Citizen College Student Violently Dragged from Car by ICE Agents
 
 ## Summary
 
-Perla Ocampo, an 18-year-old college student born in Willmar, Minnesota, was pulled from her vehicle by ICE agents, slammed against the car door, and restrained. She was released only after agents saw her birth certificate. In the days before this incident, ICE agents had followed her home from work on multiple occasions.
+Perla Ocampo, an 18-year-old college student born in Willmar, Minnesota, was violently dragged out of her car by ICE agents. In the days before this incident, ICE agents had followed her home from work on multiple occasions.
 
 ## Sources
 
@@ -33,4 +33,4 @@ Perla Ocampo, an 18-year-old college student born in Willmar, Minnesota, was pul
 
 ## Editorial Assessment
 
-**MEDIUM trustworthiness** - Ocampo's testimony is documented at a public city council meeting and in investigative journalism, but news coverage of the specific incident (being restrained) has limited detail. No video evidence of the incident itself.
+**MEDIUM trustworthiness** - Ocampo's testimony is documented at a public city council meeting and in investigative journalism, but news coverage of the specific incident has limited detail. No video evidence of the incident itself.

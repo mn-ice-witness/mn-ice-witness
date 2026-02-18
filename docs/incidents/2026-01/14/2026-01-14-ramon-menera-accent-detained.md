@@ -1,8 +1,8 @@
 ---
-date: 2026-01-15
+date: 2026-01-14
 time: unknown
-location: Minneapolis suburb
-city: Minneapolis
+location: Columbia Heights
+city: Columbia Heights
 type: citizens
 status: resolved
 affected_individual_citizenship: us-citizen
@@ -16,7 +16,7 @@ search_tags: us-citizen, citizen-check, children, src:cnn, src:star-tribune, src
 # U.S. Citizen Detained Because of "Accent"
 
 ## Summary
-Ramon Menera, a U.S. citizen, was detained by Border Patrol agents outside his home in a Minneapolis suburb in front of his 5-year-old daughter. The agent accused him of not being a U.S. citizen "because of your accent." Menera was eventually released but described the traumatic impact on his daughter, who asked him afterward: "Are you okay? They were going to take you? I don't want to lose you."
+Ramon Menera, a U.S. citizen, was detained by Border Patrol agents outside his home in Columbia Heights in front of his 5-year-old daughter. The agent accused him of not being a U.S. citizen "because of your accent." Menera was eventually released but described the traumatic impact on his daughter, who asked him afterward: "Are you okay? They were going to take you? I don't want to lose you."
 
 ## Sources
 1. CNN Video (Jan 17, 2026): [Border Patrol agent questions if man is US citizen 'because of your accent'](https://www.cnn.com/2026/01/17/us/video/border-patrol-detain-citizen-accent-vrtc)
@@ -31,7 +31,7 @@ Ramon Menera, a U.S. citizen, was detained by Border Patrol agents outside his h
 - **Family:** 5-year-old daughter witnessed the detention.
 
 ## Timeline
-- **Jan 15, 2026** - Menera detained outside his home by Border Patrol agents
+- **Jan 14, 2026** - Menera detained outside his home by Border Patrol agents
 - **During detention** - Agent tells him he's not a citizen "because of your accent"
 - **Later** - Menera released
 

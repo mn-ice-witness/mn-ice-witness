@@ -5,7 +5,7 @@ location: Basic Needs Food Market, 8475 E. Point Douglas Road
 city: Cottage Grove
 type: immigrants
 status: ongoing
-affected_individual_citizenship: undocumented
+affected_individual_citizenship: unknown
 injuries: none
 trustworthiness: medium
 created: 2026-01-29T20:59:28

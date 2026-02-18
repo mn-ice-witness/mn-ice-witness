@@ -22,7 +22,7 @@ Tippy Amundson (39) and Heather Zemien (55), both U.S. citizens, were detained b
 1. KARE 11 Video (Jan 23, 2026): [Woman detained after helping ICE agent](https://www.youtube.com/watch?v=atY_aW3isYk)
 2. Star Tribune (Jan 23, 2026): [Detained by ICE, two women became first responders during agent's seizure](https://www.startribune.com/detained-by-ice-two-women-became-first-responders-during-agents-seizure/601569667)
 3. MPR News (Feb 3, 2026): [Brooklyn Park women help seizing ICE agent while detained](https://www.mprnews.org/story/2026/02/03/brooklyn-park-women-help-seizing-ice-agent-while-detained)
-4. FOX 9 (Feb 3, 2026): [Woman saves ICE agent during medical emergency after being detained](https://www.fox9.com/news/woman-saves-ice-agent-during-medical-emergency-after-being-detained-jan-2026)
+4. FOX 9 (Jan 27, 2026): [Woman saves ICE agent during medical emergency after being detained](https://www.fox9.com/news/woman-saves-ice-agent-during-medical-emergency-after-being-detained-jan-2026)
 5. NBC News Video (Feb 3, 2026): [Two women in ICE custody save the federal agent who detained them](https://www.nbcnews.com/now/video/two-women-in-ice-custody-save-the-federal-agent-who-detained-them-256652357896)
 
 ## Affected Individual(s)
@@ -31,7 +31,7 @@ Tippy Amundson (39) and Heather Zemien (55), both U.S. citizens, were detained b
 
 ## Timeline
 - Detained in Brooklyn Park on afternoon of Jan 22
-- While being transported to Whipple, ICE agent in front seat had a seizure
+- While being transported to Whipple, ICE agent in third row had a seizure
 - Amundson and Zemien recognized the emergency, directed other agents to pull over and call 911
 - Women were uncuffed and provided first aid (positioning agent on his side, supporting his head, keeping airway open) until EMS arrived
 - Despite saving the agent's life, they were still transported to Whipple Federal Building

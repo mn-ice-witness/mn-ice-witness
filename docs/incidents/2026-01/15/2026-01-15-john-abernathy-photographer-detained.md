@@ -43,7 +43,7 @@ Independent photographer John Abernathy, 61, was tackled from behind by federal 
 
 ## Context
 
-Abernathy arrived around noon to photograph a veteran-led protest at Whipple. After he grabbed a bear spray canister from a pro-ICE counter-protester and tossed it aside, agents tackled him from behind. While approximately 50 agents surrounded the area, Abernathy locked eyes with Pierre Lavie — a photographer from Dallas he had never met — and threw his Leica M10-R and cellphone to him. The entire tackle-to-camera-toss sequence lasted approximately five to eight seconds. The camera landed on its base plate with only minor scratches.
+Abernathy arrived around noon to photograph a veteran-led protest at Whipple. After he grabbed a bear spray canister from a pro-ICE counter-protester and tossed it aside, agents tackled him from behind. While approximately 50 agents surrounded the area, Abernathy locked eyes with Pierre Lavie — a photographer from Dallas he had never met — and threw his Leica M10-R and cellphone to him. The entire tackle-to-camera-toss sequence lasted approximately five seconds; the full restraint lasted about eight seconds. The camera landed on its base plate with scratches, including deep ones on the base plate.
 
 Inside Whipple, agents told Abernathy they tackled him because they had video of him bear-spraying "his own people." When he asked to see the video, the agent refused. Agents eventually poured water into his eyes after initially failing to provide medical attention.
 

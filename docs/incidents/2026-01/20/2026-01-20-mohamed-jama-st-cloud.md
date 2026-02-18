@@ -21,9 +21,9 @@ Mohamed Abdirizak Jama, a 36-year-old U.S. citizen who has held citizenship for 
 
 ## Sources
 
-1. CBS Minnesota (Feb 4, 2026): [St. Cloud man arrested twice by ICE shares story of confusion, terror](https://www.cbsnews.com/minnesota/news/st-cloud-man-arrested-twice-by-ice/)
-2. CBS Minnesota Video (Feb 4, 2026): [St. Cloud man says ICE arrested and freed him, then arrested him again](https://www.cbsnews.com/minnesota/video/st-cloud-man-says-ice-arrested-and-freed-him-then-arrested-him-again/)
-3. St. Cloud Live (Feb 4, 2026): [St. Cloud man details multiple arrests by federal immigration agents, disputes accusation of assault](https://www.stcloudlive.com/news/local/st-cloud-man-details-multiple-arrests-by-federal-immigration-agents-disputes-accusation-of-assault)
+1. CBS Minnesota (Feb 5, 2026): [St. Cloud man arrested twice by ICE shares story of confusion, terror](https://www.cbsnews.com/minnesota/news/st-cloud-man-arrested-twice-by-ice/)
+2. CBS Minnesota Video (Feb 5, 2026): [St. Cloud man says ICE arrested and freed him, then arrested him again](https://www.cbsnews.com/minnesota/video/st-cloud-man-says-ice-arrested-and-freed-him-then-arrested-him-again/)
+3. St. Cloud Live (Feb 5, 2026): [St. Cloud man details multiple arrests by federal immigration agents, disputes accusation of assault](https://www.stcloudlive.com/news/local/st-cloud-man-details-multiple-arrests-by-federal-immigration-agents-disputes-accusation-of-assault)
 
 ## Affected Individual(s)
 

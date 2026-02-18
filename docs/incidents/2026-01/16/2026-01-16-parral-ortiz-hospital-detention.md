@@ -20,7 +20,7 @@ Liborio Parral Ortiz was detained by ICE agents while driving his wife Bonfilia 
 
 ## Sources
 1. Sahan Journal (Jan 17, 2026): [Medical emergency turns into nightmare as ICE detains Mounds View couple en route to ER](https://sahanjournal.com/health/ice-detains-mounds-view-couple/)
-2. GoFundMe (Jan 17, 2026): [Liborio Parral & Bonfilia Sanchez](https://www.gofundme.com/f/LiborioParralBonfiliaSanchez)
+2. GoFundMe (Jan 16, 2026): [Liborio Parral & Bonfilia Sanchez](https://www.gofundme.com/f/LiborioParralBonfiliaSanchez)
 
 ## Affected Individual(s)
 - **Name:** Liborio Parral Ortiz (detained); Bonfilia Sanchez Dominguez (hospitalized)
@@ -37,7 +37,7 @@ Liborio Parral Ortiz was detained by ICE agents while driving his wife Bonfilia 
 - **Morning** - Hospital staff tell family that if they leave, they won't be allowed to return
 - **Morning** - Attorney attempts to speak with Sanchez Dominguez; hospital security threatens to arrest him
 - **<20 hours later** - Parral Ortiz transferred to El Paso, Texas, before family can bring his diabetes medication
-- **Jan 18 (Saturday)** - ICE detainee locator confirms Parral Ortiz still in El Paso
+- **Jan 18 (Sunday)** - ICE detainee locator confirms Parral Ortiz still in El Paso
 
 ## Official Accounts
 

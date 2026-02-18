@@ -1,7 +1,7 @@
 ---
-date: 2026-01-16
+date: 2026-01-09
 time: unknown
-location: Twin Cities metro area
+location: Minneapolis
 city: Minneapolis
 type: immigrants
 status: ongoing
@@ -20,7 +20,7 @@ A member of the Minnesota Newspaper and Communications Guild was detained by ICE
 
 ## Sources
 1. The NewsGuild (Jan 16, 2026): [Guild member detained by ICE in Minnesota](https://newsguild.org/guild-member-detained-by-ice-in-minnesota/)
-2. Editor & Publisher (Jan 17, 2026): [Guild member detained by ICE in Minnesota](https://www.editorandpublisher.com/stories/guild-member-detained-by-ice-in-minnesota,259707)
+2. Editor & Publisher (Jan 19, 2026): [Guild member detained by ICE in Minnesota](https://www.editorandpublisher.com/stories/guild-member-detained-by-ice-in-minnesota,259707)
 
 ## Affected Individual(s)
 - **Name:** Not disclosed
@@ -28,8 +28,8 @@ A member of the Minnesota Newspaper and Communications Guild was detained by ICE
 - **Status:** Unknown (member of Minnesota Newspaper and Communications Guild)
 
 ## Timeline
-- **2026-01-16** - Individual detained by ICE during Operation Metro Surge
-- **2026-01-16** - Transferred to ICE detention facility in El Paso, Texas
+- **2026-01-09** - Individual detained by ICE during Operation Metro Surge
+- **Unknown** - Transferred to ICE detention facility in El Paso, Texas
 - **Ongoing** - Awaiting action on habeas corpus petition
 
 ## Official Accounts
@@ -38,4 +38,4 @@ A member of the Minnesota Newspaper and Communications Guild was detained by ICE
 The Minnesota Newspaper and Communications Guild confirmed the detention of one of its members. Working Partnerships, a division of the Minneapolis Regional Labor Federation, is raising funds to assist affected union members with legal fees and other hardships.
 
 ## Editorial Assessment
-**MEDIUM** - Confirmed by the individual's union (The NewsGuild TNG-CWA) and reported by Editor & Publisher. Specific circumstances of arrest not detailed. The rapid transfer to Texas (within same day of arrest) follows pattern seen in other Operation Metro Surge detentions.
+**MEDIUM** - Confirmed by the individual's union (The NewsGuild TNG-CWA) and reported by Editor & Publisher. Specific circumstances of arrest not detailed. Transfer to El Paso follows pattern seen in other Operation Metro Surge detentions.

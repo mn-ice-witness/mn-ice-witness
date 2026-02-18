@@ -21,7 +21,7 @@ Elizabeth ("Beth") Jackson, a Ramsey County resident and trained constitutional 
 ## Sources
 1. Court filing (Jan 12, 2026): [Declaration of Elizabeth Jackson, Tincher v. Noem](https://storage.courtlistener.com/recap/gov.uscourts.mnd.229758/gov.uscourts.mnd.229758.63.0_1.pdf)
 2. MPR News (Feb 4, 2026): [Twin Cities resident says she is being targeted for documenting ICE agents](https://www.mprnews.org/story/2026/02/04/twin-cities-resident-says-she-is-being-targeted-for-documenting-ice-agents)
-3. Facebook video (2026): [Elizabeth Jackson account](https://www.facebook.com/share/v/1HHXkpV2mr/)
+3. Facebook Video (2026): [Elizabeth Jackson account](https://www.facebook.com/share/v/1HHXkpV2mr/)
 
 ## Affected Individual(s)
 

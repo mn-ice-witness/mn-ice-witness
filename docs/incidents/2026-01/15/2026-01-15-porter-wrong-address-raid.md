@@ -16,11 +16,11 @@ search_tags: us-citizen, excessive-force, warrantless-entry, src:wcco, src:other
 # Federal Agents Execute Search Warrant at Wrong Address; U.S. Citizen Mistakenly Arrested
 
 ## Summary
-FBI, ATF, and Hennepin County Sheriff's Office agents used a battering ram to enter Alisa Porter's South Minneapolis apartment, handcuffing her daughter and searching the home. The warrant was for a different address—the man they sought had lived in the unit above Porter's but moved out two months prior. The search was connected to items stolen from FBI vehicles during protests over recent ICE shootings.
+FBI, ATF, and Hennepin County Sheriff's Office agents used a battering ram to enter Alisa Porter's South Minneapolis apartment, handcuffing her daughter and searching the home. The warrant was for a different address—the man they sought had lived in the unit above Porter's but moved out two months prior. The search was connected to items stolen from FBI vehicles.
 
 ## Sources
 1. CBS Minnesota (Jan 15, 2026): [Minneapolis family says federal agents raided wrong apartment looking for items stolen from FBI vehicles](https://www.cbsnews.com/minnesota/news/minneapolis-fbi-raid-wrong-home/)
-2. The Mirror (Jan 15, 2026): [ICE ransack Minneapolis woman's home after 'conducting search warrant in wrong home'](https://www.themirror.com/news/us-news/ice-ransack-minneapolis-womans-home-1623040)
+2. The Mirror (Jan 16, 2026): [ICE ransack Minneapolis woman's home after 'conducting search warrant in wrong home'](https://www.themirror.com/news/us-news/ice-ransack-minneapolis-womans-home-1623040)
 3. YouTube Video (Jan 15, 2026): [CBS Minnesota report](https://www.youtube.com/watch?v=_mulYNgbs14)
 
 ## Affected Individual(s)
@@ -53,7 +53,7 @@ Porter stated her daughter "was scared to death" when agents handcuffed her duri
 A neighbor called Porter during the search to inform her what was happening.
 
 ## Context
-This search occurred during a period of heightened federal law enforcement activity in Minneapolis related to Operation Metro Surge. The items stolen from FBI vehicles were taken during protests following ICE shooting incidents in the area. This was not an immigration enforcement action but is included to document the broader federal enforcement presence affecting Minneapolis residents.
+This search occurred during a period of heightened federal law enforcement activity in Minneapolis related to Operation Metro Surge. The items were stolen from FBI vehicles that were broken into the previous night. This was not an immigration enforcement action but is included to document the broader federal enforcement presence affecting Minneapolis residents.
 
 ## Editorial Assessment
 **HIGH** - Multiple independent sources (CBS Minnesota, The Mirror), video evidence from Ring doorbell camera, and documented discrepancy between warrant address (2926) and affected individual's address (2928 Apt 2). Federal agency confirmed the operation occurred.

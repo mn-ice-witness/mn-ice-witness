@@ -1,6 +1,6 @@
 ---
 date: 2026-01-22
-time: school-hours
+time: unknown
 location: Little Canada Elementary School, 400 Eli Rd
 city: Little Canada
 type: schools-hospitals

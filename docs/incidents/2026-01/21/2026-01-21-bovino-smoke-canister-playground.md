@@ -25,14 +25,14 @@ The canister was initially identified on social media as hexachloroethane (HC), 
 
 1. Star Tribune (Jan 21, 2026): [ICE raids Minnesota live updates](https://www.startribune.com/ice-raids-minnesota/601546426)
 2. X Post (Jan 21, 2026): [@TheJFreakinC thread with video](https://x.com/TheJFreakinC/status/2014110030778241072)
-3. Threads Post (Jan 21, 2026): [@itsmemaudeholly](https://www.threads.com/@itsmemaudeholly/post/DTycrtNkgXU)
+3. Threads (Jan 21, 2026): [@itsmemaudeholly](https://www.threads.com/@itsmemaudeholly/post/DTycrtNkgXU)
 
 ## Sources Added for Correction
 
-4. Star Tribune: [Bovino smoke canister expert analysis](https://www.startribune.com/border-patrol-greg-bovino-smoke-canister-chemical-spray-ice-protests-observers-minneapolis-dhs/601568184)
-5. Star Tribune: [Chemical irritants health consequences](https://www.startribune.com/federal-agents-are-deploying-clouds-streams-and-spatters-of-chemical-irritants-what-are-their-health-consequences/601568140)
-6. MinnPost: [Chemicals used by ICE against protesters](https://www.minnpost.com/metro/2026/01/my-eyes-were-stinging-the-chemicals-used-by-ice-when-they-confront-protesters-tear-gas-minneapolis/)
-7. Bellingcat: [Less-lethal weapons guide](https://www.bellingcat.com/resources/2026/01/27/less-lethal-weapons-guide/)
+4. Star Tribune (Jan 22, 2026): [Bovino smoke canister expert analysis](https://www.startribune.com/border-patrol-greg-bovino-smoke-canister-chemical-spray-ice-protests-observers-minneapolis-dhs/601568184)
+5. Star Tribune (Jan 27, 2026): [Chemical irritants health consequences](https://www.startribune.com/federal-agents-are-deploying-clouds-streams-and-spatters-of-chemical-irritants-what-are-their-health-consequences/601568140)
+6. MinnPost (Jan 15, 2026): [Chemicals used by ICE against protesters](https://www.minnpost.com/metro/2026/01/my-eyes-were-stinging-the-chemicals-used-by-ice-when-they-confront-protesters-tear-gas-minneapolis/)
+7. Bellingcat (Jan 27, 2026): [Less-lethal weapons guide](https://www.bellingcat.com/resources/2026/01/27/less-lethal-weapons-guide/)
 
 ## What Happened
 
