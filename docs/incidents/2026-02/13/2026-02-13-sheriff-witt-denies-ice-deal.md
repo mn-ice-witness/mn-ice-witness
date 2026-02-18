@@ -3,7 +3,7 @@ date: 2026-02-13
 time: unknown
 location: Hennepin County Sheriff's Office
 city: Minneapolis
-type: citizens
+type: background
 status: resolved
 affected_individual_citizenship: n/a
 injuries: none

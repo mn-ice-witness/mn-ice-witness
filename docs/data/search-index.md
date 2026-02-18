@@ -21,7 +21,7 @@ When searching for incidents or checking if something already exists:
 Published incidents visible on the main site.
 
 - incidents/2026-02/13/2026-02-13-minneapolis-203m-economic-impact.md | 2026-02-13 | Minneapolis | background | Minneapolis Estimates $203 Million Economic Impact from Operation Metro Surge
-- incidents/2026-02/13/2026-02-13-sheriff-witt-denies-ice-deal.md | 2026-02-13 | Minneapolis | citizens | Sheriff Witt Denies ICE Deal, Says She Was "Scapegoated"
+- incidents/2026-02/13/2026-02-13-sheriff-witt-denies-ice-deal.md | 2026-02-13 | Minneapolis | background | Sheriff Witt Denies ICE Deal, Says She Was "Scapegoated"
 - incidents/2026-02/12/2026-02-12-homan-operation-metro-surge-conclusion.md | 2026-02-12 | Minneapolis | background | Homan Declares Operation Metro Surge Over
 - incidents/2026-02/12/2026-02-12-jesus-flores-columbia-heights-ruse.md | 2026-02-12 | Columbia Heights | immigrants | ICE Agents Fake Car Trouble to Lure Columbia Heights Man Outside; Arrested and Sent to Texas
 - incidents/2026-02/12/2026-02-12-senate-homeland-security-hearing.md | 2026-02-12 | Washington, D.C. | response | Senate Homeland Security Hearing on Operation Metro Surge

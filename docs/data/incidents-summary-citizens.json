@@ -1,50 +1,6 @@
 {
   "incidents": [
     {
-      "filePath": "incidents/2026-02/13/2026-02-13-sheriff-witt-denies-ice-deal.md",
-      "title": "Sheriff Witt Denies ICE Deal, Says She Was \"Scapegoated\"",
-      "summary": "Hennepin County Sheriff Dawanna Witt held a press conference denying she made any agreement with federal officials to end Operation Metro Surge, one day after Tom Homan credited \"unprecedented cooperation\" from local jails. Witt said \"our policies did not change\" and called out \"influential leaders\" for spreading \"misinformation.\" A Star Tribune survey of all 87 Minnesota county sheriffs found none reported changing their immigration enforcement policies. The Hennepin County Board had passed a resolution the day before urging the sheriff to maintain her position of not honoring ICE detainer requests.",
-      "latestUpdate": null,
-      "correctionNote": null,
-      "date": "2026-02-13",
-      "time": "unknown",
-      "location": "Hennepin County Sheriff's Office",
-      "city": "Minneapolis",
-      "type": "citizens",
-      "status": "resolved",
-      "affectedIndividualCitizenship": "n/a",
-      "injuries": "none",
-      "trustworthiness": "high",
-      "created": "2026-02-14T20:20:45",
-      "lastUpdated": "2026-02-14T20:20:45",
-      "mediaCount": 0,
-      "notable": false,
-      "searchTags": [
-        "src:star-tribune",
-        "src:fox9",
-        "src:cbs",
-        "src:wcco",
-        "src:kstp",
-        "src:kare11"
-      ],
-      "hasLocalMedia": true,
-      "localMediaType": "video",
-      "localMediaPath": "media/2026-02/13/2026-02-13-sheriff-witt-denies-ice-deal.mp4",
-      "localMediaOgPath": "media/2026-02/13/2026-02-13-sheriff-witt-denies-ice-deal-og-2s-1771132425.jpg",
-      "localMediaFiles": [
-        {
-          "type": "video",
-          "path": "media/2026-02/13/2026-02-13-sheriff-witt-denies-ice-deal.mp4"
-        },
-        {
-          "type": "image",
-          "path": "media/2026-02/13/2026-02-13-sheriff-witt-denies-ice-deal.jpg"
-        }
-      ],
-      "aspectRatio": 1.9361111111111111,
-      "mediaVersion": 1771132425
-    },
-    {
       "filePath": "incidents/2026-02/07/2026-02-07-wilmer-andrade-work-permit-targeted.md",
       "title": "ICE Targets Man with Valid Work Permit and Pending Crime Victim Visa",
       "summary": "ICE agents knocked on Wilmer Andrade's door in the Twin Cities suburbs seeking his arrest, despite Andrade holding a valid work permit and a pending U visa application as a crime victim. Andrade, who was beaten and robbed in Minneapolis five years ago and has no criminal history in Minnesota, refused to open the door and was not taken into custody. The incident is part of a pattern of Operation Metro Surge increasingly targeting immigrants with active work authorization and pending legal cases.",
