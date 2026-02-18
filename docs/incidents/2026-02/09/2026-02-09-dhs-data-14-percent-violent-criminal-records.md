@@ -22,8 +22,8 @@ An internal Department of Homeland Security document obtained by CBS News reveal
 
 ## Sources
 1. CBS News (Feb 9, 2026): [Less than 14% of those arrested by ICE in Trump's 1st year back in office had violent criminal records, document shows](https://www.cbsnews.com/news/ice-arrests-violent-criminal-records-trump-first-year/)
-2. FactCheck.org (Jan 30, 2026): [As ICE Arrests Increased, a Higher Portion Had No U.S. Criminal Record](https://www.factcheck.org/2026/01/as-ice-arrests-increased-a-higher-portion-had-no-u-s-criminal-record/)
-3. Cato Institute (2026): [5% of People Detained By ICE Have Violent Convictions, 73% No Convictions](https://www.cato.org/blog/5-ice-detainees-have-violent-convictions-73-no-convictions)
+2. FactCheck.org (Jan 28, 2026): [As ICE Arrests Increased, a Higher Portion Had No U.S. Criminal Record](https://www.factcheck.org/2026/01/as-ice-arrests-increased-a-higher-portion-had-no-u-s-criminal-record/)
+3. Cato Institute (Nov 24, 2025): [5% of People Detained By ICE Have Violent Convictions, 73% No Convictions](https://www.cato.org/blog/5-ice-detainees-have-violent-convictions-73-no-convictions)
 4. NBC News (Feb 9, 2026): [Border czar warned immigration operations should be targeted to 'keep the faith of the American people'](https://www.nbcnews.com/politics/immigration/border-czar-warned-immigration-operations-targeted-keep-faith-american-rcna257608)
 5. Common Dreams (Feb 9, 2026): [Leaked DHS Document: Tiny Fraction of Immigrants Detained Under Trump Have Violent Criminal Records](https://www.commondreams.org/news/ice-arrests-violent-crimes)
 6. Fox News (Feb 9, 2026): [DHS, ICE push back on CBS claim most arrested illegals aren't 'violent'](https://www.foxnews.com/media/trump-administration-pushes-back-cbs-claim-very-few-arrested-illegal-aliens-have-violent-criminal-records)
@@ -80,7 +80,7 @@ ICE made more than triple the number of administrative arrests over the past yea
 ## Official Accounts
 
 ### DHS Response
-DHS spokesperson Tricia McLaughlin pushed back on the CBS report the same day, arguing that categorizing offenses as "non-violent" was misleading: "Drug trafficking, distribution of child pornography, burglary, fraud, DUI, embezzlement, solicitation of a minor, human smuggling are all categorized as 'nonviolent crimes.'" DHS simultaneously published a press release on WOW.DHS.GOV highlighting specific arrests of individuals with violent criminal histories, timed to coincide with Super Bowl Sunday.
+DHS spokesperson Tricia McLaughlin pushed back on the CBS report the same day, arguing that categorizing offenses as "non-violent" was misleading: "Drug trafficking, Distribution of child pornography, burglary, fraud, DUI, embezzlement, solicitation of a minor, human smuggling are all categorized as 'nonviolent crimes.'" DHS simultaneously published a press release on WOW.DHS.GOV highlighting specific arrests of individuals with violent criminal histories.
 
 ### Homan Warning
 NBC News reported the same day that Border Czar Tom Homan had previously warned that immigration operations should be targeted to "keep the faith of the American people," suggesting awareness within the administration that sweeping enforcement could erode public support.
