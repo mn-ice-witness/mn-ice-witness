@@ -460,37 +460,6 @@
       "mediaVersion": 1770663062
     },
     {
-      "filePath": "incidents/2026-02/04/2026-02-04-dhs-munitions-inventory-35000.md",
-      "title": "Leaked CBP Inventory Reveals 35,765 Munitions Stockpiled for Operation Metro Surge",
-      "summary": "A leaked Customs and Border Protection document titled \"CBP Table of Munitions Used in Operation Metro Surge\" revealed that 35,765 munitions were stockpiled on-site in Minneapolis by mid-January 2026, the majority intended for crowd control rather than immigration enforcement. The inventory included over 1,100 riot control gas grenades and thousands of less-than-lethal munitions rounds. A homeland security official shown the list said: \"Fucking overkill. I've never seen this amount of shit being used.\" The leak was published on the same day that border czar Tom Homan announced the withdrawal of 700 federal agents from Minnesota.",
-      "latestUpdate": null,
-      "correctionNote": null,
-      "date": "2026-02-04",
-      "time": "unknown",
-      "location": "Minneapolis",
-      "city": "Minneapolis",
-      "type": "background",
-      "status": "resolved",
-      "affectedIndividualCitizenship": "n/a",
-      "injuries": "none",
-      "trustworthiness": "medium",
-      "created": "2026-02-09T21:32:32",
-      "lastUpdated": "2026-02-09T21:32:32",
-      "mediaCount": 0,
-      "notable": false,
-      "searchTags": [
-        "src:other-national",
-        "src:other-local"
-      ],
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
-      "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
-    },
-    {
       "filePath": "incidents/2026-02/04/2026-02-04-school-districts-sue-ice-near-schools.md",
       "title": "Minnesota School Districts and Teachers Union Sue to Restore Schools as Protected Areas",
       "summary": "Fridley Public Schools, Duluth Public Schools, and Education Minnesota (the statewide teachers union representing 84,000 educators) filed a federal lawsuit on February 4, 2026, seeking to bar DHS and ICE from conducting immigration enforcement near public schools. The complaint documents ICE staging operations in school parking lots, following superintendents and school board members, pulling over school transportation vans with students aboard, and causing attendance to drop by as much as one-third in affected districts. The suit argues DHS rescinded decades of \"sensitive locations\" protections without following required rulemaking procedures under the Administrative Procedure Act.",

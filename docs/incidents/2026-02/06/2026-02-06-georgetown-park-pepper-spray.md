@@ -3,11 +3,11 @@ date: 2026-02-06
 time: 14:50
 location: Georgetown Park Apartments
 city: Bloomington
-type: observers
+type: immigrants
 status: resolved
 affected_individual_citizenship: unknown
 injuries: minor
-trustworthiness: low
+trustworthiness: medium
 created: 2026-02-06T23:06:33
 last_updated: 2026-02-06T23:06:33
 search_tags: observer-intimidated, chemical-agents, excessive-force, src:bring-me-the-news
@@ -17,7 +17,7 @@ search_tags: observer-intimidated, chemical-agents, excessive-force, src:bring-m
 
 ## Summary
 
-Video shared to People Over Papers on February 6 shows federal agents arresting a person outside Georgetown Park Apartments in Bloomington. After the arrest, an agent pepper sprayed two people who were reportedly relatives of the detained individual. In the video, the two individuals appear to be at a legal distance from the agents and are backing away when an officer deploys pepper spray. No names have been publicly identified.
+Video uploaded to social media on February 6 shows federal agents arresting a person reportedly outside Georgetown Park Apartments in Bloomington. After the arrest, an agent pepper sprayed two people who were reportedly relatives of the detained individual. No names have been publicly identified.
 
 ## Sources
 
@@ -30,4 +30,4 @@ Video shared to People Over Papers on February 6 shows federal agents arresting 
 
 ## Editorial Assessment
 
-**LOW** - Single news source (Bring Me The News daily roundup), sourced from social media video shared to People Over Papers. No named individuals and no in-depth independent reporting.
+**MEDIUM** - Single Tier 1 source (Bring Me The News daily roundup) citing social media video. BMTN confirmed the incident but provided minimal original reporting. No named individuals and no in-depth independent coverage.

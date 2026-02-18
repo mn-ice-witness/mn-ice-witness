@@ -40,15 +40,15 @@ Published incidents visible on the main site.
 - incidents/2026-02/06/2026-02-06-nick-benson-deportation-flights-msp.md | 2026-02-06 | Minneapolis | background | Volunteer Documents 42 Deportation Flights in January, Estimates 2,339 People Flown From Minnesota
 - incidents/2026-02/06/2026-02-06-brasel-right-to-counsel-whipple.md | 2026-02-06 | Minneapolis | background | Minnesota's Legal System Buckles Under Weight of Operation Metro Surge
 - incidents/2026-02/06/2026-02-06-dhs-response-agitators-shielded.md | 2026-02-06 | Minneapolis | response | DHS Response: "Agitators" Shield Child Rapists, Sex Offenders, and Gang Members From Arrest
-- incidents/2026-02/06/2026-02-06-georgetown-park-pepper-spray.md | 2026-02-06 | Bloomington | observers | Federal Agents Pepper Spray Relatives During Arrest at Georgetown Park Apartments
+- incidents/2026-02/06/2026-02-06-georgetown-park-pepper-spray.md | 2026-02-06 | Bloomington | immigrants | Federal Agents Pepper Spray Relatives During Arrest at Georgetown Park Apartments
 - incidents/2026-02/06/2026-02-06-ice-facial-recognition-surveillance-program.md | 2026-02-06 | Minneapolis | background | ICE Deploys Facial Recognition Surveillance Program Against Citizen Observers in Minnesota
-- incidents/2026-02/06/2026-02-06-honduran-mother-attorney-denied-access.md | 2026-02-06 | Minneapolis | immigrants | Honduran Mother with Brain Surgery History Held Extra Days After Judge Orders Release; Attorney Cannot Find Her
+- incidents/2026-02/06/2026-02-06-honduran-mother-attorney-denied-access.md | 2026-02-06 | Minneapolis | immigrants | Honduran Mother with Brain Surgery History Held Extra Days Despite Federal Release Order; Attorney Cannot Find Her
 - incidents/2026-02/06/2026-02-06-missing-5th-grader-dilley.md | 2026-02-06 | Columbia Heights | schools-hospitals, immigrants | Missing Columbia Heights Fifth Grader Spotted Inside Texas Detention Center by Classmates
 - incidents/2026-02/05/2026-02-05-kyle-wagner-eat-street-flats-raid.md | 2026-02-05 | Minneapolis | citizens | 11 Federal Agents Smash Into Apartment Building at 6 a.m. to Arrest Man for Anti-ICE Social Media Posts
-- incidents/2026-02/05/2026-02-05-albert-lea-woman-baby-car-chase.md | 2026-02-05 | Albert Lea | immigrants | ICE Agents Cut Seatbelt to Extract Woman From Car; Baby in Backseat
 - incidents/2026-02/05/2026-02-05-javier-abreu-rochester-kidney-transplant.md | 2026-02-05 | Rochester | citizens | Kidney Transplant Recipient Arrested in Rochester Needs Anti-Rejection Medication
 - incidents/2026-02/05/2026-02-05-hennepin-courthouse-detentions.md | 2026-02-05 | Minneapolis | immigrants | Two Detained by ICE Inside Hennepin County Courthouse After Hearing
-- incidents/2026-02/04/2026-02-04-dhs-munitions-inventory-35000.md | 2026-02-04 | Minneapolis | background | Leaked CBP Inventory Reveals 35,765 Munitions Stockpiled for Operation Metro Surge
+- incidents/2026-02/04/2026-02-04-dhs-munitions-inventory-35000.md | 2026-02-04 | Minneapolis | response | Leaked CBP Inventory Reveals 35,765 Munitions Stockpiled for Operation Metro Surge
+- incidents/2026-02/04/2026-02-04-albert-lea-woman-baby-car-chase.md | 2026-02-04 | Albert Lea | immigrants | ICE Agents Cut Seatbelt to Extract Woman From Car; Baby in Backseat
 - incidents/2026-02/04/2026-02-04-school-districts-sue-ice-near-schools.md | 2026-02-04 | Minneapolis | background | Minnesota School Districts and Teachers Union Sue to Restore Schools as Protected Areas
 - incidents/2026-02/04/2026-02-04-trump-softer-touch-interview.md | 2026-02-04 | Washington D.C. | response | Trump Says Administration Will Use "Softer Touch" After Minneapolis Shootings
 - incidents/2026-02/03/2026-02-03-observers-detained-gunpoint-midtown-phillips.md | 2026-02-03 | Minneapolis | observers | Observers Detained at Gunpoint, Bystanders Tackled in Midtown Phillips

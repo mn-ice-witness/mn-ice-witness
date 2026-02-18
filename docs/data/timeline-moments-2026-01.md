@@ -221,7 +221,7 @@ title: Drawdown Begins
 incident: 2026-01-27-homan-draw-down-minneapolis
 source:
 ---
-Border czar Tom Homan meets with Governor Walz. Border Patrol Commander Greg Bovino is removed from Minnesota operations. Homan conditions further drawdown on an end to "aggression" from community members and reaffirms enforcement will continue.
+Border czar Tom Homan takes direct command of Operation Metro Surge. Border Patrol Commander Greg Bovino is removed from Minnesota operations. Homan conditions further drawdown on cooperation from state and local officials and reaffirms enforcement will continue.
 
 ---
 date: 2026-01-28

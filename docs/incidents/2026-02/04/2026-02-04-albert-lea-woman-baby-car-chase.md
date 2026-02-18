@@ -1,5 +1,5 @@
 ---
-date: 2026-02-05
+date: 2026-02-04
 time: unknown
 location: Plainview Lane and First Avenue
 city: Albert Lea
@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: medium
 created: 2026-02-12T14:36:06
 last_updated: 2026-02-12T14:36:06
-search_tags: children, family-separation, vehicle-pursuit, excessive-force, src:other-local
+search_tags: children, family-separation, vehicle-pursuit, excessive-force, observer-intimidated, src:other-local
 ---
 
 # ICE Agents Cut Seatbelt to Extract Woman From Car; Baby in Backseat
@@ -19,7 +19,7 @@ search_tags: children, family-separation, vehicle-pursuit, excessive-force, src:
 ICE agents attempted to stop a Latina woman near a Kwik Trip in Albert Lea. When agents angled in front of her car, she drove around them, reportedly clipping an agent's vehicle door. Her car ended up in a snowbank at Plainview Lane and First Avenue. Agents cut her seatbelt with a knife to extract her while a baby in the backseat cried. The woman screamed for her baby during detention and was transferred to a tan Jeep with Texas plates. A witness contradicted ICE's claim that the woman rammed their vehicle. The baby was released to a family member who arrived at the scene.
 
 ## Sources
-1. Albert Lea Tribune (Feb 5, 2026): [Witness: 'She's gone and they have no idea where she's at'](https://www.albertleatribune.com/news/witness-shes-gone-and-they-have-no-idea-where-shes-at-2c811e0b)
+1. Albert Lea Tribune (Feb 6, 2026): [Witness: 'She's gone and they have no idea where she's at'](https://www.albertleatribune.com/news/witness-shes-gone-and-they-have-no-idea-where-shes-at-2c811e0b)
 2. Albert Lea Tribune (Feb 7, 2026): [Residents protest against ICE in Albert Lea](https://www.albertleatribune.com/news/residents-protest-against-ice-in-albert-lea-056b4cac)
 
 ## Affected Individual(s)
@@ -41,7 +41,7 @@ ICE agents attempted to stop a Latina woman near a Kwik Trip in Albert Lea. When
 Albert Lea Police Chief Darren Hanson confirmed the crash was an ICE operation. ICE agents claimed the woman attempted to ram their vehicle.
 
 ## Witness Accounts
-A witness who intervened to check on the baby contradicted ICE's account, stating the ICE vehicle was behind the woman's car, not in front of it as agents claimed. The witness reported the woman was crying out for her baby during the detention.
+A witness attempted to check on the baby but was denied by agents; one agent with his hand on his gun holster told her to back away with expletives and another threatened to "take care of her" if she didn't leave. The witness contradicted ICE's account, stating she saw the ICE vehicle behind the woman's car, not in front of it as agents claimed. The witness reported the woman was crying out for her baby during the detention.
 
 ## Editorial Assessment
 **MEDIUM** - Single local newspaper (Albert Lea Tribune) with detailed witness account and police chief confirmation. No additional independent news coverage found.

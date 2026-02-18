@@ -217,12 +217,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://mn-ice-witness.org/entry/2026-02-05-albert-lea-woman-baby-car-chase</loc>
-    <lastmod>2026-02-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://mn-ice-witness.org/entry/2026-02-05-javier-abreu-rochester-kidney-transplant</loc>
     <lastmod>2026-02-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -237,6 +231,12 @@
   <url>
     <loc>https://mn-ice-witness.org/entry/2026-02-04-dhs-munitions-inventory-35000</loc>
     <lastmod>2026-02-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://mn-ice-witness.org/entry/2026-02-04-albert-lea-woman-baby-car-chase</loc>
+    <lastmod>2026-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

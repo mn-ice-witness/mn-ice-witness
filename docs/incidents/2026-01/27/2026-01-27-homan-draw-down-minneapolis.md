@@ -38,7 +38,7 @@ Following two fatal shootings of U.S. citizens by federal agents, the Trump admi
 9. Salon (Jan 27, 2026): [Border Patrol commander Gregory Bovino demoted](https://www.salon.com/2026/01/27/border-patrol-commander-gregory-bovino-demoted/)
 10. CNBC (Feb 4, 2026): [Trump admin to withdraw 700 federal officers from Minnesota](https://www.cnbc.com/2026/02/04/trump-homan-minnesota-ice-immigration.html)
 11. YouTube Video (Jan 29, 2026): [Tom Homan Minneapolis press conference](https://www.youtube.com/watch?v=UcAz0EqlaFY)
-12. Star Tribune (Jan 2026): [Tom Homan plans federal agent drawdown, says Minnesota must cooperate with feds](https://www.startribune.com/white-house-border-czar-tom-homan-plans-federal-agent-drawdown-says-minnesota-must-cooperate-with-feds/601572758)
+12. Star Tribune (Jan 29, 2026): [Tom Homan plans federal agent drawdown, says Minnesota must cooperate with feds](https://www.startribune.com/white-house-border-czar-tom-homan-plans-federal-agent-drawdown-says-minnesota-must-cooperate-with-feds/601572758)
 
 ## Background
 
@@ -62,7 +62,7 @@ This echoed a pattern throughout Operation Metro Surge: when federal agents shot
 
 ## Timeline
 
-### January 25, 2026
+### January 24, 2026
 Alex Pretti, a 37-year-old ICU nurse, is fatally shot by Border Patrol agents in Minneapolis.
 
 ### January 26, 2026
