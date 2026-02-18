@@ -237,7 +237,7 @@ title: Local Police Chief Retrieves Citizen from ICE Custody
 incident: 2026-01-30-st-peter-police-chief-intervenes
 source:
 ---
-A U.S. citizen woman is detained for recording ICE agents and transported toward federal detention. Her husband contacts St. Peter Police Chief Matt Grochow, who secures her return — telling him: "I got her. I'm bringing her home." The City of St. Peter later denies the department "participated in, coordinated with or intervened in any federal enforcement activity."
+A U.S. citizen woman is detained for recording ICE agents and transported toward federal detention. St. Peter Police Chief Matt Grochow calls her husband and tells him: "I got her. I'm bringing her home." Agents turn around and return the woman to the police station. The City of St. Peter later denies the department "participated in, coordinated with or intervened in any federal enforcement activity."
 
 ---
 date: 2026-01-21

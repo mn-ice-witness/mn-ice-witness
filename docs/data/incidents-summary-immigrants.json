@@ -151,42 +151,6 @@
       "mediaVersion": null
     },
     {
-      "filePath": "incidents/2026-02/07/2026-02-07-wilmer-andrade-work-permit-targeted.md",
-      "title": "ICE Targets Man with Valid Work Permit and Pending Crime Victim Visa",
-      "summary": "ICE agents knocked on Wilmer Andrade's door in the Twin Cities suburbs seeking his arrest, despite Andrade holding a valid work permit and a pending U visa application as a crime victim. Andrade, who was beaten and robbed in Minneapolis five years ago and has no criminal history in Minnesota, refused to open the door and was not taken into custody. The incident is part of a pattern of Operation Metro Surge increasingly targeting immigrants with active work authorization and pending legal cases.",
-      "latestUpdate": null,
-      "correctionNote": null,
-      "date": "2026-02-07",
-      "time": "unknown",
-      "location": "Twin Cities suburbs",
-      "city": "Minneapolis",
-      "type": "immigrants",
-      "status": "resolved",
-      "affectedIndividualCitizenship": "legal-resident",
-      "injuries": "none",
-      "trustworthiness": "high",
-      "created": "2026-02-10T21:01:30",
-      "lastUpdated": "2026-02-10T21:01:30",
-      "mediaCount": 0,
-      "notable": false,
-      "searchTags": [
-        "legal-resident",
-        "src:sahan-journal"
-      ],
-      "hasLocalMedia": true,
-      "localMediaType": "image",
-      "localMediaPath": "media/2026-02/07/2026-02-07-wilmer-andrade-work-permit-targeted.jpg",
-      "localMediaOgPath": null,
-      "localMediaFiles": [
-        {
-          "type": "image",
-          "path": "media/2026-02/07/2026-02-07-wilmer-andrade-work-permit-targeted.jpg"
-        }
-      ],
-      "aspectRatio": 1.3729977116704806,
-      "mediaVersion": 1771131272
-    },
-    {
       "filePath": "incidents/2026-02/06/2026-02-06-georgetown-park-pepper-spray.md",
       "title": "Federal Agents Pepper Spray Relatives During Arrest at Georgetown Park Apartments",
       "summary": "Video uploaded to social media on February 6 shows federal agents arresting a person reportedly outside Georgetown Park Apartments in Bloomington. After the arrest, an agent pepper sprayed two people who were reportedly relatives of the detained individual. No names have been publicly identified.",

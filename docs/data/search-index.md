@@ -36,7 +36,7 @@ Published incidents visible on the main site.
 - incidents/2026-02/08/2026-02-08-ice-deceptive-tactics.md | 2026-02-08 | Minneapolis | background | Reports of ICE Agents Using Disguises, Fake License Plates, and Ruse Tactics Across Minnesota
 - incidents/2026-02/07/2026-02-07-dhs-response-whipple-conditions-false.md | 2026-02-07 | Minneapolis | response | DHS Statement: Claims of "Subprime Conditions" at Whipple Are "FALSE"
 - incidents/2026-02/07/2026-02-07-observers-one-warning-abductions.md | 2026-02-07 | Minneapolis | observers | Three Legal Observers Arrested in 30 Minutes as ICE Implements "One Warning" Policy
-- incidents/2026-02/07/2026-02-07-wilmer-andrade-work-permit-targeted.md | 2026-02-07 | Minneapolis | immigrants | ICE Targets Man with Valid Work Permit and Pending Crime Victim Visa
+- incidents/2026-02/07/2026-02-07-wilmer-andrade-work-permit-targeted.md | 2026-02-07 | Minneapolis | citizens | ICE Targets Man with Valid Work Permit and Pending Crime Victim Visa
 - incidents/2026-02/06/2026-02-06-nick-benson-deportation-flights-msp.md | 2026-02-06 | Minneapolis | background | Volunteer Documents 42 Deportation Flights in January, Estimates 2,339 People Flown From Minnesota
 - incidents/2026-02/06/2026-02-06-brasel-right-to-counsel-whipple.md | 2026-02-06 | Minneapolis | background | Minnesota's Legal System Buckles Under Weight of Operation Metro Surge
 - incidents/2026-02/06/2026-02-06-dhs-response-agitators-shielded.md | 2026-02-06 | Minneapolis | response | DHS Response: "Agitators" Shield Child Rapists, Sex Offenders, and Gang Members From Arrest
