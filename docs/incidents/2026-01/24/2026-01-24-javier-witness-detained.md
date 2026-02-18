@@ -16,7 +16,7 @@ search_tags: observer-detained, us-citizen, src:wcco
 # Minneapolis Man Detained for Hours After Witnessing Pretti Shooting
 
 ## Summary
-A Minneapolis man using the pseudonym "Javier" for safety reasons was among dozens of U.S. citizens detained by federal agents after witnessing the shooting of Alex Pretti. He overheard agents referring to detainees as "USCs" (United States citizens). Javier was taken to the Bishop Henry Whipple Federal Building and held for several hours, first alone, then with almost two dozen other observers from the scene. He was given water, food, and medical attention before being released with no charges filed.
+A Minneapolis man using the pseudonym "Javier" for safety reasons was among dozens of U.S. citizens detained by federal agents after witnessing the shooting of Alex Pretti. He overheard agents referring to detainees as "USCs" (United States citizens in custody). Javier was taken to the Bishop Henry Whipple Federal Building and held for several hours, first alone, then with almost two dozen other observers from the scene. He was given water, food, and medical attention before being released with no charges filed.
 
 ## Sources
 1. CBS Minnesota (Jan 25, 2026): [Minneapolis man says he was detained for hours after witnessing Alex Pretti shooting](https://www.cbsnews.com/minnesota/news/minneapolis-alex-pretti-shooting-witness-arrested/)
@@ -32,7 +32,7 @@ A Minneapolis man using the pseudonym "Javier" for safety reasons was among doze
 - **Citizenship:** U.S. citizen
 - **Status:** Released, no charges filed
 
-## Key Quotes
+## Witness Accounts
 > "It's just cold all around, bro. It just sucks the life out of you. You lose all hope." — Javier, on detention conditions at Whipple Building
 
 ## Editorial Assessment

@@ -23,11 +23,15 @@ ICE agents detained a woman's husband and cousin in a parking lot in Northeast M
 2. Bluesky (Jan 27, 2026): [Aaron Rupar post with video](https://bsky.app/profile/atrupar.com/post/3mdgjohren22q)
 
 ## Affected Individual(s)
-- Jenny's husband, undocumented, from Ecuador, detained
-- Jenny's cousin, undocumented, from Ecuador, detained
-- **Jenny** (last name withheld), undocumented, from Ecuador, not detained; left alone with daughter
+- **Name:** Jenny (last name withheld)
+- **Citizenship:** Undocumented
+- **Background:** From Ecuador. Her husband and cousin were detained; Jenny was left behind with her young daughter.
 
-## Key Quotes
+### Also Affected
+- Jenny's husband — undocumented, from Ecuador, detained
+- Jenny's cousin — undocumented, from Ecuador, detained
+
+## Witness Accounts
 
 > "I was yelling at them to take me with him, but they didn't want to take me and our daughter with him." — Jenny, CBS Minnesota
 

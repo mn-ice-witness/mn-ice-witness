@@ -29,7 +29,7 @@ DHS issued a statement criticizing Minneapolis Mayor Jacob Frey's sanctuary city
 - Sanctuary policies are "dangerous" and enable reoffending
 
 ### DHS Assistant Secretary Tricia McLaughlin
-> "Mayor Frey's dangerous sanctuary policies directly RELEASE criminal illegal aliens from jails and put them back on the streets to victimize more innocent Americans."
+> "Tim Walz and Jacob Frey's dangerous sanctuary policies directly RELEASE criminal illegal aliens from jails and put them back on the streets to victimize more innocent Americans."
 
 ### Featured Case
 DHS centered the statement on German Llangari Inga, an Ecuadorian national charged with vehicular homicide in the death of Victoria Eileen Harwell in August 2024. According to DHS:

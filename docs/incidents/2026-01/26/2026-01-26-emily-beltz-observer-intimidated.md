@@ -16,7 +16,7 @@ search_tags: us-citizen, observer-intimidated, vehicle-pursuit, src:nyt, src:oth
 # Agent Yells Observer's Name and Home Address from Unmarked SUV
 
 ## Summary
-Emily Beltz, 44, drove to an apartment building in a Minneapolis suburb on January 26 where ICE agents were reportedly stationed. When an SUV left the scene, Beltz followed. The SUV suddenly turned and accelerated toward her car. A masked agent leaned out the passenger window and shouted "Emily, Emily, we're going to take you home," then shouted the address where Beltz lives with her husband and 5-year-old child. Beltz filed a sworn declaration in Tincher v. Noem.
+Emily Beltz, 44, drove to an apartment building in a Minneapolis suburb on January 26 where ICE agents were reportedly stationed. When an SUV left the scene, Beltz followed. The SUV suddenly turned and accelerated toward her car. A masked female agent leaned out the passenger window and shouted "Emily, Emily, we're going to take you home," then shouted the address where Beltz lives with her husband and 5-year-old child. Beltz filed a sworn declaration in Tincher v. Noem.
 
 ## Sources
 1. New York Times (Feb 13, 2026): [ICE Agents Menaced Minnesota Protesters at Their Homes, Filings Say](https://www.nytimes.com/2026/02/13/us/minneapolis-ice-agents-protester-home-visits.html)

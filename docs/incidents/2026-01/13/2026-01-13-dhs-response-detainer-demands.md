@@ -4,8 +4,8 @@ time: unknown
 location: DHS Official Statement
 city: Minneapolis
 type: response
-status: ongoing
-affected_individual_citizenship: various
+status: resolved
+affected_individual_citizenship: n/a
 injuries: none
 trustworthiness: high
 created: 2026-01-14T13:57:51

@@ -19,10 +19,9 @@ search_tags: us-citizen, citizen-check, src:fox9, src:other-national
 Kong Vang, a U.S. citizen working from home in St. Paul's Frogtown neighborhood, recorded federal agents at his door and refused to let them in. The agents never explained why they were there and left after approximately 90 seconds. Vang's video went viral with over 400,000 views on Facebook.
 
 ## Sources
-1. Instagram Video (Jan 13, 2026): [Kong Vang door encounter](https://www.instagram.com/reels/DTf44WriQem/) - 400,000+ views
+1. Instagram Video (Jan 13, 2026): [Kong Vang door encounter](https://www.instagram.com/reels/DTf44WriQem/)
 2. FOX 9 (Jan 14, 2026): [Video of St. Paul man refusing to open door for federal agents goes viral](https://www.fox9.com/news/video-st-paul-man-refusing-open-door-federal-agents-goes-viral)
 3. Yahoo News (Jan 14, 2026): [St. Paul Man Refuses to Open Door for Federal Agents in Viral Video](https://www.yahoo.com/news/articles/st-paul-man-refuses-open-211750001.html)
-4. Angry Asian Man (Jan 16, 2026): [Coverage of Kong Vang encounter](https://blog.angryasianman.com/)
 
 ## Affected Individual(s)
 - **Name:** Kong Vang
@@ -43,7 +42,7 @@ No official statement regarding this specific encounter.
 ### Local Officials
 No statements from local officials regarding this specific encounter.
 
-## Key Quotes
+## Witness Accounts
 
 > "I was afraid they were going to take me away. Take my mom away. Just rush our house and do whatever it is they are trained to do with legal citizens who haven't done anything wrong." — Kong Vang
 
@@ -52,4 +51,4 @@ No statements from local officials regarding this specific encounter.
 Vang said he posted the video to help others in his community know their rights during ICE encounters.
 
 ## Editorial Assessment
-**HIGH** - Video evidence with 400,000+ views, covered by FOX 9, syndicated by Yahoo News, and picked up by Angry Asian Man blog. Named affected individual with direct quotes.
+**HIGH** - Video evidence with 400,000+ views, covered by FOX 9 and syndicated by Yahoo News. Named affected individual with direct quotes.

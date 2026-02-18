@@ -19,8 +19,9 @@ search_tags: us-citizen, citizen-check, excessive-force, src:other-local
 A U.S. citizen was detained by ICE agents outside Bowlocity bowling alley in Rochester on January 23, 2026. The man was handcuffed and loaded into a vehicle before being released shortly after. When state Rep. Kim Hicks asked agents why they were arresting him, an agent responded that the "vehicle is going back to an illegal" — but Hicks confirmed the car was registered to the man himself.
 
 ## Sources
-1. KAAL ABC 6 News (Jan 23, 2026): [Rochester officials, ICE agents tell different stories about Oak Terraces arrest](https://www.kaaltv.com/news/rochester-officials-ice-agents-tell-different-stories-about-oak-terraces-arrest/)
+1. KAAL ABC 6 News (Jan 24, 2026): [Rochester officials, ICE agents tell different stories about Oak Terraces arrest](https://www.kaaltv.com/news/rochester-officials-ice-agents-tell-different-stories-about-oak-terraces-arrest/)
 2. Post Bulletin (Jan 26, 2026): ['Never would I think this would happen,' Rochester mayor says](https://www.postbulletin.com/news/local/never-would-i-think-this-would-happen-rochester-mayor-says)
+3. KTTC (Jan 23, 2026): [ICE detains 73 people in local area, majority in Rochester](https://www.kttc.com/2026/01/23/ice-detains-73-people-local-area-majority-rochester/)
 
 ## Affected Individual(s)
 - **Name:** Not disclosed

@@ -16,7 +16,7 @@ search_tags: us-citizen, observer-intimidated, src:nyt, src:other-national
 # ICE Vehicles Stop at Observer's Home; Agent Photographs House While Another Holds AR-15
 
 ## Summary
-Katie Henly, 40, a project manager in local government, went out on January 21 to monitor suspected ICE agents. She confirmed two vehicles were federal and began following them. The vehicles turned onto her street and stopped at her house. An agent poked a camera out the window and photographed her home. Four agents exited; one held an AR-15-style rifle. Henly filed a sworn declaration in Tincher v. Noem.
+Katie Henly, 40, a project manager in local government, went out on January 21 to monitor suspected ICE agents. She identified two vehicles, texted their plates to her monitoring group to confirm they were federal, and began following them. The vehicles turned onto her street and stopped at her house, where an agent poked a camera out the SUV window and photographed her home. Henly continued following the SUV to a stop sign, where four agents exited; one held a camera and another carried an AR-15-style rifle. Henly filed a sworn declaration in Tincher v. Noem.
 
 ## Sources
 1. New York Times (Feb 13, 2026): [ICE Agents Menaced Minnesota Protesters at Their Homes, Filings Say](https://www.nytimes.com/2026/02/13/us/minneapolis-ice-agents-protester-home-visits.html)

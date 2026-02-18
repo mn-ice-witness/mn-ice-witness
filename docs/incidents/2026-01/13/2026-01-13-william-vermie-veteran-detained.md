@@ -32,7 +32,7 @@ Combat-wounded Army veteran William Vermie was detained for approximately eight 
 ## Timeline
 - **Afternoon** - Vermie observes ICE agents arresting two people near 34th Street and Park Avenue
 - **During arrest** - ICE agents move down sidewalk, shoving bystanders and ordering them to leave
-- **Shortly after** - Vermie grabbed by leg, taken to ground, handcuffed
+- **Shortly after** - Multiple agents grab Vermie's limbs, wrestle him to the ground, handcuff him
 - **After arrest** - Transported to Bishop Henry Whipple Federal Building
 - **Throughout detention** - Repeatedly asks for phone call, never receives one
 - **~8 hours later** - Released without charges, bruised but otherwise uninjured

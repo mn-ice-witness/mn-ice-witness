@@ -16,7 +16,7 @@ search_tags: us-citizen, observer-intimidated, src:nyt
 # ICE SUV Follows Observer 40 Minutes to His Plymouth Home
 
 ## Summary
-Daniel Woo, 29, a sound designer, drove to a St. Paul supermarket parking lot to monitor federal agents as part of a civilian observer network. The ICE SUV he was tracking followed him approximately 40 minutes to his neighborhood in Plymouth and parked in front of his house. Woo filed a sworn declaration in Tincher v. Noem. Exact date not specified in available sources; approximate mid-January 2026.
+Daniel Woo, 29, a sound designer, drove to a St. Paul supermarket parking lot to monitor federal agents as part of a civilian observer network. He followed a gray ICE SUV out of the lot and through the city; approximately 40 minutes later, the vehicle reached his neighborhood in Plymouth and parked in front of his house. Woo filed a sworn declaration in Tincher v. Noem. Exact date not specified in available sources; approximate mid-January 2026.
 
 ## Sources
 1. New York Times (Feb 13, 2026): [ICE Agents Menaced Minnesota Protesters at Their Homes, Filings Say](https://www.nytimes.com/2026/02/13/us/minneapolis-ice-agents-protester-home-visits.html)
@@ -35,7 +35,7 @@ Daniel Woo, 29, a sound designer, drove to a St. Paul supermarket parking lot to
 
 > "They just came over to intimidate me. To say, 'We know where you live.'"
 
-> "As someone who's an immigrant, who comes from places and has stories from relatives about what can happen when accountability of the government is not there, you feel even more motivation to protect what America has promised in the Constitution."
+> "They're coming to our home, Minnesota. As someone who's an immigrant, who comes from places and has stories from relatives about what can happen when accountability of the government is not there, you feel even more motivation to protect what America has promised in the Constitution."
 
 ## Related Incidents
 - [ACLU Sues to Protect Observers: Tincher v. Noem](#2025-12-17-tincher-v-noem-aclu-lawsuit) — Woo filed sworn declaration
