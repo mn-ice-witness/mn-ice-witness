@@ -1182,7 +1182,7 @@
       "city": "Minneapolis",
       "type": "immigrants",
       "status": "ongoing",
-      "affectedIndividualCitizenship": "unknown",
+      "affectedIndividualCitizenship": "various",
       "injuries": "none",
       "trustworthiness": "high",
       "created": "2026-01-19T09:50:58",
@@ -2116,6 +2116,44 @@
       "localMediaFiles": [],
       "aspectRatio": null,
       "mediaVersion": null
+    },
+    {
+      "filePath": "incidents/2026-01/08/2026-01-08-pablo-nieves-plymouth-home-depot.md",
+      "title": "Daycare Handyman with Pending Asylum Case Detained at Home Depot, Sent to Texas for Two Weeks",
+      "summary": "Pablo Nieves, a handyman at the Mis Amigos Spanish Immersion preschool chain, was detained by ICE on January 8 in a Home Depot parking lot in Plymouth after purchasing building materials. He had just gotten off the phone with his 16-year-old daughter Valeria. Federal agents blocked him in.",
+      "latestUpdate": "[Star Tribune profile](https://www.startribune.com/ice-crackdown-in-minnesota-hits-asylum-seekers/601571134) reveals Nieves is a Venezuelan asylum-seeker who overstayed a nonimmigrant visa, not a legal resident as previously reported. He was released on bond Jan. 24 and returned to Minnesota. DHS 30-day appeal window closed Feb. 17. Entry reclassified from citizens to immigrants and corrected.",
+      "correctionNote": "Entry reclassified from `citizens` to `immigrants` and corrected factual details.",
+      "date": "2026-01-08",
+      "time": "unknown",
+      "location": "Home Depot parking lot",
+      "city": "Plymouth",
+      "type": "immigrants",
+      "status": "resolved",
+      "affectedIndividualCitizenship": "asylum-seeker",
+      "injuries": "none",
+      "trustworthiness": "corrected",
+      "created": "2026-01-25T21:18:19",
+      "lastUpdated": "2026-02-18T13:06:14",
+      "mediaCount": 0,
+      "notable": false,
+      "searchTags": [
+        "family-separation",
+        "workplace-raid",
+        "children",
+        "src:star-tribune"
+      ],
+      "hasLocalMedia": true,
+      "localMediaType": "image",
+      "localMediaPath": "media/2026-01/08/2026-01-08-pablo-nieves-plymouth-home-depot.jpg",
+      "localMediaOgPath": null,
+      "localMediaFiles": [
+        {
+          "type": "image",
+          "path": "media/2026-01/08/2026-01-08-pablo-nieves-plymouth-home-depot.jpg"
+        }
+      ],
+      "aspectRatio": 1.426872770511296,
+      "mediaVersion": 1771441801
     },
     {
       "filePath": "incidents/2026-01/08/2026-01-08-freddy-brooklyn-center-bus-stop.md",

@@ -100,7 +100,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/23/2026-01-23-oak-terraces-obstruction-arrest.md | 2026-01-23 | Rochester | observers | Woman Arrested at Oak Terraces After Challenging ICE Presence on Private Property
 - incidents/2026-01/23/2026-01-23-segundo-family-self-deports-ecuador.md | 2026-01-23 | Minneapolis | immigrants | Ecuadorian Roofer, Wife, and 14-Year-Old Son Self-Deport After Nearly Five Years in Minnesota; Leave Behind Children and U.S. Citizen Grandson
 - incidents/2026-01/23/2026-01-23-tique-marin-church-volunteer-burnsville.md | 2026-01-23 | Minneapolis | immigrants | Church Food Distribution Volunteer Detained at Routine Immigration Check-In
-- incidents/2026-01/23/2026-01-23-mirkkovitch-plymouth-gun-brandished.md | 2026-01-23 | Plymouth | observers | Plainclothes Federal Agent Brandishes Gun at Resident Recording ICE Vehicles at Plymouth Hotel
+- incidents/2026-01/23/2026-01-23-mirkkovitch-plymouth-gun-brandished.md | 2026-01-23 | Plymouth | observers | Plainclothes Individual Brandishes Gun at Resident Recording ICE Vehicles at Plymouth Hotel
 - incidents/2026-01/23/2026-01-23-50k-march.md | 2026-01-23 | Minneapolis | background | An Estimated 50,000 to 100,000 March in Subzero Temperatures in "Day of Truth & Freedom" Protest
 - incidents/2026-01/22/2026-01-22-little-canada-elementary-secure-protocol.md | 2026-01-22 | Little Canada | schools-hospitals | Little Canada Elementary Goes to Secure Protocol Due to ICE in Parking Lot
 - incidents/2026-01/22/2026-01-22-tipan-toddler-father-detained.md | 2026-01-22 | Minneapolis | immigrants | 2-Year-Old and Father Detained Near Powderhorn; Flown to Texas Despite Court Order
@@ -230,6 +230,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/08/2026-01-08-rochester-gates-complex.md | 2026-01-08 | Rochester | immigrants | Multiple ICE Arrests in Rochester; Activist Documents Agent Using Hammer on Car Window
 - incidents/2026-01/08/2026-01-08-whipple-tear-gas-renee-good-protest.md | 2026-01-08 | Minneapolis | observers | Border Patrol Chief Bovino and Agents Tear Gas Peaceful Protesters at Whipple Building Morning After Renee Good's Killing
 - incidents/2026-01/08/2026-01-08-thi-dua-vang-st-paul.md | 2026-01-08 | St. Paul | citizens | Christian Refugee Detained, Shipped to Texas, and Dumped in Houston With No Way Home
+- incidents/2026-01/08/2026-01-08-pablo-nieves-plymouth-home-depot.md | 2026-01-08 | Plymouth | immigrants | Daycare Handyman with Pending Asylum Case Detained at Home Depot, Sent to Texas for Two Weeks
 - incidents/2026-01/08/2026-01-08-hennepin-healthcare-i9-subpoena.md | 2026-01-08 | Minneapolis | schools-hospitals | DHS Subpoenas Hennepin Healthcare Employee Records for 7,000+ Workers
 - incidents/2026-01/08/2026-01-08-jesse-ventura-roosevelt.md | 2026-01-08 | Minneapolis | schools-hospitals | Jesse Ventura Visits Roosevelt High School, Condemns ICE Actions
 - incidents/2026-01/08/2026-01-08-freddy-brooklyn-center-bus-stop.md | 2026-01-08 | Brooklyn Center | immigrants | Work Permit Holder Detained at Bus Stop; Agents Knee on Neck, Pepper Sprayed
@@ -244,7 +245,6 @@ Published incidents visible on the main site.
 - incidents/2026-01/07/2026-01-07-jardin-daycare-teacher-detained.md | 2026-01-07 | Minneapolis | schools-hospitals, immigrants | Daycare Teacher with Work Permit Detained Outside Minneapolis Preschool
 - incidents/2026-01/07/2026-01-07-luis-ramirez-orozco-shakopee.md | 2026-01-07 | Shakopee | citizens | U.S. Citizen Tackled by ICE at Shakopee Construction Site, Hospitalized
 - incidents/2026-01/07/2026-01-07-renee-good-shooting.md | 2026-01-07 | Minneapolis | observers | Renee Nicole Good Shot and Killed by ICE Agent
-- incidents/2026-01/07/2026-01-07-pablo-nieves-mis-amigos-golden-valley.md | 2026-01-07 | Golden Valley | citizens | Daycare Worker with Legal Status Detained While Running Errands, Sent to Texas
 - incidents/2026-01/07/2026-01-07-clergy-pepper-sprayed.md | 2026-01-07 | Minneapolis | observers | Clergy Pepper Sprayed at Scene of Renee Good Shooting
 - incidents/2026-01/07/2026-01-07-dhs-response-renee-good.md | 2026-01-07 | Minneapolis | response | DHS Response: Good "Weaponized Her Vehicle"
 - incidents/2026-01/07/2026-01-07-teenager-tackled-snow.md | 2026-01-07 | Minneapolis | immigrants | Teenager Tackled in Snow by ICE Agent
@@ -527,12 +527,13 @@ Previously published but retracted due to contradicting information. See inciden
 
 ---
 
-## CORRECTIONS (2 incidents)
+## CORRECTIONS (3 incidents)
 
 Published with significant factual errors that have been corrected. Visible at /corrections.
 
 - incidents/2026-01/21/2026-01-21-bovino-smoke-canister-playground.md | 2026-01-21 | Minneapolis | schools-hospitals | Border Patrol Commander Greg Bovino Deploys Smoke Canister Near School at Dismissal
 - incidents/2026-01/12/2026-01-12-silva-sosa-inver-grove-heights.md | 2026-01-12 | Inver Grove Heights | immigrants | Silva Sosa Parents Detained Days After I-130 Approval
+- incidents/2026-01/08/2026-01-08-pablo-nieves-plymouth-home-depot.md | 2026-01-08 | Plymouth | immigrants | Daycare Handyman with Pending Asylum Case Detained at Home Depot, Sent to Texas for Two Weeks
 
 ---
 

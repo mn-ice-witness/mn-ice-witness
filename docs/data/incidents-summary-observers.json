@@ -387,7 +387,7 @@
     {
       "filePath": "incidents/2026-01/26/2026-01-26-emily-beltz-observer-intimidated.md",
       "title": "Agent Yells Observer's Name and Home Address from Unmarked SUV",
-      "summary": "Emily Beltz, 44, drove to an apartment building in a Minneapolis suburb on January 26 where ICE agents were reportedly stationed. When an SUV left the scene, Beltz followed. The SUV suddenly turned and accelerated toward her car. A masked agent leaned out the passenger window and shouted \"Emily, Emily, we're going to take you home,\" then shouted the address where Beltz lives with her husband and 5-year-old child. Beltz filed a sworn declaration in Tincher v. Noem.",
+      "summary": "Emily Beltz, 44, drove to an apartment building in a Minneapolis suburb on January 26 where ICE agents were reportedly stationed. When an SUV left the scene, Beltz followed. The SUV suddenly turned and accelerated toward her car. A masked female agent leaned out the passenger window and shouted \"Emily, Emily, we're going to take you home,\" then shouted the address where Beltz lives with her husband and 5-year-old child. Beltz filed a sworn declaration in Tincher v. Noem.",
       "latestUpdate": null,
       "correctionNote": null,
       "date": "2026-01-26",
@@ -457,7 +457,7 @@
     {
       "filePath": "incidents/2026-01/24/2026-01-24-javier-witness-detained.md",
       "title": "Minneapolis Man Detained for Hours After Witnessing Pretti Shooting",
-      "summary": "A Minneapolis man using the pseudonym \"Javier\" for safety reasons was among dozens of U.S. citizens detained by federal agents after witnessing the shooting of Alex Pretti. He overheard agents referring to detainees as \"USCs\" (United States citizens). Javier was taken to the Bishop Henry Whipple Federal Building and held for several hours, first alone, then with almost two dozen other observers from the scene. He was given water, food, and medical attention before being released with no charges filed.",
+      "summary": "A Minneapolis man using the pseudonym \"Javier\" for safety reasons was among dozens of U.S. citizens detained by federal agents after witnessing the shooting of Alex Pretti. He overheard agents referring to detainees as \"USCs\" (United States citizens in custody). Javier was taken to the Bishop Henry Whipple Federal Building and held for several hours, first alone, then with almost two dozen other observers from the scene. He was given water, food, and medical attention before being released with no charges filed.",
       "latestUpdate": null,
       "correctionNote": null,
       "date": "2026-01-24",
@@ -699,8 +699,8 @@
     },
     {
       "filePath": "incidents/2026-01/23/2026-01-23-mirkkovitch-plymouth-gun-brandished.md",
-      "title": "Plainclothes Federal Agent Brandishes Gun at Resident Recording ICE Vehicles at Plymouth Hotel",
-      "summary": "Shane Mirkkovitch was recording federal immigration officer vehicles in the Residence Inn parking lot in Plymouth when a plainclothes individual approached and demanded to know who he was. The individual then retrieved a firearm from his vehicle and brandished it while repeating the demands. Mirkkovitch ordered the person to put the weapon away and recorded the encounter on video. He filed complaints with Plymouth Police and the hotel.",
+      "title": "Plainclothes Individual Brandishes Gun at Resident Recording ICE Vehicles at Plymouth Hotel",
+      "summary": "Shane Mirkkovitch was recording federal immigration officer vehicles in the Residence Inn parking lot in Plymouth when a plainclothes individual approached and demanded to know who he was. The individual then retrieved a firearm from his vehicle and brandished it while repeating the demands. Mirkkovitch demanded the person put the firearm away and recorded the encounter on video. He filed complaints with Plymouth Police and the hotel.",
       "latestUpdate": null,
       "correctionNote": null,
       "date": "2026-01-23",
@@ -709,7 +709,7 @@
       "city": "Plymouth",
       "type": "observers",
       "status": "resolved",
-      "affectedIndividualCitizenship": "us-citizen",
+      "affectedIndividualCitizenship": "unknown",
       "injuries": "none",
       "trustworthiness": "medium",
       "created": "2026-02-08T22:53:33",
@@ -773,7 +773,7 @@
     {
       "filePath": "incidents/2026-01/21/2026-01-21-katie-henly-home-photographed.md",
       "title": "ICE Vehicles Stop at Observer's Home; Agent Photographs House While Another Holds AR-15",
-      "summary": "Katie Henly, 40, a project manager in local government, went out on January 21 to monitor suspected ICE agents. She confirmed two vehicles were federal and began following them. The vehicles turned onto her street and stopped at her house. An agent poked a camera out the window and photographed her home. Four agents exited; one held an AR-15-style rifle. Henly filed a sworn declaration in Tincher v. Noem.",
+      "summary": "Katie Henly, 40, a project manager in local government, went out on January 21 to monitor suspected ICE agents. She identified two vehicles, texted their plates to her monitoring group to confirm they were federal, and began following them. The vehicles turned onto her street and stopped at her house, where an agent poked a camera out the SUV window and photographed her home. Henly continued following the SUV to a stop sign, where four agents exited; one held a camera and another carried an AR-15-style rifle. Henly filed a sworn declaration in Tincher v. Noem.",
       "latestUpdate": null,
       "correctionNote": null,
       "date": "2026-01-21",
@@ -1066,7 +1066,7 @@
     {
       "filePath": "incidents/2026-01/15/2026-01-15-daniel-woo-followed-home.md",
       "title": "ICE SUV Follows Observer 40 Minutes to His Plymouth Home",
-      "summary": "Daniel Woo, 29, a sound designer, drove to a St. Paul supermarket parking lot to monitor federal agents as part of a civilian observer network. The ICE SUV he was tracking followed him approximately 40 minutes to his neighborhood in Plymouth and parked in front of his house. Woo filed a sworn declaration in Tincher v. Noem. Exact date not specified in available sources; approximate mid-January 2026.",
+      "summary": "Daniel Woo, 29, a sound designer, drove to a St. Paul supermarket parking lot to monitor federal agents as part of a civilian observer network. He followed a gray ICE SUV out of the lot and through the city; approximately 40 minutes later, the vehicle reached his neighborhood in Plymouth and parked in front of his house. Woo filed a sworn declaration in Tincher v. Noem. Exact date not specified in available sources; approximate mid-January 2026.",
       "latestUpdate": null,
       "correctionNote": null,
       "date": "2026-01-15",

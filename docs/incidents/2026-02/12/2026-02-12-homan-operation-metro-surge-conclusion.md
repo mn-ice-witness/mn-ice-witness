@@ -86,7 +86,7 @@ Minneapolis City Council President Elliott Payne and Council Member Jason Chavez
 - Homan said he would "remain on the ground for a little longer" to oversee the drawdown
 
 ## Context
-The announcement came the same morning that top Minnesota officials testified at a U.S. Senate hearing on immigration enforcement. Attorney General Keith Ellison told senators that Operation Metro Surge caused "real harm" and was about "retribution and reckoning." NBC News reported Trump's approval rating had declined to 39%, with 49% of adults strongly disapproving of his immigration handling — up from 38% the previous summer. Two U.S. citizens — [Renee Good](/entry/2026-01-07-renee-good-shooting) and [Alex Pretti](/entry/2026-01-24-alex-pretti-shooting) — were fatally shot by federal agents during the operation.
+The announcement came the same morning that top Minnesota officials testified at a U.S. Senate hearing on immigration enforcement. Attorney General Keith Ellison told senators that Operation Metro Surge caused "real harm" and was about "retribution." NBC News reported Trump's approval rating had declined to 39%, with 49% of adults strongly disapproving of his immigration handling — up from 38% the previous summer. Two U.S. citizens — [Renee Good](/entry/2026-01-07-renee-good-shooting) and [Alex Pretti](/entry/2026-01-24-alex-pretti-shooting) — were fatally shot by federal agents during the operation.
 
 ## Related Incidents
 - [DHS Launches Operation Metro Surge](#2025-12-01-operation-metro-surge-launched) — The beginning
