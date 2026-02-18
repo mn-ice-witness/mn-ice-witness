@@ -627,6 +627,43 @@
       "mediaVersion": null
     },
     {
+      "filePath": "incidents/2026-01/24/2026-01-24-ricky-chandee-laos-deportation.md",
+      "title": "Laotian Refugee Faces Deportation for 1992 Conviction After 30 Years Under Supervision",
+      "summary": "At \"Ricky\" Chandee, 52, a Laotian refugee who came to the U.S. in 1980 at age six, was arrested by ICE at his Brooklyn Park home on January 24 based on a 1992 assault conviction and a 1995 deportation order that Laos had refused to enforce for decades. Chandee had lived legally under an order of supervision with a work permit and worked as an engineering technician for the City of Minneapolis for 27 years. He was transferred to detention in El Paso, Texas, where a federal court rejected his attorney's motion to block deportation on February 14.",
+      "latestUpdate": null,
+      "correctionNote": null,
+      "date": "2026-01-24",
+      "time": "\"8:15\"",
+      "location": "Residence",
+      "city": "Brooklyn Park",
+      "type": "immigrants",
+      "status": "ongoing",
+      "affectedIndividualCitizenship": "asylum-seeker",
+      "injuries": "none",
+      "trustworthiness": "high",
+      "created": "2026-02-17T22:33:55",
+      "lastUpdated": "2026-02-17T22:33:55",
+      "mediaCount": 0,
+      "notable": false,
+      "searchTags": [
+        "family-separation",
+        "legal-resident",
+        "src:mpr"
+      ],
+      "hasLocalMedia": true,
+      "localMediaType": "image",
+      "localMediaPath": "media/2026-01/24/2026-01-24-ricky-chandee-laos-deportation.jpg",
+      "localMediaOgPath": null,
+      "localMediaFiles": [
+        {
+          "type": "image",
+          "path": "media/2026-01/24/2026-01-24-ricky-chandee-laos-deportation.jpg"
+        }
+      ],
+      "aspectRatio": 1.2806830309498398,
+      "mediaVersion": 1771389655
+    },
+    {
       "filePath": "incidents/2026-01/24/2026-01-24-emilio-pena-jimenez-deported.md",
       "title": "Lakeville Business Owner Deported to Mexico Despite Two Court Orders",
       "summary": "Emilio Pena Jimenez, a tile installation business owner who has lived in the U.S. since 2000 with no criminal record, was arrested without a warrant at a Walmart in Apple Valley on January 24. Despite two federal court orders \u2014 a January 30 temporary restraining order and a February 2 order demanding his immediate release in Minnesota \u2014 ICE transported him to the El Paso-Juarez border and released him into Mexico. His attorney alleges he was denied diabetes medication and attorney access in detention, and signed voluntary departure documents under duress.",

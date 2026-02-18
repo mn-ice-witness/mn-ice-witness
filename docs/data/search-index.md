@@ -16,7 +16,7 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (274 incidents)
+## CURRENT (275 incidents)
 
 Published incidents visible on the main site.
 
@@ -87,6 +87,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/25/2026-01-25-vance-engineered-chaos-unique.md | 2026-01-25 | Minneapolis | response | Vance on Pretti: "Engineered Chaos" Unique to Minneapolis
 - incidents/2026-01/24/2026-01-24-clayton-kelly-observer-pepper-sprayed.md | 2026-01-24 | Minneapolis | observers | Observer Tackled and Pepper-Sprayed Directly in Eye Minutes After Pretti Killing
 - incidents/2026-01/24/2026-01-24-javier-witness-detained.md | 2026-01-24 | Minneapolis | observers | Minneapolis Man Detained for Hours After Witnessing Pretti Shooting
+- incidents/2026-01/24/2026-01-24-ricky-chandee-laos-deportation.md | 2026-01-24 | Brooklyn Park | immigrants | Laotian Refugee Faces Deportation for 1992 Conviction After 30 Years Under Supervision
 - incidents/2026-01/24/2026-01-24-alex-pretti-shooting.md | 2026-01-24 | Minneapolis | observers | Alex Pretti Shot and Killed by Federal Agents
 - incidents/2026-01/24/2026-01-24-gust-johnson-veteran-pepper-sprayed.md | 2026-01-24 | Minneapolis | observers | 76-Year-Old Marine Veteran Pepper Sprayed Three Times, Detained 10 Hours at Pretti Scene
 - incidents/2026-01/24/2026-01-24-jana-shortal-journalist-pepper-sprayed.md | 2026-01-24 | Minneapolis | observers | KARE 11 Journalist Jana Shortal Pushed, Pepper Sprayed While Covering Fatal Shooting
