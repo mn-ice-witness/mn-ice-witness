@@ -1020,7 +1020,7 @@
       "city": "Minneapolis",
       "type": "response",
       "status": "ongoing",
-      "affectedIndividualCitizenship": "various",
+      "affectedIndividualCitizenship": "n/a",
       "injuries": "none",
       "trustworthiness": "high",
       "created": "2026-01-15T23:23:27",
@@ -1029,6 +1029,7 @@
       "notable": false,
       "searchTags": [
         "src:wcco",
+        "src:cbs",
         "src:other-national",
         "src:abc",
         "src:mpr"

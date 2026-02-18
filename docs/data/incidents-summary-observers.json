@@ -1252,8 +1252,7 @@
         "observer-detained",
         "us-citizen",
         "excessive-force",
-        "src:other-local",
-        "src:other-national"
+        "src:other-local"
       ],
       "hasLocalMedia": true,
       "localMediaType": "image",

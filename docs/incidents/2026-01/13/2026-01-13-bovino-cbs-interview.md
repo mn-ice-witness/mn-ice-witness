@@ -5,12 +5,12 @@ location: WCCO-TV Interview
 city: Minneapolis
 type: response
 status: ongoing
-affected_individual_citizenship: various
+affected_individual_citizenship: n/a
 injuries: none
 trustworthiness: high
 created: 2026-01-15T23:23:27
 last_updated: 2026-01-15T23:23:27
-search_tags: src:wcco, src:other-national, src:abc, src:mpr
+search_tags: src:wcco, src:cbs, src:other-national, src:abc, src:mpr
 ---
 
 # Border Patrol Commander Bovino CBS Interview
@@ -61,15 +61,16 @@ U.S. Border Patrol Commander Gregory Bovino sat down with WCCO's Esme Murphy for
 | **Abdikadir Noor** | Dec 16, 2025 | Citizen detained at Karmel Mall; agent made racist statements |
 | **Adnan Hisri** | Dec 14, 2025 | Rep. Omar's son stopped leaving Target; released after showing passport |
 | **Mahamed Eydarus** | Dec 10, 2025 | Citizen detained; repeatedly told agents he was citizen |
+
 ### Claim: De-escalation efforts underway
 > "Every day we de-escalate."
 
-**CBS News Observation:** Reporter Nicole Sganga reported witnessing agents "confronting the protesters outside of the facility, telling demonstrators to move back and antagonizing them" — contradicting Bovino's claim.
+**CBS News Observation:** Reporter Nicole Sganga described agents walking "directly in front of the demonstrators," "telling them to move back, antagonizing them, getting up into their faces" — contradicting Bovino's claim.
 
 ### On Agent Who Shot Renee Good: "Hats off"
 In a separate Fox News interview with Sean Hannity, Bovino praised the agent who shot Renee Good:
 
-> "Hats off to that ICE agent. I'm glad he made it out alive. I'm glad he's with his family."
+> "Hats off to that ICE agent. I'm glad he made it out alive."
 
 He described Good's Honda Pilot as "a 4,000-pound missile" and characterized the shooting as justified.
 

@@ -25,9 +25,9 @@ Nimco Omar, a U.S. citizen and Somali American, was surrounded by four masked fe
 4. X Video (Jan 12, 2026): [FOX 9 coverage on X](https://x.com/FOX9/status/2010898391388000482)
 5. Facebook Video (Jan 12, 2026): [Facebook reel of encounter](https://www.facebook.com/reel/853406107488988)
 6. FOX 9 (Jan 12, 2026): [Minneapolis woman calmly resists ICE demand for ID, birth country](https://www.fox9.com/news/minneapolis-woman-calmly-resists-ice-demand-id-birth-country)
-7. Common Dreams (Jan 12, 2026): ['Where Were You Born?': ICE Demanding Citizens Show Their Papers in Minneapolis](https://www.commondreams.org/news/ice-citizen-checks-minneapolis)
-8. The Real News (Jan 12, 2026): ['Where were you born?' ICE conducting show-me-your-papers stops in Minnesota neighborhoods](https://therealnews.com/ice-show-me-your-papers-stops-in-minnesota-neighborhoods)
-9. Yahoo News (Jan 12, 2026): [Woman Stands Firm Against Border Patrol Agent's Demand for ID in Minneapolis](https://www.yahoo.com/news/videos/woman-stands-firm-against-border-002529662.html)
+7. Common Dreams (Jan 13, 2026): ['Where Were You Born?': ICE Demanding Citizens Show Their Papers in Minneapolis](https://www.commondreams.org/news/ice-citizen-checks-minneapolis)
+8. The Real News (Jan 14, 2026): ['Where were you born?' ICE conducting show-me-your-papers stops in Minnesota neighborhoods](https://therealnews.com/ice-show-me-your-papers-stops-in-minnesota-neighborhoods)
+9. Yahoo News (Jan 13, 2026): [Woman Stands Firm Against Border Patrol Agent's Demand for ID in Minneapolis](https://www.yahoo.com/news/videos/woman-stands-firm-against-border-002529662.html)
 
 ## Affected Individual(s)
 - **Name:** Nimco Omar
