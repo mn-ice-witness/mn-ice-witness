@@ -619,7 +619,8 @@
         "src:other-national",
         "src:kare11",
         "src:mn-reformer",
-        "src:sahan-journal"
+        "src:sahan-journal",
+        "src:mpr"
       ],
       "hasLocalMedia": false,
       "localMediaType": null,

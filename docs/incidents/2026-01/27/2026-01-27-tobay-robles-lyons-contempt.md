@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: high
 created: 2026-01-27T08:47:47
 last_updated: 2026-02-02T22:24:26
-search_tags: src:nyt, src:nbc, src:wapo, src:cbs, src:abc, src:pbs, src:other-national, src:kare11, src:mn-reformer, src:sahan-journal
+search_tags: src:nyt, src:nbc, src:wapo, src:cbs, src:abc, src:pbs, src:other-national, src:kare11, src:mn-reformer, src:sahan-journal, src:mpr
 ---
 
 # Ecuadorean Man Held 3 Weeks Despite Court Order; Judge Orders ICE Director to Appear for Contempt
@@ -38,22 +38,23 @@ Federal Judge Patrick Schiltz ordered ICE's acting director Todd Lyons to person
 10. CNBC (Jan 28, 2026): ['ICE is not a law unto itself,' Minnesota judge says](https://www.cnbc.com/2026/01/28/ice-immigrant-minnesota-contempt-released.html)
 11. Sahan Journal (Jan 2026): [Judge demands head of ICE appear at Minnesota court hearing](https://sahanjournal.com/immigration/judge-orders-ice-leader-todd-lyons-appear-court-minnesota/)
 12. Minnesota Reformer (Jan 27, 2026): [ICE releases detainee following slapdown from federal judge](https://minnesotareformer.com/2026/01/27/ice-releases-detainee-following-slapdown-from-federal-judge/)
+13. MPR News (Jan 27, 2026): [Judge orders ICE director to appear in federal court in Minneapolis](https://www.mprnews.org/story/2026/01/27/judge-orders-ice-director-to-appear-federal-court-minneapolis)
 
 ## Affected Individual(s)
 
 - **Name:** Juan Hugo Tobay Robles
 - **Citizenship:** Ecuadorean, entered U.S. illegally in 1999 as a minor
 - **Detention Location:** Fort Snelling, Minnesota
-- **Status:** In custody since January 6, 2026; court found detention improper under federal law
+- **Status:** Released January 28, 2026 in Texas; had been in custody since January 6
 
 ## Timeline
 
 - **Jan 6** - Tobay Robles detained by immigration agents.
 - **Jan 14** - Judge Schiltz orders ICE to allow Tobay Robles to challenge detention at a hearing within one week, or release him; determines ICE is holding him under improper reading of federal law.
-- **Jan 27 (evening)** - Judge Schiltz issues ruling summoning ICE Acting Director Todd Lyons to appear in court Friday to explain why he should not be held in contempt
-- **Jan 27 (~1:00 p.m.)** - Tobay Robles released from detention in Texas
-- **Jan 28** - Supporter drove from Minnesota to Texas to bring Tobay Robles home
-- **Jan 31 (Friday)** - Contempt hearing canceled due to release
+- **Jan 27 (evening)** - Judge Schiltz issues ruling summoning ICE Acting Director Todd Lyons to appear in court Friday to explain why he should not be held in contempt.
+- **Jan 28** - Tobay Robles released from detention in Texas.
+- **Jan 28** - Contempt hearing canceled following release.
+- **Jan 28** - Supporter drove from Minnesota to Texas to bring Tobay Robles home.
 
 ## Court Order Details
 
