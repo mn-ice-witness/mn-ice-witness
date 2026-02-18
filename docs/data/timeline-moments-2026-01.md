@@ -32,11 +32,11 @@ Border Patrol agents descend on Roosevelt High School during dismissal, tackle p
 
 ---
 date: 2026-01-07
-title: "Citizen Checks" Begin
+title: Viral Video Exposes "Citizen Checks"
 incident: 2026-01-07-ahmed-hassan-uber-driver
 source:
 ---
-Somali-American U.S. citizen Ahmed Bin Hassan, an Uber driver, is confronted by over a dozen masked agents at the airport. An agent tells him: "I can hear you don't have the same accent as me." The viral video initiates a pattern — in the weeks that follow, dozens of U.S. citizens of color are stopped and ordered to prove their citizenship, including [Nimco Omar](/entry/2026-01-12-nimco-omar-citizen-check).
+Somali-American U.S. citizen Ahmed Bin Hassan, an Uber driver, is confronted by over a dozen masked agents at the airport. An agent tells him: "I can hear you don't have the same accent as me." The video is viewed more than 500,000 times, bringing national attention to a pattern that had been underway since at least [early December](/entry/2025-12-02-ali-dahir-citizen-check) — in the weeks that follow, dozens more U.S. citizens of color are stopped and ordered to prove their citizenship, including [Nimco Omar](/entry/2026-01-12-nimco-omar-citizen-check).
 
 ---
 date: 2026-01-08
