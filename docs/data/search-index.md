@@ -77,7 +77,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/27/2026-01-27-homan-draw-down-minneapolis.md | 2026-01-27 | Minneapolis | response | Homan Takes Command, Begins Operation Metro Surge Draw Down
 - incidents/2026-01/27/2026-01-27-northeast-mpls-jenny-family-separated.md | 2026-01-27 | Minneapolis | immigrants | "I Was Yelling at Them to Take Me With Him": Mother Holds Daughter as Husband Detained in Northeast Minneapolis
 - incidents/2026-01/27/2026-01-27-tobay-robles-lyons-contempt.md | 2026-01-27 | Minneapolis | immigrants | Ecuadorean Man Held 3 Weeks Despite Court Order; Judge Orders ICE Director to Appear for Contempt
-- incidents/2026-01/26/2026-01-26-christian-salamanca-ice-chase-crash.md | 2026-01-26 | St. Paul | immigrants | Asylum Seeker Hospitalized After Wife Says ICE Rammed His Car Into Telephone Pole
+- incidents/2026-01/26/2026-01-26-christian-salamanca-ice-chase-crash.md | 2026-01-26 | St. Paul | citizens | Asylum Seeker Hospitalized After Wife Says ICE Rammed His Car Into Telephone Pole
 - incidents/2026-01/26/2026-01-26-el-potro-brainerd.md | 2026-01-26 | Brainerd | immigrants | Four Restaurant Workers Detained at El Potro in Brainerd
 - incidents/2026-01/26/2026-01-26-dhs-response-death-threats.md | 2026-01-26 | Minneapolis | response | DHS Response: ICE Officers Face "8,000% Increase in Death Threats"; Publishes Minnesota Voicemail
 - incidents/2026-01/26/2026-01-26-emily-beltz-observer-intimidated.md | 2026-01-26 | Minneapolis | observers | Agent Yells Observer's Name and Home Address from Unmarked SUV
@@ -97,7 +97,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/23/2026-01-23-bowlocity-us-citizen-detained.md | 2026-01-23 | Rochester | citizens | U.S. Citizen Detained Outside Rochester Bowling Alley, Released After Rep. Kim Hicks Intervenes
 - incidents/2026-01/23/2026-01-23-bovino-experts-dealing-children.md | 2026-01-23 | Minneapolis | response | Bovino: "We Are Experts in Dealing With Children"
 - incidents/2026-01/23/2026-01-23-oak-terraces-obstruction-arrest.md | 2026-01-23 | Rochester | observers | Woman Arrested at Oak Terraces After Challenging ICE Presence on Private Property
-- incidents/2026-01/23/2026-01-23-segundo-family-self-deports-ecuador.md | 2026-01-23 | Minneapolis | immigrants | Ecuadorian Roofer, Wife, and 14-Year-Old Son Self-Deport After Five Years in Minnesota; Leave Three Adult Children Behind
+- incidents/2026-01/23/2026-01-23-segundo-family-self-deports-ecuador.md | 2026-01-23 | Minneapolis | immigrants | Ecuadorian Roofer, Wife, and 14-Year-Old Son Self-Deport After Nearly Five Years in Minnesota; Leave Behind Children and U.S. Citizen Grandson
 - incidents/2026-01/23/2026-01-23-tique-marin-church-volunteer-burnsville.md | 2026-01-23 | Minneapolis | immigrants | Church Food Distribution Volunteer Detained at Routine Immigration Check-In
 - incidents/2026-01/23/2026-01-23-mirkkovitch-plymouth-gun-brandished.md | 2026-01-23 | Plymouth | observers | Plainclothes Federal Agent Brandishes Gun at Resident Recording ICE Vehicles at Plymouth Hotel
 - incidents/2026-01/23/2026-01-23-50k-march.md | 2026-01-23 | Minneapolis | background | Tens of Thousands March in Subzero Temperatures in "Day of Truth & Freedom" Protest

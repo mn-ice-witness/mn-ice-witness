@@ -322,7 +322,6 @@
       "searchTags": [
         "us-citizen",
         "citizen-check",
-        "vehicle-pursuit",
         "src:mpr"
       ],
       "hasLocalMedia": true,
@@ -337,6 +336,45 @@
       ],
       "aspectRatio": 1.430274135876043,
       "mediaVersion": 1769985955
+    },
+    {
+      "filePath": "incidents/2026-01/26/2026-01-26-christian-salamanca-ice-chase-crash.md",
+      "title": "Asylum Seeker Hospitalized After Wife Says ICE Rammed His Car Into Telephone Pole",
+      "summary": "Christian Salamanca, a Colombian asylum seeker with a valid visa and work permit, was hospitalized with serious injuries after his wife says ICE agents chased him and rammed his car into a telephone pole at McDonough Recreation Center in St. Paul. Nicole Salamanca says her husband called her in a panic around 11:15 a.m. on January 26 while driving to work, saying someone was following him. At her suggestion, he drove to the recreation center hoping it would be a safer location. According to Nicole, as Christian turned into the parking lot, ICE agents rammed his car from behind, pushing it into a telephone pole. Photos show the vehicle crushed between the pole and signage. Christian managed to exit the car and ran inside the building to hide.",
+      "latestUpdate": null,
+      "correctionNote": null,
+      "date": "2026-01-26",
+      "time": "\"11:15\"",
+      "location": "McDonough Recreation Center, St. Paul",
+      "city": "St. Paul",
+      "type": "citizens",
+      "status": "ongoing",
+      "affectedIndividualCitizenship": "legal-resident",
+      "injuries": "serious",
+      "trustworthiness": "medium",
+      "created": "2026-01-31T08:29:19",
+      "lastUpdated": "2026-02-09T21:12:05",
+      "mediaCount": 0,
+      "notable": false,
+      "searchTags": [
+        "legal-resident",
+        "excessive-force",
+        "vehicle-pursuit",
+        "src:kare11",
+        "src:other-national"
+      ],
+      "hasLocalMedia": true,
+      "localMediaType": "video",
+      "localMediaPath": "media/2026-01/26/2026-01-26-christian-salamanca-ice-chase-crash.mp4",
+      "localMediaOgPath": "media/2026-01/26/2026-01-26-christian-salamanca-ice-chase-crash-og-2s-1769878633.jpg",
+      "localMediaFiles": [
+        {
+          "type": "video",
+          "path": "media/2026-01/26/2026-01-26-christian-salamanca-ice-chase-crash.mp4"
+        }
+      ],
+      "aspectRatio": 1.8166666666666667,
+      "mediaVersion": 1769912968
     },
     {
       "filePath": "incidents/2026-01/23/2026-01-23-bowlocity-us-citizen-detained.md",

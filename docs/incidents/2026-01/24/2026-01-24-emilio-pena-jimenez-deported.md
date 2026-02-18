@@ -48,7 +48,7 @@ The government argues Pena Jimenez agreed to voluntarily leave the country two d
 
 ## Court Order Defiance Pattern
 
-This is at least the third documented case where federal authorities have defied Minnesota court orders during Operation Metro Surge. See also: [Tobay Robles Lyons](#2025-12-29-tobay-robles-lyons-deported) and the [Velasco family](#2026-01-22-velasco-family-hopkins).
+This is at least the third documented case where federal authorities have defied Minnesota court orders during Operation Metro Surge. See also: [Tobay Robles Lyons](#2026-01-27-tobay-robles-lyons-contempt) and the [Velasco family](#2026-01-22-velasco-family-hopkins).
 
 ## Editorial Assessment
 

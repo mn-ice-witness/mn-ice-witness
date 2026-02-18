@@ -5,7 +5,7 @@ location: Minneapolis-St. Paul International Airport
 city: Minneapolis
 type: immigrants
 status: resolved
-affected_individual_citizenship: undocumented
+affected_individual_citizenship: asylum-seeker
 injuries: none
 trustworthiness: high
 created: 2026-02-09T22:33:15
@@ -13,10 +13,10 @@ last_updated: 2026-02-09T22:33:15
 search_tags: family-separation, children, src:star-tribune
 ---
 
-# Ecuadorian Roofer, Wife, and 14-Year-Old Son Self-Deport After Five Years in Minnesota; Leave Three Adult Children Behind
+# Ecuadorian Roofer, Wife, and 14-Year-Old Son Self-Deport After Nearly Five Years in Minnesota; Leave Behind Children and U.S. Citizen Grandson
 
 ## Summary
-Segundo, 43, a roofer, his wife Maria, 40, and their youngest son Jairo, 14, flew from Minneapolis to Quito, Ecuador on January 23, 2026 — the same day as the largest protest in Minnesota history. The family had lived in the U.S. since 2021, had no criminal record, and had pending U visa applications. They left three adult children and a U.S. citizen grandson behind in Minnesota.
+Segundo, 43, a roofer, his wife Maria, 40, and their youngest son Jairo, 14, flew from Minneapolis to Quito, Ecuador on January 23, 2026. The family had lived in the U.S. since 2021 and had pending U visa applications after dropping their asylum claim on the advice of an attorney. They left an older son, two daughters, and a U.S. citizen grandson behind in Minnesota.
 
 ## Sources
 1. Star Tribune (Feb 2, 2026): [Tired of living in fear, this family decided to deport themselves](https://www.startribune.com/tired-of-living-in-fear-this-family-decided-to-deport-themselves/601569249)
@@ -27,8 +27,8 @@ Segundo, 43, a roofer, his wife Maria, 40, and their youngest son Jairo, 14, fle
 - **Wife:** Maria, 40
 - **Youngest son:** Jairo, 14
 - **Nationality:** Ecuadorian
-- **Immigration status:** Pending U visa applications; no criminal record
-- **Family remaining in U.S.:** Three adult children and a U.S. citizen grandson
+- **Immigration status:** Pending U visa applications (dropped earlier asylum claim)
+- **Family remaining in U.S.:** An older son, two daughters, and a U.S. citizen grandson
 
 ## Related Incidents
 - [Citing Safety Concerns, Ecuadorian Family Self-Deports](#2026-01-30-ecuadorian-family-self-deports) — Carlos Albuja family, departed one week later under similar circumstances

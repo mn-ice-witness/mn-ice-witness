@@ -593,48 +593,9 @@
       "mediaVersion": null
     },
     {
-      "filePath": "incidents/2026-01/26/2026-01-26-christian-salamanca-ice-chase-crash.md",
-      "title": "Asylum Seeker Hospitalized After Wife Says ICE Rammed His Car Into Telephone Pole",
-      "summary": "Christian Salamanca, a Colombian asylum seeker with a valid visa and work permit, was hospitalized with serious injuries after his wife says ICE agents chased him and rammed his car into a telephone pole at McDonough Community Center in St. Paul. Nicole Salamanca says her husband called her in a panic around 11:15 a.m. on January 26 while driving to work, saying someone was following him. At her suggestion, he drove to the community center hoping it would be a safer location. According to Nicole, as Christian turned into the parking lot, ICE agents rammed his car from behind, pushing it into a telephone pole. Photos show the vehicle crushed between the pole and signage. Christian managed to exit the car and ran inside the building to hide.",
-      "latestUpdate": null,
-      "correctionNote": null,
-      "date": "2026-01-26",
-      "time": "\"11:15\"",
-      "location": "McDonough Community Center, St. Paul",
-      "city": "St. Paul",
-      "type": "immigrants",
-      "status": "ongoing",
-      "affectedIndividualCitizenship": "asylum-seeker",
-      "injuries": "serious",
-      "trustworthiness": "medium",
-      "created": "2026-01-31T08:29:19",
-      "lastUpdated": "2026-02-09T21:12:05",
-      "mediaCount": 0,
-      "notable": false,
-      "searchTags": [
-        "legal-resident",
-        "excessive-force",
-        "vehicle-pursuit",
-        "src:kare11",
-        "src:other-national"
-      ],
-      "hasLocalMedia": true,
-      "localMediaType": "video",
-      "localMediaPath": "media/2026-01/26/2026-01-26-christian-salamanca-ice-chase-crash.mp4",
-      "localMediaOgPath": "media/2026-01/26/2026-01-26-christian-salamanca-ice-chase-crash-og-2s-1769878633.jpg",
-      "localMediaFiles": [
-        {
-          "type": "video",
-          "path": "media/2026-01/26/2026-01-26-christian-salamanca-ice-chase-crash.mp4"
-        }
-      ],
-      "aspectRatio": 1.8166666666666667,
-      "mediaVersion": 1769912968
-    },
-    {
       "filePath": "incidents/2026-01/26/2026-01-26-el-potro-brainerd.md",
       "title": "Four Restaurant Workers Detained at El Potro in Brainerd",
-      "summary": "Four employees were detained by Homeland Security Investigation agents at El Potro Mexican Restaurant in downtown Brainerd. The Crow Wing County Sheriff's Office assisted with executing two federal felony warrants, but authorities have not explained why four people were taken into custody when only two had warrants. The restaurant closed indefinitely after the operation.",
+      "summary": "Four employees were detained by Homeland Security Investigation agents at El Potro Mexican Restaurant in downtown Brainerd. The Crow Wing County Sheriff's Office assisted with executing two federal arrest warrants, but authorities have not explained why four people were taken into custody when only two had warrants. The restaurant closed indefinitely after the operation.",
       "latestUpdate": "[KAXE reports](https://www.kaxe.org/local-news/2026-01-30/ice-arrests-brainerd-restaurant-court-appearances) two of the four detained have been arraigned: **Francisco Javier Montoya-Barboza**, 35, charged with improper entry (misdemeanor), pleaded not guilty; **Jose Barajas-Farias**, 52, charged with reentry of removed alien (felony), pleaded not guilty. Both held at Douglas County Jail in Superior, Wisconsin.",
       "correctionNote": null,
       "date": "2026-01-26",
@@ -696,8 +657,8 @@
     },
     {
       "filePath": "incidents/2026-01/23/2026-01-23-segundo-family-self-deports-ecuador.md",
-      "title": "Ecuadorian Roofer, Wife, and 14-Year-Old Son Self-Deport After Five Years in Minnesota; Leave Three Adult Children Behind",
-      "summary": "Segundo, 43, a roofer, his wife Maria, 40, and their youngest son Jairo, 14, flew from Minneapolis to Quito, Ecuador on January 23, 2026 \u2014 the same day as the largest protest in Minnesota history. The family had lived in the U.S. since 2021, had no criminal record, and had pending U visa applications. They left three adult children and a U.S. citizen grandson behind in Minnesota.",
+      "title": "Ecuadorian Roofer, Wife, and 14-Year-Old Son Self-Deport After Nearly Five Years in Minnesota; Leave Behind Children and U.S. Citizen Grandson",
+      "summary": "Segundo, 43, a roofer, his wife Maria, 40, and their youngest son Jairo, 14, flew from Minneapolis to Quito, Ecuador on January 23, 2026. The family had lived in the U.S. since 2021 and had pending U visa applications after dropping their asylum claim on the advice of an attorney. They left an older son, two daughters, and a U.S. citizen grandson behind in Minnesota.",
       "latestUpdate": null,
       "correctionNote": null,
       "date": "2026-01-23",
@@ -706,7 +667,7 @@
       "city": "Minneapolis",
       "type": "immigrants",
       "status": "resolved",
-      "affectedIndividualCitizenship": "undocumented",
+      "affectedIndividualCitizenship": "asylum-seeker",
       "injuries": "none",
       "trustworthiness": "high",
       "created": "2026-02-09T22:33:15",
