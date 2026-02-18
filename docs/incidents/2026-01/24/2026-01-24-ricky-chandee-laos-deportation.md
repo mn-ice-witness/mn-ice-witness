@@ -10,14 +10,14 @@ injuries: none
 trustworthiness: high
 created: 2026-02-17T22:33:55
 last_updated: 2026-02-17T22:33:55
-search_tags: family-separation, legal-resident, src:mpr
+search_tags: children, family-separation, legal-resident, src:mpr
 ---
 
 # Laotian Refugee Faces Deportation for 1992 Conviction After 30 Years Under Supervision
 
 ## Summary
 
-At "Ricky" Chandee, 52, a Laotian refugee who came to the U.S. in 1980 at age six, was arrested by ICE at his Brooklyn Park home on January 24 based on a 1992 assault conviction and a 1995 deportation order that Laos had refused to enforce for decades. Chandee had lived legally under an order of supervision with a work permit and worked as an engineering technician for the City of Minneapolis for 27 years. He was transferred to detention in El Paso, Texas, where a federal court rejected his attorney's motion to block deportation on February 14.
+At "Ricky" Chandee, 52, a Laotian refugee who came to the U.S. in 1980 at age six, was arrested by ICE at his Brooklyn Park home on January 24 based on a 1992 assault conviction and a 1995 deportation order that Laos had refused to accept for decades. Chandee had lived legally under an order of supervision with a work permit and worked as an engineering technician for the City of Minneapolis for 27 years. He was transferred to detention in El Paso, Texas, where a federal court rejected his attorney's motion to block deportation on February 13.
 
 ## Sources
 
@@ -41,7 +41,7 @@ At "Ricky" Chandee, 52, a Laotian refugee who came to the U.S. in 1980 at age si
 - **Jan 24, ~8:15 AM** - Four vehicles of federal agents arrived at Brooklyn Park home; Chandee complied and was taken into custody
 - **Jan 25** - Transferred to ICE detention in El Paso, Texas
 - **Late Jan** - White House posted "Worst of the Worst" photos on social media; Chandee was misidentified with incorrect name, country of origin, and charge
-- **Feb 14** - Federal court in Texas rejected attorney's motion to block deportation
+- **Feb 13** - Federal court in Texas rejected attorney's motion to block deportation
 
 ## DHS Response
 
