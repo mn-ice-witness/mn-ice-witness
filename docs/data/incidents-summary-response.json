@@ -1,9 +1,53 @@
 {
   "incidents": [
     {
+      "filePath": "incidents/2026-02/13/2026-02-13-sheriff-witt-denies-ice-deal.md",
+      "title": "Sheriff Witt Denies ICE Deal, Says She Was \"Scapegoated\"",
+      "summary": "Hennepin County Sheriff Dawanna Witt held a press conference denying she made any agreement with federal officials to end Operation Metro Surge, one day after Tom Homan credited \"unprecedented cooperation\" from local jails. Witt said \"our policies did not change\" and called out \"influential leaders\" for spreading \"misinformation.\" A Star Tribune survey of all 87 Minnesota county sheriffs found none reported changing their immigration enforcement policies. The Hennepin County Board had passed a resolution the day before urging the sheriff to maintain her position of not honoring ICE detainer requests.",
+      "latestUpdate": null,
+      "correctionNote": null,
+      "date": "2026-02-13",
+      "time": "unknown",
+      "location": "Hennepin County Sheriff's Office",
+      "city": "Minneapolis",
+      "type": "response",
+      "status": "resolved",
+      "affectedIndividualCitizenship": "n/a",
+      "injuries": "none",
+      "trustworthiness": "high",
+      "created": "2026-02-14T20:20:45",
+      "lastUpdated": "2026-02-14T20:20:45",
+      "mediaCount": 0,
+      "notable": false,
+      "searchTags": [
+        "src:star-tribune",
+        "src:fox9",
+        "src:cbs",
+        "src:wcco",
+        "src:kstp",
+        "src:kare11"
+      ],
+      "hasLocalMedia": true,
+      "localMediaType": "video",
+      "localMediaPath": "media/2026-02/13/2026-02-13-sheriff-witt-denies-ice-deal.mp4",
+      "localMediaOgPath": "media/2026-02/13/2026-02-13-sheriff-witt-denies-ice-deal-og-2s-1771132425.jpg",
+      "localMediaFiles": [
+        {
+          "type": "video",
+          "path": "media/2026-02/13/2026-02-13-sheriff-witt-denies-ice-deal.mp4"
+        },
+        {
+          "type": "image",
+          "path": "media/2026-02/13/2026-02-13-sheriff-witt-denies-ice-deal.jpg"
+        }
+      ],
+      "aspectRatio": 1.9361111111111111,
+      "mediaVersion": 1771132425
+    },
+    {
       "filePath": "incidents/2026-02/12/2026-02-12-senate-homeland-security-hearing.md",
       "title": "Senate Homeland Security Hearing on Operation Metro Surge",
-      "summary": "The Senate Homeland Security Committee held an oversight hearing on Operation Metro Surge with seven witnesses across two panels. Chairman Rand Paul (R-KY) played the Alex Pretti shooting video frame-by-frame, telling officials \"trust has been lost.\" Acting ICE Director Todd Lyons contradicted DHS Secretary Noem by testifying he did not consider Pretti or Good domestic terrorists. AG Keith Ellison called the operation \"retribution and reckoning.\" Multiple heated exchanges erupted, with Sen. Hawley telling Ellison \"you ought to be in jail\" and Sen. Johnson yelling \"you're sick, you're despicable.\"",
+      "summary": "The Senate Homeland Security Committee held an oversight hearing on Operation Metro Surge with seven witnesses across two panels. Chairman Rand Paul (R-KY) played the Alex Pretti shooting video frame-by-frame, telling officials \"trust has been lost.\" Acting ICE Director Todd Lyons contradicted DHS Secretary Noem by testifying he did not consider Pretti or Good domestic terrorists. AG Keith Ellison called the operation \"retribution and reckoning.\" Multiple heated exchanges erupted, with Sen. Hawley telling Ellison \"you ought to be in jail\" and Sen. Johnson yelling \"it's sick, it is despicable.\"",
       "latestUpdate": null,
       "correctionNote": null,
       "date": "2026-02-12",
@@ -38,6 +82,46 @@
       "localMediaFiles": [],
       "aspectRatio": null,
       "mediaVersion": null
+    },
+    {
+      "filePath": "incidents/2026-02/10/2026-02-10-walz-days-not-months-drawdown.md",
+      "title": "Walz Says ICE Drawdown Coming in \"Days, Not Weeks and Months\"",
+      "summary": "At a press conference highlighting small business devastation, Governor Walz said he expects the federal immigration surge to end within days after conversations with border czar Tom Homan (Feb 9) and White House Chief of Staff Susie Wiles (Feb 10). Walz said he hoped Homan would announce \"before Friday\" that the operation was done, while noting he was \"skeptical, but more hopeful than I have been.\" The city of Minneapolis estimated cumulative economic losses of $100 million from Operation Metro Surge.",
+      "latestUpdate": null,
+      "correctionNote": null,
+      "date": "2026-02-10",
+      "time": "unknown",
+      "location": "The Market at Malcolm Yards, Minneapolis",
+      "city": "Minneapolis",
+      "type": "response",
+      "status": "ongoing",
+      "affectedIndividualCitizenship": "n/a",
+      "injuries": "none",
+      "trustworthiness": "high",
+      "created": "2026-02-11T14:14:49",
+      "lastUpdated": "2026-02-11T14:14:49",
+      "mediaCount": 0,
+      "notable": false,
+      "searchTags": [
+        "src:kstp",
+        "src:fox9",
+        "src:star-tribune",
+        "src:pioneer-press",
+        "src:other-local",
+        "src:mpr"
+      ],
+      "hasLocalMedia": true,
+      "localMediaType": "image",
+      "localMediaPath": "media/2026-02/10/2026-02-10-walz-days-not-months-drawdown.jpg",
+      "localMediaOgPath": null,
+      "localMediaFiles": [
+        {
+          "type": "image",
+          "path": "media/2026-02/10/2026-02-10-walz-days-not-months-drawdown.jpg"
+        }
+      ],
+      "aspectRatio": 1.7699115044247788,
+      "mediaVersion": 1770840957
     },
     {
       "filePath": "incidents/2026-02/07/2026-02-07-dhs-response-whipple-conditions-false.md",

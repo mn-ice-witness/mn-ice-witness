@@ -3,7 +3,7 @@ date: 2026-02-10
 time: unknown
 location: The Market at Malcolm Yards, Minneapolis
 city: Minneapolis
-type: background
+type: response
 status: ongoing
 affected_individual_citizenship: n/a
 injuries: none
@@ -23,7 +23,7 @@ At a press conference highlighting small business devastation, Governor Walz sai
 2. KSTP (Feb 10, 2026): [Walz says he anticipates significant reduction in ICE surge in Minnesota as early as next week](https://kstp.com/kstp-news/top-news/walz-says-he-anticipates-significant-reduction-in-ice-surge-in-minnesota-as-early-as-next-week/)
 3. Star Tribune (Feb 10, 2026): [Gov. Tim Walz says federal immigration surge could wind down within days](https://www.startribune.com/gov-tim-walz-says-federal-immigration-surge-could-wind-down-within-days/601579955)
 4. Pioneer Press (Feb 10, 2026): [Gov. Tim Walz says he expects further ICE drawdown this week](https://www.twincities.com/2026/02/10/gov-tim-walz-says-he-expects-further-ice-drawdown-this-week/)
-5. MinnPost (Feb 2026): [Walz says state will soon move into 'recovery' phase of ICE surge](https://www.minnpost.com/glean/2026/02/walz-believes-state-will-soon-move-into-recovery-phase-of-ice-surge/)
+5. MinnPost (Feb 11, 2026): [Walz says state will soon move into 'recovery' phase of ICE surge](https://www.minnpost.com/glean/2026/02/walz-believes-state-will-soon-move-into-recovery-phase-of-ice-surge/)
 6. MPR News (Feb 10, 2026): [Walz predicts big reduction in federal immigration agents within days](https://www.mprnews.org/story/2026/02/10/walz-predicts-big-reduction-in-federal-immigration-agents-within-days)
 
 ## Key Quotes

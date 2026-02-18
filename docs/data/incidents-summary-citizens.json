@@ -1,6 +1,48 @@
 {
   "incidents": [
     {
+      "filePath": "incidents/2026-02/13/2026-02-13-minneapolis-203m-economic-impact.md",
+      "title": "Minneapolis Estimates $203 Million Economic Impact from Operation Metro Surge",
+      "summary": "City of Minneapolis officials released a preliminary impact assessment showing Operation Metro Surge caused an estimated $203.1 million in documented economic damage to the city. The largest category was $81 million in business and restaurant losses, followed by $47 million in lost worker wages from people afraid to leave their homes. Emergency Management Director Rachel Sayre called the figures \"almost certainly undercounts.\"",
+      "latestUpdate": null,
+      "correctionNote": null,
+      "date": "2026-02-13",
+      "time": "unknown",
+      "location": "Minneapolis City Hall",
+      "city": "Minneapolis",
+      "type": "citizens",
+      "status": "resolved",
+      "affectedIndividualCitizenship": "n/a",
+      "injuries": "none",
+      "trustworthiness": "high",
+      "created": "2026-02-14T20:20:45",
+      "lastUpdated": "2026-02-14T20:20:45",
+      "mediaCount": 0,
+      "notable": false,
+      "searchTags": [
+        "src:star-tribune",
+        "src:mpr",
+        "src:fox9",
+        "src:wcco",
+        "src:kare11",
+        "src:kstp",
+        "src:bring-me-the-news",
+        "src:other-national"
+      ],
+      "hasLocalMedia": true,
+      "localMediaType": "image",
+      "localMediaPath": "media/2026-02/13/2026-02-13-minneapolis-203m-economic-impact.jpg",
+      "localMediaOgPath": null,
+      "localMediaFiles": [
+        {
+          "type": "image",
+          "path": "media/2026-02/13/2026-02-13-minneapolis-203m-economic-impact.jpg"
+        }
+      ],
+      "aspectRatio": 1.3363028953229399,
+      "mediaVersion": 1771132542
+    },
+    {
       "filePath": "incidents/2026-02/07/2026-02-07-wilmer-andrade-work-permit-targeted.md",
       "title": "ICE Targets Man with Valid Work Permit and Pending Crime Victim Visa",
       "summary": "ICE agents knocked on Wilmer Andrade's door in the Twin Cities suburbs seeking his arrest, despite Andrade holding a valid work permit and a pending U visa application as a crime victim. Andrade, who was beaten and robbed in Minneapolis five years ago and has no criminal history in Minnesota, refused to open the door and was not taken into custody. The incident is part of a pattern of Operation Metro Surge increasingly targeting immigrants with active work authorization and pending legal cases.",

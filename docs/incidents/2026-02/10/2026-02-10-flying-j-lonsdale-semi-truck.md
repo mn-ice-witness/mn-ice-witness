@@ -19,8 +19,8 @@ search_tags: excessive-force, warrantless-entry, src:other-local
 Approximately a dozen ICE agents in plain clothes and tactical vests surrounded a semi truck at the Flying J Pilot Travel Center between Lonsdale and Northfield. When occupants refused to open the window, an agent climbed the side step and shattered the glass with a small object, then pushed through to unlock the door. At least two people were pulled from the truck and arrested. Two agents fist-bumped after the arrests. A Rice County Sheriff's deputy and Sergeant Ross Spicer briefly confronted the ICE officers.
 
 ## Sources
-1. SouthernMinn.com (Feb 2026): [ICE leaves vehicles behind after arrests at Flying J](https://www.southernminn.com/lonsdale_area_news_review/news/ice-leaves-vehicles-behind-after-arrests-at-flying-j/article_d6258cb7-5cc6-49af-9e28-bb58705d0477.html)
-2. SouthernMinn.com (Feb 2026): [ICE activity surges in southern Minnesota despite DHS leadership shakeup](https://www.southernminn.com/northfield_news/news/ice-activity-surges-in-southern-minnesota-despite-dhs-leadership-shakeup/article_d50bd775-4315-426a-85af-80094eea2a22.html)
+1. SouthernMinn.com (Feb 10, 2026): [ICE leaves vehicles behind after arrests at Flying J](https://www.southernminn.com/lonsdale_area_news_review/news/ice-leaves-vehicles-behind-after-arrests-at-flying-j/article_d6258cb7-5cc6-49af-9e28-bb58705d0477.html)
+2. SouthernMinn.com (Feb 3, 2026): [ICE activity surges in southern Minnesota despite DHS leadership shakeup](https://www.southernminn.com/northfield_news/news/ice-activity-surges-in-southern-minnesota-despite-dhs-leadership-shakeup/article_d50bd775-4315-426a-85af-80094eea2a22.html)
 
 ## Affected Individual(s)
 - **Names:** Not disclosed

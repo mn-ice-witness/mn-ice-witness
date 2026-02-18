@@ -1,92 +1,6 @@
 {
   "incidents": [
     {
-      "filePath": "incidents/2026-02/13/2026-02-13-minneapolis-203m-economic-impact.md",
-      "title": "Minneapolis Estimates $203 Million Economic Impact from Operation Metro Surge",
-      "summary": "City of Minneapolis officials released a preliminary impact assessment showing Operation Metro Surge caused an estimated $203.1 million in documented economic damage to the city. The largest category was $81 million in business and restaurant losses, followed by $47 million in lost worker wages from people afraid to leave their homes. Emergency Management Director Rachel Sayre called the figures \"almost certainly undercounts.\"",
-      "latestUpdate": null,
-      "correctionNote": null,
-      "date": "2026-02-13",
-      "time": "unknown",
-      "location": "Minneapolis City Hall",
-      "city": "Minneapolis",
-      "type": "background",
-      "status": "resolved",
-      "affectedIndividualCitizenship": "n/a",
-      "injuries": "none",
-      "trustworthiness": "high",
-      "created": "2026-02-14T20:20:45",
-      "lastUpdated": "2026-02-14T20:20:45",
-      "mediaCount": 0,
-      "notable": false,
-      "searchTags": [
-        "src:star-tribune",
-        "src:mpr",
-        "src:fox9",
-        "src:wcco",
-        "src:kare11",
-        "src:kstp",
-        "src:bring-me-the-news",
-        "src:other-national"
-      ],
-      "hasLocalMedia": true,
-      "localMediaType": "image",
-      "localMediaPath": "media/2026-02/13/2026-02-13-minneapolis-203m-economic-impact.jpg",
-      "localMediaOgPath": null,
-      "localMediaFiles": [
-        {
-          "type": "image",
-          "path": "media/2026-02/13/2026-02-13-minneapolis-203m-economic-impact.jpg"
-        }
-      ],
-      "aspectRatio": 1.3363028953229399,
-      "mediaVersion": 1771132542
-    },
-    {
-      "filePath": "incidents/2026-02/13/2026-02-13-sheriff-witt-denies-ice-deal.md",
-      "title": "Sheriff Witt Denies ICE Deal, Says She Was \"Scapegoated\"",
-      "summary": "Hennepin County Sheriff Dawanna Witt held a press conference denying she made any agreement with federal officials to end Operation Metro Surge, one day after Tom Homan credited \"unprecedented cooperation\" from local jails. Witt said \"our policies did not change\" and called out \"influential leaders\" for spreading \"misinformation.\" A Star Tribune survey of all 87 Minnesota county sheriffs found none reported changing their immigration enforcement policies. The Hennepin County Board had passed a resolution the day before urging the sheriff to maintain her position of not honoring ICE detainer requests.",
-      "latestUpdate": null,
-      "correctionNote": null,
-      "date": "2026-02-13",
-      "time": "unknown",
-      "location": "Hennepin County Sheriff's Office",
-      "city": "Minneapolis",
-      "type": "background",
-      "status": "resolved",
-      "affectedIndividualCitizenship": "n/a",
-      "injuries": "none",
-      "trustworthiness": "high",
-      "created": "2026-02-14T20:20:45",
-      "lastUpdated": "2026-02-14T20:20:45",
-      "mediaCount": 0,
-      "notable": false,
-      "searchTags": [
-        "src:star-tribune",
-        "src:fox9",
-        "src:cbs",
-        "src:wcco",
-        "src:kstp",
-        "src:kare11"
-      ],
-      "hasLocalMedia": true,
-      "localMediaType": "video",
-      "localMediaPath": "media/2026-02/13/2026-02-13-sheriff-witt-denies-ice-deal.mp4",
-      "localMediaOgPath": "media/2026-02/13/2026-02-13-sheriff-witt-denies-ice-deal-og-2s-1771132425.jpg",
-      "localMediaFiles": [
-        {
-          "type": "video",
-          "path": "media/2026-02/13/2026-02-13-sheriff-witt-denies-ice-deal.mp4"
-        },
-        {
-          "type": "image",
-          "path": "media/2026-02/13/2026-02-13-sheriff-witt-denies-ice-deal.jpg"
-        }
-      ],
-      "aspectRatio": 1.9361111111111111,
-      "mediaVersion": 1771132425
-    },
-    {
       "filePath": "incidents/2026-02/12/2026-02-12-homan-operation-metro-surge-conclusion.md",
       "title": "Homan Declares Operation Metro Surge Over",
       "summary": "At a press conference at the Whipple Federal Building at Fort Snelling, border czar Tom Homan announced the conclusion of Operation Metro Surge, saying President Trump concurred with his proposal to end the 10-week operation. Homan declared Minnesota \"now less of a sanctuary state for criminals,\" cited over 4,000 arrests, and said a significant drawdown was already underway. He warned that mass deportations would continue nationwide and that churches and schools remained \"not off the table.\" A small contingent of personnel will remain to complete fraud investigations and criminal cases against \"agitators.\"",
@@ -131,46 +45,6 @@
       ],
       "aspectRatio": 1.8472222222222223,
       "mediaVersion": 1770910620
-    },
-    {
-      "filePath": "incidents/2026-02/10/2026-02-10-walz-days-not-months-drawdown.md",
-      "title": "Walz Says ICE Drawdown Coming in \"Days, Not Weeks and Months\"",
-      "summary": "At a press conference highlighting small business devastation, Governor Walz said he expects the federal immigration surge to end within days after conversations with border czar Tom Homan (Feb 9) and White House Chief of Staff Susie Wiles (Feb 10). Walz said he hoped Homan would announce \"before Friday\" that the operation was done, while noting he was \"skeptical, but more hopeful than I have been.\" The city of Minneapolis estimated cumulative economic losses of $100 million from Operation Metro Surge.",
-      "latestUpdate": null,
-      "correctionNote": null,
-      "date": "2026-02-10",
-      "time": "unknown",
-      "location": "The Market at Malcolm Yards, Minneapolis",
-      "city": "Minneapolis",
-      "type": "background",
-      "status": "ongoing",
-      "affectedIndividualCitizenship": "n/a",
-      "injuries": "none",
-      "trustworthiness": "high",
-      "created": "2026-02-11T14:14:49",
-      "lastUpdated": "2026-02-11T14:14:49",
-      "mediaCount": 0,
-      "notable": false,
-      "searchTags": [
-        "src:kstp",
-        "src:fox9",
-        "src:star-tribune",
-        "src:pioneer-press",
-        "src:other-local",
-        "src:mpr"
-      ],
-      "hasLocalMedia": true,
-      "localMediaType": "image",
-      "localMediaPath": "media/2026-02/10/2026-02-10-walz-days-not-months-drawdown.jpg",
-      "localMediaOgPath": null,
-      "localMediaFiles": [
-        {
-          "type": "image",
-          "path": "media/2026-02/10/2026-02-10-walz-days-not-months-drawdown.jpg"
-        }
-      ],
-      "aspectRatio": 1.7699115044247788,
-      "mediaVersion": 1770840957
     },
     {
       "filePath": "incidents/2026-02/10/2026-02-10-outstate-cities-ice-ordinances.md",

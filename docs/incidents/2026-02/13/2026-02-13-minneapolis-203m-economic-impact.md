@@ -3,7 +3,7 @@ date: 2026-02-13
 time: unknown
 location: Minneapolis City Hall
 city: Minneapolis
-type: background
+type: citizens
 status: resolved
 affected_individual_citizenship: n/a
 injuries: none
@@ -37,7 +37,7 @@ City of Minneapolis officials released a preliminary impact assessment showing O
 
 ## Human Impact
 - 76,200 people experienced food insecurity
-- 8,713 school-aged children needed food services
+- 8,713 school-aged children in need of mental health services
 - 50% reduction in mental health service client contact
 
 ## Key Quotes

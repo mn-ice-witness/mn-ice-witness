@@ -16,7 +16,7 @@ search_tags: src:other-national, src:pbs, src:npr, src:cnn, src:nbc, src:wapo, s
 # Senate Homeland Security Hearing on Operation Metro Surge
 
 ## Summary
-The Senate Homeland Security Committee held an oversight hearing on Operation Metro Surge with seven witnesses across two panels. Chairman Rand Paul (R-KY) played the Alex Pretti shooting video frame-by-frame, telling officials "trust has been lost." Acting ICE Director Todd Lyons contradicted DHS Secretary Noem by testifying he did not consider Pretti or Good domestic terrorists. AG Keith Ellison called the operation "retribution and reckoning." Multiple heated exchanges erupted, with Sen. Hawley telling Ellison "you ought to be in jail" and Sen. Johnson yelling "you're sick, you're despicable."
+The Senate Homeland Security Committee held an oversight hearing on Operation Metro Surge with seven witnesses across two panels. Chairman Rand Paul (R-KY) played the Alex Pretti shooting video frame-by-frame, telling officials "trust has been lost." Acting ICE Director Todd Lyons contradicted DHS Secretary Noem by testifying he did not consider Pretti or Good domestic terrorists. AG Keith Ellison called the operation "retribution and reckoning." Multiple heated exchanges erupted, with Sen. Hawley telling Ellison "you ought to be in jail" and Sen. Johnson yelling "it's sick, it is despicable."
 
 ## Sources
 1. C-SPAN (Feb 12, 2026): [Full hearing video](https://www.c-span.org/event/senate-committee/minnesota-immigration-enforcement-officials-testify-before-senate-committee/440290)
@@ -48,9 +48,9 @@ Lyons testified ICE opened 37 excessive force investigations since Trump took of
 AG Ellison: Operation Metro Surge "has caused real harm." Two of Minneapolis's three homicides in 2026 came "at the hands" of ICE agents. State investigators were denied "critical information" in the Good shooting.
 
 ### Heated Exchanges
-- **Johnson vs. Ellison:** "A tragedy was going to happen. And you encouraged it!" / "Sit there and smirk! You're sick, you're despicable!"
+- **Johnson vs. Ellison:** "A tragedy was going to happen. And you encouraged it!" / "Sit there and smirk! It's sick. It is despicable!"
 - **Hawley vs. Ellison:** "You ought to be indicted" over Feeding Our Future. Ellison: "Don't call me pal." Hawley: "I should call you prisoner because you ought to be in jail."
-- **Blumenthal** called the failure to provide evidence in the Good/Pretti investigations "in effect a cover-up."
+- **Blumenthal** said the failure to provide evidence in the Good/Pretti investigations "in effect amounts to a cover-up."
 
 ## Related Incidents
 - [Homan Declares Operation Metro Surge Over](#2026-02-12-homan-operation-metro-surge-conclusion) — Announced same morning
