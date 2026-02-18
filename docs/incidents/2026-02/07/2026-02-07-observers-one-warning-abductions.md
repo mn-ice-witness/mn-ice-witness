@@ -28,13 +28,12 @@ Federal authorities arrested 158 people in Minnesota for impeding or assaulting 
 2. MPR News (Feb 9, 2026): [Minnesotans are being arrested for impeding ICE. What does that mean?](https://www.mprnews.org/story/2026/02/09/minnesotans-are-being-arrested-for-impeding-ice-what-does-that-mean)
 3. CBS Minnesota (Feb 5, 2026; updated Feb 9): [Nearly 160 people arrested for impeding, assaulting federal officers in Minnesota last month](https://www.cbsnews.com/minnesota/news/minnesota-ice-protesters-arrested-charges/)
 4. Star Tribune (Feb 6, 2026): [Border czar tells Minnesotans to stop impeding ICE. It's not always clear what that means.](https://www.startribune.com/minnesota-ice-protester-obstruction-legal/601576609)
-5. Star Tribune (Feb 2026): [In MN, observers report ICE tactics seem to be changing](https://www.startribune.com/minneapolis-ice-agents-tactics/601575414)
-6. Bring Me The News (Feb 7, 2026): [List of ICE raids, major updates in Minnesota on Saturday, Feb. 7](https://bringmethenews.com/minnesota-news/list-of-ice-raids-major-updates-in-minnesota-on-saturday-feb-7)
-7. Fox News (Feb 5, 2026): [From protest to felony: the lines Minnesota anti-ICE agitators may be crossing](https://www.foxnews.com/politics/from-protest-felony-lines-minnesota-anti-ice-agitators-may-crossing)
-8. FOX 9 (Jan 28, 2026): [Arrests for assaulting ICE agents in MN rarely charged, regularly dismissed](https://www.fox9.com/news/dhs-arrests-assaulting-ice-agents-rarely-charged-regularly-dismissed-jan-28)
-9. Reuters (Feb 10, 2026): [ICE is cracking down on people who follow them in their cars](https://wmbdradio.com/2026/02/10/ice-is-cracking-down-on-people-who-follow-them-in-their-cars-2/)
-10. The Marshall Project (Feb 4, 2026): [ICE intimidation tactics against protesters and observers](https://www.themarshallproject.org/2026/02/04/ice-immigration-intimidation-tactics-protesters)
-11. Minnesota Reformer (Feb 12, 2026): [Why is ICE seizing people's phones and documents?](https://minnesotareformer.com/2026/02/12/why-is-ice-seizing-peoples-phones-and-documents/)
+5. Bring Me The News (Feb 7, 2026): [List of ICE raids, major updates in Minnesota on Saturday, Feb. 7](https://bringmethenews.com/minnesota-news/list-of-ice-raids-major-updates-in-minnesota-on-saturday-feb-7)
+6. Fox News (Feb 5, 2026): [From protest to felony: the lines Minnesota anti-ICE agitators may be crossing](https://www.foxnews.com/politics/from-protest-felony-lines-minnesota-anti-ice-agitators-may-crossing)
+7. FOX 9 (Jan 28, 2026): [Arrests for assaulting ICE agents in MN rarely charged, regularly dismissed](https://www.fox9.com/news/dhs-arrests-assaulting-ice-agents-rarely-charged-regularly-dismissed-jan-28)
+8. Reuters (Feb 10, 2026): [ICE is cracking down on people who follow them in their cars](https://wmbdradio.com/2026/02/10/ice-is-cracking-down-on-people-who-follow-them-in-their-cars-2/)
+9. The Marshall Project (Feb 4, 2026): [ICE intimidation tactics against protesters and observers](https://www.themarshallproject.org/2026/02/04/ice-immigration-intimidation-tactics-protesters)
+10. Minnesota Reformer (Feb 12, 2026): [Why is ICE seizing people's phones and documents?](https://minnesotareformer.com/2026/02/12/why-is-ice-seizing-peoples-phones-and-documents/)
 
 ## Related Incidents
 - [Observers Detained at Gunpoint in Midtown Phillips](#2026-02-03-observers-detained-gunpoint-midtown-phillips) - Four days earlier, agents drew guns on observers for "finger gun" gestures
@@ -72,13 +71,13 @@ This was at least the fourth observer taken that day, and the third in less than
 ### Community Warning
 The community group Defrost MN, which uses crowdsourced data to track federal immigration operations, circulated a warning Friday of an "uptick in abductions" — referring to arrests of both immigrant community members and observers — following Homan's takeover and an increase in the number of government personnel and vehicles involved in operations.
 
-"National attention on Minnesota has waned with the departure of Bovino and rhetoric by Homan that things are de-escalating," the group noted, "but recent data and reports from commuters in the field did not support those conclusions."
+"National attention on Minnesota has waned with the departure of Bovino and rhetoric by Homan that things are de-escalating," the group noted, adding that recent data and reports from commuters in the field did not support those conclusions.
 
 ## The Numbers
 
 Federal authorities announced 158 arrests for impeding or assaulting federal officers in Minnesota during Operation Metro Surge's first month. Of those, 85 were accepted for prosecution. But the outcomes tell a different story.
 
-A Fox 9 investigation reviewed 92 federal cases from ICE operations in Chicago — chosen because Minnesota cases were still too early in the process — and found:
+A Fox 9 investigation reviewed 92 federal cases from ICE operations in Chicago and found:
 
 - **54 cases:** No charges filed
 - **20 cases:** Prosecutors declined to file charges
@@ -118,14 +117,14 @@ The First Amendment protects the right to observe, film, and follow law enforcem
 
 Seth Stoughton, a policing professor at the University of South Carolina School of Law, told Reuters: "Without any physical contact, just following an agent in a car, it's not clear to me that that's resistance or impeding."
 
-ACLU of Minnesota policy counsel John Boehler told The Marshall Project: "Following or observing or reporting on federal agencies... is protected First Amendment activity."
+ACLU of Minnesota policy counsel John Boehler told Minnesota Public Radio: "Following or observing or reporting on federal agencies... is protected First Amendment activity."
 
 Deborah Fleischaker, a former ICE official in the Biden administration, stated: "Observing ICE activities is not a crime and should not be treated as such."
 
 ### What DHS Claims
 DHS charges observers under 18 USC 111, which penalizes anyone who "forcibly assaults, resists, opposes, impedes, intimidates, or interferes with" a federal officer. Penalties range up to 20 years for felonies; the enhanced penalty beyond 8 years requires a "deadly or dangerous weapon" or bodily injury.
 
-DHS spokesperson Tricia McLaughlin stated that those arrested had "stalked law enforcement and attempted to obstruct law enforcement from performing their sworn duties" and that agents "used the minimum amount of force necessary to protect themselves, the public, and federal property."
+DHS spokesperson Tricia McLaughlin stated that observers like Ringstrom had "stalked law enforcement and attempted to obstruct law enforcement from performing their sworn duties" and that agents "used the minimum amount of force necessary to protect themselves, the public, and federal property."
 
 Border czar Tom Homan: "If you violate the law, you will be federally prosecuted."
 
