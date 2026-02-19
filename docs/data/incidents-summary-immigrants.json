@@ -151,6 +151,41 @@
       "mediaVersion": null
     },
     {
+      "filePath": "incidents/2026-02/06/2026-02-06-nick-benson-deportation-flights-msp.md",
+      "title": "Volunteer Documents 42 Deportation Flights in January, Estimates 2,339 People Flown From Minnesota",
+      "summary": "Nick Benson, a 41-year-old Burnsville man who works in commercial flight data analytics, has been tracking deportation flights leaving Minneapolis-St. Paul International Airport since the start of Operation Metro Surge. In January 2026, he documented 42 flights carrying an estimated 2,339 people \u2014 sometimes daily, sometimes twice a day. Using a 6-foot antenna on his roof, commercial flight tracking tools, and a telephoto camera at the airport, Benson counts shackled detainees as they are loaded onto charter Boeing 737s operated by Global Crossing Airlines (GlobalX). DHS does not release deportation flight data, making Benson's observations one of the only independent sources of quantitative information about how many people are being removed from Minnesota.",
+      "latestUpdate": null,
+      "correctionNote": null,
+      "date": "2026-02-06",
+      "time": "unknown",
+      "location": "Minneapolis-St. Paul International Airport",
+      "city": "Minneapolis",
+      "type": "immigrants",
+      "status": "ongoing",
+      "affectedIndividualCitizenship": "n/a",
+      "injuries": "none",
+      "trustworthiness": "high",
+      "created": "2026-02-09T21:32:32",
+      "lastUpdated": "2026-02-09T21:32:32",
+      "mediaCount": 0,
+      "notable": false,
+      "searchTags": [
+        "src:npr",
+        "src:mpr",
+        "src:star-tribune",
+        "src:other-national",
+        "src:other-local",
+        "src:sahan-journal"
+      ],
+      "hasLocalMedia": false,
+      "localMediaType": null,
+      "localMediaPath": null,
+      "localMediaOgPath": null,
+      "localMediaFiles": [],
+      "aspectRatio": null,
+      "mediaVersion": null
+    },
+    {
       "filePath": "incidents/2026-02/06/2026-02-06-georgetown-park-pepper-spray.md",
       "title": "Federal Agents Pepper Spray Relatives During Arrest at Georgetown Park Apartments",
       "summary": "Video uploaded to social media on February 6 shows federal agents arresting a person reportedly outside Georgetown Park Apartments in Bloomington. After the arrest, an agent pepper sprayed two people who were reportedly relatives of the detained individual. No names have been publicly identified.",
@@ -741,7 +776,7 @@
       "status": "ongoing",
       "affectedIndividualCitizenship": "asylum-seeker",
       "injuries": "none",
-      "trustworthiness": "high",
+      "trustworthiness": "medium",
       "created": "2026-02-07T17:57:07",
       "lastUpdated": "2026-02-07T17:57:07",
       "mediaCount": 0,
@@ -1261,46 +1296,6 @@
       "localMediaFiles": [],
       "aspectRatio": null,
       "mediaVersion": null
-    },
-    {
-      "filePath": "incidents/2026-01/14/2026-01-14-st-paul-public-works-snowplow-driver.md",
-      "title": "St. Paul Snowplow Driver with Legal Work Status Detained by ICE",
-      "summary": "A St. Paul Public Works employee working as a snowplow driver was detained by ICE agents outside a work site despite having valid federal work authorization and a commercial driver's license. Public Works Director Sean Kershaw stated the detention \"never should have happened\" and that the worker was targeted \"purely based on his country of origin.\" The man is currently being held at a detention facility in El Paso, Texas.",
-      "latestUpdate": null,
-      "correctionNote": null,
-      "date": "2026-01-14",
-      "time": "unknown",
-      "location": "St. Paul",
-      "city": "St. Paul",
-      "type": "immigrants",
-      "status": "ongoing",
-      "affectedIndividualCitizenship": "legal-resident",
-      "injuries": "none",
-      "trustworthiness": "high",
-      "created": "2026-01-18T22:24:48",
-      "lastUpdated": "2026-01-18T22:24:48",
-      "mediaCount": 0,
-      "notable": false,
-      "searchTags": [
-        "legal-resident",
-        "workplace-raid",
-        "family-separation",
-        "src:fox9",
-        "src:pioneer-press",
-        "src:kare11"
-      ],
-      "hasLocalMedia": true,
-      "localMediaType": "video",
-      "localMediaPath": "media/2026-01/14/2026-01-14-st-paul-public-works-snowplow-driver.mp4",
-      "localMediaOgPath": "media/2026-01/14/2026-01-14-st-paul-public-works-snowplow-driver-og-2s-1769985954.jpg",
-      "localMediaFiles": [
-        {
-          "type": "video",
-          "path": "media/2026-01/14/2026-01-14-st-paul-public-works-snowplow-driver.mp4"
-        }
-      ],
-      "aspectRatio": 1.8384615384615384,
-      "mediaVersion": 1769985954
     },
     {
       "filePath": "incidents/2026-01/14/2026-01-14-shamrai-ukrainian-asylum-seeker.md",

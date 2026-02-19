@@ -7,7 +7,7 @@ type: immigrants
 status: ongoing
 affected_individual_citizenship: asylum-seeker
 injuries: none
-trustworthiness: high
+trustworthiness: medium
 created: 2026-02-07T17:57:07
 last_updated: 2026-02-07T17:57:07
 search_tags: family-separation, children, src:other-national
@@ -20,7 +20,6 @@ Alexander William Tique-Marin, a 36-year-old Colombian asylum seeker, was detain
 
 ## Sources
 1. Newsweek (Feb 4, 2026): [Minnesota Church Volunteer Detained By ICE At Immigration Appointment](https://www.newsweek.com/minnesota-church-volunteer-detained-by-ice-immigration-appointment-11465075)
-2. Courthouse News Service (2026): [Colombian asylum-seeker arrested at immigration hearing ordered freed from ICE custody](https://courthousenews.com/columbian-asylum-seeker-arrested-at-immigration-hearing-ordered-freed-from-ice-custody/)
 
 ## Affected Individual(s)
 - **Name:** Alexander William Tique-Marin
@@ -52,4 +51,4 @@ DHS spokeswoman Tricia McLaughlin stated Tique-Marin "entered illegally in 2023 
 > "We were doing everything they told us, everything."
 
 ## Editorial Assessment
-**HIGH** - Newsweek article with named affected individual, named partner, named pastors (Miguel Aviles, Doug Pagitt), DHS statement included. Detained at a routine check-in for a pending asylum case, not during an enforcement raid.
+**MEDIUM** - Single Newsweek article (Tier 2 source) with named affected individual, named partner, named pastors (Miguel Aviles, Doug Pagitt), DHS statement included. Detained at a routine check-in for a pending asylum case, not during an enforcement raid. Well-reported but single source.

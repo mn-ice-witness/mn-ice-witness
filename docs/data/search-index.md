@@ -20,7 +20,7 @@ When searching for incidents or checking if something already exists:
 
 Published incidents visible on the main site.
 
-- incidents/2026-02/13/2026-02-13-minneapolis-203m-economic-impact.md | 2026-02-13 | Minneapolis | citizens | Minneapolis Estimates $203 Million Economic Impact from Operation Metro Surge
+- incidents/2026-02/13/2026-02-13-minneapolis-203m-economic-impact.md | 2026-02-13 | Minneapolis | background | Minneapolis Estimates $203 Million Economic Impact from Operation Metro Surge
 - incidents/2026-02/13/2026-02-13-sheriff-witt-denies-ice-deal.md | 2026-02-13 | Minneapolis | response | Sheriff Witt Denies ICE Deal, Says She Was "Scapegoated"
 - incidents/2026-02/12/2026-02-12-homan-operation-metro-surge-conclusion.md | 2026-02-12 | Minneapolis | background | Homan Declares Operation Metro Surge Over
 - incidents/2026-02/12/2026-02-12-jesus-flores-columbia-heights-ruse.md | 2026-02-12 | Columbia Heights | immigrants | ICE Agents Fake Car Trouble to Lure Columbia Heights Man Outside; Arrested and Sent to Texas
@@ -37,7 +37,7 @@ Published incidents visible on the main site.
 - incidents/2026-02/07/2026-02-07-dhs-response-whipple-conditions-false.md | 2026-02-07 | Minneapolis | response | DHS Statement: Claims of "Subprime Conditions" at Whipple Are "FALSE"
 - incidents/2026-02/07/2026-02-07-observers-one-warning-abductions.md | 2026-02-07 | Minneapolis | observers | Three Legal Observers Arrested in 30 Minutes as ICE Implements "One Warning" Policy
 - incidents/2026-02/07/2026-02-07-wilmer-andrade-work-permit-targeted.md | 2026-02-07 | Minneapolis | citizens | ICE Targets Man with Valid Work Permit and Pending Crime Victim Visa
-- incidents/2026-02/06/2026-02-06-nick-benson-deportation-flights-msp.md | 2026-02-06 | Minneapolis | background | Volunteer Documents 42 Deportation Flights in January, Estimates 2,339 People Flown From Minnesota
+- incidents/2026-02/06/2026-02-06-nick-benson-deportation-flights-msp.md | 2026-02-06 | Minneapolis | immigrants | Volunteer Documents 42 Deportation Flights in January, Estimates 2,339 People Flown From Minnesota
 - incidents/2026-02/06/2026-02-06-brasel-right-to-counsel-whipple.md | 2026-02-06 | Minneapolis | background | Minnesota's Legal System Buckles Under Weight of Operation Metro Surge
 - incidents/2026-02/06/2026-02-06-dhs-response-agitators-shielded.md | 2026-02-06 | Minneapolis | response | DHS Response: "Agitators" Shield Child Rapists, Sex Offenders, and Gang Members From Arrest
 - incidents/2026-02/06/2026-02-06-georgetown-park-pepper-spray.md | 2026-02-06 | Bloomington | immigrants | Federal Agents Pepper Spray Relatives During Arrest at Georgetown Park Apartments
@@ -56,7 +56,6 @@ Published incidents visible on the main site.
 - incidents/2026-02/01/2026-02-01-powderhorn-rec-center-observer-arrested.md | 2026-02-01 | Minneapolis | observers | Observer Arrested, Concussion Grenades Deployed at Powderhorn Rec Center
 - incidents/2026-02/01/2026-02-01-fareh-home-surrounded-rochester.md | 2026-02-01 | Rochester | citizens | Citizen Check: ICE Agents Surround U.S. Citizen Family Home in Rochester
 - incidents/2026-01/31/2026-01-31-rochester-government-center-citizen-detained.md | 2026-01-31 | Rochester | citizens | U.S. Citizen Detained at Olmsted County Government Center, Released After Identity Verified
-- incidents/2026-01/30/2026-01-30-dhs-response-racial-profiling-false.md | 2026-01-30 | Minneapolis | response | DHS Response: Racial Profiling Allegations Are "Disgusting, Reckless and Categorically FALSE"
 - incidents/2026-01/30/2026-01-30-richfield-middle-school-bus-route.md | 2026-01-30 | Richfield | schools-hospitals | Federal Agents Present on Richfield Middle School Bus Route
 - incidents/2026-01/30/2026-01-30-jose-lozano-worthington.md | 2026-01-30 | Worthington | citizens | Jose Lozano Detained Despite Valid Temporary Permit in Worthington
 - incidents/2026-01/30/2026-01-30-st-peter-police-chief-intervenes.md | 2026-01-30 | St. Peter | observers | St. Peter Police Chief Retrieves U.S. Citizen From ICE Custody Mid-Transport
@@ -129,6 +128,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/18/2026-01-18-dhs-response-juan-carlos.md | 2026-01-18 | Minneapolis | response | DHS Response: Kneeing Victim is "Criminal Alien from Ecuador"
 - incidents/2026-01/18/2026-01-18-perla-ocampo-willmar-citizen.md | 2026-01-18 | Willmar | citizens | U.S. Citizen College Student Violently Dragged from Car by ICE Agents
 - incidents/2026-01/18/2026-01-18-dhs-response-accent-detention.md | 2026-01-18 | Minneapolis | response | DHS Statement: Defends Accent-Based Detention
+- incidents/2026-01/30/2026-01-30-dhs-response-racial-profiling-false.md | 2026-01-18 | Minneapolis | response | DHS Response: Racial Profiling Allegations Are "Disgusting, Reckless and Categorically FALSE"
 - incidents/2026-01/17/2026-01-17-elizabeth-jackson-observer-arrested.md | 2026-01-17 | St. Paul | observers | Observer Arrested by ICE After Being Threatened at Staging Area Ten Days Earlier
 - incidents/2026-01/17/2026-01-17-mischief-toy-store-ice-inspection.md | 2026-01-17 | St. Paul | observers | Toy Store Receives ICE Inspection Notice Hours After ABC News Interview
 - incidents/2026-01/16/2026-01-16-parral-ortiz-hospital-detention.md | 2026-01-16 | Mounds View | immigrants, schools-hospitals | Man Detained While Driving Sick Wife to Emergency Room
@@ -156,7 +156,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/14/2026-01-14-agents-invoke-good-killing.md | 2026-01-14 | Minneapolis | background | "Have You Not Learned?": Agents Repeatedly Invoke Renee Good's Killing to Threaten Observers
 - incidents/2026-01/14/2026-01-14-circle-pines-restaurant-worker.md | 2026-01-14 | Circle Pines | citizens | Restaurant Worker with Legal Visa Detained by Plain-Clothed Agents
 - incidents/2026-01/14/2026-01-14-ramon-menera-accent-detained.md | 2026-01-14 | Columbia Heights | citizens | U.S. Citizen Detained Because of "Accent"
-- incidents/2026-01/14/2026-01-14-st-paul-public-works-snowplow-driver.md | 2026-01-14 | St. Paul | immigrants | St. Paul Snowplow Driver with Legal Work Status Detained by ICE
+- incidents/2026-01/14/2026-01-14-st-paul-public-works-snowplow-driver.md | 2026-01-14 | St. Paul | citizens | St. Paul Snowplow Driver with Legal Work Status Detained by ICE
 - incidents/2026-01/14/2026-01-14-nasra-ahmed-st-paul-citizen.md | 2026-01-14 | St. Paul | citizens | U.S. Citizen Born in Minnesota Detained by ICE for Two Days
 - incidents/2026-01/14/2026-01-14-julio-sosa-celis-shooting.md | 2026-01-14 | Minneapolis | citizens | ICE Agent Shoots Man Through Closed Door in North Minneapolis; Bullet Enters Apartment with Four Children
 - incidents/2026-01/14/2026-01-14-dhs-response-frey-sanctuary.md | 2026-01-14 | Minneapolis | response | DHS Blames Mayor Frey's Sanctuary Policies for Criminal Release

@@ -31,14 +31,14 @@ At a White House briefing marking one year in office, President Trump acknowledg
 ### Trump on ICE "Mistakes"
 At the White House briefing on January 20, 2026, Trump stated:
 
-> "They're going to make mistakes sometimes. ICE is going to be too rough with somebody, or, you know, they deal with rough people. They're going to make a mistake. Sometimes it can happen. We feel terribly."
+> "ICE is going to be too rough with somebody, or, you know, they're dealing with rough people. They're going to make mistakes sometimes. They're going to make a mistake. Sometimes it can happen. We feel terribly."
 
 Referring to the fatal shooting of Renee Good in Minneapolis, Trump said he "felt horribly" when he heard about her death, calling it "a tragedy" and "a horrible thing."
 
 ### Emphasis on "Murderers and Drug Dealers"
 In response to questions about enforcement concerns, Trump displayed criminal histories of those apprehended during Minnesota operations. Standing at the briefing room podium, he flipped through pages of arrest records and stated:
 
-> "They don't say it like they should. They're apprehending murderers and drug dealers, a lot of bad people."
+> "They don't say it like they should. They're apprehending murderers and drug dealers and a lot of bad people."
 
 On social media, Trump emphasized:
 

@@ -57,7 +57,7 @@ This directly contradicts the initial public statements from Noem and other offi
 | Date | Claim | Status |
 |------|-------|--------|
 | Jan 24 | Noem calls Pretti a "domestic terrorist" | Not retracted |
-| Jan 24 | Stephen Miller claims "violent riot" | Walked back |
+| Jan 24 | Stephen Miller calls Pretti a "would-be assassin" | Walked back |
 | Jan 25 | Bovino displays Pretti's gun, implies threat | Does not confirm gun was drawn |
 | Jan 28-29 | DHS internal report to Congress | No mention of attack or brandishing |
 | Jan 29 | Noem: "best information at the time" | Shifts tone, does not retract |

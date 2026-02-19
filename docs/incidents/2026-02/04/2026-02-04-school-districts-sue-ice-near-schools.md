@@ -28,7 +28,7 @@ Fridley Public Schools, Duluth Public Schools, and Education Minnesota (the stat
 4. CBS Minnesota (Feb 4, 2026): [Minnesota school districts, teachers unions sue to block immigration agents from school property](https://www.cbsnews.com/minnesota/news/minnesota-school-districts-teachers-unions-sue-to-block-immigration-agents-from-school-property/)
 5. Education Week (Feb 4, 2026): [Educators sue over ICE activity on school grounds and nearby](https://www.edweek.org/policy-politics/educators-sue-over-ice-activity-on-school-grounds-and-nearby/2026/02)
 6. Duluth News Tribune (Feb 4, 2026): [Duluth schools leads lawsuit to keep ICE out of schools](https://www.duluthnewstribune.com/news/local/duluth-schools-leads-lawsuit-to-keep-ice-out-of-schools)
-7. Fox 9 (Feb 4, 2026): [Minnesota educators lawsuit ICE enforcement near schools](https://www.fox9.com/news/minnesota-educators-lawsuit-ice-enforcement-near-schools-feb-2026)
+7. FOX 9 (Feb 4, 2026): [Minnesota educators lawsuit ICE enforcement near schools](https://www.fox9.com/news/minnesota-educators-lawsuit-ice-enforcement-near-schools-feb-2026)
 8. Court Complaint (Feb 4, 2026): [Fridley et al. v. Noem et al. — Filed Complaint](https://democracyforward.org/wp-content/uploads/2026/02/Fridley-et-al.-v.-Noem-et-al.-FILED-STAMPED-COMPLAINT-2-4-26.pdf)
 9. CourtListener: [Docket — Fridley Public School District v. Noem](https://www.courtlistener.com/docket/72229130/fridley-public-school-district-independent-school-district-14-v-noem/)
 10. Chalkbeat (Feb 11, 2026): [Congress could keep ICE away from schools. These superintendents aren't waiting to act.](https://www.chalkbeat.org/2026/02/11/minnesota-superintendents-sue-to-restore-sensitive-locations-protections/)

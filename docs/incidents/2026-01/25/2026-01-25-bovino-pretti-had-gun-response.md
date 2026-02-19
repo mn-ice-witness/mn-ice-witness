@@ -46,7 +46,7 @@ Bovino ended the press conference after receiving just two questions about wheth
 Director Kostas Moros stated: "We hope a full and thorough investigation will be conducted and justice properly served." SAF added: "People should not fear interacting with police officers just because they are lawfully carrying."
 
 ### Minnesota Gun Owners Caucus (MGOC)
-Executive Director Bryan Strawser stated: "Every peaceable Minnesotan has the right to keep and bear arms—including while attending protests, acting as observers, or exercising their First Amendment rights."
+Chair Bryan Strawser stated: "Every peaceable Minnesotan has the right to keep and bear arms—including while attending protests, acting as observers, or exercising their First Amendment rights."
 
 The organization called for "a full and transparent investigation by both state and federal authorities."
 

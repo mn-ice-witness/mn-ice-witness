@@ -5,7 +5,7 @@ location: DHS Official Statement
 city: Columbia Heights
 type: response
 status: resolved
-affected_individual_citizenship: unknown
+affected_individual_citizenship: n/a
 injuries: none
 trustworthiness: high
 created: 2026-01-22T08:09:58

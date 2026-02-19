@@ -37,7 +37,7 @@ KARE 11 anchor Jana Shortal was pushed twice by federal agents and pepper spraye
 
 ## Timeline
 
-- **~9:15 a.m.** - Border Patrol agents shoot and kill a 37-year-old Minneapolis man near 26th Street and Nicollet Avenue.
+- **~9:05 a.m.** - Border Patrol agents shoot and kill a 37-year-old Minneapolis man near 26th Street and Nicollet Avenue.
 - **Later** - Shortal arrives at scene with press credentials, positions herself behind police line.
 - **After arrival** - Federal agents order crowd to move back.
 - **During pushback** - Agent pushes Shortal hard despite her identifying as press; she says "Do not push me, I'm press."
@@ -64,14 +64,14 @@ The incident occurred during the immediate aftermath of a fatal shooting by fede
 - **Victim:** 37-year-old white male, Minneapolis resident, U.S. citizen
 - **Status:** Lawful gun owner with valid permit to carry, no criminal record
 - **DHS claim:** Man "approached Border Patrol officers with a 9 mm semi-automatic handgun" and "violently resisted" disarming
-- **Video evidence:** CBS Minnesota reviewed video showing "several federal agents surrounding a person on the ground" and "one of the agents hits the person with a gun several times before several gunshots are heard." Multiple videos showed the person "without a weapon in hand before agents tackled him to the ground."
+- **Video evidence:** Bystander videos reviewed by CBS News showed Pretti holding a phone, not a weapon, before agents tackled him. Footage showed several agents surrounding and struggling with him on the ground, with one agent repeatedly striking him before approximately ten shots were fired.
 - **Police Chief O'Hara:** Said victim's only interaction with law enforcement was traffic tickets
 
 This was the third shooting by federal agents in Minneapolis since January 7, 2026, and the second fatality.
 
 ## Context: Federal Injunction on Chemical Irritants
 
-On January 17, 2026, U.S. District Judge Katherine Menendez issued a preliminary injunction barring federal agents from using pepper spray on peaceful protesters and observers. The court found that chemical agents had been used against protesters on multiple occasions and that "protected conduct—including peaceful protesting and observation—had motivated the agents' actions."
+On January 17, 2026, U.S. District Judge Katherine Menendez issued a preliminary injunction barring federal agents from using pepper spray on peaceful protesters and observers. The court found that chemical agents had been used against protesters on multiple occasions and that plaintiffs had engaged in protected activity, including peaceful protesting and observation, before being subjected to retaliatory action by federal agents.
 
 This incident occurred seven days after that injunction was issued.
 
@@ -83,7 +83,7 @@ This incident occurred seven days after that injunction was issued.
 
 ### Mayor Jacob Frey
 
-> "I just saw a video of more than six masked agents pummeling one of our constituents and shooting him to death. How many more residents, how many more Americans, need to die or get badly hurt for this operation to end?"
+> "I just saw a video of more than six masked agents pummeling one of our constituents and shooting him to death. How many more residents, how many more Americans need to die or get badly hurt for this operation to end?"
 
 ## Related Incidents
 

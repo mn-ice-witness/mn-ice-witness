@@ -3,7 +3,7 @@ date: 2026-01-14
 time: unknown
 location: St. Paul
 city: St. Paul
-type: immigrants
+type: citizens
 status: ongoing
 affected_individual_citizenship: legal-resident
 injuries: none

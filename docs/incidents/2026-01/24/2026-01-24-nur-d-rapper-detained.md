@@ -16,7 +16,7 @@ search_tags: observer-detained, us-citizen, excessive-force, chemical-agents, sr
 # Minneapolis Rapper Nur-D Detained at Pretti Scene: "You're Gonna Kill Me. That's What You Want?"
 
 ## Summary
-Matthew James Obadiah Allen, known as Twin Cities hip-hop artist Nur-D, was violently detained by federal agents at the scene of the Alex Pretti shooting. According to witnesses, he was gassed, shot with rubber bullets and/or pepper balls, and tackled while his back was turned. After being subdued and handcuffed, he was maced at point blank range. His wife could be heard screaming at the scene. Nur-D alleges ICE stole his cell phone while in custody. He was released the same day and reunited with his wife. In a statement after his release, he said: "As long as ICE can openly murder people in the streets with impunity, there is no justice."
+Matthew James Obadiah Allen, known as Twin Cities hip-hop artist Nur-D, was violently detained by federal agents at the scene of the Alex Pretti shooting. According to witnesses, he was gassed, shot with rubber bullets and/or pepper balls, and tackled while his back was turned. After being subdued and handcuffed, he was maced at point blank range. His wife could be heard screaming at the scene. He was released the same day and reunited with his wife.
 
 ## Sources
 1. Bring Me The News (Jan 24, 2026): [Video shows local rapper Nur-D being aggressively detained by federal agents](https://bringmethenews.com/minnesota-news/video-shows-local-rapper-nur-d-being-aggressively-detained-by-federal-agents)
@@ -53,10 +53,7 @@ According to Arik Cannon, owner of F1rst Wrestling (where Nur-D has performed):
 His wife could be heard screaming at the scene during the detention.
 
 ## Aftermath
-Nur-D posted on Instagram Saturday evening confirming he was safe and reunited with his wife. He alleged that ICE stole his cell phone while in custody.
-
-**Statement from Nur-D:**
-> "As long as ICE can openly murder people in the streets with impunity, there is no justice."
+Nur-D posted on Instagram Saturday evening confirming he was safe and reunited with his wife.
 
 ## Editorial Assessment
 **HIGH** - Named individual (public figure), multiple news sources, witness account from Arik Cannon, social media posts from Nur-D himself confirming the incident. Video evidence exists of the detention.

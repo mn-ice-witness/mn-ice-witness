@@ -38,7 +38,5 @@ Three Columbia Heights High School students had their cars surrounded by ICE veh
 
 > "It's not my job to talk to a 16-year-old child like I had to do this morning and talk them down and listen to them about their experiences where they had to show their passport to masked agents." — Superintendent Zena Stenvik, NPR
 
-> "When I come to school in the morning, I take a lap around my block with my truck first to see who is there, sitting there." — Parent, The New Yorker
-
 ## Editorial Assessment
 **HIGH** - Named school official (Superintendent Stenvik), NPR national interview, specific details about three students and ICE positioning around schools. Part of documented pattern of ICE activity targeting Columbia Heights school community.

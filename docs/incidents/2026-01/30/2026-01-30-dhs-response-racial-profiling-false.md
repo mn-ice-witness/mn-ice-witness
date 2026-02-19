@@ -1,23 +1,23 @@
 ---
-date: 2026-01-30
+date: 2026-01-18
 time: unknown
 location: Washington, D.C.
 city: Minneapolis
 type: response
 status: ongoing
-affected_individual_citizenship: us-citizen
+affected_individual_citizenship: n/a
 injuries: none
 trustworthiness: high
 created: 2026-02-01T16:43:39
 last_updated: 2026-02-01T16:43:39
-search_tags: src:npr, src:mpr
+search_tags: src:npr, src:mpr, src:star-tribune
 ---
 
 # DHS Response: Racial Profiling Allegations Are "Disgusting, Reckless and Categorically FALSE"
 
 ## Summary
 
-On January 30, 2026, DHS Assistant Secretary for Public Affairs Tricia McLaughlin issued a statement categorically denying that ICE engages in racial profiling. The statement came as multiple U.S. citizens reported being stopped, detained, and in some cases injured by federal agents based on their appearance rather than any immigration violation.
+In a written statement published in the Star Tribune on January 18, 2026, DHS Assistant Secretary Tricia McLaughlin categorically denied that ICE engages in racial profiling. The statement came as multiple U.S. citizens reported being stopped, detained, and in some cases injured by federal agents based on their appearance rather than any immigration violation.
 
 ## Sources
 

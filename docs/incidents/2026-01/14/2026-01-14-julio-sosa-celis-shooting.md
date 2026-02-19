@@ -42,7 +42,7 @@ On January 14, 2026, an ICE agent shot Julio Cesar Sosa-Celis, 24, in the leg du
 12. Star Tribune (Feb 12, 2026): [DOJ moves to drop charges against men arrested after north Minneapolis ICE shooting](https://www.startribune.com/doj-moves-to-drop-charges-against-men-arrested-after-north-minneapolis-ice-shooting/601581378)
 13. CBS News (Feb 12, 2026): [DOJ drops charges against men accused of assaulting ICE officers, citing "inconsistent" evidence](https://www.cbsnews.com/news/doj-drops-charges-assaulting-ice-officers-inconsistent-evidence/)
 14. Fox 9 (Feb 12, 2026): [North Minneapolis ICE shooting: DOJ dismisses charges against Venezuelan men](https://www.fox9.com/news/north-minneapolis-ice-shooting-doj-dismisses-charges-venezuelan-men-feb-12-2026)
-15. KSTP (Jan 2026): [2 ICE agents under investigation for untruthful statements about north Minneapolis shooting](https://kstp.com/kstp-news/top-news/2-ice-agents-under-investigation-for-untruthful-statements-about-north-minneapolis-shooting/)
+15. KSTP (Feb 13, 2026): [2 ICE agents under investigation for untruthful statements about north Minneapolis shooting](https://kstp.com/kstp-news/top-news/2-ice-agents-under-investigation-for-untruthful-statements-about-north-minneapolis-shooting/)
 16. KARE 11 (Feb 12, 2026): [Charges against man shot and injured by federal agent to be dismissed](https://www.kare11.com/article/news/local/ice-in-minnesota/charges-man-shot-injured-by-federal-agent-motion-dismiss/89-b9bac675-171a-4f5a-ae20-6ccfae5874e1)
 17. KARE 11 (Feb 12, 2026): [Prosecutors move to dismiss charges against men accused of hitting ICE officer with broom and shovel](https://www.kare11.com/article/associatedpress/associatedpress/prosecutors-move-to-dismiss-charges-against-men-accused-of-hitting-ice-officer-with-broom-and-shovel/616-ebe3407e-73c9-4304-ab5a-f78bc2c0e836)
 18. NPR (Feb 13, 2026): [DHS says immigration agents appear to have lied about shooting in Minnesota](https://www.npr.org/2026/02/13/nx-s1-5713947/immigration-agents-lie-minnesota)
@@ -97,8 +97,8 @@ On January 14, 2026, an ICE agent shot Julio Cesar Sosa-Celis, 24, in the leg du
 
 ## Timeline
 - **Jan 14 (evening)** - ICE agents attempt a traffic stop. FBI later reveals the target was someone else — mistaken identity.
-- **Pursuit** - Sosa-Celis flees in his vehicle, crashes into a parked car, then flees on foot to the duplex he shares with Aljorna and the two women.
-- **Confrontation outside** - ICE agent and Sosa-Celis struggle outside the duplex. DHS claims Aljorna and another man attacked the agent with a snow shovel and broom. Partner Mendoza Camacho, who witnessed the events, says Sosa-Celis "never grabbed anything" and "only tried to separate them so they could both get into the house."
+- **Pursuit** - Aljorna flees in his vehicle, crashes into a parked car, then flees on foot to the duplex he shares with Sosa-Celis and the two women.
+- **Confrontation outside** - ICE agent tackles Aljorna outside the duplex. DHS claims Sosa-Celis and another man attacked the agent with a snow shovel and broom. Partner Mendoza Camacho, who witnessed the events, says Sosa-Celis "never grabbed anything" and "only tried to separate them so they could both get into the house."
 - **Inside the duplex** - Aljorna breaks free. Both men enter the home and close the door.
 - **Shooting** - Agent fires through the closed front door. Bullet grazes Sosa-Celis' right thigh, continues through a wall, and lodges in the wall of a first-floor apartment near a child's playpen. Four children and an adult were present in that room.
 - **Tear gas** - Agents fire a tear gas canister through an apartment window.

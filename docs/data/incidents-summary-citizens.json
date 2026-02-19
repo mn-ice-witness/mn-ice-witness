@@ -1,48 +1,6 @@
 {
   "incidents": [
     {
-      "filePath": "incidents/2026-02/13/2026-02-13-minneapolis-203m-economic-impact.md",
-      "title": "Minneapolis Estimates $203 Million Economic Impact from Operation Metro Surge",
-      "summary": "City of Minneapolis officials released a preliminary impact assessment showing Operation Metro Surge caused an estimated $203.1 million in documented economic damage to the city. The largest category was $81 million in business and restaurant losses, followed by $47 million in lost worker wages from people afraid to leave their homes. Emergency Management Director Rachel Sayre called the figures \"almost certainly undercounts.\"",
-      "latestUpdate": null,
-      "correctionNote": null,
-      "date": "2026-02-13",
-      "time": "unknown",
-      "location": "Minneapolis City Hall",
-      "city": "Minneapolis",
-      "type": "citizens",
-      "status": "resolved",
-      "affectedIndividualCitizenship": "n/a",
-      "injuries": "none",
-      "trustworthiness": "high",
-      "created": "2026-02-14T20:20:45",
-      "lastUpdated": "2026-02-14T20:20:45",
-      "mediaCount": 0,
-      "notable": false,
-      "searchTags": [
-        "src:star-tribune",
-        "src:mpr",
-        "src:fox9",
-        "src:wcco",
-        "src:kare11",
-        "src:kstp",
-        "src:bring-me-the-news",
-        "src:other-national"
-      ],
-      "hasLocalMedia": true,
-      "localMediaType": "image",
-      "localMediaPath": "media/2026-02/13/2026-02-13-minneapolis-203m-economic-impact.jpg",
-      "localMediaOgPath": null,
-      "localMediaFiles": [
-        {
-          "type": "image",
-          "path": "media/2026-02/13/2026-02-13-minneapolis-203m-economic-impact.jpg"
-        }
-      ],
-      "aspectRatio": 1.3363028953229399,
-      "mediaVersion": 1771132542
-    },
-    {
       "filePath": "incidents/2026-02/07/2026-02-07-wilmer-andrade-work-permit-targeted.md",
       "title": "ICE Targets Man with Valid Work Permit and Pending Crime Victim Visa",
       "summary": "ICE agents knocked on Wilmer Andrade's door in the Twin Cities suburbs seeking his arrest, despite Andrade holding a valid work permit and a pending U visa application as a crime victim. Andrade, who was beaten and robbed in Minneapolis five years ago and has no criminal history in Minnesota, refused to open the door and was not taken into custody. The incident is part of a pattern of Operation Metro Surge increasingly targeting immigrants with active work authorization and pending legal cases.",
@@ -477,6 +435,7 @@
         "us-citizen",
         "citizen-check",
         "excessive-force",
+        "vehicle-pursuit",
         "src:other-local"
       ],
       "hasLocalMedia": true,
@@ -856,7 +815,7 @@
     {
       "filePath": "incidents/2026-01/15/2026-01-15-nadine-ice-car-rammed-citizens.md",
       "title": "ICE Rams Into Parked Car, Demands U.S. Citizen Couple Show Citizenship Papers",
-      "summary": "In January 2026, ICE agents rammed into a parked car belonging to Minneapolis resident Nadine and her Latino U.S. citizen husband, then cornered them with three vehicles. Despite being citizens, agents demanded the husband provide proof of citizenship. When Nadine attempted to exit her vehicle to photograph the ICE vehicle's license plate for insurance purposes, agents threatened her with obstruction charges. Agents refused to provide names or badge numbers. Nadine later filed a police report and learned the ICE vehicle's plates could not be located in police systems.",
+      "summary": "In January 2026, ICE agents rammed into a parked car belonging to Minneapolis resident Nadine and her Latino U.S. citizen husband, then cornered them with three vehicles while all agents wore masks. Despite being citizens, agents demanded the husband provide proof of citizenship. When Nadine attempted to exit her vehicle to document the ICE vehicle's license plate, agents threatened her with obstruction charges. Agents refused to provide names or badge numbers.",
       "latestUpdate": null,
       "correctionNote": null,
       "date": "2026-01-15",
@@ -966,6 +925,46 @@
       "localMediaFiles": [],
       "aspectRatio": null,
       "mediaVersion": null
+    },
+    {
+      "filePath": "incidents/2026-01/14/2026-01-14-st-paul-public-works-snowplow-driver.md",
+      "title": "St. Paul Snowplow Driver with Legal Work Status Detained by ICE",
+      "summary": "A St. Paul Public Works employee working as a snowplow driver was detained by ICE agents outside a work site despite having valid federal work authorization and a commercial driver's license. Public Works Director Sean Kershaw stated the detention \"never should have happened\" and that the worker was targeted \"purely based on his country of origin.\" The man is currently being held at a detention facility in El Paso, Texas.",
+      "latestUpdate": null,
+      "correctionNote": null,
+      "date": "2026-01-14",
+      "time": "unknown",
+      "location": "St. Paul",
+      "city": "St. Paul",
+      "type": "citizens",
+      "status": "ongoing",
+      "affectedIndividualCitizenship": "legal-resident",
+      "injuries": "none",
+      "trustworthiness": "high",
+      "created": "2026-01-18T22:24:48",
+      "lastUpdated": "2026-01-18T22:24:48",
+      "mediaCount": 0,
+      "notable": false,
+      "searchTags": [
+        "legal-resident",
+        "workplace-raid",
+        "family-separation",
+        "src:fox9",
+        "src:pioneer-press",
+        "src:kare11"
+      ],
+      "hasLocalMedia": true,
+      "localMediaType": "video",
+      "localMediaPath": "media/2026-01/14/2026-01-14-st-paul-public-works-snowplow-driver.mp4",
+      "localMediaOgPath": "media/2026-01/14/2026-01-14-st-paul-public-works-snowplow-driver-og-2s-1769985954.jpg",
+      "localMediaFiles": [
+        {
+          "type": "video",
+          "path": "media/2026-01/14/2026-01-14-st-paul-public-works-snowplow-driver.mp4"
+        }
+      ],
+      "aspectRatio": 1.8384615384615384,
+      "mediaVersion": 1769985954
     },
     {
       "filePath": "incidents/2026-01/14/2026-01-14-nasra-ahmed-st-paul-citizen.md",

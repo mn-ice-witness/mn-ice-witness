@@ -4,8 +4,8 @@ time: unknown
 location: DHS Official Statement
 city: Minneapolis
 type: response
-status: ongoing
-affected_individual_citizenship: various
+status: resolved
+affected_individual_citizenship: n/a
 injuries: none
 trustworthiness: high
 created: 2026-01-15T13:59:54
@@ -19,13 +19,13 @@ search_tags:
 DHS issued a statement criticizing Minneapolis Mayor Jacob Frey's sanctuary city policies, claiming they have resulted in the release of "nearly 470 criminal illegal aliens" back onto Minnesota streets since President Trump took office. The statement centered on a vehicular homicide case as evidence for why sanctuary policies are "dangerous."
 
 ## Sources
-1. DHS (Jan 14, 2026): [Mayor Frey's Sanctuary Policies Release Criminal Illegal Aliens from Jails Back onto the Streets](https://www.dhs.gov/news/2026/01/14/mayor-freys-sanctuary-policies-release-criminal-illegal-aliens-jails-back)
+1. DHS (Jan 14, 2026): [Mayor Frey's Sanctuary Policies Release Criminal Illegal Aliens From Jails Back onto Minneapolis Streets to Terrorize More Innocent Americans](https://www.dhs.gov/news/2026/01/14/mayor-freys-sanctuary-policies-release-criminal-illegal-aliens-jails-back)
 
 ## Official Statements
 
 ### DHS Key Claims
 - Governor Walz and Mayor Frey have "refused to cooperate with ICE" since President Trump took office
-- **470** "criminal illegal aliens" allegedly released back onto streets
+- "Nearly 470" "criminal illegal aliens" allegedly released back onto streets
 - Sanctuary policies are "dangerous" and enable reoffending
 
 ### DHS Assistant Secretary Tricia McLaughlin

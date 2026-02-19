@@ -20,8 +20,8 @@ Combat-wounded Army veteran William Vermie was detained for approximately eight 
 
 ## Sources
 1. ABC News Video (Jan 19, 2026): [Former combat vet alleges he wasn't given access to an attorney during ICE detainment](https://abcnews.go.com/US/video/former-combat-vet-alleges-wasnt-access-attorney-ice-129362491)
-2. KARE 11 (Jan 15, 2026): [Army veteran says ICE agents detained him for hours without access to phone or his attorney](https://www.kare11.com/article/news/local/ice-in-minnesota/army-veteran-ice-agents-detained-without-access-attorney/89-2c0a17b4-78da-452d-9b6e-47e2ebb6fd31)
-3. 13 News Now (Jan 15, 2026): [Army veteran says ICE agents detained him for hours without access to phone or his attorney](https://www.13newsnow.com/article/news/nation-world/army-veteran-ice-agents-detained-without-access-attorney/89-2c0a17b4-78da-452d-9b6e-47e2ebb6fd31)
+2. KARE 11 (Jan 19, 2026): [Army veteran says ICE agents detained him for hours without access to phone or his attorney](https://www.kare11.com/article/news/local/ice-in-minnesota/army-veteran-ice-agents-detained-without-access-attorney/89-2c0a17b4-78da-452d-9b6e-47e2ebb6fd31)
+3. 13 News Now (Jan 19, 2026): [Army veteran says ICE agents detained him for hours without access to phone or his attorney](https://www.13newsnow.com/article/news/nation-world/army-veteran-ice-agents-detained-without-access-attorney/89-2c0a17b4-78da-452d-9b6e-47e2ebb6fd31)
 
 ## Affected Individual(s)
 - **Name:** William Vermie

@@ -60,7 +60,7 @@ At the same press conference, ICE official Marcos Charles accused Liam's father,
 
 Charles described what happened after the father was apprehended:
 
-> "My officers cared for him, took him to get something to eat from a drive-through restaurant and spent hours ensuring he was taken care of. Not his father."
+> "After conducting the arrest, my officers, they cared for him, took him to get something to eat from a drive-through restaurant, and spent hours ensuring he was taken care of."
 
 Charles said officers tried to return Liam to his family: "Tragically, when we approached the door of his residence, the people inside refused to take him in and open the door."
 

@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: medium
 created: 2026-02-02T17:29:00
 last_updated: 2026-02-02T17:29:00
-search_tags: us-citizen, citizen-check, excessive-force, src:other-local
+search_tags: us-citizen, citizen-check, excessive-force, vehicle-pursuit, src:other-local
 ---
 
 # U.S. Citizen Detained Outside Rochester Bowling Alley, Released After Rep. Kim Hicks Intervenes

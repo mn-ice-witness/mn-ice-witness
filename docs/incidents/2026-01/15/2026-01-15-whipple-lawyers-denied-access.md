@@ -30,9 +30,9 @@ Multiple attorneys allege the Department of Homeland Security is denying detaine
 
 ## Timeline
 - **Week of Jan 13:** Attorneys report new pattern of being denied access to clients
-- **Wednesday, Jan 15:** Attorney Robert Sicoli denied access to his client
-- **Thursday, Jan 16:** Anonymous immigration attorney waited four hours outside attorney visitation room trying to see a client detained for multiple days; told repeatedly "we don't do attorney visitation"
-- **Saturday, Jan 18:** ABC News reports on attorneys' allegations
+- **Wednesday, Jan 14:** Attorney Robert Sicoli denied access to his client
+- **Thursday, Jan 15:** Anonymous immigration attorney waited four hours outside attorney visitation room trying to see a client detained for multiple days; told repeatedly "we don't do attorney visitation"
+- **Sunday, Jan 18:** ABC News reports on attorneys' allegations
 
 ## Attorney Accounts
 

@@ -4,7 +4,7 @@ time: unknown
 location: Washington, D.C.
 city: Minneapolis
 type: response
-status: ongoing
+status: resolved
 affected_individual_citizenship: n/a
 injuries: none
 trustworthiness: high
@@ -19,7 +19,7 @@ search_tags: src:fox-news
 On February 6, 2026, DHS issued a press release naming specific individuals with criminal records — including child sex offenders, domestic abusers, and an alleged gang member — and accusing "agitators and sanctuary politicians" of shielding them from arrest. The release named two Minnesota cases and three from other states. DHS warned that "obstructing law enforcement is a felony and a federal crime." The release was accompanied by Fox News coverage including a viral video of an ICE agent in St. Paul telling community members they were disrupting the arrest of a child sex offender.
 
 ## Sources
-1. DHS Press Release (Feb 6, 2026): [Meet Some of the Child Rapists, Sex Offenders, Gang Members and Violent Offenders Agitators Are Shielding](https://www.dhs.gov/news/2026/02/06/meet-some-child-rapists-sex-offenders-gang-members-and-violent-offenders-agitators)
+1. DHS Press Release (Feb 6, 2026): [Meet Some of the Child Rapists, Sex Offenders, Gang Members, and Violent Offenders Agitators Tried to Shield from Arrest](https://www.dhs.gov/news/2026/02/06/meet-some-child-rapists-sex-offenders-gang-members-and-violent-offenders-agitators)
 2. Fox News (Feb 6, 2026): [DHS says anti-ICE agitators helped child rapists, gang members evade deportation](https://www.foxnews.com/politics/child-rapists-gang-members-domestic-abusers-helped-evading-deportation-anti-ice-agitators-dhs)
 3. Fox News (Feb 6, 2026): [Viral video shows ICE agent telling agitators they're disrupting arrest of child sex offender in Minnesota](https://www.foxnews.com/us/viral-video-shows-ice-agent-telling-agitators-theyre-disrupting-arrest-child-sex-offender-minnesota)
 
@@ -40,7 +40,7 @@ DHS Assistant Secretary Tricia McLaughlin stated:
 ### Other Cases Named
 
 3. **Jose Reyes Leon-Deras** (Colorado) — Convicted child rapist. Colorado Rapid Response Network allegedly alerted him to ICE presence using a bullhorn.
-4. **Eduardo Flores-Ruiz** (Milwaukee) — Charged with domestic abuse. Federal Judge Hannah Dugan convicted of felony obstruction for directing him out a courthouse backdoor.
+4. **Eduardo Flores-Ruiz** (Milwaukee) — Charged with domestic abuse. Milwaukee County Judge Hannah Dugan convicted of felony obstruction for directing him out a courthouse backdoor.
 5. **Luis Jesus Acosta Gutierrez** (Illinois) — Venezuelan, alleged Tren de Aragua gang member. Rammed car into police, barricaded in apartment.
 
 ## Context

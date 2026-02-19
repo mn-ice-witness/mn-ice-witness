@@ -16,10 +16,10 @@ search_tags: shooting, src:cbs, src:nbc, src:fox-news, src:mother-jones
 # DOJ Declines Civil Rights Investigation into Good Shooting
 
 ## Summary
-Deputy Attorney General Todd Blanche announced there is "no basis for a criminal civil rights investigation" into the shooting death of Renee Good by ICE agent Jonathan Ross. Six federal prosecutors in Minnesota resigned, citing concerns about DOJ pressure to investigate Good's activist ties rather than the shooting itself.
+Deputy Attorney General Todd Blanche announced there is "currently no basis for a criminal civil rights investigation" into the shooting death of Renee Good by ICE agent Jonathan Ross. Six federal prosecutors in Minnesota resigned, citing concerns about DOJ pressure to investigate activist ties of Good and her widow rather than the shooting itself.
 
 ## Sources
-1. CBS News (Jan 13, 2026): [DOJ sees no basis for civil rights probe in Minnesota ICE shooting](https://www.cbsnews.com/news/doj-civil-rights-division-will-not-investigate-minneapolis-ice-shooting-sources-say/)
+1. CBS News (Jan 9, 2026): [DOJ sees no basis for civil rights probe in Minnesota ICE shooting](https://www.cbsnews.com/news/doj-civil-rights-division-will-not-investigate-minneapolis-ice-shooting-sources-say/)
 2. NBC News (Jan 13, 2026): [Federal prosecutors resign over concerns about probe](https://www.nbcnews.com/news/justice-department/least-3-prosecutors-resign-concerns-probe-minneapolis-ice-shooting-sou-rcna253876)
 3. Fox News (Jan 13, 2026): [DOJ says 'no basis' for civil rights investigation](https://www.foxnews.com/us/justice-department-declines-civil-rights-investigation-minneapolis-ice-officer-killing)
 4. Mother Jones (Jan 18, 2026): [Top Trump official says FBI won't investigate killing by ICE agent](https://www.motherjones.com/politics/2026/01/fbi-ice-jonathan-ross-renee-good-todd-blanche/)

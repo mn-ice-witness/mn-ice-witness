@@ -289,12 +289,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://mn-ice-witness.org/entry/2026-01-30-dhs-response-racial-profiling-false</loc>
-    <lastmod>2026-02-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://mn-ice-witness.org/entry/2026-01-30-richfield-middle-school-bus-route</loc>
     <lastmod>2026-02-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -729,6 +723,12 @@
   <url>
     <loc>https://mn-ice-witness.org/entry/2026-01-18-dhs-response-accent-detention</loc>
     <lastmod>2026-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://mn-ice-witness.org/entry/2026-01-30-dhs-response-racial-profiling-false</loc>
+    <lastmod>2026-02-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

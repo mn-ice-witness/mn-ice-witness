@@ -16,7 +16,7 @@ search_tags: us-citizen, citizen-check, excessive-force, src:pioneer-press, src:
 # U.S. Citizen Born in Minnesota Detained by ICE for Two Days
 
 ## Updates
-- **Jan 19** - Nasra Ahmed describes being chained "like Hannibal Lecter" during hospital transport after suffering a seizure in detention.
+- **Jan 18** - Nasra Ahmed describes being chained "like Hannibal Lecter" during hospital transport after suffering a seizure in detention.
 
 ## Summary
 Nasra Mohamed Ahmed, a 23-year-old U.S. citizen born in Hennepin County, was detained by ICE agents on January 14 in the parking lot of her St. Paul apartment complex while on her way to pick up seizure and anxiety medication. Despite telling agents she was born in Minnesota and has never been to Somalia, she was held at Sherburne County Jail without bail for more than two days before being released to her family on Friday night (January 17) without charges. During detention, she suffered a stress-induced seizure and was taken to the hospital in full restraints. She later described being chained "like Hannibal Lecter" with a padlock. She has no criminal history.
@@ -32,8 +32,8 @@ Nasra Mohamed Ahmed, a 23-year-old U.S. citizen born in Hennepin County, was det
 8. The Mirror US (Jan 18, 2026): [US citizen scarred and bruised after she was shoved to the ground and detained by ICE for 2 days](https://www.themirror.com/news/us-news/citizen-scarred-bruised-detained-ice-1626179)
 9. Complex (Jan 18, 2026): [Woman Injured, Detained, and Released by ICE Despite Being U.S. Citizen](https://www.complex.com/life/a/backwoodsaltar/us-citizen-st-paul-woman-nasra-ahmed-detained-by-ice)
 10. Inquisitr (Jan 18, 2026): [ICE Agents Pulled 23-Year-Old in a Surprise Raid, Then Left Her Scarred and Bruised](https://www.inquisitr.com/ice-agents-pulled-23-year-old-in-a-surprise-raid-then-left-her-scarred-and-bruised-they-had-a-padlock-on-me)
-11. Sahan Journal (Jan 2026): [ICE citizen detained: St. Paul woman](https://sahanjournal.com/immigration/ice-citizen-detained-st-paul-woman/)
-12. CBS Minnesota (Jan 2026): [Woman, American citizen, describes being held by ICE for two days](https://www.cbsnews.com/minnesota/news/woman-american-citizen-describes-being-held-by-ice-for-two-days/)
+11. Sahan Journal (Jan 21, 2026): [ICE citizen detained: St. Paul woman](https://sahanjournal.com/immigration/ice-citizen-detained-st-paul-woman/)
+12. CBS Minnesota (Jan 21, 2026): [Woman, American citizen, describes being held by ICE for two days](https://www.cbsnews.com/minnesota/news/woman-american-citizen-describes-being-held-by-ice-for-two-days/)
 
 ## Affected Individual(s)
 - **Name:** Nasra Mohamed Ahmed

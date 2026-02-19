@@ -40,7 +40,7 @@ The voicemail left for a Minnesota ICE officer included:
 - Officers face stalking, doxxing, and bounties on their heads
 - Mexican drug cartels allegedly work with gangs to place bounties on ICE agents
 
-## Fact-Check
+## Fact Check
 
 The 8,000% death threat figure was first used by DHS in an October 30, 2025 press release — months before the January 26 release repackaged it with the Minnesota voicemail. DHS has not provided underlying data supporting this statistic. See [NPR fact-check](https://www.npr.org/2025/10/10/nx-s1-5565146/white-house-claims-more-than-1-000-rise-in-assaults-on-ice-agents-data-says-otherwise) and [CPR News investigation](https://www.cpr.org/2025/10/02/ice-agent-assault-claims-data-lacking/) of DHS assault statistics methodology.
 

@@ -3,7 +3,7 @@ date: 2026-02-06
 time: unknown
 location: Minneapolis-St. Paul International Airport
 city: Minneapolis
-type: background
+type: immigrants
 status: ongoing
 affected_individual_citizenship: n/a
 injuries: none

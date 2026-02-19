@@ -16,11 +16,11 @@ search_tags: native-american, us-citizen, src:other-national
 # DHS Response: Native American Detentions
 
 ## Summary
-After four Oglala Sioux Tribe members (U.S. citizens) were detained near Little Earth, DHS refused to provide information unless the tribe entered into an ICE cooperation agreement. The tribe declined, citing treaty violations. ICE and DHS did not respond to media requests for comment.
+After four Oglala Sioux Tribe members (U.S. citizens) were detained near Little Earth, DHS refused to provide full information unless the tribe entered into an ICE cooperation agreement. The tribe declined, citing its existing treaties with the U.S. government. DHS told Axios it could not confirm the detentions.
 
 ## Sources
 1. Axios (Jan 13, 2026): [Oglala Sioux Tribe says ICE illegally holding tribal members from Minneapolis raids](https://www.axios.com/2026/01/13/oglala-sioux-tribe-ice-holding-tribal-members)
-2. Newsweek (Jan 13, 2026): [ICE Detains and Holds Four Native Americans, Tribal Leader Says](https://www.newsweek.com/ice-detains-native-americans-minnesota-minneapolis-oglala-sioux-11339071)
+2. Newsweek (Jan 9, 2026): [ICE Detains and Holds Four Native Americans, Tribal Leader Says](https://www.newsweek.com/ice-detains-native-americans-minnesota-minneapolis-oglala-sioux-11339071)
 3. ICT News (Jan 13, 2026): [Four Oglala detainees located, three still in ICE custody](https://ictnews.org/news/north-central-bureau/four-oglala-detainees-located-three-still-in-ice-custody/)
 
 ## Related Incident
@@ -31,10 +31,10 @@ See: [Four Homeless Oglala Sioux Citizens Detained Near Little Earth](/removed) 
 ### DHS Refusal to Comment
 When the Oglala Sioux Tribe demanded information about their detained tribal members, federal officials told the tribe they would only release information if the tribe entered into an agreement with ICE.
 
-**ICE and DHS did not respond to Axios for comment regarding the detained tribal members.**
+**DHS told Axios it could not confirm agents had arrested or encountered members of the Oglala Sioux Tribe, and that it had not uncovered any such claims from individuals in its detention centers.**
 
 ### Tribe's Response to DHS
-The Oglala Sioux Tribe declined the agreement, stating it would "violate its treaties with the U.S. government."
+The Oglala Sioux Tribe declined, stating it did not need to enter any agreement with ICE since it already had treaties with the U.S. government.
 
 The tribe's memorandum stated:
 > "Tribal citizens are not aliens" and are "categorically outside immigration jurisdiction."
@@ -42,7 +42,7 @@ The tribe's memorandum stated:
 ### State Officials' Response
 
 **Lt. Gov. Peggy Flanagan** (Native American):
-> "Native people have been here since time immemorial – there's no one that has been a citizen of this country longer than us. The obvious racial profiling happening to our community is disgraceful."
+> "Native people have been here since time immemorial — there's no one that has been a citizen of this country longer than us. The obvious racial profiling happening to our community is disgraceful."
 
 **Minnesota Native American Caucus:**
 > "Native peoples are Indigenous to this country, existing on this continent for thousands of years before the colonization of this nation — rendering deportation impossible and absurd."
@@ -56,4 +56,4 @@ The following questions remain unaddressed in DHS communications:
 - Whether racial profiling protocols were followed
 
 ## Editorial Assessment
-**HIGH** - DHS's non-response is itself well-documented. The demand for a cooperation agreement in exchange for information about detained citizens is documented by multiple sources.
+**HIGH** - DHS's evasive response and the demand for a cooperation agreement in exchange for information about detained citizens are documented by multiple sources (Axios, Newsweek, ICT News).

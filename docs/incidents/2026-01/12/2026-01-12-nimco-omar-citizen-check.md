@@ -54,7 +54,7 @@ No specific statement on this incident. Agents told Omar they were conducting an
 
 ### Local Officials
 **Minnesota Attorney General Keith Ellison:**
-Cited this incident as evidence of "unlawful racial profiling by DHS agents" in the state's lawsuit against DHS filed January 13, 2026.
+Cited this incident as evidence of "unlawful racial profiling by DHS agents" in the state's lawsuit against DHS filed January 12, 2026.
 
 ## Witness Accounts
 

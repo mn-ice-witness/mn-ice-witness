@@ -1,12 +1,12 @@
 ---
 date: 2026-01-29
-time: morning
+time: afternoon
 location: 19th Avenue East and Portland Avenue South
 city: Minneapolis
 type: observers
 status: ongoing
 affected_individual_citizenship: unknown
-injuries: none
+injuries: minor
 trustworthiness: medium
 created: 2026-02-01T15:36:48
 last_updated: 2026-02-01T15:36:48
@@ -17,7 +17,7 @@ search_tags: observer-detained, chemical-agents, src:bring-me-the-news
 
 ## Summary
 
-On the morning of January 29, 2026, federal agents arrested at least one observer and deployed chemical irritants against neighbors at 19th Avenue East and Portland Avenue South in south Minneapolis. State Rep. Aisha Gomez, whose District 62A includes the area, posted on X: "This is NOT how it's playing out on the ground. Neighbors were hit by chemical munitions and one was arrested in my district literally 90 minutes ago (19th+port). This administration lies constantly. The invasion of Minneapolis, and our courageous resistance, continues."
+On the afternoon of January 29, 2026, federal agents arrested at least one observer and deployed chemical irritants against neighbors at 19th Avenue East and Portland Avenue South in south Minneapolis. State Rep. Aisha Gomez, whose District 62A includes the area, posted on X: "This is NOT how it's playing out on the ground. Neighbors were hit by chemical munitions and one was arrested in my district literally 90 minutes ago (19th+port). This administration lies constantly. The invasion of Minneapolis, and our courageous resistance, continues."
 
 ## Sources
 

@@ -40,7 +40,7 @@ See full incident details: [Alex Pretti Shot and Killed by Federal Agents](#2026
 
 DHS stated Pretti "violently resisted" officers' attempts to disarm him.
 
-> "Fearing for his life and the lives and safety of fellow officers, an agent fired defensive shots."
+> "Fearing for his life and the lives and safety of fellow officers, a Border Patrol agent fired defensive shots."
 
 DHS claimed Pretti possessed two additional magazines and no identification. The agency provided a photograph of the alleged firearm, identified by CNN as a SIG Sauer Emperor Scorpion.
 
