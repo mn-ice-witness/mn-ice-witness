@@ -21,7 +21,7 @@ Two Target drive-up employees, both U.S. citizens, were aggressively detained by
 ## Sources
 1. Bring Me The News Video (Jan 8, 2026): [Border agents descend on Richfield Target](https://bringmethenews.com/minnesota-news/video-border-agents-descend-on-richfield-target-store-arrest-drive-up-workers)
 2. X Video (Jan 9, 2026): [Witness account](https://x.com/Peace_within_00/status/2010857759957229693)
-3. Bring Me The News (Jan 9, 2026): [Protesters demand action after ICE arrests of U.S. citizen Target employees](https://bringmethenews.com/minnesota-news/protesters-demand-action-after-ice-arrests-of-u-s-citizen-target-employees)
+3. Bring Me The News (Jan 11, 2026): [Protesters demand action after ICE arrests of U.S. citizen Target employees](https://bringmethenews.com/minnesota-news/protesters-demand-action-after-ice-arrests-of-u-s-citizen-target-employees)
 4. Star Tribune (Jan 12, 2026): [Target employees detained by federal officers were U.S. citizens](https://www.startribune.com/target-employees-federal-arrest-border-patrol-renee-nicole-good-shooting-ice-crackdown-minneapolis/601562858)
 5. Newsweek (Jan 9, 2026): [US citizens "aggressively" detained by CBP while working at Target](https://www.newsweek.com/us-citizens-aggressively-detained-border-patrol-working-target-11349481)
 6. KARE 11 (Jan 8, 2026): [Federal agents take 2 into custody at Richfield Target](https://www.kare11.com/article/news/local/ice-in-minnesota/federal-agents-richfield-target/89-074f28c7-c04f-4392-9165-08ca304b0f39)
