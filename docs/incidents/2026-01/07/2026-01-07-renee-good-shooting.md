@@ -9,13 +9,14 @@ affected_individual_citizenship: us-citizen
 injuries: fatal
 trustworthiness: high
 created: 2026-01-14T08:01:12
-last_updated: 2026-02-04T16:19:46
+last_updated: 2026-02-18T22:59:25
 search_tags: us-citizen, shooting, src:star-tribune, src:fox9, src:nyt, src:wcco, src:wapo, src:cnn, src:npr, src:abc, src:intercept, src:pbs, src:nbc, src:mpr, src:kstp, src:kare11, src:other-national, src:mother-jones, src:mn-reformer, src:sahan-journal
 ---
 
 # Renee Nicole Good Shot and Killed by ICE Agent
 
 ## Updates
+- **Feb 18** - Feb 17 evidence deadline [passes without federal response](https://www.fox9.com/news/hcao-demands-feds-turn-over-evidence-ice-shootings-feb-2026). Moriarty says state is ["in good shape"](https://kstp.com/kstp-news/local-news/moriarty-calls-lack-of-federal-cooperation-in-ice-shootings-unacceptable-submits-new-demand-for-pretti-evidence/) to consider charging the agents, calls federal obstruction "unacceptable."
 - **Feb 3** - Brothers [Luke and Brent Ganger testify before Congress](https://www.cbsnews.com/minnesota/news/renee-good-brothers-capitol-hill-hearing-use-of-force/) at a bicameral forum on DHS use of force hosted by Sen. Blumenthal and Rep. Garcia. Luke Ganger: "Our family took some consolation thinking that perhaps Nay's death would bring about change in our country. And it has not."
 - **Feb 2** - Hennepin County Attorney Mary Moriarty [served Touhy letters](https://www.startribune.com/minnesota-prosecutors-formally-demand-evidence-from-trump-administration-over-the-killing-of-renee-good/601575530) on DOJ and DHS demanding crime scene evidence with a Feb 17 deadline.
 - **Jan 23** - FBI agent Tracee Mergen, a supervisor in the Minneapolis field office, [resigned](https://www.nytimes.com/2026/01/23/us/fbi-agent-ice-shooting-renee-good.html) after bureau leadership in Washington pressured her to discontinue a civil rights inquiry into Jonathan Ross.

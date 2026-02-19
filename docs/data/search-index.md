@@ -16,10 +16,11 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (275 incidents)
+## CURRENT (276 incidents)
 
 Published incidents visible on the main site.
 
+- incidents/2026-02/16/2026-02-16-five-west-rochester-kitchen-workers.md | 2026-02-16 | Rochester | immigrants | Two Kitchen Workers Detained at Five West Restaurant in Rochester
 - incidents/2026-02/13/2026-02-13-minneapolis-203m-economic-impact.md | 2026-02-13 | Minneapolis | background | Minneapolis Estimates $203 Million Economic Impact from Operation Metro Surge
 - incidents/2026-02/13/2026-02-13-sheriff-witt-denies-ice-deal.md | 2026-02-13 | Minneapolis | response | Sheriff Witt Denies ICE Deal, Says She Was "Scapegoated"
 - incidents/2026-02/12/2026-02-12-homan-operation-metro-surge-conclusion.md | 2026-02-12 | Minneapolis | background | Homan Declares Operation Metro Surge Over

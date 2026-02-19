@@ -9,13 +9,15 @@ affected_individual_citizenship: us-citizen
 injuries: fatal
 trustworthiness: high
 created: 2026-01-24T13:40:15
-last_updated: 2026-02-10T18:47:37
+last_updated: 2026-02-18T22:59:25
 search_tags: us-citizen, shooting, excessive-force, chemical-agents, observer-detained, observer-intimidated, src:star-tribune, src:fox9, src:sahan-journal, src:wcco, src:npr, src:nbc, src:kare11, src:cnn, src:wapo, src:kstp, src:bring-me-the-news, src:nyt, src:fox-news, src:other-national, src:mother-jones, src:mn-reformer, src:mpr
 ---
 
 # Alex Pretti Shot and Killed by Federal Agents
 
 ## Updates
+- **Feb 18** - Moriarty [issues Touhy demands](https://www.fox9.com/news/hcao-demands-feds-turn-over-evidence-ice-shootings-feb-2026) for Pretti and Sosa-Celis evidence with a March 3 deadline. Calls federal obstruction "unacceptable" and says state is ["in good shape"](https://kstp.com/kstp-news/local-news/moriarty-calls-lack-of-federal-cooperation-in-ice-shootings-unacceptable-submits-new-demand-for-pretti-evidence/) to consider charging the agents.
+- **Feb 16** - BCA [publicly announces](https://www.fox9.com/news/alex-pretti-shooting-minnesota-bca-says-fbi-has-denied-them-access-evidence-case) FBI formally refused to share any evidence in the Pretti case, reversing course after agreeing to a joint investigation days earlier. Superintendent Evans calls the refusal ["concerning and unprecedented."](https://www.cbsnews.com/minnesota/news/fbi-refuses-to-share-evidence-in-alex-pretti-killing-with-bca/)
 - **Feb 7** - Multiple sources report BCA and FBI are in [active discussions about a joint investigation](https://kstp.com/kstp-news/top-news/source-fbi-bca-to-announce-joint-investigation-into-shooting-of-alex-pretti/) into Pretti's killing. BCA described itself as "committed" to finding a path forward after being [blocked from the crime scene](https://www.startribune.com/pretti-investigation-mn-bca-fbi/601577509) on January 26.
 - **Feb 2** - Hennepin County Medical Examiner [ruled Pretti's death a homicide](https://www.startribune.com/after-9-days-hennepin-county-medical-examiner-classifies-alex-prettis-death-as-homicide/601575454) caused by "multiple gunshot wounds."
 - **Feb 2** - Judge Tostrud [lifted the evidence preservation order](https://krdo.com/news/2026/02/02/judge-wipes-away-order-requiring-feds-to-preserve-evidence-gathered-at-alex-pretti-shooting-scene/), stating federal officials provided assurances evidence would be properly maintained.
@@ -73,6 +75,14 @@ Federal agents fatally shot Alex Jeffrey Pretti, a 37-year-old U.S. citizen, lic
 37. Mother Jones (Jan 25, 2026): [Nurses Union calls ICE agents a "public health threat" after Alex Pretti killing](https://www.motherjones.com/politics/2026/01/nurses-union-calls-ice-agents-public-health-threat-after-alex-pretti-killing/)
 38. Minnesota Reformer (Jan 24, 2026): [Federal agents shoot and kill man in Minneapolis, rousing more demonstrations](https://minnesotareformer.com/2026/01/24/another-minnesotan-shot-and-killed-by-feds/)
 39. MPR News (Jan 24, 2026): [Minneapolis looking into possible shooting by ICE agent](https://www.mprnews.org/story/2026/01/24/minneapolis-looking-into-possible-shooting-by-ice-agent)
+40. FOX 9 (Feb 16, 2026): [BCA says FBI has denied them access to evidence in Pretti case](https://www.fox9.com/news/alex-pretti-shooting-minnesota-bca-says-fbi-has-denied-them-access-evidence-case)
+41. CBS Minnesota (Feb 16, 2026): [FBI refuses to share evidence in Alex Pretti killing with BCA](https://www.cbsnews.com/minnesota/news/fbi-refuses-to-share-evidence-in-alex-pretti-killing-with-bca/)
+42. MPR News (Feb 16, 2026): [FBI will not provide BCA access to evidence gathered from Pretti shooting](https://www.mprnews.org/story/2026/02/16/fbi-will-not-provide-bca-access-to-evidence-gathered-from-pretti-shooting-bca-says)
+43. KSTP (Feb 17, 2026): [FBI will not share access to Alex Pretti evidence with Minnesota officials](https://kstp.com/kstp-news/top-news/fbi-will-not-share-access-to-alex-pretti-evidence-with-minnesota-officials-bca-says/)
+44. FOX 9 (Feb 18, 2026): [HCAO demands feds turn over evidence in ICE shootings](https://www.fox9.com/news/hcao-demands-feds-turn-over-evidence-ice-shootings-feb-2026)
+45. KSTP (Feb 18, 2026): [Moriarty calls lack of federal cooperation 'unacceptable,' submits new demand for Pretti evidence](https://kstp.com/kstp-news/local-news/moriarty-calls-lack-of-federal-cooperation-in-ice-shootings-unacceptable-submits-new-demand-for-pretti-evidence/)
+46. Minnesota Reformer (Feb 18, 2026): [Minnesota prosecutors demand evidence from federal government in Alex Pretti killing](https://minnesotareformer.com/2026/02/18/minnesota-prosecutors-demand-evidence-from-federal-government-in-alex-pretti-killing/)
+47. KARE 11 (Feb 18, 2026): [Hennepin County Attorney issues new demands for federal evidence in Minneapolis shootings](https://www.kare11.com/article/news/local/ice-in-minnesota/hennepin-county-attorney-issues-new-demands-for-federal-evidence-minneapolis-shootings/89-7f3d5345-da92-448f-968c-0d32d405dc2a)
 
 ## Related Incidents
 

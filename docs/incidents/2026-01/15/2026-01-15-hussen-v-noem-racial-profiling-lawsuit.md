@@ -9,14 +9,17 @@ affected_individual_citizenship: various
 injuries: none
 trustworthiness: high
 created: 2026-02-09T14:54:03
-last_updated: 2026-02-09T14:54:03
-search_tags: src:star-tribune, src:wcco, src:kstp, src:nbc, src:npr, src:other-national
+last_updated: 2026-02-18T22:59:25
+search_tags: src:star-tribune, src:wcco, src:kstp, src:nbc, src:npr, src:other-national, src:fox9, src:mpr
 ---
 
 # ACLU Files Class Action Challenging Racial Profiling During Operation Metro Surge
 
+## Updates
+- **Feb 17-18** - Judge Tostrud held [two days of evidentiary hearings](https://www.fox9.com/news/immigrants-arrested-during-operation-metro-surge-testify-against-ice-practices-feb-2026). Six plaintiffs testified, including lead plaintiff Mubashir Hussen who described being [slammed against a stairwell doorframe](https://www.mprnews.org/story/2026/02/17/court-hearings-lawsuit-alleging-ice-agents-racially-profiled-us-citizens-minnesota); video of his arrest played in court. Judge [took the case under advisement](https://www.mprnews.org/story/2026/02/18/judge-hears-arguments-in-lawsuit-alleging-ice-racially-profiling-somali-and-latino-residents) for a preliminary injunction ruling.
+
 ## Summary
-On January 15, 2026, the ACLU filed Hussen v. Noem — a class-action lawsuit on behalf of three U.S. citizens and a proposed class of people whose constitutional rights were violated by federal agents during Operation Metro Surge. The complaint alleges agents conducted suspicionless stops, warrantless arrests, and racial profiling targeting Somali and Latino communities. With more than 40 sworn declarations and amicus briefs from ten bar associations and the City of Minneapolis, the case has produced the most comprehensive evidentiary record of racial profiling during the operation. An evidentiary hearing is scheduled for February 17, 2026.
+On January 15, 2026, the ACLU filed Hussen v. Noem — a class-action lawsuit on behalf of three U.S. citizens and a proposed class of people whose constitutional rights were violated by federal agents during Operation Metro Surge. The complaint alleges agents conducted suspicionless stops, warrantless arrests, and racial profiling targeting Somali and Latino communities. With more than 40 sworn declarations and amicus briefs from ten bar associations and the City of Minneapolis, the case has produced the most comprehensive evidentiary record of racial profiling during the operation. A two-day evidentiary hearing was held February 17-18, 2026; the preliminary injunction is under advisement.
 
 ## Sources
 1. Star Tribune (Jan 15, 2026): [ACLU sues feds over alleged racial profiling in Twin Cities immigration surge](https://www.startribune.com/aclu-sues-feds-over-alleged-racial-profiling-in-twin-cities-immigration-surge/601564707)
@@ -30,6 +33,10 @@ On January 15, 2026, the ACLU filed Hussen v. Noem — a class-action lawsuit on
 9. ACLU (2026): [Hussen v. Noem case page](https://www.aclu.org/cases/hussen-v-noem)
 10. JustSecurity (2026): [Minnesota ICE enforcement: Alleged constitutional violations — sworn declarations](https://www.justsecurity.org/130745/minnesota-ice-racial-profiling/)
 11. CourtListener: [Hussen v. Noem docket](https://www.courtlistener.com/docket/72146903/hussen-v-noem/)
+12. FOX 9 (Feb 17, 2026): [Immigrants arrested during Operation Metro Surge testify against ICE practices](https://www.fox9.com/news/immigrants-arrested-during-operation-metro-surge-testify-against-ice-practices-feb-2026)
+13. MPR News (Feb 17, 2026): [Lawsuit alleging ICE agents racially profiled U.S. citizens in Minnesota has hearings Tuesday, Wednesday](https://www.mprnews.org/story/2026/02/17/court-hearings-lawsuit-alleging-ice-agents-racially-profiled-us-citizens-minnesota)
+14. MPR News (Feb 18, 2026): [Judge hears arguments in lawsuit alleging ICE racially profiling Somali and Latino residents](https://www.mprnews.org/story/2026/02/18/judge-hears-arguments-in-lawsuit-alleging-ice-racially-profiling-somali-and-latino-residents)
+15. Star Tribune (Feb 17, 2026): [Minnesotans testify about racial profiling by ICE agents during immigration surge](https://www.startribune.com/minnesotans-testify-in-federal-court-about-racial-profiling-by-ice-agents/601583988)
 
 ## Case Information
 - **Case:** Hussen v. Noem, Case No. 0:26-cv-00324-ECT-ECW
@@ -39,7 +46,7 @@ On January 15, 2026, the ACLU filed Hussen v. Noem — a class-action lawsuit on
 - **Filed:** January 15, 2026
 - **Plaintiffs' counsel:** ACLU (Kate Huddleston, Omar Jadwat, Spencer Amdur), ACLU of Minnesota (Catherine Ahlin-Halverson), Covington & Burling LLP (Robert D. Fram), Greene Espel PLLP (Kshithij Shrinath), Robins Kaplan LLP (Stacey Slaughter)
 - **Defendants:** DHS Secretary Kristi Noem, Acting ICE Director Todd M. Lyons, CBP Commissioner Rodney S. Scott, Border Patrol Commander Gregory Bovino, Acting St. Paul Field Office Director David Easterwood, Michael W. Banks, DHS, ICE, CBP, U.S. Border Patrol
-- **Status:** Active. Evidentiary hearing February 17, 2026.
+- **Status:** Active. Evidentiary hearing held February 17-18, 2026. Preliminary injunction under advisement.
 
 ## The Three Named Plaintiffs
 
@@ -92,6 +99,12 @@ Judge Tostrud granted both amicus motions and ordered an evidentiary hearing.
 
 ### February 5, 2026 — Hearing Rescheduled
 Evidentiary hearing moved to February 17, 2026 at 1:00 PM.
+
+### February 17, 2026 — Day 1: Plaintiff Testimony
+Six plaintiffs testified, all U.S. citizens. Video of Mubashir Hussen's Cedar-Riverside arrest was played in the courtroom. Hussen described being slammed against a stairwell doorframe, then against metal bars. Mahamed Eydarus testified the encounter changed his life: "I've made it strictly going to and from work, anything else, I just stopped doing." Ramon Menera Romero testified he was handcuffed after agents heard his accent while he recorded from his own yard.
+
+### February 18, 2026 — Day 2: Legal Arguments
+Judge Tostrud heard oral arguments on the preliminary injunction. He questioned ICE's expansive interpretation of "likely to escape" warrantless arrest authority. The government argued operations "adhere to constitutional policies" with "no evidence of racial or ethnic profiling." ACLU attorney Kathryn Huddleston pointed to patterns across 29 sworn declarations. Judge took the case under advisement.
 
 ## The Evidentiary Record
 
@@ -182,7 +195,7 @@ At least 16 additional declarations filed. Hosted by [JustSecurity](https://www.
 |---|---|---|---|
 | **[Tincher v. Noem](/entry/2025-12-17-tincher-v-noem-aclu-lawsuit)** (0:25-cv-04669) | Dec 17, 2025 | Observer First Amendment rights | Injunction granted Jan 16; stayed by 8th Circuit Jan 26 |
 | **[State of Minnesota v. Noem](/entry/2026-01-12-minnesota-sues-to-halt-operation)** (0:26-cv-00190) | Jan 12, 2026 | State sovereignty, political retaliation | Injunction denied Jan 31 |
-| **Hussen v. Noem** (0:26-cv-00324) | Jan 15, 2026 | Racial profiling, Equal Protection | Evidentiary hearing Feb 17 |
+| **Hussen v. Noem** (0:26-cv-00324) | Jan 15, 2026 | Racial profiling, Equal Protection | Hearing held Feb 17-18; under advisement |
 
 Where Tincher focused on *observer rights* and the State of Minnesota case on *state sovereignty*, Hussen challenges the constitutional basis of the operation itself.
 

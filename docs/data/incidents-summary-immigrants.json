@@ -1,6 +1,38 @@
 {
   "incidents": [
     {
+      "filePath": "incidents/2026-02/16/2026-02-16-five-west-rochester-kitchen-workers.md",
+      "title": "Two Kitchen Workers Detained at Five West Restaurant in Rochester",
+      "summary": "On February 16, 2026 \u2014 four days after border czar Tom Homan announced the end of Operation Metro Surge \u2014 six ICE agents entered through the back door of Five West Kitchen & Bar in Rochester before the restaurant opened and detained two kitchen employees. DHS identified the men as David Hernandez-Santos and Ivan Fosado Ramirez-Gregorio, both from Mexico. Ramirez-Gregorio was charged with felony illegal re-entry after prior removal. The restaurant and its sister location Smoak BBQ closed for the day. Rep. Andy Smith (DFL-Rochester) confirmed the arrests.",
+      "latestUpdate": null,
+      "correctionNote": null,
+      "date": "2026-02-16",
+      "time": "08:00",
+      "location": "Five West Kitchen & Bar, 1991 Commerce Drive NW",
+      "city": "Rochester",
+      "type": "immigrants",
+      "status": "resolved",
+      "affectedIndividualCitizenship": "undocumented",
+      "injuries": "none",
+      "trustworthiness": "high",
+      "created": "2026-02-18T22:59:25",
+      "lastUpdated": "2026-02-18T22:59:25",
+      "mediaCount": 0,
+      "notable": false,
+      "searchTags": [
+        "workplace-raid",
+        "src:other-local",
+        "src:wcco"
+      ],
+      "hasLocalMedia": false,
+      "localMediaType": null,
+      "localMediaPath": null,
+      "localMediaOgPath": null,
+      "localMediaFiles": [],
+      "aspectRatio": null,
+      "mediaVersion": null
+    },
+    {
       "filePath": "incidents/2026-02/12/2026-02-12-jesus-flores-columbia-heights-ruse.md",
       "title": "ICE Agents Fake Car Trouble to Lure Columbia Heights Man Outside; Arrested and Sent to Texas",
       "summary": "ICE agents staged a fake car breakdown in front of Jesus Flores' Columbia Heights home to lure him outside. Security camera footage shows Flores leaving to help two people examining a vehicle's hood, then two additional cars arriving to block the street on both sides as agents swarmed his driveway. Flores was transported to El Paso, Texas within 48 hours, which his family says was likely in violation of a federal judge's order.",

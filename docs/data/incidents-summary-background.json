@@ -433,8 +433,8 @@
     {
       "filePath": "incidents/2026-01/15/2026-01-15-hussen-v-noem-racial-profiling-lawsuit.md",
       "title": "ACLU Files Class Action Challenging Racial Profiling During Operation Metro Surge",
-      "summary": "On January 15, 2026, the ACLU filed Hussen v. Noem \u2014 a class-action lawsuit on behalf of three U.S. citizens and a proposed class of people whose constitutional rights were violated by federal agents during Operation Metro Surge. The complaint alleges agents conducted suspicionless stops, warrantless arrests, and racial profiling targeting Somali and Latino communities. With more than 40 sworn declarations and amicus briefs from ten bar associations and the City of Minneapolis, the case has produced the most comprehensive evidentiary record of racial profiling during the operation. An evidentiary hearing is scheduled for February 17, 2026.",
-      "latestUpdate": null,
+      "summary": "On January 15, 2026, the ACLU filed Hussen v. Noem \u2014 a class-action lawsuit on behalf of three U.S. citizens and a proposed class of people whose constitutional rights were violated by federal agents during Operation Metro Surge. The complaint alleges agents conducted suspicionless stops, warrantless arrests, and racial profiling targeting Somali and Latino communities. With more than 40 sworn declarations and amicus briefs from ten bar associations and the City of Minneapolis, the case has produced the most comprehensive evidentiary record of racial profiling during the operation. A two-day evidentiary hearing was held February 17-18, 2026; the preliminary injunction is under advisement.",
+      "latestUpdate": "Judge Tostrud held [two days of evidentiary hearings](https://www.fox9.com/news/immigrants-arrested-during-operation-metro-surge-testify-against-ice-practices-feb-2026). Six plaintiffs testified, including lead plaintiff Mubashir Hussen who described being [slammed against a stairwell doorframe](https://www.mprnews.org/story/2026/02/17/court-hearings-lawsuit-alleging-ice-agents-racially-profiled-us-citizens-minnesota); video of his arrest played in court. Judge [took the case under advisement](https://www.mprnews.org/story/2026/02/18/judge-hears-arguments-in-lawsuit-alleging-ice-racially-profiling-somali-and-latino-residents) for a preliminary injunction ruling.",
       "correctionNote": null,
       "date": "2026-01-15",
       "time": "unknown",
@@ -446,7 +446,7 @@
       "injuries": "none",
       "trustworthiness": "high",
       "created": "2026-02-09T14:54:03",
-      "lastUpdated": "2026-02-09T14:54:03",
+      "lastUpdated": "2026-02-18T22:59:25",
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
@@ -455,7 +455,9 @@
         "src:kstp",
         "src:nbc",
         "src:npr",
-        "src:other-national"
+        "src:other-national",
+        "src:fox9",
+        "src:mpr"
       ],
       "hasLocalMedia": false,
       "localMediaType": null,
