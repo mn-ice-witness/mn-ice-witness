@@ -1,5 +1,5 @@
 ---
-date: 2026-01-15
+date: 2026-01-14
 time: 13:00
 location: City bus stop, Seward neighborhood
 city: Minneapolis
@@ -16,7 +16,7 @@ search_tags: children, src:kare11, src:bring-me-the-news
 # Hiawatha Academies Student Detained at Bus Stop
 
 ## Summary
-A 12th-grade student at Hiawatha Academies, a public charter school in Minneapolis, was detained by federal immigration agents at a city bus stop around 1 p.m. The detention occurred off campus. The school sent a message to families confirming the incident and began providing dedicated yellow buses for students afraid to ride public transit.
+A 12th-grade student at Hiawatha Academies, a public charter school in Minneapolis, was detained by federal immigration agents at a city bus stop around 1 p.m. The detention occurred off campus. The school sent a message to families confirming the incident.
 
 ## Sources
 1. KARE 11 (Jan 15, 2026): [Minneapolis student detained by federal officers at bus stop](https://www.kare11.com/article/news/local/ice-in-minnesota/minneapolis-student-detained-by-federal-officers-at-bus-stop/89-29352662-cb85-4249-b69b-2e85aaae7a8a)
@@ -36,7 +36,7 @@ A 12th-grade student at Hiawatha Academies, a public charter school in Minneapol
 ### Hiawatha Academies Statement
 "We recognize that this news is concerning for families and that the disruption happening in our communities is alarming."
 
-The school stated it remains open and fully operational, with security protocols including supervised entry and exit, visitor screening, and emergency response procedures. Before closing for the day, the school began providing dedicated yellow buses for any student afraid to ride public buses due to concerns about ICE agents boarding them.
+The school stated it remains open and fully operational, with security protocols including supervised entry and exit, visitor screening, and emergency response procedures.
 
 ## Context
 The detention occurred on the same day as:

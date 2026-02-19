@@ -147,7 +147,6 @@ Published incidents visible on the main site.
 - incidents/2026-01/15/2026-01-15-nadine-ice-car-rammed-citizens.md | 2026-01-15 | Minneapolis | citizens | ICE Rams Into Parked Car, Demands U.S. Citizen Couple Show Citizenship Papers
 - incidents/2026-01/15/2026-01-15-vine-faith-mankato-workers.md | 2026-01-15 | Mankato | immigrants | Two Subcontractors Detained at VINE Faith in Action Senior Center
 - incidents/2026-01/15/2026-01-15-cottage-grove-food-shelf-volunteer.md | 2026-01-15 | Cottage Grove | immigrants | Food Shelf Volunteer Detained at Basic Needs in Cottage Grove
-- incidents/2026-01/15/2026-01-15-hiawatha-student-bus-stop.md | 2026-01-15 | Minneapolis | schools-hospitals | Hiawatha Academies Student Detained at Bus Stop
 - incidents/2026-01/15/2026-01-15-hussen-v-noem-racial-profiling-lawsuit.md | 2026-01-15 | Minneapolis | background | ACLU Files Class Action Challenging Racial Profiling During Operation Metro Surge
 - incidents/2026-01/15/2026-01-15-owatonna-15-year-old-pepper-sprayed.md | 2026-01-15 | Owatonna | observers | 15-Year-Old Girl Pepper Sprayed While Observing ICE Operation
 - incidents/2026-01/15/2026-01-15-daniel-woo-followed-home.md | 2026-01-15 | Plymouth | observers | ICE SUV Follows Observer 40 Minutes to His Plymouth Home
@@ -159,6 +158,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/14/2026-01-14-st-paul-public-works-snowplow-driver.md | 2026-01-14 | St. Paul | citizens | St. Paul Snowplow Driver with Legal Work Status Detained by ICE
 - incidents/2026-01/14/2026-01-14-nasra-ahmed-st-paul-citizen.md | 2026-01-14 | St. Paul | citizens | U.S. Citizen Born in Minnesota Detained by ICE for Two Days
 - incidents/2026-01/14/2026-01-14-julio-sosa-celis-shooting.md | 2026-01-14 | Minneapolis | citizens | ICE Agent Shoots Man Through Closed Door in North Minneapolis; Bullet Enters Apartment with Four Children
+- incidents/2026-01/14/2026-01-14-hiawatha-student-bus-stop.md | 2026-01-14 | Minneapolis | schools-hospitals | Hiawatha Academies Student Detained at Bus Stop
 - incidents/2026-01/14/2026-01-14-dhs-response-frey-sanctuary.md | 2026-01-14 | Minneapolis | response | DHS Blames Mayor Frey's Sanctuary Policies for Criminal Release
 - incidents/2026-01/14/2026-01-14-aquila-elementary-ice-presence.md | 2026-01-14 | St. Louis Park | schools-hospitals | ICE Conducts Operation Across Street From Aquila Elementary During Dismissal
 - incidents/2026-01/14/2026-01-14-transition-plus-school-bus-rubber-bullets.md | 2026-01-14 | Minneapolis | schools-hospitals | Students on Transition Plus Bus Witness ICE Fire Rubber Bullets at Man

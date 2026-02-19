@@ -10,7 +10,7 @@ injuries: none
 trustworthiness: corrected
 created: 2026-01-25T21:18:19
 last_updated: 2026-02-18T13:06:14
-search_tags: family-separation, workplace-raid, children, src:star-tribune
+search_tags: family-separation, children, src:star-tribune
 ---
 
 # Daycare Handyman with Pending Asylum Case Detained at Home Depot, Sent to Texas for Two Weeks
