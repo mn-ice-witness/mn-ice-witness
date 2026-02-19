@@ -881,7 +881,7 @@
       "city": "Minneapolis",
       "type": "response",
       "status": "resolved",
-      "affectedIndividualCitizenship": "us-citizen",
+      "affectedIndividualCitizenship": "n/a",
       "injuries": "none",
       "trustworthiness": "high",
       "created": "2026-01-19T14:18:36",

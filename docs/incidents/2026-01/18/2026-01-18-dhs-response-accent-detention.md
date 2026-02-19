@@ -5,7 +5,7 @@ location: X @DHSgov
 city: Minneapolis
 type: response
 status: resolved
-affected_individual_citizenship: us-citizen
+affected_individual_citizenship: n/a
 injuries: none
 trustworthiness: high
 created: 2026-01-19T14:18:36
