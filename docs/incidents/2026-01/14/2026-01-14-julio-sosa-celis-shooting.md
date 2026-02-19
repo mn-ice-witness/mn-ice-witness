@@ -97,7 +97,7 @@ On January 14, 2026, an ICE agent shot Julio Cesar Sosa-Celis, 24, in the leg du
 
 ## Timeline
 - **Jan 14 (evening)** - ICE agents attempt a traffic stop. FBI later reveals the target was someone else — mistaken identity.
-- **Pursuit** - Aljorna flees in his vehicle, crashes into a parked car, then flees on foot to the duplex he shares with Sosa-Celis and the two women.
+- **Pursuit** - Aljorna flees in his vehicle, hits a light pole, then flees on foot to the duplex he shares with Sosa-Celis and the two women.
 - **Confrontation outside** - ICE agent tackles Aljorna outside the duplex. DHS claims Sosa-Celis and another man attacked the agent with a snow shovel and broom. Partner Mendoza Camacho, who witnessed the events, says Sosa-Celis "never grabbed anything" and "only tried to separate them so they could both get into the house."
 - **Inside the duplex** - Aljorna breaks free. Both men enter the home and close the door.
 - **Shooting** - Agent fires through the closed front door. Bullet grazes Sosa-Celis' right thigh, continues through a wall, and lodges in the wall of a first-floor apartment near a child's playpen. Four children and an adult were present in that room.
