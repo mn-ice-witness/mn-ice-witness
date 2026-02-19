@@ -19,7 +19,7 @@ search_tags: us-citizen, observer-detained, excessive-force, src:fox9, src:bring
 - **2026-02-08**: Identified primary target as Orbin Mauricio Henriquez-Serrano per family GoFundMe and BringMeTheNews. Added details of his injuries (recent knee surgery, lost consciousness, neck trauma, stomach/facial/chest wounds), denial of medical treatment, transfer to Camp East Montana in El Paso, TX. Added sister's account, GoFundMe details, BringMeTheNews follow-up, and NYT coverage. Changed injuries to "serious."
 
 ## Summary
-At a Speedway gas station in St. Paul, federal agents smashed Orbin Mauricio Henriquez-Serrano's car window, forcibly dragged him out, and pinned him to the ground with knees on his back and head until he lost consciousness. Henriquez-Serrano, who had recently undergone leg surgery, suffered neck trauma, and visible stomach, facial, and chest wounds. He was transferred to a detention facility in El Paso, Texas, where his sister reported he had not received any medical evaluation or treatment. A bystander filming the arrest, 22-year-old U.S. citizen Lalo Rios Meza, was told to back up, complied, but was then shoved, tackled, and detained for approximately 6-7 hours. Border Patrol Chief Gregory Bovino was personally present at the scene.
+At a Speedway gas station in St. Paul, federal agents smashed Orbin Mauricio Henriquez-Serrano's car window, forcibly dragged him out, and pinned him to the ground with knees on his back and head until he lost consciousness. Henriquez-Serrano, who had recently undergone leg surgery, suffered neck trauma, and visible stomach, facial, and chest wounds. He was transferred to a detention facility in El Paso, Texas, where his sister reported he had not received any medical evaluation or treatment. A bystander filming the arrest, 22-year-old U.S. citizen Lalo Rios Meza, was told to back up, complied, but was then shoved, tackled, and detained for approximately 6-7 hours. Border Patrol Commander Gregory Bovino was personally present at the scene.
 
 ## Sources
 1. Facebook Video (Jan 11, 2026): [Full arrest footage](https://www.facebook.com/reel/1811249439582125)
@@ -83,7 +83,7 @@ At a Speedway gas station in St. Paul, federal agents smashed Orbin Mauricio Hen
 - Shoved, tackled to the ground by multiple agents
 
 ## Key Players Present
-- **Border Patrol Chief Greg Bovino** — Personally on scene commanding operations. Identified in multiple videos yelling at bystanders. Confirmed by NYT.
+- **Border Patrol Commander Greg Bovino** — Personally on scene commanding operations. Identified in multiple videos yelling at bystanders. Confirmed by NYT.
 
 ## Statements
 
