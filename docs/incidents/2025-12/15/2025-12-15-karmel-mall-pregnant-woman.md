@@ -10,25 +10,25 @@ injuries: none
 trustworthiness: high
 created: 2026-01-14T08:01:12
 last_updated: 2026-01-14T08:01:12
-search_tags: us-citizen, legal-resident, excessive-force, src:fox9, src:wcco, src:mn-reformer, src:star-tribune, src:fox-news, src:other-national
+search_tags: us-citizen, legal-resident, excessive-force, chemical-agents, src:fox9, src:wcco, src:mn-reformer, src:star-tribune, src:fox-news, src:other-national
 ---
 
-# Pregnant Somali Woman Dragged Through Snow at Karmel Mall
+# Pregnant Woman Dragged Through Snow at Karmel Mall
 
 ## Summary
-ICE agents detained at least four people near Karmel Mall, the nation's first Somali shopping center. Witnesses reported a pregnant Somali woman was grabbed by the arms and dragged through the snow when she sat down to prevent falling. Agents were swarmed by 60-70 protesters, and one Somali U.S. citizen was released after detention.
+ICE agents detained at least four people near Karmel Mall, the nation's first Somali shopping center. Witnesses reported a pregnant woman was grabbed by the arms and dragged through the snow when she sat down to prevent falling. Agents were swarmed by 60-70 protesters, and one Somali U.S. citizen was released after detention.
 
 ## Sources
 1. FOX 9 (Dec 15, 2025): [ICE agents swarmed by protesters in Minneapolis](https://www.fox9.com/news/ice-agents-swarmed-protesters-minneapolis)
 2. CBS News (Dec 15, 2025): [ICE agents clash with dozens of residents in streets of south Minneapolis](https://www.cbsnews.com/minnesota/news/ice-agents-south-minneapolis-clash-protests/)
 3. Minnesota Reformer (Dec 16, 2025): [Karmel Mall, once a bustling center of community, falls silent](https://minnesotareformer.com/2025/12/16/karmel-mall-once-a-bustling-center-of-community-falls-silent/)
-4. Star Tribune (Dec 16, 2025): [Witnesses and DHS offer starkly different accounts after woman dragged in Minneapolis ICE operation](https://www.startribune.com/witnesses-dhs-offer-starkly-different-accounts-after-woman-dragged-in-minneapolis-ice-operation/601548788)
+4. Star Tribune (Dec 18, 2025): [Witnesses and DHS offer starkly different accounts after woman dragged in Minneapolis ICE operation](https://www.startribune.com/witnesses-dhs-offer-starkly-different-accounts-after-woman-dragged-in-minneapolis-ice-operation/601548788)
 5. TMZ Video (Dec 17, 2025): [ICE Agents Drag Pregnant Woman on Minneapolis Street, on Video](https://www.tmz.com/2025/12/17/federal-agent-pregnant-woman-minneapolis-ice-raids/)
-6. Fox News (Dec 16, 2025): [Minneapolis police chief blasts ICE after agent seen dragging woman through street, kneeling on her back](https://www.foxnews.com/us/minneapolis-police-chief-blasts-ice-after-agent-seen-dragging-woman-through-street-kneeling-her-back)
-7. Inquisitr (Dec 16, 2025): ['She's Pregnant!' - Video Shows ICE Agents Drag Woman Across Street](https://www.inquisitr.com/shes-pregnant-video-shows-ice-agents-drag-woman-across-street-as-bystanders-beg-them-to-stop)
+6. Fox News (Dec 18, 2025): [Minneapolis police chief blasts ICE after agent seen dragging woman through street, kneeling on her back](https://www.foxnews.com/us/minneapolis-police-chief-blasts-ice-after-agent-seen-dragging-woman-through-street-kneeling-her-back)
+7. Inquisitr (Dec 17, 2025): ['She's Pregnant!' - Video Shows ICE Agents Drag Woman Across Street](https://www.inquisitr.com/shes-pregnant-video-shows-ice-agents-drag-woman-across-street-as-bystanders-beg-them-to-stop)
 
 ## Affected Individual(s)
-- **Primary affected individual:** Pregnant Somali woman (name unknown)
+- **Primary affected individual:** Pregnant woman (name unknown)
 - **Others detained:** At least 3 additional people
 - **Released:** One Somali U.S. citizen
 
@@ -46,7 +46,7 @@ ICE agents detained at least four people near Karmel Mall, the nation's first So
 Watched the pregnant woman as she sat down to prevent herself from falling or slipping. Officers grabbed her by the arms and dragged her through the snow.
 
 ### Tonika Deutch (Observer; "Taneka Dortch" in Minnesota Reformer)
-> "We kept yelling, 'She is pregnant, she's pregnant.' They put their knees on her. We kept telling them, 'She can't breathe, let her up...'"
+> "We kept yelling, 'She is pregnant, she's pregnant.' They put their knees on her. We kept telling them, 'She can't breathe, let her up, let her up.'"
 
 Deutch, who said she was present throughout the encounter, stated the woman had been protesting the ICE operation with activists when agents confronted her. "They chased her down and then they threw her down at the end of the block."
 
@@ -71,3 +71,7 @@ Business owner Khadijo Warsawe: "I could almost count how many sales I made in t
 
 ## Editorial Assessment
 **HIGH** - Seven independent sources including local (Fox 9, CBS, Star Tribune, Minnesota Reformer) and national (TMZ, Fox News, Inquisitr). Multiple video recordings exist. Named witnesses (Tonika Deutch, Abdisalan Abdi). Minneapolis Police Chief publicly questioned federal agents' methods. DHS disputed account but Star Tribune confirmed woman was Mexican legal resident who was released same day.
+
+## Correction
+
+**Feb 19, 2026** — Removed "Somali" from title and summary. The [Minnesota Reformer](https://minnesotareformer.com/2025/12/16/karmel-mall-once-a-bustling-center-of-community-falls-silent/) described the woman as Somali without attribution. The [Star Tribune](https://www.startribune.com/witnesses-dhs-offer-starkly-different-accounts-after-woman-dragged-in-minneapolis-ice-operation/601548788), citing witness Taneka Dortch who communicated with the woman's friend, reported the woman is Mexican and a legal resident. FOX 9 separately described the detained women as Hispanic. Because sources conflict and we cannot independently verify the woman's ethnicity, the specific claim was removed.

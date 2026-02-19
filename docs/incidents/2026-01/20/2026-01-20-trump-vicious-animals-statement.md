@@ -13,7 +13,7 @@ last_updated: 2026-01-20T12:00:00
 search_tags:
 ---
 
-# Trump Claims ICE Operation is About Removing "Murderers & Criminals" from Minnesota, Calls Protesters "Highly Paid Troublemakers"
+# Trump Claims ICE Operation is About Removing "Murderers and Other Criminals" from Minnesota, Calls Protesters "Highly Paid Troublemakers, Anarchists, and Agitators"
 
 ## Summary
 President Donald Trump posted on Truth Social claiming ICE is capturing "murderers and other criminals" and that there are "thousands of vicious animals in Minnesota alone." He called on supporters to back "the patriots of ICE, instead of the highly paid troublemakers, anarchists, and agitators."

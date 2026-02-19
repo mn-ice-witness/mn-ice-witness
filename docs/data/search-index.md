@@ -120,7 +120,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/20/2026-01-20-trump-mistakes-happen.md | 2026-01-20 | Washington D.C. | response | Trump on ICE Violence: "Mistakes Happen" While Focusing on "Murders and Criminals"
 - incidents/2026-01/20/2026-01-20-brooklyn-park-officer-citizen-check.md | 2026-01-20 | St. Paul | citizens | Metro Police Chiefs Call for End to Civil Rights Violations / Racially Discriminatory Citizen Checks; Off-Duty Brooklyn Park Police Officer Stopped at Gunpoint, Asked for Papers
 - incidents/2026-01/20/2026-01-20-anoka-hennepin-school-vans.md | 2026-01-20 | Dayton | schools-hospitals | Federal Agents Pull Over Two Anoka-Hennepin School Vans Carrying Students Near Dayton
-- incidents/2026-01/20/2026-01-20-trump-vicious-animals-statement.md | 2026-01-20 | n/a | response | Trump Claims ICE Operation is About Removing "Murderers & Criminals" from Minnesota, Calls Protesters "Highly Paid Troublemakers"
+- incidents/2026-01/20/2026-01-20-trump-vicious-animals-statement.md | 2026-01-20 | n/a | response | Trump Claims ICE Operation is About Removing "Murderers and Other Criminals" from Minnesota, Calls Protesters "Highly Paid Troublemakers, Anarchists, and Agitators"
 - incidents/2026-01/20/2026-01-20-mohamed-jama-st-cloud.md | 2026-01-20 | St. Cloud | citizens | U.S. Citizen Arrested Twice by ICE in St. Cloud After Mistaken Identity
 - incidents/2026-01/19/2026-01-19-hilton-hotel-worker-arrested-by-guests.md | 2026-01-19 | St. Louis Park | citizens | ICE Agents Staying at Hotel Arrest One of Its Employees
 - incidents/2026-01/19/2026-01-19-dhs-response-saly-detention.md | 2026-01-19 | St. Paul | response | DHS Response: Defends Detention of Hmong Citizen, Claims Sex Offender Targets at Large — Family Disputes Claims
@@ -270,7 +270,7 @@ Published incidents visible on the main site.
 - incidents/2025-12/21/2025-12-21-st-paul-westminster-shooting.md | 2025-12-21 | St. Paul | immigrants | ICE Agent Fires Shots at Man During St. Paul Arrest After Being Struck by Vehicle
 - incidents/2025-12/17/2025-12-17-tincher-v-noem-aclu-lawsuit.md | 2025-12-17 | Minneapolis | background | ACLU Sues to Protect Observers: The Only Injunction Issued Against Operation Metro Surge
 - incidents/2025-12/16/2025-12-16-abdikadir-noor-karmel-mall.md | 2025-12-15 | Minneapolis | citizens | 20-Year U.S. Citizen Arrested Near Karmel Mall, Subjected to Racist Statements by ICE Agent
-- incidents/2025-12/15/2025-12-15-karmel-mall-pregnant-woman.md | 2025-12-15 | Minneapolis | citizens | Pregnant Somali Woman Dragged Through Snow at Karmel Mall
+- incidents/2025-12/15/2025-12-15-karmel-mall-pregnant-woman.md | 2025-12-15 | Minneapolis | citizens | Pregnant Woman Dragged Through Snow at Karmel Mall
 - incidents/2025-12/13/2025-12-13-chanhassen-rooftop-standoff.md | 2025-12-13 | Chanhassen | immigrants | Construction Workers Take Refuge on Roof During Hours-Long ICE Standoff
 - incidents/2025-12/14/2025-12-14-adnan-hisri-omars-son.md | 2025-12-13 | Minneapolis | citizens | U.S. Citizen Son of Rep. Ilhan Omar Stopped by ICE, Released After Showing Passport
 - incidents/2025-12/12/2025-12-12-brooklyn-park-cook.md | 2025-12-12 | Brooklyn Park | immigrants | Brooklyn Park Cook Arrested Outside Workplace; Restaurant Remains Closed
