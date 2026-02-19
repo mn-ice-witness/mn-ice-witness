@@ -104,7 +104,7 @@ Evidentiary hearing moved to February 17, 2026 at 1:00 PM.
 Six plaintiffs testified, all U.S. citizens. Video of Mubashir Hussen's Cedar-Riverside arrest was played in the courtroom. Hussen described being slammed against a stairwell doorframe, then against metal bars. Mahamed Eydarus testified the encounter changed his life: "I've made it strictly going to and from work, anything else, I just stopped doing." Ramon Menera Romero testified he was handcuffed after agents heard his accent while he recorded from his own yard.
 
 ### February 18, 2026 — Day 2: Legal Arguments
-Judge Tostrud heard oral arguments on the preliminary injunction. He questioned ICE's expansive interpretation of "likely to escape" warrantless arrest authority. The government argued operations "adhere to constitutional policies" with "no evidence of racial or ethnic profiling." ACLU attorney Kathryn Huddleston pointed to patterns across 29 sworn declarations. Judge took the case under advisement.
+Judge Tostrud heard oral arguments on the preliminary injunction. He questioned ICE's expansive interpretation of "likely to escape" warrantless arrest authority. The government argued operations "adhere to constitutional policies" with "no evidence of racial or ethnic profiling." ACLU attorney Kate Huddleston pointed to patterns across the sworn declarations. Judge took the case under advisement.
 
 ## The Evidentiary Record
 
