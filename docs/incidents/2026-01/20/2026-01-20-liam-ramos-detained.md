@@ -61,6 +61,9 @@ Liam Conejo Ramos, a 5-year-old kindergartner, was detained by ICE with his fath
 31. Bring Me The News (Feb 9, 2026): [List of ICE raids, major updates in Minnesota on Monday, Feb. 9](https://bringmethenews.com/minnesota-news/list-of-ice-raids-major-updates-in-minnesota-on-monday-feb-9)
 32. The New Yorker (Jan 31, 2026): [ICE's Assault on a Minnesota School District](https://www.newyorker.com/news/the-lede/ices-assault-on-a-minnesota-school-district)
 33. Minnesota Reformer (Feb 10, 2026): [The kids are not alright — ICE threatens children's short-term health, long-term prospects](https://minnesotareformer.com/2026/02/10/the-kids-are-not-alright-ice-threatens-childrens-short-term-health-long-term-prospects/)
+34. MPR News (Jan 27, 2026): [Judge issues temporary order barring removal of 5-year-old detained](https://www.mprnews.org/story/2026/01/27/judge-issues-temporary-order-barring-removal-of-5-year-old-detained)
+35. HuffPost (Jan 28, 2026): [Liam Conejo Ramos sick in ICE detention](https://www.huffpost.com/entry/liam-conejo-ramos-sick-ice-detention_n_696fd209e4b0559a85915488)
+36. CBS News (Jan 28, 2026): [Valley View principal emotional over 5-year-old's ICE detention](https://www.cbsnews.com/news/liam-ramos-5-year-old-minneapolis-valley-view-principal-emotional-ice-detention/)
 
 ## Related Incidents
 - [DHS Response: "Child Was ABANDONED," Father "Fled on Foot"](#2026-01-21-dhs-response-5-year-old-bait)
