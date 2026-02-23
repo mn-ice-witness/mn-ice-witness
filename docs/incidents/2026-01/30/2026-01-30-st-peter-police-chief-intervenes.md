@@ -49,6 +49,3 @@ Data from the St. Peter Police Department shows there have been 8-10 incidents w
 
 ## Related Incidents
 - [Brooklyn Park Officer Citizenship Check](#2026-01-20-brooklyn-park-officer-citizen-check) - Off-duty officer stopped by ICE at gunpoint, asked for papers
-
-## Editorial Assessment
-**HIGH** - Multiple sources including NPR with detailed account. Named police chief confirmed key details to MPR News. However, the city's formal denial creates a disputed narrative about the extent of police intervention. The core facts — that a U.S. citizen was detained while recording ICE, transported toward federal custody, and ultimately returned to St. Peter — are not in dispute.

@@ -45,6 +45,3 @@ One agent wearing a Nike sweatshirt began to explain: "As I was questioning the 
 
 ## Context
 The previous day (Wednesday), ICE conducted a workplace raid at Best Boy Farms (formerly Bushel Boy Farms) on 32nd Avenue NW in Owatonna, described as "the first such operation to be recorded by observers." Five or six people were detained. A separate incident at Skyline Gardens shows ICE agents removing a woman from her vehicle and searching it. The mother and daughter reportedly approached this scene as observers before the girl was pepper sprayed.
-
-## Editorial Assessment
-**MEDIUM** - Single local news source (Southern Minnesota News) with video evidence described in detail. Witnesses quoted. Agent behavior implicitly confirms pepper spray use. However, no corroborating major outlet coverage (Star Tribune, MPR, KARE 11), no affected individual identification, and video not directly accessible. Would upgrade to HIGH if corroborating coverage emerges or family comes forward.

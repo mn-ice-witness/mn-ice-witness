@@ -31,6 +31,3 @@ Carlos Albuja, his wife Esther, and their daughters left their Minneapolis apart
 ## Related Incidents
 - [Ecuadorian Roofer and Family Self-Deport After Five Years](#2026-01-23-segundo-family-self-deports-ecuador) — Segundo's family departed one week earlier under similar circumstances
 - [Renee Good Shot and Killed by ICE Agent](#2026-01-07-renee-good-shooting) — Albuja was near the scene; a turning point in his decision to leave
-
-## Editorial Assessment
-**HIGH** — KSTP 5 INVESTIGATES traveled with the family and documented the departure on camera. Named family members on record.

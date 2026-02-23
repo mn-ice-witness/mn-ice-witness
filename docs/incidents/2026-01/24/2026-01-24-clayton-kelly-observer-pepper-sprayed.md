@@ -46,6 +46,3 @@ Clayton Kelly, 25, a bus mechanic for Minneapolis Metro Transit, arrived at the 
 - [Alex Pretti Shot and Killed by Federal Agents](#2026-01-24-alex-pretti-shooting) — Kelly arrived at the scene ~40 minutes after shooting
 - [ICE Agent Shoots Man Through Closed Door in North Minneapolis](#2026-01-14-julio-sosa-celis-shooting) — Kelly witnessed this shooting 10 days earlier
 - [ACLU Sues to Protect Observers: Tincher v. Noem](#2025-12-17-tincher-v-noem-aclu-lawsuit) — Kelly filed sworn declaration
-
-## Editorial Assessment
-**HIGH** — Feature-length profile in The Intercept with named individual, named attorney, and hospital medical documentation. Independent interview in Globe and Mail. Sworn declaration filed in federal court (Tincher v. Noem). Corroborated by ACLU press release.

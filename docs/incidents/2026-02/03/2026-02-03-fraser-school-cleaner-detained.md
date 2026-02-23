@@ -27,6 +27,3 @@ Federal agents detained a woman working as a contract cleaner in the parking lot
 - **Name:** Not disclosed
 - **Occupation:** Cleaner (employed by contractor)
 - **Citizenship:** Unknown
-
-## Editorial Assessment
-**NO-NEWS-MEDIA** - Single Reddit post without independent news coverage. Comments from apparent community members corroborate the school's nature and add context about a note sent to families.

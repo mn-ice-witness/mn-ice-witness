@@ -75,6 +75,3 @@ U.S. District Court Judge Sara Ellis addressed DHS credibility in a 233-page rul
 
 ## Congressional Scrutiny
 Noem's claims led to congressional investigations. Democratic members of the House Oversight Committee sent a formal letter to Secretary Noem demanding explanations for the documented citizen detentions.
-
-## Editorial Assessment
-**HIGH** — Multiple independent fact-checks from major news organizations (NPR, PolitiFact/Poynter). ProPublica's investigation documented 170+ specific cases. DHS's own prior statements have acknowledged temporary detentions of U.S. citizens.

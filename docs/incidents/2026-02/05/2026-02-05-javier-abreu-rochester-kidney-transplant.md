@@ -63,6 +63,3 @@ DHS did not respond to MPR News' request for comment. Federal officials gave con
 > "I do not understand how picking up law-abiding immigrants who are following the process benefits anyone. I don't understand how ramming a car and breaking their window benefits anyone. This doesn't align with Minnesota values or the Constitution."
 
 Hicks described herself as a friend of Abreu's family.
-
-## Editorial Assessment
-**HIGH** - Two independent news outlets (MPR News and Rochester Post-Bulletin) with original reporting. Named elected official (Rep. Kim Hicks) as direct source. Named wife (Carolina Rosario De Abreu) quoted. Photo evidence of damaged vehicle.

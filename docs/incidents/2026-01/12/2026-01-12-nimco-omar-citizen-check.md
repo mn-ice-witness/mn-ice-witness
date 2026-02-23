@@ -71,6 +71,3 @@ Cited this incident as evidence of "unlawful racial profiling by DHS agents" in 
 
 ## Legal Context
 There is no federal law requiring U.S. citizens to carry proof of their citizenship. Immigration agents are barred from carrying out indiscriminate searches unless they have reasonable suspicion to believe that someone is in the country without authorization. No such thing as a "citizen check" exists in American law.
-
-## Editorial Assessment
-**HIGH** - Video evidence filmed by the affected individual clearly documents the encounter. Multiple news outlets (FOX 9, Common Dreams, The Real News, Yahoo News) covered the incident with consistent details. The video was distributed via Storyful and cited by Minnesota Attorney General Keith Ellison in the state's lawsuit against DHS. Omar's quotes and the agents' statements are directly captured in the footage.

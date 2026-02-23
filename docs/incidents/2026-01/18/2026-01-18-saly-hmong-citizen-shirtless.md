@@ -102,6 +102,3 @@ From Louansee Moua's Facebook post (Saly's sister-in-law):
 "We believe they were looking for someone who previously lived there, but instead of asking for identification, they chose violence, intimidation, and humiliation."
 
 The post notes that Saly's mother, Choua Thao, was a nurse during the war in Laos who helped deliver premature twins. She ensured all her children became naturalized U.S. citizens.
-
-## Editorial Assessment
-**HIGH** - DHS Assistant Secretary Tricia McLaughlin officially acknowledged this incident on January 19, 2026, confirming a U.S. citizen was detained and released at this address. While DHS disputes some details (claiming the citizen refused fingerprinting, family says he was fingerprinted), official corroboration confirms the core facts: ICE operation at this address, U.S. citizen detained, citizen released after verification. Video and photo evidence corroborate the encounter. Family account from Louansee Moua provides detailed witness testimony.

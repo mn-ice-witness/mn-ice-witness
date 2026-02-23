@@ -67,6 +67,3 @@ The DHS statement followed weeks of mounting documentation of conditions at Whip
 - **Feb 6** - U.S. District Judge Nancy Brasel told DHS the gap between evidence and government claims was "so enormous I don't know how you're going to close it."
 
 Reps. Angie Craig and Betty McCollum, who were denied entry on the same day Morrison toured, responded: "We have heard countless reports that detainees are being held in unlivable conditions at Whipple. We have every reason to believe that this administration is once again lying through their teeth."
-
-## Editorial Assessment
-**HIGH** - Official DHS statement via @DHSgov. DHS spokesperson Tricia McLaughlin on the record. Multiple independent news outlets covering the statement (Star Tribune, Bring Me The News, KSTP). Morrison's observations documented through multiple congressional visits and covered by Star Tribune, KSTP, CBS Minnesota, FOX 9, KARE 11, and MinnPost.

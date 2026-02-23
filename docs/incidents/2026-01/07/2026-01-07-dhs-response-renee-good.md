@@ -69,6 +69,3 @@ DHS claimed Good "followed federal ICE agents to two other locations prior to th
 - **January 13:** Six federal prosecutors in Minnesota resigned, citing DOJ's "reluctance to investigate the shooter."
 - **January 13:** Deputy AG Todd Blanche said there was "no basis for a criminal civil rights investigation."
 - **February 7:** The New York Times reported FBI Director Kash Patel ordered agents to halt the civil rights investigation before a signed search warrant on Good's vehicle could be executed. Officials were concerned evidence would contradict Trump's public narrative. DOJ leadership pushed alternative investigations into Good herself and her widow. At least 14 prosecutors have resigned from the Minnesota U.S. Attorney's Office — roughly one-quarter of the criminal division.
-
-## Editorial Assessment
-**HIGH** - Official DHS statements well-documented. Local officials, independent security experts, and video analyses from multiple news organizations have offered differing interpretations of the events.

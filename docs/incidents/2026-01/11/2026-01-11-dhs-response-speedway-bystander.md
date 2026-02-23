@@ -48,6 +48,3 @@ Video sources: FOX 9, CNN, BlueSky, Getty Images
 
 **Claim:** Citizen "did not comply with the lawfully given order"
 **Video Evidence:** Shows citizen backing up as instructed before physical contact
-
-## Editorial Assessment
-**HIGH** - Official DHS statement documented. Video evidence from multiple independent sources including FOX 9 and CNN shows a different sequence of events than described in the statement.

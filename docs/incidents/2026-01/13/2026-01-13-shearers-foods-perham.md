@@ -50,6 +50,3 @@ Shearer's Foods stated:
 
 ## Context
 The arrest occurred as ICE activity spread across Greater Minnesota, with reports from Rochester, Detroit Lakes, St. Peter, Mankato, and other communities outside the Twin Cities metro.
-
-## Editorial Assessment
-**HIGH** - Local news coverage with named witness. Company statement confirms detention. Documentation of agents operating without badges and allegedly without warrants demonstrates pattern of enforcement tactics in Greater Minnesota.

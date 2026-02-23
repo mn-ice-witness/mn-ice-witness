@@ -112,6 +112,3 @@ A crowdfunding campaign organized by family friend Maritere Gonzalez on behalf o
 
 ## Context
 Henriquez-Serrano's family confirmed he is an undocumented immigrant but stated he has no criminal record in either the United States or Honduras. A search of Minnesota court records produced no results. The NYT reported that Bovino was personally on scene at the gas station directing operations. The level of force used — smashing a window, multiple agents pinning a man until unconscious, visible wounds — was captured on video from multiple angles and received national media coverage. The fact that Henriquez-Serrano had recently undergone leg surgery and was denied medical treatment while detained adds a medical neglect dimension to the incident. Photos circulating on social media show boot prints visible on his unconscious body as he was dragged to an unmarked vehicle.
-
-## Editorial Assessment
-**HIGH** - Extensive video evidence from multiple independent sources including Getty Images, CNN, Fox 9, and numerous bystanders. National coverage from NYT, CNN, Fox News, Mediaite. Family account via GoFundMe and BringMeTheNews follow-up confirms identity, injuries, and denial of medical care. DHS official statement contradicted by video evidence. Border Patrol Chief Bovino confirmed on scene by multiple sources.

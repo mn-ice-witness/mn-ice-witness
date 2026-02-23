@@ -46,6 +46,3 @@ Rachel Dionne-Thunder, vice president of the Indigenous Protector Movement and a
 
 ## Context
 The confrontation occurred the day after ICE agent Jonathan Ross fatally shot Renee Good on January 8. The Many Shields Society and American Indian Movement's Grand Governing Council regularly patrol the Cultural Corridor, a tradition dating to AIM's founding in 1968. Following the incident, Minnesota tribal nations — including Leech Lake Band, Mille Lacs Band, White Earth Nation, and Bois Forte Band — began issuing identification cards to protect members.
-
-## Editorial Assessment
-**MEDIUM** - Three sources (ICT News / Indian Country Today, CBS Minnesota, Buffalo's Fire). Named affected individual with video evidence (Facebook Live). Incident corroborated by community organization accounts and consistent with broader pattern of ICE targeting observers in Minneapolis.

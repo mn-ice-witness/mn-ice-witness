@@ -49,7 +49,3 @@ The government argues Pena Jimenez agreed to voluntarily leave the country two d
 ## Court Order Defiance Pattern
 
 This is at least the third documented case where federal authorities have defied Minnesota court orders during Operation Metro Surge. See also: [Tobay Robles Lyons](#2026-01-27-tobay-robles-lyons-contempt) and the [Velasco family](#2026-01-22-velasco-family-hopkins).
-
-## Editorial Assessment
-
-**HIGH** - Star Tribune reporting with named affected individual, specific court orders from a named federal judge (Jeffrey Bryan), named attorney (Joseph Kantor), and ongoing contempt proceedings. Government position also documented.

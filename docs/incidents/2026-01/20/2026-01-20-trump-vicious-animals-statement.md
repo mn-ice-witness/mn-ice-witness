@@ -37,6 +37,3 @@ On January 15, 2026, Trump wrote on Truth Social: "If the corrupt politicians of
 Trump has repeatedly characterized protesters as "highly paid professionals," "troublemakers, agitators, and insurrectionists," and "thugs." He has also referred to Minnesota officials including Governor Tim Walz and Representative Ilhan Omar as "corrupt politicians" who have "totally lost control."
 
 In late 2025, Trump said "Somalian gangs are roving the streets looking for 'prey.'"
-
-## Editorial Assessment
-**HIGH** - Direct quote from President Trump's official Truth Social account. The post URL is verified and the content has been shared by journalists including Aaron Rupar.

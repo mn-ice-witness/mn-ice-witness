@@ -35,7 +35,3 @@ Matthew Carlson, a 41-year-old child care worker, was detained by federal agents
 
 - [Ryan Ecklund Detained 9 Hours for Filming ICE Agents](#2026-01-13-ryan-ecklund-filming-detained) (Jan 13)
 - [Two ICE Observers Detained 8 Hours, Pressured to Name Organizers](#2026-01-11-siguenza-okeefe-detained) (Jan 11)
-
-## Editorial Assessment
-
-**MEDIUM** - Single source (Star Tribune coverage of ACLU class-action declarations filed Feb 13, 2026 in Tincher v. Noem). Carlson's account is a sworn declaration in federal court, which adds credibility, but no independent corroboration or additional coverage found.

@@ -42,7 +42,3 @@ DHS stated that Xiong has a removal order dated February 23, 2010, and that he w
 > "I showed them my documents already." — Thao Xiong, captured on video (Pioneer Press)
 
 > "We are in contact with his family and community partners and are working to ensure the family receives all possible supports and resources from HQB." — Benny Roberts, Executive Director (Pioneer Press)
-
-## Editorial Assessment
-
-**HIGH** - Named affected individual with detailed background from multiple sources. Statement from community center executive director. Video documentation of the arrest exists. DHS confirmation of detention.

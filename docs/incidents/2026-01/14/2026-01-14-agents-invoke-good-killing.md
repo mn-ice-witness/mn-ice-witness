@@ -42,6 +42,3 @@ Four incidents in the system document agents using this language:
 
 ## Context
 The pattern of invoking Good's killing spanned at least four separate encounters across three days and multiple locations — Hopkins, Minneapolis, and Highway 62. The consistency of the language across different agents and encounters suggests either coordinated messaging or a culture in which Good's death was openly discussed as a tool for intimidation. The ACLU's [Tincher v. Noem](/entry/2025-12-17-tincher-v-noem-aclu-lawsuit) lawsuit includes sworn declarations documenting this pattern.
-
-## Editorial Assessment
-**HIGH** - Pattern documented across four separate incidents with named affected individuals, video evidence, and sworn court declarations filed in Tincher v. Noem. Covered independently by The Intercept, Star Tribune, FOX 9, and Raw Story.

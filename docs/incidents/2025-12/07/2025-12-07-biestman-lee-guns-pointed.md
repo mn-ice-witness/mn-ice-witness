@@ -91,6 +91,3 @@ U.S. District Judge Katherine Menendez heard arguments on the preliminary injunc
 
 ## Context
 The incident occurred at a Catholic church as Sunday morning services were ending — one of the sensitive locations where faith leaders across Minneapolis-St. Paul organized to protect Somali communities from ICE operations. Both Biestman and Leon stated they intended to continue observing despite the threats.
-
-## Editorial Assessment
-**HIGH** - Named plaintiffs in ACLU federal lawsuit with sworn declarations under penalty of perjury. Corroborated by independent witness declaration (Leon). Church raid at sensitive location. Documented pattern of threatening observers. Star Tribune coverage of January 13 hearing.

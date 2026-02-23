@@ -76,6 +76,3 @@ Border Patrol Commander Greg Bovino was asked about the racial profiling allegat
 
 ## Broader Context
 The ACLU of Minnesota filed a class-action lawsuit against federal authorities alleging suspicionless stops and ethnic-based detention. DHS has deployed approximately 3,000 ICE and Border Patrol agents to Minnesota under "Operation Metro Surge," claiming 3,000 arrests over six weeks. This press conference represents the first time local law enforcement leaders have publicly spoken out against federal immigration agents' conduct in the Twin Cities.
-
-## Editorial Assessment
-**HIGH** - This incident and pattern of civil rights violations is documented through a formal press conference by three law enforcement officials: Brooklyn Park Police Chief Mark Bruley, Hennepin County Sheriff Dawanna Witt, and St. Paul Police Chief Axel Henry. The press conference was covered by multiple major news outlets including KSTP, KARE 11, CBS Minnesota, Fox News, Washington Post, and Fox 9. While the specific officer's identity is protected, the account comes from her own police chief based on her direct report. The involvement of three separate law enforcement agencies lending credibility to citizen complaints establishes strong institutional corroboration of a pattern of racial profiling.

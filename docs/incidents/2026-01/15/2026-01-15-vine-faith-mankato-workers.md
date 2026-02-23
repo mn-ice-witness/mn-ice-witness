@@ -33,6 +33,3 @@ VINE CEO Melinda Wedzina witnessed the incident and described the impact on elde
 
 ## Context
 VINE Faith in Action serves seniors in the Mankato area. The detention occurred in full view of staff and elderly members during routine renovation work.
-
-## Editorial Assessment
-**HIGH** - Local newspaper coverage with named witness (CEO Melinda Wedzina). Documents ICE detaining workers at a senior services facility in front of elderly community members.

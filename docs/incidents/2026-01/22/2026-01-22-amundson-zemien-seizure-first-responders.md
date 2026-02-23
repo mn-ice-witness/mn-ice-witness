@@ -44,6 +44,3 @@ Both women were advised by attorneys not to discuss why they were being held
 - Amundson reflected: "I was hit so hard with the fact that this man would not do this for me"
 - Her mind went immediately to Renee Good
 - ICE did not respond to requests for information about the incident or questions about its medical and safety protocols
-
-## Editorial Assessment
-**HIGH** - Two independent sources (KARE 11 video, Star Tribune) with detailed on-the-record interviews from both affected individuals. ICE did not respond to requests for comment. The women were advised by attorneys not to discuss the reason for their detention, suggesting they may have been legal observers.

@@ -299,6 +299,3 @@ Reported to Rep. Morrison that they were sleeping on cold floors. "They're not t
 
 ### Aliya Rahman, Minneapolis (from MinnPost)
 "I saw Black and brown bodies shackled together, chained together, being marched by yelling agents outdoors." Noted agents refer to detainees as "bodies."
-
-## Editorial Assessment
-**HIGH** - New York Times reporting on Stolley departure with named sources including former immigration judge Ryan Wood and law professor Linus Chan. DHS confirmation of retirement via spokeswoman Tricia McLaughlin. Julie Le hearing covered by NBC News, CNN, CBS Minnesota, ABC News, FOX 9, and NPR with direct transcript quotes. AP/national wire coverage of the Brasel hearing. Courthouse News Service court reporting. Star Tribune investigation of attorney exodus. Class action lawsuit filed with extensive documentation (Democracy Forward). Multiple independent sources documenting Whipple conditions (Star Tribune, CBS Minnesota, FOX 9, KSTP, MinnPost, Minnesota Reformer, Racket). Congressional firsthand observations. DHS official responses included. Fifth Circuit ruling covered by NBC News, CNN, CBS News, Sahan Journal, and Star Tribune. Named Minnesota attorneys (David Wilson, Julia Decker) quoted on impact.

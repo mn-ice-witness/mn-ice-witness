@@ -79,7 +79,3 @@ Thi Dua Vang, a Hmong refugee who fled Vietnam after decades of persecution for 
 Thi Dua Vang's detention fits a documented pattern of ICE targeting refugees with pending green card applications under **Operation PARRIS** (Post-Admission Refugee Reverification and Integrity Strengthening). According to [Fox 9](https://www.fox9.com/news/minnesota-fraud-dhs-launching-operation-parris-target-refugees-jan-9), approximately 5,600 green card applicants in Minnesota are being targeted through this [official DHS operation](https://www.uscis.gov/newsroom/news-releases/dhs-launches-landmark-uscis-fraud-investigation-in-minnesota).
 
 [Global Refuge](https://www.globalrefuge.org/news/refugee-arrests-minnesota/) has documented that lawfully present refugees are being detained and transported to Texas within 24 hours with "no due process, no access to an attorney."
-
-## Editorial Assessment
-
-**MEDIUM** - Two independent Tier 1 sources (KARE 11, Sahan Journal) with detailed reporting including direct interviews with affected individual and family members. Account relies primarily on affected individual's testimony; DHS has not responded to inquiries about why agents continue visiting the home.

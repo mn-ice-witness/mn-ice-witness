@@ -63,7 +63,3 @@ Columbia Academy Principal Leslee Sherk says at least 14 families at her school 
 Kuhlman expressed concern about conditions: "There's a lot of people getting sick. We have a fourth grader from Highland Elementary down there [in Dilley, Texas] and then we have Liam ... and they're both sick. The conditions aren't good. It's too crowded; they're not getting fed well. That's my fear."
 
 A congressional visit revealed Liam Conejo Ramos showed signs of lethargy and depression.
-
-## Editorial Assessment
-
-**HIGH** - Two credible sources (Star Tribune and MPR News). Named school officials (Principal Kuhlman, Principal Sherk, Superintendent Stenvik) providing firsthand accounts. Direct quotes from principal who personally transported the children to the detention facility.

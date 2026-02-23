@@ -28,7 +28,3 @@ On January 14, 2026, students on a Minneapolis Public Schools Transition Plus pr
 
 - **Detained man:** Hispanic male, name unknown; shot with rubber bullets, then detained
 - **Students:** Children on MPS Transition Plus school bus who witnessed the incident
-
-## Editorial Assessment
-
-**MEDIUM** - Detailed community newspaper account with specific incident description. Single local source (published in two affiliated neighborhood papers). No broader news media pickup found. No name for the detained individual.

@@ -150,6 +150,3 @@ The accelerated deportation of Valentina Moreno — a witness whose testimony co
 
 ## Endangerment of Children
 The bullet fired by the ICE agent traveled through the closed front door, through Sosa-Celis' leg, through another wall, and into a first-floor apartment where it lodged in the wall near a child's playpen used as a crib. Four children and one adult were present in the room at the time. A tear gas canister was also fired through an apartment window.
-
-## Editorial Assessment
-**HIGH** - Multiple major outlets (MPR, Star Tribune, CBS Minnesota, Sahan Journal, Forbes, Minnesota Reformer). Named eyewitness (partner Mendoza Camacho) disputes government account. FBI affidavit confirms mistaken identity. Physical evidence (bullet hole in closed door, trajectory through walls) corroborates defense account. Federal judge ordered release. DHS press release and court filings document both sides. Bullet endangered children in adjacent apartment.

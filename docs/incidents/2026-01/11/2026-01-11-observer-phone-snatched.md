@@ -30,6 +30,3 @@ Video circulating on social media shows an ICE agent approaching a woman who was
 
 ## Related Incidents
 - [Observer Shoved Into Oncoming Traffic While Filming ICE](#2026-01-11-observer-shoved-into-traffic) — Separate incident on the same date
-
-## Editorial Assessment
-**LOW** - Single social media source (Threads) but video appears to be from NBC Nightly News broadcast with chyron "NEW VIDEO SHOWS MINNEAPOLIS RESIDENTS CONFRONTING ICE AGENTS." Original NBC source not yet located.

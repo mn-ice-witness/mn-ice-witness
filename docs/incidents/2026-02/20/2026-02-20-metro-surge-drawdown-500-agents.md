@@ -33,6 +33,3 @@ U.S. Reps. Ilhan Omar and Angie Craig toured the Whipple Federal Building on Feb
 - [Homan Declares Operation Metro Surge Over](#2026-02-12-homan-operation-metro-surge-conclusion) — Feb 12 announcement, 8 days prior
 - [DHS Launches Operation Metro Surge](#2025-12-01-operation-metro-surge-launched) — The beginning
 - [ICE Deceptive Tactics and Ruse Entries](#2026-02-08-ice-deceptive-tactics) — Earlier reporting on covert methods
-
-## Editorial Assessment
-**HIGH** - Nine independent sources across local and national outlets (Star Tribune, KSTP, Sahan Journal, MPR News, FOX 9, Minnesota Reformer, CNN, CNN transcript, Fox News). Congressional visit with named lawmakers reporting firsthand observations. Specific operational data (agent count, arrest rate, flight frequency) confirmed by ICE field office director to members of Congress.

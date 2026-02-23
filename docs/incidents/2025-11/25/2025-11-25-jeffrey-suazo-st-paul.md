@@ -53,6 +53,3 @@ DHS identified the individual as "Victor Molina Rodriguez," described as a Hondu
 - Confrontations with federal agents and St. Paul police.
 - Pepper spray and nonlethal munitions deployed.
 - At least one photojournalist was hospitalized.
-
-## Editorial Assessment
-**HIGH** - Detailed reporting from Sahan Journal with family interviews and named sources. Star Tribune also covered the incident. Video evidence exists. The discrepancy between family's account (Jeffrey Suazo, house painter) and DHS's account (Victor Molina Rodriguez) suggests possible case of mistaken identity or conflation of two individuals. Family's allegations of no warrant and humiliation are documented.

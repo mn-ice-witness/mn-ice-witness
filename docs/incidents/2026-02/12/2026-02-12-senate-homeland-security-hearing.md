@@ -56,6 +56,3 @@ AG Ellison: Operation Metro Surge "has caused real harm." Two of Minneapolis's t
 - [Homan Declares Operation Metro Surge Over](#2026-02-12-homan-operation-metro-surge-conclusion) — Announced same morning
 - [Renee Good Shooting](#2026-01-07-renee-good-shooting) — Discussed extensively
 - [Alex Pretti Shooting](#2026-01-24-alex-pretti-shooting) — Video played frame-by-frame
-
-## Editorial Assessment
-**HIGH** - Official Senate committee hearing with full C-SPAN video. Covered by every major national and local outlet. Direct quotes from witnesses.

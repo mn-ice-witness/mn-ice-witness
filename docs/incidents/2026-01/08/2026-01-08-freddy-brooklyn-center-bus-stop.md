@@ -30,6 +30,3 @@ search_tags: excessive-force, chemical-agents, legal-resident, src:sahan-journal
 - **Occupation:** Landscaper
 - **Detained:** Taken to Whipple Federal Building (Fort Snelling) for several days, then transferred to Freeborn County Jail for nearly a month
 - **Released:** Feb. 8, without any of his documents
-
-## Editorial Assessment
-**LOW** — Pseudonym only (first name, likely not real). Single source (Sahan Journal). No corroborating media coverage. No named attorney. No court filings. Specific details are plausible and consistent with documented patterns, but cannot be independently verified with available information.

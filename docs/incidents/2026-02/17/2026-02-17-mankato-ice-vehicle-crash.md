@@ -30,6 +30,3 @@ A collision between a DHS vehicle and a civilian car occurred at the intersectio
 - **Citizenship:** U.S. Citizen
 - **Injuries:** Minor; declined medical transport
 - **Charges:** Reckless driving, disorderly conduct, driving without insurance
-
-## Editorial Assessment
-**HIGH** - Five sources across four outlets (KEYC, Mankato Free Press x2, FOX 9, Southern Minnesota News). Named affected individual with direct quotes. City of Mankato press release and police traffic camera review provide an account that contradicts Wilson's version; both accounts are presented in the summary. Incident occurred in broad daylight outside the Mankato Public Safety Center.

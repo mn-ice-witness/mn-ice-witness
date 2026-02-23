@@ -45,6 +45,3 @@ Parents at Jardin and other Twin Cities daycares have organized to:
 
 ## Context
 This detention occurred on the same day as the fatal shooting of Renee Good and the Border Patrol incident at Roosevelt High School. The Trump administration has repeatedly said it does not target daycares or schools, but multiple incidents involving educators have been documented.
-
-## Editorial Assessment
-**MEDIUM** - Star Tribune viewed bystander video but did not verify teacher's identity. Multiple parents confirmed detention. GoFundMe page provides work permit details. No official statement from Jardin or ICE. Teacher's name and current location not confirmed.

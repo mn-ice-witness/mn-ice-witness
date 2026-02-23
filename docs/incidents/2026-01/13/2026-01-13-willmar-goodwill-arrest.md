@@ -54,6 +54,3 @@ On agents not confirming identity:
 
 ### Adyssey Barrett (15 years old)
 Described the scene as dangerous. She left the car despite her mother's instructions and approached agents while recording. She asked to see a judicial warrant and was threatened with arrest.
-
-## Editorial Assessment
-**MEDIUM** - Three sources (Mankato Free Press, Daily Yonder, In These Times) with named witnesses providing consistent accounts. Affected individuals not named, limiting independent verification. Specific operational details (12 agents, 6 vehicles, judicial warrant request, wife's confused detention) add credibility.

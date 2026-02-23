@@ -44,6 +44,3 @@ An employee at NATIFS (North American Traditional Indigenous Food Systems), the 
 NATIFS is a nonprofit organization focused on Indigenous food education and revitalization. Sherman, known as "The Sioux Chef," also owns the James Beard Award-winning restaurant Owamni. In response to this incident and the broader immigration crackdown, Sherman accompanied U.S. Senator Tina Smith to Washington, D.C. to deliver a letter signed by more than 1,000 chefs and business owners to the U.S. Senate.
 
 Sherman noted that the use of the Whipple Federal Building as a detention center is "more salt in the wound" for Native Americans, as it is located at Fort Snelling, which was used as a concentration camp for Dakota people in the 1860s.
-
-## Editorial Assessment
-**MEDIUM** - Single named source (Sherman) with detailed firsthand account. No independent news verification of the specific incident details beyond Sherman's statements. High-profile source (James Beard Award winner) adds credibility. Would upgrade to HIGH with additional sources or official documentation.

@@ -56,6 +56,3 @@ This statement came amid escalating tensions:
 - One day after Minnesota, Minneapolis, and St. Paul filed a lawsuit calling the ICE surge a "federal invasion".
 - Mayor Frey previously told ICE to "get the f--- out" of Minneapolis.
 - Governor Walz told the Trump administration to "leave Minnesota alone".
-
-## Editorial Assessment
-**HIGH** - Official DHS press release. Numbers are disputed by state officials. The significant gap between state and federal figures (207 vs. 1,360+) raises questions about methodology and what facilities are being counted.

@@ -49,6 +49,3 @@ The older children, with help from church volunteer Feliza Martinez and other co
 - **Source MN** - Christian nonprofit that expanded its food bank program to serve sheltering families
 - **Feliza Martinez** - Volunteer with Source MN helping relocate and shelter children
 - Community volunteers maintaining safe house in south Minneapolis
-
-## Editorial Assessment
-**HIGH** - AP wire story by Jack Brook (Report for America). Named affected individual (Melida Rita Wampash Tuntuam). Specific details about 10 children including U.S. citizen infant. Documents extreme family separation impact with youngest child (5 months old) left without mother.

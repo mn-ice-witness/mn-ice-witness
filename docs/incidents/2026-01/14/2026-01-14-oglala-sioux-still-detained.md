@@ -95,6 +95,3 @@ The site was historically used as a concentration camp for Native people during 
 
 ## Related Incidents
 Indigenous Americans increasingly face ICE targeting. Actress Elaine Miles (Confederated Tribes of the Umatilla Indian Reservation) reported ICE agents called her tribal ID "fake" during November 2025 detention.
-
-## Editorial Assessment
-**REMOVED** - While initially a major national story with extensive coverage, the tribe later stated it cannot confirm the detained individuals are tribal members (see source #14). Without verified tribal membership, we cannot verify U.S. citizenship. The core claim that U.S. citizens are being illegally held in immigration detention is therefore unconfirmed.

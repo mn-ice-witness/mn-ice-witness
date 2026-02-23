@@ -48,6 +48,3 @@ Attorney Michelle Drake stated that ICE weaponized the family's love for their d
 
 ## Witness Accounts
 From A.A.'s federal court declaration: She does not allege sexual or physical abuse by the agents. She states that at no time did anyone from the government try to interview her about her refugee status or the purported reason for her arrest. A.A. says she is now afraid to leave her house.
-
-## Editorial Assessment
-**MEDIUM** - Single source (MPR News, Tier 1) with detailed reporting based on a federal court declaration. The affected individual's name is redacted for safety (minor). Specific details about the traffic stop, Whipple threats, hotel detention, and attorney retrieval add credibility. Part of the documented Operation PARRIS class action (U.H.A. v. Bondi). No independent corroboration from a second outlet yet.

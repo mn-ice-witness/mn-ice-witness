@@ -88,6 +88,3 @@ The incident drew widespread condemnation on social media, with users describing
 ## Related Incidents
 The restaurant owners were targeted in a separate ICE operation the following day:
 - **January 16, 2026:** Liborio Parral was detained while driving his wife Bonfilia Sanchez to the emergency room. He was transported to El Paso, Texas within 20 hours. See: [Parral Ortiz Hospital Detention](#2026-01-16-parral-ortiz-hospital-detention)
-
-## Editorial Assessment
-**HIGH** - 7+ independent news sources including the original Star Tribune reporting, local Willmar outlets (West Central Tribune, KWLM Radio), CBS Minnesota, and multiple national outlets. Eyewitness provided photos from the restaurant and video of the arrests. Multiple witness accounts corroborate the timeline. CBS Minnesota confirmed the owners were among those detained. The restaurant being closed on Friday with no reopening date corroborates the community impact.

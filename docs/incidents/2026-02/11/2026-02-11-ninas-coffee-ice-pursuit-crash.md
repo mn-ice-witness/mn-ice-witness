@@ -94,6 +94,3 @@ On February 10 (the day before this crash), indicated the operation could wind d
 - [Asylum Seeker Hospitalized After Wife Says ICE Rammed His Car Into Telephone Pole](#2026-01-26-christian-salamanca-ice-chase-crash) - Similar ICE vehicle pursuit in St. Paul two weeks earlier
 - [ICE Rams Latino U.S. Citizen's Car, Releases Him After Confirming Identity](#2026-01-12-christian-molina-car-rammed) - ICE rammed a U.S. citizen's car in south Minneapolis
 - [ICE Agent Fires Shots at Man During St. Paul Arrest After Being Struck by Vehicle](#2025-12-21-st-paul-westminster-shooting) - Earlier ICE vehicle confrontation in St. Paul
-
-## Editorial Assessment
-**HIGH** - 14 independent news sources including Star Tribune, Minnesota Reformer, MPR News, FOX 9, KARE 11, CBS Minnesota, Newsweek, Pioneer Press, Sahan Journal, Bring Me The News, Common Dreams, Fox News, and Patch. Named affected individual (Alexander Romero-Avila) identified by DHS. Named witnesses (Brandon Reader, Liz Andriacchi, Abdi Ali, Becky Zea). Official statements from DHS and St. Paul Mayor. Video/photo evidence exists. Competing narratives noted: DHS characterizes as "dangerous attempt to resist arrest" while social media initially reported ICE caused the crash.

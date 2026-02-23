@@ -27,6 +27,3 @@ Juan Manuel Arellano Zepeda, 48, owner of El Fresco restaurant in Bloomington, w
 - **Age:** 48
 - **Nationality:** Mexican
 - **Immigration status:** Undocumented
-
-## Editorial Assessment
-**MEDIUM** - Single Tier 2 source (Newsweek) with MSN syndication reprint. Family statements and ICE database confirmation referenced but both listed sources trace to one outlet. Demonstrates pattern of ICE not disclosing detentions and targeting community business owners with no criminal record.

@@ -77,6 +77,3 @@ Jackson faces a felony allegation but has not been formally charged. She also re
 
 ## Context
 Jackson's case illustrates a pattern of escalating retaliation against observers. The sequence — agents visiting her home (Jan 6), explicitly threatening her with knowledge of her address (Jan 7), arresting her (Jan 17), showing up on her block in tactical gear (after arrest), and sending a DHS letter threatening TSA status (after arrest) — represents multiple layers of pressure applied to a single observer. MPR reported that approximately 30,000 people in Minnesota have been trained as observers. Jackson's experience demonstrates the personal risk that role now carries.
-
-## Editorial Assessment
-**HIGH** - Sworn declaration filed in federal court (Tincher v. Noem, Doc. 63) documents the January 7 intimidation under penalty of perjury. MPR News interview (Feb 4) documents the January 17 arrest and subsequent retaliation. The threat pattern — explicitly telling an observer they know her home address and have visited her home — is documented in the declaration. The arrest by agents in gym shorts in a white minivan, the DHS letter under TSA letterhead for conduct in a different city, and the subsequent tactical presence on her block collectively suggest targeting and harassment of a known observer.

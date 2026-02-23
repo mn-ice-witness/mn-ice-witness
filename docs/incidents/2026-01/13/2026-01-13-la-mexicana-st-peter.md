@@ -27,6 +27,3 @@ ICE agents arrested a customer at La Mexicana Market and Restaurant in St. Peter
 
 ## Key Quote
 "It's just scary, you just freeze." — Zulma Sanchez, staff member
-
-## Editorial Assessment
-**MEDIUM** - Single local newspaper source (St. Peter Herald) with named witness (staff member Zulma Sanchez). Well-reported firsthand account but lacks independent corroboration from a second source.

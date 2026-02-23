@@ -87,6 +87,3 @@ The victim was issued a U.S. District Court Violation Notice for "Failure to car
 - The victim's exact immigration status
 - DHS has not provided documentation supporting the "criminal alien" claim.
 - The victim has not publicly come forward to confirm his status.
-
-## Editorial Assessment
-**HIGH** - Official DHS statement directly sourced from CNN reporting. The DHS claim is documented exactly as stated. Neither DHS's claim nor the GoFundMe's claim about the victim's legal status has been independently verified.

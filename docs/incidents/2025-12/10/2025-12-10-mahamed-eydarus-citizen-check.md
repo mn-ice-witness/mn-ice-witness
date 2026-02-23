@@ -79,6 +79,3 @@ Eydarus is one of three plaintiffs in ACLU of Minnesota's class-action lawsuit f
 
 ## Context
 This incident occurred on the same day as the Mubashir Khalif Hussen wrongful detention in Cedar-Riverside. Both cases involve U.S. citizens of Somali descent being detained despite repeatedly asserting their citizenship, demonstrating a pattern of racial profiling.
-
-## Editorial Assessment
-**HIGH** - Named plaintiff in federal lawsuit with detailed sworn allegations. Multiple national and local news sources (NBC News, Star Tribune, Sahan Journal). Part of documented pattern of Somali-Americans being racially profiled. Corroborates other incidents from same day.

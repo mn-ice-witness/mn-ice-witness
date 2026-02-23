@@ -127,6 +127,3 @@ The crowd grew from a few dozen people to approximately 100 over the course of t
 
 ## Context
 This incident was significant as one of the first major ICE enforcement actions in a suburban Twin Cities community during Operation Metro Surge. Previous confrontations had been concentrated in Minneapolis neighborhoods. The organized community response — with trained bystanders arriving within an hour — demonstrated the spread of rapid-response networks beyond the urban core. Chanhassen is a predominantly white, affluent suburb in Carver County.
-
-## Editorial Assessment
-**HIGH** - Covered by CBS News Minnesota, Fox 9, KSTP, Sahan Journal, and multiple local outlets. Video evidence from multiple sources. On-the-record statements from State Rep. Falconer, State Sen. Hoffman, Councilmember von Oven, State Rep. Rehm. Named witnesses. Both men hospitalized. Confirmed that agents lacked judicial warrant and sheriff's office had no prior notice.

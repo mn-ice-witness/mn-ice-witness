@@ -90,7 +90,3 @@ This incident occurred seven days after that injunction was issued.
 - [Observer Pinned to Ground, Chemical Irritant Sprayed Directly Into Face](#2026-01-21-observer-pinned-pepper-sprayed-face) (Jan 21).
 - [DHS Response: Agents "Harassed" at Gas Stations, Used "Crowd Control Measures"](#2026-01-21-dhs-response-crowd-control) (Jan 21).
 - [Shawn Jackson's Children Hospitalized After ICE Deploys Flash Bang, Tear Gas](#2026-01-14-shawn-jackson-children-tear-gas) (Jan 14).
-
-## Editorial Assessment
-
-**HIGH** - Shortal's own detailed account on her employer's news station, corroborated by multiple independent news outlets (TheWrap, FOX 9, CBS Minnesota). Video exists of aftermath. This follows the pattern of federal agents targeting press during Operation Metro Surge, in apparent violation of the January 17 federal injunction.

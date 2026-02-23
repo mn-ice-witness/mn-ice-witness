@@ -45,6 +45,3 @@ Ventura called the killing of Renee Good a "tragedy" and warned: "This is what h
 
 ## Context
 Ventura's visit came less than 24 hours after the January 7 incident at Roosevelt High School where Border Patrol agents descended on the school, deployed chemical irritants, and detained a special education assistant who is a U.S. citizen. The incident occurred the same day as the fatal shooting of Renee Nicole Good by an ICE agent approximately 3 miles away.
-
-## Editorial Assessment
-**HIGH** - Multiple major news outlets covered Ventura's visit with consistent reporting of his statements.

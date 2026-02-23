@@ -70,6 +70,3 @@ On conditions inside the Whipple Building:
 
 On a fellow detainee (Marine Corps veteran):
 > "One of those veterans — scraped up and bruised at both wrist and ankle from the ICE agents' aggression — talked about how ironic and shocking it was that the first time she had a gun pointed at her it was by the very government she swore an oath to serve."
-
-## Editorial Assessment
-**HIGH** - First-person account published by USA Today, corroborated by AP, Snopes, Sahan Journal documentary, CATO Institute, and on-the-record interviews with both detainees across multiple outlets.

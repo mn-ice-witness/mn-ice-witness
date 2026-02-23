@@ -50,6 +50,3 @@ Ryan Brevig, Rocket Restaurant Group co-founder: "This is a terrible day. I'm wo
 
 ### Political Response
 Rep. Andy Smith (DFL-Rochester): "ICE is returning to places that they have been previously, where they think they have targets."
-
-## Editorial Assessment
-**HIGH** - Five independent local news sources (Post Bulletin, KIMT, KTTC, KAAL, CBS Minnesota). DHS confirmed the arrests and identified both individuals. Video evidence of the detentions. Rep. Andy Smith independently confirmed the arrests. Post Bulletin reporter John Molseed provided detailed on-scene reporting.

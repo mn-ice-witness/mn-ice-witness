@@ -46,6 +46,3 @@ On January 14, 2026, ICE agents conducted an enforcement operation at an apartme
 
 ## Context
 Aquila Elementary School has a large Somali and Latino student population. Parents described a growing ICE presence outside the school and the nearby apartment building since early December 2025. Student attendance dropped sharply across several Twin Cities school districts as families kept children home during Operation Metro Surge.
-
-## Editorial Assessment
-**HIGH** - Multiple sources (Sahan Journal, CBS Minnesota, Star Tribune, Hometown Source, BMTN). Named officials (Mayor Mohamed, Rep. Kraft, Superintendent Hines) confirm the incident. Documents significant impact on children: students witnessing enforcement operations from classrooms, teachers closing blinds, school adjusting procedures.

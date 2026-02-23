@@ -50,7 +50,3 @@ Inside Whipple, agents told Abernathy they tackled him because they had video of
 
 - [Attorneys Denied Access to Detained Clients at Whipple Building](#2026-01-15-whipple-lawyers-denied-access) (Jan 15)
 - [Border Patrol Chief Bovino and Agents Tear Gas Peaceful Protesters at Whipple Building](#2026-01-08-whipple-tear-gas-renee-good-protest) (Jan 8)
-
-## Editorial Assessment
-
-**HIGH** - AP wire photo by Adam Gray, 17-photo sequence by Pierre Lavie. Covered by U.S. Press Freedom Tracker, HuffPost, PetaPixel, Gizmodo, DIY Photography, Reporters Without Borders, CNN, and Star Tribune. Abernathy's sworn declaration filed in ACLU class-action lawsuit (Tincher v. Noem). One of the most widely circulated images of Operation Metro Surge.

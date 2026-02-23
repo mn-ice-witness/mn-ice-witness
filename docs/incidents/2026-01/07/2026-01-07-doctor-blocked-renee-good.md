@@ -78,6 +78,3 @@ Heller told CNN the ambulance couldn't get through because vehicles "abandoned" 
 
 ## Context
 This refusal to allow bystander medical assistance echoes the restraint-related death of George Floyd, where bystander offers to help were also denied.
-
-## Editorial Assessment
-**HIGH** - Video evidence exists from multiple angles. Multiple independent news outlets reported on the incident. Legal experts have analyzed the implications. The exchange is documented on video with clear audio.

@@ -48,6 +48,3 @@ Described the lack of transparency, stating: "The lack of visibility and account
 
 ### U.S. Rep. Angie Craig
 Called the detention "shocking," stating: "Schools should be safe places for our teachers to teach and students to learn."
-
-## Editorial Assessment
-**HIGH** - Multiple news sources, named affected individual and family members, official response from U.S. Representative. School incident at sensitive location.

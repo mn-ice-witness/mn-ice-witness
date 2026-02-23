@@ -43,6 +43,3 @@ Anoka-Hennepin School District protocols include:
 
 **State Sen. Jim Abeler (R-Anoka):**
 Described the van drivers as Native American and Asian, underscoring that legal residents and citizens were being stopped. Requested ICE reassign 500+ agents from Minnesota, citing "countless wrongful detentions of U.S. citizens and legal non-citizens."
-
-## Editorial Assessment
-**HIGH** - Disclosed by named superintendent (Cory McIntyre) in official communication to families. Corroborated by State Sen. Jim Abeler's (R-Anoka) letter to federal officials. Incident recorded on school district video. Multiple Hometownsource articles and MPR News coverage. Notable that Abeler is a Republican senator raising concerns.

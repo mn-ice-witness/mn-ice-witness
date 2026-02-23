@@ -40,6 +40,3 @@ The incident occurred during an extended period of ICE activity in Rochester. Ro
 
 ## Related Incidents
 - [U.S. Citizen Detained at Olmsted County Government Center](#2026-01-31-rochester-government-center-citizen-detained)
-
-## Editorial Assessment
-**MEDIUM** - Two sources (Post Bulletin, Star Tribune). Named individual testified at public city council meeting. U.S. citizenship stated directly by affected individual at public meeting. No video evidence, no independent corroboration beyond testimony.

@@ -67,6 +67,3 @@ ICE agents have been observed:
 
 ## Context
 El Burrito Mercado is a landmark in St. Paul's Latino community, once called a "mini-empire" by Eater. The surveillance represents the economic terror being inflicted on immigrant-owned businesses during Operation Metro Surge. The state lawsuit against DHS cited businesses reporting 50-80% revenue declines.
-
-## Editorial Assessment
-**HIGH** - National news coverage (CNN Business). Named business owner on record. Multiple local sources (Fox 9, Pioneer Press, Bring Me The News). Documented economic impact. Specific, verifiable location. Part of documented pattern of business disruption during Operation Metro Surge.

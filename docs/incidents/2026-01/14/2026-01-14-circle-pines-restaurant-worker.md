@@ -50,6 +50,3 @@ Restaurant owners Frank and Stacey Chase confirmed:
 - Restaurant organized GoFundMe for legal fees
 
 From the GoFundMe: "He was moved from the federal Whipple Federal Building in Minneapolis to a detention facility in El Paso, Texas within 12 hours of his arrest. Twice, in those first hours, we attempted to bring him his glasses so that he can see, only to realize he had immediately been transported."
-
-## Editorial Assessment
-**HIGH** - Video evidence of detention, restaurant owner confirmed legal status and lack of criminal record, multiple news reports, community fundraising response.

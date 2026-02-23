@@ -40,6 +40,3 @@ Approved an official city statement affirming that Red Wing police will not assi
 
 ### Moorhead (Feb 9-10) — Tabled 5-3
 Council members brought motions to restrict ICE access to public property and examine police response to federal enforcement. The council voted 5-3 to table both motions and push them to a workshop.
-
-## Editorial Assessment
-**HIGH** - Official city council actions covered by local news outlets in each city. Named officials, vote counts documented.

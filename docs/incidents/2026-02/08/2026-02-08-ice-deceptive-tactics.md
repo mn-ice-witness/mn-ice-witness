@@ -105,7 +105,3 @@ The ACLU of Minnesota filed a class-action suit alleging that "forced facial sca
 - [ICE Agents Follow Observers Home](#2026-01-06-levy-observers-followed-home) — License plate tracking and home visits
 - [Restaurant Worker with Legal Visa Detained by Plain-Clothed Agents](#2026-01-14-circle-pines-restaurant-worker) — Plainclothes agents at Circle Pines
 - [Toy Store Receives ICE Inspection After ABC Interview](#2026-01-17-mischief-toy-store-ice-inspection) — Apparent retaliation for media criticism
-
-## Editorial Assessment
-
-**HIGH** — AP investigative report with named sources (Luis Ramirez, Candice Metrailer, Jose Alvillar) and corroboration from CBS Minnesota. Star Tribune independent investigation of 100+ license plates with specific data. Governor Walz and DVS director on record. Expert assessment from former ICE deputy director and ACLU. Multiple independent reporting threads converge on the same pattern.

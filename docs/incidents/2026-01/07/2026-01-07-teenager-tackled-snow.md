@@ -55,6 +55,3 @@ He called the incident "a cruel disgrace."
 
 ## Context
 This incident occurred on the same day as the fatal shooting of Renee Good by ICE agent Jonathan Ross in Minneapolis, during the early days of Operation Metro Surge.
-
-## Editorial Assessment
-**MEDIUM** - Video independently verified by the Associated Press. Minnesota Secretary of State (elected official) publicly shared and condemned the footage. Named videographer (Skylar Fehlen) provided statement to AP. However, the teenager's identity has not been released, citizenship status is unconfirmed, and the outcome of the detention is unknown.

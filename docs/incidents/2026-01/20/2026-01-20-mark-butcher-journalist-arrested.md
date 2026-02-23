@@ -38,6 +38,3 @@ Mark Butcher, 55, a carpenter and freelance journalist, was arrested on January 
 
 ## Related Incidents
 - [ACLU Sues to Protect Observers: Tincher v. Noem](#2025-12-17-tincher-v-noem-aclu-lawsuit) — Butcher filed sworn declaration
-
-## Editorial Assessment
-**HIGH** — Sworn declaration filed in federal court (Tincher v. Noem). Named individual with specific date. Reported by New York Times and PBS NewsHour.

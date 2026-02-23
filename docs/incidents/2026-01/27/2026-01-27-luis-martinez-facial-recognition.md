@@ -25,6 +25,3 @@ Luis Martinez, a U.S. citizen, was boxed in by federal agents in a Minneapolis s
 - **Name:** Luis Martinez
 - **Citizenship:** U.S. citizen
 - **Situation:** Stopped while driving to work
-
-## Editorial Assessment
-**HIGH** - Named U.S. citizen with direct account published by MPR News. Documents use of facial recognition technology on citizens during Operation Metro Surge. Part of documented pattern of citizens being stopped and questioned during immigration enforcement operations.

@@ -78,6 +78,3 @@ This incident represents a direct challenge to First Amendment rights to record 
 - He was held for 9 hours despite being a U.S. citizen with no criminal involvement.
 - The incident occurred the same week as federal litigation over recording rights.
 - DHS explicitly argued in court that following agents should not be protected speech.
-
-## Editorial Assessment
-**HIGH** - Multiple independent local sources (Fox 9, Pioneer Press, Bring Me The News), national syndication across FOX affiliates, named affected individual with specific details and direct quotes, tied to ongoing federal litigation. Affected individual's wife provided documentation on social media.

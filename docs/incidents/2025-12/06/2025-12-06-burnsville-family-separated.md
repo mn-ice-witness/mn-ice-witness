@@ -82,6 +82,3 @@ Added: "The U.S. citizens in the house were never arrested. They were briefly qu
 "We are actively monitoring federal immigration activity in our city. Federal government agents have been present to carry out immigration enforcement operations. We know this has created fear and uncertainty for many in our community."
 
 "Burnsville Police do not engage in federal immigration enforcement and are typically not notified of federal operations."
-
-## Editorial Assessment
-**HIGH** - Multiple major news outlets (KARE 11, NBC News, CNN affiliates) with consistent details. Ring camera video evidence exists. Named family members on record. Official city statement and DHS confirmation. Clear family separation of U.S. citizen-connected household with work-permit-holding father.

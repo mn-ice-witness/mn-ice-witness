@@ -38,6 +38,3 @@ During the incident inside, a bystander had a back-and-forth with an ICE agent. 
 
 ## Context
 Part of broader pattern of ICE operations at Twin Cities retail locations. Videos have circulated of agents making arrests inside Walmart stores in the Twin Cities area.
-
-## Editorial Assessment
-**MEDIUM** - Video evidence exists, reported by Bring Me The News, but affected individual identity and citizenship status unknown. Part of documented pattern of retail store operations.

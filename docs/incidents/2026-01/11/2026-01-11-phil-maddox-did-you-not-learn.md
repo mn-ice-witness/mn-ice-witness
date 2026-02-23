@@ -61,6 +61,3 @@ The Intercept documented multiple ICE agents using similar language in separate 
 - In another video, an agent tells someone: "You don't fucking learn — what's fuckin' happened in the last couple of days."
 - The same agent approaches a woman filming from a second vehicle: "Listen, have y'all not learned from the past couple of days? Have you not learned?"
 - The woman responds: "Learned what? What's our lesson here? What do you want us to learn?"
-
-## Editorial Assessment
-**HIGH** - Investigative report from The Intercept with named affected individual (Phil Maddox) providing direct quotes and interview. Corroborated by FOX 9 local news coverage and Facebook reel video. The pattern of agents invoking Renee Good's killing as a threat was documented across multiple separate encounters.

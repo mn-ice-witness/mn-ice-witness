@@ -89,6 +89,3 @@ The Star Tribune reported a growing number of young children detained in the Twi
 - A 5-year-old boy in Columbia Heights detained with his father, now in a Texas facility.
 - Four students in the Columbia Heights school district detained by agents.
 - Two students in the Hopkins school district detained with their parents on January 22.
-
-## Editorial Assessment
-**HIGH** - Elected official (Minneapolis City Council member Jason Chavez) directly reported the incident. Multiple major news outlets (Star Tribune, NBC News, KSTP, KARE 11) covered the story. Court filings and orders documented. DHS issued official statements. Named affected individuals with family details confirmed. Federal judge issued release order.

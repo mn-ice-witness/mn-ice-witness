@@ -58,6 +58,3 @@ RPD stated they are "not involved in these federal operations" and that ICE has 
 | Reason for arrest | Told ICE they lacked permission on private property | Obstruction |
 | Vehicle damage | ICE rammed woman's car | "Agitator vehicle" struck ICE vehicle |
 | Overall narrative | ICE aggression toward resident | "Agitators" boxed in ICE agents |
-
-## Editorial Assessment
-**MEDIUM** - Two local news sources (KAAL, KTTC). Named state representative witness (Andy Smith) with video. Conflicting accounts between community and ICE without independent video verification of vehicle collision.

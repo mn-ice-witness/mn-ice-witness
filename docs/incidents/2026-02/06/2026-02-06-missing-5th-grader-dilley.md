@@ -61,6 +61,3 @@ DHS assistant secretary Tricia McLaughlin: "No one in ICE custody is missing" as
 
 ## Context
 The Dilley Immigration Processing Center reportedly holds more than 1,000 families, including young children, according to lawyers and advocates. The facility was locked down over the weekend after at least two measles cases were discovered among detainees, with ICE ceasing "all movement" inside. An 11-year-old girl from Columbia Heights (Elizabeth Caisaguano) was released from Dilley earlier this week after nearly one month in custody.
-
-## Editorial Assessment
-**HIGH** - Washington Post and Independent reporting based on school officials including named principal (Jason Kuhlman) and superintendent (Zena Stenvik). First-person identification by released classmates. Part of documented pattern of Columbia Heights student detentions.

@@ -69,6 +69,3 @@ Webb is a named plaintiff in ACLU of Minnesota lawsuit filed December 17, 2025, 
 
 ## Context
 The incident occurred on December 3, 2025 — the same day as the [Hola Arepa warrantless entry attempt](/entry/2025-12-03-hola-arepa-warrantless-entry) and just two days after Operation Metro Surge began. Webb was part of a rapidly growing network of neighborhood ICE watchers coordinating through Signal chats, many of which originated during the 2020 unrest following the killing of George Floyd.
-
-## Editorial Assessment
-**HIGH** - Named plaintiff in ACLU federal lawsuit. Detailed first-person account to MPR News. Corroborated by ACLU complaint with additional details. Part of documented pattern of agents boxing in and threatening observers who follow ICE vehicles.

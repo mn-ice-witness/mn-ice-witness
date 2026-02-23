@@ -210,6 +210,3 @@ Entries on this site sourced in part from declarations filed in Hussen v. Noem:
 - [Target Richfield employees, Jan 8](/entry/2026-01-08-target-richfield-employees) — Doc. 30 (Javier Doe, named plaintiff)
 - [Raul Aguirre Castrejon, Jan 10](/entry/2026-01-10-raul-aguirre-castrejon-monticello) — Doc. 45
 - [Christian Molina car rammed, Jan 12](/entry/2026-01-12-christian-molina-car-rammed) — Doc. 92-4
-
-## Editorial Assessment
-**HIGH** - Documented through 144+ federal court docket entries, 40+ sworn declarations, sustained coverage from Star Tribune, CBS, NBC, NPR, and others. Court filings available through PACER, CourtListener, and JustSecurity.

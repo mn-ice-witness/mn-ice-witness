@@ -46,6 +46,3 @@ Yulexi Loor Tacuri, 27, an Ecuadorian asylum seeker who fled domestic violence i
 - **Terminated:** January 13, 2026 (habeas granted, petitioner released)
 - **Petitioner's counsel:** Graham Blair Ojala-Barbour, Ojala-Barbour Law Firm
 - **Defendants:** Kristi Noem, David Easterwood, Todd Lyons
-
-## Editorial Assessment
-**HIGH** — Named individual with specific details reported by the New York Times, CNN, and Law360. Attorney named. Habeas petition filed January 7, granted by Judge Tostrud. Federal court records available through PACER. Exact detention date in early January not specified in available sources.

@@ -44,6 +44,3 @@ David Stiggers, ATU 1005 President, stated that bus drivers have the right to re
 
 ## Context
 This incident occurred during Operation Metro Surge, with thousands of federal agents deployed to the Minneapolis area. It came three days after the fatal shooting of Renee Good.
-
-## Editorial Assessment
-**HIGH** - Named union official (David Stiggers) on record. Multiple news sources (Workday Magazine, Sahan Journal). Documented union press conference and rally. Physical marker ("abducted here" sign) placed at location. Part of documented pattern of aggressive tactics at public locations.

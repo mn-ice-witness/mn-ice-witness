@@ -63,6 +63,3 @@ A Star Tribune investigation of the 240 names DHS released on the "worst of the 
 - More than a quarter had no criminal connection to Minnesota except being held in a federal prison in the state
 - Little to no criminal histories for more than a dozen cases aside from traffic tickets, gross misdemeanors, and DWIs
 - The list represents about 8% of the 3,000 people ICE claims to have detained in Minnesota
-
-## Editorial Assessment
-**HIGH** - Multiple news sources (CBS, KARE 11, Racket MN) confirm original detention and background. Star Tribune investigative report provides broader context on the "worst of the worst" list. Federal court records confirm release ordered by judge in Nebraska. The arc of this case — a man whose rehabilitation was recognized by a federal judge in 2018, re-detained, labeled a current gang member, then released again when the government withdrew its own opposition — illustrates the gap between the administration's "worst of the worst" framing and the reality of who is being detained.

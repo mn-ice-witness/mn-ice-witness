@@ -94,6 +94,3 @@ Following the arrest, Augsburg received two bomb threats from the same anonymous
 - **December 10:** Lindell Library evacuated
 - **December 11:** Anderson Music Hall evacuated
 - No explosives found; disrupted final exams
-
-## Editorial Assessment
-**HIGH** - Extensively documented with official university statement, DHS response, coverage from 10+ major news outlets, and video evidence. Core facts are agreed upon (agents detained a student in campus parking lot); the dispute is over whether agents had and showed a judicial warrant. The competing narratives from university administration and DHS are both documented with specific quotes.

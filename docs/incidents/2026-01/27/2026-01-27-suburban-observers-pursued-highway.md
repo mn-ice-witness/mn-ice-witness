@@ -32,6 +32,3 @@ ICE observers in the northern suburbs of Minneapolis were pursued for more than 
 ## Key Quotes
 
 > "We realized we could deal with a ticket, we could deal with going to jail at some point. But we could not deal with the very real risk and high probability of us being injured, us being detained or us being killed." — Drae Solberg, MPR News
-
-## Editorial Assessment
-**MEDIUM** - Single established source (MPR News), but with video evidence confirming the account and named affected individual (Drae Solberg). Second observer identified by first name only to avoid retaliation.

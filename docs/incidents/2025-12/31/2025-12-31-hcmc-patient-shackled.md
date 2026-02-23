@@ -78,6 +78,3 @@ Dozens of healthcare workers testified at a Hennepin County Board meeting on Jan
 - Agents told staff they believed patient was trying to escape; medical providers disagreed.
 - Healthcare workers described ICE presence as "disruptive."
 - Multiple staff reported patients refusing to seek care over fears of encountering ICE.
-
-## Editorial Assessment
-**HIGH** - Multiple independent sources including CBS Minnesota, Sahan Journal, and FOX 9. Healthcare worker accounts corroborate incident. Hospital issued official statement acknowledging agents were present and left after being asked for documentation. State legislators confirmed intervention.

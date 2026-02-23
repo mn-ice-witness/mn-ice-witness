@@ -34,6 +34,3 @@ Segundo, 43, a roofer, his wife Maria, 40, and their youngest son Jairo, 14, fle
 - [Citing Safety Concerns, Ecuadorian Family Self-Deports](#2026-01-30-ecuadorian-family-self-deports) — Carlos Albuja family, departed one week later under similar circumstances
 - [50,000-100,000 March in Subzero Temperatures](#2026-01-23-50k-march) — Same day as the family's departure
 - [Renee Good Shot and Killed by ICE Agent](#2026-01-07-renee-good-shooting) — Less than two miles from the family's apartment
-
-## Editorial Assessment
-**HIGH** — Star Tribune in-depth feature by Christopher Magan with photographs by Elizabeth Flores. Named individuals on record. Corroborated by details matching known timeline of Operation Metro Surge.

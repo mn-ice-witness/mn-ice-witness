@@ -64,6 +64,3 @@ Raul Aguirre Castrejon, a lawful permanent resident, was followed by two SUVs af
 
 ## Legal Action
 Raul Aguirre Castrejon filed a sworn declaration as part of **Hussen v. Noem** (Case 26-cv-00324-ECT-ECW), the ACLU class-action lawsuit alleging racial profiling by ICE/CBP agents during Operation Metro Surge.
-
-## Editorial Assessment
-**HIGH** - Sworn court declaration under penalty of perjury with specific, detailed account including dollar amounts taken. Part of federal class-action lawsuit. Clear documentation of racial profiling and theft of personal property.

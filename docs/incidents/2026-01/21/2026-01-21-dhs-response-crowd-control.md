@@ -48,7 +48,3 @@ Posted on X (@DHSgov):
 This statement was posted after videos circulated showing Border Patrol Commander Greg Bovino deploying a smoke canister at Mueller Park near Ella Baker Global Studies & Humanities Magnet School during school dismissal, and agents pinning an observer to the ground and spraying chemical irritant directly into his face.
 
 The incident occurred four days after U.S. District Judge Katherine Menendez issued a preliminary injunction barring federal agents from using pepper spray on peaceful protesters and observers.
-
-## Editorial Assessment
-
-**HIGH** - Official DHS statement on @DHSgov. Video evidence from the same day shows gas deployed at a playground near a school during dismissal; see related incidents for details.

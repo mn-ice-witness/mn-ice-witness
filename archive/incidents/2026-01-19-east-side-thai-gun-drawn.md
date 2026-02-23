@@ -63,6 +63,3 @@ She added: "My business was disrupted, and now my staff are hesitant to come to 
 This incident occurred during a period of intense ICE activity on St. Paul's East Side. The same day, an elderly Hmong-American U.S. citizen, ChongLy "Saly" Scott Thao, was detained in his underwear and Crocs during a raid on the same side of the city. See related incident: [Saly Thao detained](/entry/2026-01-18-saly-hmong-citizen-shirtless).
 
 St. Paul Mayor Kaohly Her expressed fury over the East Side targeting.
-
-## Editorial Assessment
-**MEDIUM** - Multiple news sources (Bring Me The News, Yahoo, AOL, NewsBreak). Named business owners on record (Elle Lee, Kou Vang/Lee). Security video evidence. Facebook post from owner. However, no detention occurred at the restaurant - the agent entered during a street pursuit and left after finding the person was not there. Included to document pattern of armed ICE entries into businesses and the traumatic impact on citizens.

@@ -25,6 +25,3 @@ A Honduran mother of two with a pending asylum case, valid work permit, and rece
 - **Name:** Not disclosed
 - **Nationality:** Honduran
 - **Status:** Pending asylum case with valid work permit
-
-## Editorial Assessment
-**MEDIUM** - Single source (CBS Minnesota) with named attorney providing account. Specific details about pending asylum case, work permit, brain surgery, and retained documents. No second source or independent corroboration yet.

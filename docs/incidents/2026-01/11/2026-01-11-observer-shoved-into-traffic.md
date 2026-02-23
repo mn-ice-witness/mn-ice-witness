@@ -56,6 +56,3 @@ X user Brian Krassenstein posted the video and wrote: "ICE agent in Minneapolis 
 
 ## Context
 This incident occurred during heightened tensions in Minneapolis following the fatal ICE shooting of Renee Good on January 7, 2026. A supervisor at a nearby store confirmed ICE officers were conducting an operation in the area.
-
-## Editorial Assessment
-**HIGH** - Video evidence from the incident, CNN original reporting, multiple syndicated sources across CNN affiliates, clear footage of the shoving.

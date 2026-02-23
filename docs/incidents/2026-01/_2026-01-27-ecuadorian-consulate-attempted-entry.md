@@ -49,7 +49,3 @@ Ecuador filed a formal diplomatic protest with the U.S. Embassy, stating the att
 
 ### DHS Response
 DHS has not publicly commented on the attempted consulate entry.
-
-## Editorial Assessment
-
-**HIGH** - Multiple major outlets (Axios, Washington Post, KARE 11, MPR News) confirmed the incident. Ecuador's Foreign Ministry filed a formal diplomatic protest, providing official government confirmation. The Vienna Convention violation is a matter of international law.

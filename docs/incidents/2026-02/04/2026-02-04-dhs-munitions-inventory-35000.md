@@ -51,6 +51,3 @@ Ken Klippenstein is a respected independent journalist (formerly of The Intercep
 - [Alex Pretti Shot and Killed](#2026-01-24-alex-pretti-shooting) — Chemical irritants deployed at scene
 - [Observer Pinned, Chemical Irritant Sprayed Into Face](#2026-01-21-observer-pinned-pepper-sprayed-face) — Munitions used on observers
 - [CBP Deploys Tear Gas on Bystanders, Detains Teenagers](#2026-01-21-south-mpls-teenagers-detained) — Tear gas and flash-bang use
-
-## Editorial Assessment
-**MEDIUM** — Single independent journalist (Ken Klippenstein, Substack) with syndication by Raw Story. Not independently verified by major outlets, but referenced in state AG court filings. Specific document title and total provided. Named DHS official reacted on record (anonymously). Published concurrently with Homan's drawdown announcement.

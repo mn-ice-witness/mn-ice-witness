@@ -47,6 +47,3 @@ Judge Nelson wrote: "This Orwellian situation, in which a lawfully admitted refu
 
 ## Context
 This arrest was part of Operation PARRIS (Post-Admission Refugee Reverification and Integrity Strengthening), the Trump administration's initiative targeting approximately 5,600 Minnesota refugees whose status is being re-examined.
-
-## Editorial Assessment
-**HIGH** - Federal court ruling confirms detention and orders release. Lawsuit filed with specific details about legal status. Multiple news sources confirm incident. Judge's written opinion provides official documentation of the circumstances.

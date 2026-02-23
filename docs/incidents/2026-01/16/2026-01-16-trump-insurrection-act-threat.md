@@ -101,6 +101,3 @@ Large shares of Americans expressed discomfort over the tactics used by immigrat
 - **61%** said ICE was being "too tough" when it stopped or detained people (CBS News-YouGov poll, Jan 14-16)
 - **57%** disapproved of the way ICE enforces immigration laws (Quinnipiac poll)
 - **82%** of respondents had seen the video of Renee Good's final moments (Quinnipiac poll)
-
-## Editorial Assessment
-**HIGH** - Multiple major news outlets (NPR, NBC News, ABC News, Washington Post, New York Times, Axios, CNN, PBS, CNBC, Al Jazeera) reported on the military preparations with consistent details from defense officials. Trump's threat and walk-back were documented across outlets. The stand down was confirmed by multiple sources.

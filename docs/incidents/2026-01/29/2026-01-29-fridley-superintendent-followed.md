@@ -60,7 +60,3 @@ Fridley Public Schools serves about 2,700 students north of Minneapolis with sig
 - Passed a board resolution on December 16 refusing to grant ICE access without valid judicial warrants.
 
 Lewis previously stated: "We're at a place where, in my 26 years, I have never seen a federal enforcement agency cause such deep, intentional chaos."
-
-## Editorial Assessment
-
-**MEDIUM** - Upgraded from LOW after Star Tribune independently reported Lewis's claims at Gov. Walz press conference (Feb 3). Original source was superintendent's LinkedIn post. Named public official making direct claims about being followed. Star Tribune corroboration of continued ICE activity at Fridley schools strengthens credibility.

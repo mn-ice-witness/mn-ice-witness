@@ -24,6 +24,3 @@ An ICE agent reportedly waved a gun sideways at a motorist in a threatening mann
 ## Affected Individual(s)
 - **Name:** Unknown
 - **Citizenship:** Unknown
-
-## Editorial Assessment
-**LOW** - Single source mention with no specific date, location details, or corroborating evidence. The Racket article references this incident briefly without detailed sourcing. Needs significant additional verification before upgrading trustworthiness. Date set to 2026-01-01 as placeholder since exact date unknown.

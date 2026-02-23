@@ -28,6 +28,3 @@ The Center for Victims of Torture, a St. Paul nonprofit, reported that four of t
 - **Legal Status:** All have pending asylum cases
 - **Work Authorization:** All have valid work permits
 - **Criminal History:** None
-
-## Editorial Assessment
-**HIGH** - Coverage from KARE 11 with statements from established nonprofit organization (Center for Victims of Torture). Documents detention of legally present asylum seekers with no criminal history. The detail about being "tackled in the snow while agents laughed" indicates potential excessive force.

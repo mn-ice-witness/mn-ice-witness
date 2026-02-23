@@ -69,6 +69,3 @@ Called the notion that federal agents would be justified in shooting anyone appr
 Gun rights advocates argue that simply possessing a firearm—even with extra magazines—does not constitute a threat justifying lethal force. Video evidence shows an agent removed Pretti's holstered gun before he was shot, and no footage shows Pretti reaching for or brandishing the weapon. Minneapolis Police confirmed Pretti was a lawful gun owner with a valid permit to carry.
 
 The DHS position—that it is "unlawful" for protesters to carry firearms even with legal permits—has alarmed Second Amendment advocates who view this as an infringement on constitutional rights.
-
-## Editorial Assessment
-**HIGH** - Press conference exchange documented by multiple news outlets including C-SPAN. Second Amendment groups' statements verified across multiple sources. The core factual dispute—whether Pretti ever reached for his weapon—remains unanswered by federal officials.

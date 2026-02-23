@@ -126,7 +126,3 @@ His "universal immunity" argument applies a general principle (you can't exempt 
 3. **The "bait" allegation:** Vance's remarks focused on the "freeze to death" framing rather than addressing the allegation that agents instructed the child to knock on the door.
 
 4. **Accountability:** Vance's statement that "you're going to have people that make mistakes" did not address whether this case represents such a mistake or what consequences would follow.
-
-## Editorial Assessment
-
-**HIGH** - Vice President Vance made these statements publicly in Minneapolis before reporters. Multiple major outlets (NBC, ABC, CBS, FOX 9, KARE 11) recorded and reported his remarks. The disputes with his characterization are documented through attorney statements, school official accounts, and reporter fact-checks.

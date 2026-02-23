@@ -49,6 +49,3 @@ On the offer from agents:
 
 ## Related Incidents
 - [Two ICE Observers Detained 8 Hours, Pressured to Name Organizers](#2026-01-11-siguenza-okeefe-detained) — Hernandez Ramirez was held in the same cell as Brandon Sigüenza, who reported being made a similar offer.
-
-## Editorial Assessment
-**HIGH** - Two independent Tier 1 sources (Sahan Journal, Star Tribune) with direct quotes from named affected individual. Details independently corroborated by cellmate Brandon Sigüenza's account.

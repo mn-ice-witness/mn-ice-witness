@@ -46,6 +46,3 @@ The 8,000% death threat figure was first used by DHS in an October 30, 2025 pres
 
 ## Related Incidents
 - [DHS Response: "Radical Rhetoric" Causes 1,300% Increase in Assaults](#2026-01-08-dhs-response-radical-rhetoric) - Earlier press release making similar claims
-
-## Editorial Assessment
-**HIGH** - Official DHS press release with direct URL. Voicemail transcript is primary evidence. Fox News coverage included. The 8,000% figure's first appearance in October 2025 and lack of underlying data documented.

@@ -54,6 +54,3 @@ This incident occurred during an extended period of ICE activity in Rochester. R
 
 ## Related Incidents
 - [ICE Agents Surround U.S. Citizen Family Home in Rochester](#2026-02-01-fareh-home-surrounded-rochester)
-
-## Editorial Assessment
-**MEDIUM** - Two sources (Star Tribune, Post Bulletin). Incident described at public city council meeting by multiple speakers including legislators and police chief. U.S. citizen status stated by attendees at public meeting. Police chief confirmed details with DHS. No name disclosed, no video evidence.

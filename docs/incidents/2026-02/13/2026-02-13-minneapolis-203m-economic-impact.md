@@ -50,6 +50,3 @@ Called on federal and state governments to provide financial assistance to Minne
 
 ## Related Incidents
 - [Homan Declares Operation Metro Surge Over](#2026-02-12-homan-operation-metro-surge-conclusion) — Announced one day prior
-
-## Editorial Assessment
-**HIGH** - Official city data with primary source document from minneapolismn.gov, covered by every major local outlet (Star Tribune, MPR, FOX 9, CBS Minnesota, KARE 11, KSTP) plus national pickup (Newsweek). Named officials presenting documented findings at press conference.

@@ -36,6 +36,3 @@ A member of the Minnesota Newspaper and Communications Guild was detained by ICE
 
 ### Union Statement
 The Minnesota Newspaper and Communications Guild confirmed the detention of one of its members. Working Partnerships, a division of the Minneapolis Regional Labor Federation, is raising funds to assist affected union members with legal fees and other hardships.
-
-## Editorial Assessment
-**MEDIUM** - Confirmed by the individual's union (The NewsGuild TNG-CWA) and reported by Editor & Publisher. Specific circumstances of arrest not detailed. Transfer to El Paso follows pattern seen in other Operation Metro Surge detentions.

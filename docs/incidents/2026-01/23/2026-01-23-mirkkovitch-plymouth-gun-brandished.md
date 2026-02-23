@@ -27,6 +27,3 @@ Shane Mirkkovitch was recording federal immigration officer vehicles in the Resi
 
 ## Key Quotes
 > "We all know what happened on Saturday. I now consider myself very lucky that I didn't get 10 rounds in my back." — Shane Mirkkovitch, Plymouth City Council meeting
-
-## Editorial Assessment
-**MEDIUM** - Single source (Hometown Source / Sun Sailor) based on city council public testimony. Named affected individual with video evidence. Complaint filed with Plymouth PD provides potential for independent verification.

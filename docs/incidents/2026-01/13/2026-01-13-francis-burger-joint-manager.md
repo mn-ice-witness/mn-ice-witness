@@ -43,6 +43,3 @@ The kitchen manager at Francis Burger Joint's East Lake Street location in Minne
 
 ## Aftermath
 Following the January 13 detention of their kitchen manager, Francis Burger Joint closed temporarily. When the East Lake Street location reopened, the restaurant implemented new safety protocols including training all staff on asserting their right to legal representation.
-
-## Editorial Assessment
-**HIGH** - Mpls.St.Paul Magazine feature article with named co-owner (Lindsey Johnston) providing direct, detailed account with multiple quotes. Corroborated by restaurant's own social media posts. The affected individual's name is not disclosed but incident details are specific.

@@ -42,7 +42,3 @@ The Fourth Judicial District stated that federal agents can enter the courthouse
 **Chief Public Defender Mike Berger:** Called the arrests unconstitutional. Stated the detainees were not allowed to speak with their attorneys. Described ICE arrests before completion of the state case as "a new and unprecedented interruption of due process in state courts."
 
 **County Attorney Mary Moriarty:** Called the detentions harmful to the victim and said ICE is "degrading public safety by detaining individuals who have not been convicted of a crime and preventing victims and witnesses from seeking the accountability they deserve."
-
-## Editorial Assessment
-
-**HIGH** - Four independent sources (Star Tribune, KSTP, WCCO Radio, KARE 11). Named officials (Chief Public Defender Berger, County Attorney Moriarty) providing on-the-record statements. Courthouse enforcement action with documented denial of attorney access.

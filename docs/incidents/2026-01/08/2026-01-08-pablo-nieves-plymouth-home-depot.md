@@ -38,10 +38,6 @@ He was transferred to a detention center in El Paso, Texas, where he was held fo
 - **Jan 9** - Transferred to detention center in El Paso, Texas
 - **Jan 16** - Judge ordered release on bond
 - **Jan 24** - Returned to Minnesota
-
-## Editorial Assessment
-**MEDIUM** - Single-journalist source (Susan Du, Star Tribune) with two detailed articles. Named individuals on the record with direct quotes. Broader pattern of Mis Amigos staff detentions corroborated by KSTP, 19th News, Axios, and a GoFundMe raising $117K+. However, the specific biographical details of the Nieves family are sourced exclusively from Star Tribune reporting.
-
 ## Correction
 
 **Feb 18, 2026** — Reclassified from `citizens` to `immigrants`. Nieves has a pending asylum case and overstayed nonimmigrant visa, not legal resident status as originally reported based on daycare director's statement.

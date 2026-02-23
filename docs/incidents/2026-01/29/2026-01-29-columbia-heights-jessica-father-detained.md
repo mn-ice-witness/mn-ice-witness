@@ -49,7 +49,3 @@ With her husband detained three weeks earlier and now her father taken, Jessica 
 ## Context: Columbia Heights ICE Activity
 
 This detention occurred in the same community where ICE has detained students and parents from Valley View Elementary, including 5-year-old Liam Conejo Ramos and his father on January 20.
-
-## Editorial Assessment
-
-**HIGH** - CBS Minnesota report with direct interview with affected individual providing firsthand account. Article references neighbor video (not publicly available). Specific location, date, and circumstances documented.

@@ -42,6 +42,3 @@ Albert Lea Police Chief Darren Hanson confirmed the crash was an ICE operation. 
 
 ## Witness Accounts
 A witness attempted to check on the baby but was denied by agents; one agent with his hand on his gun holster told her to back away with expletives and another threatened to "take care of her" if she didn't leave. The witness contradicted ICE's account, stating she saw the ICE vehicle behind the woman's car, not in front of it as agents claimed. The witness reported the woman was crying out for her baby during the detention.
-
-## Editorial Assessment
-**MEDIUM** - Single local newspaper (Albert Lea Tribune) with detailed witness account and police chief confirmation. No additional independent news coverage found.

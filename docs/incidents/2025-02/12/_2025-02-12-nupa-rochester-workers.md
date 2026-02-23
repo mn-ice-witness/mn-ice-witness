@@ -53,6 +53,3 @@ The arrests raised alarm among immigrant rights groups in Minnesota, confirming 
 
 ## Context
 This raid occurred before "Operation Metro Surge" and represents early enforcement targeting workplaces in Greater Minnesota. It demonstrated the vulnerability of small businesses relying on immigrant labor.
-
-## Editorial Assessment
-**HIGH** - Multiple local news sources (Post Bulletin, KTTC, Star Tribune, Bring Me The News). Restaurant confirmed details on social media. Clear documentation of impact on local business. Represents pattern of targeting workers without criminal records.

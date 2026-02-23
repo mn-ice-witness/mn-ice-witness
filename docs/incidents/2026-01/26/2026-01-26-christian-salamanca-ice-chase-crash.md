@@ -48,6 +48,3 @@ KARE 11 reached out to ICE for comment but had not received a response at time o
 
 ## Related Incidents
 - [Christian Molina Car Rammed](#2026-01-12-christian-molina-car-rammed) - Similar incident where ICE rammed a U.S. citizen's car in south Minneapolis
-
-## Editorial Assessment
-**MEDIUM** - Single source (KARE 11) with detailed account from wife. Photos of crashed vehicle exist. No official response from ICE yet. Would upgrade to HIGH with additional corroboration or official statement.

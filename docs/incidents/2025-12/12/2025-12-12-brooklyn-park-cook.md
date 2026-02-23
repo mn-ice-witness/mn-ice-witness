@@ -31,6 +31,3 @@ Jorge Vergara Rubio, an Ecuadorian cook, was arrested by ICE outside his employe
 ## Disputed Work Authorization
 - **ICE claim:** Rubio "illegally entered the U.S. in Nov. 2023 and was RELEASED by the Biden administration." Employment authorization application denied September 2025.
 - **Employer claim:** Charles Spies, owner of Crumbs and Coffee, stated Rubio "was legally authorized to work" at the time of arrest.
-
-## Editorial Assessment
-**HIGH** - Local news coverage with named affected individual and employer statement. ICE confirmation of arrest. Demonstrates pattern of workplace enforcement and conflicting claims about legal work status.

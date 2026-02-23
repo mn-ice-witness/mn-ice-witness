@@ -35,6 +35,3 @@ Ahmed Bin Hassan, 38, Somali American U.S. citizen and Uber driver, was confront
 Hassan was in airport parking lot when agents knocked on his window. He later said: "They couldn't hear my voice when they knocked on my window, but they could see my color."
 
 He remained defiant, refused ID, and mocked their use of unit designations instead of real names.
-
-## Editorial Assessment
-**HIGH** - Detailed investigative report from The Intercept (nationally recognized outlet) with named affected individual, direct quotes, and specific details of the encounter.

@@ -61,6 +61,3 @@ Jon Farina of Status Coup News captured footage showing:
 
 ## Context
 This incident occurred during "Operation Metro Surge" in Minneapolis' Cedar-Riverside neighborhood, also known as "Little Mogadishu" due to its large Somali American population. The same enforcement action led to the wrongful detention of U.S. citizen Mubashir, who was tackled and placed in a chokehold while on his lunch break.
-
-## Editorial Assessment
-**HIGH** - Video evidence from independent journalist (Status Coup), picked up by Washington Post and Yahoo News. Multiple local news outlets covered the Cedar-Riverside confrontation. The agent's "wipe out" comment is clearly audible in the footage.

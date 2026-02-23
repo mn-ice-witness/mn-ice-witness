@@ -72,6 +72,3 @@ At the same press conference, Bovino claimed — without evidence — that Prett
 - **January 26, 2026:** Bovino was removed from his role in Minneapolis.
 - **January 26, 2026:** Border czar Tom Homan was sent to take over operations.
 - **January 27, 2026:** Reports indicated Bovino may retire.
-
-## Editorial Assessment
-**HIGH** - Bovino's statements documented in video and reported by multiple news organizations including Yahoo News, The Hill, Salon, and AOL. Direct quotes recorded on video at press conference.

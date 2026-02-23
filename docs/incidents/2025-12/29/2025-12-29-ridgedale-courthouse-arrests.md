@@ -92,6 +92,3 @@ Hennes's declaration was filed December 31, 2025, as Document 33 in the ACLU of 
 
 ## Context
 The operation at Ridgedale was notable for the extreme disproportion of force — approximately 30 armed, masked agents deployed to a public building housing a library, coffee shop, and DMV to arrest two men who were apparently complying with court obligations. The building's security guards let armed agents through the metal detector without question while a library security guard told a woman blowing a whistle that she was causing a disturbance. The presence of ICE agents at courthouses has been widely criticized as deterring immigrants from attending court hearings, undermining the judicial process.
-
-## Editorial Assessment
-**HIGH** - Sworn declaration filed in federal court (Tincher v. Noem, Doc. 33). Covered by KARE 11, Bring Me The News, Star Tribune. Hennepin County confirmed the operation and the number of agents. Video evidence from the scene. Two separate physical assaults on an observer documented under penalty of perjury. The detail about a sheriff's deputy asking agents if they needed help after witnessing the shove is corroborated only by Hennes's declaration.

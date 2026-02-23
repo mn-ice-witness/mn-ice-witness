@@ -26,6 +26,3 @@ Jose, a Salvadoran immigrant with legal withholding-of-removal protection status
 - **Origin:** El Salvador
 - **Legal Status:** Withholding of removal protection (legal status meant to bar deportation)
 - **Occupation:** Construction worker
-
-## Editorial Assessment
-**MEDIUM** - Single source (Unicorn Riot) but detailed account. The legal status claim (withholding of removal) is significant and verifiable through court records. Demonstrates pattern of detaining people with legal protections.

@@ -38,6 +38,3 @@ In two separate confrontations four blocks apart in the Midtown Phillips neighbo
 
 ### ICE Agent Statement
 An agent on scene claimed the observers had been threatening them with "hand guns." When asked to clarify, the agent stated they meant the observers were making finger gun gestures, not brandishing actual weapons.
-
-## Editorial Assessment
-**HIGH** — Video evidence from journalist on scene (Ford Fischer/News2Share), Star Tribune detailed written account, and Bring Me The News.

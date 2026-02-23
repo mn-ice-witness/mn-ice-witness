@@ -69,6 +69,3 @@ Duglof is in the U.S. legally, but his ultimate status has been uncertain for ne
 Family is trying to:
 1. Prevent transfer to detention facility in El Paso, Texas
 2. Obtain bond so he can be released to Woodbury to manage his condition
-
-## Editorial Assessment
-**HIGH** - Detailed reporting from Star Tribune with family interviews, medical background, education records. The legal status claim is supported by attorney statements. Demonstrates detention of someone in legal status whose asylum case was delayed by the government itself.

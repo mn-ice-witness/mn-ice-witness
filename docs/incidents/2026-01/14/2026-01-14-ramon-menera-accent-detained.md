@@ -51,6 +51,3 @@ On January 18, 2026, DHS posted a statement on X defending the detention. DHS co
 
 ## Legal Context
 This incident is cited in the ACLU's class-action lawsuit filed January 15, 2026, alleging widespread racial profiling, warrantless stops, and unconstitutional arrests by federal immigration agents. The ACLU argues that arrests based solely on ethnic appearance or accent violate the Fifth Amendment's Due Process Clause and the Equal Protection Clause.
-
-## Editorial Assessment
-**HIGH** - Video evidence from multiple sources (CNN, TikTok, Threads). Direct affected individual interview with CNN. Part of documented pattern of citizenship checks based on appearance/accent during Operation Metro Surge.

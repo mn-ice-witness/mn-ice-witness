@@ -49,6 +49,3 @@ DHS spokeswoman Tricia McLaughlin stated Tique-Marin "entered illegally in 2023 
 
 **Claudia Patricia Vasquez (partner):**
 > "We were doing everything they told us, everything."
-
-## Editorial Assessment
-**MEDIUM** - Single Newsweek article (Tier 2 source) with named affected individual, named partner, named pastors (Miguel Aviles, Doug Pagitt), DHS statement included. Detained at a routine check-in for a pending asylum case, not during an enforcement raid. Well-reported but single source.

@@ -32,6 +32,3 @@ A spokesperson confirmed officers were called to a report of a suspicious vehicl
 
 ## Context
 This incident occurred amid rising concerns about ICE presence near schools and daycares in Minnesota. Earlier in the week, KARE 11 reported that multiple employees from two Spanish immersion daycares in the Twin Cities were taken into custody by ICE, including one who was detained in the daycare parking lot. In both cases, the centers said the workers were legally authorized to work in the United States.
-
-## Editorial Assessment
-**MEDIUM** - Two sources (Bring Me The News, Yahoo). Anonymous witness account. Police confirmed response to suspicious vehicle call. No affected individual detained, no charges filed - resolved without incident after police arrived.

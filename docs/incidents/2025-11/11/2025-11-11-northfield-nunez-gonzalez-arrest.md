@@ -52,6 +52,3 @@ Adán Núñez Gonzalez, father of four, had lived in Northfield for over a decad
 
 ## Community Response
 Over 200 people attended a vigil in downtown Northfield in solidarity with Núñez Gonzalez. The event was attended by residents, organizers, activists, faith leaders, and local officials including Mayor Zweifel.
-
-## Editorial Assessment
-**HIGH** - Multiple credible sources (Sahan Journal, MPR News, CBS Minnesota, local papers). Video evidence recorded by son. Named affected individual, named officials responding. Documents aggressive ICE tactics including breaking car window without showing warrant, and "deplorable" patch worn by agent.

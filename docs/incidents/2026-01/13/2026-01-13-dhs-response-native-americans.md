@@ -54,6 +54,3 @@ The following questions remain unaddressed in DHS communications:
 - Why detained individuals' names were not recorded
 - How homeless citizens without documentation should prove citizenship
 - Whether racial profiling protocols were followed
-
-## Editorial Assessment
-**HIGH** - DHS's evasive response and the demand for a cooperation agreement in exchange for information about detained citizens are documented by multiple sources (Axios, Newsweek, ICT News).

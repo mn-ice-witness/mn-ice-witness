@@ -92,6 +92,3 @@ The announcement came the same morning that top Minnesota officials testified at
 - [DHS Launches Operation Metro Surge](#2025-12-01-operation-metro-surge-launched) — The beginning
 - [Homan Takes Command, Begins Draw Down](#2026-01-27-homan-draw-down-minneapolis) — Homan sent to Minneapolis after fatal shootings
 - [Walz Says ICE Drawdown Coming in "Days, Not Weeks and Months"](#2026-02-10-walz-days-not-months-drawdown) — Two days prior
-
-## Editorial Assessment
-**HIGH** - Covered by every major national and local outlet (CBS, NBC, PBS, FOX 9, KSTP, KARE 11, Pioneer Press). Full press conference video available. Direct quotes from Homan, Walz, and Frey documented by multiple independent sources.

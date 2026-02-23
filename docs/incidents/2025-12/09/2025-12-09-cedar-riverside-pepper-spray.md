@@ -114,6 +114,3 @@ U.S. District Judge Katherine Menendez partially granted the injunction, prohibi
 
 ## Context
 The pepper spraying occurred as agents were leaving — not while they were under threat or being impeded. The ACLU complaint emphasizes this point repeatedly: agents "had a clear roadway to drive away from the area if they wanted to do so." The complaint characterizes the use of chemical irritants as "gratuitous" retaliation against observers exercising First Amendment rights. This pattern — agents spraying from vehicle windows as they departed — was cited as a key factor in the January 17 preliminary injunction.
-
-## Editorial Assessment
-**HIGH** - Named plaintiff (Crenshaw) in ACLU federal lawsuit with sworn declaration. Corroborated by independent witness declaration (Mitchell). Additional witness declaration (Hackman). ACLU complaint paragraphs 150-162 provide detailed account. Covered by MPR News, Fox 9, AP, WCCO, New York Times, Star Tribune, and Jurist. Physical evidence (orange-stained snow) documented across multiple accounts. Resulted in partial preliminary injunction on January 17.

@@ -25,6 +25,3 @@ ICE agents detained a contractor in the parking lot behind General Mills' Chanha
 - **Name:** Not disclosed
 - **Nationality:** Unknown
 - **Status:** Undocumented (per DHS)
-
-## Editorial Assessment
-**HIGH** - Confirmed by General Mills spokesperson and DHS statement. Video exists but exact date unclear ("second week of January"). Limited details about the detained individual.

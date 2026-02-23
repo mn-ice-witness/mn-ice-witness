@@ -49,6 +49,3 @@ Hicks called the incident "terror":
 
 ## Context
 This incident occurred during a day of significant ICE activity across Rochester. According to KTTC, ICE had detained 73 people in the viewing area as of January 23, with 64 of those arrests occurring in Rochester.
-
-## Editorial Assessment
-**MEDIUM** - Two sources (KAAL, Post Bulletin). State representative witness (Kim Hicks) with video documentation. U.S. citizen confirmed by representative who spoke with affected individual after release. Agent's stated justification ("vehicle going back to an illegal") contradicted by fact that vehicle was registered to the detained man.

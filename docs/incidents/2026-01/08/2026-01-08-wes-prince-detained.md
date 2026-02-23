@@ -29,6 +29,3 @@ Wes Prince, a U.S. citizen protesting at the Whipple Building, was detained appr
 
 ## Key Quote
 > "The overall atmosphere is chaotic. I think it's a word that I keep coming to." — Wes Prince
-
-## Editorial Assessment
-**HIGH** - Firsthand account corroborated by on-record interview with local news (KSTP). Similar observations of chaos and disorganization reported by other detainees (Sigüenza and O'Keefe) detained 4 days later.

@@ -36,7 +36,3 @@ At "Ricky" Chandee, 52, a Laotian refugee who came to the U.S. in 1980 at age si
 DHS listed Chandee as "At Xayasounethone, a criminal illegal alien from Laos convicted of assault" in a [Jan. 27 press release](https://www.dhs.gov/news/2026/01/27/dhs-highlights-more-worst-worst-including-sexual-predators-domestic-abusers) among 16 people arrested that weekend in Minnesota, stating it was "protect[ing] Minnesotans from criminal illegal aliens."
 
 The White House subsequently posted Chandee's photo in a "Worst of the Worst" series on social media but misidentified him, sharing his photo alongside an incorrect name, country of origin, and charge.
-
-## Editorial Assessment
-
-**HIGH** - MPR News investigation with named affected individual, named attorney (Linus Chan, University of Minnesota Law School), direct family interviews, and specific court records. DHS press release independently confirms the arrest and lists the charge. Chandee's 27-year employment with the City of Minneapolis and his son's service in the U.S. Air Force are verifiable claims.

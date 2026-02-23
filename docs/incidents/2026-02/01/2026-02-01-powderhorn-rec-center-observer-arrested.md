@@ -63,7 +63,3 @@ The Powderhorn Park Recreation Center has been a site of previous ICE staging ac
 
 - [Observer Pinned to Ground, Chemical Irritant Sprayed Directly Into Face](#2026-01-21-observer-pinned-pepper-sprayed-face) (Jan 21)
 - [Observer Arrested, Neighbors Hit with Chemical Irritants at 19th and Portland](#2026-01-29-19th-portland-chemical-irritants-observer-arrested) (Jan 29)
-
-## Editorial Assessment
-
-**MEDIUM** - MPR News coverage plus multiple Facebook posts with video from eyewitnesses. Council member and Park Board commissioner were on-site witnesses. Affected individual not identified by name.

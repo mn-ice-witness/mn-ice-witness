@@ -63,7 +63,3 @@ Citizens detained who contradict this statement:
 - [Irma Escoto Citizenship Check](2026-01-11-irma-escoto-citizen-check.md)
 - [Nimco Omar Citizenship Check](2026-01-12-nimco-omar-citizen-check.md)
 - [Target Richfield Employees](2026-01-08-target-richfield-employees.md)
-
-## Editorial Assessment
-
-**HIGH** - Official DHS statement documented by NPR and MPR News. The contradiction between the denial and multiple documented citizen detention cases is factual.

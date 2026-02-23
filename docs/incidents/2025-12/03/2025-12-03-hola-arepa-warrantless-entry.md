@@ -52,6 +52,3 @@ Refused access to the kitchen since they were unable to present a signed judicia
 
 ## Context
 This incident occurred during the early days of "Operation Metro Surge." Days earlier, Minneapolis Mayor Jacob Frey announced the city was banning ICE from using city-owned parking lots to stage immigration operations.
-
-## Editorial Assessment
-**HIGH** - Four independent sources (Bring Me The News, CBS Minnesota, KARE 11, Fox 9). Named witnesses (owner Christina Nguyen, GM Naomi Rathke). Restaurant posted about incident on social media. Example of successful resistance to warrantless entry. No detentions occurred.

@@ -20,6 +20,3 @@ Dr. Brooke Cunningham, Commissioner of the Minnesota Department of Health, filed
 
 ## Sources
 1. Court filing (Jan 22, 2026): [Declaration of Dr. Brooke Cunningham, State of Minnesota v. Noem](https://storage.courtlistener.com/recap/gov.uscourts.mnd.230268/gov.uscourts.mnd.230268.76.0.pdf)
-
-## Editorial Assessment
-**HIGH** - Sworn declaration under penalty of perjury from the Commissioner of the Minnesota Department of Health, filed in federal court (State of Minnesota v. Noem, Doc. 76). The declaration synthesizes reports from MDH leadership, employees, partner organizations, and healthcare providers into a comprehensive picture of public health degradation.

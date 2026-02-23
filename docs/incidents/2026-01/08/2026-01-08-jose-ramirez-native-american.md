@@ -52,6 +52,3 @@ Jose Roberto "Beto" Ramirez, 20, U.S. citizen and Red Lake Nation descendant, wa
 - Threatened with federal prison for "assaulting officer" (charges filed Jan 26)
 - Handcuffs tightened when asked to loosen
 - Still bruised 24+ hours later
-
-## Editorial Assessment
-**HIGH** - Family provided birth certificate to Star Tribune. Multiple sources.

@@ -49,6 +49,3 @@ DHS named 13 individuals with claimed criminal records:
 ## Context
 
 This press release was part of DHS's daily communications strategy during Operation Metro Surge to highlight arrests of individuals with criminal records. The release also noted that since Operation Metro Surge began, DHS law enforcement had arrested more than 1,500 illegal aliens across Minnesota.
-
-## Editorial Assessment
-**HIGH** - Official DHS press release. Criminal history claims not independently verified. This represents the federal justification narrative for Operation Metro Surge.

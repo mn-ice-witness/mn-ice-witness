@@ -34,6 +34,3 @@ ICE agents detained a woman's husband and cousin in a parking lot in Northeast M
 ## Witness Accounts
 
 > "I was yelling at them to take me with him, but they didn't want to take me and our daughter with him." — Jenny, CBS Minnesota
-
-## Editorial Assessment
-**HIGH** - Video evidence of the arrest exists. Named family member (Jenny) provided direct interview to CBS Minnesota with detailed quotes. Consistent with pattern of documented family separations during Operation Metro Surge.

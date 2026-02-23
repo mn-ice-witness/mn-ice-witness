@@ -48,6 +48,3 @@ At approximately 6 a.m. on February 5, 2026, at least 11 Homeland Security Inves
 
 ### Brennen VanderVeen, First Amendment Attorney (FIRE)
 > "If you hack into a government database and then you release the information, that's going to be a problem. But you are just aware of information and you're sharing it, that's not generally going to be a crime."
-
-## Editorial Assessment
-**HIGH** - Sahan Journal reporter on scene with contractor interviews and photographic documentation of damage. CBS News national coverage with details from the criminal complaint. Bystander video captures agents entering through the smashed window. Building occupant eyewitness account on Reddit. Criminal complaint is a public court document. The disproportionate force (11 masked agents smashing into a residential building at 6 a.m. for a cyberstalking charge), the property damage to a shared building, and the immediate politicization by cabinet-level officials are all well-documented.

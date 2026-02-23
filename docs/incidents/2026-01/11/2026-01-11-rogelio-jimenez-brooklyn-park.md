@@ -49,6 +49,3 @@ WCCO reached out to ICE for more information. The agency has not responded.
 This incident is part of a documented pattern of ICE detaining U.S. citizens during Operation Metro Surge. WCCO has documented multiple instances where ICE has detained and, at times, physically harmed American citizens in Minnesota since the operation began.
 
 U.S. Border Patrol Commander Greg Bovino stated that U.S. citizens have "no reason to be scared," but dozens of similar reports on social media have prompted many Americans in Minnesota to carry passports and other legal documents out of fear of being stopped.
-
-## Editorial Assessment
-**HIGH** - Video evidence from multiple angles (dashcam, cell phone, bystander). Named affected individual (Rogelio Jimenez) with direct quotes in established local outlet (CBS Minnesota/WCCO). ICE has not responded to request for comment.

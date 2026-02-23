@@ -58,6 +58,3 @@ In January 2026, ICE agents rammed into a parked car belonging to Minneapolis re
 ## Related Incidents
 - [ICE Rams Latino U.S. Citizen's Car, Releases Him After Confirming Identity](#2026-01-12-christian-molina-car-rammed)
 - [Reports of ICE Agents Using Disguises, Fake License Plates, and Ruse Tactics Across Minnesota](#2026-02-08-ice-deceptive-tactics)
-
-## Editorial Assessment
-**LOW** - Single independent media source (Status Coup News) with interview of named affected individual. No traditional news media coverage found. Video evidence exists of the interview but not of the incident itself. Exact date in January unknown.

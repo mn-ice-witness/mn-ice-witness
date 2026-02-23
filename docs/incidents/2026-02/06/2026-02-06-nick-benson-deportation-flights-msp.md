@@ -68,6 +68,3 @@ The vast majority of flights go to El Paso, Texas, where detainees are taken to 
 DHS stated: "For operational security, ICE does not release information concerning deportation flight schedules."
 
 The Metropolitan Airports Commission stated federal law prevents restricting airport access for law enforcement operations.
-
-## Editorial Assessment
-**HIGH** — NPR national report with named subject (Nick Benson), corroborated by AFP/Barrons wire story (syndicated across 15+ outlets), MPR News, Star Tribune, and Hometown Source. Named Human Rights First analyst provides expert context. Specific quantitative data with documented methodology. DHS on record refusing to release data.

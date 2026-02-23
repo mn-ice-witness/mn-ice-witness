@@ -77,6 +77,3 @@ Performed CPR on the 6-month-old infant who stopped breathing after tear gas exp
 
 ## Context
 This incident occurred during protests that erupted after an ICE agent shot a man during a traffic stop in North Minneapolis. The Jackson family was uninvolved bystanders caught in the escalating confrontation between federal agents and community members.
-
-## Editorial Assessment
-**HIGH** - Multiple independent sources (FOX 9, Bring Me The News, The Mirror). Named affected individuals with direct quotes. Video evidence. Medical records would corroborate hospitalization of three children including infant.

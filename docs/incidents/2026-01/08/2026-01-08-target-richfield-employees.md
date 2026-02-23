@@ -104,6 +104,3 @@ Javier Doe is one of three plaintiffs in ACLU of Minnesota's class-action lawsui
 - Pattern emerging of ICE targeting civilians at Twin Cities retail stores
 - Target has remained silent on the incidents
 - Javier Doe now ACLU lawsuit plaintiff
-
-## Editorial Assessment
-**HIGH** - Video evidence, multiple news sources (7+), statements from elected officials, ACLU federal lawsuit filing. Both affected individuals confirmed as U.S. citizens by Rep. Howard who spoke with them directly. Javier Doe's account corroborated by lawsuit sworn allegations.

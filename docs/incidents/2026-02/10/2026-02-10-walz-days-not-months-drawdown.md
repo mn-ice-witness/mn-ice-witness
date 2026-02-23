@@ -41,6 +41,3 @@ At the time of Walz's statement, approximately 2,000 federal officers remained d
 ## Related Incidents
 - [Homan Takes Command, Begins Operation Metro Surge Draw Down](#2026-01-27-homan-draw-down-minneapolis)
 - [Immigrant-Run Businesses Devastated as Operation Metro Surge Empties Cultural Corridors](#2026-01-16-business-disruption-economic-crisis)
-
-## Editorial Assessment
-**HIGH** - Covered by FOX 9, KSTP, Star Tribune, Pioneer Press, and MinnPost on the same day. Direct quotes from Walz available in multiple outlets. Press conference was public and on camera.

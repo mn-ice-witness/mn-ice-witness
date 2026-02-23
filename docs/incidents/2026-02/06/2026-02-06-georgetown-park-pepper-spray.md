@@ -27,7 +27,3 @@ Video uploaded to social media on February 6 shows federal agents arresting a pe
 
 - **Arrested individual:** Not identified
 - **Pepper sprayed relatives:** Two individuals, not identified; reportedly relatives of the arrested person
-
-## Editorial Assessment
-
-**MEDIUM** - Single Tier 1 source (Bring Me The News daily roundup) citing social media video. BMTN confirmed the incident but provided minimal original reporting. No named individuals and no in-depth independent coverage.

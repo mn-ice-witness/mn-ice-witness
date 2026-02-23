@@ -47,6 +47,3 @@ DHS has refused to provide underlying data for these statistics despite repeated
 
 ## Minnesota Connection
 The release was issued the day after the shooting of [Renee Good](#2026-01-07-renee-good-shooting). DHS specifically cited Mayor Frey's statement telling ICE to "get the f--- out of Minneapolis" as an example of inflammatory rhetoric.
-
-## Editorial Assessment
-**HIGH** - Official DHS press release with direct URL. Fact-checking by NPR and CPR News documented. DHS refusal to provide underlying data noted by multiple outlets.

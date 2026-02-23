@@ -52,6 +52,3 @@ DHS listed Abdulkadir Sharif Abdi first among 12 individuals arrested during Ope
 - His criminal activity was in the past; he began rehabilitation around 2007.
 - A federal judge released him on his own recognizance in 2019 after the community rallied.
 - He has been sober for 13 years and helps others with addiction recovery.
-
-## Editorial Assessment
-**HIGH** - Official DHS press release. The "current gang member" characterization differs from 2018 court findings and documented rehabilitation. Past criminal record is acknowledged, but the timeline of his rehabilitation is a matter of public record.

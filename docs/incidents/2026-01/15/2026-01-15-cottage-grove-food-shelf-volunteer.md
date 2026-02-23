@@ -29,7 +29,3 @@ A middle-aged Latino pastor who volunteered at Basic Needs Food Market in Cottag
 - **Age:** Middle-aged
 - **Nationality:** Latino
 - **Status:** Unknown; executive director believes he is not a citizen
-
-## Editorial Assessment
-
-**MEDIUM** - Single news source (Pioneer Press) with syndication to Yahoo. Detailed firsthand account from organization's executive director. Official responses from county board chair and mayor. No independent video evidence.

@@ -32,6 +32,3 @@ A Mexican asylum-seeking mother identified by the pseudonym "Yolanda" went to a 
 - **During check-in** - Arrested along with her two sons
 - **7 hours later** - Released after ICE discovers pending asylum application
 - **Upon release** - Fitted with ankle monitor with no explanation
-
-## Editorial Assessment
-**MEDIUM** - Single Tier 1 source (Sahan Journal) with detailed reporting. Pseudonym used and exact date not specified. Sahan Journal has strong credibility on immigration reporting.

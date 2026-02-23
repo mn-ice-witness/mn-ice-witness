@@ -58,6 +58,3 @@ Following this incident, Fridley, St. Paul, and Robbinsdale school districts joi
 ### Local Officials
 - **Robbinsdale Schools:** Confirmed incident, offered remote learning
 - **State legislators:** Called for ICE to stay away from schools
-
-## Editorial Assessment
-**HIGH** - Confirmed by school district, multiple independent news sources, and state lawmakers. School issued official communication to families.

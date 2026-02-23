@@ -38,6 +38,3 @@ Wendy Marczak, president of the Bloomington Federation of Teachers, reported the
 
 ### Education Minnesota
 Education Minnesota President Monica Byron reported ICE activity affecting students across the state: "We are having members reporting ICE terrorizing students in St. Paul, Bloomington, Columbia Heights, Burnsville, Fridley, Richfield, West St. Paul, Osseo and Apple Valley."
-
-## Editorial Assessment
-**MEDIUM** - Union president statement reported by Fox 9 and Education Minnesota press release. No direct ICE presence confirmed at Valleyview Elementary specifically, but absences attributed to fear of ICE activity in the broader community.

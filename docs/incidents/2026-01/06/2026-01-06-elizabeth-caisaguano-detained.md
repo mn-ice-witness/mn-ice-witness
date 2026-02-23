@@ -102,6 +102,3 @@ DHS also claimed Elizabeth's mother had a "final order of removal."
 
 ## Context
 Elizabeth was the first of at least four Columbia Heights students detained during the Trump administration's immigration enforcement surge in Minnesota. Her case was assigned to U.S. District Judge Fred Biery, who also ordered the release of 5-year-old Liam Conejo Ramos. Judge Biery described Liam's case as having "its genesis in the ill-conceived and incompetently implemented government pursuit of daily deportation quotas, apparently even if it requires traumatizing children."
-
-## Editorial Assessment
-**HIGH** - Extensive coverage from multiple major outlets (Guardian, CBS, NBC, Star Tribune, MPR, Sahan Journal). Named affected individual with specific timeline and circumstances. School officials provided detailed accounts. Legal filings and court orders documented. Family attorney on record with specific disputes of DHS claims.

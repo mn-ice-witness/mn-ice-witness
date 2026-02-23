@@ -54,11 +54,6 @@ Bovino serves as Border Patrol Commander at Large. A federal judge found him ["o
 ## Related Incidents
 
 - [DHS Response: Agents "Harassed" at Gas Stations, Used "Crowd Control Measures"](#2026-01-21-dhs-response-crowd-control) (Jan 21).
-
-## Editorial Assessment
-
-**HIGH** - The core incident (Bovino deploying a smoke canister near a school at dismissal) is confirmed by Star Tribune video evidence and multiple eyewitness accounts. Three independent sources plus video/photo documentation.
-
 ## Correction
 
 **Feb 8, 2026** — Canister identified by munitions experts as Defense Technology "Pocket Tactical Green Smoke," not hexachloroethane (HC).

@@ -52,6 +52,3 @@ At a January 14, 2026 press conference, Stiggers announced:
 
 ## Context
 This detention occurred at the start of "Operation Metro Surge," the largest immigration enforcement operation in American history according to DHS. The operation deployed over 2,000 ICE, Border Patrol, and other DHS agents to the Twin Cities.
-
-## Editorial Assessment
-**HIGH** - Multiple news sources (Sahan Journal, Workday Magazine). Named union official (David Stiggers) on record. Union press conference documented. Part of documented pattern of workplace-related detentions during Operation Metro Surge.

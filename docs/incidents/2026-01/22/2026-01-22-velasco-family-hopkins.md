@@ -87,6 +87,3 @@ The Hopkins community established the #HopkinsStrong Relief Fund with a goal of 
 
 ## Context
 This detention occurred on the same day as the Tipan family detention, where a 2-year-old was flown to Texas despite a court order. Both cases involve ICE transporting families to Texas in violation of or shortly after federal court orders, raising questions about the agency's compliance with judicial oversight.
-
-## Editorial Assessment
-**HIGH** - Multiple major news outlets (FOX 9, MPR News, Hometown Source) covered the story. Named attorney (Brian Clark) representing family on record. Court filings and orders documented. Named affected individuals. Hopkins Mayor and school superintendent provided statements. Clear documentation of court order violation and subsequent return.

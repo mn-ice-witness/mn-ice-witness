@@ -39,6 +39,3 @@ Katie Henly, 40, a project manager in local government, went out on January 21 t
 ## Related Incidents
 - [ACLU Sues to Protect Observers: Tincher v. Noem](#2025-12-17-tincher-v-noem-aclu-lawsuit) — Henly filed sworn declaration
 - [ICE Agents Follow Observers Home](#2026-01-06-levy-observers-followed-home) — Same pattern of following observers to residences
-
-## Editorial Assessment
-**HIGH** — Sworn declaration filed in federal court (Tincher v. Noem). Named individual with specific date and details. Reported by New York Times.

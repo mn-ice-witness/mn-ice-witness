@@ -37,6 +37,3 @@ Emily Beltz, 44, drove to an apartment building in a Minneapolis suburb on Janua
 ## Related Incidents
 - [ACLU Sues to Protect Observers: Tincher v. Noem](#2025-12-17-tincher-v-noem-aclu-lawsuit) — Beltz filed sworn declaration
 - [ICE Agents Follow Observers Home](#2026-01-06-levy-observers-followed-home) — Same pattern of identifying and following observers
-
-## Editorial Assessment
-**HIGH** — Sworn declaration filed in federal court (Tincher v. Noem). Named individual with specific date and details. Reported by New York Times and cited in ACLU press release.

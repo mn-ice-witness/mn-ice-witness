@@ -86,6 +86,3 @@ Related policy and enforcement questions raised by observers:
 - DHS policy explicitly authorizes "collateral" arrests of individuals encountered coincidentally.
 - DOJ declined to investigate the Renee Good shooting; six federal prosecutors in Minnesota resigned in response.
 - 74% of detainees have no criminal record according to ICE detention statistics.
-
-## Editorial Assessment
-**HIGH** - Primary source video and official White House briefing covered by multiple major outlets. Trump's quotes are widely reported and consistent across sources. Context draws on documented ICE statistics, federal lawsuit filings, and published commentary from former DOJ Civil Rights Division attorneys.

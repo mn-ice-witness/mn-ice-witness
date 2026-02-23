@@ -33,6 +33,3 @@ Timothy Brandon, 70, attended a protest at the Bishop Henry Whipple Federal Buil
 ## Related Incidents
 - [ACLU Sues to Protect Observers: Tincher v. Noem](#2025-12-17-tincher-v-noem-aclu-lawsuit) — Brandon filed sworn declaration
 - [Whipple Federal Building Protest: Tear Gas Deployed on Renee Good Vigil](#2026-01-08-whipple-tear-gas-renee-good-protest) — Likely the same protest
-
-## Editorial Assessment
-**HIGH** — Sworn declaration filed in federal court (Tincher v. Noem). Named individual. Reported by New York Times. Exact protest date not confirmed in available sources; assigned to Jan 8 Whipple protest based on described tear gas and projectile conditions.

@@ -78,7 +78,3 @@ However, we found no documented cases of ICE specifically using food assistance 
 ## Context: Fake ICE Messages
 
 [Nash County Public Schools in North Carolina](https://www.wral.com/news/education/nash-county-schools-fake-ice-message-feb-2025/) warned in February 2025 about fraudulent messages designed to look like official school communications that spread false information about ICE activity. Schools have been combating misinformation alongside genuine safety concerns.
-
-## Editorial Assessment
-
-**NO NEWS MEDIA** - The school sent this warning, but we have no evidence ICE actually distributed any flyers. No flyer has been produced. No one has described receiving one. No journalist has confirmed the claim.

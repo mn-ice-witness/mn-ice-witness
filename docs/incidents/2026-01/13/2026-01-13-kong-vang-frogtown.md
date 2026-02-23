@@ -49,6 +49,3 @@ No statements from local officials regarding this specific encounter.
 > "I see they've been targeting people of color. That's the only reason I could think of why they were here." — Kong Vang, FOX 9
 
 Vang said he posted the video to help others in his community know their rights during ICE encounters.
-
-## Editorial Assessment
-**HIGH** - Video evidence with 400,000+ views, covered by FOX 9 and syndicated by Yahoo News. Named affected individual with direct quotes.

@@ -93,6 +93,3 @@ Ett's declaration (Doc. 62) and del Rosario's declaration (Doc. 61) were both fi
 
 ## Context
 This protest was organized within hours of Renee Good's killing on January 7. The presence of Border Patrol Chief Greg Bovino — the highest-ranking field official in Operation Metro Surge — at the scene where agents tear gassed peaceful protesters is significant. Del Rosario's account describes a clear escalation pattern: agents became more aggressive after the AFL-CIO marshals departed, suggesting they were emboldened by the loss of organized de-escalation. The contrast between the African American agent who told del Rosario to "move at your pace" and the Latinx agent who shoved her moments later illustrates the range of individual agent behavior within the same operation.
-
-## Editorial Assessment
-**HIGH** - Two independent sworn declarations filed in federal court (Tincher v. Noem, Docs. 61 and 62). Declarants are married to each other, providing corroborating perspectives on the same events. Greg Bovino independently identified by both declarants and confirmed on-site by WISN reporter. Tear gas deployment confirmed by BringMeTheNews and WISN. The specific detail of del Rosario being shoved while using a cane, and the agent's response ("Yeah, if she didn't listen to me"), is documented under penalty of perjury.

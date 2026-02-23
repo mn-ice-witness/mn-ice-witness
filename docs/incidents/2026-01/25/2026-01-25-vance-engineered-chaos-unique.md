@@ -68,7 +68,3 @@ Vance characterized Minneapolis resistance as uniquely "engineered" but provided
 ### Local Response
 
 Mayor Jacob Frey responded to Vance's characterization: "I'm done being told that our community members are responsible for the vitriol in our streets. I'm done being told that our local elected officials are solely responsible for turning down the temperature."
-
-## Editorial Assessment
-
-**HIGH** - Vice President's official X post, corroborated by multiple news sources covering his visit and statements.

@@ -34,6 +34,3 @@ During protests in Minneapolis following the fatal shooting of Renee Good, video
 ## Related Incidents
 - [Border Patrol Chief Bovino and Agents Tear Gas Protesters at Whipple](/entry/2026-01-08-whipple-tear-gas-renee-good-protest) — Tear gas, chemical agents, and shoving of protesters at Whipple the same morning
 - [Renee Good Fatally Shot by ICE Agent](/entry/2026-01-07-renee-good-shooting) — Good's killing the previous day prompted the protests
-
-## Editorial Assessment
-**MEDIUM** - Two independent sources (Middle East Eye, Peoples Dispatch) reference the incident with video footage. Limited details available about the specific circumstances, location within Minneapolis, or identity of the agent or protester involved.

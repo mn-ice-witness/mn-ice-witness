@@ -43,7 +43,3 @@ Mohamed Abdirizak Jama, a 36-year-old U.S. citizen who has held citizenship for 
 ## Disputed Details
 
 Jama disputes the assault accusation from the first encounter. He also raised concerns about evidence collection, saying agents "turned on the body camera after I was shackled and put in the vehicle."
-
-## Editorial Assessment
-
-**HIGH** - Named affected individual speaking at a press conference. Multiple sources (CBS Minnesota with video, St. Cloud Live). Court records confirm the mistaken identity. Bystander video from the initial arrest exists.

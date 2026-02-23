@@ -53,6 +53,3 @@ Judy Levy: "I wasn't raised to sit back and not do something when people are bei
 ACLU attorney John Boehler said license plate readers and personal data in car registrations are only supposed to be accessed for active criminal investigations. "Following or observing or reporting on federal agencies or federal activities is not a criminal activity — it's protected First Amendment activity. To be using those cameras, to use those license plate readers, to surveil protesters has a chilling effect on First Amendment rights, and that's what we think the goal is."
 
 Minnesota Driver and Vehicle Services said they do not provide ICE access to citizens' private data. ICE and DHS did not respond to requests for information about the tools they used to access Minnesotans' personal data.
-
-## Editorial Assessment
-**HIGH** - 4 independent sources (MPR News, FOX 9, Democracy Now!, The Marshall Project) with named affected individuals and direct quotes. Video evidence exists. ACLU attorney provides legal context.

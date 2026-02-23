@@ -31,6 +31,3 @@ Jose Lozano, 28, was detained by ICE while jumpstarting his minivan outside his 
 - **Age:** 28
 - **Nationality:** Salvadoran
 - **Status:** Released February 3, 2026; hearing date February 28, 2026
-
-## Editorial Assessment
-**HIGH** - Local newspaper coverage with named affected individual. Documents ICE detaining person with valid legal status (temporary permit with 3 years remaining). No criminal history. Detailed family background and immigration attorney on record.

@@ -56,6 +56,3 @@ This incident demonstrates:
 The revocation notice did not provide a specific reason, stating only that DHS cannot always disclose why a traveler's status has changed. Civil liberties advocates argue this effectively allows DHS to penalize lawful protests indirectly.
 
 Tom Homan, the "border czar," said on January 15 that he's pushing to create a "database" of people who "interfere or impede or assault an ICE officer."
-
-## Editorial Assessment
-**HIGH** - Multiple credible news sources (Bloomberg, Minnesota Reformer) confirm the incident. Cleland filed a sworn declaration in federal court, providing legal documentation of her account. The timeline of events (confrontation on Jan 10, revocation notice on Jan 13) is consistent across sources. Named individual with verifiable employment and community role.

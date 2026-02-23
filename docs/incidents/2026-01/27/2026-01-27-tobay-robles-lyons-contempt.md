@@ -65,7 +65,3 @@ The judge's order noted this case is "one of dozens of court orders with which r
 ## Context
 
 Judge Schiltz, who clerked for Justice Antonin Scalia, has emerged as an unlikely critic of the administration. Last Friday, he rejected a Justice Department request to reverse another judge's decision and issue arrest warrants for journalist Don Lemon and four others connected to a church protest in St. Paul, calling the department's request "frivolous" and "unprecedented."
-
-## Editorial Assessment
-
-**HIGH** - Extensive national coverage from 8+ major outlets (NYT, NBC, WaPo, CBS, ABC, PBS). Direct quotes from Judge Schiltz's three-page written order. Court filings are primary source. This follows pattern of federal court intervention in Operation Metro Surge enforcement actions.

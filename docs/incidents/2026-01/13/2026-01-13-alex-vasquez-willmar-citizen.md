@@ -30,6 +30,3 @@ Alex Vasquez, a 34-year-old U.S. citizen from Willmar, was approached by ICE age
 - **Age:** 34
 - **Citizenship:** U.S. Citizen
 - **Status:** Released
-
-## Editorial Assessment
-**MEDIUM** - Single source (KWLM Willmar Radio). Named affected individual with specific details about location and sequence of events. Consistent with documented pattern of citizen checks in Willmar during same period.

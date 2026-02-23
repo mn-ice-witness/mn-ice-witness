@@ -44,6 +44,3 @@ Hoque was first detained on March 28, 2025, when plainclothes immigration office
 His federal lawsuit alleged he was targeted for pro-Palestinian social media posts, including sharing posts about violence against Palestinians in Gaza and including "#FreePalestine" in his Instagram profile. DHS cited a 2023 disorderly conduct charge (pushing his brother's friend after a disagreement) as evidence of being a "threat to U.S. public safety," though this offense is not considered removable under immigration law.
 
 On May 5, 2025, U.S. District Court Judge Jerry Blackwell issued a 17-page ruling ordering Hoque's release, finding "sufficiently clear evidence of viewpoint-based targeting for Petitioner's exercise of protected speech on a matter of public concern." Hoque was released May 6 on $7,500 bond.
-
-## Editorial Assessment
-**HIGH** - Named individual with extensive prior coverage across multiple major outlets (Sahan Journal, KARE 11, FOX 9, CNN, Mankato Free Press). Federal lawsuit filed with ACLU representation. Federal judge issued detailed ruling finding viewpoint-based targeting. January 2026 second detention confirmed by Mankato Free Press. Hoque is one of at least a dozen MSU Mankato students who lost legal status.

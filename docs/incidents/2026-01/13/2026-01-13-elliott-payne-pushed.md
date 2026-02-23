@@ -51,6 +51,3 @@ Minneapolis City Council President Elliott Payne was shoved by a masked ICE agen
 
 ## Context
 The incident occurred as Attorney General Keith Ellison, along with mayors of St. Paul and Minneapolis, filed a federal lawsuit against the Trump administration to end the surge of ICE agents. Ellison noted the number of ICE agents in the Twin Cities (~2,000) surpasses the combined police forces of Minneapolis and St. Paul.
-
-## Editorial Assessment
-**HIGH** - Video evidence shared by affected individual (elected official). Multiple news outlets covered. Clear documentation of treatment of legal observers.

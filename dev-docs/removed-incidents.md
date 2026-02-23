@@ -57,16 +57,7 @@ Add `(REMOVED)` to the title and insert a correction note block:
 
 Rewrite the summary with corrected facts. Keep the heading as `## Summary`.
 
-### 4. Update Editorial Assessment
-
-Change the assessment to explain the removal:
-
-```markdown
-## Editorial Assessment
-**REMOVED** - [Explanation of why removed, referencing the contradicting sources]
-```
-
-### 5. Add Correction Sources
+### 4. Add Correction Sources
 
 Add the sources that document the contradicting information:
 
@@ -75,7 +66,7 @@ Add the sources that document the contradicting information:
 XX. [Source Name (Date)](URL) - Brief description
 ```
 
-### 6. Update the Updates Section
+### 5. Update the Updates Section
 
 Add an update noting the removal:
 

@@ -65,6 +65,3 @@ Confirmed their involvement was "limited to helping maintain the peace."
 
 ## Context
 This incident occurred during Operation Metro Surge, an expanded ICE enforcement operation in Minnesota. On the same day (Tuesday, January 6), ICE reported arresting more than 150 people in "Minneapolis" (used as catch-all term for Twin Cities metro).
-
-## Editorial Assessment
-**HIGH** - Detailed reporting from Sahan Journal with named sources (girlfriend, company executive director). CNN video captures Maldonado's pleas as he enters the building. Timeline is clear. Demonstrates both the fear driving people to flee and the legal distinction between administrative vs. judicial warrants.

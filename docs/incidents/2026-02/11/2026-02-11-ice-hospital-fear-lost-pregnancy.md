@@ -38,6 +38,3 @@ Multiple Tier 1 news outlets reported that ICE presence in Minnesota hospitals a
 
 ### Health Care Workers
 Doctors report that the medical effects of ICE presence will outlast the operation itself. Clinicians describe patients too afraid to use telehealth platforms, fearing digital tracking. Multiple clinics have established "safe rooms" to provide care in less visible settings.
-
-## Editorial Assessment
-**HIGH** - Nine sources from seven independent outlets including NPR, MPR, PBS, STAT News, and AJMC. Specific documented medical harms (lost pregnancy, emergency home birth situation) reported by health care professionals with direct knowledge.

@@ -59,6 +59,3 @@ RPD was not informed of ICE operations but observed agents in the city. RPD is n
 
 ## Context
 These arrests came one day after the fatal shooting of Renee Good in Minneapolis, amid escalating tensions across the state.
-
-## Editorial Assessment
-**HIGH** - Multiple local news sources including KTTC and Post Bulletin. Named witnesses (David Perdono, COPAL). Mayor statement on record. Documentation of concerning tactics (hammer on window, no warrant).

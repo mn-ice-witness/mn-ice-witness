@@ -37,6 +37,3 @@ Andrade refused to open the door and was not detained.
 
 ## Context
 The Sahan Journal investigation found that ICE and Border Patrol agents under Operation Metro Surge are increasingly targeting people with valid work permits and pending visa or asylum applications — people who are lawfully present and cooperating with the immigration system. The U visa program was created by Congress specifically to encourage crime victims to work with law enforcement without fear of deportation.
-
-## Editorial Assessment
-**HIGH** — Named individual with specific details. Sahan Journal investigative report (Andrew Hazzard). Immigration status verified through court records review. U visa and work permit status confirmed. Part of documented pattern of work-permit targeting reported by immigration attorneys.

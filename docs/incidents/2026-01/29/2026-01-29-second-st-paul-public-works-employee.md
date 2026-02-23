@@ -44,6 +44,3 @@ Kershaw stated the worker was detained "based purely on their country of origin.
 ## Context: Racial Profiling of City Workers
 
 A court declaration filed by Timothy Sexton, Director of Minneapolis Public Works, in the Hussen v. Noem lawsuit documents that on January 6, ICE agents asked nonwhite city workers for their citizenship status and to provide ID, while not asking white members of the same crew for identification.
-
-## Editorial Assessment
-**HIGH** - Multiple independent news sources (BMTN, KARE 11, Fox 9). Direct statements from named city official (Public Works Director Sean Kershaw). Official confirmation that the worker had valid federal work authorization. This is the second Public Works employee detained under similar circumstances.

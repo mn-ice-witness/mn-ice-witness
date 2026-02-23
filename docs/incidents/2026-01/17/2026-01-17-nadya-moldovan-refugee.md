@@ -53,6 +53,3 @@ Nadya's detention fits a documented pattern of ICE targeting refugees with pendi
 [Global Refuge](https://www.globalrefuge.org/news/refugee-arrests-minnesota/) has documented that lawfully present refugees are being detained and transported to Texas within 24 hours with "no due process, no access to an attorney."
 
 On January 29, 2026, [Federal Judge John Tunheim issued a temporary restraining order](https://www.cbsnews.com/minnesota/news/federal-judge-bars-detaining-lawful-refugees-minnesota/) blocking ICE from arresting or detaining lawfully present refugees in Minnesota under Operation PARRIS, and ordered the release of those currently detained.
-
-## Editorial Assessment
-**NO NEWS MEDIA** - Currently sourced only from GoFundMe campaign and Facebook post. No corroborating news coverage found. Details are consistent with documented Operation PARRIS patterns targeting refugees awaiting green cards. May be upgraded if news coverage emerges. Key missing details: last name, specific city in Minnesota.

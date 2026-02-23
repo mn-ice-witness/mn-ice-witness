@@ -26,6 +26,3 @@ Luis Ramirez Orozco, a Latino U.S. citizen, was tackled and detained by ICE agen
 - **Age:** Not disclosed
 - **Citizenship:** U.S. Citizen
 - **Status:** Released
-
-## Editorial Assessment
-**MEDIUM** - Single source (Sahan Journal) with named affected individual and direct quotes. He sought medical attention for documented injuries. Awaiting corroboration from additional news outlets.

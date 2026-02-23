@@ -54,6 +54,3 @@ A neighbor called Porter during the search to inform her what was happening.
 
 ## Context
 This search occurred during a period of heightened federal law enforcement activity in Minneapolis related to Operation Metro Surge. The items were stolen from FBI vehicles that were broken into the previous night. This was not an immigration enforcement action but is included to document the broader federal enforcement presence affecting Minneapolis residents.
-
-## Editorial Assessment
-**HIGH** - Multiple independent sources (CBS Minnesota, The Mirror), video evidence from Ring doorbell camera, and documented discrepancy between warrant address (2926) and affected individual's address (2928 Apt 2). Federal agency confirmed the operation occurred.

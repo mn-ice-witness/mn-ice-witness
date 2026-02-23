@@ -53,6 +53,3 @@ After news broke of the ICE shooting of Renee Good, dozens of clergy and communi
 
 ## Broader Context
 According to Religion News Service, Rev. Hayward joins a list of at least eight clergy members nationally who have encountered chemical agents or been shot with pepper spray, pepper rounds, or pepper bullets while protesting Trump's mass deportation efforts. At least eight clergy (all in Chicago) have also been arrested while protesting.
-
-## Editorial Assessment
-**HIGH** - Multiple religious news outlets (Religion News Service, National Catholic Reporter, Baptist News Global) with named clergy sources. Video evidence of pepper round being fired exists. Part of documented pattern of clergy being targeted during immigration enforcement protests.

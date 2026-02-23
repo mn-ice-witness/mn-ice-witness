@@ -168,7 +168,3 @@ The U.S. Commission on Civil Rights warned in September 2024 that facial recogni
 - [ICE Agents Follow Observers Home](#2026-01-06-levy-observers-followed-home) — Judy Levy case
 - [ACLU Files First Lawsuit Challenging Treatment of Observers](#2025-12-17-tincher-v-noem-aclu-lawsuit) — Tincher v. Noem
 - [Reports of ICE Agents Using Disguises, Fake License Plates, and Ruse Tactics](#2026-02-08-ice-deceptive-tactics) — Companion background story on deceptive tactics
-
-## Editorial Assessment
-
-**HIGH** — NBC News, CNN, AP/PBS, Washington Post, and KSTP investigations with named sources, direct quotes, and documented technology. Federal court filings (Hussen v. Noem) with sworn declarations. Named affected individuals across multiple incidents. DHS spokesperson on record. Expert assessments from ACLU, EFF, Brennan Center, and law professors. Legislative response (ICE Out of Our Faces Act) confirming scope of concern. 404 Media obtained original internal ICE documents via FOIA. Multiple independent reporting threads converge on the same systematic program.

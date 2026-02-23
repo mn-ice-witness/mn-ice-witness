@@ -29,14 +29,6 @@ Immediately after the title, include a brief message asking for news coverage:
 - No editorializing about significance or implications
 - No hypothetical scenarios
 
-### 3. Editorial Assessment
-Keep it brief and factual:
-
-```markdown
-## Editorial Assessment
-**NO NEWS MEDIA** - [One sentence stating what we have and what's missing.]
-```
-
 ## Upgrading to News-Covered
 
 When an incident is upgraded from `trustworthiness: no-news-media` to `low`, `medium`, or `high`:
@@ -44,8 +36,7 @@ When an incident is upgraded from `trustworthiness: no-news-media` to `low`, `me
 1. **Update the trustworthiness field** in frontmatter
 2. **Remove the (NO NEWS MEDIA) suffix** from the title
 3. **Remove the italic plea for information** at the top
-4. **Update the Editorial Assessment** to reflect the new rating
-5. **If the incident has local media**, manually add its slug to `docs/data/media-order.md`
+4. **If the incident has local media**, manually add its slug to `docs/data/media-order.md`
 
 ⚠️ **Important:** The `generate_summary.py` script excludes no-news-media incidents from media-order.md. When upgrading, you must **manually add the slug** to media-order.md or the video won't appear in the media gallery.
 
@@ -56,16 +47,3 @@ When an incident is upgraded from `trustworthiness: no-news-media` to `low`, `me
 - Commentary on the significance if the claim were true
 - Multiple paragraphs of analysis
 
-## Example
-
-**Good:**
-```markdown
-## Editorial Assessment
-**NO NEWS MEDIA** - Screenshot identified as Sullivan Elementary in Minneapolis. Awaiting news coverage or date confirmation.
-```
-
-**Bad:**
-```markdown
-## Editorial Assessment
-**NO NEWS MEDIA** - This could represent: (1) a legitimate warning, (2) rumors, or (3) a fabricated screenshot. We are publishing this because the claim - if true - would represent a significant tactic worth documenting.
-```

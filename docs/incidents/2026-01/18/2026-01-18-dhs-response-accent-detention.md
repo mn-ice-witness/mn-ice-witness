@@ -49,6 +49,3 @@ The ACLU's class-action lawsuit filed January 15, 2026 specifically argues that 
 
 ### Additional Context
 DHS characterizes bystanders as "agitators" and states the citizen initially gave inconsistent answers about his birthplace. Video from the incident shows the agent telling the man he doesn't believe he's a citizen "because of your accent." It should be noted that birthplace does not determine citizenship—naturalized citizens can be born abroad. DHS confirms the citizen was released after records verified his status.
-
-## Editorial Assessment
-**HIGH** - Primary source official statement from @DHSgov. The statement itself confirms accent was used as basis for suspicion. Commentary from immigration law expert provides legal context.

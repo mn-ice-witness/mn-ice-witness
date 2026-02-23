@@ -307,21 +307,6 @@ Statements from mayor, governor, police, etc.
 ## Witness Accounts
 Direct quotes or summaries.
 
-## Editorial Assessment
-**TRUSTWORTHINESS_LEVEL** - Brief explanation of why this rating, citing the specific criteria met.
-
-**IMPORTANT:** Use exactly one rating value. Do NOT use compound ratings like "medium-high".
-
-**See [Source Credibility Tiers](source-tiers.md)** for guidance on how different source types affect trustworthiness ratings.
-
-Examples:
-- **HIGH** - 3 independent sources (Star Tribune, MPR, Fox 9)
-- **HIGH** - Detailed Intercept investigation with named affected individual and direct quotes
-- **HIGH** - Video evidence + coverage by established local news
-- **MEDIUM** - 2 sources (local news + union statement)
-- **MEDIUM** - Well reported but no independent firsthand witnesses on scene to corroborate; account relies on affected individual/family statement
-- **MEDIUM** - Viral social media with video evidence, but no coverage from established news organizations (see source-tiers.md)
-- **LOW** - Single community paper report, needs corroboration
 ```
 
 ## DHS Response Section (within incidents)
@@ -387,8 +372,6 @@ List the specific criminal history claims made by DHS/ICE:
 ## Fact Check
 Analysis of whether the claims can be independently verified.
 
-## Editorial Assessment
-Assessment of whether DHS claims match available evidence.
 ```
 
 ### Researching Official Responses
@@ -435,9 +418,6 @@ A U.S. citizen filming an ICE arrest was tackled and detained despite complying 
 ## Affected Individual(s)
 - **Citizenship:** U.S. Citizen
 - **Status:** Released same day
-
-## Editorial Assessment
-**HIGH** - Video evidence, multiple news sources.
 ```
 
 ## Source Formatting Rules

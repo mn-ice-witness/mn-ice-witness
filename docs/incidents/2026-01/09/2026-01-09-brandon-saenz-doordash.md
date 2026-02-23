@@ -55,8 +55,3 @@ The wife stated that she and her husband "have never committed any crime" and de
 
 ## Context
 This incident occurred approximately two days after ICE agent Jonathan Ross fatally shot Renee Good in south Minneapolis on January 7, 2026, during a period of heightened ICE activity in the Twin Cities.
-
-## Editorial Assessment
-**MEDIUM** - Primary documentation is through viral TikTok videos by the homeowner (@stormibabyy27) with corroborating updates identifying the affected individual by name (Brandon Steven Saenz). Multiple social media reposts and some minor international news coverage (IBTimes UK, Inkl). Video evidence exists showing the standoff at the home. The affected individual's name was confirmed in a follow-up post by @a.lyssa.lorencreations.
-
-**Why MEDIUM (not HIGH):** This incident was not covered by any established news organizations (Fox 9, KARE 11, CBS Minnesota, Star Tribune, MPR News, etc.). All sources are social media posts or minor web outlets that aggregate viral content. While the video evidence is compelling and the affected individual is named, the lack of independent journalistic verification means we cannot confirm details beyond what appears in the videos and social media posts.

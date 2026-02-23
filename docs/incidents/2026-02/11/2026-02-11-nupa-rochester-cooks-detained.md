@@ -56,6 +56,3 @@ Community organizer Ryan Perez (COPAL Minnesota): "We're gathering to make sure 
 David Perdomo (COPAL MN): "There is a feeling of fear in our community — fear of being detained or someone that they love being detained and left alone."
 
 Pablo Sgaki, protester: "I myself, as an immigrant before, knows what it's like to live in fear sometimes."
-
-## Editorial Assessment
-**HIGH** - Multiple independent sources including CBS Minnesota, FOX 9, KIMT, and local Rochester radio. Named restaurant owner providing direct quotes. Community protest documented by multiple outlets.

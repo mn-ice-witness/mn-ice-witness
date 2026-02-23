@@ -66,6 +66,3 @@ The incident occurred two blocks from where Renee Nicole Good was killed by an I
 Assistant Secretary Tricia McLaughlin stated that ICE officers were conducting surveillance on a target when "an agitator's reckless driving caused the officer to get in a car wreck."
 
 **Contradicted by Molina**, who stated he was targeted based on his appearance and that ICE agents deliberately rammed into his car from behind.
-
-## Editorial Assessment
-**HIGH** - Detailed reporting from Sahan Journal with named affected individual, witness accounts, and city council member present. Clear documentation of racial profiling.

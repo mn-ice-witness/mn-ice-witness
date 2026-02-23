@@ -199,6 +199,3 @@ The following entries on this site are sourced in part from declarations filed i
 - [Observer pinned, pepper sprayed in face, Jan 21](/entry/2026-01-21-observer-pinned-pepper-sprayed-face) — Injunction violation
 - [Clayton Kelly pepper sprayed at Pretti scene, Jan 24](/entry/2026-01-24-clayton-kelly-observer-pepper-sprayed) — Amended complaint
 - [Emily Beltz name and address shouted by agent, Jan 26](/entry/2026-01-26-emily-beltz-observer-intimidated) — Amended complaint
-
-## Editorial Assessment
-**HIGH** - Documented through court filings (63-page complaint, 30+ sworn declarations, judicial orders), with sustained coverage from the Star Tribune, Minnesota Reformer, MPR News, NYT, Washington Post, NPR, and AP. The injunction order (Doc. 85) and Eighth Circuit stay are public court records available through PACER, CourtListener, and Justia.

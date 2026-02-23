@@ -42,6 +42,3 @@ This incident demonstrates:
 
 ## Context
 The incident occurred during "Operation Metro Surge" when federal agents appeared to be using tactics to sidestep a Minneapolis ordinance that restricts city police from cooperating with ICE. By coordinating with Hennepin County Sheriff instead, agents circumvented the city's restrictions.
-
-## Editorial Assessment
-**MEDIUM** - Two independent sources (Unicorn Riot, Status Coup) plus social media corroboration. Named U.S. citizen affected individual. Demonstrates pattern of targeting observers and coordination with county law enforcement to avoid city restrictions.

@@ -33,7 +33,7 @@ grep -r "bus stop" docs/incidents/
 2. Add new sources to the Sources section
 3. Add new details to relevant sections (Timeline, Affected Individual info, etc.)
 4. Update `last_updated` in frontmatter
-5. Update Editorial Assessment if trustworthiness improves
+5. Update trustworthiness rating if evidence improves
 
 This keeps all information about an incident in one place and prevents fragmentation.
 
@@ -384,7 +384,7 @@ docs/incidents/2026-01/2026-01-early-description-slug.md
 
 **Do not create narrative sections** (What Happened, Whipple Building Visit, Suburban Shift, etc.) that reproduce what's in the linked articles. If a section is based primarily on a single source, it should not exist — that's not fair use, and it's not our role. Link to the source and let readers read it there.
 
-**Structure of a good incident:** Frontmatter → Title → Summary (2-5 sentences of bare facts) → Sources (numbered, linked) → Related Incidents (if applicable) → Editorial Assessment. That's it for most incidents. Only add additional sections when synthesizing genuinely new analysis across 5+ sources.
+**Structure of a good incident:** Frontmatter → Title → Summary (2-5 sentences of bare facts) → Sources (numbered, linked) → Related Incidents (if applicable). That's it for most incidents. Only add additional sections when synthesizing genuinely new analysis across 5+ sources.
 
 ### Fair Use and Summary Length
 
@@ -436,7 +436,6 @@ Combining many independent sources into a unified account is genuinely transform
 - **Our own cross-references:** Links to related incidents on our site
 - **Pattern context:** How this incident connects to broader enforcement trends
 - **Public records:** Court filings, government press releases, official statements
-- **Our editorial assessment:** Original analysis of source credibility
 
 #### Always avoid (regardless of source count)
 
@@ -486,9 +485,6 @@ What happened in 2-3 sentences.
 ## Affected Individual(s)
 - **Name:** If public
 - **Citizenship:** Status
-
-## Editorial Assessment
-**MEDIUM** - Why this rating.
 ```
 
 ## Step 4: Verification Pass (MANDATORY Second Check)
@@ -514,7 +510,7 @@ The first pass focuses on research and writing. Details get missed, sources get 
 4. **STOP HERE until the user provides the text.** Do NOT proceed with unverified source content. Do NOT assume what the source says based on search snippets or other articles. Do NOT attribute claims to a source you haven't read.
 
 **Cross-check facts across sources.** Look for:
-- Contradictions between sources (flag these in Editorial Assessment)
+- Contradictions between sources
 - Details you included from one source that another source contradicts
 - Specific claims (restraint methods, weapons, numbers) that only appear in one source
 
@@ -524,7 +520,7 @@ The first pass focuses on research and writing. Details get missed, sources get 
 - `status` and `affected_individual_citizenship` are accurate
 - `date` matches what sources say
 
-**Re-read the finished file as a whole.** Does the summary match the details? Does the editorial assessment match the sources listed? Are there any stale notes or contradictions?
+**Re-read the finished file as a whole.** Does the summary match the details? Does the trustworthiness rating match the sources listed? Are there any stale notes or contradictions?
 
 ### The Two-Pass Workflow
 
@@ -584,9 +580,9 @@ When new information emerges:
 5. **Only update `last_updated` for substantive story changes** (see below)
 6. Paste the timestamp from step 2 into `last_updated` (do NOT type it manually)
 7. Add new sources to Sources section
-8. Update Editorial Assessment if trustworthiness changes
+8. Update trustworthiness rating if evidence changes
 9. **Verification pass (same rules as Step 4)** — Re-read every source you cited, re-fetch any that failed, cross-check facts. If you can't access a source, **STOP and ask the user for the text.** Do not proceed with unverified content.
-10. **Re-read the entire file** — Verify everything is consistent: notes don't contradict sources, editorial assessment matches the evidence, no outdated statements remain. Remove any notes that are now incorrect (e.g., "link not available" when you just added the link).
+10. **Re-read the entire file** — Verify everything is consistent: notes don't contradict sources, trustworthiness rating matches the evidence, no outdated statements remain. Remove any notes that are now incorrect (e.g., "link not available" when you just added the link).
 11. Commit with message like "Update: New video evidence for Speedway incident"
 
 **⚠️ CRITICAL:** Never type a timestamp like `2026-01-22T12:00:00` from memory. Manually-entered timestamps are often wrong. The script is the ONLY valid source for timestamps.
@@ -732,7 +728,7 @@ Add when ANY of these apply:
 
 1. **Add note at end of Summary section:** `<em style="color: #888;">**Note: This story seems to follow a pattern of Operation PARRIS (Post-Admission Refugee Reverification and Integrity Strengthening) -- see more details on this below.**</em>`
 
-2. **Add Context section before Editorial Assessment:**
+2. **Add Context section at the end of the incident body:**
 
 ```markdown
 ## Context: Operation PARRIS

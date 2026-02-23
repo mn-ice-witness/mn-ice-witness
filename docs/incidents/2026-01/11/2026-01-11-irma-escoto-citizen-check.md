@@ -49,6 +49,3 @@ WCCO reached out to ICE for more information. The agency has not responded.
 
 ## Context
 This incident is part of a documented pattern of U.S. citizens being subjected to citizenship checks during Operation Metro Surge. The encounter prompted the Escoto family to have documentation readily available, reflecting the fear among American citizens in Minnesota of being stopped based on their appearance.
-
-## Editorial Assessment
-**HIGH** - Video evidence (restaurant security footage, bystander video). Named affected individuals (Irma and Luis Escoto) with direct quotes in established local outlet (CBS Minnesota/WCCO). Business owners willing to speak publicly about the incident.

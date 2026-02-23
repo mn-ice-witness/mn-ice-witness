@@ -48,6 +48,3 @@ Called Pilllar Forum "an institution here on Central."
 
 ## Aftermath
 Bracken offered refunds to paid attendees of the canceled show. Proceeds were to be donated to families affected by ICE detainments, per headliner Anita Velveeta's request. "So far, I haven't heard from anyone who wants their money back," Bracken said.
-
-## Editorial Assessment
-**HIGH** - Reported by Star Tribune with named witnesses including venue owner and elected officials. Part of documented pattern of ICE activity on Central Ave NE.

@@ -46,7 +46,3 @@ This incident occurred 12 days after U.S. District Judge Katherine Menendez issu
 
 - [Observer Pinned to Ground, Chemical Irritant Sprayed Directly Into Face](#2026-01-21-observer-pinned-pepper-sprayed-face) (Jan 21)
 - [DHS Response: Agents "Harassed" at Gas Stations, Used "Crowd Control Measures"](#2026-01-21-dhs-response-crowd-control) (Jan 21)
-
-## Editorial Assessment
-
-**MEDIUM** - Elected official (State Rep. Aisha Gomez) provides direct statement with specific location and timeframe. However, no standalone news article covering this specific incident; information comes from live updates format.

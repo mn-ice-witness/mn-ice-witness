@@ -40,6 +40,3 @@ U.S. Department of Homeland Security officials have not responded to questions a
 The anonymous woman reported the stop to SouthernMinn.com but requested her identity be withheld due to fear of retaliation from federal agents.
 
 Gina Washburn, a volunteer with Northfield Supporting Neighbors, confirmed that an ICE agent she spoke to at Flying J the previous month "knew her by name — and took her photo." Northfield Supporting Neighbors operates an ICE alert line coordinating observation efforts in the area.
-
-## Editorial Assessment
-**MEDIUM** - Two separate accounts from two individuals corroborate a pattern of ICE surveilling those who document operations. One source is named (Gina Washburn), one is anonymous. Both accounts appear in original reporting by Colton Kemp in SouthernMinn.com. No independent corroboration from other outlets. DHS non-response noted.

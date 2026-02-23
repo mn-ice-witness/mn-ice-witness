@@ -70,6 +70,3 @@ This detention fits a documented pattern of ICE targeting refugees with pending 
 The affected individual had legal refugee status (Form I-94) and her family had an active Green Card application pending - exactly the profile being targeted under this operation.
 
 [Global Refuge](https://www.globalrefuge.org/news/refugee-arrests-minnesota/) has documented that lawfully present refugees are being detained and transported to Texas within 24 hours with "no due process, no access to an attorney."
-
-## Editorial Assessment
-**HIGH** - Multiple local news sources (West Central Tribune, MinnPost), named school official providing statements, documented community response and school impact. Legal status claims come from school cultural liaison with knowledge of the family's situation.

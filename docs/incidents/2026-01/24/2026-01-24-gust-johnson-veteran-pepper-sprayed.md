@@ -30,6 +30,3 @@ Gust Johnson, a 76-year-old Marine Corps combat veteran and mostly retired nurse
 - **Occupation:** Mostly retired nurse; Marine Corps combat veteran
 - **Citizenship:** U.S. Citizen
 - **Status:** Released after ~10 hours; phone seized as "evidence"
-
-## Editorial Assessment
-**MEDIUM** - Named individual with detailed account in Minnesota Reformer. Distinct from other Pretti-scene observer entries (Javier witness, Nur-D, Jana Shortal). Limited to single source.

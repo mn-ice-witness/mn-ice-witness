@@ -88,6 +88,3 @@ The interview did not address:
 - The hospitalization of Aliya Rahman after being denied medical care
 - The tear-gassing of six children, including a 6-month-old baby
 - Reports from multiple news outlets documenting citizen detentions
-
-## Editorial Assessment
-**HIGH** - Interview documented by CBS Minnesota. Bovino's claims recorded on video. CBS News noted inability to verify polling claim. Citizen detention cases documented separately with sources. Polling data from YouGov/Economist and CNN/SSRS contradicts support claims.

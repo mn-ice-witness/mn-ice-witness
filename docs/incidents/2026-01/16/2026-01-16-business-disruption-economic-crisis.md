@@ -177,6 +177,3 @@ Urged community support, noting small-business owners serving immigrant communit
 
 ## Context
 The disruption came on top of Minneapolis's still-incomplete recovery from the one-two punch of COVID-19 and the 2020 unrest following George Floyd's murder, which caused hundreds of millions of dollars in damage concentrated along Lake Street. Small businesses along that corridor had already faced high interest rates, labor shortages, and supply chain issues. As Lake Street Council's Russ Adams said: "We just keep getting hammered."
-
-## Editorial Assessment
-**HIGH** - Documented by Star Tribune, Sahan Journal, MinnPost, Marketplace/MPR, CNBC, TIME, Mpls.St.Paul Magazine, KARE 11, Pioneer Press, and Bring Me The News over a three-week period. Named business owners, specific revenue figures from city officials and the Lake Street Council, Meet Minneapolis survey data, and multiple on-the-record interviews. Pattern confirmed across dozens of businesses in multiple neighborhoods and cities.

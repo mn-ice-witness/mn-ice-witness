@@ -49,6 +49,3 @@ A deputy and Sgt. Ross Spicer of the Rice County Sheriff's Office confronted ICE
 Ten photographs documented the full arrest sequence. Volunteer Gina Washburn of Northfield Supporting Neighbors reported that an ICE agent previously confirmed the Flying J serves as a staging area for operations. Management has witnessed numerous arrests over the past year, with vehicles frequently left behind.
 
 MN Rep. Kristi Pursell witnessed and photographed agents conducting a separate operation outside Northfield City Hall on the same morning. Northfield Supporting Neighbors' ICE alert line received multiple reports of high federal activity throughout Northfield on Tuesday.
-
-## Editorial Assessment
-**HIGH** - Detailed photojournalism with 10 photographs documenting the arrest sequence. Named truck owner providing quotes. Rice County Sheriff's deputy interaction documented. Two SouthernMinn.com articles with original reporting by Colton Kemp.

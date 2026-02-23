@@ -34,6 +34,3 @@ A Minneapolis man using the pseudonym "Javier" for safety reasons was among doze
 
 ## Witness Accounts
 > "It's just cold all around, bro. It just sucks the life out of you. You lose all hope." — Javier, on detention conditions at Whipple Building
-
-## Editorial Assessment
-**HIGH** - Named source (using pseudonym for safety), video interview with CBS Minnesota, court affidavits filed, professional journalism from CBS Minnesota with reporter Jonah Kaplan.

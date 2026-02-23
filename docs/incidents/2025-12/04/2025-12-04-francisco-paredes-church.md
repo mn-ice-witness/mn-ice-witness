@@ -70,6 +70,3 @@ Confirmed the church surveillance incident. Created an Instagram reel urging ICE
 
 ## Context
 The Trump administration eliminated the federal policy that generally prohibited immigration enforcement in "sensitive locations" such as schools, churches, and hospitals in 2025.
-
-## Editorial Assessment
-**HIGH** - Multiple Catholic news outlets reporting with consistent details. Hopkins mayor on record confirming surveillance. Pastor statements included. Demonstrates sensitive location enforcement and the chilling effect on religious communities.

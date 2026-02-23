@@ -41,6 +41,3 @@ ICE agents staged a fake car breakdown in front of Jesus Flores' Columbia Height
 Son Miguel Flores told CBS Minnesota: "They tricked him into coming outside." He added, "My dad's a hard-working individual." He also said, "He came here to give us a better life. He has done that."
 
 Wife Dionicia Flores described her husband as a lifeline for their six children.
-
-## Editorial Assessment
-**MEDIUM** - Single established local source (CBS Minnesota) with security camera evidence supporting the family's account. ICE had not responded as of publication. The security camera footage strengthens the account, but no independent corroboration from a second outlet.

@@ -40,6 +40,3 @@ Geoff Paquette, Local 17's lead internal organizer, said TSA is allowing ICE age
 
 ## Deportation Flights
 Two busloads of detained immigrants were loaded onto a private jet at MSP Airport on Friday. Deportation flights are leaving via private airline companies such as GlobalX, with detainees ushered onto jets outside Signature Aviation.
-
-## Editorial Assessment
-**MEDIUM** - Union statements from UNITE HERE Local 17 (Sheigh Freeberg, Geoff Paquette) provide institutional credibility. However, individual affected individuals not identified. Workplace raid at major transportation hub.

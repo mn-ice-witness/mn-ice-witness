@@ -71,6 +71,3 @@ On her duty as a veteran:
 ## Related Incidents
 - [Two ICE Observers Detained 8 Hours, Pressured to Name Organizers](#2026-01-11-siguenza-okeefe-detained) — Patty O'Keefe describes Skye and Elizabeth's presence in her Whipple cell.
 - [Renee Nicole Good Shot and Killed by ICE Agent](#2026-01-07-renee-good-shooting) — Agents referenced Good's killing during Skye's detention.
-
-## Editorial Assessment
-**HIGH** - Ms. Magazine interview with named affected individual and direct quotes. Account independently corroborated by Patty O'Keefe's USA Today opinion piece (O'Keefe describes two Marine veterans in her cell, one bruised at wrist and ankle). Additional social media video and multiple secondary sources.

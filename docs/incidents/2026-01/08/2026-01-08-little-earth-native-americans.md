@@ -90,10 +90,6 @@ Jearica Fountain (community advocate):
 - Detaining tribal members without recording names made it impossible for the tribe to locate them
 - Multiple Minnesota tribes (Red Lake Nation, Fond Du Lac Band, Mille Lacs Band, Leech Lake Band) issued statements condemning the detentions
 - Mille Lacs Band expanded tribal ID distribution to ages 5+ in response
-
-## Editorial Assessment
-**REMOVED** - While initially well-sourced (ICT, CBS Minnesota, Fox 9, Newsweek, and tribal president statements), the tribe later acknowledged it cannot confirm the detained individuals are tribal members. Without verified tribal membership, we cannot verify U.S. citizenship, and the core claim of the incident is unconfirmed. See sources 12-13 below.
-
 ## Sources Added for Correction
 12. MPR News (Jan 16, 2026): [Oglala Sioux Tribe says it cannot confirm tribal members were detained by ICE in Minneapolis](https://www.mprnews.org/story/2026/01/16/oglala-sioux-tribe-says-it-cannot-confirm-tribal-members-were-detained-by-ice-in-minneapolis)
 13. Star Tribune (Jan 16, 2026): [Oglala Sioux walks back claim ICE detained tribal members](https://www.startribune.com/oglala-sioux-walks-back-claim-ice-detained-tribal-members/601565519)

@@ -30,6 +30,3 @@ Ali Dahir, a 44-year-old Somali American U.S. citizen, was stopped by five ICE a
 
 ## Legal Action
 Ali Dahir filed a sworn declaration as part of **Hussen v. Noem** (Case 26-cv-00324-ECT-ECW), the ACLU class-action lawsuit alleging racial profiling by ICE/CBP agents during Operation Metro Surge.
-
-## Editorial Assessment
-**HIGH** - Sworn court declaration under penalty of perjury with detailed account. Video evidence filed with the court (Exhibit A on USB). Part of federal class-action lawsuit. Incident occurred near Karmel Mall, where other documented racial profiling incidents have taken place.

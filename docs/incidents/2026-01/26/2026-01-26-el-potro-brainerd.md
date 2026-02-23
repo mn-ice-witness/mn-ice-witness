@@ -66,6 +66,3 @@ Rev. Leslie Moughty of First Congregational United Church of Christ led the vigi
 Attorney Ed Shaw noted the broader impact: "They started a business in a struggling area...now we have another vacant building."
 
 Signs in the restaurant windows read "Thank you for all your kindness and continued support!! We will never forget it. Stay strong."
-
-## Editorial Assessment
-**HIGH** - Multiple independent local news sources (Brainerd Dispatch, KAXE public radio) with official statements from Crow Wing County Sheriff's Office. Well-documented workplace enforcement action with unexplained discrepancy between number of warrants (2) and arrests (4).

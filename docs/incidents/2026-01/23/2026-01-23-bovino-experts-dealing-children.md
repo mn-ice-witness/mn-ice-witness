@@ -86,7 +86,3 @@ Mukherjee noted that during Trump's first term, thousands of families were separ
 ## Legal Context
 
 A 1997 legal settlement (the Flores Agreement) requires the U.S. government to provide children with "safe and sanitary conditions" and to prioritize their prompt release. The Trump administration asked the federal judge overseeing the agreement to terminate it; the judge denied the motion, and the government has appealed to the Ninth Circuit Court of Appeals.
-
-## Editorial Assessment
-
-**HIGH** - Official statements from named federal officials (Gregory Bovino, Marcos Charles) at a press conference covered by multiple major news outlets (New York Times, ABC News, The Hill, HuffPost, The New Republic). Direct quotes and video footage available.

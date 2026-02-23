@@ -63,6 +63,3 @@ Carter said federal officials did not inform the city of the operation ahead of 
 
 ## Context
 This raid occurred approximately one month before "Operation Metro Surge" was announced, and demonstrated the scale of workplace enforcement that would intensify in December 2025.
-
-## Editorial Assessment
-**HIGH** - Multiple local news sources including MPR News, Sahan Journal, Pioneer Press, and Minnesota Reformer. 14 confirmed detentions. Mayor and Mayor-elect statements on record. Documentation of pepper spray use on protesters.

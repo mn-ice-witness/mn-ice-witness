@@ -68,6 +68,3 @@ This incident is part of broader ICE enforcement activity affecting Minnesota sc
 - Minneapolis Public Schools canceled classes district-wide earlier in January.
 - Multiple districts have offered remote learning options.
 - Parent was detained at Crystal bus stop the day before (Jan 14).
-
-## Editorial Assessment
-**HIGH** - Confirmed by school district official statement. Reported by FOX 9 (local affiliate) and MPR News. Part of documented pattern of ICE enforcement near schools. District issued official communications to families.

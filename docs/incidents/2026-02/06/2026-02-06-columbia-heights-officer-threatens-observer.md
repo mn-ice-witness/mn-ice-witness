@@ -31,7 +31,3 @@ Video circulated widely on social media showing an ICE agent in Columbia Heights
 
 - **Name:** Not disclosed
 - **Citizenship:** U.S. Citizen
-
-## Editorial Assessment
-
-**NO NEWS MEDIA** - Video circulated on social media (Facebook, Bluesky, Reddit) showing ICE officer threatening a U.S. citizen for recording. No news outlet coverage found.

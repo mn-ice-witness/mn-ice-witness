@@ -38,7 +38,3 @@ A video circulating on social media shows ICE agents deploying tear gas outside 
 According to the Bluesky post, video from the morning of January 27 shows ICE agents deploying tear gas in an area outside a Minneapolis preschool. Parents at the scene can be heard protesting: "This is a preschool! There's kids here!"
 
 The post received significant engagement but the specific preschool incident has not been independently verified by news outlets as of the time of documentation. Chalkbeat referenced "tear gas fired outside preschools" in a broader article about ICE enforcement impacts on education.
-
-## Editorial Assessment
-
-**MEDIUM** - Original social media video has been cited by Chalkbeat (education news outlet) in the context of broader ICE enforcement impacts on schools. State attorneys general legal filings reference tear gas use and school impacts in Minneapolis generally. Specific preschool location remains unconfirmed.

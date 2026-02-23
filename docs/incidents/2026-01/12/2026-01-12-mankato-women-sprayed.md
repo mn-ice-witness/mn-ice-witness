@@ -41,6 +41,3 @@ Placed himself between the crowd and federal agents on Monday: "a stressful mome
 
 ## Regional Context
 Nearby St. James (approximately 39 miles southwest of Mankato) is home to a Smithfield Foods meat processing plant that employs many immigrant workers. Tension is high throughout the region.
-
-## Editorial Assessment
-**MEDIUM** - Star Tribune coverage with state senator on record. Video documentation exists. Demonstrates pattern of chemical agents being used on civilians in Greater Minnesota, similar to Twin Cities tactics.

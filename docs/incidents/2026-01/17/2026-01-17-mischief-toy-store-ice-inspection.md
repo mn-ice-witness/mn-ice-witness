@@ -75,6 +75,3 @@ Following the social media post:
 - Customer traffic increased significantly, described as comparable to the weekend before Christmas
 - The store sold 250 anti-ICE yard signs in three hours on Saturday
 - The store pledged to donate $5,000 to local nonprofits
-
-## Editorial Assessment
-**HIGH** - Detailed reporting from established local outlet (St. Paul Pioneer Press) with named sources (store owners Dan Marshall, Millie Adelsheim, Abigail Adelsheim-Marshall), direct quotes, and documented timeline. ABC News original broadcast provides additional corroboration. The three-hour gap between First Amendment protected speech on national television and the arrival of ICE agents is factual. ICE/DHS did not respond to request for comment.

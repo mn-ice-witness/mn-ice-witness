@@ -61,6 +61,3 @@ Officers were not involved in the arrest or use of force. Called to the scene on
 
 ## Context
 This occurred during Operation Metro Surge. Romero entered the U.S. in 2024 through the CBP One app, a Biden-era program that allowed migrants to schedule appointments at ports of entry. The incident is one of two ICE shooting incidents during Operation Metro Surge (the other being the [fatal shooting of Renee Good](/entry/2026-01-07-renee-good-shooting)).
-
-## Editorial Assessment
-**HIGH** - Four independent sources (Sahan Journal, MPR News, Fox 9, KATU/National News Desk) with consistent details from St. Paul Police, DHS, and Associated Press. Named suspect (Juan Carlos Romero). DHS Assistant Secretary provided detailed account. St. Paul Police confirmed they were not involved and that ICE fired the shots.

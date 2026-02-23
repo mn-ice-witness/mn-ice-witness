@@ -50,7 +50,3 @@ Posted on X (@DHSgov):
 **On the "bait" allegation:** DHS did not address the specific claim by school officials that the 5-year-old was used as "bait" to approach the front door.
 
 **On family care:** School officials reported that another adult in the home requested to care for the child during the arrest, but agents refused.
-
-## Editorial Assessment
-
-**HIGH** - Official DHS statement on @DHSgov. The DHS account of events differs from the account provided by Columbia Heights school officials and the family's attorney, as reported by CBS Minnesota, Fox 9, MPR News, and other outlets.

@@ -63,6 +63,3 @@ Called the audit a "retaliatory move" in a press conference.
 
 ### Hennepin County Board
 Voted unanimously to condemn ICE and called for their removal from Minnesota.
-
-## Editorial Assessment
-**HIGH** - Multiple major news sources (KARE11, Minnesota Reformer, Bring Me The News). Timeline clearly shows subpoena issued 2 days after public criticism of ICE hospital conduct. Named elected officials calling it retaliation. Legal expert commentary on compliance requirements.

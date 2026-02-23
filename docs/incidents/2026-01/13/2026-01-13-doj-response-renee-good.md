@@ -68,6 +68,3 @@ O'Hara noted that Thompson was directly responsible for the fraud cases now bein
 The decision to keep the DOJ's Civil Rights Division out of the investigation marks a departure from past administrations, which have moved to probe shootings of civilians by law enforcement officials for potential civil rights offenses.
 
 The FBI remains in sole control of the investigation. Federal investigators restricted Minnesota investigators' access to case materials.
-
-## Editorial Assessment
-**HIGH** - DOJ statement and prosecutor resignations well-documented across multiple news sources. The refusal to investigate and subsequent resignations are matters of public record.

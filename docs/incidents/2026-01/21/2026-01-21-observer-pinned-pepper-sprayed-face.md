@@ -42,7 +42,3 @@ This incident occurred five days after that injunction was issued.
 - [DHS Response: Agents "Harassed" at Gas Stations, Used "Crowd Control Measures"](#2026-01-21-dhs-response-crowd-control) (Jan 21)
 - [DHS Secretary Noem Denies Pepper Spray Use, Then Backtracks](#2026-01-18-noem-pepper-spray-denial-backtrack) (Jan 18)
 - [Two ICE Observers Pepper-Sprayed in Car, Detained 8 Hours](#2026-01-11-siguenza-okeefe-detained) (Jan 11)
-
-## Editorial Assessment
-
-**HIGH** - Star Tribune photographer Richard Tsong-Taatarii captured the incident. Photo shows chemical irritant being sprayed directly into observer's face while pinned by multiple agents.

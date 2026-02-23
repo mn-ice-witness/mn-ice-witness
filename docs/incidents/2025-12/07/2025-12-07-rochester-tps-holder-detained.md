@@ -40,6 +40,3 @@ On December 17, a federal judge ordered his release, finding he is not likely to
 
 ## Community Response
 The arrest alarmed Rochester's Somali community. Southeastern Minnesota Interfaith Immigrant Legal Defense responded to provide resources and information.
-
-## Editorial Assessment
-**HIGH** - Multiple credible sources (MPR News, KIMT, KTTC, Austin Daily Herald). Video evidence. Rochester Police confirmed ICE operation. Documents detention of person with legal status (TPS). Judge ordered release.

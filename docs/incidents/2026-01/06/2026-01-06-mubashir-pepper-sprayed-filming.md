@@ -52,6 +52,3 @@ Both the December 10 detention and the January 6 pepper-spray incident are docum
 
 ## Related Incidents
 - [U.S. Citizen Tackled, Detained by ICE During Lunch Break](#2025-12-09-mubashir-wrongful-detention) - First incident, December 10, 2025
-
-## Editorial Assessment
-**HIGH** - Documented in ACLU federal class action complaint (Hussen v. Noem), sworn declaration filed in federal court, congressional testimony. Covered by CBS Minnesota, NBC News, Sahan Journal. Named affected individual with consistent account across legal filings and news coverage.

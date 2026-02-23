@@ -69,6 +69,3 @@ The visit came after Wrecktangle Pizza's highly publicized fundraising campaign 
 
 ## Community Response
 Following the incident, nearby businesses like Smitten Kitten began collecting donations (food and household goods) for immigrants unable to leave their homes. Community members stood guard outside businesses watching for ICE activity.
-
-## Editorial Assessment
-**HIGH** - Multiple independent sources (CBS Minnesota, Bring Me The News, Racket MN, Daily Planet). Surveillance video evidence. Named source (co-owner Breanna Evans) with direct quotes. DHS official statement provides federal account.

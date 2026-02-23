@@ -93,6 +93,3 @@ Nasra Ahmed was released to her family around 7:45 p.m. Friday (January 17, 2026
 
 **State Rep. Samakab Hussein on her condition after release:**
 > "She went home traumatized, not eating, not talking, pissed off. She feels that she got kidnapped. The law is not protecting her. She was humiliated."
-
-## Editorial Assessment
-**HIGH** - Twin Cities Pioneer Press published three separate articles including her detailed first-person account. Covered by national outlets (Complex, The Mirror, Inquisitr). Confirmed U.S. citizen born in Minnesota with documented lack of criminal history. Hospital treatment for seizure confirmed. Cell phone video recorded by neighbors. State legislator directly involved in securing release.

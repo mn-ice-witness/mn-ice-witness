@@ -55,6 +55,3 @@ A USA Today / El Paso Times investigation published in October 2025 documented c
 
 **Constanza Palma:**
 > "Gonzalo doesn't deserve to be out of touch with his family, he doesn't deserve to be detained for so long."
-
-## Editorial Assessment
-**MEDIUM** - Single source (Sahan Journal) with named affected individual, named girlfriend providing corroboration, and specific factual details about arrest, timeline, and conditions.

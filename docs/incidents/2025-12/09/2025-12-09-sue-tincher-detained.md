@@ -76,6 +76,3 @@ Tincher is a named plaintiff in ACLU of Minnesota lawsuit filed December 17, 202
 
 ### January 13 Hearing
 U.S. District Judge Katherine Menendez heard arguments on the preliminary injunction. DOJ attorney Jeremy Newman argued drivers were "chasing" ICE vehicles to draw crowds, but Menendez pressed him, saying she had seen no evidence drivers were breaking traffic laws. Plaintiffs' attorney Kyle Wislocky argued following ICE vehicles is protected First Amendment activity. DOJ argued an injunction would amount to "micromanaging DHS officers' conduct throughout Minnesota." No ruling was issued at the hearing.
-
-## Editorial Assessment
-**HIGH** - Named affected individual with detailed first-person account. ACLU lawsuit plaintiff. Governor Walz response. Multiple news sources and legal documentation.

@@ -49,6 +49,3 @@ This release follows a pattern of DHS highlighting criminal cases to frame commu
 
 - **FactCheck.org (Jan 2026):** 42.7% of ICE detainees had no criminal convictions or pending charges, up from 14.7% in February 2025.
 - **Cato Institute:** Only 5% of ICE detainees had violent convictions; 73% had no convictions.
-
-## Editorial Assessment
-**HIGH** - Official DHS press release with direct URL. Fox News coverage with video evidence. Named individuals with specific criminal charges documented. Statistical context from FactCheck.org and Cato Institute included.

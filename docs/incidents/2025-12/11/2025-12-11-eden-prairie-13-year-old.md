@@ -59,6 +59,3 @@ Following the incident, the 13-year-old experienced:
 - Abnormal heartbeat requiring evaluation
 - Hospitalization at St. Francis Regional Medical Center
 - Ongoing medical monitoring
-
-## Editorial Assessment
-**HIGH** - Local news coverage with family statements. Medical complications documented. Part of pattern of aggressive enforcement affecting children. The handcuffing and alleged assault of a 13-year-old represents a significant civil rights concern.

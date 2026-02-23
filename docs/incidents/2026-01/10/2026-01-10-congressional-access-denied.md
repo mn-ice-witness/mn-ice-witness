@@ -68,6 +68,3 @@ Rep. Morrison: "Conducting oversight of American taxpayer-funded facilities is n
 
 ## Context
 The incident occurred three days after ICE agent Jonathan Ross shot and killed 37-year-old Renee Good in south Minneapolis on January 7, 2026. The facility has been the primary processing center for detainees during Operation Metro Surge.
-
-## Editorial Assessment
-**HIGH** - Multiple independent news sources (CBS Minnesota, Sahan Journal, KSTP, Twin Cities Pioneer Press, InForum) with direct quotes from all three representatives and official DHS response.

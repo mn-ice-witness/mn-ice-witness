@@ -43,6 +43,3 @@ Forward Madison Academy Director Aaron Hohlbein:
 
 Forward Madison COO Conor Caloia:
 > "It has been touching to see the FMFC Academy family and the greater community rally around one of our members in a time of need."
-
-## Editorial Assessment
-**LOW** - Single community news outlet (Madison365) with named, credible primary sources (club Academy Director and COO). Corroborated by GoFundMe fundraiser ($60,100 raised from 764 donors) and Instagram post. No coverage from Minnesota or major news outlets. Mother's immigration status not confirmed by reporting.

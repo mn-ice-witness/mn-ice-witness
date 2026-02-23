@@ -62,6 +62,3 @@ ICE officials have not publicly commented on this incident.
 
 ## Aftermath
 Sackie was hospitalized with significant bruising from the encounter. He expressed that the experience made him question whether citizenship documentation provides adequate protection during immigration operations.
-
-## Editorial Assessment
-**HIGH** - Two independent sources (CBS Minnesota and FrontPageAfrica). Video evidence exists. Named affected individual with direct quotes. Hospitalization documented. Pattern consistent with other citizen detentions during Operation Metro Surge.

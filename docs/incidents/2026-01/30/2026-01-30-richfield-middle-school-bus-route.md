@@ -23,6 +23,3 @@ Richfield Public Schools confirmed federal agents were present on a school bus r
 2. Yahoo News (Jan 30, 2026): [Richfield Middle School confirmed federal agents on bus route](https://www.yahoo.com/news/articles/richfield-middle-school-confirmed-federal-184909690.html)
 3. Facebook Post (Jan 30, 2026): [School message to parents about federal agents on bus route](https://www.facebook.com/groups/richfieldmncommunity/posts/25606874282273727/)
 4. Facebook Video (Jan 30, 2026): [Possible video of incident (unverified)](https://www.facebook.com/cjaxelson/videos/2624849867901557/)
-
-## Editorial Assessment
-**HIGH** - KARE 11 (Tier 1 local) confirmed the story with institutional corroboration from Superintendent Unowsky's letter to families. Yahoo News syndicated the KARE 11 report. No arrest occurred, but documents ICE presence on school bus routes and the disruption this causes to normal school operations.

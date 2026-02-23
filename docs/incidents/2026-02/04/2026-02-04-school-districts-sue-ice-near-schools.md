@@ -107,6 +107,3 @@ This case is separate from the State of Minnesota v. Noem lawsuit (0:26-cv-00190
 - [Five-Year-Old Liam Ramos Detained](#2026-01-20-liam-ramos-detained) — Columbia Heights student detained after school
 - [Federal Agents Present on Richfield Middle School Bus Route](#2026-01-30-richfield-middle-school-bus-route) — Agents on school bus route
 - [Columbia Heights High School Students Harassed](#2026-01-29-columbia-heights-hs-students-harassed) — Students' cars surrounded near school
-
-## Editorial Assessment
-**HIGH** — Federal court complaint with specific factual allegations. Seven independent news sources (MPR, Sahan Journal, Star Tribune, CBS Minnesota, Education Week, Duluth News Tribune, Fox 9). Named plaintiffs, named attorneys, named superintendents providing on-record quotes. Case docketed on CourtListener. Documents systematic pattern of enforcement near schools with specific impact data.

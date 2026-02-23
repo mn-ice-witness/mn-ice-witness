@@ -38,6 +38,3 @@ ICE agents conducted door-to-door operations throughout Pelican Rapids, arrestin
 
 ## Affected Individual
 A 43-year-old Nicaraguan man who had lived in the community for three years. Name not publicly released.
-
-## Editorial Assessment
-**HIGH** - Multiple credible sources (InForum, KVRR, MPR News, Prairie Public). Police chief confirmed ICE presence. Documents door-to-door enforcement in rural Minnesota with significant community impact (school absences, church cancellation, protest).

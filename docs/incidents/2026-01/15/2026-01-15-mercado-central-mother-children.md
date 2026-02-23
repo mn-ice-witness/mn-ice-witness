@@ -25,6 +25,3 @@ A mother was arrested by ICE while cashing a check near Mercado Central on Lake 
 - **Name:** Unknown
 - **Nationality:** Unknown
 - **Status:** Presumed undocumented
-
-## Editorial Assessment
-**LOW** - Single source (Minnesota Reformer). No affected individual identification. Compelling account from named advocate (Luis Argueta Jr., Unidos MN) who directly interacted with the children. Needs corroboration or additional coverage to raise trustworthiness.

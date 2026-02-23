@@ -84,6 +84,3 @@ Díaz is the third detainee to die at Camp East Montana:
 - **Francisco Gaspar-Andres** (Dec 3, 2025): 48-year-old Guatemalan who died of suspected liver and kidney failure.
 
 Díaz is the fifth person to die in ICE custody in 2026.
-
-## Editorial Assessment
-**HIGH** - Four independent sources including Sahan Journal (detailed family interviews from Nicaragua), Texas Tribune (investigative reporting on autopsy routing), ABC News, and KFOX TV. The story documents specific, verifiable facts: the death, the routing of the autopsy to a military hospital bypassing the county medical examiner, the county ME's homicide ruling in the prior death at the same facility, and extensive family testimony. Attorney Randall Kallinen represents the family.

@@ -36,6 +36,3 @@ Following the arrest:
 
 ## Context
 This arrest occurred during what DHS Secretary Kristi Noem called the "largest immigration operation ever" in Minnesota. It came five days after the fatal shooting of Renee Good, amid heightened tensions statewide.
-
-## Editorial Assessment
-**MEDIUM** - Two local news sources confirm the arrest. Video documentation by partner. Some details from the original file could not be verified against published sources.

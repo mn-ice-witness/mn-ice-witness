@@ -41,6 +41,3 @@ Martinez was one of dozens of people detained by ICE during Operation Metro Surg
 
 ## Legal Outcome
 A federal judge ordered Martinez released from custody after he challenged his detention. This made him one of several successful legal challenges during the January 2026 enforcement surge.
-
-## Editorial Assessment
-**HIGH** - MPR News coverage with named family member on record. Legal outcome documented. Clear example of working immigrant family disrupted, with successful legal challenge demonstrating potential due process issues in arrests.

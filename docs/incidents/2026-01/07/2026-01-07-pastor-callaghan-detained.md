@@ -66,6 +66,3 @@ Callaghan stated that the experience revealed how ICE operations use "fear and i
 
 ## Related Incidents
 Same day: Renee Good shot and killed by ICE agent nearby
-
-## Editorial Assessment
-**HIGH** - Multiple news sources (KARE 11, The Advocate, New Republic) with consistent first-person account. Named affected individual willing to speak publicly. Direct quotes from ICE agent documented. Clear evidence of racial profiling admission by federal agent.

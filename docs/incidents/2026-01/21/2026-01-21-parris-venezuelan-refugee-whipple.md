@@ -25,6 +25,3 @@ A Venezuelan woman who entered the United States legally as a refugee was detain
 - **Name:** "Rosa" (pseudonym)
 - **Nationality:** Venezuelan
 - **Status:** Lawful refugee, green card in process
-
-## Editorial Assessment
-**MEDIUM** - Single source (Sahan Journal) with detailed firsthand account. Pseudonymous affected individual limits independent verification. Specific details about conditions, timeline, and the 60-woman cohort add credibility. Corroborated by the broader Operation PARRIS legal proceedings and Judge Tunheim's documented TRO.

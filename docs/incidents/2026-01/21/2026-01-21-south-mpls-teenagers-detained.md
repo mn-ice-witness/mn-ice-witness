@@ -41,6 +41,3 @@ U.S. Customs and Border Protection officers handcuffed and detained two teenager
 
 ## Witness Accounts
 MPR News photojournalist Ben Hovland observed the arrests firsthand and reported that agents photographed the "frightened" teenage boy's face before taking him into custody. Hovland saw ICE agents looking through the girl's U.S. passport as she sobbed in the snow-covered street. He also reported that agents appeared to have rear-ended the teenagers' SUV before the detention.
-
-## Editorial Assessment
-**HIGH** - Documented by MPR News photojournalist Ben Hovland who was physically present and observed the arrests. Professional journalism outlet with photos and video evidence from the scene. Video edited by Anne Guttridge. First-person observation from credentialed journalist elevates reliability despite being a breaking story with limited details.

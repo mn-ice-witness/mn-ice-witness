@@ -117,6 +117,3 @@ A DHS spokesperson disputed Rahman's account, claiming she was an "agitator" who
 
 ## Official Response
 State Senator Omar Fateh wrote on X: "This is what living under a federal siege looks like. This isn't about public safety—this is terrorism."
-
-## Editorial Assessment
-**HIGH** - Video evidence from multiple sources shows the incident clearly. Affected individual publicly identified. Hospitalization and assault injuries confirmed by legal counsel. Multiple independent news outlets verified and published footage. Video went viral with millions of views.

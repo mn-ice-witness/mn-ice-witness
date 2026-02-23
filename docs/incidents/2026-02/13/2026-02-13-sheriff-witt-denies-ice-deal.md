@@ -44,6 +44,3 @@ Of all 87 Minnesota county sheriffs surveyed, approximately 40% responded and **
 
 ## Related Incidents
 - [Homan Declares Operation Metro Surge Over](#2026-02-12-homan-operation-metro-surge-conclusion) — Homan's claims that prompted Witt's denial
-
-## Editorial Assessment
-**HIGH** - Press conference covered by every major local outlet. Star Tribune independently surveyed all 87 county sheriffs. Direct quotes from named officials on both sides.

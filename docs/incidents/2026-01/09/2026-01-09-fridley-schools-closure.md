@@ -77,6 +77,3 @@ The closures came after:
 1. Renee Nicole Good was shot and killed by an ICE agent in Minneapolis (January 7, 2026).
 2. Border Patrol agents entered Roosevelt High School grounds, detained a staff member, and deployed chemical irritants (January 7, 2026).
 3. A surge of more than 2,000 federal agents deployed to the Twin Cities area.
-
-## Editorial Assessment
-**HIGH** - Multiple news media sources (FOX 9, KARE 11, Bring Me The News, Hometown Source) reported on this incident. Direct correspondence from the school district provides primary source documentation of the closures and the superintendent's statements explaining the decisions.

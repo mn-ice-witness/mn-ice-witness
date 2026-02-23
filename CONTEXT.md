@@ -265,7 +265,7 @@ Read `adding-incidents.md` first. Check `not_use.md` for rejected stories.
 ```
 
 ### Corrections Format
-**Corrections go in `## Correction` at the very bottom of the incident file (after Editorial Assessment).** When correcting an incident, add a `## Correction` section at the very end and change `trustworthiness: corrected`. The first line must be `**[Date]** — [brief description]` — this text appears on the `/corrections` page. The Editorial Assessment keeps its original trustworthiness rating (HIGH, MEDIUM, etc.) — do NOT change it to CORRECTED. See `corrected-incidents.md` for the full procedure.
+**Corrections go in `## Correction` at the very bottom of the incident file.** When correcting an incident, add a `## Correction` section at the very end and change `trustworthiness: corrected`. The first line must be `**[Date]** — [brief description]` — this text appears on the `/corrections` page. See `corrected-incidents.md` for the full procedure.
 
 ---
 

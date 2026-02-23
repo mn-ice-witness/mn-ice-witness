@@ -27,6 +27,3 @@ Jairo Pitalasig, an 18-year-old senior at North High School in Minneapolis, was 
 - **Age:** 18
 - **Nationality:** Ecuadorian
 - **Status:** Asylum seeker; in-absentia removal order after missing one court date
-
-## Editorial Assessment
-**MEDIUM** - Two sources (North News community newspaper and Sahan Journal republication). Named affected individual with specific details about arrest, school, and family circumstances. Teacher corroboration. Father's detention adds context but details are thin.

@@ -53,6 +53,3 @@ Judge Michael J. Davis wrote in his order: "There is something particularly crav
 Ta Eh Doh Lah's detention fits a documented pattern of ICE targeting refugees with pending green card applications under **Operation PARRIS** (Post-Admission Refugee Reverification and Integrity Strengthening). According to [Fox 9](https://www.fox9.com/news/minnesota-fraud-dhs-launching-operation-parris-target-refugees-jan-9), approximately 5,600 green card applicants in Minnesota are being targeted through this [official DHS operation](https://www.uscis.gov/newsroom/news-releases/dhs-launches-landmark-uscis-fraud-investigation-in-minnesota).
 
 [Global Refuge](https://www.globalrefuge.org/news/refugee-arrests-minnesota/) has called for "meaningful due process" and raised concerns about lawfully present refugees being swept up in enforcement actions.
-
-## Editorial Assessment
-**HIGH** - Federal court ruling (primary source) with detailed findings of fact, plus independent news coverage. Judge Davis's order provides authoritative documentation of the arrest circumstances, Ms. Lah's legal status, and the unlawfulness of her detention.

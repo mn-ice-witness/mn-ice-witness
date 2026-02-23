@@ -54,6 +54,3 @@ His wife could be heard screaming at the scene during the detention.
 
 ## Aftermath
 Nur-D posted on Instagram Saturday evening confirming he was safe and reunited with his wife.
-
-## Editorial Assessment
-**HIGH** - Named individual (public figure), multiple news sources, witness account from Arik Cannon, social media posts from Nur-D himself confirming the incident. Video evidence exists of the detention.

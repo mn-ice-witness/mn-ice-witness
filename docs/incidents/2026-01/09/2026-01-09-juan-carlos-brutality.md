@@ -71,8 +71,3 @@ Multiple bystanders filmed the incident. On video, when asked his name, the vict
 
 ### DHS/ICE Statement
 DHS told CNN the victim is a "criminal alien from Ecuador." See full statement and fact check: [DHS Response: Kneeing Victim is "Criminal Alien from Ecuador"](#2026-01-18-dhs-response-juan-carlos)
-
-## Editorial Assessment
-**HIGH** (for the incident itself) - Multiple video recordings from independent witnesses, eyewitness accounts from named witnesses (Yarrow Tkachuk-Kedziora, Monica Bicking), and coverage by Minnesota Reformer, CNN, and other outlets. The video evidence showing an agent kneeing the victim in the face while he was pinned down is unambiguous.
-
-**The victim's name and legal status require more reporting.** The man appears to say "Juan Carlos" on video. Documentary evidence (car purchase contract, violation ticket) supports this name, but his immigration status remains disputed between activist accounts and DHS claims.

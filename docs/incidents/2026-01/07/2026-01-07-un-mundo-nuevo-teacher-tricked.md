@@ -26,6 +26,3 @@ A teacher at Un Mundo Nuevo Children's Academy was detained by ICE on January 7,
 - **Nationality:** Not disclosed
 - **Immigration status:** Legal resident
 - **Status:** Released after approximately 10 minutes
-
-## Editorial Assessment
-**MEDIUM** - Single source (Star Tribune) citing daycare's email to parents. Daycare did not respond to Star Tribune's requests for more information. Incident confirmed by daycare communication to families. Quick release supports account that she was a legal resident.

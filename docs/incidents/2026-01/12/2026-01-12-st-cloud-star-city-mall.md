@@ -95,6 +95,3 @@ In the same parking lot, Somali business owners and patrons confronted ICE agent
 
 ## Context
 The operation occurred as the Department of Homeland Security pledged to send 2,000+ immigration officers into Minnesota in what ICE called its "largest enforcement operation ever." The same day, Minnesota and the Twin Cities sued the Trump administration to halt the surge.
-
-## Editorial Assessment
-**HIGH** - Multiple major news sources (Star Tribune, CBS, CNN, local radio) with video evidence. Named witnesses and officials on record. Chemical irritant use documented. Clear pattern of ICE targeting Somali business districts.

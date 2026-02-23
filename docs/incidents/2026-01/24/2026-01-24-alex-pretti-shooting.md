@@ -163,6 +163,3 @@ Huerta-Chuma escaped during the operation and remains at large. The [MN DOC laun
 > I do not throw around the 'hero' term lightly. However, his last thought and act was to protect a woman. The sickening lies told about our son by the administration are reprehensible and disgusting. Alex is clearly not holding a gun when attacked by Trump's murdering and cowardly ICE thugs. He had his phone in his right hand and his empty left hand is raised above his head while trying to protect the woman ICE just pushed down, all while being pepper sprayed.
 >
 > Please get the truth out about our son. He was a good man. Thank you."
-
-## Editorial Assessment
-**HIGH** - Multiple independent news sources, video evidence from witness, official statements from both DHS and local officials. Footage shows multiple agents on top of Pretti when shots were fired. The circumstances remain disputed between federal and local authorities.

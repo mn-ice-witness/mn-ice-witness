@@ -29,7 +29,3 @@ A video shows an ICE agent telling an observer "You raise your voice, I erase yo
 ## Affected Individual(s)
 - **Role:** Observer
 - **Name:** Not disclosed
-
-## Editorial Assessment
-
-**MEDIUM** - Video confirmed by two news outlets (Raw Story, The New Republic). Full exchange documented on video. Observer's identity not disclosed and exact location within Minneapolis not specified.

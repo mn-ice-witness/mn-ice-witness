@@ -56,6 +56,3 @@ This family was targeted in multiple ICE operations:
 
 ## Context
 This incident is part of a broader pattern of ICE presence at Minnesota hospitals during Operation Metro Surge. Health care workers have reported ICE agents at Hennepin County Medical Center, Regions Hospital, and other facilities. At a Hennepin County Board of Commissioners meeting, medical staff expressed concern that ICE presence creates fear among patients and staff, potentially deterring people from seeking medical care.
-
-## Editorial Assessment
-**MEDIUM** - Single news source (Sahan Journal) with detailed affected individual and family interviews. The GoFundMe campaign corroborates background details about the family. The story includes direct quotes from family members and specific timeline details. The connection to the well-documented El Tapatio incident (same family) adds credibility. Rating could be upgraded to HIGH if additional news outlets cover the story or if official records (ICE detainee locator confirmation) are documented.

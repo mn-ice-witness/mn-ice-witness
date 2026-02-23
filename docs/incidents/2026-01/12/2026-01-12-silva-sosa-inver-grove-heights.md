@@ -69,10 +69,6 @@ A couple who have lived in Minnesota since 1999 were detained by ICE during a tr
 
 ## Family Background
 The parents met at a dance club in Mexico in the 1980s. They moved to Minnesota in 1999 seeking economic opportunity and built a thriving office cleaning business.
-
-## Editorial Assessment
-**HIGH** - Core story verified by CBS Minnesota feature with extensive family interviews and video, corroborated by Fox 9 and Pioneer Press.
-
 ## Correction
 
 **Feb 16, 2026** — Operation PARRIS framing removed. The Silva Sosa parents are undocumented immigrants, not refugees targeted by PARRIS.

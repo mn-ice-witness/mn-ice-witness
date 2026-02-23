@@ -61,6 +61,3 @@ Carrillo's declaration was filed January 12, 2026, as Document 60. The apparent 
 
 ## Context
 The apparent connection between the two incidents is significant. On January 7, agents in a maroon Dodge Ram with Iowa plates photographed Carrillo and his car and pointed mace at him. Two days later, at a different location on the same road, Carrillo recognized what he believed was the same maroon Dodge Ram moments before being pepper sprayed. If the vehicle was indeed the same, this suggests agents identified and targeted a known observer rather than responding to any immediate threat. Carrillo was standing 10 feet away and walking away when he was sprayed.
-
-## Editorial Assessment
-**HIGH** - Sworn declaration filed in federal court (Tincher v. Noem, Doc. 60). Detailed account of two linked incidents suggesting targeted retaliation against an observer. The elderly woman's subsequent release confirms agents were conducting an unlawful detention at the time Carrillo was sprayed for recording it.

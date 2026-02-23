@@ -53,6 +53,3 @@ A St. Paul Public Works employee working as a snowplow driver was detained by IC
 - Worker's wife lost household income due to fear of employment.
 - Wife described as unfamiliar with local community and requiring support services.
 - Department colleagues described him as a "great employee" working on essential city services.
-
-## Editorial Assessment
-**HIGH** - Two independent news sources (FOX 9, Pioneer Press). Direct statements from named city officials (Public Works Director Sean Kershaw, Street Superintendent Jericho Huggar). Official confirmation that the worker had valid federal work authorization that the city verified before hiring. Part of documented pattern of legally authorized workers being detained during Operation Metro Surge.

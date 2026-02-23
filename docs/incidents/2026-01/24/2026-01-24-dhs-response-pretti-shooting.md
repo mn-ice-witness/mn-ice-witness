@@ -71,6 +71,3 @@ Bovino declined to identify the officer involved and refused to answer a WCCO qu
 - Pretti was a U.S. citizen, licensed nurse, and University of Minnesota graduate.
 - The FBI has blocked the Minnesota Bureau of Criminal Apprehension from the investigation.
 - Hennepin County Attorney Mary Moriarty and Attorney General Keith Ellison have announced a joint state investigation.
-
-## Editorial Assessment
-**HIGH** - Official DHS statements well-documented. Video from multiple angles shows Pretti was holding a phone, not a weapon, and that his gun was removed by an agent before the shooting. The circumstances remain under investigation by both federal and state authorities.

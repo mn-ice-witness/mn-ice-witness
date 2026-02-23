@@ -40,6 +40,3 @@ Daniel Woo, 29, a sound designer, drove to a St. Paul supermarket parking lot to
 ## Related Incidents
 - [ACLU Sues to Protect Observers: Tincher v. Noem](#2025-12-17-tincher-v-noem-aclu-lawsuit) — Woo filed sworn declaration
 - [ICE Agents Follow Observers Home](#2026-01-06-levy-observers-followed-home) — Same pattern of following observers to residences
-
-## Editorial Assessment
-**HIGH** — Sworn declaration filed in federal court (Tincher v. Noem). Named individual with specific details. Reported by New York Times. Exact incident date not specified in available sources.

@@ -75,6 +75,3 @@ One attorney stated: "If ICE is trying to say, 'Oh, it's fine, you can just have
 
 ## Legal Context
 The attorneys allege these denials violate the 5th and 6th Amendment rights to due process and the right to consult with counsel. While immigration violations are civil rather than criminal offenses and detainees do not have an automatic right to appointed counsel, they retain the right to access an attorney they have retained.
-
-## Editorial Assessment
-**HIGH** - Detailed ABC News investigation with multiple named and anonymous attorney sources (Robert Sicoli identified by name), direct quotes, specific dates and incidents, and official DHS response.

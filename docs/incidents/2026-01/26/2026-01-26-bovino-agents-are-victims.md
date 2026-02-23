@@ -57,6 +57,3 @@ Video footage verified by the New York Times shows Pretti filming the scene with
 ## Reaction
 
 Sam Stein, managing editor for The Bulwark, called it "one of the more Orwellian interviews I've seen in a long time on a Sunday show," adding that Bovino "basically asked you to just ignore your own eyes."
-
-## Editorial Assessment
-**HIGH** - Interview broadcast live on CNN and documented by multiple news organizations. Direct quotes recorded on video.

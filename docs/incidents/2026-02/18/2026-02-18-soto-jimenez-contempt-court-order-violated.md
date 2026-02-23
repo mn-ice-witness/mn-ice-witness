@@ -32,6 +32,3 @@ U.S. District Judge Laura Provinzino held Special Assistant U.S. Attorney Matthe
 - **Immigration status:** No final order of removal; years into the process of obtaining lawful status
 - **Arrested:** January 14 at his workplace as part of Operation Metro Surge
 - **Attorney:** Erin Lins
-
-## Editorial Assessment
-**HIGH** - Four independent major sources (MPR News, Star Tribune, CNN, CBS News). Hearing transcript obtained and quoted extensively by multiple outlets. Named affected individual, named attorney held in contempt, named judge. Official court documents cited. Both sides quoted, including U.S. Attorney Dan Rosen's response.

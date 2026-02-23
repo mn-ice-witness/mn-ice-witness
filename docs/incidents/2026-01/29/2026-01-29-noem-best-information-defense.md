@@ -67,7 +67,3 @@ This directly contradicts the initial public statements from Noem and other offi
 This follows a pattern of DHS officials making dramatic initial claims that are later contradicted by evidence:
 - Initial claims about Renee Good's shooting were contradicted by video evidence
 - Commander Bovino stated "all agents involved are working" on January 26; DHS later confirmed two agents were on administrative leave "immediately after the shooting"
-
-## Editorial Assessment
-
-**HIGH** - Multiple credible sources documenting both Noem's statement and the contradicting DHS internal report. The discrepancy between public statements and the internal congressional report is clearly documented.

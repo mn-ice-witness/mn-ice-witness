@@ -108,6 +108,3 @@ Trump said moving forward, mayors and governors "have to ask, and they have to s
 > "Crime now in Minneapolis is down. Crime in all cities is down. And you know why it's down — It's down because of us."
 
 > "It's down in Chicago by 25%."
-
-## Editorial Assessment
-**HIGH** - Primary source interview conducted by major network (NBC News) with full transcript and video available. Multiple news outlets (CBS, The Hill, Newsweek, Fox News) covered the interview. NBC's own fact-check provides context for the claims made.

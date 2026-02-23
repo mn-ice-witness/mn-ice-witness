@@ -85,6 +85,3 @@ Noor faces federal charges for allegedly assaulting federal officers. The compla
 
 ## Context
 This incident occurred during the same confrontation documented in the [pregnant woman dragged through snow](/entry/2025-12-15-karmel-mall-pregnant-woman) incident. Karmel Mall is the nation's first Somali shopping center and has been a frequent site of ICE activity. The agent's racist statements at the Whipple Building directly echoed Secretary Noem's false claim, made at the start of Operation Metro Surge, that 50% of Somali visas in Minnesota were "fraudulent" — a claim contradicted by USCIS's own investigation, which found roughly 0.5% of cases warranted referral.
-
-## Editorial Assessment
-**HIGH** - Named plaintiff in ACLU federal lawsuit with sworn declaration. Detailed account in ACLU complaint paragraphs 163-178. Subsequent arrest documented by Sahan Journal and St. Cloud Live. Federal charges documented in DOJ press release. Clear civil rights violations alleged including racial profiling, racist statements echoing administration rhetoric, due process issues, and dangerous transport. The discrepancy between DOJ's claim of a "brick" and community/journalist reports of "ice" is noted.

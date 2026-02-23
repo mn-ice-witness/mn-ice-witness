@@ -40,6 +40,3 @@ A 16-year-old Ecuadorian asylum-seeker was detained by ICE while driving alone i
 
 ### DHS/ICE Statement
 DHS did not respond to questions about Sebastian's case. DHS has denied that ICE targets children or teenagers but stated that if ICE "encounters" a minor without their parent, agents "ensure their safety" by working with other arms of the federal government.
-
-## Editorial Assessment
-**MEDIUM** - Single established source (Star Tribune investigative piece by Susan Du) with strong primary sources including direct interviews with affected individual and father, named attorney Claire Glenn, documented court filings, and ICE attorney email correspondence. No independent outlet corroboration yet (published Feb 22, 2026).

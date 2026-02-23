@@ -44,6 +44,3 @@ The detention occurred on the same day as:
 - A 19-year-old Willmar Public Schools student was arrested in central Minnesota
 
 Minneapolis and St. Paul public schools have offered e-learning for the month as students and families expressed concerns over ICE actions.
-
-## Editorial Assessment
-**MEDIUM** - Single news source (KARE 11) with school confirmation. Student name withheld for privacy. Outcome of detention not specified. Additional corroborating sources needed for HIGH rating.

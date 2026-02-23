@@ -125,6 +125,3 @@ At least two other Somali U.S. citizens were arrested by ICE and released the sa
 
 ## Context
 This incident occurred during "Operation Metro Surge," an ICE enforcement operation targeting the Twin Cities that began in December 2025. By December 10, over 400 arrests had been made across Minnesota. The operation specifically targeted Somali immigrant communities. 70% of those arrested lacked criminal convictions, according to CATO Institute analysis.
-
-## Editorial Assessment
-**HIGH** - Extensively documented incident with video evidence, press conference featuring the affected individual, statements from multiple city and state officials, and coverage from over a dozen major news outlets. Core facts are consistent across all sources. DHS's "reasonable suspicion" defense is disputed by affected individual's account and local officials. The discrepancy over whether Mubashir "fled" or "simply turned around" is the primary point of contention.

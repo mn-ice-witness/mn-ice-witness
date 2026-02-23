@@ -68,10 +68,6 @@ A close friend of the woman told a witness that she was released from ICE custod
 Karmel Mall, usually a bustling hub for Minneapolis' Somali community, fell silent after ICE raids. Signs on the mall's doors declared: "No ICE enter without court order."
 
 Business owner Khadijo Warsawe: "I could almost count how many sales I made in the past three weeks, because the mall is empty."
-
-## Editorial Assessment
-**HIGH** - Seven independent sources including local (Fox 9, CBS, Star Tribune, Minnesota Reformer) and national (TMZ, Fox News, Inquisitr). Multiple video recordings exist. Named witnesses (Tonika Deutch, Abdisalan Abdi). Minneapolis Police Chief publicly questioned federal agents' methods. DHS disputed account but Star Tribune confirmed woman was Mexican legal resident who was released same day.
-
 ## Correction
 
 **Feb 19, 2026** — Removed "Somali" from title and summary. The [Minnesota Reformer](https://minnesotareformer.com/2025/12/16/karmel-mall-once-a-bustling-center-of-community-falls-silent/) described the woman as Somali without attribution. The [Star Tribune](https://www.startribune.com/witnesses-dhs-offer-starkly-different-accounts-after-woman-dragged-in-minneapolis-ice-operation/601548788), citing witness Taneka Dortch who communicated with the woman's friend, reported the woman is Mexican and a legal resident. FOX 9 separately described the detained women as Hispanic. Because sources conflict and we cannot independently verify the woman's ethnicity, the specific claim was removed.

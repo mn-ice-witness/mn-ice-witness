@@ -30,7 +30,3 @@ Perla Ocampo, an 18-year-old college student born in Willmar, Minnesota, was vio
 - **Age:** 18
 - **Nationality:** American (born in Willmar, MN)
 - **Status:** U.S. citizen
-
-## Editorial Assessment
-
-**MEDIUM trustworthiness** - Ocampo's testimony is documented at a public city council meeting and in investigative journalism, but news coverage of the specific incident has limited detail. No video evidence of the incident itself.
