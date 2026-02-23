@@ -1,5 +1,5 @@
 ---
-date: 2026-02-19
+date: 2026-02-18
 time: unknown
 location: U.S. District Court, District of Minnesota
 city: Big Lake
@@ -16,7 +16,7 @@ search_tags: src:star-tribune, src:mpr, src:cbs, src:cnn
 # Federal Judge Holds DOJ Attorney in Contempt After ICE Dumps Big Lake Man in Texas Without ID
 
 ## Summary
-U.S. District Judge Laura Provinzino held Special Assistant U.S. Attorney Matthew Isihara in civil contempt on February 19 after ICE violated her court order in the case of Rigoberto Soto Jimenez, a Mexican national who had lived in Big Lake, Minnesota, since 2018. Provinzino had ordered Soto Jimenez released in Minnesota by February 13 with all his property returned. Instead, ICE released him in El Paso, Texas, without his Minnesota driver's instruction permit or Mexican consular ID, forcing him to spend a night in a shelter before his attorney arranged a flight home. Isihara, an Army JAG officer assigned to handle over 126 habeas cases in one month, acknowledged he "personally dropped the ball." Provinzino imposed $500-per-day fines, the first contempt sanction against a government attorney during Trump's second term. The contempt was lifted the next day after DHS returned the documents. U.S. Attorney Dan Rosen called the order a "lawless abuse of judicial power."
+U.S. District Judge Laura Provinzino held Special Assistant U.S. Attorney Matthew Isihara in civil contempt on February 18 after ICE violated her court order in the case of Rigoberto Soto Jimenez, a Mexican national who had lived in Big Lake, Minnesota, since 2018. Provinzino had ordered Soto Jimenez released in Minnesota by February 13 with all his property returned. Instead, ICE released him in El Paso, Texas, without his Minnesota driver's instruction permit or Mexican consular ID, forcing him to spend a night in a shelter before his attorney arranged a flight home. Isihara, an Army JAG officer assigned to handle over 126 habeas cases in one month, acknowledged he "personally dropped the ball." Provinzino imposed $500-per-day fines starting February 20, the first contempt sanction against a government attorney during Trump's second term. DHS returned the documents on February 19, and Provinzino lifted the contempt on February 20 with no fines imposed. U.S. Attorney Dan Rosen called the order a "lawless abuse of judicial power."
 
 ## Sources
 1. MPR News (Feb 19, 2026): [Judge threatens government lawyer with fines after ICE violates court order](https://www.mprnews.org/story/2026/02/19/government-lawyer-held-in-contempt-ice-violates-order)
@@ -41,18 +41,17 @@ U.S. District Judge Laura Provinzino held Special Assistant U.S. Attorney Matthe
 - **Feb 12 (evening)** - Soto Jimenez spends the night in a Texas shelter.
 - **Feb 13** - Attorney Lins arranges a flight home to Minnesota for her client.
 - **Feb 17** - Lins writes to the judge that DHS still has not returned Soto Jimenez's documents.
-- **Feb 19 (morning)** - Isihara contacts Lins for the first time since the release. Provinzino: "The government did nothing in this case."
-- **Feb 19 (hearing)** - Provinzino holds Isihara in civil contempt, imposes $500/day fines starting Feb 20.
-- **Feb 20** - DHS returns documents to Soto Jimenez in Minnesota. Provinzino lifts contempt; no fines imposed.
+- **Feb 18 (morning)** - Isihara contacts Lins for the first time since the release. Provinzino: "The government did nothing in this case."
+- **Feb 18 (hearing)** - Provinzino holds Isihara in civil contempt, imposes $500/day fines starting Feb 20.
+- **Feb 19** - DHS returns documents to Soto Jimenez in Minnesota.
+- **Feb 20** - Provinzino lifts contempt in written order; no fines imposed.
 
 ## Witness Accounts
 
 **Judge Laura Provinzino (from transcript):**
 "The government's understaffing and high caseload is a problem of its own making and absolutely does not justify flagrant disobedience of court orders."
 
-"Just on a human level, Mr. Isihara, do you believe that this is acceptable that the government has not in any way attempted to comply with the court's orders? But, more problematically, we have a situation where a petitioner was released in Texas when he should have been released in Minnesota, and he didn't have a place to stay that night, had to stay in a shelter."
-
-"This Court would never allow a private attorney or litigant to rely on an 'I'm too busy' excuse to justify disobedience of a court order. The Government is no different."
+"Just on a human level, Mr. Isihara, do you believe that this is acceptable that the government has not in any way attempted to comply with the court's orders? But, more problematically, we have a situation where a petitioner was released in Texas when he should have been released in Minnesota, and he didn't have a place to stay that night, had to stay in a shelter and, through the good graces of an attorney, was able to secure a flight home the following day. Do you believe on a personal level that that is okay?"
 
 **Matthew Isihara (Special Assistant U.S. Attorney):**
 "I would just say, on a personal level, I have immense sympathy for [Soto Jimenez's] situation. I concede that I personally dropped the ball in this case."

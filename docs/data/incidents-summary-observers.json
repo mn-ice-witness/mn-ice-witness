@@ -2,8 +2,8 @@
   "incidents": [
     {
       "filePath": "incidents/2026-02/17/2026-02-17-mankato-ice-vehicle-crash.md",
-      "title": "ICE Vehicle Rams Resident's Car After Pursuit Near Mankato Public Safety Center",
-      "summary": "Two Mankato residents tracking ICE activity were rammed by a federal vehicle at the intersection of Riverfront Drive and Liberty Street, directly outside the Mankato Public Safety Center, around 9:15 a.m. on February 17. Driver Greg Wilson said he followed the ICE vehicle as it ran red lights with flashing lights, then pulled ahead and stopped to block it. The ICE vehicle then crashed into his car. A masked, armed individual from the ICE vehicle reportedly grabbed Wilson's arm. Approximately eight officers surrounded Wilson's vehicle and told him to back off. Both parties sustained minor injuries and declined medical transport. The city confirmed the crash but released no details. DHS did not respond to requests for comment. The ICE driver's identity was not released.",
+      "title": "Collision Between ICE Vehicle and Resident's Car Near Mankato Public Safety Center",
+      "summary": "A collision between a DHS vehicle and a civilian car occurred at the intersection of Riverfront Drive and Liberty Street, directly outside the Mankato Public Safety Center, around 9:15 a.m. on February 17. Driver Greg Wilson said he and another resident had been following the ICE vehicle as it ran red lights with flashing lights; Wilson said he pulled ahead and stopped to block it, and the ICE vehicle rammed into his car. However, police review of traffic camera footage told a different story: Wilson stopped his vehicle at an angle in the middle of the roadway, and the DHS vehicle activated emergency lights and attempted to pass on the right before Wilson turned into its path. A masked, armed individual from the ICE vehicle reportedly grabbed Wilson's arm, and approximately eight officers surrounded his vehicle. Wilson was charged with reckless driving, disorderly conduct, and driving without insurance. Both parties sustained minor injuries and declined medical transport. DHS cited an undercover investigation exception to withhold the ICE driver's identity.",
       "latestUpdate": null,
       "correctionNote": null,
       "date": "2026-02-17",
@@ -21,7 +21,6 @@
       "notable": false,
       "searchTags": [
         "vehicle-pursuit",
-        "excessive-force",
         "us-citizen",
         "src:fox9",
         "src:other-local"

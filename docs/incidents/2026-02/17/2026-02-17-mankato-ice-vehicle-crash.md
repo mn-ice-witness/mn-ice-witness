@@ -10,13 +10,13 @@ injuries: minor
 trustworthiness: high
 created: 2026-02-23T13:13:42
 last_updated: 2026-02-23T13:13:42
-search_tags: vehicle-pursuit, excessive-force, us-citizen, src:fox9, src:other-local
+search_tags: vehicle-pursuit, us-citizen, src:fox9, src:other-local
 ---
 
-# ICE Vehicle Rams Resident's Car After Pursuit Near Mankato Public Safety Center
+# Collision Between ICE Vehicle and Resident's Car Near Mankato Public Safety Center
 
 ## Summary
-Two Mankato residents tracking ICE activity were rammed by a federal vehicle at the intersection of Riverfront Drive and Liberty Street, directly outside the Mankato Public Safety Center, around 9:15 a.m. on February 17. Driver Greg Wilson said he followed the ICE vehicle as it ran red lights with flashing lights, then pulled ahead and stopped to block it. The ICE vehicle then crashed into his car. A masked, armed individual from the ICE vehicle reportedly grabbed Wilson's arm. Approximately eight officers surrounded Wilson's vehicle and told him to back off. Both parties sustained minor injuries and declined medical transport. The city confirmed the crash but released no details. DHS did not respond to requests for comment. The ICE driver's identity was not released.
+A collision between a DHS vehicle and a civilian car occurred at the intersection of Riverfront Drive and Liberty Street, directly outside the Mankato Public Safety Center, around 9:15 a.m. on February 17. Driver Greg Wilson said he and another resident had been following the ICE vehicle as it ran red lights with flashing lights; Wilson said he pulled ahead and stopped to block it, and the ICE vehicle rammed into his car. However, police review of traffic camera footage told a different story: Wilson stopped his vehicle at an angle in the middle of the roadway, and the DHS vehicle activated emergency lights and attempted to pass on the right before Wilson turned into its path. A masked, armed individual from the ICE vehicle reportedly grabbed Wilson's arm, and approximately eight officers surrounded his vehicle. Wilson was charged with reckless driving, disorderly conduct, and driving without insurance. Both parties sustained minor injuries and declined medical transport. DHS cited an undercover investigation exception to withhold the ICE driver's identity.
 
 ## Sources
 1. KEYC (Feb 17, 2026): [Crash involving ICE in Mankato](https://www.keyc.com/2026/02/17/crash-involving-ice-mankato/)
@@ -30,6 +30,7 @@ Two Mankato residents tracking ICE activity were rammed by a federal vehicle at 
 - **Citizenship:** U.S. Citizen
 - **Injuries:** Minor; declined medical transport
 - **Role:** Was tracking ICE activity with another resident when the collision occurred
+- **Charges:** Reckless driving, disorderly conduct, driving without insurance
 
 ### Second Occupant
 - **Name:** Lynda Wilson
@@ -39,9 +40,10 @@ Two Mankato residents tracking ICE activity were rammed by a federal vehicle at 
 ## Timeline
 - **~9:15 AM** - Greg Wilson and a fellow resident begin following an ICE vehicle through Mankato. The ICE vehicle runs red lights with flashing lights.
 - **Pursuit** - Wilson follows the vehicle down Riverfront Drive, gets ahead of it, pulls down Liberty Street, and stops to block the ICE vehicle.
-- **Crash** - The ICE vehicle rams into Wilson's car at the intersection of Riverfront Drive and Liberty Street, directly outside the Mankato Public Safety Center.
+- **Crash** - The two vehicles collide at the intersection of Riverfront Drive and Liberty Street, directly outside the Mankato Public Safety Center. Wilson says the ICE vehicle rammed him; traffic camera footage reviewed by police shows Wilson turned into the path of the DHS vehicle as it attempted to pass.
 - **Confrontation** - A masked, armed individual from the ICE vehicle grabs Wilson's arm. Approximately eight officers surround Wilson's vehicle and order him to back off.
 - **Resolution** - Both parties report minor injuries and decline medical transport. Both vehicles sustain "non-disabling damage" and are driven from the scene. ICE officers are released.
+- **Charges** - Wilson is charged with reckless driving, disorderly conduct, and driving without insurance.
 - **Crowd** - The crash attracts a crowd of onlookers and observers.
 
 ## Witness Accounts
@@ -56,11 +58,14 @@ Two Mankato residents tracking ICE activity were rammed by a federal vehicle at 
 ### City of Mankato
 Released a brief statement confirming vehicle damage and minor injuries but provided no additional details.
 
+### Mankato Police (Chris Baukol, Assistant Police Chief)
+Traffic camera footage reviewed by police showed Wilson's vehicle stopped on East Liberty at an angle in the middle of the roadway; the DHS vehicle activated emergency lights and attempted to pass on the right side before Wilson turned into its path. Wilson was charged with reckless driving, disorderly conduct, and driving without insurance. Police will not release traffic camera footage, citing standard practice in motor vehicle accident cases.
+
 ### DHS
-Did not respond to KEYC's request for comment. The Mankato Free Press reported the ICE driver's identity would not be released.
+Did not respond to KEYC's request for comment. DHS cited an undercover investigation exception to Minnesota's traffic crash disclosure law to withhold the ICE driver's identity.
 
 ### FOX 9
 Reported the crash caused "non-disabling damage" to both vehicles and that police said "the scene was cleared after the necessary steps were taken following such an incident."
 
 ## Editorial Assessment
-**HIGH** - Four independent sources (KEYC, Mankato Free Press, FOX 9, Southern Minnesota News). Named affected individual (Greg Wilson) with direct quotes. Confirmed by City of Mankato press release. Multiple outlets independently verified the crash involved a DHS vehicle. Incident occurred in broad daylight outside the Mankato Public Safety Center.
+**HIGH** - Five sources across four outlets (KEYC, Mankato Free Press x2, FOX 9, Southern Minnesota News). Named affected individual (Greg Wilson) with direct quotes. City of Mankato press release and police traffic camera review provide an account that contradicts Wilson's version of events. Wilson was charged with reckless driving, disorderly conduct, and driving without insurance. Both accounts are presented above. Incident occurred in broad daylight outside the Mankato Public Safety Center.
