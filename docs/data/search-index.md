@@ -16,10 +16,12 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (276 incidents)
+## CURRENT (278 incidents)
 
 Published incidents visible on the main site.
 
+- incidents/2026-02/19/2026-02-19-soto-jimenez-contempt-court-order-violated.md | 2026-02-19 | Big Lake | immigrants | Federal Judge Holds DOJ Attorney in Contempt After ICE Dumps Big Lake Man in Texas Without ID
+- incidents/2026-02/17/2026-02-17-mankato-ice-vehicle-crash.md | 2026-02-17 | Mankato | observers | ICE Vehicle Rams Resident's Car After Pursuit Near Mankato Public Safety Center
 - incidents/2026-02/16/2026-02-16-five-west-rochester-kitchen-workers.md | 2026-02-16 | Rochester | immigrants | Two Kitchen Workers Detained at Five West Restaurant in Rochester
 - incidents/2026-02/13/2026-02-13-minneapolis-203m-economic-impact.md | 2026-02-13 | Minneapolis | background | Minneapolis Estimates $203 Million Economic Impact from Operation Metro Surge
 - incidents/2026-02/13/2026-02-13-sheriff-witt-denies-ice-deal.md | 2026-02-13 | Minneapolis | response | Sheriff Witt Denies ICE Deal, Says She Was "Scapegoated"

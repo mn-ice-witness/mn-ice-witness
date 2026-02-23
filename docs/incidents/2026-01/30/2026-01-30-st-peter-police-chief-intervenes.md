@@ -24,10 +24,10 @@ A U.S. citizen woman was detained by ICE agents while recording them near Jeffer
 ## Sources
 1. NPR (Feb 1, 2026): [Minnesota woman says local police freed her from immigration agents' custody](https://www.npr.org/2026/02/01/nx-s1-5695217/minnesota-woman-says-local-police-freed-her-from-immigration-agents-custody)
 2. MPR News (Jan 31, 2026): [St. Peter police chief intervenes, prevents federal agents from arresting resident](https://www.mprnews.org/story/2026/01/30/st-peter-police-chief-intervenes-prevents-federal-agents-from-arresting-resident)
-3. Scripps News (Jan 2026): [Minnesota police chief says ICE stopped off-duty officer at gunpoint](https://www.scrippsnews.com/politics/immigration/minnesota-police-chief-says-ice-stopped-off-duty-officer-at-gunpoint)
-4. Mankato Free Press (Jan 2026): [St. Peter officials outline response to ICE](https://www.mankatofreepress.com/news/local_news/st-peter-officials-outline-response-to-ice/article_6483d6e1-19c1-4494-a76a-a9cf9be35c33.html)
-5. Southern Minnesota News (Jan 2026): [City releases report on ICE impact](https://www.southernminn.com/st_peter_herald/news/city-releases-report-on-ice-impact/article_4d1ca22d-575c-4c7f-b541-f7fae920c7dd.html)
-6. Bring Me The News (Feb 2026): [What happened with ICE agents in Saint Peter: Police and DHS respond to viral report](https://bringmethenews.com/minnesota-news/what-happened-with-ice-agents-in-saint-peter-police-and-dhs-respond-to-viral-report)
+3. Scripps News (Jan 21, 2026): [Minnesota police chief says ICE stopped off-duty officer at gunpoint](https://www.scrippsnews.com/politics/immigration/minnesota-police-chief-says-ice-stopped-off-duty-officer-at-gunpoint)
+4. Mankato Free Press (Jan 26, 2026): [St. Peter officials outline response to ICE](https://www.mankatofreepress.com/news/local_news/st-peter-officials-outline-response-to-ice/article_6483d6e1-19c1-4494-a76a-a9cf9be35c33.html)
+5. Southern Minnesota News (Jan 28, 2026): [City releases report on ICE impact](https://www.southernminn.com/st_peter_herald/news/city-releases-report-on-ice-impact/article_4d1ca22d-575c-4c7f-b541-f7fae920c7dd.html)
+6. Bring Me The News (Feb 1, 2026): [What happened with ICE agents in Saint Peter: Police and DHS respond to viral report](https://bringmethenews.com/minnesota-news/what-happened-with-ice-agents-in-saint-peter-police-and-dhs-respond-to-viral-report)
 7. Bring Me The News (Feb 9, 2026): [List of ICE raids, major updates in Minnesota on Monday, Feb. 9](https://bringmethenews.com/minnesota-news/list-of-ice-raids-major-updates-in-minnesota-on-monday-feb-9)
 
 ## What Happened

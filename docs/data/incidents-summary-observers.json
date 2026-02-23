@@ -1,6 +1,40 @@
 {
   "incidents": [
     {
+      "filePath": "incidents/2026-02/17/2026-02-17-mankato-ice-vehicle-crash.md",
+      "title": "ICE Vehicle Rams Resident's Car After Pursuit Near Mankato Public Safety Center",
+      "summary": "Two Mankato residents tracking ICE activity were rammed by a federal vehicle at the intersection of Riverfront Drive and Liberty Street, directly outside the Mankato Public Safety Center, around 9:15 a.m. on February 17. Driver Greg Wilson said he followed the ICE vehicle as it ran red lights with flashing lights, then pulled ahead and stopped to block it. The ICE vehicle then crashed into his car. A masked, armed individual from the ICE vehicle reportedly grabbed Wilson's arm. Approximately eight officers surrounded Wilson's vehicle and told him to back off. Both parties sustained minor injuries and declined medical transport. The city confirmed the crash but released no details. DHS did not respond to requests for comment. The ICE driver's identity was not released.",
+      "latestUpdate": null,
+      "correctionNote": null,
+      "date": "2026-02-17",
+      "time": "\"09:15\"",
+      "location": "Intersection of Riverfront Drive and Liberty Street",
+      "city": "Mankato",
+      "type": "observers",
+      "status": "resolved",
+      "affectedIndividualCitizenship": "us-citizen",
+      "injuries": "minor",
+      "trustworthiness": "high",
+      "created": "2026-02-23T13:13:42",
+      "lastUpdated": "2026-02-23T13:13:42",
+      "mediaCount": 0,
+      "notable": false,
+      "searchTags": [
+        "vehicle-pursuit",
+        "excessive-force",
+        "us-citizen",
+        "src:fox9",
+        "src:other-local"
+      ],
+      "hasLocalMedia": false,
+      "localMediaType": null,
+      "localMediaPath": null,
+      "localMediaOgPath": null,
+      "localMediaFiles": [],
+      "aspectRatio": null,
+      "mediaVersion": null
+    },
+    {
       "filePath": "incidents/2026-02/09/2026-02-09-faribault-observer-database-threat.md",
       "title": "ICE Agents Tell Observer They Are Building \"Database\" of Those Documenting Operations",
       "summary": "A U.S. citizen was stopped by ICE agents in Faribault on Monday, February 9. Agents called her by name and told her they were creating a \"database\" of those organizing to document the federal operation in Minnesota. She was released after the stop. Separately, Gina Washburn, a volunteer with Northfield Supporting Neighbors, reported that an agent she spoke with at the Flying J travel center the previous month also knew her by name and took her photograph. DHS has not responded to questions about the alleged database.",

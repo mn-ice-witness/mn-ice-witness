@@ -1,6 +1,39 @@
 {
   "incidents": [
     {
+      "filePath": "incidents/2026-02/19/2026-02-19-soto-jimenez-contempt-court-order-violated.md",
+      "title": "Federal Judge Holds DOJ Attorney in Contempt After ICE Dumps Big Lake Man in Texas Without ID",
+      "summary": "U.S. District Judge Laura Provinzino held Special Assistant U.S. Attorney Matthew Isihara in civil contempt on February 19 after ICE violated her court order in the case of Rigoberto Soto Jimenez, a Mexican national who had lived in Big Lake, Minnesota, since 2018. Provinzino had ordered Soto Jimenez released in Minnesota by February 13 with all his property returned. Instead, ICE released him in El Paso, Texas, without his Minnesota driver's instruction permit or Mexican consular ID, forcing him to spend a night in a shelter before his attorney arranged a flight home. Isihara, an Army JAG officer assigned to handle over 126 habeas cases in one month, acknowledged he \"personally dropped the ball.\" Provinzino imposed $500-per-day fines, the first contempt sanction against a government attorney during Trump's second term. The contempt was lifted the next day after DHS returned the documents. U.S. Attorney Dan Rosen called the order a \"lawless abuse of judicial power.\"",
+      "latestUpdate": null,
+      "correctionNote": null,
+      "date": "2026-02-19",
+      "time": "unknown",
+      "location": "U.S. District Court, District of Minnesota",
+      "city": "Big Lake",
+      "type": "immigrants",
+      "status": "resolved",
+      "affectedIndividualCitizenship": "undocumented",
+      "injuries": "none",
+      "trustworthiness": "high",
+      "created": "2026-02-23T13:17:37",
+      "lastUpdated": "2026-02-23T13:17:37",
+      "mediaCount": 0,
+      "notable": false,
+      "searchTags": [
+        "src:star-tribune",
+        "src:mpr",
+        "src:cbs",
+        "src:cnn"
+      ],
+      "hasLocalMedia": false,
+      "localMediaType": null,
+      "localMediaPath": null,
+      "localMediaOgPath": null,
+      "localMediaFiles": [],
+      "aspectRatio": null,
+      "mediaVersion": null
+    },
+    {
       "filePath": "incidents/2026-02/16/2026-02-16-five-west-rochester-kitchen-workers.md",
       "title": "Two Kitchen Workers Detained at Five West Restaurant in Rochester",
       "summary": "On February 16, 2026 \u2014 four days after border czar Tom Homan announced the end of Operation Metro Surge \u2014 six ICE agents entered through the back door of Five West Kitchen & Bar in Rochester before the restaurant opened and detained two kitchen employees. DHS identified the men as David Hernandez-Santos and Ivan Fosado Ramirez-Gregorio, both from Mexico. Ramirez-Gregorio was charged with felony illegal re-entry after prior removal. The restaurant and its sister location Smoak BBQ closed for the day. Rep. Andy Smith (DFL-Rochester) confirmed the arrests.",
