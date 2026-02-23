@@ -2,6 +2,21 @@
 
 ROOT="$(git rev-parse --show-toplevel)"
 
+# Reject incident files with vague date patterns instead of real YYYY-MM-DD dates
+BAD_PATTERNS="-early-|-mid-|-late-|-unknown-|-second-week-|-third-week-"
+BAD_FILES=$(git diff --cached --name-only --diff-filter=A | grep '^docs/incidents/' | grep -E "$BAD_PATTERNS" || true)
+
+if [ -n "$BAD_FILES" ]; then
+    echo ""
+    echo "ERROR: Incident files must have a real date (YYYY-MM-DD), not vague patterns."
+    echo "Estimate the date and note it's an estimate in the Summary."
+    echo ""
+    echo "Rejected files:"
+    echo "$BAD_FILES" | while read -r f; do echo "  $f"; done
+    echo ""
+    exit 1
+fi
+
 echo "Regenerating incident data files..."
 python3 "$ROOT/scripts/generate_summary.py"
 

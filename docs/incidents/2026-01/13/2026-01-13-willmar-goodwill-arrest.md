@@ -39,7 +39,7 @@ Twelve ICE agents in six vehicles arrested a man and his wife in the Goodwill pa
 - **Status:** Unknown; agents appeared confused about her identity
 
 ## Timeline
-- **Mid-January 2026** - Six ICE vehicles (two agents each, 12 total) arrive at the Goodwill parking lot in Willmar.
+- **~Jan 13** - Six ICE vehicles (two agents each, 12 total) arrive at the Goodwill parking lot in Willmar.
 - **Witnesses respond** - Allen Clark and Brielle Barrett run inside Goodwill to alert people. Brielle's 15-year-old daughter Adyssey stays in the car.
 - **Arrest** - Agents forcibly arrest a man in the parking lot. They do not confirm his identity, do not allow him to show documentation, and do not allow him to speak with the Spanish-speaking agent present.
 - **Adyssey intervenes** - Adyssey Barrett approaches the scene, records on her phone, and asks agents to produce a judicial warrant.

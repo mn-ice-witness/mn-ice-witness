@@ -1,6 +1,47 @@
 {
   "incidents": [
     {
+      "filePath": "incidents/2026-02/20/2026-02-20-metro-surge-drawdown-500-agents.md",
+      "title": "Fewer Than 500 ICE Agents Remain; Observers Report Suburban Shift",
+      "summary": "U.S. Reps. Ilhan Omar and Angie Craig toured the Whipple Federal Building on February 20 and confirmed that fewer than 500 ICE agents remain in Minnesota, down from approximately 3,000 at the peak of Operation Metro Surge. The facility's holding cells were empty. ICE Field Office Director Sam Olson told the lawmakers that arrests had dropped to about 20 per day, deportation flights averaged two per week, and detainees were being held at four county jails. Border czar Tom Homan, who had returned to Washington, told CNN his goal was to reduce the Minnesota force to a \"regular footprint\" of 150 agents. However, community observers and elected officials reported that ICE had not left the suburbs \u2014 agents had shifted to stealthier tactics including unmarked vehicles, plain clothes, smaller teams, and surveillance at bus stops, parks, and hotels across Eden Prairie, Columbia Heights, Fridley, and other communities.",
+      "latestUpdate": null,
+      "correctionNote": null,
+      "date": "2026-02-20",
+      "time": "unknown",
+      "location": "Bishop Henry Whipple Federal Building, Fort Snelling",
+      "city": "Minneapolis",
+      "type": "background",
+      "status": "resolved",
+      "affectedIndividualCitizenship": "n/a",
+      "injuries": "none",
+      "trustworthiness": "high",
+      "created": "2026-02-23T13:31:45",
+      "lastUpdated": "2026-02-23T13:31:45",
+      "mediaCount": 0,
+      "notable": false,
+      "searchTags": [
+        "src:star-tribune",
+        "src:kstp",
+        "src:sahan-journal",
+        "src:mpr",
+        "src:fox9",
+        "src:mn-reformer",
+        "src:cnn"
+      ],
+      "hasLocalMedia": true,
+      "localMediaType": "image",
+      "localMediaPath": "media/2026-02/20/2026-02-20-metro-surge-drawdown-500-agents.jpg",
+      "localMediaOgPath": null,
+      "localMediaFiles": [
+        {
+          "type": "image",
+          "path": "media/2026-02/20/2026-02-20-metro-surge-drawdown-500-agents.jpg"
+        }
+      ],
+      "aspectRatio": 1.639344262295082,
+      "mediaVersion": 1771876298
+    },
+    {
       "filePath": "incidents/2026-02/13/2026-02-13-minneapolis-203m-economic-impact.md",
       "title": "Minneapolis Estimates $203 Million Economic Impact from Operation Metro Surge",
       "summary": "City of Minneapolis officials released a preliminary impact assessment showing Operation Metro Surge caused an estimated $203.1 million in documented economic damage to the city. The largest category was $81 million in business and restaurant losses, followed by $47 million in lost worker wages from people afraid to leave their homes. Emergency Management Director Rachel Sayre called the figures \"almost certainly undercounts.\"",

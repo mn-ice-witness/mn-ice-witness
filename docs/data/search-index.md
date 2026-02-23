@@ -16,10 +16,11 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (278 incidents)
+## CURRENT (280 incidents)
 
 Published incidents visible on the main site.
 
+- incidents/2026-02/20/2026-02-20-metro-surge-drawdown-500-agents.md | 2026-02-20 | Minneapolis | background | Fewer Than 500 ICE Agents Remain; Observers Report Suburban Shift
 - incidents/2026-02/19/2026-02-19-soto-jimenez-contempt-court-order-violated.md | 2026-02-19 | Big Lake | immigrants | Federal Judge Holds DOJ Attorney in Contempt After ICE Dumps Big Lake Man in Texas Without ID
 - incidents/2026-02/17/2026-02-17-mankato-ice-vehicle-crash.md | 2026-02-17 | Mankato | observers | ICE Vehicle Rams Resident's Car After Pursuit Near Mankato Public Safety Center
 - incidents/2026-02/16/2026-02-16-five-west-rochester-kitchen-workers.md | 2026-02-16 | Rochester | immigrants | Two Kitchen Workers Detained at Five West Restaurant in Rochester
@@ -167,7 +168,6 @@ Published incidents visible on the main site.
 - incidents/2026-01/14/2026-01-14-transition-plus-school-bus-rubber-bullets.md | 2026-01-14 | Minneapolis | schools-hospitals | Students on Transition Plus Bus Witness ICE Fire Rubber Bullets at Man
 - incidents/2026-01/14/2026-01-14-victor-diaz-custody-death.md | 2026-01-14 | Coon Rapids | immigrants | Victor Manuel Díaz Dies in ICE Custody at Camp East Montana After Coon Rapids Arrest
 - incidents/2026-01/14/2026-01-14-crystal-bus-stop-parent.md | 2026-01-14 | Crystal | schools-hospitals | Parent Detained by ICE at School Bus Stop While Waiting with Child
-- incidents/2026-01/2026-01-mid-willmar-goodwill-arrest.md | 2026-01-13 | Willmar | immigrants | Man and Wife Arrested by 12 ICE Agents in Willmar Goodwill Parking Lot; 15-Year-Old Threatened for Filming
 - incidents/2026-01/13/2026-01-13-bovino-cbs-interview.md | 2026-01-13 | Minneapolis | response | Border Patrol Commander Bovino CBS Interview
 - incidents/2026-01/13/2026-01-13-la-mexicana-st-peter.md | 2026-01-13 | St. Peter | immigrants | Customer Arrested While Buying Drink at St. Peter Grocery Store
 - incidents/2026-01/13/2026-01-13-ryan-ecklund-filming-detained.md | 2026-01-13 | Woodbury | observers | U.S. Citizen Detained 9 Hours for Filming ICE Agents
@@ -182,6 +182,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/13/2026-01-13-carondelet-school-lockdown.md | 2026-01-13 | Minneapolis | schools-hospitals | Carondelet Catholic School Lockdown During ICE Arrest Outside Building
 - incidents/2026-01/13/2026-01-13-teen-refugee-hotel-detention.md | 2026-01-13 | St. Cloud | citizens | Teen Refugee Handcuffed Driving to School, Held Overnight in Hotel Room with Federal Agents
 - incidents/2026-01/13/2026-01-13-kong-vang-frogtown.md | 2026-01-13 | St. Paul | citizens | Hmong U.S. Citizen Refuses to Open Door for Federal Agents
+- incidents/2026-01/13/2026-01-13-willmar-goodwill-arrest.md | 2026-01-13 | Willmar | immigrants | Man and Wife Arrested by 12 ICE Agents in Willmar Goodwill Parking Lot; 15-Year-Old Threatened for Filming
 - incidents/2026-01/13/2026-01-13-aliya-rahman-car-window-hospitalized.md | 2026-01-13 | Minneapolis | citizens | U.S. Citizen Aliya Rahman Dragged From Car, Hospitalized After ICE Assault
 - incidents/2026-01/13/2026-01-13-alex-vasquez-willmar-citizen.md | 2026-01-13 | Willmar | citizens | U.S. Citizen Handcuffed at Willmar Convenience Store, Driven Away, Released in Parking Lot
 - incidents/2026-01/12/2026-01-12-willmar-student-arrested.md | 2026-01-12 | Willmar | citizens, schools-hospitals | High School Student with Legal Status Arrested in Downtown Willmar
@@ -263,9 +264,10 @@ Published incidents visible on the main site.
 - incidents/2026-01/06/2026-01-06-mubashir-pepper-sprayed-filming.md | 2026-01-06 | Minneapolis | observers | U.S. Citizen Pepper-Sprayed by Federal Agent While Filming ICE Operations
 - incidents/2026-01/06/2026-01-06-yulexi-loor-tacuri-detained.md | 2026-01-06 | Minneapolis | immigrants | Ecuadorian Asylum Seeker Detained on School Run; Breastfeeding Infant Left Behind
 - incidents/2026-01/06/2026-01-06-el-fresco-restaurant-owner.md | 2026-01-06 | Bloomington | immigrants | Restaurant Owner Reported Missing, Confirmed Detained by ICE
-- incidents/2026-01/2026-01-early-wampash-tuntuam-10-children.md | 2026-01-05 | Minneapolis | immigrants | Indigenous Ecuadorian Mother Detained, Leaving 10 Children Including 5-Month-Old Infant
+- incidents/2026-01/05/2026-01-05-wampash-tuntuam-10-children.md | 2026-01-05 | Minneapolis | immigrants | Indigenous Ecuadorian Mother Detained, Leaving 10 Children Including 5-Month-Old Infant
+- incidents/2026-01/05/2026-01-05-sebastian-unaccompanied-minor-michigan.md | 2026-01-05 | Minneapolis | immigrants | Ecuadorian Teen Labeled "Unaccompanied Minor" by ICE, Sent to Michigan Shelter; Family Searched for Him for a Week
 - incidents/2026-01/02/2026-01-02-trunorth-solar-arden-hills.md | 2026-01-02 | Arden Hills | immigrants | ICE Raids TruNorth Solar Factory in Arden Hills - "First Big One of 2026"
-- incidents/2026-01/2026-01-unknown-rosemount-gun-threat.md | 2026-01-01 | Rosemount | observers | ICE Agent Waves Gun at Motorist in Rosemount
+- incidents/2026-01/01/2026-01-01-rosemount-gun-threat.md | 2026-01-01 | Rosemount | observers | ICE Agent Waves Gun at Motorist in Rosemount
 - incidents/2025-12/31/2025-12-31-hcmc-patient-shackled.md | 2025-12-31 | Minneapolis | immigrants, schools-hospitals | Patient Shackled to Hospital Bed by ICE for 28 Hours Without Warrant
 - incidents/2025-12/29/2025-12-29-ridgedale-courthouse-arrests.md | 2025-12-29 | Minnetonka | observers | Dozens of Armed ICE Agents Arrest Two Men at Ridgedale Library and Courthouse; Observer Shoved Twice
 - incidents/2025-12/26/2025-12-26-joseph-boman-observer.md | 2025-12-26 | Richfield | observers | U.S. Citizen Observer Photographed, Followed, and Arrested
@@ -293,8 +295,8 @@ Published incidents visible on the main site.
 - incidents/2025-12/03/2025-12-03-hola-arepa-warrantless-entry.md | 2025-12-03 | Minneapolis | immigrants | Hola Arepa Staff Refuses ICE Entry Without Warrant
 - incidents/2025-12/02/2025-12-02-ali-dahir-citizen-check.md | 2025-12-02 | Minneapolis | citizens | Citizen Check: U.S. Citizen Detained 30 Minutes Outside Apartment Despite Showing Passport
 - incidents/2025-12/02/2025-12-02-metro-transit-driver-detained.md | 2025-12-02 | Minneapolis | immigrants | Somali-American Metro Transit Bus Driver Detained Over a Month
-- incidents/2025-12/2025-12-early-lomabonita-jose.md | 2025-12-01 | St. Paul (East Side) | immigrants | Man With Legal Protection Status Detained at Restaurant; Vehicle Abandoned
 - incidents/2025-12/01/2025-12-01-operation-metro-surge-launched.md | 2025-12-01 | Minneapolis | background | DHS Launches Operation Metro Surge
+- incidents/2025-12/01/2025-12-01-lomabonita-jose.md | 2025-12-01 | St. Paul (East Side) | immigrants | Man With Legal Protection Status Detained at Restaurant; Vehicle Abandoned
 - incidents/2025-11/25/2025-11-25-jeffrey-suazo-st-paul.md | 2025-11-25 | St. Paul | immigrants | House Painter Arrested After 5-Hour Standoff; Family Reports Humiliation, No Warrant Shown
 - incidents/2025-11/18/2025-11-18-brotex-st-paul-raid.md | 2025-11-18 | St. Paul | immigrants | 14 Workers Detained in Major ICE Workplace Raid at Bro-Tex
 - incidents/2025-11/11/2025-11-11-northfield-nunez-gonzalez-arrest.md | 2025-11-11 | Northfield | immigrants | Adán Núñez Gonzalez Forcibly Arrested in Northfield, Son Records

@@ -1444,39 +1444,6 @@
       "mediaVersion": 1770404372
     },
     {
-      "filePath": "incidents/2026-01/2026-01-mid-willmar-goodwill-arrest.md",
-      "title": "Man and Wife Arrested by 12 ICE Agents in Willmar Goodwill Parking Lot; 15-Year-Old Threatened for Filming",
-      "summary": "Twelve ICE agents in six vehicles arrested a man and his wife in the Goodwill parking lot in Willmar. Agents did not confirm the man's identity, did not allow him to show documentation, and did not allow him to speak with the Spanish-speaking ICE agent on scene. Fifteen-year-old Adyssey Barrett recorded the arrest on her phone and asked agents to produce a judicial warrant; agents threatened to arrest her. The wife was also handcuffed despite agents yelling confused questions about who she was.",
-      "latestUpdate": null,
-      "correctionNote": null,
-      "date": "2026-01-13",
-      "time": "unknown",
-      "location": "Goodwill parking lot",
-      "city": "Willmar",
-      "type": "immigrants",
-      "status": "ongoing",
-      "affectedIndividualCitizenship": "unknown",
-      "injuries": "none",
-      "trustworthiness": "medium",
-      "created": "2026-02-08T22:53:33",
-      "lastUpdated": "2026-02-08T22:53:33",
-      "mediaCount": 0,
-      "notable": false,
-      "searchTags": [
-        "observer-intimidated",
-        "children",
-        "src:other-local",
-        "src:other-national"
-      ],
-      "hasLocalMedia": false,
-      "localMediaType": null,
-      "localMediaPath": null,
-      "localMediaOgPath": null,
-      "localMediaFiles": [],
-      "aspectRatio": null,
-      "mediaVersion": null
-    },
-    {
       "filePath": "incidents/2026-01/13/2026-01-13-la-mexicana-st-peter.md",
       "title": "Customer Arrested While Buying Drink at St. Peter Grocery Store",
       "summary": "ICE agents arrested a customer at La Mexicana Market and Restaurant in St. Peter moments after he biked to the store and while he was paying for a drink. When asked for a warrant, agents said they didn't need one. Business reported significant drop in customers due to fear.",
@@ -1562,6 +1529,39 @@
         "workplace-raid",
         "warrantless-entry",
         "src:other-local"
+      ],
+      "hasLocalMedia": false,
+      "localMediaType": null,
+      "localMediaPath": null,
+      "localMediaOgPath": null,
+      "localMediaFiles": [],
+      "aspectRatio": null,
+      "mediaVersion": null
+    },
+    {
+      "filePath": "incidents/2026-01/13/2026-01-13-willmar-goodwill-arrest.md",
+      "title": "Man and Wife Arrested by 12 ICE Agents in Willmar Goodwill Parking Lot; 15-Year-Old Threatened for Filming",
+      "summary": "Twelve ICE agents in six vehicles arrested a man and his wife in the Goodwill parking lot in Willmar. Agents did not confirm the man's identity, did not allow him to show documentation, and did not allow him to speak with the Spanish-speaking ICE agent on scene. Fifteen-year-old Adyssey Barrett recorded the arrest on her phone and asked agents to produce a judicial warrant; agents threatened to arrest her. The wife was also handcuffed despite agents yelling confused questions about who she was.",
+      "latestUpdate": null,
+      "correctionNote": null,
+      "date": "2026-01-13",
+      "time": "unknown",
+      "location": "Goodwill parking lot",
+      "city": "Willmar",
+      "type": "immigrants",
+      "status": "ongoing",
+      "affectedIndividualCitizenship": "unknown",
+      "injuries": "none",
+      "trustworthiness": "medium",
+      "created": "2026-02-08T22:53:33",
+      "lastUpdated": "2026-02-08T22:53:33",
+      "mediaCount": 0,
+      "notable": false,
+      "searchTags": [
+        "observer-intimidated",
+        "children",
+        "src:other-local",
+        "src:other-national"
       ],
       "hasLocalMedia": false,
       "localMediaType": null,
@@ -2546,9 +2546,9 @@
       "mediaVersion": null
     },
     {
-      "filePath": "incidents/2026-01/2026-01-early-wampash-tuntuam-10-children.md",
+      "filePath": "incidents/2026-01/05/2026-01-05-wampash-tuntuam-10-children.md",
       "title": "Indigenous Ecuadorian Mother Detained, Leaving 10 Children Including 5-Month-Old Infant",
-      "summary": "Melida Rita Wampash Tuntuam, a 41-year-old Indigenous Ecuadorian mother who worked as an office cleaner, was detained by ICE in early January. She left behind 10 children, including a 5-month-old infant who is a U.S. citizen. Her 20-year-old son quit his restaurant job to care for his siblings. ICE agents surrounded the family's home twice seeking additional family members. Community volunteers have been sheltering the children at a safe house in south Minneapolis.",
+      "summary": "Melida Rita Wampash Tuntuam, a 41-year-old Indigenous Ecuadorian mother who worked as an office cleaner, was detained by ICE in early January. She left behind 10 children, including a 5-month-old infant who is a U.S. citizen. Her 20-year-old son quit his restaurant job to care for his siblings. ICE agents surrounded the family's home twice seeking additional family members. Community volunteers have been sheltering the children at a safe house in south Minneapolis. (Exact date unknown; estimated as early January 2026 based on reporting.)",
       "latestUpdate": null,
       "correctionNote": null,
       "date": "2026-01-05",
@@ -2577,6 +2577,43 @@
       "localMediaFiles": [],
       "aspectRatio": null,
       "mediaVersion": null
+    },
+    {
+      "filePath": "incidents/2026-01/05/2026-01-05-sebastian-unaccompanied-minor-michigan.md",
+      "title": "Ecuadorian Teen Labeled \"Unaccompanied Minor\" by ICE, Sent to Michigan Shelter; Family Searched for Him for a Week",
+      "summary": "A 16-year-old Ecuadorian asylum-seeker was detained by ICE while driving alone in north Minneapolis in early January. Despite having a father living in the U.S., agents labeled him an \"unaccompanied minor,\" assigned him a new alien number, and transferred him to a federally contracted youth shelter in Michigan. The government lost track of his whereabouts for nearly a week while his family and attorney searched for him. His attorney traced his location through phone records and retrieved him in person on January 26. (Exact date of detention unknown; estimated as January 5 based on timeline details in reporting.)",
+      "latestUpdate": null,
+      "correctionNote": null,
+      "date": "2026-01-05",
+      "time": "unknown",
+      "location": "North Minneapolis",
+      "city": "Minneapolis",
+      "type": "immigrants",
+      "status": "resolved",
+      "affectedIndividualCitizenship": "asylum-seeker",
+      "injuries": "none",
+      "trustworthiness": "medium",
+      "created": "2026-02-23T13:27:00",
+      "lastUpdated": "2026-02-23T13:27:00",
+      "mediaCount": 0,
+      "notable": false,
+      "searchTags": [
+        "children",
+        "family-separation",
+        "src:star-tribune"
+      ],
+      "hasLocalMedia": true,
+      "localMediaType": "image",
+      "localMediaPath": "media/2026-01/05/2026-01-05-sebastian-unaccompanied-minor-michigan.jpg",
+      "localMediaOgPath": null,
+      "localMediaFiles": [
+        {
+          "type": "image",
+          "path": "media/2026-01/05/2026-01-05-sebastian-unaccompanied-minor-michigan.jpg"
+        }
+      ],
+      "aspectRatio": 1.4218009478672986,
+      "mediaVersion": 1771876120
     },
     {
       "filePath": "incidents/2026-01/02/2026-01-02-trunorth-solar-arden-hills.md",
@@ -3018,9 +3055,9 @@
       "mediaVersion": null
     },
     {
-      "filePath": "incidents/2025-12/2025-12-early-lomabonita-jose.md",
+      "filePath": "incidents/2025-12/01/2025-12-01-lomabonita-jose.md",
       "title": "Man With Legal Protection Status Detained at Restaurant; Vehicle Abandoned",
-      "summary": "Jose, a Salvadoran immigrant with legal withholding-of-removal protection status (a form of legal protection meant to prevent deportation), was pulled over and detained by federal agents while getting lunch at Lomabonita in East St. Paul. Agents took his vehicle and abandoned it on a side street at Margaret Street and White Bear Avenue with his construction tools still inside.",
+      "summary": "Jose, a Salvadoran immigrant with legal withholding-of-removal protection status (a form of legal protection meant to prevent deportation), was pulled over and detained by federal agents while getting lunch at Lomabonita in East St. Paul. Agents took his vehicle and abandoned it on a side street at Margaret Street and White Bear Avenue with his construction tools still inside. (Exact date unknown; estimated as early December 2025 based on reporting.)",
       "latestUpdate": null,
       "correctionNote": null,
       "date": "2025-12-01",
