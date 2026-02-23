@@ -378,6 +378,14 @@ docs/incidents/2026-01/2026-01-early-description-slug.md
 
 **If you want to include a detail:** Find a source that explicitly states it. If you can't find one, use the more general language from existing sources.
 
+### Incident Brevity — The Cardinal Rule
+
+**Incidents are brief summaries with curated links.** The body of an incident file should not be much longer than its Summary section. Our value is the cross-referenced summary and the curated source list — not retelling the story. Readers click through to the sources for full details.
+
+**Do not create narrative sections** (What Happened, Whipple Building Visit, Suburban Shift, etc.) that reproduce what's in the linked articles. If a section is based primarily on a single source, it should not exist — that's not fair use, and it's not our role. Link to the source and let readers read it there.
+
+**Structure of a good incident:** Frontmatter → Title → Summary (2-5 sentences of bare facts) → Sources (numbered, linked) → Related Incidents (if applicable) → Editorial Assessment. That's it for most incidents. Only add additional sections when synthesizing genuinely new analysis across 5+ sources.
+
 ### Fair Use and Summary Length
 
 **Our entries must not replace the original article.** This is both a legal requirement (copyright fair use) and an ethical one — we want to drive readers to the journalists who did the reporting, not substitute for them.

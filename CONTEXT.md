@@ -159,6 +159,9 @@ Incidents with `trustworthiness: no-news-media` are **hidden from the main page*
 
 Icons are defined in `docs/index.html`. See `dev-docs/ui-patterns.md` for the full list.
 
+### Incident Brevity — Links Over Duplication
+**Incidents are brief summaries with links, not article reproductions.** The body of an incident file should not be much longer than its Summary section. Our entries are curated link collections — the value is cross-referencing sources and giving readers one place to click through to full coverage. Do not reproduce details, quotes, timelines, or narrative sections that exist in the linked articles. If a section is based primarily on a single source, it should not exist — link to that source and let readers read it there.
+
 ### Sources Must Have Links
 **No link = not a source.** Every source in an incident file must link to a specific page about that incident. General homepages or profile pages don't count.
 
