@@ -151,3 +151,11 @@ source: https://www.npr.org/2026/02/13/nx-s1-5713947/immigration-agents-lie-minn
 image: false
 ---
 The DOJ dropped all criminal charges against Julio Sosa-Celis and Alfredo Aljorna with prejudice after video evidence proved "materially inconsistent" with the agents' sworn claims. The same day, ICE Director Todd Lyons announced a joint criminal perjury probe with DOJ — the two officers who testified under oath were placed on administrative leave and face potential criminal prosecution. It was the first time ICE leadership publicly acknowledged agents may have lied about a shooting during Operation Metro Surge.
+
+---
+date: 2026-02-20
+title: Fewer Than 500 Agents Remain; Homan Promises 150 Within a Week
+incident: 2026-02-20-metro-surge-drawdown-500-agents
+source:
+---
+Reps. Omar and Craig toured the Whipple Building and confirmed fewer than 500 ICE agents remained — down from ~3,000 at the peak. Holding cells were empty. Homan, back in Washington, told CNN: "We should be back to regular footprint within a week" — targeting 150 agents, and framed the operation as a [template for other cities](https://www.cnn.com/2026/02/20/politics/trump-immigration-strategy-homan-bovino). But on the ground, observers reported the opposite of withdrawal — agents had [shifted to the suburbs](/entry/2026-02-20-metro-surge-drawdown-500-agents) in plain clothes, unmarked vehicles, and smaller teams, staging at bus stops, parks, and hotels across Eden Prairie, Columbia Heights, and Fridley. "As far as Homan's announcement of a drawdown, there's no difference," said State Rep. Alex Falconer. "In fact, it's become a little worse."

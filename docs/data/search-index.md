@@ -20,7 +20,7 @@ When searching for incidents or checking if something already exists:
 
 Published incidents visible on the main site.
 
-- incidents/2026-02/20/2026-02-20-metro-surge-drawdown-500-agents.md | 2026-02-20 | Minneapolis | background | Fewer Than 500 ICE Agents Remain; Observers Report Suburban Shift
+- incidents/2026-02/20/2026-02-20-metro-surge-drawdown-500-agents.md | 2026-02-20 | Minneapolis | background | Fewer Than 500 ICE Agents Remain; Homan Promises 150 Within a Week; Observers Report Suburban Shift
 - incidents/2026-02/19/2026-02-19-soto-jimenez-contempt-court-order-violated.md | 2026-02-19 | Big Lake | immigrants | Federal Judge Holds DOJ Attorney in Contempt After ICE Dumps Big Lake Man in Texas Without ID
 - incidents/2026-02/17/2026-02-17-mankato-ice-vehicle-crash.md | 2026-02-17 | Mankato | observers | ICE Vehicle Rams Resident's Car After Pursuit Near Mankato Public Safety Center
 - incidents/2026-02/16/2026-02-16-five-west-rochester-kitchen-workers.md | 2026-02-16 | Rochester | immigrants | Two Kitchen Workers Detained at Five West Restaurant in Rochester
