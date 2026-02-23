@@ -88,15 +88,6 @@ const IncidentParser = {
         return labels[citizenship] || citizenship;
     },
 
-    formatTrustLabel(trust) {
-        const labels = {
-            'high': 'High Trust',
-            'medium': 'Medium Trust',
-            'low': 'Low Trust',
-            'no-news-media': 'No News Media'
-        };
-        return labels[trust] || trust;
-    },
 
     formatDate(dateStr) {
         if (!dateStr || dateStr === 'Unknown') return dateStr;

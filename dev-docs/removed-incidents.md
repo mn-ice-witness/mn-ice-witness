@@ -89,7 +89,6 @@ Add an update noting the removal:
 | `docs/js/router.js` | Added `/removed` route |
 | `docs/js/app.js` | `getFilteredIncidents()` filters out `removed`; added `getRemovedIncidents()` |
 | `docs/js/lightbox.js` | Added `openRemoved()`, `renderRemovedContent()`, `setupRemovedLinks()` |
-| `docs/css/style.css` | Added `.about-badge-removed` styling |
 | `docs/about.md` | Added Removed Incidents section and link |
 
 ## Example: Oglala Sioux Incidents

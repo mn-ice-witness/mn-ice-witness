@@ -56,9 +56,6 @@
     --color-border: #e2e2e2;
     --color-border-dark: #cccccc;
 
-    --trust-high: #1a7f37;
-    --trust-medium: #bf8700;
-    --trust-low: #cf222e;
 
     --type-observers: #0969da;
     --type-immigrants: #8250df;
@@ -1667,9 +1664,6 @@ body {
     letter-spacing: 0.03em;
 }
 
-.meta-tag-trust-high { background: #d1f7c4; color: var(--trust-high); }
-.meta-tag-trust-medium { background: #fff3cd; color: #856404; }
-.meta-tag-trust-low { background: #ffebe9; color: var(--trust-low); }
 .meta-tag-citizen { background: #ffeff7; color: var(--type-citizens); }
 .meta-tag-fatal { background: #ffebe9; color: var(--type-fatal); }
 
@@ -2363,38 +2357,6 @@ body {
     color: #7ba3c9;
 }
 
-/* About page trustworthiness badges */
-.about-badge {
-    color: white;
-    padding: 2px 6px;
-    border-radius: 2px;
-    font-size: 0.75em;
-    font-weight: 700;
-}
-
-.about-badge-high {
-    background: var(--trust-high);
-}
-
-.about-badge-medium {
-    background: var(--trust-medium);
-}
-
-.about-badge-low {
-    background: var(--trust-low);
-}
-
-.about-badge-no-news-media {
-    background: #999;
-}
-
-.about-badge-removed {
-    background: #b35900;
-}
-
-.about-badge-corrected {
-    background: #2563eb;
-}
 
 /* Incident inline notes (e.g., Operation PARRIS pattern) */
 .incident-note {

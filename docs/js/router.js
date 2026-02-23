@@ -13,7 +13,7 @@ const Router = {
     sectionHashes: ['citizens', 'observers', 'immigrants', 'schools', 'response', 'background'],
 
     // About page section anchors
-    aboutSections: ['see-also', 'federal-position', 'the-data', 'what-this-site-documents', 'purpose', 'sources-used', 'investigations', 'operation-parris', 'trustworthiness', 'legal-observation'],
+    aboutSections: ['see-also', 'federal-position', 'the-data', 'what-this-site-documents', 'purpose', 'sources-used', 'investigations', 'operation-parris', 'legal-observation'],
 
     /**
      * Build a clean path-based URL

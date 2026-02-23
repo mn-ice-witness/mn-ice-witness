@@ -66,10 +66,6 @@ function buildAboutOgTags(origin, section) {
       title: 'Operation Parris',
       description: 'Information about Operation Parris and ICE enforcement in Minnesota.',
     },
-    'trustworthiness': {
-      title: 'Trustworthiness Ratings',
-      description: 'How MN ICE Witness rates the reliability of incident reports.',
-    },
     'legal-observation': {
       title: 'Legal Observation',
       description: 'Know your rights when observing ICE operations.',

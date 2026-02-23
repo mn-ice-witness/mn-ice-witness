@@ -100,7 +100,6 @@ All icons are defined in `docs/index.html`. Reference with `<use href="#icon-nam
 | `icon-mute-x` | Speaker with X | Volume muted |
 | `icon-fullscreen-enter` | Expanding corners | Enter fullscreen |
 | `icon-fullscreen-exit` | Contracting corners | Exit fullscreen |
-| `icon-trust` | Shield with check | Trustworthiness indicator |
 | `icon-search` | Magnifying glass | Search button |
 | `icon-facebook` | Facebook logo | Social media links |
 | `icon-x` | X (Twitter) logo | Social media links |
@@ -141,8 +140,6 @@ When adding new icons, add them to `docs/index.html` and document here.
 | `.about-callout-box` | about.md | Icon legend box |
 | `.about-note` | about.md | Italic note paragraphs |
 | `.about-external-callout` | about.md | External link callout |
-| `.about-badge` | about.md | Trustworthiness badges base |
-| `.about-badge-high/medium/low/no-news-media` | about.md | Badge colors |
 | `.incident-note` | incident files | Styled inline notes |
 | `.media-icon` | various | Camera icon color |
 | `.viewed-icon` | various | Eye icon color |
