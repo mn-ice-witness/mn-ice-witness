@@ -12,22 +12,6 @@
  */
 
 const LightboxContent = {
-    /**
-     * Trust level explanations
-     */
-    trustExplanations: {
-        high: '3+ independent sources with video/photo evidence',
-        medium: '2 sources or official statements',
-        low: 'Single source or social media only',
-        'no-news-media': 'No news media coverage'
-    },
-
-    /**
-     * Get explanation for trust level
-     */
-    getTrustExplanation(level) {
-        return this.trustExplanations[level] || '';
-    },
 
     /**
      * Render local media (video or image) for an incident
@@ -196,21 +180,13 @@ const LightboxContent = {
             ${timestampHtml}
         `;
 
-        const trustFooter = `
-            <div class="incident-trust-footer">
-                <svg class="trust-icon" viewBox="0 0 24 24" width="16" height="16"><use href="#icon-trust"/></svg>
-                <span class="trust-badge trust-${incident.trustworthiness}">${incident.trustworthiness.toUpperCase()}</span>
-                <span class="trust-explanation">${this.getTrustExplanation(incident.trustworthiness)}</span>
-            </div>
-        `;
-
         let bodyHtml = marked.parse(incident.body);
         bodyHtml = this.embedVideos(bodyHtml);
 
         // Insert local media after the H1 title
         bodyHtml = bodyHtml.replace(/(<\/h1>)/, `$1${localMedia}`);
 
-        return header + bodyHtml + trustFooter;
+        return header + bodyHtml;
     },
 
     /**

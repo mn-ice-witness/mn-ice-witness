@@ -1321,51 +1321,6 @@ body {
     opacity: 0.8;
 }
 
-.trust-badge {
-    font-size: 0.5rem;
-    font-weight: 700;
-    color: white;
-    padding: 2px 4px;
-    border-radius: 2px;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-}
-
-.trust-high { background: var(--trust-high); }
-.trust-medium { background: var(--trust-medium); }
-.trust-low { background: var(--trust-low); }
-.trust-no-news-media { background: #999; }
-
-.trust-badge {
-    position: relative;
-    cursor: pointer;
-}
-
-.trust-badge::after {
-    content: attr(data-tooltip);
-    position: absolute;
-    top: 100%;
-    right: 0;
-    background: #333;
-    color: white;
-    padding: 6px 10px;
-    border-radius: 4px;
-    font-size: 0.7rem;
-    font-weight: 400;
-    letter-spacing: 0;
-    text-transform: none;
-    white-space: nowrap;
-    opacity: 0;
-    visibility: hidden;
-    transition: opacity 0.2s, visibility 0.2s;
-    margin-top: 6px;
-    z-index: 10;
-}
-
-.trust-badge:hover::after {
-    opacity: 1;
-    visibility: visible;
-}
 
 /* ==================== LIGHTBOX ==================== */
 
@@ -1651,27 +1606,6 @@ body {
     color: var(--color-text-secondary);
 }
 
-/* Trust Footer in Incident View */
-.incident-trust-footer {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    margin-top: 32px;
-    padding-top: 20px;
-    border-top: 1px solid var(--color-border);
-    color: var(--color-text-secondary);
-    font-size: 0.85rem;
-}
-
-.trust-icon {
-    flex-shrink: 0;
-    color: var(--color-text-muted);
-}
-
-.trust-explanation {
-    color: var(--color-text-muted);
-    font-style: italic;
-}
 
 .not-found-content {
     max-width: 700px;
