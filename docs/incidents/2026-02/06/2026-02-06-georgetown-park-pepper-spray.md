@@ -7,7 +7,6 @@ type: immigrants
 status: resolved
 affected_individual_citizenship: unknown
 injuries: minor
-trustworthiness: medium
 created: 2026-02-06T23:06:33
 last_updated: 2026-02-06T23:06:33
 search_tags: observer-intimidated, chemical-agents, excessive-force, src:bring-me-the-news

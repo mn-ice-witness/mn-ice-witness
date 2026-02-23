@@ -7,7 +7,6 @@ type: schools-hospitals
 status: ongoing
 affected_individual_citizenship: unknown
 injuries: none
-trustworthiness: no-news-media
 created: 2026-02-03T21:25:21
 last_updated: 2026-02-03T21:25:21
 search_tags: workplace-raid

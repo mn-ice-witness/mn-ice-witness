@@ -7,7 +7,6 @@ type: background
 status: resolved
 affected_individual_citizenship: unknown
 injuries: none
-trustworthiness: high
 created: 2026-01-19T09:57:48
 last_updated: 2026-02-08T09:53:06
 search_tags: src:wcco, src:sahan-journal, src:kstp, src:pioneer-press, src:mn-reformer, src:other-local

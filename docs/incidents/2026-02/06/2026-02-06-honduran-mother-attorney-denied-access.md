@@ -7,7 +7,6 @@ type: immigrants
 status: resolved
 affected_individual_citizenship: asylum-seeker
 injuries: none
-trustworthiness: medium
 created: 2026-02-07T14:12:42
 last_updated: 2026-02-07T14:12:42
 search_tags: legal-resident, family-separation, src:wcco

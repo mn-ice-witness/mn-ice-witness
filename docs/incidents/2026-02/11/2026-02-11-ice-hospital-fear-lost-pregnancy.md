@@ -7,7 +7,6 @@ type: schools-hospitals
 status: ongoing
 affected_individual_citizenship: various
 injuries: serious
-trustworthiness: high
 created: 2026-02-12T14:36:06
 last_updated: 2026-02-12T14:36:06
 search_tags: src:npr, src:mpr, src:pbs, src:other-national, src:sahan-journal

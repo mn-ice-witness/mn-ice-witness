@@ -7,7 +7,6 @@ type: response
 status: under-investigation
 affected_individual_citizenship: us-citizen
 injuries: fatal
-trustworthiness: high
 created: 2026-01-24T13:40:15
 last_updated: 2026-02-07T14:50:30
 search_tags: shooting, src:fox9, src:fox-news, src:npr, src:wcco, src:other-national

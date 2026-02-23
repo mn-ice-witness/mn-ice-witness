@@ -7,7 +7,6 @@ type: immigrants
 status: resolved
 affected_individual_citizenship: asylum-seeker
 injuries: serious
-trustworthiness: low
 created: 2026-02-14T21:59:38
 last_updated: 2026-02-14T21:59:38
 search_tags: excessive-force, chemical-agents, legal-resident, src:sahan-journal

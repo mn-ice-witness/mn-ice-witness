@@ -124,10 +124,7 @@ const MediaGallery = {
 
         columns.forEach(col => gallery.appendChild(col.element));
 
-        // No-news-media section at the bottom
-        const noNewsMediaIncidents = App.incidents.filter(i =>
-            i.trustworthiness === 'no-news-media' && i.hasLocalMedia
-        );
+        const noNewsMediaIncidents = [];
         if (noNewsMediaIncidents.length > 0) {
             const sectionHeader = document.createElement('div');
             sectionHeader.className = 'media-gallery-section-header';

@@ -7,7 +7,6 @@ type: schools-hospitals
 status: resolved
 affected_individual_citizenship: unknown
 injuries: none
-trustworthiness: high
 created: 2026-01-30T14:27:01
 last_updated: 2026-01-30T14:27:01
 search_tags: children, src:kare11

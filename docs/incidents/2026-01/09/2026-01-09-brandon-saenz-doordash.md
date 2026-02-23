@@ -7,7 +7,6 @@ type: immigrants
 status: ongoing
 affected_individual_citizenship: unknown
 injuries: none
-trustworthiness: medium
 created: 2026-01-21T16:38:05
 last_updated: 2026-01-21T16:38:05
 search_tags: family-separation, children, native-american, src:other-national

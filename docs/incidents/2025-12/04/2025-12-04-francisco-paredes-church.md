@@ -7,7 +7,6 @@ type: immigrants
 status: resolved
 affected_individual_citizenship: undocumented
 injuries: none
-trustworthiness: high
 created: 2026-01-14T08:33:42
 last_updated: 2026-02-08T15:36:25
 search_tags: family-separation, src:star-tribune, src:other-national

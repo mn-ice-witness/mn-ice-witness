@@ -7,7 +7,6 @@ type: observers
 status: resolved
 affected_individual_citizenship: n/a
 injuries: none
-trustworthiness: high
 created: 2026-01-28T08:28:50
 last_updated: 2026-01-28T08:28:50
 search_tags: warrantless-entry, src:wapo, src:kare11, src:mpr, src:other-national

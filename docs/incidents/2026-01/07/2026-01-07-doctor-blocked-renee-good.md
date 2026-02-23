@@ -7,7 +7,6 @@ type: observers
 status: resolved
 affected_individual_citizenship: unknown
 injuries: none
-trustworthiness: high
 created: 2026-01-17T23:35:39
 last_updated: 2026-01-20T22:44:32
 search_tags: us-citizen, observer-intimidated, shooting, src:mpr, src:star-tribune, src:cnn, src:kare11, src:other-local, src:other-national

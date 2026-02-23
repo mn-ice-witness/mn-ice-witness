@@ -7,7 +7,6 @@ type: immigrants
 status: resolved
 affected_individual_citizenship: unknown
 injuries: none
-trustworthiness: high
 created: 2026-02-12T09:46:25
 last_updated: 2026-02-12T09:46:25
 search_tags: excessive-force, warrantless-entry, src:other-local

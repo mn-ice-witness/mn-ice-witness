@@ -7,7 +7,6 @@ type: citizens
 status: under-investigation
 affected_individual_citizenship: us-citizen
 injuries: serious
-trustworthiness: high
 created: 2026-01-15T23:23:27
 last_updated: 2026-02-12T14:39:36
 search_tags: us-citizen, excessive-force, src:sahan-journal, src:other-national, src:nbc, src:cbs, src:cnn, src:pbs, src:abc, src:fox9, src:mother-jones, src:mpr

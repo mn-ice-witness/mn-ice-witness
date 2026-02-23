@@ -7,7 +7,6 @@ type: observers
 status: resolved
 affected_individual_citizenship: us-citizen
 injuries: none
-trustworthiness: high
 created: 2026-02-08T10:15:13
 last_updated: 2026-02-08T10:15:13
 search_tags: us-citizen, observer-intimidated, shooting, vehicle-pursuit, src:mpr, src:mn-reformer

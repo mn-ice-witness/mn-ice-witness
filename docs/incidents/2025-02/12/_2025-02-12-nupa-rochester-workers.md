@@ -7,7 +7,6 @@ type: immigrants
 status: resolved
 affected_individual_citizenship: undocumented
 injuries: none
-trustworthiness: high
 created: 2026-01-14T12:22:11
 last_updated: 2026-01-14T12:22:11
 search_tags: workplace-raid, src:star-tribune, src:bring-me-the-news, src:other-local

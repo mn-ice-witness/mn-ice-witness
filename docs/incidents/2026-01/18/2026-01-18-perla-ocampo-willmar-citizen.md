@@ -7,7 +7,6 @@ type: citizens
 status: resolved
 affected_individual_citizenship: us-citizen
 injuries: none
-trustworthiness: medium
 created: 2026-02-02T22:22:30
 last_updated: 2026-02-02T22:22:30
 search_tags: us-citizen, excessive-force, citizen-check, src:other-national, src:other-local

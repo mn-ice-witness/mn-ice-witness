@@ -7,7 +7,6 @@ type: schools-hospitals, immigrants
 status: ongoing
 affected_individual_citizenship: legal-resident
 injuries: none
-trustworthiness: medium
 created: 2026-01-25T21:18:19
 last_updated: 2026-02-09T21:12:05
 search_tags: legal-resident, children, src:star-tribune, src:kare11

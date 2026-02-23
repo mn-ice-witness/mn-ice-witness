@@ -7,7 +7,6 @@ type: immigrants
 status: ongoing
 affected_individual_citizenship: undocumented
 injuries: none
-trustworthiness: high
 created: 2026-01-14T08:38:51
 last_updated: 2026-01-14T08:38:51
 search_tags: chemical-agents, observer-intimidated, warrantless-entry, vehicle-pursuit, src:sahan-journal, src:star-tribune

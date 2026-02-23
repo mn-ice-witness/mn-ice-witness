@@ -7,7 +7,6 @@ type: citizens
 status: resolved
 affected_individual_citizenship: us-citizen
 injuries: serious
-trustworthiness: medium
 created: 2026-01-16T22:28:22
 last_updated: 2026-01-16T22:28:22
 search_tags: us-citizen, excessive-force, workplace-raid, src:sahan-journal

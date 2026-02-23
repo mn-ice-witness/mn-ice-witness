@@ -7,7 +7,6 @@ type: observers
 status: ongoing
 affected_individual_citizenship: us-citizen
 injuries: none
-trustworthiness: high
 created: 2026-02-03T16:00:00
 last_updated: 2026-02-03T16:00:00
 search_tags: us-citizen, observer-intimidated, src:mn-reformer, src:other-national

@@ -7,7 +7,6 @@ type: schools-hospitals
 status: ongoing
 affected_individual_citizenship: unknown
 injuries: none
-trustworthiness: medium
 created: 2026-01-28T08:28:50
 last_updated: 2026-01-28T08:28:50
 search_tags: children, chemical-agents, src:other-national

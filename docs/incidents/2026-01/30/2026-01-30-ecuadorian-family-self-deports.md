@@ -7,7 +7,6 @@ type: immigrants
 status: resolved
 affected_individual_citizenship: asylum-seeker
 injuries: none
-trustworthiness: high
 created: 2026-02-09T21:32:32
 last_updated: 2026-02-09T21:32:32
 search_tags: children, src:kstp, src:other-national

@@ -9,6 +9,7 @@
 
 
 
+
 juan-carlos-brutality
 aliya-rahman-car-window-hospitalized
 speedway-st-paul
@@ -158,3 +159,6 @@ ricky-chandee-laos-deportation
 pablo-nieves-plymouth-home-depot
 sebastian-unaccompanied-minor-michigan
 metro-surge-drawdown-500-agents
+columbia-heights-officer-threatens-observer
+oglala-sioux-still-detained
+shamrai-ukrainian-asylum-seeker

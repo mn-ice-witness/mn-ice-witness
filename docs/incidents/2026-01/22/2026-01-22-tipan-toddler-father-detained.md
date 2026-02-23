@@ -7,7 +7,6 @@ type: immigrants
 status: ongoing
 affected_individual_citizenship: asylum-seeker
 injuries: none
-trustworthiness: high
 created: 2026-01-23T12:05:09
 last_updated: 2026-01-23T19:21:21
 search_tags: children, family-separation, chemical-agents, warrantless-entry, src:nbc, src:kare11, src:bring-me-the-news, src:star-tribune, src:kstp, src:sahan-journal, src:mpr

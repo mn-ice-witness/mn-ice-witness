@@ -7,7 +7,6 @@ type: observers
 status: resolved
 affected_individual_citizenship: us-citizen
 injuries: minor
-trustworthiness: high
 created: 2026-01-31T11:05:22
 last_updated: 2026-02-09T21:12:05
 search_tags: observer-detained, us-citizen, excessive-force, shooting, vehicle-pursuit, src:npr, src:mpr, src:other-national, src:other-local, src:bring-me-the-news

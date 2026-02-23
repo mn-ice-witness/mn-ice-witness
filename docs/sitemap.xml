@@ -973,6 +973,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://mn-ice-witness.org/entry/2026-01-14-oglala-sioux-still-detained</loc>
+    <lastmod>2026-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://mn-ice-witness.org/entry/2026-01-14-crystal-bus-stop-parent</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -1359,6 +1365,12 @@
   <url>
     <loc>https://mn-ice-witness.org/entry/2026-01-08-rochester-gates-complex</loc>
     <lastmod>2026-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://mn-ice-witness.org/entry/2026-01-08-little-earth-native-americans</loc>
+    <lastmod>2026-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

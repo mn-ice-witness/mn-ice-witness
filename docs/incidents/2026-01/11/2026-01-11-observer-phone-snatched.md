@@ -7,7 +7,6 @@ type: observers
 status: resolved
 affected_individual_citizenship: unknown
 injuries: none
-trustworthiness: low
 created: 2026-01-20T13:41:49
 last_updated: 2026-01-20T13:41:49
 search_tags: observer-intimidated

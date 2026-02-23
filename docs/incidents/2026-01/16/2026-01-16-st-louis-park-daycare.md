@@ -7,7 +7,6 @@ type: schools-hospitals
 status: resolved
 affected_individual_citizenship: unknown
 injuries: none
-trustworthiness: medium
 created: 2026-01-17T11:14:22
 last_updated: 2026-01-17T11:14:22
 search_tags: children, observer-intimidated, src:bring-me-the-news, src:other-national

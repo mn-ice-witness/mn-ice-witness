@@ -7,7 +7,6 @@ type: immigrants
 status: under-investigation
 affected_individual_citizenship: undocumented
 injuries: fatal
-trustworthiness: high
 created: 2026-02-06T12:47:33
 last_updated: 2026-02-06T12:47:33
 search_tags: workplace-raid, src:sahan-journal, src:kstp, src:other-national, src:ap, src:mpr, src:kare11, src:star-tribune

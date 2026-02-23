@@ -7,7 +7,6 @@ type: immigrants
 status: ongoing
 affected_individual_citizenship: asylum-seeker
 injuries: none
-trustworthiness: medium
 created: 2026-02-07T17:57:07
 last_updated: 2026-02-07T17:57:07
 search_tags: family-separation, children, src:other-national

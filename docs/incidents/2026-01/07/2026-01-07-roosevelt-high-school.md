@@ -7,7 +7,6 @@ type: schools-hospitals
 status: resolved
 affected_individual_citizenship: us-citizen
 injuries: minor
-trustworthiness: high
 created: 2026-01-14T08:01:12
 last_updated: 2026-01-14T08:01:12
 search_tags: us-citizen, children, excessive-force, chemical-agents, vehicle-pursuit, src:star-tribune, src:mpr, src:kare11, src:wcco, src:kstp, src:sahan-journal, src:nbc, src:other-national, src:mn-reformer

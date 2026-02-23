@@ -7,7 +7,6 @@ type: immigrants
 status: resolved
 affected_individual_citizenship: undocumented
 injuries: none
-trustworthiness: medium
 search_tags: deception, family-separation, children, src:wcco
 created: 2026-02-16T12:56:58
 last_updated: 2026-02-16T12:56:58

@@ -7,7 +7,6 @@ type: citizens
 status: under-investigation
 affected_individual_citizenship: legal-resident
 injuries: none
-trustworthiness: high
 created: 2026-01-14T08:01:12
 last_updated: 2026-01-14T08:01:12
 search_tags: us-citizen, legal-resident, excessive-force, chemical-agents, src:fox9, src:wcco, src:mn-reformer, src:star-tribune, src:fox-news, src:other-national

@@ -7,7 +7,6 @@ type: immigrants
 status: ongoing
 affected_individual_citizenship: unknown
 injuries: none
-trustworthiness: low
 created: 2026-02-08T22:40:43
 last_updated: 2026-02-08T22:40:43
 search_tags: family-separation, src:other-national

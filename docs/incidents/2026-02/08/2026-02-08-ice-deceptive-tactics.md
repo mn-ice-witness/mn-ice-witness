@@ -7,7 +7,6 @@ type: background
 status: ongoing
 affected_individual_citizenship: n/a
 injuries: none
-trustworthiness: high
 created: 2026-02-09T11:52:25
 last_updated: 2026-02-09T11:52:25
 search_tags: deception, us-citizen, src:abc, src:ap, src:wcco, src:star-tribune, src:mpr, src:intercept, src:other-national, src:other-local

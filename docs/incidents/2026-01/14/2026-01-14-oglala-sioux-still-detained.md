@@ -7,7 +7,6 @@ type: citizens
 status: ongoing
 affected_individual_citizenship: us-citizen
 injuries: none
-trustworthiness: removed
 created: 2026-01-14T12:18:26
 last_updated: 2026-01-30T11:41:26
 search_tags: us-citizen, native-american, src:abc, src:cnn, src:mpr, src:other-national, src:wcco, src:wapo

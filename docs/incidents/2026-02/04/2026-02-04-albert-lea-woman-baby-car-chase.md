@@ -7,7 +7,6 @@ type: immigrants
 status: ongoing
 affected_individual_citizenship: unknown
 injuries: none
-trustworthiness: medium
 created: 2026-02-12T14:36:06
 last_updated: 2026-02-12T14:36:06
 search_tags: children, family-separation, vehicle-pursuit, excessive-force, observer-intimidated, src:other-local

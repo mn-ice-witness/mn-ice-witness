@@ -10,7 +10,6 @@ type: citizens
 status: resolved
 affected_individual_citizenship: us-citizen
 injuries: none
-trustworthiness: medium
 created: 2026-01-21T19:05:36
 last_updated: 2026-01-21T19:05:36
 ---

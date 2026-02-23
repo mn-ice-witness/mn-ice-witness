@@ -7,7 +7,6 @@ type: immigrants
 status: ongoing
 affected_individual_citizenship: undocumented
 injuries: minor
-trustworthiness: high
 created: 2026-02-11T13:35:06
 last_updated: 2026-02-11T13:35:06
 search_tags: vehicle-pursuit, excessive-force, src:mpr, src:fox9, src:kare11, src:wcco, src:bring-me-the-news, src:pioneer-press, src:star-tribune, src:mn-reformer, src:sahan-journal, src:fox-news, src:other-national

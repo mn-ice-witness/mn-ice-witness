@@ -7,7 +7,6 @@ type: citizens
 status: ongoing
 affected_individual_citizenship: us-citizen
 injuries: none
-trustworthiness: high
 created: 2026-02-08T15:03:37
 last_updated: 2026-02-08T15:03:37
 search_tags: us-citizen, excessive-force, src:sahan-journal, src:cbs

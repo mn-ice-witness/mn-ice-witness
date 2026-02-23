@@ -7,7 +7,6 @@ type: response
 status: resolved
 affected_individual_citizenship: us-citizen
 injuries: none
-trustworthiness: high
 created: 2026-01-14T20:26:03
 last_updated: 2026-01-14T20:26:03
 search_tags: us-citizen, src:npr, src:other-national

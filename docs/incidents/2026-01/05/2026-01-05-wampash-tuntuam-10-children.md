@@ -7,7 +7,6 @@ type: immigrants
 status: ongoing
 affected_individual_citizenship: undocumented
 injuries: none
-trustworthiness: high
 created: 2026-01-30T18:45:00
 last_updated: 2026-01-30T18:45:00
 search_tags: children, family-separation, deception, src:ap

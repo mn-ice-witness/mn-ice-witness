@@ -7,7 +7,6 @@ type: immigrants
 status: resolved
 affected_individual_citizenship: unknown
 injuries: none
-trustworthiness: high
 created: 2026-02-06T10:31:55
 last_updated: 2026-02-06T10:31:55
 search_tags: excessive-force, src:star-tribune, src:kstp, src:kare11, src:wcco

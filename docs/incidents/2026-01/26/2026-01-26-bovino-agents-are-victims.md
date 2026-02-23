@@ -7,7 +7,6 @@ type: response
 status: ongoing
 affected_individual_citizenship: us-citizen
 injuries: fatal
-trustworthiness: high
 created: 2026-01-27T11:27:42
 last_updated: 2026-01-27T11:32:34
 search_tags: src:cnn, src:fox-news, src:other-national

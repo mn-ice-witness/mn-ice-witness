@@ -7,7 +7,6 @@ type: immigrants
 status: resolved
 affected_individual_citizenship: asylum-seeker
 injuries: serious
-trustworthiness: high
 created: 2026-01-14T08:01:12
 last_updated: 2026-02-09T21:12:05
 search_tags: legal-resident, src:star-tribune, src:fox9, src:kstp, src:pioneer-press

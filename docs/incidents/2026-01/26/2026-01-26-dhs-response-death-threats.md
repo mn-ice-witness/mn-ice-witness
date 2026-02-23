@@ -7,7 +7,6 @@ type: response
 status: ongoing
 affected_individual_citizenship: n/a
 injuries: none
-trustworthiness: high
 created: 2026-02-07T17:57:07
 last_updated: 2026-02-07T17:57:07
 search_tags: src:fox-news

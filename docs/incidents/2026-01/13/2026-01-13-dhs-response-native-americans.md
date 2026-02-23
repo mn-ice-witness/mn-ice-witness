@@ -7,7 +7,6 @@ type: response
 status: ongoing
 affected_individual_citizenship: us-citizen
 injuries: none
-trustworthiness: high
 created: 2026-01-14T12:35:56
 last_updated: 2026-01-14T12:35:56
 search_tags: native-american, us-citizen, src:other-national

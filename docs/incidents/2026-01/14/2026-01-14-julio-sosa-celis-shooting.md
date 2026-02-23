@@ -7,7 +7,6 @@ type: citizens
 status: ongoing
 affected_individual_citizenship: asylum-seeker
 injuries: serious
-trustworthiness: high
 created: 2026-02-07T14:12:42
 last_updated: 2026-02-16T13:08:23
 search_tags: legal-resident, children, shooting, excessive-force, chemical-agents, family-separation, warrantless-entry, vehicle-pursuit, src:mpr, src:star-tribune, src:sahan-journal, src:wcco, src:kstp, src:kare11, src:other-national, src:mn-reformer, src:fox9, src:cbs, src:npr, src:wapo, src:pbs, src:cnn, src:ap

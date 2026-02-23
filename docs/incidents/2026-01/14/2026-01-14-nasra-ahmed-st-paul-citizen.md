@@ -7,7 +7,6 @@ type: citizens
 status: resolved
 affected_individual_citizenship: us-citizen
 injuries: minor
-trustworthiness: high
 created: 2026-01-16T22:28:22
 last_updated: 2026-02-09T21:12:05
 search_tags: us-citizen, citizen-check, excessive-force, src:pioneer-press, src:other-national, src:sahan-journal, src:wcco

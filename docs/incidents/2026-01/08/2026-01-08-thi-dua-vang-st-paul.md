@@ -7,7 +7,6 @@ type: citizens
 status: resolved
 affected_individual_citizenship: asylum-seeker
 injuries: none
-trustworthiness: medium
 created: 2026-02-03T14:02:17
 last_updated: 2026-02-09T21:12:05
 search_tags: legal-resident, family-separation, children, operation-parris, src:kare11, src:sahan-journal, src:mpr, src:other-national

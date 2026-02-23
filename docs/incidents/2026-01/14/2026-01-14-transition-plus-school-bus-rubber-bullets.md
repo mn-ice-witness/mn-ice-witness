@@ -7,7 +7,6 @@ type: schools-hospitals
 status: resolved
 affected_individual_citizenship: unknown
 injuries: minor
-trustworthiness: medium
 created: 2026-01-31T14:22:08
 last_updated: 2026-01-31T14:22:08
 search_tags: excessive-force, children, src:other-local

@@ -7,7 +7,6 @@ type: citizens
 status: resolved
 affected_individual_citizenship: legal-resident
 injuries: none
-trustworthiness: high
 created: 2026-01-25T21:18:19
 last_updated: 2026-01-25T21:18:19
 search_tags: legal-resident, workplace-raid, operation-parris, src:bring-me-the-news, src:cnn, src:mpr

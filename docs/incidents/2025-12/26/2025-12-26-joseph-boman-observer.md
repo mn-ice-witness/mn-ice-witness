@@ -7,7 +7,6 @@ type: observers
 status: resolved
 affected_individual_citizenship: us-citizen
 injuries: none
-trustworthiness: medium
 created: 2026-01-14T08:54:15
 last_updated: 2026-01-14T08:54:15
 search_tags: us-citizen, observer-detained, src:other-local, src:other-national

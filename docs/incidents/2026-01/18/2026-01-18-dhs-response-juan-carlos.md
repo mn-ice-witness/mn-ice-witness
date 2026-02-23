@@ -7,7 +7,6 @@ type: response
 status: resolved
 affected_individual_citizenship: unknown
 injuries: serious
-trustworthiness: high
 created: 2026-01-23T10:33:25
 last_updated: 2026-01-23T10:33:25
 search_tags: excessive-force, src:cnn, src:other-national

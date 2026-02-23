@@ -7,7 +7,6 @@ type: immigrants
 status: ongoing
 affected_individual_citizenship: undocumented
 injuries: serious
-trustworthiness: high
 created: 2026-01-26T15:10:02
 last_updated: 2026-02-12T10:32:32
 search_tags: excessive-force, warrantless-entry, src:sahan-journal, src:mpr, src:ap, src:abc, src:pioneer-press, src:npr, src:wcco, src:bring-me-the-news, src:fox-news, src:other-national

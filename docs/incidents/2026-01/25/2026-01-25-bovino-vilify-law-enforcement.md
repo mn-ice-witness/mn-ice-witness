@@ -7,7 +7,6 @@ type: response
 status: ongoing
 affected_individual_citizenship: various
 injuries: none
-trustworthiness: high
 created: 2026-01-27T10:15:00
 last_updated: 2026-01-27T10:15:00
 search_tags: shooting, src:other-national

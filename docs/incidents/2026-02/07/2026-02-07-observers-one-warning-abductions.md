@@ -7,7 +7,6 @@ type: observers
 status: resolved
 affected_individual_citizenship: us-citizen
 injuries: none
-trustworthiness: high
 created: 2026-02-09T14:00:00
 last_updated: 2026-02-12T10:12:33
 search_tags: observer-detained, observer-intimidated, us-citizen, src:intercept, src:mpr, src:wcco, src:star-tribune, src:bring-me-the-news, src:fox-news, src:fox9, src:other-national, src:mn-reformer

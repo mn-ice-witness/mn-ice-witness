@@ -7,7 +7,6 @@ type: citizens
 status: under-investigation
 affected_individual_citizenship: us-citizen
 injuries: minor
-trustworthiness: high
 created: 2026-01-14T08:43:07
 last_updated: 2026-02-08T10:22:20
 search_tags: us-citizen, observer-detained, observer-intimidated, excessive-force, src:sahan-journal, src:mn-reformer, src:other-local

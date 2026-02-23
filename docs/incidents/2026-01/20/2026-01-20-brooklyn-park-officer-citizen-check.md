@@ -7,7 +7,6 @@ type: citizens
 status: ongoing
 affected_individual_citizenship: us-citizen
 injuries: none
-trustworthiness: high
 created: 2026-01-20T13:39:51
 last_updated: 2026-01-20T13:39:51
 search_tags: us-citizen, citizen-check, excessive-force, shooting, vehicle-pursuit, src:kstp, src:kare11, src:other-national, src:wcco, src:fox-news, src:wapo, src:fox9

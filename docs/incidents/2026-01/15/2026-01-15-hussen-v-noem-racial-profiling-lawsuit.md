@@ -7,7 +7,6 @@ type: background
 status: ongoing
 affected_individual_citizenship: various
 injuries: none
-trustworthiness: high
 created: 2026-02-09T14:54:03
 last_updated: 2026-02-18T22:59:25
 search_tags: src:star-tribune, src:wcco, src:kstp, src:nbc, src:npr, src:other-national, src:fox9, src:mpr

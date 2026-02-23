@@ -358,13 +358,7 @@ const App = {
         const query = (typeof Search !== 'undefined' && Search.query) ? Search.query.toLowerCase().trim() : '';
         const activeTags = (typeof Search !== 'undefined' && Search.activeTags) ? Search.activeTags : new Set();
 
-        // Filter out no-news-media and removed incidents from main display
-        const verified = this.incidents.filter(i => {
-            if (i.trustworthiness === 'no-news-media' || i.trustworthiness === 'removed') return false;
-            return true;
-        });
-
-        let filtered = verified;
+        let filtered = this.incidents;
 
         // Apply tag filters if any are active
         if (activeTags.size > 0) {
@@ -406,39 +400,15 @@ const App = {
      * Get no-news-media incidents sorted by update date
      */
     getNoNewsMediaIncidents() {
-        return this.incidents
-            .filter(i => i.trustworthiness === 'no-news-media')
-            .sort((a, b) => {
-                const dateA = a.lastUpdated || a.created || a.date;
-                const dateB = b.lastUpdated || b.created || b.date;
-                return dateB.localeCompare(dateA);
-            });
+        return [];
     },
 
-    /**
-     * Get removed incidents sorted by update date
-     */
     getRemovedIncidents() {
-        return this.incidents
-            .filter(i => i.trustworthiness === 'removed')
-            .sort((a, b) => {
-                const dateA = a.lastUpdated || a.created || a.date;
-                const dateB = b.lastUpdated || b.created || b.date;
-                return dateB.localeCompare(dateA);
-            });
+        return [];
     },
 
-    /**
-     * Get corrected incidents sorted by update date
-     */
     getCorrectionsIncidents() {
-        return this.incidents
-            .filter(i => i.trustworthiness === 'corrected')
-            .sort((a, b) => {
-                const dateA = a.lastUpdated || a.created || a.date;
-                const dateB = b.lastUpdated || b.created || b.date;
-                return dateB.localeCompare(dateA);
-            });
+        return [];
     },
 
     // ==================== INCIDENT HELPERS ====================

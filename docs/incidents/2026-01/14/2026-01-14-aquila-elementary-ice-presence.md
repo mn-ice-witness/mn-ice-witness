@@ -7,7 +7,6 @@ type: schools-hospitals
 status: resolved
 affected_individual_citizenship: unknown
 injuries: none
-trustworthiness: high
 created: 2026-01-31T11:10:42
 last_updated: 2026-01-31T11:10:42
 search_tags: children, src:sahan-journal, src:wcco, src:other-local, src:star-tribune, src:bring-me-the-news

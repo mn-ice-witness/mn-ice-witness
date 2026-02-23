@@ -7,7 +7,6 @@ type: schools-hospitals
 status: resolved
 affected_individual_citizenship: various
 injuries: none
-trustworthiness: high
 created: 2026-02-08T14:30:13
 last_updated: 2026-02-08T14:30:13
 search_tags: children

@@ -7,7 +7,6 @@ type: observers
 status: resolved
 affected_individual_citizenship: us-citizen
 injuries: none
-trustworthiness: medium
 created: 2026-02-15T20:23:56
 last_updated: 2026-02-15T20:23:56
 search_tags: observer-detained, excessive-force, us-citizen, src:star-tribune

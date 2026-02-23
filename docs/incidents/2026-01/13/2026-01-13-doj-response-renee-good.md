@@ -7,7 +7,6 @@ type: response
 status: ongoing
 affected_individual_citizenship: us-citizen
 injuries: fatal
-trustworthiness: high
 created: 2026-01-14T13:25:50
 last_updated: 2026-01-14T13:25:50
 search_tags: shooting, src:cbs, src:nbc, src:fox-news, src:mother-jones

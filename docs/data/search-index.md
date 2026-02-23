@@ -16,7 +16,7 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (280 incidents)
+## CURRENT (287 incidents)
 
 Published incidents visible on the main site.
 
@@ -41,6 +41,7 @@ Published incidents visible on the main site.
 - incidents/2026-02/07/2026-02-07-dhs-response-whipple-conditions-false.md | 2026-02-07 | Minneapolis | response | DHS Statement: Claims of "Subprime Conditions" at Whipple Are "FALSE"
 - incidents/2026-02/07/2026-02-07-observers-one-warning-abductions.md | 2026-02-07 | Minneapolis | observers | Three Legal Observers Arrested in 30 Minutes as ICE Implements "One Warning" Policy
 - incidents/2026-02/07/2026-02-07-wilmer-andrade-work-permit-targeted.md | 2026-02-07 | Minneapolis | citizens | ICE Targets Man with Valid Work Permit and Pending Crime Victim Visa
+- incidents/2026-02/06/2026-02-06-columbia-heights-officer-threatens-observer.md | 2026-02-06 | Columbia Heights | observers | ICE Officer Threatens to "Put Hands On" U.S. Citizen for Filming (NO NEWS MEDIA)
 - incidents/2026-02/06/2026-02-06-nick-benson-deportation-flights-msp.md | 2026-02-06 | Minneapolis | immigrants | Volunteer Documents 42 Deportation Flights in January, Estimates 2,339 People Flown From Minnesota
 - incidents/2026-02/06/2026-02-06-brasel-right-to-counsel-whipple.md | 2026-02-06 | Minneapolis | background | Minnesota's Legal System Buckles Under Weight of Operation Metro Surge
 - incidents/2026-02/06/2026-02-06-dhs-response-agitators-shielded.md | 2026-02-06 | Minneapolis | response | DHS Response: "Agitators" Shield Child Rapists, Sex Offenders, and Gang Members From Arrest
@@ -55,6 +56,7 @@ Published incidents visible on the main site.
 - incidents/2026-02/04/2026-02-04-albert-lea-woman-baby-car-chase.md | 2026-02-04 | Albert Lea | immigrants | ICE Agents Cut Seatbelt to Extract Woman From Car; Baby in Backseat
 - incidents/2026-02/04/2026-02-04-school-districts-sue-ice-near-schools.md | 2026-02-04 | Minneapolis | background | Minnesota School Districts and Teachers Union Sue to Restore Schools as Protected Areas
 - incidents/2026-02/04/2026-02-04-trump-softer-touch-interview.md | 2026-02-04 | Washington D.C. | response | Trump Says Administration Will Use "Softer Touch" After Minneapolis Shootings
+- incidents/2026-02/03/2026-02-03-fraser-school-cleaner-detained.md | 2026-02-03 | Richfield | schools-hospitals | Contract Cleaner Detained by Armed Agents in Fraser School Parking Lot (NO NEWS MEDIA)
 - incidents/2026-02/03/2026-02-03-observers-detained-gunpoint-midtown-phillips.md | 2026-02-03 | Minneapolis | observers | Observers Detained at Gunpoint, Bystanders Tackled in Midtown Phillips
 - incidents/2026-02/03/2026-02-03-yolanda-whipple-ankle-monitor.md | 2026-02-03 | Minneapolis | immigrants | Asylum-Seeking Mother Arrested at Routine Check-In with Two Children; Released with Ankle Monitor
 - incidents/2026-02/01/2026-02-01-powderhorn-rec-center-observer-arrested.md | 2026-02-01 | Minneapolis | observers | Observer Arrested, Concussion Grenades Deployed at Powderhorn Rec Center
@@ -110,6 +112,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/22/2026-01-22-amundson-zemien-seizure-first-responders.md | 2026-01-22 | Brooklyn Park | observers | Two Detained Women Become First Responders After ICE Agent Has Seizure
 - incidents/2026-01/22/2026-01-22-torture-survivors-asylum-detained.md | 2026-01-22 | St. Paul | immigrants | Four Torture Survivors with Pending Asylum Cases Detained by ICE
 - incidents/2026-01/22/2026-01-22-cunningham-public-health-declaration.md | 2026-01-22 | St. Paul | schools-hospitals | Minnesota Health Commissioner: Operation Metro Surge Causing Measurable Public Health Damage Statewide
+- incidents/2026-01/22/2026-01-22-sullivan-elementary-ice-food-flyers.md | 2026-01-22 | Minneapolis | schools-hospitals | School Warns ICE Distributing Food Support Flyers (NO NEWS MEDIA)
 - incidents/2026-01/22/2026-01-22-velasco-family-hopkins.md | 2026-01-22 | Hopkins | immigrants | Hopkins Family of Four Detained; Returned After ICE Violates Court Order
 - incidents/2026-01/21/2026-01-21-bovino-smoke-canister-playground.md | 2026-01-21 | Minneapolis | schools-hospitals | Border Patrol Commander Greg Bovino Deploys Smoke Canister Near School at Dismissal
 - incidents/2026-01/21/2026-01-21-katie-henly-home-photographed.md | 2026-01-21 | Minneapolis | observers | ICE Vehicles Stop at Observer's Home; Agent Photographs House While Another Holds AR-15
@@ -134,6 +137,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/18/2026-01-18-dhs-response-accent-detention.md | 2026-01-18 | Minneapolis | response | DHS Statement: Defends Accent-Based Detention
 - incidents/2026-01/30/2026-01-30-dhs-response-racial-profiling-false.md | 2026-01-18 | Minneapolis | response | DHS Response: Racial Profiling Allegations Are "Disgusting, Reckless and Categorically FALSE"
 - incidents/2026-01/17/2026-01-17-elizabeth-jackson-observer-arrested.md | 2026-01-17 | St. Paul | observers | Observer Arrested by ICE After Being Threatened at Staging Area Ten Days Earlier
+- incidents/2026-01/17/2026-01-17-nadya-moldovan-refugee.md | 2026-01-17 | Unknown | immigrants | Moldovan Refugee Nadya Detained While Driving to Church with Family (NO NEWS MEDIA)
 - incidents/2026-01/17/2026-01-17-mischief-toy-store-ice-inspection.md | 2026-01-17 | St. Paul | observers | Toy Store Receives ICE Inspection Notice Hours After ABC News Interview
 - incidents/2026-01/16/2026-01-16-parral-ortiz-hospital-detention.md | 2026-01-16 | Mounds View | immigrants, schools-hospitals | Man Detained While Driving Sick Wife to Emergency Room
 - incidents/2026-01/16/2026-01-16-two-year-old-parents-detained-dopa.md | 2026-01-16 | Minneapolis | immigrants | Two-Year-Old Left Without Parents After ICE Detains Both; DOPA Form Prevents Foster Care
@@ -164,9 +168,11 @@ Published incidents visible on the main site.
 - incidents/2026-01/14/2026-01-14-julio-sosa-celis-shooting.md | 2026-01-14 | Minneapolis | citizens | ICE Agent Shoots Man Through Closed Door in North Minneapolis; Bullet Enters Apartment with Four Children
 - incidents/2026-01/14/2026-01-14-hiawatha-student-bus-stop.md | 2026-01-14 | Minneapolis | schools-hospitals | Hiawatha Academies Student Detained at Bus Stop
 - incidents/2026-01/14/2026-01-14-dhs-response-frey-sanctuary.md | 2026-01-14 | Minneapolis | response | DHS Blames Mayor Frey's Sanctuary Policies for Criminal Release
+- incidents/2026-01/14/2026-01-14-shamrai-ukrainian-asylum-seeker.md | 2026-01-14 | Maple Grove | immigrants | Ukrainian Asylum Seeker Viktoriia Shamrai Detained at Workplace (NO NEWS MEDIA)
 - incidents/2026-01/14/2026-01-14-aquila-elementary-ice-presence.md | 2026-01-14 | St. Louis Park | schools-hospitals | ICE Conducts Operation Across Street From Aquila Elementary During Dismissal
 - incidents/2026-01/14/2026-01-14-transition-plus-school-bus-rubber-bullets.md | 2026-01-14 | Minneapolis | schools-hospitals | Students on Transition Plus Bus Witness ICE Fire Rubber Bullets at Man
 - incidents/2026-01/14/2026-01-14-victor-diaz-custody-death.md | 2026-01-14 | Coon Rapids | immigrants | Victor Manuel Díaz Dies in ICE Custody at Camp East Montana After Coon Rapids Arrest
+- incidents/2026-01/14/2026-01-14-oglala-sioux-still-detained.md | 2026-01-14 | Minneapolis | citizens | Three Oglala Sioux U.S. Citizens Still Detained at Fort Snelling (REMOVED)
 - incidents/2026-01/14/2026-01-14-crystal-bus-stop-parent.md | 2026-01-14 | Crystal | schools-hospitals | Parent Detained by ICE at School Bus Stop While Waiting with Child
 - incidents/2026-01/13/2026-01-13-bovino-cbs-interview.md | 2026-01-13 | Minneapolis | response | Border Patrol Commander Bovino CBS Interview
 - incidents/2026-01/13/2026-01-13-la-mexicana-st-peter.md | 2026-01-13 | St. Peter | immigrants | Customer Arrested While Buying Drink at St. Peter Grocery Store
@@ -232,6 +238,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/08/2026-01-08-timothy-brandon-projectile-protest.md | 2026-01-08 | Minneapolis | observers | 70-Year-Old Observer Struck by Projectile, Separates Shoulder Fleeing Tear Gas
 - incidents/2026-01/08/2026-01-08-dhs-response-radical-rhetoric.md | 2026-01-08 | Minneapolis | response | DHS Response: "Radical Rhetoric" From "Sanctuary Politicians" Causes 1,300% Increase in Assaults
 - incidents/2026-01/08/2026-01-08-rochester-gates-complex.md | 2026-01-08 | Rochester | immigrants | Multiple ICE Arrests in Rochester; Activist Documents Agent Using Hammer on Car Window
+- incidents/2026-01/08/2026-01-08-little-earth-native-americans.md | 2026-01-08 | Minneapolis | citizens | Four Homeless Oglala Sioux Citizens Detained Near Little Earth (REMOVED)
 - incidents/2026-01/08/2026-01-08-whipple-tear-gas-renee-good-protest.md | 2026-01-08 | Minneapolis | observers | Border Patrol Chief Bovino and Agents Tear Gas Peaceful Protesters at Whipple Building Morning After Renee Good's Killing
 - incidents/2026-01/08/2026-01-08-thi-dua-vang-st-paul.md | 2026-01-08 | St. Paul | citizens | Christian Refugee Detained, Shipped to Texas, and Dumped in Houston With No Way Home
 - incidents/2026-01/08/2026-01-08-pablo-nieves-plymouth-home-depot.md | 2026-01-08 | Plymouth | immigrants | Daycare Handyman with Pending Asylum Case Detained at Home Depot, Sent to Texas for Two Weeks
@@ -523,31 +530,21 @@ Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 
 ---
 
-## REMOVED (2 incidents)
+## REMOVED (0 incidents)
 
 Previously published but retracted due to contradicting information. See incident file for correction notes.
 
-- incidents/2026-01/14/2026-01-14-oglala-sioux-still-detained.md | 2026-01-14 | Minneapolis | citizens | Three Oglala Sioux U.S. Citizens Still Detained at Fort Snelling (REMOVED)
-- incidents/2026-01/08/2026-01-08-little-earth-native-americans.md | 2026-01-08 | Minneapolis | citizens | Four Homeless Oglala Sioux Citizens Detained Near Little Earth (REMOVED)
 
 ---
 
-## CORRECTIONS (3 incidents)
+## CORRECTIONS (0 incidents)
 
 Published with significant factual errors that have been corrected. Visible at /corrections.
 
-- incidents/2026-01/21/2026-01-21-bovino-smoke-canister-playground.md | 2026-01-21 | Minneapolis | schools-hospitals | Border Patrol Commander Greg Bovino Deploys Smoke Canister Near School at Dismissal
-- incidents/2026-01/12/2026-01-12-silva-sosa-inver-grove-heights.md | 2026-01-12 | Inver Grove Heights | immigrants | Silva Sosa Parents Detained Days After I-130 Approval
-- incidents/2026-01/08/2026-01-08-pablo-nieves-plymouth-home-depot.md | 2026-01-08 | Plymouth | immigrants | Daycare Handyman with Pending Asylum Case Detained at Home Depot, Sent to Texas for Two Weeks
 
 ---
 
-## NO-NEWS-MEDIA (5 incidents)
+## NO-NEWS-MEDIA (0 incidents)
 
 Incidents without news media verification. Visible only at /no-news-media.
 
-- incidents/2026-02/06/2026-02-06-columbia-heights-officer-threatens-observer.md | 2026-02-06 | Columbia Heights | observers | ICE Officer Threatens to "Put Hands On" U.S. Citizen for Filming (NO NEWS MEDIA)
-- incidents/2026-02/03/2026-02-03-fraser-school-cleaner-detained.md | 2026-02-03 | Richfield | schools-hospitals | Contract Cleaner Detained by Armed Agents in Fraser School Parking Lot (NO NEWS MEDIA)
-- incidents/2026-01/22/2026-01-22-sullivan-elementary-ice-food-flyers.md | 2026-01-22 | Minneapolis | schools-hospitals | School Warns ICE Distributing Food Support Flyers (NO NEWS MEDIA)
-- incidents/2026-01/17/2026-01-17-nadya-moldovan-refugee.md | 2026-01-17 | Unknown | immigrants | Moldovan Refugee Nadya Detained While Driving to Church with Family (NO NEWS MEDIA)
-- incidents/2026-01/14/2026-01-14-shamrai-ukrainian-asylum-seeker.md | 2026-01-14 | Maple Grove | immigrants | Ukrainian Asylum Seeker Viktoriia Shamrai Detained at Workplace (NO NEWS MEDIA)

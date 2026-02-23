@@ -7,7 +7,6 @@ type: citizens
 status: resolved
 affected_individual_citizenship: legal-resident
 injuries: none
-trustworthiness: high
 created: 2026-02-04T16:11:03
 last_updated: 2026-02-04T16:11:03
 search_tags: legal-resident, src:other-local, src:sahan-journal, src:kare11, src:fox9, src:cnn

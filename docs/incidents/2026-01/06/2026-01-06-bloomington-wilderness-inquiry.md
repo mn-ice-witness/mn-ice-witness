@@ -7,7 +7,6 @@ type: immigrants
 status: resolved
 affected_individual_citizenship: unknown
 injuries: none
-trustworthiness: high
 created: 2026-01-14T08:33:42
 last_updated: 2026-02-08T14:30:13
 search_tags: family-separation, src:sahan-journal, src:bring-me-the-news, src:cnn

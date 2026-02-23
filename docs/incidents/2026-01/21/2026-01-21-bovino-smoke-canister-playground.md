@@ -7,7 +7,6 @@ type: schools-hospitals
 status: under-investigation
 affected_individual_citizenship: unknown
 injuries: none
-trustworthiness: corrected
 created: 2026-01-21T17:37:01
 last_updated: 2026-02-08T21:53:22
 search_tags: children, chemical-agents, observer-intimidated, src:star-tribune, src:other-local, src:other-national

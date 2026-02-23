@@ -7,7 +7,6 @@ type: immigrants
 status: ongoing
 affected_individual_citizenship: undocumented
 injuries: none
-trustworthiness: medium
 created: 2026-02-08T22:06:14
 last_updated: 2026-02-08T22:06:14
 search_tags: src:sahan-journal, src:other-national

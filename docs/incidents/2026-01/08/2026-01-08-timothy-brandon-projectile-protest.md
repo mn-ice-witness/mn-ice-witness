@@ -7,7 +7,6 @@ type: observers
 status: resolved
 affected_individual_citizenship: us-citizen
 injuries: serious
-trustworthiness: high
 created: 2026-02-14T21:59:38
 last_updated: 2026-02-14T21:59:38
 search_tags: us-citizen, excessive-force, chemical-agents, observer-intimidated, src:nyt, src:other-national

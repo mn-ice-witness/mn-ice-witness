@@ -7,7 +7,6 @@ type: background
 status: resolved
 affected_individual_citizenship: n/a
 injuries: none
-trustworthiness: high
 created: 2026-02-12T09:55:45
 last_updated: 2026-02-12T09:55:45
 search_tags: src:cbs, src:nbc, src:fox-news, src:bring-me-the-news, src:other-national

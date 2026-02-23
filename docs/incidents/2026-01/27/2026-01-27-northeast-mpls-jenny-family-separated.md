@@ -7,7 +7,6 @@ type: immigrants
 status: ongoing
 affected_individual_citizenship: undocumented
 injuries: none
-trustworthiness: high
 created: 2026-01-28T21:12:14
 last_updated: 2026-01-28T21:12:14
 search_tags: family-separation, children, src:wcco

@@ -7,7 +7,6 @@ type: schools-hospitals, immigrants
 status: resolved
 affected_individual_citizenship: legal-resident
 injuries: none
-trustworthiness: medium
 created: 2026-01-25T21:18:19
 last_updated: 2026-01-25T21:18:19
 search_tags: legal-resident, deception, children, workplace-raid, src:star-tribune

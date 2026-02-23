@@ -7,7 +7,6 @@ type: immigrants, schools-hospitals
 status: ongoing
 affected_individual_citizenship: undocumented
 injuries: none
-trustworthiness: medium
 created: 2026-01-19T12:56:14
 last_updated: 2026-01-19T12:56:14
 search_tags: family-separation, vehicle-pursuit, src:sahan-journal

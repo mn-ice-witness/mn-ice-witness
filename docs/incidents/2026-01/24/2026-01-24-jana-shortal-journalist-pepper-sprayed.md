@@ -7,7 +7,6 @@ type: observers
 status: resolved
 affected_individual_citizenship: us-citizen
 injuries: minor
-trustworthiness: high
 created: 2026-01-24T13:43:05
 last_updated: 2026-01-24T13:43:05
 search_tags: us-citizen, observer-intimidated, excessive-force, chemical-agents, src:kare11, src:fox9, src:wcco, src:other-national

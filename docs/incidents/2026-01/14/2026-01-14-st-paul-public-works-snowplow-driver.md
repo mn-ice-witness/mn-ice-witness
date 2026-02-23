@@ -7,7 +7,6 @@ type: citizens
 status: ongoing
 affected_individual_citizenship: legal-resident
 injuries: none
-trustworthiness: high
 created: 2026-01-18T22:24:48
 last_updated: 2026-01-18T22:24:48
 search_tags: legal-resident, workplace-raid, family-separation, src:fox9, src:pioneer-press, src:kare11

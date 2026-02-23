@@ -7,7 +7,6 @@ type: response
 status: resolved
 affected_individual_citizenship: n/a
 injuries: none
-trustworthiness: high
 created: 2026-01-25T07:59:29
 last_updated: 2026-01-25T07:59:29
 search_tags: shooting, src:nbc, src:abc, src:wcco, src:npr

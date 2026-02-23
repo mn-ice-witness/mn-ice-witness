@@ -7,7 +7,6 @@ type: response
 status: resolved
 affected_individual_citizenship: n/a
 injuries: none
-trustworthiness: high
 created: 2026-02-05T14:18:31
 last_updated: 2026-02-05T14:18:31
 search_tags: src:other-national, src:npr, src:nbc, src:wapo, src:abc, src:nyt, src:cnn, src:pbs, src:star-tribune, src:mpr

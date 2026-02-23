@@ -7,7 +7,6 @@ type: observers
 status: resolved
 affected_individual_citizenship: unknown
 injuries: minor
-trustworthiness: high
 created: 2026-01-14T08:01:12
 last_updated: 2026-01-14T08:01:12
 search_tags: chemical-agents, observer-intimidated, src:kare11, src:wcco, src:bring-me-the-news, src:other-local, src:other-national

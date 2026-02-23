@@ -7,7 +7,6 @@ type: immigrants
 status: resolved
 affected_individual_citizenship: undocumented
 injuries: minor
-trustworthiness: high
 created: 2026-01-14T09:04:50
 last_updated: 2026-01-14T09:04:50
 search_tags: workplace-raid, chemical-agents, observer-intimidated, src:mpr, src:sahan-journal, src:pioneer-press, src:mn-reformer, src:kstp, src:kare11, src:star-tribune

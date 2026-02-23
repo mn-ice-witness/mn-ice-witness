@@ -7,7 +7,6 @@ type: observers
 status: under-investigation
 affected_individual_citizenship: unknown
 injuries: minor
-trustworthiness: medium
 created: 2026-01-26T15:10:02
 last_updated: 2026-01-26T15:10:02
 search_tags: observer-intimidated, children, chemical-agents, excessive-force, src:other-local

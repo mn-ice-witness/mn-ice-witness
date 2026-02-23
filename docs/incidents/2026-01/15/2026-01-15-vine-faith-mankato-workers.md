@@ -7,7 +7,6 @@ type: immigrants
 status: ongoing
 affected_individual_citizenship: unknown
 injuries: none
-trustworthiness: high
 created: 2026-02-02T20:32:49
 last_updated: 2026-02-02T20:40:51
 search_tags: workplace-raid, src:other-local

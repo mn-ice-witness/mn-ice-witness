@@ -7,7 +7,6 @@ type: response
 status: resolved
 affected_individual_citizenship: us-citizen
 injuries: none
-trustworthiness: high
 created: 2026-01-19T15:00:40
 last_updated: 2026-01-19T17:54:25
 search_tags: us-citizen, warrantless-entry

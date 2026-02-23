@@ -7,7 +7,6 @@ type: observers
 status: ongoing
 affected_individual_citizenship: unknown
 injuries: minor
-trustworthiness: medium
 created: 2026-02-01T15:36:48
 last_updated: 2026-02-01T15:36:48
 search_tags: observer-detained, chemical-agents, src:bring-me-the-news

@@ -7,7 +7,6 @@ type: immigrants
 status: ongoing
 affected_individual_citizenship: unknown
 injuries: none
-trustworthiness: medium
 created: 2026-02-08T22:53:33
 last_updated: 2026-02-08T22:53:33
 search_tags: observer-intimidated, children, src:other-local, src:other-national

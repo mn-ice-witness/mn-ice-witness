@@ -7,7 +7,6 @@ type: background
 status: ongoing
 affected_individual_citizenship: us-citizen
 injuries: none
-trustworthiness: high
 created: 2026-02-08T14:47:35
 last_updated: 2026-02-14T21:05:51
 search_tags: src:mn-reformer, src:sahan-journal, src:mpr, src:kare11, src:star-tribune, src:nyt, src:other-national

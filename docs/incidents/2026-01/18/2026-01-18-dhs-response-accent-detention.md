@@ -7,7 +7,6 @@ type: response
 status: resolved
 affected_individual_citizenship: n/a
 injuries: none
-trustworthiness: high
 created: 2026-01-19T14:18:36
 last_updated: 2026-01-19T15:27:01
 search_tags: us-citizen, citizen-check

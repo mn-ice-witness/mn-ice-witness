@@ -7,7 +7,6 @@ type: observers
 status: ongoing
 affected_individual_citizenship: unknown
 injuries: minor
-trustworthiness: medium
 created: 2026-02-01T16:41:47
 last_updated: 2026-02-02T20:34:00
 search_tags: observer-detained, observer-intimidated, chemical-agents, excessive-force, src:mpr

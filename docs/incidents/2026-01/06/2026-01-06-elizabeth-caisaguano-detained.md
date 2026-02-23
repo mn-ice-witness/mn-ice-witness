@@ -7,7 +7,6 @@ type: schools-hospitals, immigrants
 status: resolved
 affected_individual_citizenship: asylum-seeker
 injuries: none
-trustworthiness: high
 created: 2026-02-05T14:49:05
 last_updated: 2026-02-05T14:49:05
 search_tags: children, family-separation, src:sahan-journal, src:cbs, src:star-tribune, src:kstp, src:mpr, src:wcco, src:nbc, src:other-national

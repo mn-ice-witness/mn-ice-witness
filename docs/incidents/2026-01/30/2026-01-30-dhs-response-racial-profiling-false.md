@@ -7,7 +7,6 @@ type: response
 status: ongoing
 affected_individual_citizenship: n/a
 injuries: none
-trustworthiness: high
 created: 2026-02-01T16:43:39
 last_updated: 2026-02-01T16:43:39
 search_tags: src:npr, src:mpr, src:star-tribune

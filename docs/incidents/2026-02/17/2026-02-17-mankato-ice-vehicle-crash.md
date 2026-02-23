@@ -7,7 +7,6 @@ type: observers
 status: resolved
 affected_individual_citizenship: us-citizen
 injuries: minor
-trustworthiness: high
 created: 2026-02-23T13:13:42
 last_updated: 2026-02-23T13:13:42
 search_tags: vehicle-pursuit, us-citizen, src:fox9, src:other-local
@@ -23,7 +22,7 @@ A collision between a DHS vehicle and a civilian car occurred at the intersectio
 2. Mankato Free Press (Feb 17, 2026): [Two-car crash in Mankato believed to involve ICE agents](https://www.mankatofreepress.com/news/local_news/two-car-crash-in-mankato-believed-to-involve-ice-agents/article_a748e799-bd1c-4dd4-bce9-f18dc2e6484e.html)
 3. FOX 9 (Feb 17, 2026): [DHS vehicle involved in Mankato crash, minor injuries reported](https://www.fox9.com/news/dhs-vehicle-involved-mankato-crash-minor-injuries-reported)
 4. Southern Minnesota News (Feb 18, 2026): [Collision reported between ICE vehicle and residents near downtown Mankato](https://www.southernminnesotanews.com/collision-reported-between-ice-vehicle-and-residents-near-downtown-mankato/)
-5. Mankato Free Press (Feb 18, 2026): [ID of ICE driver in crash will not be released](https://www.mankatofreepress.com/news/local_news/id-of-ice-driver-in-crash-will-not-be-released/article_805d3ab2-9841-4c25-87ca-06281031c85d.html)
+5. Mankato Free Press (Feb 19, 2026): [ID of ICE driver in crash will not be released](https://www.mankatofreepress.com/news/local_news/id-of-ice-driver-in-crash-will-not-be-released/article_805d3ab2-9841-4c25-87ca-06281031c85d.html)
 
 ## Affected Individual(s)
 - **Name:** Greg Wilson

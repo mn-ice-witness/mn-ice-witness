@@ -7,7 +7,6 @@ type: immigrants
 status: resolved
 affected_individual_citizenship: asylum-seeker
 injuries: none
-trustworthiness: high
 created: 2026-01-26T21:16:54
 last_updated: 2026-01-26T21:16:54
 search_tags: children, family-separation, deception, src:fox9, src:mpr, src:other-local

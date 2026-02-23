@@ -7,7 +7,6 @@ type: immigrants
 status: ongoing
 affected_individual_citizenship: legal-resident
 injuries: none
-trustworthiness: medium
 created: 2026-01-14T08:54:15
 last_updated: 2026-01-14T08:54:15
 search_tags: legal-resident, src:other-local

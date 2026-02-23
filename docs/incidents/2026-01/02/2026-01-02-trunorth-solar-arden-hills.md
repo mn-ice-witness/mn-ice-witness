@@ -7,7 +7,6 @@ type: immigrants
 status: under-investigation
 affected_individual_citizenship: undocumented
 injuries: none
-trustworthiness: medium
 created: 2026-01-14T09:04:50
 last_updated: 2026-01-14T09:04:50
 search_tags: workplace-raid, src:other-national

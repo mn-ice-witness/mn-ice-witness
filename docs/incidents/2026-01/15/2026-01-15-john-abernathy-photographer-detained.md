@@ -7,7 +7,6 @@ type: observers
 status: ongoing
 affected_individual_citizenship: us-citizen
 injuries: serious
-trustworthiness: high
 created: 2026-02-15T20:23:56
 last_updated: 2026-02-15T20:23:56
 search_tags: observer-detained, observer-intimidated, excessive-force, chemical-agents, us-citizen, src:star-tribune, src:ap, src:other-national

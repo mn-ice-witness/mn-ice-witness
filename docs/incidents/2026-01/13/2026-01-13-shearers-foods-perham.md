@@ -7,7 +7,6 @@ type: immigrants
 status: ongoing
 affected_individual_citizenship: unknown
 injuries: none
-trustworthiness: high
 created: 2026-01-14T09:04:50
 last_updated: 2026-02-09T21:12:05
 search_tags: workplace-raid, warrantless-entry, src:other-local

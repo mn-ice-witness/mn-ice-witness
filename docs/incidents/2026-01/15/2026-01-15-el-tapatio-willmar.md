@@ -7,7 +7,6 @@ type: immigrants
 status: ongoing
 affected_individual_citizenship: undocumented
 injuries: none
-trustworthiness: high
 created: 2026-01-16T21:33:51
 last_updated: 2026-01-16T21:33:51
 search_tags: workplace-raid, deception, src:star-tribune, src:other-local, src:wcco, src:other-national

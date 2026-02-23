@@ -7,7 +7,6 @@ type: observers
 status: resolved
 affected_individual_citizenship: us-citizen
 injuries: none
-trustworthiness: high
 created: 2026-01-19T11:13:23
 last_updated: 2026-01-19T11:13:23
 search_tags: us-citizen, observer-intimidated, src:intercept, src:fox9, src:other-national

@@ -7,7 +7,6 @@ type: immigrants
 status: resolved
 affected_individual_citizenship: undocumented
 injuries: none
-trustworthiness: high
 created: 2026-01-27T08:47:47
 last_updated: 2026-02-02T22:24:26
 search_tags: src:nyt, src:nbc, src:wapo, src:cbs, src:abc, src:pbs, src:other-national, src:kare11, src:mn-reformer, src:sahan-journal, src:mpr

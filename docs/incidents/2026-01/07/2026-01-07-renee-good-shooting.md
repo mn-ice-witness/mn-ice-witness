@@ -7,7 +7,6 @@ type: observers
 status: under-investigation
 affected_individual_citizenship: us-citizen
 injuries: fatal
-trustworthiness: high
 created: 2026-01-14T08:01:12
 last_updated: 2026-02-18T22:59:25
 search_tags: us-citizen, shooting, src:star-tribune, src:fox9, src:nyt, src:wcco, src:wapo, src:cnn, src:npr, src:abc, src:intercept, src:pbs, src:nbc, src:mpr, src:kstp, src:kare11, src:other-national, src:mother-jones, src:mn-reformer, src:sahan-journal

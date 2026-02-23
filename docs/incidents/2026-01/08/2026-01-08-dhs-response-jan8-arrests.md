@@ -7,7 +7,6 @@ type: response
 status: resolved
 affected_individual_citizenship: n/a
 injuries: none
-trustworthiness: high
 created: 2026-01-14T12:35:56
 last_updated: 2026-01-14T12:35:56
 search_tags:

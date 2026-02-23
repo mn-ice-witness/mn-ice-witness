@@ -7,7 +7,6 @@ type: citizens
 status: resolved
 affected_individual_citizenship: us-citizen
 injuries: serious
-trustworthiness: high
 created: 2026-01-14T08:01:12
 last_updated: 2026-01-14T08:01:12
 search_tags: us-citizen, citizen-check, excessive-force, workplace-raid, src:bring-me-the-news, src:star-tribune, src:kare11, src:wcco, src:sahan-journal, src:cnn, src:nbc, src:other-national, src:mpr

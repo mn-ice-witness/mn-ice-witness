@@ -7,7 +7,6 @@ type: citizens
 status: resolved
 affected_individual_citizenship: legal-resident
 injuries: minor
-trustworthiness: high
 created: 2026-02-07T14:12:42
 last_updated: 2026-02-07T14:12:42
 search_tags: legal-resident, excessive-force, citizen-check, shooting, vehicle-pursuit, warrantless-entry

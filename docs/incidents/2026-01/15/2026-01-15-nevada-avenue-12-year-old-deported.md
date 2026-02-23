@@ -7,7 +7,6 @@ type: immigrants
 status: ongoing
 affected_individual_citizenship: legal-resident
 injuries: none
-trustworthiness: high
 created: 2026-01-17T23:35:39
 last_updated: 2026-01-20T10:45:22
 search_tags: children, family-separation, legal-resident, warrantless-entry, deception, src:fox9, src:bring-me-the-news

@@ -7,7 +7,6 @@ type: observers
 status: resolved
 affected_individual_citizenship: us-citizen
 injuries: minor
-trustworthiness: high
 created: 2026-02-08T15:36:25
 last_updated: 2026-02-08T15:36:25
 search_tags: us-citizen, observer-detained, observer-intimidated, excessive-force, shooting, src:star-tribune, src:intercept

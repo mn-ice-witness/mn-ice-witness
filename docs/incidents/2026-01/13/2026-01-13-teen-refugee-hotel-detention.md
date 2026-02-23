@@ -7,7 +7,6 @@ type: citizens
 status: resolved
 affected_individual_citizenship: legal-resident
 injuries: none
-trustworthiness: medium
 created: 2026-02-11T09:34:19
 last_updated: 2026-02-11T09:34:19
 search_tags: children, legal-resident, family-separation, deception, operation-parris, src:mpr

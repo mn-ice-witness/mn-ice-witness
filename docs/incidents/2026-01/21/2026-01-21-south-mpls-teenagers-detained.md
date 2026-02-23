@@ -7,7 +7,6 @@ type: citizens
 status: under-investigation
 affected_individual_citizenship: us-citizen
 injuries: minor
-trustworthiness: high
 created: 2026-01-22T08:35:32
 last_updated: 2026-01-22T08:35:32
 search_tags: us-citizen, children, chemical-agents, citizen-check, observer-intimidated, vehicle-pursuit, src:mpr, src:wcco

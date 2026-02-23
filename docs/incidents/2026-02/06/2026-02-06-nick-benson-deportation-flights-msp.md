@@ -7,7 +7,6 @@ type: immigrants
 status: ongoing
 affected_individual_citizenship: n/a
 injuries: none
-trustworthiness: high
 created: 2026-02-09T21:32:32
 last_updated: 2026-02-09T21:32:32
 search_tags: src:npr, src:mpr, src:star-tribune, src:other-national, src:other-local, src:sahan-journal

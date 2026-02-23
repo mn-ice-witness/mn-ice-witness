@@ -7,7 +7,6 @@ type: immigrants
 status: resolved
 affected_individual_citizenship: undocumented
 injuries: minor
-trustworthiness: high
 created: 2026-01-14T08:54:15
 last_updated: 2026-02-08T14:03:16
 search_tags: workplace-raid, warrantless-entry, src:wcco, src:sahan-journal, src:fox9, src:kstp, src:kare11, src:other-local, src:mpr

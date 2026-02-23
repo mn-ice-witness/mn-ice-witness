@@ -7,7 +7,6 @@ type: citizens
 status: resolved
 affected_individual_citizenship: us-citizen
 injuries: none
-trustworthiness: medium
 created: 2026-02-04T16:11:03
 last_updated: 2026-02-04T16:11:03
 search_tags: us-citizen, citizen-check, children, src:other-local, src:star-tribune

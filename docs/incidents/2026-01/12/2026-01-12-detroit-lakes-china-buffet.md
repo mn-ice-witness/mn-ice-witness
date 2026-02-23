@@ -7,7 +7,6 @@ type: immigrants
 status: ongoing
 affected_individual_citizenship: unknown
 injuries: none
-trustworthiness: medium
 created: 2026-01-14T09:04:50
 last_updated: 2026-01-14T09:04:50
 search_tags: src:other-local

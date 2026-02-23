@@ -7,7 +7,6 @@ type: immigrants
 status: resolved
 affected_individual_citizenship: asylum-seeker
 injuries: none
-trustworthiness: corrected
 created: 2026-01-25T21:18:19
 last_updated: 2026-02-18T13:06:14
 search_tags: family-separation, children, src:star-tribune

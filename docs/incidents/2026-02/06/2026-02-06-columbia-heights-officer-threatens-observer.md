@@ -7,7 +7,6 @@ type: observers
 status: resolved
 affected_individual_citizenship: us-citizen
 injuries: none
-trustworthiness: no-news-media
 created: 2026-02-09T12:00:21
 last_updated: 2026-02-09T12:00:21
 search_tags: observer-intimidated, us-citizen

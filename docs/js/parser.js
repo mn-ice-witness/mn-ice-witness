@@ -60,7 +60,6 @@ const IncidentParser = {
             status: meta.status || 'unknown',
             affectedIndividualCitizenship: meta.affected_individual_citizenship || 'unknown',
             injuries: meta.injuries || 'unknown',
-            trustworthiness: meta.trustworthiness || 'no-news-media',
             lastUpdated: meta.last_updated || meta.date || 'Unknown'
         };
     },

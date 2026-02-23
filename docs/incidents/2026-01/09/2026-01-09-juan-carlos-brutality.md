@@ -7,7 +7,6 @@ type: observers
 status: under-investigation
 affected_individual_citizenship: unknown
 injuries: serious
-trustworthiness: high
 created: 2026-01-14T08:01:12
 last_updated: 2026-01-14T08:01:12
 search_tags: excessive-force, vehicle-pursuit, warrantless-entry, observer-intimidated, src:mn-reformer, src:cnn, src:other-national

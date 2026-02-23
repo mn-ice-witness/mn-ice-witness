@@ -7,7 +7,6 @@ type: citizens
 status: ongoing
 affected_individual_citizenship: us-citizen
 injuries: none
-trustworthiness: high
 created: 2026-02-06T10:31:55
 last_updated: 2026-02-06T10:31:55
 search_tags: us-citizen, citizen-check, vehicle-pursuit, src:wcco, src:other-local

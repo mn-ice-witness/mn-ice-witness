@@ -230,7 +230,6 @@ REQUIRED_FIELDS = [
     "date",
     "type",
     "status",
-    "trustworthiness",
     "created",
     "last_updated",
 ]
@@ -243,14 +242,6 @@ DATETIME_PATTERN = re.compile(
 
 VALID_STATUS = {"ongoing", "resolved", "under-investigation"}
 VALID_INJURIES = {"none", "minor", "serious", "fatal"}
-VALID_TRUSTWORTHINESS = {
-    "high",
-    "medium",
-    "low",
-    "no-news-media",
-    "removed",
-    "corrected",
-}
 VALID_TYPES = {
     "citizens",
     "observers",
@@ -354,12 +345,6 @@ def validate_frontmatter(meta, file_path):
             f"invalid injuries '{injuries}' (must be: {', '.join(sorted(VALID_INJURIES))})"
         )
 
-    trust = meta.get("trustworthiness", "").strip().lower()
-    if trust and trust not in VALID_TRUSTWORTHINESS:
-        errors.append(
-            f"invalid trustworthiness '{trust}' (must be: {', '.join(sorted(VALID_TRUSTWORTHINESS))})"
-        )
-
     type_value = meta.get("type", "").strip().lower()
     if type_value:
         types = [t.strip() for t in type_value.split(",")]
@@ -429,7 +414,6 @@ def process_incident(file_path, docs_dir, media_dir):
             "affected_individual_citizenship", "unknown"
         ),
         "injuries": meta.get("injuries", "unknown"),
-        "trustworthiness": meta.get("trustworthiness", "no-news-media"),
         "created": meta["created"],
         "lastUpdated": meta["last_updated"],
         "mediaCount": count_media(content),
@@ -571,16 +555,7 @@ def generate_search_index(incidents, data_dir, project_root):
     corrected = []
 
     for incident in incidents:
-        trust = incident.get("trustworthiness", "").lower()
-        if trust == "no-news-media":
-            no_news_media.append(incident)
-        elif trust == "removed":
-            removed.append(incident)
-        elif trust == "corrected":
-            corrected.append(incident)
-            current.append(incident)
-        else:
-            current.append(incident)
+        current.append(incident)
 
     # Parse not_use.md for no-add entries
     no_add = parse_not_use_entries(project_root)
@@ -793,11 +768,8 @@ def generate_sitemap(incidents, docs_dir):
         }
     )
 
-    # Individual incident pages (only verified/published ones)
+    # Individual incident pages
     for incident in incidents:
-        trust = incident.get("trustworthiness", "").lower()
-        if trust in ("removed",):
-            continue
         slug = Path(incident["filePath"]).stem
         last_updated = incident.get("lastUpdated", "")
         lastmod = last_updated[:10] if last_updated else incident.get("date", "")
@@ -855,12 +827,7 @@ def main():
     incidents_with_media = [i for i in incidents if i["hasLocalMedia"]]
     media_count = len(incidents_with_media)
 
-    verified_with_media = [
-        i
-        for i in incidents_with_media
-        if i["trustworthiness"] not in ("no-news-media", "removed")
-    ]
-    update_media_order(verified_with_media, data_dir)
+    update_media_order(incidents_with_media, data_dir)
 
     category_counts = generate_category_files(incidents, data_dir)
     search_counts = generate_search_index(incidents, data_dir, project_root)

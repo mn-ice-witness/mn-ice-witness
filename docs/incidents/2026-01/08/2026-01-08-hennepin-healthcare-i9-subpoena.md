@@ -7,7 +7,6 @@ type: schools-hospitals
 status: ongoing
 affected_individual_citizenship: unknown
 injuries: none
-trustworthiness: high
 created: 2026-01-15T22:45:52
 last_updated: 2026-01-15T22:45:52
 search_tags: src:kare11, src:mn-reformer, src:bring-me-the-news, src:sahan-journal, src:mpr, src:star-tribune

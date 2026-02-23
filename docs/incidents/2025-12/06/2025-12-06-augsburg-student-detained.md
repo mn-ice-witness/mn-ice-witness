@@ -7,7 +7,6 @@ type: immigrants, schools-hospitals
 status: ongoing
 affected_individual_citizenship: undocumented
 injuries: none
-trustworthiness: high
 created: 2026-02-05T14:55:45
 last_updated: 2026-02-05T14:55:45
 search_tags: excessive-force, shooting, warrantless-entry, observer-intimidated, src:mpr, src:star-tribune, src:kstp, src:fox9, src:bring-me-the-news, src:kare11, src:other-local, src:other-national

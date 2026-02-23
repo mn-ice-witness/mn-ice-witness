@@ -7,7 +7,6 @@ type: immigrants
 status: ongoing
 affected_individual_citizenship: asylum-seeker
 injuries: none
-trustworthiness: no-news-media
 created: 2026-02-16T23:06:02
 last_updated: 2026-02-16T23:38:50
 search_tags: workplace-raid

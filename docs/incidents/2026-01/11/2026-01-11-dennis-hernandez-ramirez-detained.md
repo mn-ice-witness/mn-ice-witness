@@ -7,7 +7,6 @@ type: citizens
 status: resolved
 affected_individual_citizenship: legal-resident
 injuries: minor
-trustworthiness: high
 created: 2026-02-06T12:50:46
 last_updated: 2026-02-09T21:12:05
 search_tags: legal-resident, excessive-force, src:sahan-journal, src:star-tribune

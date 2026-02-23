@@ -7,7 +7,6 @@ type: immigrants, observers
 status: resolved
 affected_individual_citizenship: various
 injuries: minor
-trustworthiness: high
 created: 2026-01-14T08:38:51
 last_updated: 2026-01-14T08:38:51
 search_tags: observer-detained, chemical-agents, excessive-force, us-citizen, legal-resident, src:star-tribune, src:wcco, src:cnn, src:other-local, src:other-national, src:kstp, src:mn-reformer, src:sahan-journal

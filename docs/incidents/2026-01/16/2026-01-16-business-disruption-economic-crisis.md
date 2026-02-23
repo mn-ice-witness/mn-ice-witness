@@ -7,7 +7,6 @@ type: background
 status: ongoing
 affected_individual_citizenship: various
 injuries: none
-trustworthiness: high
 created: 2026-02-06T12:04:35
 last_updated: 2026-02-12T10:12:33
 search_tags: legal-resident, src:sahan-journal, src:other-local, src:mpr, src:other-national, src:star-tribune, src:kare11, src:bring-me-the-news, src:pioneer-press, src:kstp, src:mn-reformer

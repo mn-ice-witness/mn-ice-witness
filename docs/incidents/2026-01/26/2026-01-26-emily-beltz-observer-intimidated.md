@@ -7,7 +7,6 @@ type: observers
 status: resolved
 affected_individual_citizenship: us-citizen
 injuries: none
-trustworthiness: high
 created: 2026-02-14T21:59:38
 last_updated: 2026-02-14T21:59:38
 search_tags: us-citizen, observer-intimidated, vehicle-pursuit, src:nyt, src:other-national

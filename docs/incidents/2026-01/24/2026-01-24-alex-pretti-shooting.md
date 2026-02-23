@@ -7,7 +7,6 @@ type: observers
 status: under-investigation
 affected_individual_citizenship: us-citizen
 injuries: fatal
-trustworthiness: high
 created: 2026-01-24T13:40:15
 last_updated: 2026-02-18T22:59:25
 search_tags: us-citizen, shooting, excessive-force, chemical-agents, observer-detained, observer-intimidated, src:star-tribune, src:fox9, src:sahan-journal, src:wcco, src:npr, src:nbc, src:kare11, src:cnn, src:wapo, src:kstp, src:bring-me-the-news, src:nyt, src:fox-news, src:other-national, src:mother-jones, src:mn-reformer, src:mpr

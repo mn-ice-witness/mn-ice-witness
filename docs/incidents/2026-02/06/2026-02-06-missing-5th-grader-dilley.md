@@ -7,7 +7,6 @@ type: schools-hospitals, immigrants
 status: ongoing
 affected_individual_citizenship: unknown
 injuries: none
-trustworthiness: high
 created: 2026-02-07T14:12:42
 last_updated: 2026-02-07T14:12:42
 search_tags: children, family-separation, src:wapo, src:cnn, src:other-national

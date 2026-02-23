@@ -7,7 +7,6 @@ type: immigrants
 status: ongoing
 affected_individual_citizenship: undocumented
 injuries: none
-trustworthiness: high
 created: 2026-01-29T21:13:04
 last_updated: 2026-02-09T21:12:05
 search_tags: src:pioneer-press, src:other-national

@@ -7,7 +7,6 @@ type: immigrants
 status: ongoing
 affected_individual_citizenship: asylum-seeker
 injuries: none
-trustworthiness: high
 created: 2026-01-30T19:30:00
 last_updated: 2026-01-30T19:30:00
 search_tags: legal-resident, excessive-force, workplace-raid, src:kare11

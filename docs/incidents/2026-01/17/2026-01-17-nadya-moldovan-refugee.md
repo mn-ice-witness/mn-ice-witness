@@ -7,7 +7,6 @@ type: immigrants
 status: ongoing
 affected_individual_citizenship: legal-resident
 injuries: none
-trustworthiness: no-news-media
 created: 2026-01-19T23:09:36
 last_updated: 2026-01-19T23:09:36
 search_tags: legal-resident, children, family-separation, operation-parris, src:fox9, src:pioneer-press

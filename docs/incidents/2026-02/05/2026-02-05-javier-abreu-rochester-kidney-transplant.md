@@ -7,7 +7,6 @@ type: citizens
 status: ongoing
 affected_individual_citizenship: unknown
 injuries: none
-trustworthiness: high
 created: 2026-02-06T15:56:25
 last_updated: 2026-02-09T12:00:00
 search_tags: legal-resident, excessive-force, vehicle-pursuit, src:mpr, src:other-local, src:other-national

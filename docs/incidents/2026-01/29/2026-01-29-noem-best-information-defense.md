@@ -7,7 +7,6 @@ type: response
 status: under-investigation
 affected_individual_citizenship: us-citizen
 injuries: fatal
-trustworthiness: high
 created: 2026-01-31T14:22:08
 last_updated: 2026-01-31T14:22:08
 search_tags: src:abc, src:nbc, src:other-national

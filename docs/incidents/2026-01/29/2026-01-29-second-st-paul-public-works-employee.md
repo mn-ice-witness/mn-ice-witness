@@ -7,7 +7,6 @@ type: citizens
 status: ongoing
 affected_individual_citizenship: legal-resident
 injuries: none
-trustworthiness: high
 created: 2026-01-30T14:27:01
 last_updated: 2026-02-09T21:12:05
 search_tags: legal-resident, citizen-check, src:bring-me-the-news, src:kare11

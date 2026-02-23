@@ -7,7 +7,6 @@ type: immigrants
 status: ongoing
 affected_individual_citizenship: undocumented
 injuries: none
-trustworthiness: high
 created: 2026-01-14T08:27:46
 last_updated: 2026-01-18T14:57:37
 search_tags: excessive-force, warrantless-entry, children, family-separation, src:fox9, src:kstp, src:kare11, src:mpr, src:abc, src:other-local, src:other-national, src:pioneer-press, src:wcco, src:sahan-journal

@@ -7,7 +7,6 @@ type: observers
 status: resolved
 affected_individual_citizenship: unknown
 injuries: none
-trustworthiness: high
 created: 2026-02-03T14:29:30
 last_updated: 2026-02-10T20:32:02
 search_tags: observer-detained, observer-intimidated, excessive-force, shooting, src:bring-me-the-news, src:other-national, src:star-tribune
