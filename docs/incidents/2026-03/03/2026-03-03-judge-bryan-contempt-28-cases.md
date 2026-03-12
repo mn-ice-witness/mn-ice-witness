@@ -15,7 +15,7 @@ search_tags: src:nbc, src:wcco, src:fox9, src:sahan-journal, src:mn-reformer, sr
 # Judge Bryan Summons U.S. Attorney for Contempt Over Unreturned Property in 28 Cases
 
 ## Summary
-U.S. District Judge Jeffrey Bryan summoned U.S. Attorney Daniel Rosen, acting chief David Fuller, and an ICE official to a contempt hearing on March 3 for "numerous unlawful violations of court orders" in 28 immigration cases. Immigrants released from ICE custody had not received their belongings — IDs, passports, work permits, phones, cash, and jewelry. Bryan warned he had "not ruled out the consequence of imprisonment." Rosen accused the judge of "smearing" him. The hearing ended without action; Bryan took the matter under advisement. A follow-up hearing on March 5 continued proceedings.
+U.S. District Judge Jeffrey Bryan summoned U.S. Attorney Daniel Rosen and an ICE official to a contempt hearing on March 3 for "numerous unlawful violations of court orders" in 28 immigration cases. Immigrants released from ICE custody had not received their belongings — IDs, passports, work permits, phones, cash, and jewelry. Bryan warned he had "not ruled out the consequence of imprisonment." Rosen accused the judge of "smearing" him. The hearing ended without action; Bryan took the matter under advisement. On March 5, Judge John Tunheim held a separate contempt hearing over unreturned property in six additional cases, also summoning Rosen and Assistant U.S. Attorney David Fuller.
 
 ## Sources
 1. NBC News (Mar 3, 2026): [Minnesota judge threatens federal prosecutor with contempt over ICE property disputes](https://www.nbcnews.com/news/us-news/minnesota-judge-federal-prosecutor-contempt-ice-immigration-rcna261583)
