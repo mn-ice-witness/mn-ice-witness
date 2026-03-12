@@ -16,14 +16,20 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (287 incidents)
+## CURRENT (296 incidents)
 
 Published incidents visible on the main site.
 
+- incidents/2026-03/04/2026-03-04-mpd-impact-report-surge.md | 2026-03-04 | Minneapolis | background | MPD Reports $5.2M Overtime in January, 50,000+ Calls, 9 Officers Injured During Metro Surge
+- incidents/2026-03/03/2026-03-03-noem-senate-testimony-650-agents-fired.md | 2026-03-03 | Washington, D.C. | response | Noem Testifies 650 Agents Remain in Minnesota; Defends 'Domestic Terrorism' Claims; Fired Two Days Later
+- incidents/2026-03/03/2026-03-03-judge-bryan-contempt-28-cases.md | 2026-03-03 | St. Paul | background | Judge Bryan Summons U.S. Attorney for Contempt Over Unreturned Property in 28 Cases
+- incidents/2026-02/27/2026-02-27-schiltz-210-court-order-violations.md | 2026-02-27 | Minneapolis | background | Chief Judge Schiltz Documents 210 Court Order Violations, Threatens Criminal Contempt
 - incidents/2026-02/20/2026-02-20-metro-surge-drawdown-500-agents.md | 2026-02-20 | Minneapolis | background | Fewer Than 500 ICE Agents Remain; Homan Promises 150 Within a Week; Observers Report Suburban Shift
+- incidents/2026-02/19/2026-02-19-sotelo-guzman-fairview-mental-health.md | 2026-02-19 | Edina | immigrants, schools-hospitals | ICE Removes Mental Health Patient from Edina Hospital, Transfers to Texas
 - incidents/2026-02/18/2026-02-18-soto-jimenez-contempt-court-order-violated.md | 2026-02-18 | Big Lake | immigrants | Federal Judge Holds DOJ Attorney in Contempt After ICE Dumps Big Lake Man in Texas Without ID
 - incidents/2026-02/17/2026-02-17-mankato-ice-vehicle-crash.md | 2026-02-17 | Mankato | observers | Collision Between ICE Vehicle and Resident's Car Near Mankato Public Safety Center
 - incidents/2026-02/16/2026-02-16-five-west-rochester-kitchen-workers.md | 2026-02-16 | Rochester | immigrants | Two Kitchen Workers Detained at Five West Restaurant in Rochester
+- incidents/2026-02/16/2026-02-16-emily-rojas-shakopee-school-stop.md | 2026-02-16 | Shakopee | schools-hospitals | Shakopee Student Stopped by Immigration Agents Near School
 - incidents/2026-02/13/2026-02-13-minneapolis-203m-economic-impact.md | 2026-02-13 | Minneapolis | background | Minneapolis Estimates $203 Million Economic Impact from Operation Metro Surge
 - incidents/2026-02/13/2026-02-13-sheriff-witt-denies-ice-deal.md | 2026-02-13 | Minneapolis | response | Sheriff Witt Denies ICE Deal, Says She Was "Scapegoated"
 - incidents/2026-02/12/2026-02-12-homan-operation-metro-surge-conclusion.md | 2026-02-12 | Minneapolis | background | Homan Declares Operation Metro Surge Over
@@ -51,6 +57,7 @@ Published incidents visible on the main site.
 - incidents/2026-02/06/2026-02-06-missing-5th-grader-dilley.md | 2026-02-06 | Columbia Heights | schools-hospitals, immigrants | Missing Columbia Heights Fifth Grader Spotted Inside Texas Detention Center by Classmates
 - incidents/2026-02/05/2026-02-05-kyle-wagner-eat-street-flats-raid.md | 2026-02-05 | Minneapolis | citizens | 11 Federal Agents Smash Into Apartment Building at 6 a.m. to Arrest Man for Anti-ICE Social Media Posts
 - incidents/2026-02/05/2026-02-05-javier-abreu-rochester-kidney-transplant.md | 2026-02-05 | Rochester | citizens | Kidney Transplant Recipient Arrested in Rochester Needs Anti-Rejection Medication
+- incidents/2026-02/05/2026-02-05-ed-higgins-columbia-heights-chase.md | 2026-02-05 | Columbia Heights | observers | Observer Chased by Federal Agents Through Columbia Heights, Cornered at Police Station
 - incidents/2026-02/05/2026-02-05-hennepin-courthouse-detentions.md | 2026-02-05 | Minneapolis | immigrants | Two Detained by ICE Inside Hennepin County Courthouse After Hearing
 - incidents/2026-02/04/2026-02-04-dhs-munitions-inventory-35000.md | 2026-02-04 | Minneapolis | response | Leaked CBP Inventory Reveals 35,765 Munitions Stockpiled for Operation Metro Surge
 - incidents/2026-02/04/2026-02-04-albert-lea-woman-baby-car-chase.md | 2026-02-04 | Albert Lea | immigrants | ICE Agents Cut Seatbelt to Extract Woman From Car; Baby in Backseat
@@ -202,6 +209,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/12/2026-01-12-christian-molina-car-rammed.md | 2026-01-12 | Minneapolis | citizens | ICE Rams Latino U.S. Citizen's Car, Releases Him After Confirming Identity
 - incidents/2026-01/12/2026-01-12-nimco-omar-citizen-check.md | 2026-01-12 | Minneapolis | citizens | Citizen Check: U.S. Citizen Confronted by ICE Agents While Walking
 - incidents/2026-01/12/2026-01-12-minnesota-sues-to-halt-operation.md | 2026-01-12 | Minneapolis | background | Minnesota Sues Federal Government to Halt Operation Metro Surge
+- incidents/2026-01/12/2026-01-12-lidia-escobar-maya-fort-bliss.md | 2026-01-12 | Anoka area | immigrants | Minnesota Mother Detained 30 Days at Fort Bliss; Son Serves in Army National Guard
 - incidents/2026-01/12/2026-01-12-garrison-gibson-battering-ram.md | 2026-01-12 | Minneapolis | immigrants | Liberian Man Arrested With Battering Ram, No Judicial Warrant
 - incidents/2026-01/11/2026-01-11-irma-escoto-citizen-check.md | 2026-01-11 | West St. Paul | citizens | Citizen Check: U.S. Citizen Surrounded by ICE Agents at West St. Paul Restaurant
 - incidents/2026-01/11/2026-01-11-dhs-response-speedway-bystander.md | 2026-01-11 | St. Paul | response | DHS Response: Speedway Bystander "Hit an Officer"
@@ -299,6 +307,7 @@ Published incidents visible on the main site.
 - incidents/2025-12/04/2025-12-04-dhs-response-abdulkadir-abdi.md | 2025-12-04 | Minneapolis | response | DHS Response: Abdulkadir Abdi "Gang Member"
 - incidents/2025-12/04/2025-12-04-abdulkadir-abdi-detained.md | 2025-12-04 | Minneapolis | immigrants | Addiction Recovery Leader Detained, Labeled "Gang Member" — Later Released by Federal Judge
 - incidents/2025-12/03/2025-12-03-lucia-webb-boxed-in.md | 2025-12-03 | Minneapolis | observers | ICE Observer Boxed In by Four Vehicles, Threatened with Arrest
+- incidents/2025-12/03/2025-12-03-somali-citizen-nicollet-mall.md | 2025-12-03 | Minneapolis | citizens | U.S. Citizen Zip-Tied and Detained Near Nicollet Mall; Agents Mocked Her Hijab
 - incidents/2025-12/03/2025-12-03-hola-arepa-warrantless-entry.md | 2025-12-03 | Minneapolis | immigrants | Hola Arepa Staff Refuses ICE Entry Without Warrant
 - incidents/2025-12/02/2025-12-02-ali-dahir-citizen-check.md | 2025-12-02 | Minneapolis | citizens | Citizen Check: U.S. Citizen Detained 30 Minutes Outside Apartment Despite Showing Passport
 - incidents/2025-12/02/2025-12-02-metro-transit-driver-detained.md | 2025-12-02 | Minneapolis | immigrants | Somali-American Metro Transit Bus Driver Detained Over a Month
@@ -310,7 +319,7 @@ Published incidents visible on the main site.
 
 ---
 
-## NO-ADD (213 entries)
+## NO-ADD (216 entries)
 
 Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 
@@ -412,6 +421,9 @@ Stories evaluated and rejected. See `dev-docs/not_use.md` for rejection reasons.
 - dev-docs/not_use.md | Dec 18 / Jan 16 | Freeborn County 287(g) ACLU Lawsuit
 - dev-docs/not_use.md | Jan 20-21 | Anpetu Teca Education Center ICE Staging Area
 - dev-docs/not_use.md | n/a | Anonymous Refugee Detentions From NPR
+- dev-docs/not_use.md | Mar 1-2 | Whipple Building "Bring the Heat" Protest — Deputy Head-Slam
+- dev-docs/not_use.md | Mar 11 | MN Senate Passes $40M Rental Assistance
+- dev-docs/not_use.md | Mar 11 | Mayor Frey Vetoes Eviction Notice Extension
 - dev-docs/not_use.md | Feb 4 | Beth Jackson Observer TSA Retaliation
 - dev-docs/not_use.md | Feb 12 | Walz $10M Business Relief Package
 - dev-docs/not_use.md | Feb 8 | Roseville Teenagers Detained

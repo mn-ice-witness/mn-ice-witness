@@ -1,6 +1,71 @@
 {
   "incidents": [
     {
+      "filePath": "incidents/2026-02/19/2026-02-19-sotelo-guzman-fairview-mental-health.md",
+      "title": "ICE Removes Mental Health Patient from Edina Hospital, Transfers to Texas",
+      "summary": "ICE agents arrested Adrian Sotelo Guzman on Feb. 19 during Operation Metro Surge and brought him to M Health Fairview Southdale Hospital in Edina after he exhibited \"abnormal behavior and an altered mental state.\" He was diagnosed with bipolar disorder with psychotic features and hospitalized, while ICE agents camped in or near the emergency department for a week. Despite a habeas corpus petition and an initial court order blocking his transfer, Judge Daniel Traynor reversed course and allowed ICE to remove him to Texas. Attorneys initially located him at Camp East Montana, a tent camp in El Paso, before confirming he was moved to El Paso Behavioral Health System. His family and Unidos MN have called for an investigation into the discharge.",
+      "latestUpdate": null,
+      "correctionNote": null,
+      "date": "2026-02-19",
+      "time": "unknown",
+      "location": "M Health Fairview Southdale Hospital",
+      "city": "Edina",
+      "type": [
+        "immigrants",
+        "schools-hospitals"
+      ],
+      "status": "ongoing",
+      "affectedIndividualCitizenship": "asylum-seeker",
+      "injuries": "none",
+      "created": "2026-03-09T10:06:56",
+      "lastUpdated": "2026-03-09T10:06:56",
+      "mediaCount": 0,
+      "notable": false,
+      "searchTags": [
+        "family-separation",
+        "src:sahan-journal",
+        "src:mpr",
+        "src:other-local"
+      ],
+      "hasLocalMedia": false,
+      "localMediaType": null,
+      "localMediaPath": null,
+      "localMediaOgPath": null,
+      "localMediaFiles": [],
+      "aspectRatio": null,
+      "mediaVersion": null
+    },
+    {
+      "filePath": "incidents/2026-02/16/2026-02-16-emily-rojas-shakopee-school-stop.md",
+      "title": "Shakopee Student Stopped by Immigration Agents Near School",
+      "summary": "Emily Rojas, a Shakopee High School student, was a passenger in a car stopped by immigration agents while leaving school on Feb. 16 \u2014 four days after Border Czar Tom Homan announced the end of Operation Metro Surge, and one week before DHS told Congress that agents had been directed not to stage near schools. Multiple ICE vehicles were present. Rojas said she was not afraid for herself but feared for another person in the car. She described the encounter at a Unidos MN rally at the State Capitol on Feb. 26.",
+      "latestUpdate": null,
+      "correctionNote": null,
+      "date": "2026-02-16",
+      "time": "unknown",
+      "location": "Shakopee, en route from Shakopee High School",
+      "city": "Shakopee",
+      "type": "schools-hospitals",
+      "status": "resolved",
+      "affectedIndividualCitizenship": "unknown",
+      "injuries": "none",
+      "created": "2026-03-11T23:32:52",
+      "lastUpdated": "2026-03-11T23:32:52",
+      "mediaCount": 0,
+      "notable": false,
+      "searchTags": [
+        "children",
+        "src:other-local"
+      ],
+      "hasLocalMedia": false,
+      "localMediaType": null,
+      "localMediaPath": null,
+      "localMediaOgPath": null,
+      "localMediaFiles": [],
+      "aspectRatio": null,
+      "mediaVersion": null
+    },
+    {
       "filePath": "incidents/2026-02/11/2026-02-11-ice-hospital-fear-lost-pregnancy.md",
       "title": "ICE Fears Cause Lost Pregnancy, Home Birth Crisis as Clinic No-Show Rates Hit 60%",
       "summary": "Multiple Tier 1 news outlets reported that ICE presence in Minnesota hospitals and clinics has caused measurable medical harm. A pregnant woman lost her pregnancy at 20 weeks after postponing a monitoring appointment due to fear of ICE. Another pregnant woman in her third trimester stopped attending visits entirely; a nurse found her at home 8 centimeters dilated, too terrified to seek help. Clinics across the metro report 50-60% no-show rates among immigrant patients. Health care facilities have begun setting up \"safe rooms\" for patients afraid of ICE encounters.",

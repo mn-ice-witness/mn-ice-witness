@@ -61,8 +61,38 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://mn-ice-witness.org/entry/2026-03-04-mpd-impact-report-surge</loc>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://mn-ice-witness.org/entry/2026-03-03-noem-senate-testimony-650-agents-fired</loc>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://mn-ice-witness.org/entry/2026-03-03-judge-bryan-contempt-28-cases</loc>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://mn-ice-witness.org/entry/2026-02-27-schiltz-210-court-order-violations</loc>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://mn-ice-witness.org/entry/2026-02-20-metro-surge-drawdown-500-agents</loc>
     <lastmod>2026-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://mn-ice-witness.org/entry/2026-02-19-sotelo-guzman-fairview-mental-health</loc>
+    <lastmod>2026-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -81,6 +111,12 @@
   <url>
     <loc>https://mn-ice-witness.org/entry/2026-02-16-five-west-rochester-kitchen-workers</loc>
     <lastmod>2026-02-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://mn-ice-witness.org/entry/2026-02-16-emily-rojas-shakopee-school-stop</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -243,6 +279,12 @@
   <url>
     <loc>https://mn-ice-witness.org/entry/2026-02-05-javier-abreu-rochester-kidney-transplant</loc>
     <lastmod>2026-02-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://mn-ice-witness.org/entry/2026-02-05-ed-higgins-columbia-heights-chase</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -872,7 +914,7 @@
   </url>
   <url>
     <loc>https://mn-ice-witness.org/entry/2026-01-15-hussen-v-noem-racial-profiling-lawsuit</loc>
-    <lastmod>2026-02-18</lastmod>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -932,7 +974,7 @@
   </url>
   <url>
     <loc>https://mn-ice-witness.org/entry/2026-01-14-julio-sosa-celis-shooting</loc>
-    <lastmod>2026-02-16</lastmod>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1149,6 +1191,12 @@
   <url>
     <loc>https://mn-ice-witness.org/entry/2026-01-12-minnesota-sues-to-halt-operation</loc>
     <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://mn-ice-witness.org/entry/2026-01-12-lidia-escobar-maya-fort-bliss</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1731,6 +1779,12 @@
   <url>
     <loc>https://mn-ice-witness.org/entry/2025-12-03-lucia-webb-boxed-in</loc>
     <lastmod>2026-02-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://mn-ice-witness.org/entry/2025-12-03-somali-citizen-nicollet-mall</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

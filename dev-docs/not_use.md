@@ -703,6 +703,29 @@ Stories are excluded when they don't meet the project's core focus:
 - Reason: **Insufficient details.** No names, no exact dates, anonymous sources only.
 - Date evaluated: 2026-02-07
 
+### March 2026
+
+**Whipple Building "Bring the Heat" Protest — Deputy Head-Slam (Mar 1-2)**
+- Sources: [MPR News](https://www.mprnews.org/story/2026/03/02/whipple-building-ice-protestors-cited-1-arrested-sunday), [BMTN](https://bringmethenews.com/minnesota-news/hennepin-county-investigating-after-deputy-slams-anti-ice-protesters-head-to-ground), [Star Tribune](https://www.startribune.com/demonstrators-arrested-outside-whipple-building/601590994), [Unicorn Riot](https://unicornriot.ninja/2026/police-mass-arrest-protesters-again-after-whipple-protest-ending-week-of-action/), [CBS Minnesota](https://www.cbsnews.com/minnesota/news/whipple-building-protest-arrests-unlawful-assembly/), [FOX 9](https://www.fox9.com/news/whipple-protests-38-arrests)
+- Date: March 1-2, 2026
+- Details: Week-long protest at Whipple Federal Building culminated with 38 cited/released, 1 jailed on riot charge, 15 arrested by State Patrol. Video shows Hennepin County Sheriff's deputy slamming a protester's head into the ground; internal investigation opened. A documentarian was also pushed by a deputy.
+- Reason: **Not an ICE enforcement action.** Force was by Hennepin County Sheriff's deputies and Minnesota State Patrol against protesters, not by ICE/CBP agents. This database documents ICE/CBP civil rights incidents, not local/state law enforcement actions at protests.
+- Date evaluated: 2026-03-12
+
+**MN Senate Passes $40M Rental Assistance (Mar 11)**
+- Sources: [MPR News](https://www.mprnews.org/story/2026/03/11/minnesota-senate-to-vote-wednesday-on-icerelated-rent-assistance), [MN Reformer](https://minnesotareformer.com/2026/03/11/minnesota-senate-approves-rental-assistance-for-people-impacted-by-immigration-surge/), [Pioneer Press](https://www.twincities.com/2026/03/11/minnesota-senate-approves-rental-aid-following-immigration-crackdown/)
+- Date: March 11, 2026
+- Details: Minnesota Senate voted 35-32 to approve $40 million in emergency rental assistance for people impacted by Operation Metro Surge. One Republican (Jim Abeler, R-Anoka) crossed party lines.
+- Reason: **Political/institutional story** — legislative response, not a civil rights incident.
+- Date evaluated: 2026-03-12
+
+**Mayor Frey Vetoes Eviction Notice Extension (Mar 11)**
+- Sources: [Star Tribune](https://www.startribune.com/mayor-jacob-frey-minneapolis-eviction-notice-ordinance/601596051), [CBS Minnesota](https://www.cbsnews.com/minnesota/news/frey-eviction-notice-ordinance-veto/), [FOX 9](https://www.fox9.com/news/minneapolis-eviction-notice-extension-vetoed-march-2026), [MPR News](https://www.mprnews.org/story/2026/03/11/mayor-frey-vetoes-eviction-notice-extension-proposes-1-million-in-rental-aid-instead), [Sahan Journal](https://sahanjournal.com/housing/minneapolis-eviction-filing-period-mayor-frey-veto/), [KARE 11](https://www.kare11.com/article/news/local/minneapolis-mayor-vetoes-eviction-extension-announces-1-million-in-emergency-rental-assistance/89-59e53144-73c3-47e0-93cb-cd03074ac6dc)
+- Date: March 11, 2026
+- Details: Mayor Frey vetoed ordinance extending eviction notice periods from 30 to 60 days through Aug 2026 in response to Metro Surge economic impact. Offered $1M in emergency rental assistance instead.
+- Reason: **Political/institutional story** — same category as Walz $10M relief package (Feb 12). Government policy response, not a civil rights incident.
+- Date evaluated: 2026-03-12
+
 ### February 2026
 
 **Beth Jackson Observer TSA Retaliation (Feb 4)**

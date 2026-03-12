@@ -1,6 +1,41 @@
 {
   "incidents": [
     {
+      "filePath": "incidents/2026-02/19/2026-02-19-sotelo-guzman-fairview-mental-health.md",
+      "title": "ICE Removes Mental Health Patient from Edina Hospital, Transfers to Texas",
+      "summary": "ICE agents arrested Adrian Sotelo Guzman on Feb. 19 during Operation Metro Surge and brought him to M Health Fairview Southdale Hospital in Edina after he exhibited \"abnormal behavior and an altered mental state.\" He was diagnosed with bipolar disorder with psychotic features and hospitalized, while ICE agents camped in or near the emergency department for a week. Despite a habeas corpus petition and an initial court order blocking his transfer, Judge Daniel Traynor reversed course and allowed ICE to remove him to Texas. Attorneys initially located him at Camp East Montana, a tent camp in El Paso, before confirming he was moved to El Paso Behavioral Health System. His family and Unidos MN have called for an investigation into the discharge.",
+      "latestUpdate": null,
+      "correctionNote": null,
+      "date": "2026-02-19",
+      "time": "unknown",
+      "location": "M Health Fairview Southdale Hospital",
+      "city": "Edina",
+      "type": [
+        "immigrants",
+        "schools-hospitals"
+      ],
+      "status": "ongoing",
+      "affectedIndividualCitizenship": "asylum-seeker",
+      "injuries": "none",
+      "created": "2026-03-09T10:06:56",
+      "lastUpdated": "2026-03-09T10:06:56",
+      "mediaCount": 0,
+      "notable": false,
+      "searchTags": [
+        "family-separation",
+        "src:sahan-journal",
+        "src:mpr",
+        "src:other-local"
+      ],
+      "hasLocalMedia": false,
+      "localMediaType": null,
+      "localMediaPath": null,
+      "localMediaOgPath": null,
+      "localMediaFiles": [],
+      "aspectRatio": null,
+      "mediaVersion": null
+    },
+    {
       "filePath": "incidents/2026-02/18/2026-02-18-soto-jimenez-contempt-court-order-violated.md",
       "title": "Federal Judge Holds DOJ Attorney in Contempt After ICE Dumps Big Lake Man in Texas Without ID",
       "summary": "U.S. District Judge Laura Provinzino held Special Assistant U.S. Attorney Matthew Isihara in civil contempt on February 18 after ICE violated her court order in the case of Rigoberto Soto Jimenez, a Mexican national who had lived in Big Lake, Minnesota, since 2018. Provinzino had ordered Soto Jimenez released in Minnesota by February 13 with all his property returned. Instead, ICE released him in El Paso, Texas, without his Minnesota driver's instruction permit or Mexican consular ID, forcing him to spend a night in a shelter before his attorney arranged a flight home. Isihara, an Army JAG officer assigned to handle over 126 habeas cases in one month, acknowledged he \"personally dropped the ball.\" Provinzino imposed $500-per-day fines starting February 20, the first contempt sanction against a government attorney during Trump's second term. DHS returned the documents on February 19, and Provinzino lifted the contempt on February 20 with no fines imposed. U.S. Attorney Dan Rosen called the order a \"lawless abuse of judicial power.\" The case reflects the broader strain on Minnesota's federal courts, where over 1,000 habeas petitions were filed since December 1, and Chief Judge Patrick Schiltz identified nearly 100 ICE violations of court orders in January alone.",
@@ -1664,6 +1699,36 @@
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
+        "src:other-local"
+      ],
+      "hasLocalMedia": false,
+      "localMediaType": null,
+      "localMediaPath": null,
+      "localMediaOgPath": null,
+      "localMediaFiles": [],
+      "aspectRatio": null,
+      "mediaVersion": null
+    },
+    {
+      "filePath": "incidents/2026-01/12/2026-01-12-lidia-escobar-maya-fort-bliss.md",
+      "title": "Minnesota Mother Detained 30 Days at Fort Bliss; Son Serves in Army National Guard",
+      "summary": "Lidia Escobar Maya, 43, a mother of three U.S. citizen children who had lived in the United States for 23 years, was detained by ICE on Jan. 12 outside her home. Her 24-year-old son, who serves in the Army National Guard, had filed a military parole-in-place application to help adjust her status before she was detained. She was held for 30 days at Camp East Montana at Fort Bliss in El Paso, where she described being zip-tied, shackled, and housed in a tent camp with wet bedding and limited food. She was released Feb. 10 with an ankle monitor.",
+      "latestUpdate": null,
+      "correctionNote": null,
+      "date": "2026-01-12",
+      "time": "unknown",
+      "location": "Community west of Twin Cities",
+      "city": "Anoka area",
+      "type": "immigrants",
+      "status": "resolved",
+      "affectedIndividualCitizenship": "undocumented",
+      "injuries": "none",
+      "created": "2026-03-11T23:32:52",
+      "lastUpdated": "2026-03-11T23:32:52",
+      "mediaCount": 0,
+      "notable": false,
+      "searchTags": [
+        "family-separation",
         "src:other-local"
       ],
       "hasLocalMedia": false,

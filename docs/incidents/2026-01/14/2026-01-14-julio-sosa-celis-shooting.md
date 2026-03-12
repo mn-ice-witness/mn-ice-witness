@@ -8,13 +8,14 @@ status: ongoing
 affected_individual_citizenship: asylum-seeker
 injuries: serious
 created: 2026-02-07T14:12:42
-last_updated: 2026-02-16T13:08:23
+last_updated: 2026-03-11T23:36:16
 search_tags: legal-resident, children, shooting, excessive-force, chemical-agents, family-separation, warrantless-entry, vehicle-pursuit, src:mpr, src:star-tribune, src:sahan-journal, src:wcco, src:kstp, src:kare11, src:other-national, src:mn-reformer, src:fox9, src:cbs, src:npr, src:wapo, src:pbs, src:cnn, src:ap
 ---
 
 # ICE Agent Shoots Man Through Closed Door in North Minneapolis; Bullet Enters Apartment with Four Children
 
 ## Updates
+- **Mar 2** - [BCA continues state investigation](https://sahanjournal.com/public-safety/north-minneapolis-ice-shooting-julio-sosa-celis-state-investigation/) but federal government refuses to cooperate. FBI won't let BCA interview the shooting officer, has withheld the officer's identity, and indicated "no intention of sharing the results of its investigation." BCA surveillance video shows a man dropping a shovel in the yard before agents arrived.
 - **Feb 13** - [AP reports](https://www.opb.org/article/2026/02/13/feds-investigating-whether-2-ice-officers-lied-about-the-shooting-of-a-venezuelan-man-in-minneapolis/) a third witness, Gabriel Alejandro Hernandez Ledezma, was detained without a warrant on Jan 30 and flown to Texas within hours to prevent testimony. Returned to Minnesota after federal judge ordered his release.
 - **Feb 13** - ICE Director Todd Lyons [announces a joint criminal perjury probe with DOJ](https://www.npr.org/2026/02/13/nx-s1-5713947/immigration-agents-lie-minnesota) into two ICE officers who made "untruthful statements" under oath about the shooting. Both officers [placed on administrative leave](https://www.cbsnews.com/minnesota/news/todd-lyons-ice-north-minneapolis-shooting-lying-under-oath/) and face potential termination and criminal prosecution.
 - **Feb 12** - DOJ [moves to drop all charges with prejudice](https://www.startribune.com/doj-moves-to-drop-charges-against-men-arrested-after-north-minneapolis-ice-shooting/601581378) against Sosa-Celis and Aljorna, citing "newly discovered evidence" that is "materially inconsistent" with the complaint affidavit. [Video surveillance evidence](https://www.cbsnews.com/news/doj-drops-charges-assaulting-ice-officers-inconsistent-evidence/) did not back up the agent's claims of being assaulted. Attorney Brian Clark called the charges "based on lies by an ICE agent who recklessly shot into their home through a closed door." Family [demands the agent be identified and criminally charged](https://www.fox9.com/news/north-minneapolis-ice-shooting-doj-dismisses-charges-venezuelan-men-feb-12-2026).
@@ -51,6 +52,10 @@ On January 14, 2026, an ICE agent shot Julio Cesar Sosa-Celis, 24, in the leg du
 22. PBS (Feb 13, 2026): [Feds investigate whether ICE officers lied about shooting of Venezuelan man](https://www.pbs.org/newshour/nation/feds-investigate-whether-ice-officers-lied-about-shooting-of-venezuelan-man-in-minneapolis)
 23. CNN (Feb 15, 2026): [A man shot by an ICE agent in Minneapolis was charged with assaulting law enforcement. A startling admission ended the case](https://www.cnn.com/2026/02/15/us/ice-shooting-dhs-doj-false-statements)
 24. AP (Feb 13, 2026): [Feds investigating whether 2 ICE officers lied about the shooting of a Venezuelan man in Minneapolis](https://www.opb.org/article/2026/02/13/feds-investigating-whether-2-ice-officers-lied-about-the-shooting-of-a-venezuelan-man-in-minneapolis/)
+25. Sahan Journal (Mar 2, 2026): [Minnesota investigators continue probe into north Minneapolis ICE shooting](https://sahanjournal.com/public-safety/north-minneapolis-ice-shooting-julio-sosa-celis-state-investigation/)
+26. MPR News (Mar 2, 2026): [Minnesota investigators continue probe into north Minneapolis ICE shooting](https://www.mprnews.org/story/2026/03/02/minnesota-investigators-continue-probe-into-north-minneapolis-ice-shooting)
+27. KSTP (Mar 2, 2026): [BCA claims federal investigators won't share information on non-fatal ICE shooting](https://kstp.com/kstp-news/local-news/bca-claims-federal-investigators-wont-share-information-on-non-fatal-ice-shooting/)
+28. Bring Me The News (Mar 2, 2026): [BCA says protests, lack of FBI cooperation have impeded ICE shooting probe](https://bringmethenews.com/minnesota-news/bca-says-protests-lack-of-fbi-cooperation-have-impeded-ice-shooting-probe)
 
 ## Related Incidents
 - [Six Children Hospitalized After ICE Deploys Flashbangs and Tear Gas on Family SUV](#2026-01-14-shawn-jackson-children-tear-gas) - Same day, connected protest response.

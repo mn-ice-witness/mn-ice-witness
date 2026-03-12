@@ -8,17 +8,18 @@ status: ongoing
 affected_individual_citizenship: various
 injuries: none
 created: 2026-02-09T14:54:03
-last_updated: 2026-02-18T22:59:25
+last_updated: 2026-03-11T23:34:22
 search_tags: src:star-tribune, src:wcco, src:kstp, src:nbc, src:npr, src:other-national, src:fox9, src:mpr
 ---
 
 # ACLU Files Class Action Challenging Racial Profiling During Operation Metro Surge
 
 ## Updates
+- **Mar 9** - Judge Tostrud issues [111-page order](https://www.fox9.com/news/ice-minnesota-judge-finds-federal-agents-likely-engaged-unconstitutional-immigration-enforcement) finding ICE/CBP agents "likely engaged in unconstitutional policies" and at least 23 immigrants were stopped based solely on race or ethnicity. Despite these findings, Tostrud [declined to issue a preliminary injunction](https://www.mprnews.org/story/2026/03/10/judge-denies-temporary-halt-alleged-racially-biased-ice-enforcement-tactics), citing the drawdown of agents reducing the likelihood of irreparable harm.
 - **Feb 17-18** - Judge Tostrud held [two days of evidentiary hearings](https://www.fox9.com/news/immigrants-arrested-during-operation-metro-surge-testify-against-ice-practices-feb-2026). Six plaintiffs testified, including lead plaintiff Mubashir Hussen who described being [slammed against a stairwell doorframe](https://www.mprnews.org/story/2026/02/17/court-hearings-lawsuit-alleging-ice-agents-racially-profiled-us-citizens-minnesota); video of his arrest played in court. Judge [took the case under advisement](https://www.mprnews.org/story/2026/02/18/judge-hears-arguments-in-lawsuit-alleging-ice-racially-profiling-somali-and-latino-residents) for a preliminary injunction ruling.
 
 ## Summary
-On January 15, 2026, the ACLU filed Hussen v. Noem — a class-action lawsuit on behalf of three U.S. citizens and a proposed class of people whose constitutional rights were violated by federal agents during Operation Metro Surge. The complaint alleges agents conducted suspicionless stops, warrantless arrests, and racial profiling targeting Somali and Latino communities. With more than 40 sworn declarations and amicus briefs from ten bar associations and the City of Minneapolis, the case has produced the most comprehensive evidentiary record of racial profiling during the operation. A two-day evidentiary hearing was held February 17-18, 2026; the preliminary injunction is under advisement.
+On January 15, 2026, the ACLU filed Hussen v. Noem — a class-action lawsuit on behalf of three U.S. citizens and a proposed class of people whose constitutional rights were violated by federal agents during Operation Metro Surge. The complaint alleges agents conducted suspicionless stops, warrantless arrests, and racial profiling targeting Somali and Latino communities. With more than 40 sworn declarations and amicus briefs from ten bar associations and the City of Minneapolis, the case has produced the most comprehensive evidentiary record of racial profiling during the operation. On March 9, Judge Tostrud issued a 111-page order finding that ICE/CBP agents "likely engaged in unconstitutional policies" and that at least 23 immigrants were stopped solely on their race or ethnicity, but declined to issue a preliminary injunction, citing the drawdown of agents.
 
 ## Sources
 1. Star Tribune (Jan 15, 2026): [ACLU sues feds over alleged racial profiling in Twin Cities immigration surge](https://www.startribune.com/aclu-sues-feds-over-alleged-racial-profiling-in-twin-cities-immigration-surge/601564707)
@@ -36,6 +37,14 @@ On January 15, 2026, the ACLU filed Hussen v. Noem — a class-action lawsuit on
 13. MPR News (Feb 17, 2026): [Lawsuit alleging ICE agents racially profiled U.S. citizens in Minnesota has hearings Tuesday, Wednesday](https://www.mprnews.org/story/2026/02/17/court-hearings-lawsuit-alleging-ice-agents-racially-profiled-us-citizens-minnesota)
 14. MPR News (Feb 18, 2026): [Judge hears arguments in lawsuit alleging ICE racially profiling Somali and Latino residents](https://www.mprnews.org/story/2026/02/18/judge-hears-arguments-in-lawsuit-alleging-ice-racially-profiling-somali-and-latino-residents)
 15. Star Tribune (Feb 17, 2026): [Minnesotans testify about racial profiling by ICE agents during immigration surge](https://www.startribune.com/minnesotans-testify-in-federal-court-about-racial-profiling-by-ice-agents/601583988)
+16. FOX 9 (Mar 9, 2026): [Judge finds federal agents likely engaged in 'unconstitutional' immigration enforcement](https://www.fox9.com/news/ice-minnesota-judge-finds-federal-agents-likely-engaged-unconstitutional-immigration-enforcement)
+17. MPR News (Mar 10, 2026): [Judge denies temporary halt to alleged racially biased ICE enforcement tactics](https://www.mprnews.org/story/2026/03/10/judge-denies-temporary-halt-alleged-racially-biased-ice-enforcement-tactics)
+18. Star Tribune (Mar 9, 2026): [Judge says ICE showed unconstitutional policies during surge but declines to block practices](https://www.startribune.com/judge-says-ice-showed-unconstitutional-policies-during-surge-but-declines-to-block-ice-practices-as-racial-profiling-lawsuit-proceeds/601595625)
+19. CBS Minnesota (Mar 9, 2026): [Judge rules immigration agents illegally detained people through racial profiling](https://www.cbsnews.com/minnesota/news/judge-rules-immigration-agents-minnesota-ice-surge-illegally-detained-people-racial-profiling/)
+20. Minnesota Reformer (Mar 11, 2026): [Judge finds 'compelling and troubling' evidence of racial profiling by federal agents](https://minnesotareformer.com/2026/03/11/judge-finds-compelling-and-troubling-evidence-of-racial-profiling-by-federal-agents-in-minnesota/)
+21. Courthouse News (Mar 9, 2026): [Judge rules ICE made warrantless race-based stops of Somali, Latino Minnesotans](https://www.courthousenews.com/judge-rules-ice-made-warrantless-race-based-stops-of-somali-latino-minnesotans/)
+22. PBS (Mar 9, 2026): [Federal judge won't halt immigration enforcement surge in Minnesota as lawsuit proceeds](https://www.pbs.org/newshour/nation/federal-judge-says-she-wont-halt-the-immigration-enforcement-surge-in-minnesota-as-a-lawsuit-proceeds)
+23. KARE 11 (Mar 9, 2026): [Judge won't stop ICE from using practices alleged to be racially biased](https://www.kare11.com/article/news/local/breaking-the-news/judge-wont-stop-ice-using-practices-alleged-racially-biased/89-117e3526-c775-4a98-9c05-c50b39ebfa56)
 
 ## Case Information
 - **Case:** Hussen v. Noem, Case No. 0:26-cv-00324-ECT-ECW
@@ -45,7 +54,7 @@ On January 15, 2026, the ACLU filed Hussen v. Noem — a class-action lawsuit on
 - **Filed:** January 15, 2026
 - **Plaintiffs' counsel:** ACLU (Kate Huddleston, Omar Jadwat, Spencer Amdur), ACLU of Minnesota (Catherine Ahlin-Halverson), Covington & Burling LLP (Robert D. Fram), Greene Espel PLLP (Kshithij Shrinath), Robins Kaplan LLP (Stacey Slaughter)
 - **Defendants:** DHS Secretary Kristi Noem, Acting ICE Director Todd M. Lyons, CBP Commissioner Rodney S. Scott, Border Patrol Commander Gregory Bovino, Acting St. Paul Field Office Director David Easterwood, Michael W. Banks, DHS, ICE, CBP, U.S. Border Patrol
-- **Status:** Active. Evidentiary hearing held February 17-18, 2026. Preliminary injunction under advisement.
+- **Status:** Active. Judge Tostrud found unconstitutional policies likely but declined preliminary injunction on March 9, 2026. Case proceeds to trial.
 
 ## The Three Named Plaintiffs
 
@@ -104,6 +113,9 @@ Six plaintiffs testified, all U.S. citizens. Video of Mubashir Hussen's Cedar-Ri
 
 ### February 18, 2026 — Day 2: Legal Arguments
 Judge Tostrud heard oral arguments on the preliminary injunction. He questioned ICE's expansive interpretation of "likely to escape" warrantless arrest authority. The government argued operations "adhere to constitutional policies" with "no evidence of racial or ethnic profiling." ACLU attorney Kate Huddleston pointed to patterns across the sworn declarations. Judge took the case under advisement.
+
+### March 9, 2026 — 111-Page Ruling
+Judge Tostrud issued a 111-page order finding plaintiffs made "a clear showing that Defendants have adopted a policy authorizing federal immigration officers to conduct investigatory stops based on ethnicity or race without reasonable suspicion." The court found at least 23 immigrants were stopped based solely on race or ethnicity, and specifically cited the case of Jonathan Aguilar Garcia (Javier Doe): "There were many white people at Target the day Mr. Aguilar Garcia was arrested; they also yelled at the agents, but they were not questioned, photographed, harassed, followed, tackled, or arrested." Despite these findings, Tostrud declined to issue a preliminary injunction, reasoning that the drawdown of agents reduced the likelihood of irreparable harm. The case proceeds to trial.
 
 ## The Evidentiary Record
 
@@ -194,7 +206,7 @@ At least 16 additional declarations filed. Hosted by [JustSecurity](https://www.
 |---|---|---|---|
 | **[Tincher v. Noem](/entry/2025-12-17-tincher-v-noem-aclu-lawsuit)** (0:25-cv-04669) | Dec 17, 2025 | Observer First Amendment rights | Injunction granted Jan 16; stayed by 8th Circuit Jan 26 |
 | **[State of Minnesota v. Noem](/entry/2026-01-12-minnesota-sues-to-halt-operation)** (0:26-cv-00190) | Jan 12, 2026 | State sovereignty, political retaliation | Injunction denied Jan 31 |
-| **Hussen v. Noem** (0:26-cv-00324) | Jan 15, 2026 | Racial profiling, Equal Protection | Hearing held Feb 17-18; under advisement |
+| **Hussen v. Noem** (0:26-cv-00324) | Jan 15, 2026 | Racial profiling, Equal Protection | Court found unconstitutional policies likely Mar 9; injunction denied; proceeds to trial |
 
 Where Tincher focused on *observer rights* and the State of Minnesota case on *state sovereignty*, Hussen challenges the constitutional basis of the operation itself.
 
