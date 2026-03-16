@@ -1361,6 +1361,39 @@
       "mediaVersion": null
     },
     {
+      "filePath": "incidents/2026-01/14/2026-01-14-lema-castro-minor-us-citizen-detained.md",
+      "title": "Minor U.S. Citizen and Lema-Castro Siblings Detained After ICE Follows Car",
+      "summary": "ICE agents followed a car in Minnesota and arrested all three occupants: Diana Lema-Castro (20, Ecuadorian national), her brother William Lema-Castro (19, Ecuadorian national), and their friend, a minor U.S. citizen identified as \"Jane Doe\" in court filings. Both Lema-Castro siblings had pending Special Immigrant Juvenile Status applications. A joint habeas corpus petition was filed January 14, 2026 (Doe v. Bondi, 0:26-cv-00293); the court enjoined removal from Minnesota and severed the cases. Despite the injunction, Diana was transferred to Texas on January 15. Judge Nancy Brasel granted both siblings' habeas petitions on January 18, ordering immediate return to Minnesota and release. The minor's case was voluntarily dismissed on January 20.",
+      "latestUpdate": null,
+      "correctionNote": null,
+      "date": "2026-01-14",
+      "time": "unknown",
+      "location": "Minnesota",
+      "city": "Unknown",
+      "type": [
+        "citizens",
+        "immigrants"
+      ],
+      "status": "resolved",
+      "affectedIndividualCitizenship": "various",
+      "injuries": "none",
+      "created": "2026-03-16T18:52:41",
+      "lastUpdated": "2026-03-16T18:52:41",
+      "mediaCount": 0,
+      "notable": false,
+      "searchTags": [
+        "us-citizen",
+        "children"
+      ],
+      "hasLocalMedia": false,
+      "localMediaType": null,
+      "localMediaPath": null,
+      "localMediaOgPath": null,
+      "localMediaFiles": [],
+      "aspectRatio": null,
+      "mediaVersion": null
+    },
+    {
       "filePath": "incidents/2026-01/14/2026-01-14-shamrai-ukrainian-asylum-seeker.md",
       "title": "Ukrainian Asylum Seeker Viktoriia Shamrai Detained at Workplace (NO NEWS MEDIA)",
       "summary": "Viktoriia Shamrai, a Ukrainian asylum seeker with a pending immigration case who had lived in the United States for over 10 years, was detained by ICE on January 14, 2026 around 9 a.m. as she arrived at work in Maple Grove. Shamrai is a Plymouth, MN resident. Multiple ICE vehicles surrounded her car in the parking lot, and agents pounded on her car and windows, ordering her to get out. She was taken to the Whipple Federal Building, then transported to a detention center in El Paso, Texas, before being moved to Otero County Processing Center in New Mexico, where she remains held more than a month after her detention.",

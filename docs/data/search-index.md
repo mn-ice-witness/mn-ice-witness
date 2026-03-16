@@ -16,7 +16,7 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (296 incidents)
+## CURRENT (297 incidents)
 
 Published incidents visible on the main site.
 
@@ -175,6 +175,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/14/2026-01-14-julio-sosa-celis-shooting.md | 2026-01-14 | Minneapolis | citizens | ICE Agent Shoots Man Through Closed Door in North Minneapolis; Bullet Enters Apartment with Four Children
 - incidents/2026-01/14/2026-01-14-hiawatha-student-bus-stop.md | 2026-01-14 | Minneapolis | schools-hospitals | Hiawatha Academies Student Detained at Bus Stop
 - incidents/2026-01/14/2026-01-14-dhs-response-frey-sanctuary.md | 2026-01-14 | Minneapolis | response | DHS Blames Mayor Frey's Sanctuary Policies for Criminal Release
+- incidents/2026-01/14/2026-01-14-lema-castro-minor-us-citizen-detained.md | 2026-01-14 | Unknown | citizens, immigrants | Minor U.S. Citizen and Lema-Castro Siblings Detained After ICE Follows Car
 - incidents/2026-01/14/2026-01-14-shamrai-ukrainian-asylum-seeker.md | 2026-01-14 | Maple Grove | immigrants | Ukrainian Asylum Seeker Viktoriia Shamrai Detained at Workplace (NO NEWS MEDIA)
 - incidents/2026-01/14/2026-01-14-aquila-elementary-ice-presence.md | 2026-01-14 | St. Louis Park | schools-hospitals | ICE Conducts Operation Across Street From Aquila Elementary During Dismissal
 - incidents/2026-01/14/2026-01-14-transition-plus-school-bus-rubber-bullets.md | 2026-01-14 | Minneapolis | schools-hospitals | Students on Transition Plus Bus Witness ICE Fire Rubber Bullets at Man

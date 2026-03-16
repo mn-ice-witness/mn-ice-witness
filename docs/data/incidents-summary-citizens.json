@@ -1038,6 +1038,39 @@
       "mediaVersion": 1770497344
     },
     {
+      "filePath": "incidents/2026-01/14/2026-01-14-lema-castro-minor-us-citizen-detained.md",
+      "title": "Minor U.S. Citizen and Lema-Castro Siblings Detained After ICE Follows Car",
+      "summary": "ICE agents followed a car in Minnesota and arrested all three occupants: Diana Lema-Castro (20, Ecuadorian national), her brother William Lema-Castro (19, Ecuadorian national), and their friend, a minor U.S. citizen identified as \"Jane Doe\" in court filings. Both Lema-Castro siblings had pending Special Immigrant Juvenile Status applications. A joint habeas corpus petition was filed January 14, 2026 (Doe v. Bondi, 0:26-cv-00293); the court enjoined removal from Minnesota and severed the cases. Despite the injunction, Diana was transferred to Texas on January 15. Judge Nancy Brasel granted both siblings' habeas petitions on January 18, ordering immediate return to Minnesota and release. The minor's case was voluntarily dismissed on January 20.",
+      "latestUpdate": null,
+      "correctionNote": null,
+      "date": "2026-01-14",
+      "time": "unknown",
+      "location": "Minnesota",
+      "city": "Unknown",
+      "type": [
+        "citizens",
+        "immigrants"
+      ],
+      "status": "resolved",
+      "affectedIndividualCitizenship": "various",
+      "injuries": "none",
+      "created": "2026-03-16T18:52:41",
+      "lastUpdated": "2026-03-16T18:52:41",
+      "mediaCount": 0,
+      "notable": false,
+      "searchTags": [
+        "us-citizen",
+        "children"
+      ],
+      "hasLocalMedia": false,
+      "localMediaType": null,
+      "localMediaPath": null,
+      "localMediaOgPath": null,
+      "localMediaFiles": [],
+      "aspectRatio": null,
+      "mediaVersion": null
+    },
+    {
       "filePath": "incidents/2026-01/14/2026-01-14-oglala-sioux-still-detained.md",
       "title": "Three Oglala Sioux U.S. Citizens Still Detained at Fort Snelling (REMOVED)",
       "summary": "Four days after ICE detained four Oglala Sioux tribal members from a Minneapolis homeless encampment, three remain in custody at Fort Snelling. Tribal President Frank Star Comes Out issued a formal memorandum to DHS Secretary Kristi Noem and Interior Secretary Doug Burgum demanding immediate release, calling the detention \"a treaty violation\" and stating \"tribal citizens are not aliens\" and are \"categorically outside immigration jurisdiction.\" DHS refused to provide information unless tribe enters immigration agreement with ICE.",
