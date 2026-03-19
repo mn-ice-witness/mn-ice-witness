@@ -16,7 +16,7 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (297 incidents)
+## CURRENT (298 incidents)
 
 Published incidents visible on the main site.
 
@@ -166,6 +166,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/15/2026-01-15-owatonna-15-year-old-pepper-sprayed.md | 2026-01-15 | Owatonna | observers | 15-Year-Old Girl Pepper Sprayed While Observing ICE Operation
 - incidents/2026-01/15/2026-01-15-daniel-woo-followed-home.md | 2026-01-15 | Plymouth | observers | ICE SUV Follows Observer 40 Minutes to His Plymouth Home
 - incidents/2026-01/15/2026-01-15-st-paul-school-vans-pulled-over.md | 2026-01-15 | St. Paul | schools-hospitals | Two St. Paul School Vans Pulled Over by ICE With Students and Teachers Aboard
+- incidents/2026-01/14/2026-01-14-salguero-munoz-cardoza-st-paul-home.md | 2026-01-14 | St. Paul | immigrants, citizens | Family Divided After ICE Enters St. Paul Home With Non-Judicial Warrant, Daughter Deported
 - incidents/2026-01/14/2026-01-14-shawn-jackson-children-tear-gas.md | 2026-01-14 | Minneapolis | observers | Six Children Hospitalized After ICE Deploys Flashbangs and Tear Gas on Family SUV
 - incidents/2026-01/14/2026-01-14-agents-invoke-good-killing.md | 2026-01-14 | Minneapolis | background | "Have You Not Learned?": Agents Repeatedly Invoke Renee Good's Killing to Threaten Observers
 - incidents/2026-01/14/2026-01-14-circle-pines-restaurant-worker.md | 2026-01-14 | Circle Pines | citizens | Restaurant Worker with Legal Visa Detained by Plain-Clothed Agents

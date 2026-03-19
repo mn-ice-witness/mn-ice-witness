@@ -1361,6 +1361,41 @@
       "mediaVersion": null
     },
     {
+      "filePath": "incidents/2026-01/14/2026-01-14-salguero-munoz-cardoza-st-paul-home.md",
+      "title": "Family Divided After ICE Enters St. Paul Home With Non-Judicial Warrant, Daughter Deported",
+      "summary": "ICE agents entered a St. Paul family's home on January 14 with a warrant of removal for a family member who no longer lived at the address. Multiple attorneys stated the document was not a judicial warrant signed by a judge and did not authorize lawful entry. Agents detained Alfredo Salguero, a TPS holder for over 20 years, and his daughter Astrid Munoz Cardoza, who is undocumented. Salguero was held at Kandiyohi County Jail for 21 days before being released on bond February 2. Munoz Cardoza was transferred to detention in Texas and deported to El Salvador on February 8 after signing voluntary departure papers when denied the opportunity to consult her family. Neither had a criminal record beyond misdemeanor driving offenses. ICE said the operation targeted a fugitive sex offender who was not found at the residence.",
+      "latestUpdate": null,
+      "correctionNote": null,
+      "date": "2026-01-14",
+      "time": "early morning",
+      "location": "Family home",
+      "city": "St. Paul",
+      "type": [
+        "immigrants",
+        "citizens"
+      ],
+      "status": "resolved",
+      "affectedIndividualCitizenship": "various",
+      "injuries": "none",
+      "created": "2026-03-19T09:44:38",
+      "lastUpdated": "2026-03-19T09:44:38",
+      "mediaCount": 0,
+      "notable": false,
+      "searchTags": [
+        "warrantless-entry",
+        "family-separation",
+        "legal-resident",
+        "src:kare11"
+      ],
+      "hasLocalMedia": false,
+      "localMediaType": null,
+      "localMediaPath": null,
+      "localMediaOgPath": null,
+      "localMediaFiles": [],
+      "aspectRatio": null,
+      "mediaVersion": null
+    },
+    {
       "filePath": "incidents/2026-01/14/2026-01-14-lema-castro-minor-us-citizen-detained.md",
       "title": "Minor U.S. Citizen and Lema-Castro Siblings Detained After ICE Follows Car",
       "summary": "ICE agents followed a car in Minnesota and arrested all three occupants: Diana Lema-Castro (20, Ecuadorian national), her brother William Lema-Castro (19, Ecuadorian national), and their friend, a minor U.S. citizen identified as \"Jane Doe\" in court filings. Both Lema-Castro siblings had pending Special Immigrant Juvenile Status applications. A joint habeas corpus petition was filed January 14, 2026 (Doe v. Bondi, 0:26-cv-00293); the court enjoined removal from Minnesota and severed the cases. Despite the injunction, Diana was transferred to Texas on January 15. Judge Nancy Brasel granted both siblings' habeas petitions on January 18, ordering immediate return to Minnesota and release. The minor's case was voluntarily dismissed on January 20.",
