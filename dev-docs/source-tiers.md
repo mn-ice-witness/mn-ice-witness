@@ -100,15 +100,15 @@ The issue is when Tier 3 sources are the **only** coverage—meaning no journali
 
 ## How This Affects Trustworthiness Ratings
 
-| Source Mix | Typical Rating |
-|------------|----------------|
-| 2+ Tier 1 sources | HIGH |
-| 1 Tier 1 + corroborating details | HIGH |
-| Multiple Tier 2 sources | MEDIUM-HIGH (use MEDIUM) |
-| Tier 2 only | MEDIUM |
-| Tier 3 with strong video/documentation | MEDIUM |
-| Tier 3 only, no video | LOW |
-| Single social media post (no news coverage) | NO-NEWS-MEDIA |
+| Source Mix                                  | Typical Rating           |
+| :-------------------------------------------| :------------------------|
+| 2+ Tier 1 sources                           | HIGH                     |
+| 1 Tier 1 + corroborating details            | HIGH                     |
+| Multiple Tier 2 sources                     | MEDIUM-HIGH (use MEDIUM) |
+| Tier 2 only                                 | MEDIUM                   |
+| Tier 3 with strong video/documentation      | MEDIUM                   |
+| Tier 3 only, no video                       | LOW                      |
+| Single social media post (no news coverage) | NO-NEWS-MEDIA            |
 
 ## Why This Matters
 

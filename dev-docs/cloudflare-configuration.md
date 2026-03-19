@@ -12,24 +12,24 @@ This documents our Cloudflare Pro setup decisions, what we enabled, what we skip
 
 ### Speed Optimizations (Speed → Settings)
 
-| Feature | Status | Notes |
-|---------|--------|-------|
-| Polish | Lossy | Compresses images aggressively |
-| WebP | ON | Serves smaller WebP to supported browsers |
-| Early Hints | ON | Preloads assets for faster page loads |
-| Speed Brain | ON | Speculative prefetch (Beta) |
-| Cloudflare Fonts | ON | Optimizes font loading |
-| HTTP/2, HTTP/3 | ON | Modern protocols |
-| TLS 1.3 | ON | Latest TLS |
-| Always use HTTPS | ON | Forces HTTPS |
+| Feature          | Status | Notes                                     |
+| :----------------| :------| :-----------------------------------------|
+| Polish           | Lossy  | Compresses images aggressively            |
+| WebP             | ON     | Serves smaller WebP to supported browsers |
+| Early Hints      | ON     | Preloads assets for faster page loads     |
+| Speed Brain      | ON     | Speculative prefetch (Beta)               |
+| Cloudflare Fonts | ON     | Optimizes font loading                    |
+| HTTP/2, HTTP/3   | ON     | Modern protocols                          |
+| TLS 1.3          | ON     | Latest TLS                                |
+| Always use HTTPS | ON     | Forces HTTPS                              |
 
 ### Smart Shield (Speed → Smart Shield)
 
-| Feature | Status | Notes |
-|---------|--------|-------|
-| Smart Tiered Cache | ON | Better cache hit rates |
-| Connection Reuse | ON | Reduces origin connections |
-| Health Checks | Available | Can enable for origin monitoring |
+| Feature            | Status    | Notes                            |
+| :------------------| :---------| :--------------------------------|
+| Smart Tiered Cache | ON        | Better cache hit rates           |
+| Connection Reuse   | ON        | Reduces origin connections       |
+| Health Checks      | Available | Can enable for origin monitoring |
 
 ### Compression
 
@@ -37,21 +37,21 @@ This documents our Cloudflare Pro setup decisions, what we enabled, what we skip
 
 ## What's Disabled (Intentionally)
 
-| Feature | Why Disabled |
-|---------|--------------|
-| **Super Bot Fight Mode** | Causes challenge pages - adds friction for visitors |
-| **Rocket Loader** | Can break JavaScript - risky without thorough testing |
-| **WordPress APO** | Not using WordPress |
+| Feature                  | Why Disabled                                          |
+| :------------------------| :-----------------------------------------------------|
+| **Super Bot Fight Mode** | Causes challenge pages - adds friction for visitors   |
+| **Rocket Loader**        | Can break JavaScript - risky without thorough testing |
+| **WordPress APO**        | Not using WordPress                                   |
 
 ## What's Not Needed
 
-| Feature | Why Skipped |
-|---------|-------------|
+| Feature               | Why Skipped                       |
+| :---------------------| :---------------------------------|
 | Image Transformations | Paid add-on, Polish is sufficient |
-| Regional Tiered Cache | Requires upgrade |
-| Cache Reserve | Requires upgrade |
-| Argo Smart Routing | Paid add-on |
-| Prefetch URLs | Enterprise only |
+| Regional Tiered Cache | Requires upgrade                  |
+| Cache Reserve         | Requires upgrade                  |
+| Argo Smart Routing    | Paid add-on                       |
+| Prefetch URLs         | Enterprise only                   |
 
 ## Deprecated Features
 
@@ -63,10 +63,10 @@ This documents our Cloudflare Pro setup decisions, what we enabled, what we skip
 
 These can be enabled without causing visitor friction:
 
-| Feature | Effect |
-|---------|--------|
-| Cloudflare Managed Ruleset | Blocks attacks silently |
-| OWASP Core Ruleset | Blocks XSS, SQLi silently |
+| Feature                    | Effect                    |
+| :--------------------------| :-------------------------|
+| Cloudflare Managed Ruleset | Blocks attacks silently   |
+| OWASP Core Ruleset         | Blocks XSS, SQLi silently |
 
 **Avoid:** Any "Bot Fight" or "Challenge" features that show interstitial pages.
 
@@ -104,12 +104,12 @@ Could automate via:
 
 ## Cost Summary
 
-| Scenario | Monthly Cost |
-|----------|--------------|
-| Current setup (Pro only) | $25 flat |
-| Pro + Stream starter | $25 + $5 = $30 |
-| Viral traffic (2M visitors) | $25 (CDN is unlimited) |
-| Viral + Stream | $25 + potentially $1,000s |
+| Scenario                    | Monthly Cost              |
+| :---------------------------| :-------------------------|
+| Current setup (Pro only)    | $25 flat                  |
+| Pro + Stream starter        | $25 + $5 = $30            |
+| Viral traffic (2M visitors) | $25 (CDN is unlimited)    |
+| Viral + Stream              | $25 + potentially $1,000s |
 
 **Bottom line:** The Pro plan's unlimited CDN bandwidth is the safest choice for cost control. Stream adds value (adaptive bitrate) but introduces variable costs.
 

@@ -10,15 +10,15 @@ Example: `feature/path-based-urls` → **https://feature-path-based-urls.mn-ice-
 
 ## Cloudflare Pages Configuration
 
-| Setting | Value |
-|---------|-------|
-| **Project name** | `mn-ice-witness` |
-| **Pages.dev domain** | `mn-ice-witness.pages.dev` |
-| **Custom domain** | `mn-ice-witness.org` |
-| **GitHub repo** | `mn-ice-witness/mn-ice-witness` |
-| **Production branch** | `main` |
-| **Build output directory** | `docs` |
-| **Build command** | (none - static site) |
+| Setting                    | Value                           |
+| :--------------------------| :-------------------------------|
+| **Project name**           | `mn-ice-witness`                |
+| **Pages.dev domain**       | `mn-ice-witness.pages.dev`      |
+| **Custom domain**          | `mn-ice-witness.org`            |
+| **GitHub repo**            | `mn-ice-witness/mn-ice-witness` |
+| **Production branch**      | `main`                          |
+| **Build output directory** | `docs`                          |
+| **Build command**          | (none - static site)            |
 
 Access the project at: [Cloudflare Dashboard → Workers & Pages → mn-ice-witness](https://dash.cloudflare.com)
 
@@ -26,11 +26,11 @@ Access the project at: [Cloudflare Dashboard → Workers & Pages → mn-ice-witn
 
 Cloudflare Pages automatically creates **preview deployments** for every non-main branch. When you push to a feature branch, Cloudflare builds and deploys that branch to a unique URL.
 
-| Branch | URL |
-|--------|-----|
-| `main` | `mn-ice-witness.org` (production) |
+| Branch                    | URL                                                |
+| :-------------------------| :--------------------------------------------------|
+| `main`                    | `mn-ice-witness.org` (production)                  |
 | `feature/path-based-urls` | `feature-path-based-urls.mn-ice-witness.pages.dev` |
-| `fix/video-player` | `fix-video-player.mn-ice-witness.pages.dev` |
+| `fix/video-player`        | `fix-video-player.mn-ice-witness.pages.dev`        |
 
 **Key points:**
 - Only `main` updates the production site
@@ -57,11 +57,11 @@ Branch names become subdomains with:
 - Lowercase letters
 - Non-alphanumeric characters replaced with hyphens
 
-| Branch | Preview Subdomain |
-|--------|-------------------|
+| Branch                    | Preview Subdomain         |
+| :-------------------------| :-------------------------|
 | `feature/path-based-urls` | `feature-path-based-urls` |
-| `fix/video-player` | `fix-video-player` |
-| `my_feature` | `my-feature` |
+| `fix/video-player`        | `fix-video-player`        |
+| `my_feature`              | `my-feature`              |
 
 Full URL: `<subdomain>.mn-ice-witness.pages.dev`
 
@@ -122,12 +122,12 @@ For this project, keeping "All non-Production branches" makes sense since:
 
 ## Local Development vs Preview Deployments
 
-| Use Case | Method |
-|----------|--------|
-| Rapid iteration, debugging | Local: `./bin/run-server.sh` |
-| Testing with others, verifying Functions | Preview deployment |
-| Final verification before merge | Preview deployment |
-| Production | Merge to `main` |
+| Use Case                                 | Method                       |
+| :----------------------------------------| :----------------------------|
+| Rapid iteration, debugging               | Local: `./bin/run-server.sh` |
+| Testing with others, verifying Functions | Preview deployment           |
+| Final verification before merge          | Preview deployment           |
+| Production                               | Merge to `main`              |
 
 ## Troubleshooting
 

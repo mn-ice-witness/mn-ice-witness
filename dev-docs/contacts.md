@@ -12,13 +12,13 @@ Use these exact URLs and handles in all outreach, templates, and generated conte
 
 ## Social Media
 
-| Platform | Handle | URL |
-|----------|--------|-----|
-| Facebook | — | https://www.facebook.com/profile.php?id=61586835122502 |
-| X/Twitter | @mn_ice_witness | https://x.com/mn_ice_witness |
-| Instagram | @mn_ice_witness | https://instagram.com/mn_ice_witness |
-| Threads | @mnicewitness | https://www.threads.net/@mnicewitness |
-| Bluesky | @mnicewitness.bsky.social | https://bsky.app/profile/mnicewitness.bsky.social |
+| Platform  | Handle                    | URL                                                    |
+| :---------| :-------------------------| :------------------------------------------------------|
+| Facebook  | —                         | https://www.facebook.com/profile.php?id=61586835122502 |
+| X/Twitter | @mn_ice_witness           | https://x.com/mn_ice_witness                           |
+| Instagram | @mn_ice_witness           | https://instagram.com/mn_ice_witness                   |
+| Threads   | @mnicewitness             | https://www.threads.net/@mnicewitness                  |
+| Bluesky   | @mnicewitness.bsky.social | https://bsky.app/profile/mnicewitness.bsky.social      |
 
 ## Quick Copy-Paste
 

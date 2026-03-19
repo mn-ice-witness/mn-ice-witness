@@ -1,6 +1,7 @@
 #!/bin/bash
 # Generates a tarball of all incident markdown files from docs/incidents/.
-# Excludes the _no_add directory. Output goes to docs/ for serving.
+# Excludes _no_add directory, underscore-prefixed files, and empty directories.
+# Output goes to docs/ for serving.
 
 ROOT="$(git rev-parse --show-toplevel)"
 INCIDENTS_DIR="$ROOT/docs/incidents"
@@ -11,9 +12,14 @@ if [ ! -d "$INCIDENTS_DIR" ]; then
     exit 1
 fi
 
-tar -czf "$OUTPUT" \
-    --exclude='_no_add' \
-    -C "$ROOT/docs" \
-    incidents/
+FILE_LIST=$(find "$INCIDENTS_DIR" \
+    -path '*/_no_add' -prune -o \
+    -name '*.md' ! -name '_*' -print)
 
-echo "Generated tarball: $OUTPUT"
+FILE_COUNT=$(echo "$FILE_LIST" | wc -l | tr -d ' ')
+
+tar -czf "$OUTPUT" \
+    -C "$ROOT/docs" \
+    --files-from <(echo "$FILE_LIST" | sed "s|$ROOT/docs/||")
+
+echo "Generated tarball: $OUTPUT ($FILE_COUNT files)"

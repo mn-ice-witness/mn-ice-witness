@@ -8,12 +8,12 @@ Every incident is a markdown file with YAML frontmatter. This document defines t
 
 This project uses neutral, documentary language. The term "victim" carries emotional weight and implies judgment. Instead:
 
-| Don't Use | Use Instead |
-|-----------|-------------|
+| Don't Use             | Use Instead                        |
+| :---------------------| :----------------------------------|
 | `victim_citizenship:` | `affected_individual_citizenship:` |
-| `## Victim(s)` | `## Affected Individual(s)` |
-| "the victim" | "the affected individual" |
-| "victims" | "affected individuals" |
+| `## Victim(s)`        | `## Affected Individual(s)`        |
+| "the victim"          | "the affected individual"          |
+| "victims"             | "affected individuals"             |
 
 **Why?** We present facts and let readers draw conclusions. Neutral terminology maintains credibility and objectivity.
 
@@ -45,12 +45,12 @@ Examples:
 
 Invalid dates like `2026-01-early` or `2026-01-mid` will **crash the entire site build** and take the site offline for hours.
 
-| Invalid (BREAKS BUILD) | Valid |
-|------------------------|-------|
-| `2026-01-early` | `2026-01-05` |
-| `2026-01-mid` | `2026-01-15` |
-| `2026-01-late` | `2026-01-25` |
-| `early January` | `2026-01-01` |
+| Invalid (BREAKS BUILD) | Valid        |
+| :----------------------| :------------|
+| `2026-01-early`        | `2026-01-05` |
+| `2026-01-mid`          | `2026-01-15` |
+| `2026-01-late`         | `2026-01-25` |
+| `early January`        | `2026-01-01` |
 
 **If exact date is unknown:** Use an estimated date (1st, 5th, 15th, 25th of month) and note the uncertainty in the Summary.
 
@@ -83,12 +83,12 @@ last_updated: YYYY-MM-DDTHH:MM:SS  # Required. When last MAJOR update occurred (
 
 **Do NOT type a timestamp manually** — manually-entered timestamps are frequently wrong (like `12:00:00` or `14:30:00`). Run the script, copy, paste. No exceptions.
 
-| Example | Correct? |
-|---------|----------|
+| Example               | Correct?                             |
+| :---------------------| :------------------------------------|
 | `2026-01-19T14:23:47` | ✅ Actual time when making the change |
-| `2026-01-19T12:00:00` | ❌ Rounded time (clearly made up) |
-| `2026-01-19T14:30:00` | ❌ Rounded time (clearly made up) |
-| `2026-01-19T23:59:59` | ❌ Artificial end-of-day timestamp |
+| `2026-01-19T12:00:00` | ❌ Rounded time (clearly made up)    |
+| `2026-01-19T14:30:00` | ❌ Rounded time (clearly made up)    |
+| `2026-01-19T23:59:59` | ❌ Artificial end-of-day timestamp   |
 
 **Why?** Incorrect timestamps break the "Sort by Updated" feature and mislead users.
 
@@ -104,16 +104,16 @@ last_updated: YYYY-MM-DDTHH:MM:SS  # Required. When last MAJOR update occurred (
 
 **When updating an existing incident:**
 
-| Update Type | Change `last_updated`? |
-|-------------|------------------------|
-| Case development (ruling, release, charges) | ✅ YES |
-| Status change (detained → released) | ✅ YES |
-| New facts emerge (identity confirmed, details) | ✅ YES |
-| Merging duplicate incidents | ✅ YES |
-| Adding more sources | ❌ NO |
-| Formatting/schema changes | ❌ NO |
-| Trustworthiness rating change | ❌ NO |
-| Typo fixes | ❌ NO |
+| Update Type                                    | Change `last_updated`? |
+| :----------------------------------------------| :----------------------|
+| Case development (ruling, release, charges)    | ✅ YES                 |
+| Status change (detained → released)            | ✅ YES                 |
+| New facts emerge (identity confirmed, details) | ✅ YES                 |
+| Merging duplicate incidents                    | ✅ YES                 |
+| Adding more sources                            | ❌ NO                  |
+| Formatting/schema changes                      | ❌ NO                  |
+| Trustworthiness rating change                  | ❌ NO                  |
+| Typo fixes                                     | ❌ NO                  |
 
 See `adding-incidents.md` for detailed guidance.
 
@@ -125,20 +125,31 @@ See `adding-incidents.md` for detailed guidance.
 citizens | observers | immigrants | schools-hospitals | response
 ```
 
-| Value | Use For |
-|-------|---------|
-| `citizens` | U.S. citizens **OR anyone with valid legal status** (green cards, work visas, work permits, refugees with authorization) — people who have the RIGHT to be here |
-| `observers` | People **detained or attacked for filming, observing, or protesting** ICE — targeted for what they were doing |
-| `immigrants` | People **without legal status**: undocumented, asylum-seekers with pending cases, those with removal/deportation orders, overstayed visas |
-| `schools-hospitals` | Actions at/near schools or hospitals. **Includes ICE presence that intimidates children or makes attending school/hospital more difficult — even if no arrest occurs.** Bus route surveillance, parking lot presence during pickup/dropoff, and similar intimidation tactics qualify. |
-| `response` | **FEDERAL GOVERNMENT ONLY:** DHS/ICE/CBP official statements (e.g., Trump, Noem, Bovino, @DHSgov). NOT for local police, mayors, governors, or other non-federal officials. |
+| Value               | Use For                                                                                        |
+| :-------------------| :----------------------------------------------------------------------------------------------|
+| `citizens`          | U.S. citizens **OR anyone with valid legal status** (green cards, work visas, work permits,    |
+|                     | refugees with authorization) — people who have the RIGHT to be here                            |
+| `observers`         | People **detained or attacked for filming, observing, or protesting** ICE — targeted for what  |
+|                     | they were doing                                                                                |
+| `immigrants`        | People **without legal status**: undocumented, asylum-seekers with pending cases, those with   |
+|                     | removal/deportation orders, overstayed visas                                                   |
+| `schools-hospitals` | Actions at/near schools or hospitals. **Includes ICE presence that intimidates children or     |
+|                     | makes attending school/hospital more difficult — even if no arrest occurs.** Bus route         |
+|                     | surveillance, parking lot presence during pickup/dropoff, and similar intimidation tactics     |
+|                     | qualify.                                                                                       |
+| `response`          | **FEDERAL GOVERNMENT ONLY:** DHS/ICE/CBP official statements (e.g., Trump, Noem, Bovino,       |
+|                     | @DHSgov). NOT for local police, mayors, governors, or other non-federal officials.             |
 
 **⚠️ CRITICAL: citizens vs immigrants — THE KEY DISTINCTION:**
 
-| Category | Who belongs here | Examples |
-|----------|------------------|----------|
-| `citizens` | **Has legal right to be in U.S.** | U.S. citizens (born or naturalized), green card holders, valid work visa holders, valid work permit holders, refugees with work authorization, TPS holders with authorization |
-| `immigrants` | **Does NOT have legal status** | Undocumented, asylum-seekers still waiting for decision, people with final removal orders, overstayed visas, pending applications without current authorization |
+| Category     | Who belongs here                  | Examples                                                          |
+| :------------| :---------------------------------| :-----------------------------------------------------------------|
+| `citizens`   | **Has legal right to be in U.S.** | U.S. citizens (born or naturalized), green card holders, valid    |
+|              |                                   | work visa holders, valid work permit holders, refugees with work  |
+|              |                                   | authorization, TPS holders with authorization                     |
+| `immigrants` | **Does NOT have legal status**    | Undocumented, asylum-seekers still waiting for decision, people   |
+|              |                                   | with final removal orders, overstayed visas, pending applications |
+|              |                                   | without current authorization                                     |
 
 **Simple test:** Does the person have VALID LEGAL STATUS to be in the U.S.?
 - **YES** → `citizens` (even if they're not a U.S. citizen)
@@ -161,15 +172,15 @@ Both categories may involve U.S. citizens being detained. Choose based on WHY th
 
 **⚠️ IMPORTANT: Citizenship is NOT a category.** This field is internal metadata about the affected individual. It is NOT displayed in the UI header alongside the type. The 5 `type` values are the ONLY categories shown to users.
 
-| Value | Display Label | Meaning |
-|-------|---------------|---------|
-| `us-citizen` | Citizen | U.S. citizen (born or naturalized) |
-| `legal-resident` | Legal Resident | Green card, visa, legal status |
-| `asylum-seeker` | Immigrant Pending Status | Asylum seeker, TPS, DACA, temporary/pending status |
-| `undocumented` | Immigrant | No current legal status |
-| `unknown` | *(not displayed)* | Status not confirmed |
-| `n/a` | *(not displayed)* | Not applicable (e.g., DHS response documents) |
-| `various` | *(handled specially)* | Multiple individuals with different statuses |
+| Value            | Display Label            | Meaning                                            |
+| :----------------| :------------------------| :--------------------------------------------------|
+| `us-citizen`     | Citizen                  | U.S. citizen (born or naturalized)                 |
+| `legal-resident` | Legal Resident           | Green card, visa, legal status                     |
+| `asylum-seeker`  | Immigrant Pending Status | Asylum seeker, TPS, DACA, temporary/pending status |
+| `undocumented`   | Immigrant                | No current legal status                            |
+| `unknown`        | *(not displayed)*        | Status not confirmed                               |
+| `n/a`            | *(not displayed)*        | Not applicable (e.g., DHS response documents)      |
+| `various`        | *(handled specially)*    | Multiple individuals with different statuses       |
 
 **Do NOT use:** `refugee` (use `legal-resident` if green card, `asylum-seeker` if still in refugee status), `mixed-status-household` (use `various`), `legal-status` (use `legal-resident`), `us-citizens` plural (use `us-citizen`)
 
@@ -177,11 +188,11 @@ Both categories may involve U.S. citizens being detained. Choose based on WHY th
 
 **Complete sentences get periods. Fragments don't.**
 
-| Bullet Type | Period? | Example |
-|-------------|---------|---------|
-| Complete sentence | ✅ Yes | `- Agents broke the car window and extracted him.` |
-| Metadata/fragment | ❌ No | `- **Name:** Jose Lozano` |
-| Fragment phrase | ❌ No | `- Released same day` |
+| Bullet Type       | Period? | Example                                            |
+| :-----------------| :-------| :--------------------------------------------------|
+| Complete sentence | ✅ Yes  | `- Agents broke the car window and extracted him.` |
+| Metadata/fragment | ❌ No   | `- **Name:** Jose Lozano`                          |
+| Fragment phrase   | ❌ No   | `- Released same day`                              |
 
 **Simple test:** Can it stand alone as a sentence? If yes, add a period. If it's a label:value pair or short fragment, no period needed.
 

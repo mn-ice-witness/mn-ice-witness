@@ -53,12 +53,12 @@ This is a static HTML/JS/CSS site with no build process:
 
 The domain `mn-ice-witness.org` is configured as follows:
 
-| Component | Provider | Notes |
-|-----------|----------|-------|
-| Domain Registration | Porkbun | Owns the domain, renews yearly |
-| Nameservers | Cloudflare | DNS management delegated to Cloudflare |
-| DNS Records | Cloudflare | CNAME records point to Pages |
-| SSL Certificate | Cloudflare | Automatic, free Universal SSL |
+| Component           | Provider   | Notes                                  |
+| :-------------------| :----------| :--------------------------------------|
+| Domain Registration | Porkbun    | Owns the domain, renews yearly         |
+| Nameservers         | Cloudflare | DNS management delegated to Cloudflare |
+| DNS Records         | Cloudflare | CNAME records point to Pages           |
+| SSL Certificate     | Cloudflare | Automatic, free Universal SSL          |
 
 ### DNS Records
 
@@ -109,12 +109,12 @@ dig mn-ice-witness.org +short
 
 ### Cost Benefits
 
-| Provider | Bandwidth Cost | Notes |
-|----------|----------------|-------|
-| Cloudflare Pages + R2 | **FREE** | Zero egress fees |
-| AWS CloudFront | ~$0.085/GB | Pay per GB |
-| Vercel | $0.15/GB | Expensive for video |
-| GitHub Pages | Free but limited | 100GB/month soft limit |
+| Provider              | Bandwidth Cost   | Notes                  |
+| :---------------------| :----------------| :----------------------|
+| Cloudflare Pages + R2 | **FREE**         | Zero egress fees       |
+| AWS CloudFront        | ~$0.085/GB       | Pay per GB             |
+| Vercel                | $0.15/GB         | Expensive for video    |
+| GitHub Pages          | Free but limited | 100GB/month soft limit |
 
 ### Features
 

@@ -50,11 +50,11 @@ The primary goal of daily searches. Look for stories we haven't documented yet.
 - Missing opportunities to upgrade no-news-media incidents
 
 **Read `docs/data/search-index.md` FIRST** — it has 4 sections:
-| Section | What It Contains |
-|---------|------------------|
-| **CURRENT** | Published incidents (won't add these again) |
-| **NO-ADD** | Rejected stories (don't propose unless new info) |
-| **REMOVED** | Retracted incidents (acknowledge if found) |
+| Section           | What It Contains                                         |
+| :-----------------| :--------------------------------------------------------|
+| **CURRENT**       | Published incidents (won't add these again)              |
+| **NO-ADD**        | Rejected stories (don't propose unless new info)         |
+| **REMOVED**       | Retracted incidents (acknowledge if found)               |
 | **NO-NEWS-MEDIA** | Unverified incidents that may upgrade with news coverage |
 
 ---
@@ -84,12 +84,15 @@ See `adding-incidents.md` Step 1.5 for full details.
 
 The user may request different search scopes:
 
-| Command | Scope | Sources to Search |
-|---------|-------|-------------------|
-| **"do our daily search"** | Metro (default) | Twin Cities sources: BMTN, Star Tribune, MPR, KARE 11, KSTP, Fox 9, Sahan Journal |
-| **"do a metro search"** | Metro only | Same as above |
-| **"do an outstate search"** | Outstate MN | Brainerd Dispatch, InForum (Fargo-Moorhead), WJON/St. Cloud Times, Duluth News Tribune/WDIO, Mankato Free Press/KEYC, Post Bulletin/KTTC (Rochester) |
-| **"do a full search"** | Both | All metro + all outstate sources |
+| Command                     | Scope           | Sources to Search                                                    |
+| :---------------------------| :---------------| :--------------------------------------------------------------------|
+| **"do our daily search"**   | Metro (default) | Twin Cities sources: BMTN, Star Tribune, MPR, KARE 11, KSTP, Fox 9,  |
+|                             |                 | Sahan Journal                                                        |
+| **"do a metro search"**     | Metro only      | Same as above                                                        |
+| **"do an outstate search"** | Outstate MN     | Brainerd Dispatch, InForum (Fargo-Moorhead), WJON/St. Cloud Times,   |
+|                             |                 | Duluth News Tribune/WDIO, Mankato Free Press/KEYC, Post              |
+|                             |                 | Bulletin/KTTC (Rochester)                                            |
+| **"do a full search"**      | Both            | All metro + all outstate sources                                     |
 
 See `research-sources.md` for complete source lists by region.
 
@@ -113,14 +116,14 @@ When the user says **"do our daily search"** or **"do a metro search"**, follow 
 ### Phase 2: Launch Parallel Search Agents
 Launch **4-6 agents simultaneously** with different search strategies:
 
-| Agent | Focus Area | Search Terms |
-|-------|------------|--------------|
-| 1 | BMTN Daily Lists | `site:bringmethenews.com ICE Minnesota [today/yesterday dates]` |
-| 2 | Local TV News | `KARE 11 OR KSTP OR Fox 9 OR CBS Minnesota ICE Minneapolis [dates]` |
-| 3 | Sahan Journal + MPR | `site:sahanjournal.com OR site:mprnews.org ICE Minnesota January 2026` |
-| 4 | Social Media | `site:x.com OR site:bsky.app ICE Minneapolis Minnesota [dates]` |
-| 5 | Video Evidence | `ICE Minnesota video footage January 2026` |
-| 6 | No-News-Media Follow-up | Search for specific no-news-media incident details (names, locations) |
+| Agent | Focus Area              | Search Terms                                                           |
+| :-----| :-----------------------| :----------------------------------------------------------------------|
+| 1     | BMTN Daily Lists        | `site:bringmethenews.com ICE Minnesota [today/yesterday dates]`        |
+| 2     | Local TV News           | `KARE 11 OR KSTP OR Fox 9 OR CBS Minnesota ICE Minneapolis [dates]`    |
+| 3     | Sahan Journal + MPR     | `site:sahanjournal.com OR site:mprnews.org ICE Minnesota January 2026` |
+| 4     | Social Media            | `site:x.com OR site:bsky.app ICE Minneapolis Minnesota [dates]`        |
+| 5     | Video Evidence          | `ICE Minnesota video footage January 2026`                             |
+| 6     | No-News-Media Follow-up | Search for specific no-news-media incident details (names, locations)  |
 
 ### Phase 3: Cross-Reference and Report
 Each agent should:
@@ -166,11 +169,11 @@ After all new incidents are reviewed, present all updates together:
 
 ### Status Changes (no-add/no-news-media → real incident)
 | Incident | Previous Status | New Status | Evidence |
-|----------|-----------------|------------|----------|
+| :--------| :---------------| :----------| :--------|
 
 ### Updates to Existing Incidents (requires ## Updates entry)
 | Incident | Update Type | Details |
-|----------|-------------|---------|
+| :--------| :-----------| :-------|
 
 ### New Sources Added (no report needed, just document)
 [Added to N incident files — no last_updated changes]
@@ -185,7 +188,7 @@ Finally, present all non-incident items together:
 
 ### Added to not_use.md
 | Story | Reason |
-|-------|--------|
+| :-----| :------|
 
 ### Already Documented (confirmed coverage exists)
 - List of stories that matched existing incidents
@@ -209,14 +212,14 @@ When the user says **"do an outstate search"**, search for incidents in Greater 
 
 Launch **4-6 agents simultaneously** targeting outstate cities:
 
-| Agent | Region | Search Terms |
-|-------|--------|--------------|
-| 1 | Rochester | `site:postbulletin.com OR site:kttc.com ICE Rochester Minnesota [dates]` |
-| 2 | Duluth | `site:duluthnewstribune.com OR site:wdio.com ICE Duluth Minnesota [dates]` |
-| 3 | Mankato | `site:mankatofreepress.com OR site:keyc.com ICE Mankato Minnesota [dates]` |
-| 4 | St. Cloud | `site:sctimes.com OR site:wjon.com ICE St. Cloud Minnesota [dates]` |
-| 5 | Moorhead | `site:inforum.com OR site:kvrr.com ICE Moorhead Fargo Minnesota [dates]` |
-| 6 | Brainerd | `site:brainerddispatch.com ICE Brainerd Minnesota [dates]` |
+| Agent | Region    | Search Terms                                                               |
+| :-----| :---------| :--------------------------------------------------------------------------|
+| 1     | Rochester | `site:postbulletin.com OR site:kttc.com ICE Rochester Minnesota [dates]`   |
+| 2     | Duluth    | `site:duluthnewstribune.com OR site:wdio.com ICE Duluth Minnesota [dates]` |
+| 3     | Mankato   | `site:mankatofreepress.com OR site:keyc.com ICE Mankato Minnesota [dates]` |
+| 4     | St. Cloud | `site:sctimes.com OR site:wjon.com ICE St. Cloud Minnesota [dates]`        |
+| 5     | Moorhead  | `site:inforum.com OR site:kvrr.com ICE Moorhead Fargo Minnesota [dates]`   |
+| 6     | Brainerd  | `site:brainerddispatch.com ICE Brainerd Minnesota [dates]`                 |
 
 ### Additional Outstate Searches
 
@@ -237,11 +240,11 @@ This procedure is designed to be run **1-2 times daily**. For efficient recurrin
 5. **Cross-reference quickly** - Many searches will confirm existing coverage; that's expected
 
 ### Time Scope Options
-| Scope | When to Use | Search Dates |
-|-------|-------------|--------------|
-| **Last 2 days** (default) | Normal daily search | Yesterday + today |
-| **Last week** | Catching up after break | Last 7 days |
-| **Broader** | Looking for missed/rare incidents | User specifies range |
+| Scope                     | When to Use                       | Search Dates         |
+| :-------------------------| :---------------------------------| :--------------------|
+| **Last 2 days** (default) | Normal daily search               | Yesterday + today    |
+| **Last week**             | Catching up after break           | Last 7 days          |
+| **Broader**               | Looking for missed/rare incidents | User specifies range |
 
 ### Quick Start for Daily Searches
 ```
@@ -475,10 +478,12 @@ At minimum, an incident must have **at least two** of the following:
 
 **⚠️ CRITICAL DISTINCTION — Get this right when creating incident files:**
 
-| Category | Who belongs here | Examples |
-|----------|------------------|----------|
-| `citizens` | **Has legal right to be in U.S.** | U.S. citizens, green card holders, valid work visa/permit holders, refugees with work authorization |
-| `immigrants` | **Does NOT have legal status** | Undocumented, asylum-seekers awaiting decision, people with removal orders, overstayed visas |
+| Category     | Who belongs here                  | Examples                                                          |
+| :------------| :---------------------------------| :-----------------------------------------------------------------|
+| `citizens`   | **Has legal right to be in U.S.** | U.S. citizens, green card holders, valid work visa/permit         |
+|              |                                   | holders, refugees with work authorization                         |
+| `immigrants` | **Does NOT have legal status**    | Undocumented, asylum-seekers awaiting decision, people with       |
+|              |                                   | removal orders, overstayed visas                                  |
 
 **Simple test:** Does the person have VALID LEGAL STATUS?
 - **YES** → `type: citizens` (even if they're not a U.S. citizen)
@@ -498,7 +503,7 @@ After completing search, report:
 
 ### New Incidents Found
 | Date | Location | Brief Description | Video/Photo? | Sources |
-|------|----------|-------------------|--------------|---------|
+| :----| :--------| :-----------------| :------------| :-------|
 
 ### Already Documented
 List incidents found that match existing files
@@ -543,17 +548,17 @@ Example: If a judge rules an arrest was unconstitutional, update the summary to 
 
 **This field powers the "Sort by Updated" feature on the website.** Users who sort by "Updated" want to see incidents where something actually happened, not incidents that got more sources added.
 
-| Action | Update `last_updated`? |
-|--------|------------------------|
-| Judge ruling / court decision | ✅ YES |
-| Person released or deported | ✅ YES |
-| Status change (ongoing → resolved) | ✅ YES |
-| New facts emerge (identity confirmed, details) | ✅ YES |
-| Lawsuit filed | ✅ YES |
-| **Adding more news sources** | ❌ NO |
-| **Adding video/photo links** | ❌ NO |
-| **Trustworthiness rating change** | ❌ NO |
-| **Formatting/typo fixes** | ❌ NO |
+| Action                                         | Update `last_updated`? |
+| :----------------------------------------------| :----------------------|
+| Judge ruling / court decision                  | ✅ YES                 |
+| Person released or deported                    | ✅ YES                 |
+| Status change (ongoing → resolved)             | ✅ YES                 |
+| New facts emerge (identity confirmed, details) | ✅ YES                 |
+| Lawsuit filed                                  | ✅ YES                 |
+| **Adding more news sources**                   | ❌ NO                  |
+| **Adding video/photo links**                   | ❌ NO                  |
+| **Trustworthiness rating change**              | ❌ NO                  |
+| **Formatting/typo fixes**                      | ❌ NO                  |
 
 **Example:** You find 3 new news articles about the Garrison Gibson incident. Just add them to Sources — do NOT update `last_updated`. But if one of those articles says the judge released him, THEN update `last_updated` and the Summary.
 
@@ -610,15 +615,15 @@ These daily lists often contain brief mentions of incidents that may warrant the
 
 ## High-Value Sources for New Incidents
 
-| Source | Best For | Check Frequency |
-|--------|----------|-----------------|
-| Bring Me The News | Daily raid lists, quick updates | Every search |
-| Sahan Journal | In-depth investigative, immigrant communities | Daily |
-| Star Tribune | Paper of record, official statements | Daily |
-| MPR News | Breaking news, audio interviews | Daily |
-| ICT News | Native American incidents | When relevant |
-| ACLU Minnesota | Legal actions, civil rights cases | Weekly |
-| CBS Minnesota / KSTP / KARE 11 | Video evidence, local TV coverage | As needed |
+| Source                         | Best For                                      | Check Frequency |
+| :------------------------------| :---------------------------------------------| :---------------|
+| Bring Me The News              | Daily raid lists, quick updates               | Every search    |
+| Sahan Journal                  | In-depth investigative, immigrant communities | Daily           |
+| Star Tribune                   | Paper of record, official statements          | Daily           |
+| MPR News                       | Breaking news, audio interviews               | Daily           |
+| ICT News                       | Native American incidents                     | When relevant   |
+| ACLU Minnesota                 | Legal actions, civil rights cases             | Weekly          |
+| CBS Minnesota / KSTP / KARE 11 | Video evidence, local TV coverage             | As needed       |
 
 ## Example Search Session Log
 

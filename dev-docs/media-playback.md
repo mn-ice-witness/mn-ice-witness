@@ -4,25 +4,25 @@ Video and image controls across the site.
 
 ## Three Contexts
 
-| Context | Location | Behavior |
-|---------|----------|----------|
-| **Media Gallery** | Main page grid | Autoplay on scroll, muted, looping, minimal controls |
-| **Incident Page** | Lightbox | Auto-starts, muted, basic controls, ends with "scroll for sources" |
-| **Fullscreen** | From either | Full controls including time slider |
+| Context           | Location       | Behavior                                                           |
+| :-----------------| :--------------| :------------------------------------------------------------------|
+| **Media Gallery** | Main page grid | Autoplay on scroll, muted, looping, minimal controls               |
+| **Incident Page** | Lightbox       | Auto-starts, muted, basic controls, ends with "scroll for sources" |
+| **Fullscreen**    | From either    | Full controls including time slider                                |
 
 ## Feature Comparison
 
-| Feature | Gallery | Incident | Fullscreen |
-|---------|---------|----------|------------|
-| Autoplay | On scroll (40% visible) | On open | Continues |
-| Muted default | Yes | Yes | Preserves state |
-| Loop | Yes | No | No |
-| Play/Pause | No | Yes | Yes |
-| Time slider | No | No | Yes |
-| Restart | No | Yes | Yes |
-| Volume toggle | Yes | Yes | Yes |
-| Fullscreen | Yes | Yes | Exit button |
-| End behavior | Loop | Grayscale + overlay | Grayscale + restart |
+| Feature       | Gallery                 | Incident            | Fullscreen          |
+| :-------------| :-----------------------| :-------------------| :-------------------|
+| Autoplay      | On scroll (40% visible) | On open             | Continues           |
+| Muted default | Yes                     | Yes                 | Preserves state     |
+| Loop          | Yes                     | No                  | No                  |
+| Play/Pause    | No                      | Yes                 | Yes                 |
+| Time slider   | No                      | No                  | Yes                 |
+| Restart       | No                      | Yes                 | Yes                 |
+| Volume toggle | Yes                     | Yes                 | Yes                 |
+| Fullscreen    | Yes                     | Yes                 | Exit button         |
+| End behavior  | Loop                    | Grayscale + overlay | Grayscale + restart |
 
 ---
 
@@ -36,13 +36,13 @@ We use native browser loading - the simplest approach that works best.
 <video src="video.mp4#t=0.001" poster="og-image.jpg" muted loop playsinline preload="metadata">
 ```
 
-| Attribute | Purpose |
-|-----------|---------|
-| `#t=0.001` | Shows first frame (fallback if no poster) |
-| `poster` | OG image shown while loading |
-| `preload="metadata"` | Loads only duration/dimensions initially |
-| `muted` | Required for autoplay on mobile |
-| `playsinline` | Prevents fullscreen takeover on iOS |
+| Attribute            | Purpose                                   |
+| :--------------------| :-----------------------------------------|
+| `#t=0.001`           | Shows first frame (fallback if no poster) |
+| `poster`             | OG image shown while loading              |
+| `preload="metadata"` | Loads only duration/dimensions initially  |
+| `muted`              | Required for autoplay on mobile           |
+| `playsinline`        | Prevents fullscreen takeover on iOS       |
 
 ### Scroll-to-Play
 
@@ -109,17 +109,17 @@ const container = video.closest('.local-media-container');
 
 ## Files
 
-| File | Contents |
-|------|----------|
-| `docs/js/media-gallery.js` | Gallery rendering, scroll-to-play |
-| `docs/js/media-controls.js` | Video control UI |
-| `docs/js/lightbox.js` | `setupMediaControls()`, `renderVideoElement()` |
-| `docs/css/style.css` | `.media-controls`, fullscreen styles |
-| `scripts/process_media.py` | Video compression |
+| File                        | Contents                                       |
+| :---------------------------| :----------------------------------------------|
+| `docs/js/media-gallery.js`  | Gallery rendering, scroll-to-play              |
+| `docs/js/media-controls.js` | Video control UI                               |
+| `docs/js/lightbox.js`       | `setupMediaControls()`, `renderVideoElement()` |
+| `docs/css/style.css`        | `.media-controls`, fullscreen styles           |
+| `scripts/process_media.py`  | Video compression                              |
 
 ## Configuration
 
-| Setting | Location | Value |
-|---------|----------|-------|
+| Setting        | Location           | Value             |
+| :--------------| :------------------| :-----------------|
 | Play threshold | `media-gallery.js` | 0.4 (40% visible) |
-| Preload | `media-gallery.js` | `metadata` |
+| Preload        | `media-gallery.js` | `metadata`        |

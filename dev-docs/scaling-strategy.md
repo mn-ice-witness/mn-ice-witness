@@ -11,14 +11,14 @@ This document tracks our data scaling decisions, current metrics, and architectu
 - **Individual incident files:** 181 markdown files in `docs/incidents/`
 
 ### Category File Sizes
-| File | Size | Incidents |
-|------|------|-----------|
-| `incidents-summary-citizens.json` | 56 KB | 37 |
-| `incidents-summary-immigrants.json` | 87 KB | 61 |
-| `incidents-summary-observers.json` | 56 KB | 38 |
-| `incidents-summary-schools-hospitals.json` | 34 KB | 25 |
-| `incidents-summary-response.json` | 38 KB | 27 |
-| `search-index.md` | 21 KB | 181 |
+| File                                       | Size  | Incidents |
+| :------------------------------------------| :-----| :---------|
+| `incidents-summary-citizens.json`          | 56 KB | 37        |
+| `incidents-summary-immigrants.json`        | 87 KB | 61        |
+| `incidents-summary-observers.json`         | 56 KB | 38        |
+| `incidents-summary-schools-hospitals.json` | 34 KB | 25        |
+| `incidents-summary-response.json`          | 38 KB | 27        |
+| `search-index.md`                          | 21 KB | 181       |
 
 **Note:** Counts exceed 181 because dual-category incidents appear in multiple files.
 
@@ -62,19 +62,20 @@ Incidents with multiple types (e.g., `citizens, schools-hospitals`) appear in bo
 
 ## Future Considerations
 
-| Metric | Current | Threshold | Action |
-|--------|---------|-----------|--------|
-| Largest category file | 87 KB | 200 KB+ | Consider further splitting |
-| Total incidents | 181 | 500+ | Monitor load times |
-| Load time | ~100ms | 500ms+ | Add loading indicators |
+| Metric                | Current | Threshold | Action                     |
+| :---------------------| :-------| :---------| :--------------------------|
+| Largest category file | 87 KB   | 200 KB+   | Consider further splitting |
+| Total incidents       | 181     | 500+      | Monitor load times         |
+| Load time             | ~100ms  | 500ms+    | Add loading indicators     |
 
 ## Decision Log
 
-| Date | Decision | Rationale |
-|------|----------|-----------|
-| 2026-01-15 | Keep single JSON file | 88KB is small, splitting adds complexity |
-| 2026-01-27 | Continue single file | 205KB still under threshold |
-| 2026-02-02 | Split into 5 category files | 262KB total, growing fast; parallel loading improves UX; search-index.md speeds up searches |
+| Date       | Decision                    | Rationale                                                                 |
+| :----------| :---------------------------| :-------------------------------------------------------------------------|
+| 2026-01-15 | Keep single JSON file       | 88KB is small, splitting adds complexity                                  |
+| 2026-01-27 | Continue single file        | 205KB still under threshold                                               |
+| 2026-02-02 | Split into 5 category files | 262KB total, growing fast; parallel loading improves UX; search-index.md  |
+|            |                             | speeds up searches                                                        |
 
 ---
 

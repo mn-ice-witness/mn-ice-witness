@@ -18,11 +18,11 @@ Regular incidents require no manual timeline work. Only the highlight moments ar
 
 ### Files
 
-| File | Purpose |
-|------|---------|
+| File                                    | Purpose                                            |
+| :---------------------------------------| :--------------------------------------------------|
 | `docs/data/timeline-moments-YYYY-MM.md` | Curated highlight moment data (one file per month) |
-| `docs/js/timeline.js` | Rendering, scroll behavior, click handlers |
-| `docs/css/timeline.css` | All timeline styles (isolated from main CSS) |
+| `docs/js/timeline.js`                   | Rendering, scroll behavior, click handlers         |
+| `docs/css/timeline.css`                 | All timeline styles (isolated from main CSS)       |
 
 ## Moment Format
 
@@ -40,13 +40,13 @@ The first fatal shooting. Renee Nicole Macklin Good, 37, a writer, poet, and mot
 
 ### Fields
 
-| Field | Required | Description |
-|-------|----------|-------------|
-| `date` | Yes | ISO date (YYYY-MM-DD). Determines position on timeline |
-| `title` | Yes | Card headline. Keep concise but descriptive |
-| `incident` | No | Incident slug. Makes the card clickable → opens lightbox. Also auto-loads OG image |
-| `source` | No | External URL. Used when the moment links to an outside article instead of an incident |
-| `image` | No | Custom image path. Overrides the auto-loaded OG image. Set to `false` to suppress image |
+| Field      | Required | Description                                                                             |
+| :----------| :--------| :---------------------------------------------------------------------------------------|
+| `date`     | Yes      | ISO date (YYYY-MM-DD). Determines position on timeline                                  |
+| `title`    | Yes      | Card headline. Keep concise but descriptive                                             |
+| `incident` | No       | Incident slug. Makes the card clickable → opens lightbox. Also auto-loads OG image      |
+| `source`   | No       | External URL. Used when the moment links to an outside article instead of an incident   |
+| `image`    | No       | Custom image path. Overrides the auto-loaded OG image. Set to `false` to suppress image |
 
 ### Body Text
 
@@ -138,20 +138,20 @@ Present findings as:
 
 **Global Object:** `Timeline`
 
-| Method | Purpose |
-|--------|---------|
-| `render()` | Entry point. Initializes if needed, builds HTML, sets up handlers |
-| `init()` | Loads newest month's moments for fast initial render |
-| `loadRemainingMonths()` | Background-loads older months and re-renders |
-| `parseMoments(text)` | Regex parser for YAML frontmatter + body blocks |
-| `computeMonthData()` | Merges moments + incidents into month/day structure, precomputes cumulative totals |
-| `buildHTML()` | Generates full timeline HTML |
-| `buildMomentHTML(moment)` | Renders a highlight card with image, title, body, links |
-| `buildDayHTML(day)` | Renders an incident day-cluster with category tags |
-| `initScrollObserver()` | Sets up scroll-based totals bar updates |
-| `initClickHandlers()` | Handles clicks on moments, incidents, and inline links |
-| `findIncident(slug)` | Looks up incident data by slug for image loading |
-| `renderLinks(text)` | Converts markdown `[text](url)` to HTML links |
+| Method                    | Purpose                                                                            |
+| :-------------------------| :----------------------------------------------------------------------------------|
+| `render()`                | Entry point. Initializes if needed, builds HTML, sets up handlers                  |
+| `init()`                  | Loads newest month's moments for fast initial render                               |
+| `loadRemainingMonths()`   | Background-loads older months and re-renders                                       |
+| `parseMoments(text)`      | Regex parser for YAML frontmatter + body blocks                                    |
+| `computeMonthData()`      | Merges moments + incidents into month/day structure, precomputes cumulative totals |
+| `buildHTML()`             | Generates full timeline HTML                                                       |
+| `buildMomentHTML(moment)` | Renders a highlight card with image, title, body, links                            |
+| `buildDayHTML(day)`       | Renders an incident day-cluster with category tags                                 |
+| `initScrollObserver()`    | Sets up scroll-based totals bar updates                                            |
+| `initClickHandlers()`     | Handles clicks on moments, incidents, and inline links                             |
+| `findIncident(slug)`      | Looks up incident data by slug for image loading                                   |
+| `renderLinks(text)`       | Converts markdown `[text](url)` to HTML links                                      |
 
 **Depends On:** `App` (incident data), `Lightbox` (opening incidents)
 
@@ -159,14 +159,14 @@ Present findings as:
 
 Organized into clearly labeled sections:
 
-| Section | Purpose |
-|---------|---------|
-| Totals Bar | Sticky header with running category counts |
-| Content Area | Main timeline column with vertical line |
-| Year Headers | Year dividers |
-| Month Sections | Month labels |
-| Narrative Moments | Highlight card styling |
-| Day Clusters | Incident dot groups |
-| Desktop Layout | `@media (min-width: 768px)` adjustments |
-| Large Desktop | `@media (min-width: 1200px)` adjustments |
-| Narrow Mobile | `@media (max-width: 480px)` adjustments |
+| Section           | Purpose                                    |
+| :-----------------| :------------------------------------------|
+| Totals Bar        | Sticky header with running category counts |
+| Content Area      | Main timeline column with vertical line    |
+| Year Headers      | Year dividers                              |
+| Month Sections    | Month labels                               |
+| Narrative Moments | Highlight card styling                     |
+| Day Clusters      | Incident dot groups                        |
+| Desktop Layout    | `@media (min-width: 768px)` adjustments    |
+| Large Desktop     | `@media (min-width: 1200px)` adjustments   |
+| Narrow Mobile     | `@media (max-width: 480px)` adjustments    |

@@ -28,13 +28,13 @@ The CSP includes `'unsafe-inline'` for script-src which caps us at A (not A+). R
 
 These services power most corporate firewalls. Submit the site to each to request proper categorization as "News/Media":
 
-| Service | Submit URL | Status |
-|---------|------------|--------|
+| Service                   | Submit URL                                                          | Status             |
+| :-------------------------| :-------------------------------------------------------------------| :------------------|
 | **Brightcloud (Webroot)** | https://www.brightcloud.com/tools/change-request-url-background.php | Submitted Jan 2026 |
-| **Fortinet (FortiGuard)** | https://www.fortiguard.com/webfilter | Submitted Jan 2026 |
-| **McAfee/TrustedSource** | https://trustedsource.org/sources/index.pl | Submitted Jan 2026 |
-| **Palo Alto** | https://urlfiltering.paloaltonetworks.com | Requires login |
-| **Symantec/Broadcom** | https://sitereview.bluecoat.com | Not submitted |
+| **Fortinet (FortiGuard)** | https://www.fortiguard.com/webfilter                                | Submitted Jan 2026 |
+| **McAfee/TrustedSource**  | https://trustedsource.org/sources/index.pl                          | Submitted Jan 2026 |
+| **Palo Alto**             | https://urlfiltering.paloaltonetworks.com                           | Requires login     |
+| **Symantec/Broadcom**     | https://sitereview.bluecoat.com                                     | Not submitted      |
 
 Changes typically propagate within 24-72 hours.
 
@@ -42,11 +42,11 @@ Changes typically propagate within 24-72 hours.
 
 To see how a vendor currently categorizes the site:
 
-| Service | Lookup URL |
-|---------|------------|
+| Service     | Lookup URL                                          |
+| :-----------| :---------------------------------------------------|
 | Brightcloud | https://www.brightcloud.com/tools/url-ip-lookup.php |
-| Fortinet | https://www.fortiguard.com/webfilter |
-| Cisco Talos | https://talosintelligence.com/reputation_center |
+| Fortinet    | https://www.fortiguard.com/webfilter                |
+| Cisco Talos | https://talosintelligence.com/reputation_center     |
 
 ## If Blocking Persists
 
@@ -57,11 +57,11 @@ To see how a vendor currently categorizes the site:
 
 ## Other Security Checks
 
-| Tool | Purpose | URL |
-|------|---------|-----|
-| VirusTotal | Check if flagged as malicious | https://www.virustotal.com |
-| Google Safe Browsing | Google's blocklist | https://transparencyreport.google.com/safe-browsing |
-| SSL Labs | SSL/TLS configuration | https://www.ssllabs.com/ssltest/ |
+| Tool                 | Purpose                       | URL                                                 |
+| :--------------------| :-----------------------------| :---------------------------------------------------|
+| VirusTotal           | Check if flagged as malicious | https://www.virustotal.com                          |
+| Google Safe Browsing | Google's blocklist            | https://transparencyreport.google.com/safe-browsing |
+| SSL Labs             | SSL/TLS configuration         | https://www.ssllabs.com/ssltest/                    |
 
 ## What We Cannot Automate
 

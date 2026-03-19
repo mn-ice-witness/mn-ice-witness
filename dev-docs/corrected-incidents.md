@@ -88,14 +88,16 @@ If the incident ID contains the wrong claim (e.g., a chemical name that was disp
 
 ## Files Involved
 
-| File | What Changed |
-|------|--------------|
-| `docs/js/router.js` | `/corrections` route |
-| `docs/js/app.js` | `getCorrectionsIncidents()`; corrected incidents NOT filtered from main display |
-| `docs/js/lightbox.js` | `openCorrections()`, `renderCorrectionsContent()` (uses `correctionNote`), `setupCorrectionsLinks()`, `showCorrections()` |
-| `docs/about.md` | Corrections section and link |
-| `functions/corrections/index.js` | Cloudflare Function for OG tags |
-| `scripts/generate_summary.py` | `corrected` in `VALID_TRUSTWORTHINESS`; `extract_correction()` for `correctionNote`; appears in CURRENT + CORRECTIONS sections |
+| File                             | What Changed                                                                      |
+| :--------------------------------| :---------------------------------------------------------------------------------|
+| `docs/js/router.js`              | `/corrections` route                                                              |
+| `docs/js/app.js`                 | `getCorrectionsIncidents()`; corrected incidents NOT filtered from main display   |
+| `docs/js/lightbox.js`            | `openCorrections()`, `renderCorrectionsContent()` (uses `correctionNote`),        |
+|                                  | `setupCorrectionsLinks()`, `showCorrections()`                                    |
+| `docs/about.md`                  | Corrections section and link                                                      |
+| `functions/corrections/index.js` | Cloudflare Function for OG tags                                                   |
+| `scripts/generate_summary.py`    | `corrected` in `VALID_TRUSTWORTHINESS`; `extract_correction()` for                |
+|                                  | `correctionNote`; appears in CURRENT + CORRECTIONS sections                       |
 
 ## Examples
 

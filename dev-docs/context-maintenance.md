@@ -107,19 +107,19 @@ A rule belongs in CONTEXT.md's Critical Rules section if it meets ALL of these c
 
 ### Current Critical Rules
 
-| Rule | Why It's Critical |
-|------|-------------------|
-| Terminology (entry=incident) | Causes confusion; used interchangeably everywhere |
-| Timestamps (use script) | Manually-entered timestamps are often wrong |
+| Rule                                                    | Why It's Critical                                 |
+| :-------------------------------------------------------| :-------------------------------------------------|
+| Terminology (entry=incident)                            | Causes confusion; used interchangeably everywhere |
+| Timestamps (use script)                                 | Manually-entered timestamps are often wrong       |
 | incidents-summary-*.json / search-index.md (don't edit) | Changes get overwritten; frustrating to lose work |
-| Trustworthiness (exactly one value) | Common mistake: "medium-high" is invalid |
-| Incident types (exactly 5) | Made-up types break the site |
-| SVG icons (use pattern) | Inline SVGs create maintenance nightmare |
-| Sources must have links | No link = worthless source entry |
-| Neutral language | Credibility depends on this |
-| Check not_use.md | Prevents re-adding rejected stories |
-| last_updated rules | Wrong updates break "Sort by Updated" feature |
-| Search for sources (read adding-incidents.md) | Source searching often skipped; point to Step 1.5 |
+| Trustworthiness (exactly one value)                     | Common mistake: "medium-high" is invalid          |
+| Incident types (exactly 5)                              | Made-up types break the site                      |
+| SVG icons (use pattern)                                 | Inline SVGs create maintenance nightmare          |
+| Sources must have links                                 | No link = worthless source entry                  |
+| Neutral language                                        | Credibility depends on this                       |
+| Check not_use.md                                        | Prevents re-adding rejected stories               |
+| last_updated rules                                      | Wrong updates break "Sort by Updated" feature     |
+| Search for sources (read adding-incidents.md)           | Source searching often skipped; point to Step 1.5 |
 
 ### Rules That Don't Belong
 
@@ -134,16 +134,16 @@ A rule belongs in CONTEXT.md's Critical Rules section if it meets ALL of these c
 
 Keep the Dev-Docs Index organized by category:
 
-| Category | What Goes Here |
-|----------|---------------|
-| **Core Documentation** | Architecture, schemas, procedures used by everyone |
-| **Code Quality** | Reviews, refactoring, technical debt |
-| **URL & Navigation** | Routing, links, navigation behavior |
-| **UI & Media** | Components, icons, video, images |
-| **Research & Content** | Finding incidents, sources, editorial rules |
-| **Operations & Deployment** | Hosting, testing, monitoring |
-| **Social & Outreach** | Social media, marketing, communications |
-| **Reference** | Historical, ideas, one-off docs |
+| Category                    | What Goes Here                                     |
+| :---------------------------| :--------------------------------------------------|
+| **Core Documentation**      | Architecture, schemas, procedures used by everyone |
+| **Code Quality**            | Reviews, refactoring, technical debt               |
+| **URL & Navigation**        | Routing, links, navigation behavior                |
+| **UI & Media**              | Components, icons, video, images                   |
+| **Research & Content**      | Finding incidents, sources, editorial rules        |
+| **Operations & Deployment** | Hosting, testing, monitoring                       |
+| **Social & Outreach**       | Social media, marketing, communications            |
+| **Reference**               | Historical, ideas, one-off docs                    |
 
 When creating a new dev-doc, put it in the most specific applicable category.
 
@@ -153,12 +153,12 @@ When creating a new dev-doc, put it in the most specific applicable category.
 
 Dev-docs should use kebab-case names that describe the content:
 
-| Good | Bad |
-|------|-----|
-| `url-routing.md` | `urls.md` |
-| `adding-incidents.md` | `incidents.md` |
-| `media-controls.md` | `video.md` |
-| `daily-search-procedure.md` | `search.md` |
+| Good                        | Bad            |
+| :---------------------------| :--------------|
+| `url-routing.md`            | `urls.md`      |
+| `adding-incidents.md`       | `incidents.md` |
+| `media-controls.md`         | `video.md`     |
+| `daily-search-procedure.md` | `search.md`    |
 
 Specific > Generic. A doc named `video.md` could be about anything; `media-controls.md` is clear.
 
@@ -181,6 +181,6 @@ Run through this when doing a full reindex:
 
 ## Version History
 
-| Date | Change |
-|------|--------|
+| Date       | Change                         |
+| :----------| :------------------------------|
 | 2026-01-21 | Initial creation of TOC system |

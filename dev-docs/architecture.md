@@ -61,13 +61,13 @@ GIT_MN_ICE_FILES/
 
 ## Incident Types
 
-| Type | Section | Color |
-|------|---------|-------|
-| `citizens` | U.S. Citizens Detained | Purple |
-| `observers` | Bystanders & Observers | Blue |
-| `immigrants` | Community Members | Cyan |
-| `schools-hospitals` | Schools/Hospitals | Orange |
-| `response` | Official Responses | Gray |
+| Type                | Section                | Color  |
+| :-------------------| :----------------------| :------|
+| `citizens`          | U.S. Citizens Detained | Purple |
+| `observers`         | Bystanders & Observers | Blue   |
+| `immigrants`        | Community Members      | Cyan   |
+| `schools-hospitals` | Schools/Hospitals      | Orange |
+| `response`          | Official Responses     | Gray   |
 
 
 ## JavaScript Module Reference
@@ -89,16 +89,16 @@ This section describes what each JavaScript file does. Read this before modifyin
 **Global Object:** `App`
 
 **Key Methods:**
-| Method | Purpose |
-|--------|---------|
-| `init()` | Start the application |
-| `loadIncidents()` | Fetch 6 category JSON files in parallel, deduplicate |
-| `getFilteredIncidents()` | Apply search query to incidents |
-| `switchView(view)` | Toggle media/list view |
-| `renderMediaGallery()` | Render video card grid |
-| `render()` | Render incident list by category |
-| `buildUrl(type, slug)` | Build clean path URL |
-| `parseUrl()` | Parse current URL into route object |
+| Method                   | Purpose                                              |
+| :------------------------| :----------------------------------------------------|
+| `init()`                 | Start the application                                |
+| `loadIncidents()`        | Fetch 6 category JSON files in parallel, deduplicate |
+| `getFilteredIncidents()` | Apply search query to incidents                      |
+| `switchView(view)`       | Toggle media/list view                               |
+| `renderMediaGallery()`   | Render video card grid                               |
+| `render()`               | Render incident list by category                     |
+| `buildUrl(type, slug)`   | Build clean path URL                                 |
+| `parseUrl()`             | Parse current URL into route object                  |
 
 **Depends On:** `Router`, `ViewState`, `Splash`, `MediaGallery`, `Lightbox`, `Search`, `IncidentParser`
 
@@ -207,15 +207,15 @@ This section describes what each JavaScript file does. Read this before modifyin
 **Global Object:** `Lightbox`
 
 **Key Methods:**
-| Method | Purpose |
-|--------|---------|
-| `init()` | Setup lightbox event listeners |
-| `open(incident)` | Open incident detail view |
-| `openAbout(anchor)` | Open about page, optionally scroll to anchor |
-| `openNewUpdated(dateStr)` | Open new/updated listing for date |
-| `close()` | Close lightbox, handle history |
-| `copyShareLink()` | Copy current URL to clipboard |
-| `setupVideoControls()` | Initialize video player controls |
+| Method                    | Purpose                                      |
+| :-------------------------| :--------------------------------------------|
+| `init()`                  | Setup lightbox event listeners               |
+| `open(incident)`          | Open incident detail view                    |
+| `openAbout(anchor)`       | Open about page, optionally scroll to anchor |
+| `openNewUpdated(dateStr)` | Open new/updated listing for date            |
+| `close()`                 | Close lightbox, handle history               |
+| `copyShareLink()`         | Copy current URL to clipboard                |
+| `setupVideoControls()`    | Initialize video player controls             |
 
 **Depends On:** `App`, `IncidentParser`, `marked` (CDN)
 
@@ -234,12 +234,12 @@ This section describes what each JavaScript file does. Read this before modifyin
 **Global Object:** `IncidentParser`
 
 **Key Methods:**
-| Method | Purpose |
-|--------|---------|
-| `parseIncident(content, filePath)` | Parse markdown into incident object |
-| `formatTypeLabel(type)` | Convert type to display label |
-| `formatCitizenshipLabel(citizenship)` | Convert citizenship to display |
-| `formatDate(dateStr)` | Format YYYY-MM-DD to readable date |
+| Method                                | Purpose                             |
+| :-------------------------------------| :-----------------------------------|
+| `parseIncident(content, filePath)`    | Parse markdown into incident object |
+| `formatTypeLabel(type)`               | Convert type to display label       |
+| `formatCitizenshipLabel(citizenship)` | Convert citizenship to display      |
+| `formatDate(dateStr)`                 | Format YYYY-MM-DD to readable date  |
 
 **Depends On:** Nothing (standalone)
 
@@ -277,14 +277,14 @@ This section describes what each JavaScript file does. Read this before modifyin
 **Global Object:** `Timeline`
 
 **Key Methods:**
-| Method | Purpose |
-|--------|---------|
-| `render()` | Build and display the timeline |
-| `init()` | Load newest month's moments and compute month data |
-| `loadRemainingMonths()` | Background-load older months and re-render |
-| `computeMonthData()` | Merge moments + incidents, precompute cumulative totals |
-| `buildMomentHTML(moment)` | Render a narrative highlight card |
-| `buildDayHTML(day)` | Render an incident day-cluster |
+| Method                    | Purpose                                                 |
+| :-------------------------| :-------------------------------------------------------|
+| `render()`                | Build and display the timeline                          |
+| `init()`                  | Load newest month's moments and compute month data      |
+| `loadRemainingMonths()`   | Background-load older months and re-render              |
+| `computeMonthData()`      | Merge moments + incidents, precompute cumulative totals |
+| `buildMomentHTML(moment)` | Render a narrative highlight card                       |
+| `buildDayHTML(day)`       | Render an incident day-cluster                          |
 
 **Depends On:** `App` (incident data), `Lightbox` (opening incidents)
 
@@ -323,12 +323,12 @@ This section describes what each JavaScript file does. Read this before modifyin
 **Auto-generated by:** `scripts/generate_summary.py` (via pre-commit hook)
 
 **Sections:**
-| Section | Contents | Source |
-|---------|----------|--------|
-| **CURRENT** | Published incidents | `docs/incidents/` files with trustworthiness != no-news-media/removed |
-| **NO-ADD** | Rejected stories | Auto-parsed from `dev-docs/not_use.md` |
-| **REMOVED** | Retracted incidents | Files with `trustworthiness: removed` |
-| **NO-NEWS-MEDIA** | Unverified incidents | Files with `trustworthiness: no-news-media` |
+| Section           | Contents             | Source                                                                |
+| :-----------------| :--------------------| :---------------------------------------------------------------------|
+| **CURRENT**       | Published incidents  | `docs/incidents/` files with trustworthiness != no-news-media/removed |
+| **NO-ADD**        | Rejected stories     | Auto-parsed from `dev-docs/not_use.md`                                |
+| **REMOVED**       | Retracted incidents  | Files with `trustworthiness: removed`                                 |
+| **NO-NEWS-MEDIA** | Unverified incidents | Files with `trustworthiness: no-news-media`                           |
 
 **Format:** `path | date | city | category | title`
 
@@ -394,23 +394,23 @@ This section describes what each JavaScript file does. Read this before modifyin
 
 `docs/css/style.css` (~1912 lines) is organized into clearly marked sections:
 
-| Section | Lines | Purpose |
-|---------|-------|---------|
-| Variables & Reset | 1-48 | CSS custom properties, box-sizing |
-| Splash Screen | 50-236 | Animated intro overlay |
-| Header | 238-359 | Masthead, stats ribbon |
-| Navigation | 361-403 | Section nav pills |
-| View Toggle | 405-458 | Media/List toggle buttons |
-| Search | 460-639 | Search modal, input |
-| Media Gallery | 641-834 | Video card grid |
-| Main Content | 836-912 | Content containers |
-| Incident Table | 889-1058 | List view rows |
-| Lightbox | 1060-1412 | Modal overlay, content |
-| Local Media | 1414-1674 | Video player, controls |
-| Footer | 1676-1717 | Fixed bottom bar |
-| Responsive | 1719-1772 | Media queries |
-| New & Updated | 1774-1850 | Date listing styles |
-| Header Links | 1852-1912 | Anchor link icons |
+| Section           | Lines     | Purpose                           |
+| :-----------------| :---------| :---------------------------------|
+| Variables & Reset | 1-48      | CSS custom properties, box-sizing |
+| Splash Screen     | 50-236    | Animated intro overlay            |
+| Header            | 238-359   | Masthead, stats ribbon            |
+| Navigation        | 361-403   | Section nav pills                 |
+| View Toggle       | 405-458   | Media/List toggle buttons         |
+| Search            | 460-639   | Search modal, input               |
+| Media Gallery     | 641-834   | Video card grid                   |
+| Main Content      | 836-912   | Content containers                |
+| Incident Table    | 889-1058  | List view rows                    |
+| Lightbox          | 1060-1412 | Modal overlay, content            |
+| Local Media       | 1414-1674 | Video player, controls            |
+| Footer            | 1676-1717 | Fixed bottom bar                  |
+| Responsive        | 1719-1772 | Media queries                     |
+| New & Updated     | 1774-1850 | Date listing styles               |
+| Header Links      | 1852-1912 | Anchor link icons                 |
 
 `docs/css/timeline.css` (~500 lines) contains all timeline-specific styles, isolated from the main stylesheet. Sections: Totals Bar, Content Area, Year Headers, Month Sections, Narrative Moments, Day Clusters, Desktop/Mobile responsive.
 

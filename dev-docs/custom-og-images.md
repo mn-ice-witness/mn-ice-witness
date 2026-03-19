@@ -36,9 +36,9 @@ The script will:
 
 ### Naming Convention
 
-| Pattern | Example |
-|---------|---------|
-| `{slug}.raw_og.{png\|jpg\|jpeg}` | `2026-01-30-incident-name.raw_og.png` |
+| Pattern              | Example |
+| :--------------------| :-------|
+| `{slug}.raw_og.{png\ | jpg\    |
 
 The file can be placed in:
 - Date-based folder: `raw_media/2026-01/30/`
@@ -90,15 +90,15 @@ As long as only one OG image exists per incident, the system will use it.
 ## Quick Reference
 
 ### Automated Workflow
-| Step | Action |
-|------|--------|
-| 1 | Move image to `raw_media/{date-folder}/{slug}.raw_og.{ext}` |
-| 2 | Run `python-main scripts/process_media.py` |
+| Step | Action                                                      |
+| :----| :-----------------------------------------------------------|
+| 1    | Move image to `raw_media/{date-folder}/{slug}.raw_og.{ext}` |
+| 2    | Run `python-main scripts/process_media.py`                  |
 
 ### Manual Workflow
-| Step | Command |
-|------|---------|
-| 1 | `cd raw_media && cp Screenshot*.png /tmp/screenshot.png` |
-| 2 | `sips -s format jpeg /tmp/screenshot.png --out docs/media/{date}/{slug}-og-custom.jpg` |
-| 3 | `rm docs/media/{date}/{slug}-og-2s-*.jpg` |
-| 4 | `rm raw_media/Screenshot*.png` |
+| Step | Command                                                                                |
+| :----| :--------------------------------------------------------------------------------------|
+| 1    | `cd raw_media && cp Screenshot*.png /tmp/screenshot.png`                               |
+| 2    | `sips -s format jpeg /tmp/screenshot.png --out docs/media/{date}/{slug}-og-custom.jpg` |
+| 3    | `rm docs/media/{date}/{slug}-og-2s-*.jpg`                                              |
+| 4    | `rm raw_media/Screenshot*.png`                                                         |

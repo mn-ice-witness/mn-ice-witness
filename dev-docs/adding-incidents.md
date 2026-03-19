@@ -41,14 +41,14 @@ This keeps all information about an incident in one place and prevents fragmenta
 
 **IMPORTANT:** Do NOT combine separate incidents just because they seem related or similar. Create separate incident files when:
 
-| Scenario | Action |
-|----------|--------|
-| Different dates | Separate incidents |
-| Different people involved (even if same location/topic) | Separate incidents |
-| Different actions (e.g., attorneys denied access vs. lawmakers denied access) | Separate incidents |
-| Same underlying issue but distinct events | Separate incidents |
-| Same event with new sources/details | Merge into existing incident |
-| Same event covered by different outlets | Merge into existing incident |
+| Scenario                                                                      | Action                       |
+| :-----------------------------------------------------------------------------| :----------------------------|
+| Different dates                                                               | Separate incidents           |
+| Different people involved (even if same location/topic)                       | Separate incidents           |
+| Different actions (e.g., attorneys denied access vs. lawmakers denied access) | Separate incidents           |
+| Same underlying issue but distinct events                                     | Separate incidents           |
+| Same event with new sources/details                                           | Merge into existing incident |
+| Same event covered by different outlets                                       | Merge into existing incident |
 
 **Example of what NOT to do:**
 - "Attorneys denied access to detainees" (Jan 15-18) and "Congressional lawmakers denied access to facility" (Jan 10) are **two separate incidents**, even though both involve access denial at the same building. They occurred on different dates, involved different people, and had different official responses.
@@ -105,10 +105,12 @@ Well-sourced stories from major news outlets documenting U.S. citizens being sto
 
 Both `citizens` and `observers` may involve U.S. citizens being detained. Choose based on **WHY they were targeted**:
 
-| Type | Use When | Examples |
-|------|----------|----------|
-| `citizens` | Person was **racially profiled or mistakenly targeted** while going about daily life | On lunch break, driving, shopping, shoveling snow, leaving work |
-| `observers` | Person was **targeted for filming, observing, or protesting** ICE operations | Following ICE vehicles, responding to alerts, filming arrests, at protests |
+| Type        | Use When                                          | Examples                                          |
+| :-----------| :-------------------------------------------------| :-------------------------------------------------|
+| `citizens`  | Person was **racially profiled or mistakenly      | On lunch break, driving, shopping, shoveling      |
+|             | targeted** while going about daily life           | snow, leaving work                                |
+| `observers` | Person was **targeted for filming, observing, or  | Following ICE vehicles, responding to alerts,     |
+|             | protesting** ICE operations                       | filming arrests, at protests                      |
 
 **Key question:** Was the person targeted for WHO THEY ARE (citizens) or WHAT THEY WERE DOING (observers)?
 
@@ -119,13 +121,15 @@ Both `citizens` and `observers` may involve U.S. citizens being detained. Choose
 ### HIGH - Strong Evidence
 Assign HIGH when ANY of these conditions are met:
 
-| Condition | Example |
-|-----------|---------|
-| 3+ independent sources | Star Tribune + MPR + Fox 9 all covering incident |
-| Video/photo evidence | Bystander video shows incident, news embeds footage |
-| Investigative report from major outlet | The Intercept, ProPublica, major newspaper with named sources and direct quotes |
-| Single source + official corroboration | News report + ICE confirms arrest, or + lawsuit filed |
-| Single source + credible primary sources | Article with named elected officials, attorneys, or direct affected individual interviews |
+| Condition                                | Example                                                                   |
+| :----------------------------------------| :-------------------------------------------------------------------------|
+| 3+ independent sources                   | Star Tribune + MPR + Fox 9 all covering incident                          |
+| Video/photo evidence                     | Bystander video shows incident, news embeds footage                       |
+| Investigative report from major outlet   | The Intercept, ProPublica, major newspaper with named sources and direct  |
+|                                          | quotes                                                                    |
+| Single source + official corroboration   | News report + ICE confirms arrest, or + lawsuit filed                     |
+| Single source + credible primary sources | Article with named elected officials, attorneys, or direct affected       |
+|                                          | individual interviews                                                     |
 
 **Examples of HIGH with single source:**
 - The Intercept detailed account with named affected individual and direct quotes → HIGH
@@ -135,21 +139,21 @@ Assign HIGH when ANY of these conditions are met:
 ### MEDIUM - Moderate Evidence
 Assign MEDIUM when:
 
-| Condition | Example |
-|-----------|---------|
-| 2 independent sources | Two separate news outlets cover incident |
-| Official statement only | DHS press release without independent verification |
+| Condition                       | Example                                                |
+| :-------------------------------| :------------------------------------------------------|
+| 2 independent sources           | Two separate news outlets cover incident               |
+| Official statement only         | DHS press release without independent verification     |
 | Single established local source | Star Tribune or Pioneer Press report, no corroboration |
-| Social media + one news pickup | Facebook video + one news article citing it |
+| Social media + one news pickup  | Facebook video + one news article citing it            |
 
 ### LOW - Limited Evidence
 Assign LOW when:
 
-| Condition | Example |
-|-----------|---------|
-| Single smaller outlet | Community paper or blog only |
+| Condition                        | Example                                |
+| :--------------------------------| :--------------------------------------|
+| Single smaller outlet            | Community paper or blog only           |
 | Social media with limited pickup | Facebook/X post, minimal news coverage |
-| Conflicting details | Sources disagree on key facts |
+| Conflicting details              | Sources disagree on key facts          |
 
 ### NO-NEWS-MEDIA
 - Reported but not independently confirmed
@@ -177,11 +181,13 @@ This allows editorial judgment about incidents worth documenting while clearly i
 
 **IMPORTANT:** Even well-reported incidents should be rated MEDIUM (not HIGH) if:
 
-| Condition | Why It Limits Rating |
-|-----------|---------------------|
-| No independent firsthand witnesses on scene | Cannot corroborate the account beyond affected individual's word |
-| Account relies solely on affected individual/family statement | No third-party verification of events |
-| Agency disputes incident occurred (e.g., "zero record") | Creates he-said/she-said without independent evidence |
+| Condition                                                | Why It Limits Rating                                     |
+| :--------------------------------------------------------| :--------------------------------------------------------|
+| No independent firsthand witnesses on scene              | Cannot corroborate the account beyond affected           |
+|                                                          | individual's word                                        |
+| Account relies solely on affected individual/family      | No third-party verification of events                    |
+| statement                                                |                                                          |
+| Agency disputes incident occurred (e.g., "zero record")  | Creates he-said/she-said without independent evidence    |
 
 **Example:** A U.S. citizen claims they were stopped by ICE. Multiple news outlets report the story based on the citizen's account. However, no bystanders witnessed the stop, no video exists, and ICE claims "zero record" of the incident. This should be rated **MEDIUM** despite widespread media coverage, because the coverage is all sourced from a single account without independent corroboration.
 
@@ -227,11 +233,14 @@ These are common mistakes when adding incidents. Read this section carefully.
 
 ### Citing Sources You Haven't Read — CRITICAL
 
-| Mistake | Why It's Wrong | Correct Approach |
-|---------|---------------|------------------|
-| Linking to an article without reading it | The article may be about a DIFFERENT incident/person | Always fetch and read the source first |
-| Using a URL that looks right based on the title | URL titles can be misleading or reused | Verify the content matches your claim |
-| Adding sources from search result snippets only | Snippets may be out of context or outdated | Read the full article |
+| Mistake                              | Why It's Wrong                       | Correct Approach                     |
+| :------------------------------------| :------------------------------------| :------------------------------------|
+| Linking to an article without        | The article may be about a DIFFERENT | Always fetch and read the source     |
+| reading it                           | incident/person                      | first                                |
+| Using a URL that looks right based   | URL titles can be misleading or      | Verify the content matches your      |
+| on the title                         | reused                               | claim                                |
+| Adding sources from search result    | Snippets may be out of context or    | Read the full article                |
+| snippets only                        | outdated                             |                                      |
 
 **⚠️ This has caused real errors.** A previous session linked a Sahan Journal article about one case (north Minneapolis shooting detainees) to an update about a completely different person (Tobay Robles). The URL looked plausible, but the article was about different people entirely.
 
@@ -244,56 +253,71 @@ These are common mistakes when adding incidents. Read this section carefully.
 **If you cannot access a source:** Print the full URL, then ask: "Please paste the text so I can verify it covers this incident."
 
 ### Inventing Details Not in Sources — CRITICAL
-| Mistake | Why It's Wrong | Correct Approach |
-|---------|---------------|------------------|
-| Writing "zip-tied" when source says "untied" | Specific detail not in source | Use "restrained" or "tied up" |
-| Writing "slammed to ground" when source says "dragged" | Adding violence not described | Use exact language from source |
-| Adding specific weapons, numbers, or methods not stated | Fabrication damages credibility | Only include what sources explicitly state |
+| Mistake                                 | Why It's Wrong                  | Correct Approach                        |
+| :---------------------------------------| :-------------------------------| :---------------------------------------|
+| Writing "zip-tied" when source says     | Specific detail not in source   | Use "restrained" or "tied up"           |
+| "untied"                                |                                 |                                         |
+| Writing "slammed to ground" when source | Adding violence not described   | Use exact language from source          |
+| says "dragged"                          |                                 |                                         |
+| Adding specific weapons, numbers, or    | Fabrication damages credibility | Only include what sources explicitly    |
+| methods not stated                      |                                 | state                                   |
 
 **⚠️ This is a critical error.** If a source says someone was "untied," you know they were restrained — but you do NOT know with what. Do not write "zip-tied," "handcuffed," or any other specific restraint unless a source explicitly says so. Use general terms like "restrained" that match what's actually documented.
 
 ### Timestamps — Common Error
-| Mistake | Why It's Wrong | Correct Approach |
-|---------|---------------|------------------|
-| `2026-01-19T12:00:00` | Rounded times are obviously wrong | Run `./bin/timestamp.sh` FIRST, then copy-paste |
-| `2026-01-19T14:30:00` | Round numbers reveal guessing | Never type timestamps from memory |
-| Typing ANY timestamp manually | Manually-entered timestamps are often wrong | Script output is the ONLY valid source |
+| Mistake                       | Why It's Wrong                           | Correct Approach                         |
+| :-----------------------------| :----------------------------------------| :----------------------------------------|
+| `2026-01-19T12:00:00`         | Rounded times are obviously wrong        | Run `./bin/timestamp.sh` FIRST, then     |
+|                               |                                          | copy-paste                               |
+| `2026-01-19T14:30:00`         | Round numbers reveal guessing            | Never type timestamps from memory        |
+| Typing ANY timestamp manually | Manually-entered timestamps are often    | Script output is the ONLY valid source   |
+|                               | wrong                                    |                                          |
 
 **⚠️ This is a very common error.** Before editing ANY timestamp field, run `./bin/timestamp.sh` and copy its output. Do not proceed without doing this step first.
 
 ### Source Formatting
-| Mistake | Why It's Wrong | Correct Format |
-|---------|---------------|----------------|
-| `[Instagram post](URL) - Source` | Wrong order, missing date | `Instagram Post (Jan 15, 2026): [description](URL)` |
-| `Star Tribune (Jan 2026): [Title](URL)` | Missing day in date | `Star Tribune (Jan 15, 2026): [Title](URL)` |
-| Source without any link | No link = not a source | Every source must have a clickable URL |
-| Business homepage as source | General pages don't prove anything | Link to specific post/article about incident |
-| `- **VIDEO** [Title](URL)` | Wrong format entirely | `Instagram Video (Jan 15, 2026): [Title](URL)` |
+| Mistake                                | Why It's Wrong                     | Correct Format                         |
+| :--------------------------------------| :----------------------------------| :--------------------------------------|
+| `[Instagram post](URL) - Source`       | Wrong order, missing date          | `Instagram Post (Jan 15, 2026):        |
+|                                        |                                    | [description](URL)`                    |
+| `Star Tribune (Jan 2026):              | Missing day in date                | `Star Tribune (Jan 15, 2026):          |
+| [Title](URL)`                          |                                    | [Title](URL)`                          |
+| Source without any link                | No link = not a source             | Every source must have a clickable URL |
+| Business homepage as source            | General pages don't prove anything | Link to specific post/article about    |
+|                                        |                                    | incident                               |
+| `- **VIDEO** [Title](URL)`             | Wrong format entirely              | `Instagram Video (Jan 15, 2026):       |
+|                                        |                                    | [Title](URL)`                          |
 
 ### Source Ordering
-| Mistake | Why It's Wrong | Correct Approach |
-|---------|---------------|------------------|
-| "Videos first, then articles" | Misleading oversimplification | Best/most compelling first - could be video OR article |
-| Putting syndicated content first | Yahoo/AOL reposts are less valuable | Original reporting first, syndication last |
+| Mistake                          | Why It's Wrong                      | Correct Approach                            |
+| :--------------------------------| :-----------------------------------| :-------------------------------------------|
+| "Videos first, then articles"    | Misleading oversimplification       | Best/most compelling first - could be video |
+|                                  |                                     | OR article                                  |
+| Putting syndicated content first | Yahoo/AOL reposts are less valuable | Original reporting first, syndication last  |
 
 ### Internal Links
-| Mistake | Why It's Wrong | Correct Format |
-|---------|---------------|----------------|
-| `[link](2026-01-15-incident.md)` | Links to raw .md file | `[link](#2026-01-15-incident)` |
-| `[link](https://mnicefiles.com/#slug)` | Hardcodes domain | `[link](#slug)` |
+| Mistake                                | Why It's Wrong        | Correct Format                 |
+| :--------------------------------------| :---------------------| :------------------------------|
+| `[link](2026-01-15-incident.md)`       | Links to raw .md file | `[link](#2026-01-15-incident)` |
+| `[link](https://mnicefiles.com/#slug)` | Hardcodes domain      | `[link](#slug)`                |
 
 ### Trustworthiness
-| Mistake | Why It's Wrong | Correct Approach |
-|---------|---------------|------------------|
-| `trustworthiness: medium-high` | Compound values not allowed | Pick exactly one: high, medium, low, no-news-media |
-| Rating HIGH without corroboration | Single-source stories need verification | See witness corroboration rule |
+| Mistake                           | Why It's Wrong                         | Correct Approach                       |
+| :---------------------------------| :--------------------------------------| :--------------------------------------|
+| `trustworthiness: medium-high`    | Compound values not allowed            | Pick exactly one: high, medium, low,   |
+|                                   |                                        | no-news-media                          |
+| Rating HIGH without corroboration | Single-source stories need             | See witness corroboration rule         |
+|                                   | verification                           |                                        |
 
 ### last_updated
-| Mistake | Why It's Wrong | Correct Approach |
-|---------|---------------|------------------|
-| Updating for every source added | Pollutes "Sort by Updated" view | Only update when adding a `## Updates` entry |
-| Updating for formatting fixes | Not a story development | Only update when adding a `## Updates` entry |
-| Updating without adding `## Updates` entry | Timestamp and Updates must stay in sync | If no `## Updates` entry, don't touch `last_updated` |
+| Mistake                              | Why It's Wrong                       | Correct Approach                     |
+| :------------------------------------| :------------------------------------| :------------------------------------|
+| Updating for every source added      | Pollutes "Sort by Updated" view      | Only update when adding a `##        |
+|                                      |                                      | Updates` entry                       |
+| Updating for formatting fixes        | Not a story development              | Only update when adding a `##        |
+|                                      |                                      | Updates` entry                       |
+| Updating without adding `## Updates` | Timestamp and Updates must stay in   | If no `## Updates` entry, don't      |
+| entry                                | sync                                 | touch `last_updated`                 |
 
 ## Step 2: Create the File
 
@@ -336,16 +360,16 @@ docs/incidents/2026-01/2026-01-early-description-slug.md
 
 #### Neutral Language Table
 
-| Avoid (Emotional/Loaded) | Use Instead (Neutral) |
-|--------------------------|----------------------|
-| raid, ransack | search |
-| storm, invade | enter |
-| kidnapped, snatched | detained, arrested |
-| terrorize, brutalize | use force on |
-| horrific, shocking, disturbing | (omit - describe facts) |
-| innocent victim | person, resident, citizen, affected individual |
-| exclusive, breaking, bombshell | (omit - just describe content) |
-| explosive interview | interview |
+| Avoid (Emotional/Loaded)       | Use Instead (Neutral)                          |
+| :------------------------------| :----------------------------------------------|
+| raid, ransack                  | search                                         |
+| storm, invade                  | enter                                          |
+| kidnapped, snatched            | detained, arrested                             |
+| terrorize, brutalize           | use force on                                   |
+| horrific, shocking, disturbing | (omit - describe facts)                        |
+| innocent victim                | person, resident, citizen, affected individual |
+| exclusive, breaking, bombshell | (omit - just describe content)                 |
+| explosive interview            | interview                                      |
 
 **Source descriptions should be plain and factual:**
 - Say "interview" not "exclusive interview"
@@ -364,12 +388,12 @@ docs/incidents/2026-01/2026-01-early-description-slug.md
 
 **NEVER infer, embellish, or add specific details not explicitly stated in sources.**
 
-| Source Says | DO NOT Write | DO Write |
-|-------------|--------------|----------|
-| "untied me" | "zip-tied" | "restrained" or "tied up" |
-| "dragged from car" | "slammed to ground" | "dragged from car" |
-| "detained" | "arrested and jailed" | "detained" |
-| "agents" | "armed officers" | "agents" |
+| Source Says        | DO NOT Write          | DO Write                  |
+| :------------------| :---------------------| :-------------------------|
+| "untied me"        | "zip-tied"            | "restrained" or "tied up" |
+| "dragged from car" | "slammed to ground"   | "dragged from car"        |
+| "detained"         | "arrested and jailed" | "detained"                |
+| "agents"           | "armed officers"      | "agents"                  |
 
 **Why this matters:**
 - "Untied" implies restraint, but doesn't specify the type — writing "zip-tied" is an assumption
@@ -400,35 +424,36 @@ docs/incidents/2026-01/2026-01-early-description-slug.md
 
 These carry the highest fair use risk. The entry must be a pointer to the source, not a retelling.
 
-| Element | Guideline |
-|---------|-----------|
-| **Summary** | 2-3 sentences of bare facts (who, what, where, when, outcome) |
-| **Narrative sections** | No "What Happened" section — retelling a single journalist's story is substitutive |
-| **Direct quotes** | Maximum 1 short quote, and only if essential to document the civil rights issue |
-| **Affected Individual(s)** | Name, age, nationality, immigration status — essentials only |
-| **Do not include** | Health details, family background stories, emotional scenes, departure narratives, or other details that constitute the journalist's storytelling |
+| Element                    | Guideline                                                                               |
+| :--------------------------| :---------------------------------------------------------------------------------------|
+| **Summary**                | 2-3 sentences of bare facts (who, what, where, when, outcome)                           |
+| **Narrative sections**     | No "What Happened" section — retelling a single journalist's story is substitutive      |
+| **Direct quotes**          | Maximum 1 short quote, and only if essential to document the civil rights issue         |
+| **Affected Individual(s)** | Name, age, nationality, immigration status — essentials only                            |
+| **Do not include**         | Health details, family background stories, emotional scenes, departure narratives, or   |
+|                            | other details that constitute the journalist's storytelling                             |
 
 **The reader should want to click through** to the source for the full story.
 
 #### 2-3 source entries
 
-| Element | Guideline |
-|---------|-----------|
-| **Summary** | 3-4 sentences |
-| **Timeline** | Permitted if based on facts from multiple accounts |
-| **Direct quotes** | Maximum 2 short quotes from different sources |
+| Element                    | Guideline                                                  |
+| :--------------------------| :----------------------------------------------------------|
+| **Summary**                | 3-4 sentences                                              |
+| **Timeline**               | Permitted if based on facts from multiple accounts         |
+| **Direct quotes**          | Maximum 2 short quotes from different sources              |
 | **Affected Individual(s)** | Can include more detail when sourced from multiple outlets |
 
 #### 5+ source entries (synthesis)
 
 Combining many independent sources into a unified account is genuinely transformative and carries low fair use risk.
 
-| Element | Guideline |
-|---------|-----------|
-| **Narrative sections** | Justified when synthesizing many independent reports |
-| **Quotes** | From different sources — creates new context no single article provides |
-| **Pattern analysis** | Cross-referencing incidents adds original value |
-| **Detail level** | Can be higher because no single source is being substituted |
+| Element                | Guideline                                                               |
+| :----------------------| :-----------------------------------------------------------------------|
+| **Narrative sections** | Justified when synthesizing many independent reports                    |
+| **Quotes**             | From different sources — creates new context no single article provides |
+| **Pattern analysis**   | Cross-referencing incidents adds original value                         |
+| **Detail level**       | Can be higher because no single source is being substituted             |
 
 #### Always safe to include (regardless of source count)
 
@@ -524,9 +549,9 @@ The first pass focuses on research and writing. Details get missed, sources get 
 
 ### The Two-Pass Workflow
 
-| Pass | Focus | Action |
-|------|-------|--------|
-| **Pass 1: Research & Write** | Get it down | Search for sources, read them, write the incident file |
+| Pass                         | Focus        | Action                                                  |
+| :----------------------------| :------------| :-------------------------------------------------------|
+| **Pass 1: Research & Write** | Get it down  | Search for sources, read them, write the incident file  |
 | **Pass 2: Verify & Correct** | Get it right | Re-check every source, re-fetch failed URLs, fix errors |
 
 **Do not skip Pass 2.** Even if you're confident in the first pass, the second check has caught real errors in practice.
@@ -602,33 +627,34 @@ The `last_updated` field powers the "Sort by Updated" feature on the website. On
 
 **When you update `last_updated`, use the EXACT current time** — not a rounded or made-up time.
 
-| Example | Correct? |
-|---------|----------|
+| Example               | Correct?                             |
+| :---------------------| :------------------------------------|
 | `2026-01-19T14:23:47` | ✅ Actual time when making the change |
-| `2026-01-19T12:00:00` | ❌ Rounded time (clearly made up) |
-| `2026-01-19T14:30:00` | ❌ Rounded time (clearly made up) |
+| `2026-01-19T12:00:00` | ❌ Rounded time (clearly made up)    |
+| `2026-01-19T14:30:00` | ❌ Rounded time (clearly made up)    |
 
 **Why?** Incorrect timestamps break the sort order and mislead users about when content was actually updated.
 
 **Format:** Full ISO 8601 timestamp with seconds: `YYYY-MM-DDTHH:MM:SS`
 
 #### DO Update `last_updated` For:
-| Change Type | Examples |
-|-------------|----------|
-| **Case developments** | Judge ruling, person released, charges filed, lawsuit filed |
-| **Status changes** | Detained → Released, Under investigation → Resolved |
-| **New facts about the incident** | Affected individual identity confirmed, location corrected, new details emerge |
-| **Merging incidents** | When combining duplicate incident files |
-| **Significant new witness accounts** | Major new testimony that changes understanding |
+| Change Type                          | Examples                                                                      |
+| :------------------------------------| :-----------------------------------------------------------------------------|
+| **Case developments**                | Judge ruling, person released, charges filed, lawsuit filed                   |
+| **Status changes**                   | Detained → Released, Under investigation → Resolved                           |
+| **New facts about the incident**     | Affected individual identity confirmed, location corrected, new details       |
+|                                      | emerge                                                                        |
+| **Merging incidents**                | When combining duplicate incident files                                       |
+| **Significant new witness accounts** | Major new testimony that changes understanding                                |
 
 #### DO NOT Update `last_updated` For:
-| Change Type | Why Not |
-|-------------|---------|
-| Adding more sources | Just expands documentation, doesn't change the story |
-| Formatting/schema changes | Internal maintenance |
-| Trustworthiness rating changes | Editorial judgment, not story change |
-| Typo fixes | Cosmetic |
-| Adding video/photo links | Just more documentation |
+| Change Type                    | Why Not                                              |
+| :------------------------------| :----------------------------------------------------|
+| Adding more sources            | Just expands documentation, doesn't change the story |
+| Formatting/schema changes      | Internal maintenance                                 |
+| Trustworthiness rating changes | Editorial judgment, not story change                 |
+| Typo fixes                     | Cosmetic                                             |
+| Adding video/photo links       | Just more documentation                              |
 
 **Rationale:** Users who sort by "Updated" want to see incidents where something actually happened — a release, a ruling, new facts. They don't want to see incidents bubble up just because someone found another news article.
 

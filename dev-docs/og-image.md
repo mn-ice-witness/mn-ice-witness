@@ -28,13 +28,13 @@ docs/
 
 Images in source folders must use these exact names (extension can be .jpg, .png, or .jpeg):
 
-| Position | Filename | Location in collage |
-|----------|----------|---------------------|
-| `upper_left` | upper_left.jpg | Top-left, rotated -6° |
-| `upper_right` | upper_right.png | Top-right, rotated 5° |
-| `lower_left` | lower_left.jpg | Bottom-left, rotated -4° |
-| `lower_right` | lower_right.jpg | Bottom-right, rotated 4° |
-| `center` | center.jpg | Center, no rotation, largest |
+| Position      | Filename        | Location in collage          |
+| :-------------| :---------------| :----------------------------|
+| `upper_left`  | upper_left.jpg  | Top-left, rotated -6°        |
+| `upper_right` | upper_right.png | Top-right, rotated 5°        |
+| `lower_left`  | lower_left.jpg  | Bottom-left, rotated -4°     |
+| `lower_right` | lower_right.jpg | Bottom-right, rotated 4°     |
+| `center`      | center.jpg      | Center, no rotation, largest |
 
 ## Generating the OG Image
 
@@ -82,13 +82,13 @@ To create a completely new og-image set:
 
 The current production og-image uses these photos:
 
-| Position | Description |
-|----------|-------------|
-| upper_left | Man with broken car window (Christian Molina) |
-| upper_right | Agents pinning person to ground, kneeing him in face |
-| lower_left | Car interior with blood and toys (Renee Good shooting) |
-| lower_right | Man pinned down, pepper sprayed in face |
-| center | Woman being detained by HSI agents |
+| Position    | Description                                            |
+| :-----------| :------------------------------------------------------|
+| upper_left  | Man with broken car window (Christian Molina)          |
+| upper_right | Agents pinning person to ground, kneeing him in face   |
+| lower_left  | Car interior with blood and toys (Renee Good shooting) |
+| lower_right | Man pinned down, pepper sprayed in face                |
+| center      | Woman being detained by HSI agents                     |
 
 ## Technical Details
 

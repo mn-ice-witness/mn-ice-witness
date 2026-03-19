@@ -18,20 +18,21 @@ The status line appears at the top of incident cards:
 
 Use exactly ONE of these values for `affected_individual_citizenship`:
 
-| Value | Display Label | Use For |
-|-------|---------------|---------|
-| `us-citizen` | Citizen | U.S. citizens (born or naturalized) |
-| `legal-resident` | Legal Resident | Green card holders, valid work visas, legal permanent residents |
-| `asylum-seeker` | Immigrant Pending Status | Asylum seekers, TPS holders, DACA recipients, anyone with temporary/pending status |
-| `undocumented` | Immigrant | No current legal immigration status |
-| `unknown` | *(not displayed)* | Status not confirmed by sources |
+| Value            | Display Label            | Use For                                                                |
+| :----------------| :------------------------| :----------------------------------------------------------------------|
+| `us-citizen`     | Citizen                  | U.S. citizens (born or naturalized)                                    |
+| `legal-resident` | Legal Resident           | Green card holders, valid work visas, legal permanent residents        |
+| `asylum-seeker`  | Immigrant Pending Status | Asylum seekers, TPS holders, DACA recipients, anyone with              |
+|                  |                          | temporary/pending status                                               |
+| `undocumented`   | Immigrant                | No current legal immigration status                                    |
+| `unknown`        | *(not displayed)*        | Status not confirmed by sources                                        |
 
 ### Additional Values (Non-Display)
 
-| Value | Use For |
-|-------|---------|
-| `n/a` | Response documents, institutional stories with no affected individual |
-| `various` | Multiple affected individuals with different statuses |
+| Value     | Use For                                                               |
+| :---------| :---------------------------------------------------------------------|
+| `n/a`     | Response documents, institutional stories with no affected individual |
+| `various` | Multiple affected individuals with different statuses                 |
 
 ### Key Distinctions
 
@@ -43,18 +44,18 @@ Use exactly ONE of these values for `affected_individual_citizenship`:
 
 ### Examples
 
-| Person | Status Value | Why |
-|--------|--------------|-----|
-| U.S.-born citizen | `us-citizen` | Born in U.S. |
-| Naturalized citizen | `us-citizen` | Completed naturalization |
-| Green card holder | `legal-resident` | Permanent resident status |
-| H-1B worker | `legal-resident` | Valid work visa |
-| Refugee (green card received) | `legal-resident` | Adjusted to permanent status |
-| Asylum seeker (pending) | `asylum-seeker` | Awaiting asylum decision |
-| TPS holder | `asylum-seeker` | Temporary protected status |
-| DACA recipient | `asylum-seeker` | Temporary, could be revoked |
-| Refugee (still in refugee status) | `asylum-seeker` | Not yet adjusted to permanent |
-| No papers/overstayed visa | `undocumented` | No current legal status |
+| Person                            | Status Value     | Why                           |
+| :---------------------------------| :----------------| :-----------------------------|
+| U.S.-born citizen                 | `us-citizen`     | Born in U.S.                  |
+| Naturalized citizen               | `us-citizen`     | Completed naturalization      |
+| Green card holder                 | `legal-resident` | Permanent resident status     |
+| H-1B worker                       | `legal-resident` | Valid work visa               |
+| Refugee (green card received)     | `legal-resident` | Adjusted to permanent status  |
+| Asylum seeker (pending)           | `asylum-seeker`  | Awaiting asylum decision      |
+| TPS holder                        | `asylum-seeker`  | Temporary protected status    |
+| DACA recipient                    | `asylum-seeker`  | Temporary, could be revoked   |
+| Refugee (still in refugee status) | `asylum-seeker`  | Not yet adjusted to permanent |
+| No papers/overstayed visa         | `undocumented`   | No current legal status       |
 
 ## Location Formatting
 
@@ -104,12 +105,12 @@ city: Willmar
 
 When you encounter incidents with verbose locations, simplify them:
 
-| Before | After |
-|--------|-------|
-| `South Minneapolis (exact address unknown)` | `South Minneapolis` |
-| `South Minneapolis, driving from grocery store` | `South Minneapolis` |
-| `Near Mercado Central, Lake Street` | `Mercado Central` or `Lake Street` |
-| `East Side apartment (exact address unknown)` | `East Side` |
+| Before                                          | After                              |
+| :-----------------------------------------------| :----------------------------------|
+| `South Minneapolis (exact address unknown)`     | `South Minneapolis`                |
+| `South Minneapolis, driving from grocery store` | `South Minneapolis`                |
+| `Near Mercado Central, Lake Street`             | `Mercado Central` or `Lake Street` |
+| `East Side apartment (exact address unknown)`   | `East Side`                        |
 
 ## Code Reference
 

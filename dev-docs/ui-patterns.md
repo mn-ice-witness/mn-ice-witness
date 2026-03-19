@@ -88,24 +88,24 @@ See `docs/about.md` for a complete implementation with anchored section headers 
 
 All icons are defined in `docs/index.html`. Reference with `<use href="#icon-name"/>`.
 
-| Symbol ID | Description | Used For |
-|-----------|-------------|----------|
-| `icon-camera` | Camera outline | Media indicator on list items |
-| `icon-eye` | Eye | Viewed indicator |
-| `icon-link` | Chain link | Copy link / share buttons |
-| `icon-play` | Play triangle | Video play button |
-| `icon-pause` | Pause bars | Video pause button |
-| `icon-restart` | Circular arrow | Video restart button |
-| `icon-speaker` | Speaker with waves | Volume on |
-| `icon-mute-x` | Speaker with X | Volume muted |
-| `icon-fullscreen-enter` | Expanding corners | Enter fullscreen |
-| `icon-fullscreen-exit` | Contracting corners | Exit fullscreen |
-| `icon-search` | Magnifying glass | Search button |
-| `icon-facebook` | Facebook logo | Social media links |
-| `icon-x` | X (Twitter) logo | Social media links |
-| `icon-instagram` | Instagram logo | Social media links |
-| `icon-threads` | Threads logo | Social media links |
-| `icon-bluesky` | Bluesky logo | Social media links |
+| Symbol ID               | Description         | Used For                      |
+| :-----------------------| :-------------------| :-----------------------------|
+| `icon-camera`           | Camera outline      | Media indicator on list items |
+| `icon-eye`              | Eye                 | Viewed indicator              |
+| `icon-link`             | Chain link          | Copy link / share buttons     |
+| `icon-play`             | Play triangle       | Video play button             |
+| `icon-pause`            | Pause bars          | Video pause button            |
+| `icon-restart`          | Circular arrow      | Video restart button          |
+| `icon-speaker`          | Speaker with waves  | Volume on                     |
+| `icon-mute-x`           | Speaker with X      | Volume muted                  |
+| `icon-fullscreen-enter` | Expanding corners   | Enter fullscreen              |
+| `icon-fullscreen-exit`  | Contracting corners | Exit fullscreen               |
+| `icon-search`           | Magnifying glass    | Search button                 |
+| `icon-facebook`         | Facebook logo       | Social media links            |
+| `icon-x`                | X (Twitter) logo    | Social media links            |
+| `icon-instagram`        | Instagram logo      | Social media links            |
+| `icon-threads`          | Threads logo        | Social media links            |
+| `icon-bluesky`          | Bluesky logo        | Social media links            |
 
 When adding new icons, add them to `docs/index.html` and document here.
 
@@ -131,18 +131,18 @@ When adding new icons, add them to `docs/index.html` and document here.
 
 ### CSS Classes for Markdown Content
 
-| Class | Used In | Purpose |
-|-------|---------|---------|
-| `.about-intro` | about.md | Intro paragraph styling |
-| `.about-last-updated` | about.md | Bold timestamp |
-| `.about-follow-label` | about.md | "Follow Us:" label |
-| `.about-social` | about.md | Social media links container |
-| `.about-callout-box` | about.md | Icon legend box |
-| `.about-note` | about.md | Italic note paragraphs |
-| `.about-external-callout` | about.md | External link callout |
-| `.incident-note` | incident files | Styled inline notes |
-| `.media-icon` | various | Camera icon color |
-| `.viewed-icon` | various | Eye icon color |
+| Class                     | Used In        | Purpose                      |
+| :-------------------------| :--------------| :----------------------------|
+| `.about-intro`            | about.md       | Intro paragraph styling      |
+| `.about-last-updated`     | about.md       | Bold timestamp               |
+| `.about-follow-label`     | about.md       | "Follow Us:" label           |
+| `.about-social`           | about.md       | Social media links container |
+| `.about-callout-box`      | about.md       | Icon legend box              |
+| `.about-note`             | about.md       | Italic note paragraphs       |
+| `.about-external-callout` | about.md       | External link callout        |
+| `.incident-note`          | incident files | Styled inline notes          |
+| `.media-icon`             | various        | Camera icon color            |
+| `.viewed-icon`            | various        | Eye icon color               |
 
 ## iOS CSS Gotchas
 

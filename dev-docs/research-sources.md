@@ -6,113 +6,113 @@ Where to find and verify incidents for documentation.
 
 ### Metro Minnesota (Twin Cities)
 
-| Source | URL | Notes |
-|--------|-----|-------|
-| Star Tribune | startribune.com | Paywall, comprehensive |
-| MPR News | mprnews.org | Public radio, free |
-| KARE 11 | kare11.com | NBC affiliate |
-| KSTP | kstp.com | ABC affiliate |
-| Fox 9 | fox9.com | Fox affiliate |
-| CBS Minnesota | cbsnews.com/minnesota | CBS affiliate |
-| Pioneer Press | twincities.com | East metro focus |
-| Bring Me The News | bringmethenews.com | Aggregator, quick updates |
-| Sahan Journal | sahanjournal.com | Immigration focus, excellent |
-| Racket | racketmn.com | Alt weekly, detailed |
+| Source            | URL                   | Notes                        |
+| :-----------------| :---------------------| :----------------------------|
+| Star Tribune      | startribune.com       | Paywall, comprehensive       |
+| MPR News          | mprnews.org           | Public radio, free           |
+| KARE 11           | kare11.com            | NBC affiliate                |
+| KSTP              | kstp.com              | ABC affiliate                |
+| Fox 9             | fox9.com              | Fox affiliate                |
+| CBS Minnesota     | cbsnews.com/minnesota | CBS affiliate                |
+| Pioneer Press     | twincities.com        | East metro focus             |
+| Bring Me The News | bringmethenews.com    | Aggregator, quick updates    |
+| Sahan Journal     | sahanjournal.com      | Immigration focus, excellent |
+| Racket            | racketmn.com          | Alt weekly, detailed         |
 
 ### Outstate Minnesota
 
 **Top 20 Minnesota Cities by Population (2024-2025):**
 
-| Rank | City | Population | Region | Coverage Status |
-|------|------|------------|--------|-----------------|
-| 1 | Minneapolis | 428,579 | Metro | ✓ Covered |
-| 2 | St. Paul | 307,465 | Metro | ✓ Covered |
-| 3 | Rochester | 123,624 | SE MN | ✓ Covered |
-| 4 | Bloomington | 88,344 | Metro | ✓ Covered |
-| 5 | Duluth | 87,986 | NE MN | ⚠️ Gap - 5th largest city |
-| 6 | Brooklyn Park | 82,893 | Metro | ✓ Covered |
-| 7 | Woodbury | 80,596 | Metro | ✓ Covered |
-| 8 | Plymouth | 78,551 | Metro | Metro suburb |
-| 9 | Lakeville | 77,971 | Metro | Metro suburb |
-| 10 | Blaine | 75,172 | Metro | Metro suburb |
-| 11 | Maple Grove | 72,739 | Metro | ✓ Covered |
-| 12 | St. Cloud | 72,145 | Central MN | ✓ Covered |
-| 13 | Eagan | 67,240 | Metro | Metro suburb |
-| 14 | Burnsville | 64,864 | Metro | ✓ Covered |
-| 15 | Coon Rapids | 63,807 | Metro | Metro suburb |
-| 16 | Eden Prairie | 62,905 | Metro | ✓ Covered |
-| 17 | Apple Valley | 55,272 | Metro | Metro suburb |
-| 18 | Edina | 53,564 | Metro | Metro suburb |
-| 19 | Minnetonka | 52,651 | Metro | Metro suburb |
-| 20 | St. Louis Park | 49,899 | Metro | ✓ Covered |
+| Rank | City           | Population | Region     | Coverage Status           |
+| :----| :--------------| :----------| :----------| :-------------------------|
+| 1    | Minneapolis    | 428,579    | Metro      | ✓ Covered                 |
+| 2    | St. Paul       | 307,465    | Metro      | ✓ Covered                 |
+| 3    | Rochester      | 123,624    | SE MN      | ✓ Covered                 |
+| 4    | Bloomington    | 88,344     | Metro      | ✓ Covered                 |
+| 5    | Duluth         | 87,986     | NE MN      | ⚠️ Gap - 5th largest city |
+| 6    | Brooklyn Park  | 82,893     | Metro      | ✓ Covered                 |
+| 7    | Woodbury       | 80,596     | Metro      | ✓ Covered                 |
+| 8    | Plymouth       | 78,551     | Metro      | Metro suburb              |
+| 9    | Lakeville      | 77,971     | Metro      | Metro suburb              |
+| 10   | Blaine         | 75,172     | Metro      | Metro suburb              |
+| 11   | Maple Grove    | 72,739     | Metro      | ✓ Covered                 |
+| 12   | St. Cloud      | 72,145     | Central MN | ✓ Covered                 |
+| 13   | Eagan          | 67,240     | Metro      | Metro suburb              |
+| 14   | Burnsville     | 64,864     | Metro      | ✓ Covered                 |
+| 15   | Coon Rapids    | 63,807     | Metro      | Metro suburb              |
+| 16   | Eden Prairie   | 62,905     | Metro      | ✓ Covered                 |
+| 17   | Apple Valley   | 55,272     | Metro      | Metro suburb              |
+| 18   | Edina          | 53,564     | Metro      | Metro suburb              |
+| 19   | Minnetonka     | 52,651     | Metro      | Metro suburb              |
+| 20   | St. Louis Park | 49,899     | Metro      | ✓ Covered                 |
 
 **Outstate cities with documented incidents:**
 - Brainerd, Detroit Lakes, Duluth (gap), Mankato, Northfield, Owatonna, Pelican Rapids, Perham, Rochester, St. Cloud, St. Peter, Willmar, Worthington
 
-| Source | URL | Coverage Area | Notes |
-|--------|-----|---------------|-------|
-| **Brainerd** | | | |
-| Brainerd Dispatch | brainerddispatch.com | Brainerd, Baxter, Lakes | Primary daily, 18K+ circulation |
-| KAXE Radio | kaxe.org | Northern MN | Public radio |
-| **Moorhead/Fargo** | | | |
-| InForum | inforum.com | Fargo-Moorhead, Red River Valley | The Forum newspaper, primary daily |
-| KVRR TV | kvrr.com | Fargo, Moorhead | Fox affiliate |
-| **St. Cloud** | | | |
-| St. Cloud Times | sctimes.com | St. Cloud metro | Gannett paper, reduced staff |
-| WJON Radio | wjon.com | Central MN | News/talk/sports |
-| KNSI Radio | knsiradio.com | St. Cloud area | Local news |
-| **Duluth** | | | |
-| Duluth News Tribune | duluthnewstribune.com | Duluth, Iron Range, NW Wisconsin | Primary daily, 40K+ circulation |
-| WDIO TV | wdio.com | Duluth, Iron Range, UP Michigan | ABC affiliate |
-| Northern News Now | northernnewsnow.com | Duluth area | KBJR, CBS/NBC affiliate |
-| **Mankato** | | | |
-| Mankato Free Press | mankatofreepress.com | Southern MN | Primary daily, 12K circulation |
-| KEYC TV | keyc.com | Mankato, southern MN, northern IA | CBS affiliate, has ICE coverage |
-| **Rochester** | | | |
-| Post Bulletin | postbulletin.com | Rochester, SE Minnesota | Primary daily |
-| KTTC TV | kttc.com | Rochester, SE Minnesota | NBC affiliate |
-| KIMT TV | kimt.com | Mason City, Rochester | CBS affiliate |
+| Source              | URL                   | Coverage Area                     | Notes                              |
+| :-------------------| :---------------------| :---------------------------------| :----------------------------------|
+| **Brainerd**        |                       |                                   |                                    |
+| Brainerd Dispatch   | brainerddispatch.com  | Brainerd, Baxter, Lakes           | Primary daily, 18K+ circulation    |
+| KAXE Radio          | kaxe.org              | Northern MN                       | Public radio                       |
+| **Moorhead/Fargo**  |                       |                                   |                                    |
+| InForum             | inforum.com           | Fargo-Moorhead, Red River Valley  | The Forum newspaper, primary daily |
+| KVRR TV             | kvrr.com              | Fargo, Moorhead                   | Fox affiliate                      |
+| **St. Cloud**       |                       |                                   |                                    |
+| St. Cloud Times     | sctimes.com           | St. Cloud metro                   | Gannett paper, reduced staff       |
+| WJON Radio          | wjon.com              | Central MN                        | News/talk/sports                   |
+| KNSI Radio          | knsiradio.com         | St. Cloud area                    | Local news                         |
+| **Duluth**          |                       |                                   |                                    |
+| Duluth News Tribune | duluthnewstribune.com | Duluth, Iron Range, NW Wisconsin  | Primary daily, 40K+ circulation    |
+| WDIO TV             | wdio.com              | Duluth, Iron Range, UP Michigan   | ABC affiliate                      |
+| Northern News Now   | northernnewsnow.com   | Duluth area                       | KBJR, CBS/NBC affiliate            |
+| **Mankato**         |                       |                                   |                                    |
+| Mankato Free Press  | mankatofreepress.com  | Southern MN                       | Primary daily, 12K circulation     |
+| KEYC TV             | keyc.com              | Mankato, southern MN, northern IA | CBS affiliate, has ICE coverage    |
+| **Rochester**       |                       |                                   |                                    |
+| Post Bulletin       | postbulletin.com      | Rochester, SE Minnesota           | Primary daily                      |
+| KTTC TV             | kttc.com              | Rochester, SE Minnesota           | NBC affiliate                      |
+| KIMT TV             | kimt.com              | Mason City, Rochester             | CBS affiliate                      |
 
 ### National
 
-| Source | URL | Notes |
-|--------|-----|-------|
-| CNN | cnn.com | Has live updates pages |
-| NPR | npr.org | Audio + text |
-| NBC News | nbcnews.com | Good for video |
-| ABC News | abcnews.go.com | Live updates |
-| AP News | apnews.com | Wire service, picked up everywhere |
-| The Intercept | theintercept.com | Investigative, civil liberties focus |
-| ProPublica | propublica.org | Deep investigations |
-| Mother Jones | motherjones.com | Investigative, deployed reporters to Minneapolis; 40+ videos in Jan 2026 |
+| Source        | URL              | Notes                                                                    |
+| :-------------| :----------------| :------------------------------------------------------------------------|
+| CNN           | cnn.com          | Has live updates pages                                                   |
+| NPR           | npr.org          | Audio + text                                                             |
+| NBC News      | nbcnews.com      | Good for video                                                           |
+| ABC News      | abcnews.go.com   | Live updates                                                             |
+| AP News       | apnews.com       | Wire service, picked up everywhere                                       |
+| The Intercept | theintercept.com | Investigative, civil liberties focus                                     |
+| ProPublica    | propublica.org   | Deep investigations                                                      |
+| Mother Jones  | motherjones.com  | Investigative, deployed reporters to Minneapolis; 40+ videos in Jan 2026 |
 
 ### Specialty
 
-| Source | URL | Focus |
-|--------|-----|-------|
-| ICT (Indian Country Today) | ictnews.org | Native American issues |
-| Cato Institute | cato.org | Libertarian, civil liberties |
-| ACLU | aclu.org | Civil rights statements |
+| Source                     | URL         | Focus                        |
+| :--------------------------| :-----------| :----------------------------|
+| ICT (Indian Country Today) | ictnews.org | Native American issues       |
+| Cato Institute             | cato.org    | Libertarian, civil liberties |
+| ACLU                       | aclu.org    | Civil rights statements      |
 
 ## Official Sources
 
 ### Federal (for their statements/responses)
 
-| Source | URL | Notes |
-|--------|-----|-------|
-| DHS News | dhs.gov/news | Press releases |
-| DHS on X | x.com/DHSgov | Real-time responses |
+| Source   | URL                   | Notes                |
+| :--------| :---------------------| :--------------------|
+| DHS News | dhs.gov/news          | Press releases       |
+| DHS on X | x.com/DHSgov          | Real-time responses  |
 | ICE News | ice.gov/news/releases | Arrest announcements |
-| CBP | cbp.gov | Border Patrol news |
+| CBP      | cbp.gov               | Border Patrol news   |
 
 ### State/Local
 
-| Source | URL | Notes |
-|--------|-----|-------|
-| MN Attorney General | ag.state.mn.us | Lawsuit filings |
+| Source              | URL               | Notes               |
+| :-------------------| :-----------------| :-------------------|
+| MN Attorney General | ag.state.mn.us    | Lawsuit filings     |
 | City of Minneapolis | minneapolismn.gov | Official statements |
-| City of St. Paul | stpaul.gov | Official statements |
-| Governor's Office | mn.gov/governor | Walz statements |
+| City of St. Paul    | stpaul.gov        | Official statements |
+| Governor's Office   | mn.gov/governor   | Walz statements     |
 
 ## Social Media (Needs Corroboration)
 

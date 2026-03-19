@@ -125,24 +125,24 @@ Run local server and visit `/logo-preview.html` to compare.
 
 ## Required Files for Deployment
 
-| File | Size | Purpose |
-|------|------|---------|
-| favicon.ico | 16+32+48 | Legacy browsers |
-| favicon-16x16.png | 16x16 | Browser tab |
-| favicon-32x32.png | 32x32 | Bookmarks, shortcuts |
-| favicon-48x48.png | 48x48 | Windows taskbar |
-| apple-touch-icon.png | 180x180 | iOS home screen |
-| icon-192.png | 192x192 | Android/PWA |
-| icon-512.png | 512x512 | PWA splash/install |
-| sm-logo.png | 512x512 | Social media profiles |
+| File                 | Size     | Purpose               |
+| :--------------------| :--------| :---------------------|
+| favicon.ico          | 16+32+48 | Legacy browsers       |
+| favicon-16x16.png    | 16x16    | Browser tab           |
+| favicon-32x32.png    | 32x32    | Bookmarks, shortcuts  |
+| favicon-48x48.png    | 48x48    | Windows taskbar       |
+| apple-touch-icon.png | 180x180  | iOS home screen       |
+| icon-192.png         | 192x192  | Android/PWA           |
+| icon-512.png         | 512x512  | PWA splash/install    |
+| sm-logo.png          | 512x512  | Social media profiles |
 
 ## Current Logos
 
-| Name | Description | Status |
-|------|-------------|--------|
-| camera_eye_logo | Camera with eye lens | Archived |
-| star_camera_logo | Camera with MN star | Archived |
-| phone_eye_logo | Phone with eye/star | **Active** |
+| Name             | Description          | Status     |
+| :----------------| :--------------------| :----------|
+| camera_eye_logo  | Camera with eye lens | Archived   |
+| star_camera_logo | Camera with MN star  | Archived   |
+| phone_eye_logo   | Phone with eye/star  | **Active** |
 
 ## Tips for Small Favicons
 

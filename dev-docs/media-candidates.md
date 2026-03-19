@@ -63,16 +63,21 @@ This file tracks incidents involving brutality or force that need compelling vid
 
 These incidents already have compelling video/photo evidence documented:
 
-| Incident | Date | Media Type | Notes |
-|----------|------|------------|-------|
-| Juan Carlos Brutality | Jan 9 | Multiple bystander videos | Agent kneeing face 5+ times - EXCELLENT |
-| Disabled Woman Car Window | Jan 13 | Reuters photo, multiple videos | Dragged through window - EXCELLENT |
-| Observer Shoved Into Traffic | Jan 11 | Facebook Reel, CNN | Shoved into bus path - GOOD |
-| Elliott Payne Pushed | Jan 13 | BlueSky video | Council president pushed - GOOD |
-| Clergy Pepper Sprayed | Jan 7 | Livestream | Pepper round fired near head - GOOD |
-| Garrison Gibson Battering Ram | Jan 12 | Facebook livestream | Battering ram entry, no judicial warrant |
-| Lyn-Lake Tear Gas | Jan 13 | Surveillance footage | Pizza shop, tear gas kicked back |
-| Shawn Jackson Children | Jan 14 | Instagram interview | 6 children hospitalized, baby CPR - POWERFUL |
+| Incident                      | Date   | Media Type                     | Notes                             |
+| :-----------------------------| :------| :------------------------------| :---------------------------------|
+| Juan Carlos Brutality         | Jan 9  | Multiple bystander videos      | Agent kneeing face 5+ times -     |
+|                               |        |                                | EXCELLENT                         |
+| Disabled Woman Car Window     | Jan 13 | Reuters photo, multiple videos | Dragged through window -          |
+|                               |        |                                | EXCELLENT                         |
+| Observer Shoved Into Traffic  | Jan 11 | Facebook Reel, CNN             | Shoved into bus path - GOOD       |
+| Elliott Payne Pushed          | Jan 13 | BlueSky video                  | Council president pushed - GOOD   |
+| Clergy Pepper Sprayed         | Jan 7  | Livestream                     | Pepper round fired near head -    |
+|                               |        |                                | GOOD                              |
+| Garrison Gibson Battering Ram | Jan 12 | Facebook livestream            | Battering ram entry, no judicial  |
+|                               |        |                                | warrant                           |
+| Lyn-Lake Tear Gas             | Jan 13 | Surveillance footage           | Pizza shop, tear gas kicked back  |
+| Shawn Jackson Children        | Jan 14 | Instagram interview            | 6 children hospitalized, baby CPR |
+|                               |        |                                | - POWERFUL                        |
 
 ---
 

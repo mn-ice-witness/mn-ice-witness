@@ -6,10 +6,10 @@ How URLs and navigation work in this single-page application.
 
 The site supports two URL systems:
 
-| System | Example | Used For |
-|--------|---------|----------|
-| **Path-based** | `/entry/2026-01-20-incident` | Social sharing, SEO, bookmarks |
-| **Hash-based** | `#2026-01-20-incident` | Legacy support, section scrolling |
+| System         | Example                      | Used For                          |
+| :--------------| :----------------------------| :---------------------------------|
+| **Path-based** | `/entry/2026-01-20-incident` | Social sharing, SEO, bookmarks    |
+| **Hash-based** | `#2026-01-20-incident`       | Legacy support, section scrolling |
 
 Path-based URLs are preferred for sharing. Hash URLs still work for backwards compatibility.
 
@@ -19,15 +19,15 @@ Path-based URLs are preferred for sharing. Hash URLs still work for backwards co
 
 ### URL Structure
 
-| Content | URL Pattern | Example |
-|---------|-------------|---------|
-| Media gallery | `/media` | `mn-ice-witness.org/media` |
-| List view | `/list` | `mn-ice-witness.org/list` |
-| List category | `/list/<category>` | `mn-ice-witness.org/list/citizens` |
-| Incident | `/entry/<slug>` | `mn-ice-witness.org/entry/2026-01-20-trump-mistakes-happen` |
-| About page | `/about` | `mn-ice-witness.org/about` |
-| About section | `/about/<section>` | `mn-ice-witness.org/about/sources-used` |
-| New & Updated | `/new-updated/<date>` | `mn-ice-witness.org/new-updated/01-20-2026` |
+| Content       | URL Pattern           | Example                                                     |
+| :-------------| :---------------------| :-----------------------------------------------------------|
+| Media gallery | `/media`              | `mn-ice-witness.org/media`                                  |
+| List view     | `/list`               | `mn-ice-witness.org/list`                                   |
+| List category | `/list/<category>`    | `mn-ice-witness.org/list/citizens`                          |
+| Incident      | `/entry/<slug>`       | `mn-ice-witness.org/entry/2026-01-20-trump-mistakes-happen` |
+| About page    | `/about`              | `mn-ice-witness.org/about`                                  |
+| About section | `/about/<section>`    | `mn-ice-witness.org/about/sources-used`                     |
+| New & Updated | `/new-updated/<date>` | `mn-ice-witness.org/new-updated/01-20-2026`                 |
 
 The bare URL `/` redirects to user's preferred view (`/list` or `/media`) from localStorage.
 
@@ -77,14 +77,14 @@ These open in the same lightbox with scroll position preserved and back-button s
 
 ### Hash Types
 
-| Hash | Behavior |
-|------|----------|
-| (empty) / `#media` | Media gallery view |
-| `#list` | List view |
+| Hash                            | Behavior                      |
+| :-------------------------------| :-----------------------------|
+| (empty) / `#media`              | Media gallery view            |
+| `#list`                         | List view                     |
 | `#citizens`, `#observers`, etc. | List view + scroll to section |
-| `#slug` | Open incident in lightbox |
-| `#about` | Open about page |
-| `#new-updated-MM-DD-YYYY` | Open daily summary |
+| `#slug`                         | Open incident in lightbox     |
+| `#about`                        | Open about page               |
+| `#new-updated-MM-DD-YYYY`       | Open daily summary            |
 
 Section hashes are defined in `App.sectionHashes` array.
 
