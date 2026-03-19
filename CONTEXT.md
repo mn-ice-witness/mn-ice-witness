@@ -396,6 +396,7 @@ GIT_MN_ICE_FILES/
 | `status-categories.md` | Citizenship status values and location formatting |
 | `operation-parris.md` | Refugee detention context |
 | `notable-incidents.md` | Notable flag feature |
+| `incident-tarball.md` | Downloadable tarball of all incidents |
 
 ### Operations & Deployment
 | Doc | Contents |

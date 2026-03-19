@@ -32,6 +32,11 @@ git add "$ROOT/docs/data/incidents-summary-schools-hospitals.json"
 git add "$ROOT/docs/data/incidents-summary-response.json"
 git add "$ROOT/docs/data/search-index.md"
 
+# Regenerate tarball of all incident files
+echo "Generating incidents tarball..."
+bash "$ROOT/scripts/generate-tarball.sh"
+git add "$ROOT/docs/mn-ice-witness-all-incidents.tar.gz"
+
 # Cache bust: update ?v= parameters in index.html with current timestamp
 TIMESTAMP=$(date +%s)
 INDEX="$ROOT/docs/index.html"

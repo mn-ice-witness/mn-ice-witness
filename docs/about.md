@@ -4,7 +4,7 @@
 
 <p class="about-intro">If you find this site useful, please help share. To report an incident (must be sourced by a reputable media outlet), submit a correction, or share additional media for a listed incident, contact us at <a href="mailto:mnicewitness@gmail.com">mnicewitness@gmail.com</a> — please include compelling social media links as it's often hard to track those down.</p>
 
-<p class="about-intro"><span class="about-last-updated">Last updated: March 16, 2026</span></p>
+<p class="about-intro"><span class="about-last-updated">Last updated: March 19, 2026</span></p>
 
 <p class="about-social"><span class="about-follow-label">Follow Us:</span>
 <a href="https://www.facebook.com/profile.php?id=61586835122502" target="_blank" title="Follow on Facebook"><svg width="22" height="22"><use href="#icon-facebook"/></svg></a>
@@ -23,6 +23,7 @@
 <li><a href="/no-news-media">No News Media</a> — Incidents we're tracking that lack news coverage. Help us find sources.</li>
 <li><a href="/removed">Removed Incidents</a> — Entries that were listed but later removed based on new information.</li>
 <li><a href="/corrections">Corrections</a> — Entries with significant factual errors that have been corrected.</li>
+<li><a href="/mn-ice-witness-all-incidents.tar.gz" download>Download all incident files</a> — All incident files in markdown format.</li>
 </ul>
 
 <h2 id="background">Background <a href="#background" class="header-link" title="Copy link"><svg width="16" height="16"><use href="#icon-link"/></svg></a></h2>
