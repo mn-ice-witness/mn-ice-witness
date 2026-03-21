@@ -7,7 +7,6 @@ type: immigrants, citizens
 status: resolved
 affected_individual_citizenship: various
 injuries: none
-trustworthiness: medium
 created: 2026-03-19T09:44:38
 last_updated: 2026-03-19T09:44:38
 search_tags: warrantless-entry, family-separation, legal-resident, src:kare11

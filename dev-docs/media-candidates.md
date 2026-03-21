@@ -43,7 +43,7 @@ This file tracks incidents involving brutality or force that need compelling vid
 - **File:** `2026-01-unknown-rosemount-gun-threat.md`
 - **Location:** Rosemount, MN
 - **Story:** ICE agent waved gun sideways at motorist in threatening manner
-- **Media Status:** NO video, LOW trustworthiness
+- **Media Status:** NO video, weak sourcing
 - **Potential:** Low priority - needs more sourcing before video research
 
 ---

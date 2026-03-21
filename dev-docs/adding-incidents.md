@@ -33,7 +33,7 @@ grep -r "bus stop" docs/incidents/
 2. Add new sources to the Sources section
 3. Add new details to relevant sections (Timeline, Affected Individual info, etc.)
 4. Update `last_updated` in frontmatter
-5. Update trustworthiness rating if evidence improves
+5. Add new search_tags if appropriate
 
 This keeps all information about an incident in one place and prevents fragmentation.
 
@@ -63,7 +63,7 @@ This keeps all information about an incident in one place and prevents fragmenta
 Before adding, ensure:
 
 1. **At least one credible source** (news outlet, official statement)
-2. **Assign trustworthiness based on criteria below**
+2. **Verify with at least one credible source**
 3. **Avoid**: Single social media posts without corroboration
 
 ## Step 1.5: Search for Additional Sources (ALWAYS DO THIS)
@@ -72,7 +72,7 @@ Before adding, ensure:
 
 **Why this matters:**
 - Major stories are typically covered by multiple outlets
-- Additional sources improve trustworthiness rating
+- Additional sources strengthen credibility
 - Different outlets may have different details (names, times, quotes)
 - Video evidence may exist that the user didn't find
 
@@ -301,14 +301,6 @@ These are common mistakes when adding incidents. Read this section carefully.
 | `[link](2026-01-15-incident.md)`       | Links to raw .md file | `[link](#2026-01-15-incident)` |
 | `[link](https://mnicefiles.com/#slug)` | Hardcodes domain      | `[link](#slug)`                |
 
-### Trustworthiness
-| Mistake                           | Why It's Wrong                         | Correct Approach                       |
-| :---------------------------------| :--------------------------------------| :--------------------------------------|
-| `trustworthiness: medium-high`    | Compound values not allowed            | Pick exactly one: high, medium, low,   |
-|                                   |                                        | no-news-media                          |
-| Rating HIGH without corroboration | Single-source stories need             | See witness corroboration rule         |
-|                                   | verification                           |                                        |
-
 ### last_updated
 | Mistake                              | Why It's Wrong                       | Correct Approach                     |
 | :------------------------------------| :------------------------------------| :------------------------------------|
@@ -493,7 +485,6 @@ type: citizens
 status: resolved
 affected_individual_citizenship: us-citizen
 injuries: none
-trustworthiness: medium
 created: 2026-01-15T14:23:47   # ← Use ACTUAL current time, not rounded!
 last_updated: 2026-01-15T14:23:47   # ← Same as created for new incidents
 ---
@@ -541,11 +532,10 @@ The first pass focuses on research and writing. Details get missed, sources get 
 
 **Verify the frontmatter.** Confirm:
 - `type` is correct (citizens vs immigrants vs observers — review the criteria)
-- `trustworthiness` rating matches the actual evidence you have
 - `status` and `affected_individual_citizenship` are accurate
 - `date` matches what sources say
 
-**Re-read the finished file as a whole.** Does the summary match the details? Does the trustworthiness rating match the sources listed? Are there any stale notes or contradictions?
+**Re-read the finished file as a whole.** Does the summary match the details? Are there any stale notes or contradictions?
 
 ### The Two-Pass Workflow
 
@@ -605,9 +595,8 @@ When new information emerges:
 5. **Only update `last_updated` for substantive story changes** (see below)
 6. Paste the timestamp from step 2 into `last_updated` (do NOT type it manually)
 7. Add new sources to Sources section
-8. Update trustworthiness rating if evidence changes
-9. **Verification pass (same rules as Step 4)** — Re-read every source you cited, re-fetch any that failed, cross-check facts. If you can't access a source, **STOP and ask the user for the text.** Do not proceed with unverified content.
-10. **Re-read the entire file** — Verify everything is consistent: notes don't contradict sources, trustworthiness rating matches the evidence, no outdated statements remain. Remove any notes that are now incorrect (e.g., "link not available" when you just added the link).
+8. **Verification pass (same rules as Step 4)** — Re-read every source you cited, re-fetch any that failed, cross-check facts. If you can't access a source, **STOP and ask the user for the text.** Do not proceed with unverified content.
+9. **Re-read the entire file** — Verify everything is consistent: notes don't contradict sources, no outdated statements remain. Remove any notes that are now incorrect (e.g., "link not available" when you just added the link).
 11. Commit with message like "Update: New video evidence for Speedway incident"
 
 **⚠️ CRITICAL:** Never type a timestamp like `2026-01-22T12:00:00` from memory. Manually-entered timestamps are often wrong. The script is the ONLY valid source for timestamps.
@@ -695,9 +684,9 @@ When making a MAJOR update to an incident, add an `## Updates` section right aft
 - ✅ "Gibson alleges ICE took 'trophy photos' of him."
 - ❌ "Added press conference details"
 - ✅ "Nasra Ahmed describes being chained 'like Hannibal Lecter'."
-- ❌ "Added affected individual's first-person account; upgraded to HIGH trustworthiness"
+- ❌ "Added affected individual's first-person account"
 
-Never mention internal details like trustworthiness changes, source additions, or schema updates. Users don't care about our process — they want to know what happened.
+Never mention internal details like source additions or schema updates. Users don't care about our process — they want to know what happened.
 
 **Most incidents will NOT have an Updates section.** Only add it when there are major story developments worth tracking.
 

@@ -1,6 +1,6 @@
 # No-News-Media Incidents Procedure
 
-When an incident has `trustworthiness: no-news-media`, follow these guidelines:
+**Note: The trustworthiness field has been removed from the schema.** No-news-media incidents no longer use a frontmatter field. The guidelines below are retained for historical reference and for identifying incidents that lack news coverage.
 
 ## Display Behavior
 
@@ -31,10 +31,9 @@ Immediately after the title, include a brief message asking for news coverage:
 
 ## Upgrading to News-Covered
 
-When an incident is upgraded from `trustworthiness: no-news-media` to `low`, `medium`, or `high`:
+When an incident gains news coverage:
 
-1. **Update the trustworthiness field** in frontmatter
-2. **Remove the (NO NEWS MEDIA) suffix** from the title
+1. **Remove the (NO NEWS MEDIA) suffix** from the title
 3. **Remove the italic plea for information** at the top
 4. **If the incident has local media**, manually add its slug to `docs/data/media-order.md`
 

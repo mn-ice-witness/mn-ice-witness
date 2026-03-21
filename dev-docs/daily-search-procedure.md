@@ -389,10 +389,10 @@ site:threads.net ICE Minnesota [month year]
 - Local reporter accounts on X
 
 #### Important Notes on Social Media
-- Social media posts alone are NOT sufficient for HIGH trustworthiness
+- Social media posts alone are not sufficient — always look for corroborating news coverage
 - Look for videos that were later picked up by news outlets
 - When you find a viral video, search for the affected individual's name or location to find news coverage
-- If a social media post has video but no news pickup, add to "Needs More Research" and rate MEDIUM at best
+- If a social media post has video but no news pickup, add to "Needs More Research"
 
 ### Step 6: Search the General Web
 
@@ -403,7 +403,7 @@ In addition to specific news sites, always search the general web for incidents:
 incident location ICE arrest [date]
 ```
 
-This catches coverage from smaller outlets, syndicated stories, and social media that may not appear in site-specific searches. If a story only appears in ONE source after general web searches, flag it as needing corroboration and rate trustworthiness as MEDIUM at best.
+This catches coverage from smaller outlets, syndicated stories, and social media that may not appear in site-specific searches. If a story only appears in ONE source after general web searches, flag it as needing corroboration.
 
 ## Evaluating Search Results
 
@@ -431,7 +431,7 @@ grep -i "story keywords" dev-docs/not_use.md
 - Photo evidence of injuries
 - Footage of citizens being stopped/harassed
 
-These provide incontrovertible evidence and should be documented with HIGH trustworthiness if from multiple sources.
+These provide incontrovertible evidence and should be documented if from multiple sources.
 
 ### What Qualifies as a New Incident
 

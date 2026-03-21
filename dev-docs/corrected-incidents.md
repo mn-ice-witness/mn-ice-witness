@@ -20,12 +20,6 @@ Correct an incident when:
 
 ### 1. Update the Frontmatter
 
-Change `trustworthiness` to `corrected`:
-
-```yaml
-trustworthiness: corrected
-```
-
 Update `last_updated` with a fresh timestamp:
 
 ```bash

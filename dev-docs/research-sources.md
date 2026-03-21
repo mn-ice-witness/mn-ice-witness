@@ -188,7 +188,7 @@ Most local stations have video on their websites.
 2. Search news for same incident
 3. Look for news outlets that cite the post
 4. Check if official response exists
-5. Assign trustworthiness based on corroboration
+5. Assess credibility based on corroboration
 
 ## Red Flags (Don't Document Without Corroboration)
 

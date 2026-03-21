@@ -1,12 +1,12 @@
 {
   "incidents": [
     {
-      "filePath": "incidents/2026-03/10/2026-03-10-tostrud-racial-profiling-ruling.md",
+      "filePath": "incidents/2026-03/09/2026-03-09-tostrud-racial-profiling-ruling.md",
       "title": "Trump-Appointed Judge Finds ICE Engaged in Unconstitutional Racial Profiling on at Least 23 Occasions",
-      "summary": "In a 111-page ruling on the ACLU's Hussen v. Noem lawsuit, Trump-appointed U.S. District Judge Eric Tostrud found that ICE and CBP agents \"likely engaged in unconstitutional policies\" during Operation Metro Surge. Of 34 stops reviewed, only 5 had reasonable justification \u2014 at least 23 people were detained based solely on their race or ethnicity. Despite these findings, Tostrud declined to issue a preliminary injunction, citing the drawdown of agents. The case proceeds to trial.",
+      "summary": "In a 110-page ruling on the ACLU's Hussen v. Noem lawsuit, Trump-appointed U.S. District Judge Eric Tostrud found that ICE and CBP agents \"likely engaged in unconstitutional policies\" during Operation Metro Surge. Of 34 stops reviewed, only 5 had reasonable justification \u2014 at least 23 people were detained based solely on their race or ethnicity. Despite these findings, Tostrud declined to issue a preliminary injunction, citing the drawdown of agents. The case proceeds to trial.",
       "latestUpdate": null,
       "correctionNote": null,
-      "date": "2026-03-10",
+      "date": "2026-03-09",
       "time": "unknown",
       "location": "U.S. District Court, Minneapolis",
       "city": "Minneapolis",
@@ -25,7 +25,6 @@
         "src:star-tribune",
         "src:wcco",
         "src:mn-reformer",
-        "src:pbs",
         "src:kare11",
         "src:other-national"
       ],

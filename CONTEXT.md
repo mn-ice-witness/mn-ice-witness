@@ -103,16 +103,6 @@ This is not optional. Do not type `2026-01-22T12:00:00` or any other time from m
 
 Format: `path | date | city | category | title`. One file replaces reading multiple sources.
 
-### Trustworthiness Ratings
-**Use exactly ONE of these four values:**
-- `high`
-- `medium`
-- `low`
-- `no-news-media`
-- `corrected`
-
-**NO compound values** like "medium-high" or "low-medium". Pick one.
-
 ### Incident Types (Categories)
 **Exactly 6 types exist — these are the ONLY categories shown in UI:**
 - `citizens` - U.S. citizens **OR anyone with valid legal status** (green cards, work visas, work permits, refugees with authorization)
@@ -133,7 +123,7 @@ Multiple types allowed via comma: `type: citizens, schools-hospitals`
 **Note:** `affected_individual_citizenship` (us-citizen, legal-resident, asylum-seeker, undocumented) is metadata, NOT a category.
 
 ### No-News-Media Incidents
-Incidents with `trustworthiness: no-news-media` are **hidden from the main page** (both media gallery and list view). They appear only at `/no-news-media`, sorted by update date.
+The no-news-media category was retired. All incidents now appear in the main listing regardless of source coverage level.
 
 ### Bullet List Punctuation
 **Complete sentences get periods. Fragments don't.**
@@ -250,7 +240,7 @@ Read `adding-incidents.md` first. Check `not_use.md` for rejected stories.
 | ✅ Court ruling, release, new facts | YES + add `## Updates` entry | Story development readers care about |
 | ❌ Adding sources | NO | Just documentation, not story change |
 | ❌ Formatting/schema fixes | NO | Internal maintenance |
-| ❌ Trustworthiness rating change | NO | Editorial judgment |
+| ❌ Formatting/tag changes | NO | Internal maintenance |
 | ❌ Adding U.S. citizen details to existing incident | NO (unless adding Updates entry) | Enrichment, not new development |
 
 ### Updates Section Placement
@@ -265,7 +255,7 @@ Read `adding-incidents.md` first. Check `not_use.md` for rejected stories.
 ```
 
 ### Corrections Format
-**Corrections go in `## Correction` at the very bottom of the incident file.** When correcting an incident, add a `## Correction` section at the very end and change `trustworthiness: corrected`. The first line must be `**[Date]** — [brief description]` — this text appears on the `/corrections` page. See `corrected-incidents.md` for the full procedure.
+**Corrections go in `## Correction` at the very bottom of the incident file.** When correcting an incident, add a `## Correction` section at the very end. The first line must be `**[Date]** — [brief description]` — this text appears on the `/corrections` page. See `corrected-incidents.md` for the full procedure.
 
 ---
 
@@ -360,7 +350,7 @@ GIT_MN_ICE_FILES/
 |-----|----------|
 | `architecture.md` | System design, JS module reference, CSS structure, Python scripts, media pipeline |
 | `incident-schema.md` | Frontmatter schema, body structure, source formatting |
-| `adding-incidents.md` | Step-by-step guide, duplicate checking, trustworthiness criteria |
+| `adding-incidents.md` | Step-by-step guide, duplicate checking, source verification |
 | `search-filter-tags.md` | Valid search_tags values (topic + source), common mistakes, validation, disambiguation |
 | `hiding-incidents.md` | Temporarily hide drafts/unpublished incidents using underscore prefix |
 
@@ -387,7 +377,7 @@ GIT_MN_ICE_FILES/
 | Doc | Contents |
 |-----|----------|
 | `research-sources.md` | News sources, social accounts |
-| `source-tiers.md` | Source credibility tiers (Tier 1/2/3) for trustworthiness ratings |
+| `source-tiers.md` | Source credibility tiers (Tier 1/2/3) |
 | `researching-responses.md` | Finding DHS/ICE responses |
 | `daily-search-procedure.md` | Daily search workflow |
 | `not_use.md` | Rejected stories |

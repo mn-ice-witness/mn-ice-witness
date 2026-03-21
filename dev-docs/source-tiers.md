@@ -1,10 +1,10 @@
 # Source Credibility Tiers
 
-This document defines how we categorize news sources for trustworthiness assessments. The distinction is not about political bias but about **editorial standards, fact-checking processes, and accountability**.
+This document defines how we categorize news sources for credibility assessments. The distinction is not about political bias but about **editorial standards, fact-checking processes, and accountability**.
 
 ## Tier 1: Established News Organizations
 
-These outlets have professional editorial standards, fact-checking processes, corrections policies, and institutional accountability. Coverage from these sources generally supports a **HIGH** trustworthiness rating.
+These outlets have professional editorial standards, fact-checking processes, corrections policies, and institutional accountability. Coverage from these sources is highly credible.
 
 ### National
 - New York Times
@@ -47,7 +47,7 @@ These outlets have professional editorial standards, fact-checking processes, co
 
 ## Tier 2: Secondary News Sources
 
-These outlets may aggregate, summarize, or provide commentary on news. They often rely on Tier 1 reporting. Coverage **only from these sources** generally supports a **MEDIUM** trustworthiness rating.
+These outlets may aggregate, summarize, or provide commentary on news. They often rely on Tier 1 reporting. Coverage only from these sources has moderate credibility.
 
 ### News Aggregators
 - Raw Story
@@ -72,7 +72,7 @@ These outlets may aggregate, summarize, or provide commentary on news. They ofte
 
 ## Tier 3: Social Media & Content Farms
 
-These sources lack editorial oversight and may simply repost viral content without verification. Coverage **only from these sources** generally supports a **MEDIUM or LOW** trustworthiness rating, depending on video/documentation quality.
+These sources lack editorial oversight and may simply repost viral content without verification. Coverage only from these sources has lower credibility, depending on video/documentation quality.
 
 ### Social Media Platforms
 - TikTok
@@ -98,17 +98,9 @@ These sources lack editorial oversight and may simply repost viral content witho
 
 The issue is when Tier 3 sources are the **only** coverage—meaning no journalist has independently verified the claims.
 
-## How This Affects Trustworthiness Ratings
+## How This Affects Credibility
 
-| Source Mix                                  | Typical Rating           |
-| :-------------------------------------------| :------------------------|
-| 2+ Tier 1 sources                           | HIGH                     |
-| 1 Tier 1 + corroborating details            | HIGH                     |
-| Multiple Tier 2 sources                     | MEDIUM-HIGH (use MEDIUM) |
-| Tier 2 only                                 | MEDIUM                   |
-| Tier 3 with strong video/documentation      | MEDIUM                   |
-| Tier 3 only, no video                       | LOW                      |
-| Single social media post (no news coverage) | NO-NEWS-MEDIA            |
+Use source tiers to judge how much weight to give claims when writing incident summaries. Tier 1 sources can generally be cited confidently; Tier 3 sources should be corroborated before attributing specific claims.
 
 ## Why This Matters
 
@@ -129,8 +121,8 @@ Tier 3 sources often:
 
 ## Examples
 
-**HIGH trustworthiness:** "Incident covered by Star Tribune, Fox 9, and MPR News with named affected individual and official statements."
+**Strong credibility:** "Incident covered by Star Tribune, Fox 9, and MPR News with named affected individual and official statements."
 
-**MEDIUM trustworthiness:** "Viral TikTok video shows incident clearly. Multiple social media reposts and coverage by IBTimes UK. No Minnesota local news coverage found."
+**Moderate credibility:** "Viral TikTok video shows incident clearly. Multiple social media reposts and coverage by IBTimes UK. No Minnesota local news coverage found."
 
-**LOW trustworthiness:** "Single Facebook post claims incident occurred. No video, no named witnesses, no news coverage."
+**Weak credibility:** "Single Facebook post claims incident occurred. No video, no named witnesses, no news coverage."

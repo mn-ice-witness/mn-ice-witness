@@ -19,12 +19,6 @@ Remove an incident when:
 
 ### 1. Update the Frontmatter
 
-Change `trustworthiness` from its current value to `removed`:
-
-```yaml
-trustworthiness: removed
-```
-
 Update `last_updated` with a fresh timestamp:
 
 ```bash

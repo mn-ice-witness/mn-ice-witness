@@ -115,7 +115,7 @@ Compare incidents against moments looking for:
 - **Missing turning points** — Incidents with `notable: true` that don't have corresponding moments
 - **Chronological gaps** — Long stretches (5+ days) with incidents but no narrative moment
 - **Pattern representation** — Are all major enforcement patterns represented? (citizen detentions, child detentions, observer targeting, use of force, school raids, hospital incidents, workplace enforcement, legal challenges, federal response)
-- **Under-told stories** — Incidents with high trustworthiness and strong media coverage that could anchor a narrative beat
+- **Under-told stories** — Incidents with strong media coverage that could anchor a narrative beat
 
 ### Step 3: Check Narrative Flow
 

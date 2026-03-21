@@ -64,7 +64,6 @@ type: enum                    # Required. See types below
 status: enum                  # Required. ongoing | resolved | under-investigation
 affected_individual_citizenship: enum  # Required. See values below
 injuries: enum                # Required. none | minor | serious | fatal
-trustworthiness: enum         # Required. EXACTLY ONE OF: high | medium | low | no-news-media | corrected (no compound values like "medium-high")
 created: YYYY-MM-DDTHH:MM:SS  # Required. When incident was first added to site
 last_updated: YYYY-MM-DDTHH:MM:SS  # Required. When last MAJOR update occurred (see rules)
 ---
@@ -112,7 +111,6 @@ last_updated: YYYY-MM-DDTHH:MM:SS  # Required. When last MAJOR update occurred (
 | Merging duplicate incidents                    | ✅ YES                 |
 | Adding more sources                            | ❌ NO                  |
 | Formatting/schema changes                      | ❌ NO                  |
-| Trustworthiness rating change                  | ❌ NO                  |
 | Typo fixes                                     | ❌ NO                  |
 
 See `adding-incidents.md` for detailed guidance.
@@ -220,23 +218,6 @@ Both categories may involve U.S. citizens being detained. Choose based on WHY th
 # Incident Title
 ```
 
-### NO-NEWS-MEDIA Incidents - Special Formatting
-
-For incidents with `trustworthiness: no-news-media`, add two special elements:
-
-1. **Title suffix**: Add `(NO NEWS MEDIA)` to the end of the title
-2. **Warning message**: Add a bold italic disclaimer between title and Summary
-
-```markdown
-# Incident Title (NO NEWS MEDIA)
-
-***Documented by social media posts. If you know of press coverage, please [contact us](mailto:mnicewitness@gmail.com).***
-
-## Summary
-```
-
-This allows us to make editorial judgments about incidents worth documenting while clearly communicating the verification level to readers.
-
 ### Updates Section
 
 The Updates section is for **substantive story developments** - things that happened in the real world that change the story. Most incidents won't have an Updates section.
@@ -255,7 +236,6 @@ The Updates section is for **substantive story developments** - things that happ
 - Adding video/photo links (just add to Sources)
 - Federal response incidents (link in Related Incidents section instead)
 - CNN/Bellingcat video analysis (add to Sources, optionally mention in italic note)
-- Trustworthiness rating changes
 - Formatting fixes
 
 **Format:**
@@ -360,7 +340,6 @@ type: response
 status: resolved
 affected_individual_citizenship: unknown
 injuries: none
-trustworthiness: high
 last_updated: YYYY-MM-DDTHH:MM:SS
 ---
 
@@ -412,7 +391,6 @@ type: observers
 status: resolved
 affected_individual_citizenship: us-citizen
 injuries: minor
-trustworthiness: high
 created: 2026-01-13T14:30:00
 last_updated: 2026-01-13T14:30:00
 ---

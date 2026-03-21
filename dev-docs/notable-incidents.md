@@ -59,9 +59,8 @@ To mark an incident as notable, add `notable: true` to its frontmatter:
 ---
 date: 2026-01-12
 ...
-trustworthiness: high
 notable: true
 ---
 ```
 
-The star will appear to the left of the trustworthiness badge in the incident list.
+The star will appear in the incident list.

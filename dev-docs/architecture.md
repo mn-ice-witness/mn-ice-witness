@@ -325,10 +325,10 @@ This section describes what each JavaScript file does. Read this before modifyin
 **Sections:**
 | Section           | Contents             | Source                                                                |
 | :-----------------| :--------------------| :---------------------------------------------------------------------|
-| **CURRENT**       | Published incidents  | `docs/incidents/` files with trustworthiness != no-news-media/removed |
+| **CURRENT**       | Published incidents  | All `docs/incidents/` files                                           |
 | **NO-ADD**        | Rejected stories     | Auto-parsed from `dev-docs/not_use.md`                                |
-| **REMOVED**       | Retracted incidents  | Files with `trustworthiness: removed`                                 |
-| **NO-NEWS-MEDIA** | Unverified incidents | Files with `trustworthiness: no-news-media`                           |
+| **REMOVED**       | Retracted incidents  | Currently empty (placeholder)                                         |
+| **NO-NEWS-MEDIA** | Unverified incidents | Currently empty (placeholder)                                         |
 
 **Format:** `path | date | city | category | title`
 
