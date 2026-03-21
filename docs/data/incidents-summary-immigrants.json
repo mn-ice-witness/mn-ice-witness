@@ -999,7 +999,7 @@
       "filePath": "incidents/2026-01/20/2026-01-20-liam-ramos-detained.md",
       "title": "Five-Year-Old Liam Ramos Detained in Driveway, Allegedly Used as \"Bait\"",
       "summary": "Liam Conejo Ramos, a 5-year-old kindergartner, was detained by ICE with his father in their family driveway after arriving home from school on January 20, 2026. School officials allege agents used the child as \"bait\"\u2014instructing him to knock on the front door to see if anyone else was home. Superintendent Zena Stenvik held an emotional press conference asking, \"Why detain a 5-year-old? You can't tell me that this child is going to be classified as a violent criminal.\" Liam and his father were flown to the Dilley detention center in Texas, where they spent 12 days before a federal judge ordered their release.",
-      "latestUpdate": "Next court date set for [February 13](https://bringmethenews.com/minnesota-news/list-of-ice-raids-major-updates-in-minnesota-on-monday-feb-9); family could face deportation by end of that week. DHS [denies seeking quick end](https://www.bostonglobe.com/2026/02/09/nation/minnesota-immigration-liam-conejo-ramos/) to asylum claims.",
+      "latestUpdate": "[Immigration judge denies asylum](https://www.mprnews.org/story/2026/03/18/judge-orders-removal-of-liam-conejo-ramos-family-after-asylum-denial) and orders all four family members deported to Ecuador. Judge John Burns granted the government's motion to terminate the asylum claim; the family was unable to present evidence. Attorney Danielle Molliver [appeals to the Board of Immigration Appeals](https://www.npr.org/2026/03/20/nx-s1-5753981/liam-conejo-ramos-family-fights-immigration-judges-ruling-to-deport-them-to-ecuador); family remains in the U.S. during the appeal.",
       "correctionNote": null,
       "date": "2026-01-20",
       "time": "afternoon",
@@ -1009,11 +1009,11 @@
         "schools-hospitals",
         "immigrants"
       ],
-      "status": "resolved",
+      "status": "ongoing",
       "affectedIndividualCitizenship": "asylum-seeker",
       "injuries": "none",
       "created": "2026-01-22T12:00:00",
-      "lastUpdated": "2026-02-09T12:00:00",
+      "lastUpdated": "2026-03-21T12:32:33",
       "mediaCount": 0,
       "notable": false,
       "searchTags": [
@@ -1037,7 +1037,8 @@
         "src:kstp",
         "src:kare11",
         "src:ap",
-        "src:mn-reformer"
+        "src:mn-reformer",
+        "src:npr"
       ],
       "hasLocalMedia": true,
       "localMediaType": "image",

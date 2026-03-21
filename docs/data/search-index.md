@@ -16,10 +16,12 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (298 incidents)
+## CURRENT (300 incidents)
 
 Published incidents visible on the main site.
 
+- incidents/2026-03/18/2026-03-18-ice-dna-protesters.md | 2026-03-18 | Minneapolis | observers | NPR Investigation: ICE Collected DNA from Detained Protesters, Added to FBI Database
+- incidents/2026-03/10/2026-03-10-tostrud-racial-profiling-ruling.md | 2026-03-10 | Minneapolis | background | Trump-Appointed Judge Finds ICE Engaged in Unconstitutional Racial Profiling on at Least 23 Occasions
 - incidents/2026-03/04/2026-03-04-mpd-impact-report-surge.md | 2026-03-04 | Minneapolis | background | MPD Reports $5.2M Overtime in January, 50,000+ Calls, 9 Officers Injured During Metro Surge
 - incidents/2026-03/03/2026-03-03-noem-senate-testimony-650-agents-fired.md | 2026-03-03 | Washington, D.C. | response | Noem Testifies 650 Agents Remain in Minnesota; Defends 'Domestic Terrorism' Claims; Fired Two Days Later
 - incidents/2026-03/03/2026-03-03-judge-bryan-contempt-28-cases.md | 2026-03-03 | St. Paul | background | Judge Bryan Summons U.S. Attorney for Contempt Over Unreturned Property in 28 Cases

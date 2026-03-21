@@ -1,6 +1,43 @@
 {
   "incidents": [
     {
+      "filePath": "incidents/2026-03/10/2026-03-10-tostrud-racial-profiling-ruling.md",
+      "title": "Trump-Appointed Judge Finds ICE Engaged in Unconstitutional Racial Profiling on at Least 23 Occasions",
+      "summary": "In a 111-page ruling on the ACLU's Hussen v. Noem lawsuit, Trump-appointed U.S. District Judge Eric Tostrud found that ICE and CBP agents \"likely engaged in unconstitutional policies\" during Operation Metro Surge. Of 34 stops reviewed, only 5 had reasonable justification \u2014 at least 23 people were detained based solely on their race or ethnicity. Despite these findings, Tostrud declined to issue a preliminary injunction, citing the drawdown of agents. The case proceeds to trial.",
+      "latestUpdate": null,
+      "correctionNote": null,
+      "date": "2026-03-10",
+      "time": "unknown",
+      "location": "U.S. District Court, Minneapolis",
+      "city": "Minneapolis",
+      "type": "background",
+      "status": "resolved",
+      "affectedIndividualCitizenship": "various",
+      "injuries": "none",
+      "created": "2026-03-21T12:32:33",
+      "lastUpdated": "2026-03-21T12:32:33",
+      "mediaCount": 0,
+      "notable": false,
+      "searchTags": [
+        "citizen-check",
+        "src:fox9",
+        "src:mpr",
+        "src:star-tribune",
+        "src:wcco",
+        "src:mn-reformer",
+        "src:pbs",
+        "src:kare11",
+        "src:other-national"
+      ],
+      "hasLocalMedia": false,
+      "localMediaType": null,
+      "localMediaPath": null,
+      "localMediaOgPath": null,
+      "localMediaFiles": [],
+      "aspectRatio": null,
+      "mediaVersion": null
+    },
+    {
       "filePath": "incidents/2026-03/04/2026-03-04-mpd-impact-report-surge.md",
       "title": "MPD Reports $5.2M Overtime in January, 50,000+ Calls, 9 Officers Injured During Metro Surge",
       "summary": "The Minneapolis Police Department presented an impact report to the City Council on March 4 documenting the toll of Operation Metro Surge (Dec 4, 2025 \u2013 Feb 15, 2026). MPD spent $5.2 million in overtime from January 7 to February 1 alone \u2014 double the amount budgeted for overtime for the entire year \u2014 while handling over 50,000 calls with 600 officers. Nine officers were injured, 14 filed PTSD cases, and 8 retired during the surge. The report documented 12 crashes between federal agents and the public, 2 fatal and 1 non-fatal shooting, and 7 chemical irritant deployments. Council members pressed Chief Brian O'Hara on why MPD didn't intervene against federal agents. O'Hara responded: \"It is not possible, if federal law enforcement is present making arrests, for us to physically stop them from doing that.\"",
