@@ -16,7 +16,7 @@ When searching for incidents or checking if something already exists:
 
 ---
 
-## CURRENT (300 incidents)
+## CURRENT (301 incidents)
 
 Published incidents visible on the main site.
 
@@ -121,6 +121,7 @@ Published incidents visible on the main site.
 - incidents/2026-01/22/2026-01-22-amundson-zemien-seizure-first-responders.md | 2026-01-22 | Brooklyn Park | observers | Two Detained Women Become First Responders After ICE Agent Has Seizure
 - incidents/2026-01/22/2026-01-22-torture-survivors-asylum-detained.md | 2026-01-22 | St. Paul | immigrants | Four Torture Survivors with Pending Asylum Cases Detained by ICE
 - incidents/2026-01/22/2026-01-22-cunningham-public-health-declaration.md | 2026-01-22 | St. Paul | schools-hospitals | Minnesota Health Commissioner: Operation Metro Surge Causing Measurable Public Health Damage Statewide
+- incidents/2026-01/22/2026-01-22-paul-johnson-gas-station-bondi-photo.md | 2026-01-22 | Minneapolis | observers | Paul Johnson Beaten at Gas Station; Bondi Posts "Trophy" Hospital Photo
 - incidents/2026-01/22/2026-01-22-sullivan-elementary-ice-food-flyers.md | 2026-01-22 | Minneapolis | schools-hospitals | School Warns ICE Distributing Food Support Flyers (NO NEWS MEDIA)
 - incidents/2026-01/22/2026-01-22-velasco-family-hopkins.md | 2026-01-22 | Hopkins | immigrants | Hopkins Family of Four Detained; Returned After ICE Violates Court Order
 - incidents/2026-01/21/2026-01-21-bovino-smoke-canister-playground.md | 2026-01-21 | Minneapolis | schools-hospitals | Border Patrol Commander Greg Bovino Deploys Smoke Canister Near School at Dismissal

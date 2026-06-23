@@ -851,6 +851,38 @@
       "mediaVersion": 1769912968
     },
     {
+      "filePath": "incidents/2026-01/22/2026-01-22-paul-johnson-gas-station-bondi-photo.md",
+      "title": "Paul Johnson Beaten at Gas Station; Bondi Posts \"Trophy\" Hospital Photo",
+      "summary": "North Minneapolis resident Paul Johnson, a U.S. citizen, was detained by federal agents at the Super USA Deli parking lot on Jan. 22, 2026, sustaining a traumatic brain injury and a shoulder injury that his attorney said will require reconstructive surgery. While Johnson was hospitalized, agents stood over his bed taking photographs on personal cellphones; one image \u2014 showing him shackled with his arm in a sling \u2014 was posted on X by U.S. Attorney General Pam Bondi alongside a caption labeling 16 Minnesota defendants \"rioters.\" His attorney says U.S. Marshals Service policy forbids posing prisoners for photos except for identification.",
+      "latestUpdate": "[Star Tribune reports DOJ walking back assault charges to misdemeanors](https://www.startribune.com/after-assault-allegations-doj-walks-back-charges-against-ice-protesters/601578511) in roughly 20 cases, including Johnson's; former federal prosecutors say the move indicates the evidence does not support the original felony allegations. Charges against Johnson remained pending as of early June.",
+      "correctionNote": null,
+      "date": "2026-01-22",
+      "time": "unknown",
+      "location": "Super USA Deli parking lot, North Minneapolis",
+      "city": "Minneapolis",
+      "type": "observers",
+      "status": "ongoing",
+      "affectedIndividualCitizenship": "us-citizen",
+      "injuries": "serious",
+      "created": "2026-06-23T14:40:28",
+      "lastUpdated": "2026-06-23T14:40:28",
+      "mediaCount": 0,
+      "notable": false,
+      "searchTags": [
+        "us-citizen",
+        "observer-detained",
+        "excessive-force",
+        "src:star-tribune"
+      ],
+      "hasLocalMedia": false,
+      "localMediaType": null,
+      "localMediaPath": null,
+      "localMediaOgPath": null,
+      "localMediaFiles": [],
+      "aspectRatio": null,
+      "mediaVersion": null
+    },
+    {
       "filePath": "incidents/2026-01/21/2026-01-21-katie-henly-home-photographed.md",
       "title": "ICE Vehicles Stop at Observer's Home; Agent Photographs House While Another Holds AR-15",
       "summary": "Katie Henly, 40, a project manager in local government, went out on January 21 to monitor suspected ICE agents. She identified two vehicles, texted their plates to her monitoring group to confirm they were federal, and began following them. The vehicles turned onto her street and stopped at her house, where an agent poked a camera out the SUV window and photographed her home. Henly continued following the SUV to a stop sign, where four agents exited; one held a camera and another carried an AR-15-style rifle. Henly filed a sworn declaration in Tincher v. Noem.",
