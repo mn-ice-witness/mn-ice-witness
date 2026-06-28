@@ -34,7 +34,7 @@
 
 <h2 id="what-this-site-documents">What This Site Documents <a href="#what-this-site-documents" class="header-link" title="Copy link"><svg width="16" height="16"><use href="#icon-link"/></svg></a></h2>
 
-This site compiles sourced, verified incidents from Minnesota during Operation Metro Surge (December 2025 – present).
+This site compiles sourced, verified incidents from Minnesota during Operation Metro Surge (December 2025 – present). You can <a href="/mn-ice-witness-all-incidents.tar.gz" download>download all incident files</a> as a tarball of markdown documents.
 
 ### Categories
 
