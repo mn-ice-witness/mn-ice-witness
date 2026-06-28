@@ -6,7 +6,7 @@
 
 <p class="about-intro"><strong>Archival notice:</strong> As of March 21, 2026, this site has entered archival mode and is no longer being actively updated. Existing entries remain available as a permanent record, and we may occasionally add a late-breaking historical incident, but routine daily updates have stopped.</p>
 
-<p class="about-intro"><span class="about-last-updated">Last updated: June 23, 2026</span></p>
+<p class="about-intro"><span class="about-last-updated">Last updated: June 28, 2026</span></p>
 
 <p class="about-social"><span class="about-follow-label">Follow Us:</span>
 <a href="https://www.facebook.com/profile.php?id=61586835122502" target="_blank" title="Follow on Facebook"><svg width="22" height="22"><use href="#icon-facebook"/></svg></a>
